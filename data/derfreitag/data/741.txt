@@ -1,3 +1,93 @@
-Black Lives Matter ist die neue große Bürgerrechtsbewegung in Amerika.
-Als im Sommer 2013 George Zimmerman freigesprochen wurde, der den 17-jährigen schwarzen Schüler Trayvon Martin erschossen hatte, sammelten sich ihre Anhänger unter dem Hashtag #BlackLivesMatter.
-Jetzt erzählt eine der Gründerinnen ihre Geschichte
+Machtapparat: Ali Jelveh, „Chief Revolutionary Officer“ der Hamburger Firma Protonet, mit seinem Webserver Maya
+Foto: Presse
+In die USA darf Maya nicht ohne Weiteres einreisen.
+Der Zoll will dann wissen, ob sie als Bombe missbraucht und ob mit ihr Uran angereichert werden kann.
+Ihre Väter in Hamburg finden das zwar nervig, aber für den Moment kann es ihnen egal sein.
+Noch kommen sie mit der Produktion von Mayas für den deutschen Markt kaum hinterher, ins Ausland verkaufen sie nur auf besonderen Wunsch.
+Dieser Artikel erschien in Ausgabe 52/2014 vom 25.12.2014 Die aktuelle Ausgabe des Freitag erhalten Sie am Kiosk.
+Oder sichern Sie sich hier 3 Wochen gratis
+Maya ist ein sechseckiger Zylinder, knallorange, und wer wissen möchte, was in ihrem Gehäuse steckt, der kann sie ganz einfach aufschrauben.
+Sie ist ein Webserver für den Hausgebrauch oder für kleine Teams, die ihre Daten nicht irgendeinem Clouddienst anvertrauen wollen.
+Entwickelt hat sie ein Start-up-Unternehmen aus Hamburg, das sich Protonet nennt.
+Man kann auf Maya Dateien und Nachrichten austauschen, Termine teilen und ziemlich sicher sein, dass keiner ungewollt mitliest.
+Tausend dieser Webserver will Protonet bis Jahresende produziert haben.
+Ein Teil der Fertigung findet direkt im Büro in Hamburg-Altona statt.
+In dem Komplex, in dem kürzlich ein umstrittener Innenstadt-IKEA eröffnet wurde, hat Protonet einige Räume gemietet.
+Ein Zimmer fungiert als mechanische Werkstätte, im Großraum nebenan stehen neben den Schreibtischen zwei 3-D-Drucker.
+Ansonsten ist es dort recht unübersichtlich; wo keiner sitzt, stapeln sich meterhoch Kartons.
+Das alles ist auch das Resultat einer Crowdfundingaktion.
+Im Juni stellte Protonet-Chef Ali Jelveh, der sich Chief Revolutionary Officer nennt, Maya auf der Crowdfundingplattform Seedmatch vor.
+Drei Millionen Euro kamen innerhalb von 133 Stunden zusammen.
+Europarekord.
+Das Café im Erdgeschoss betreibt Ali Jelvehs Frau.
+Vor fünf Jahren hat Jelveh geheiratet.
+Was jeder weiß, der das Video der Ansprache gesehen hat, die er im September hielt, als die ersten Mayas verkaufsfertig waren.
+Jelveh steht in dem Video in einem schwarzen Firmen-T-Shirt – Aufdruck: I  my data – vor 300 Gästen und erzählt, wie ihm der Standesbeamte damals diese eine Frage stellte, die sein Leben veränderte.
+Irgendwie kriegt er die Kurve von „Ja, ich will“ zum Thema Datenhoheit, an Pathos spart er jedenfalls nicht.
+Was Jelveh sehr gut verstanden hat: Um etwas zu erreichen, braucht es eine Geschichte.
+Eine „unglaublich unwahrscheinliche“ Geschichte, sagt er.
+Seine eigene beginnt 1980 im Iran.
+Als er drei wird, zieht seine Familie nach Frankreich, vier Jahre später nach Deutschland.
+Er studiert Physik, weil er „verstehen will, wie die Welt funktioniert, um sie verändern zu können“.
+Und versteht: „Keiner weiß, wie sie funktioniert.
+Es gibt nur Geschichten, die funktionieren.“ Er wendet sich von der Teilchenphysik ab und verdient sein Geld mit dem, was er sich selbst beigebracht hat, Programmieren.
+Einen Computer hat die Familie schon sehr früh im Haus.
+In der vierten Klasse reicht er stolz eine Hausaufgabe ein, die er mit dem Nadeldrucker ausgedruckt hat.
+Und muss sie von Hand abschreiben.
+„Niemals wird man Hausaufgaben ausgedruckt abgeben können, Ali“, sagt seine Lehrerin.
+Kapital aus Ängsten
+Die Geschichte, die er mit Protonet erzählt, ist im Prinzip simpel: Was wäre, wenn jeder Mensch ein Stück des Internets besäße?
+Wer über die Infrastruktur verfügt, sagt Jelveh, entscheidet, wer was sehen darf.
+Und welche Geräte miteinander sprechen.
+In der gefühligeren Version vergleicht er Maya mit dem Laserschwert aus Star Wars: Stell dir vor, jemand baut einen Talisman, der dir deine Daten zurückgeben kann.
+Eines Abends, im August 2008, sagt Ali Jelveh, habe er sich selbst gelangweilt, als er mal wieder von seiner Idee erzählte.
+Damals arbeitete er bei Xing, einem sozialen Netzwerk, das sein Geld damit verdient, dass Millionen Menschen Nutzerprofile darauf anlegen, weil sie einen besseren oder überhaupt einen Job suchen.
+So ziemlich genau das Gegenteil von dem also, was Protonet heute verkauft.
+Aber er fand dort einen Kollegen, der die Sache mit ihm durchzog.
+Christopher Blum sieht ihre Geschichte so: „Luck favors the bold.“ Das Glück ist mit den Mutigen.
+In der Erfolgsgeschichte von Protonet gibt es einen dritten Protagonisten: den Whistleblower Edward Snowden, der die Abhörmanöver der NSA enthüllte.
+Ohne Snowden hätten sich wohl kaum 1.827 Menschen entschieden, in die Produktion von Maya zu investieren.
+Datensicherheit ist ein Zukunftsmarkt, auf dem aus den Ängsten der Internetnutzer Kapital geschlagen werden kann.
+Ali Jelveh ist es wichtig, klarzustellen, dass sie keine Securityfirma sind.
+Ihr Ziel sei die Dezentralisierung des Netzes.
+So, wie mit der PC-Revolution in den 90ern Computer in jeden Haushalt Einzug hielten, schwebt ihnen vor, dass es in einige Jahren normal sein wird, einen eigenen Webserver – und damit alle Funktionalitäten der Cloud – zu Hause zu haben, anstatt ominöse Dienste zu nutzen.
+An dieser Vision arbeiten nicht nur kommerzielle Start-ups, sondern auch Hacker und Künstler.
+Einer von ihnen ist der Russe Danja Vasiliev, der seit fünf Jahren in Berlin lebt.
+Zu unserem Treffen hat er eine elegante Schachtel mitgebracht, darin liegt ein kleines Elektrogehäuse mit Stecker, auf dem das Logo von Superglue abgebildet ist.
+Es handelt sich um ein Standardgerät, das man im Elektromarkt für nicht einmal 30 Euro bekommt.
+Eigentlich ist es als temporäre Schnittstelle zwischen Laptops und Routern oder mehreren Laptops gedacht.
+Mit einer anderen Software bespielt, kann es aber noch viel mehr.
+„In Wahrheit“, sagt Vasiliev, „sind viele solcher Geräte Universalcomputer.“ Er und seine Kollegen haben ein alternatives Betriebssystem programmiert.
+Sobald man es installiert, verwandelt sich das Ding mit dem Stecker in einen Webserver, auf dem der Besitzer eine eigene Webseite hosten kann.
+Superglue bietet außerdem ein Add-on an, mit dem jeder ziemlich einfach und ohne feste Formatvorgaben eine Webseite erstellen kann.
+Auch Vasiliev hat nicht IT studiert.
+In seiner Geburtsstadt St. Petersburg ging er auf die Kunsthochschule, später spezialisierte er sich in den Niederlanden auf Medienkunst.
+1992, da war er 14, besorgte sein Vater einen Computer aus dem Ausland.
+Seitdem ist er ein Frickler.
+Neben Vasiliev arbeiten vier weitere Designer und Künstler an Superglue.
+Die Idee dahinter ist ähnlich simpel wie die von Protonet: Wer eine eigene Webseite auf einem eigenen Webserver hostet, hat die volle Kontrolle über diese Daten.
+Er entscheidet, was er löscht und was er behalten möchte.
+Vasiliev geht es nicht nur um das, was wir geheim halten möchten, sondern auch um Daten, die wir nicht verlieren wollen.
+Kommerzielle Dienste, sagt er, seien wie alle kapitalistischen Unternehmen auf Wachstum aus.
+Sobald das Wachstum stagniert, werden sie eingestellt und die Daten der Nutzer sind weg.
+Als Myspace geschlossen wurde, war das der Fall.
+„Heute denken wir, Youtube sei unsterblich.
+Ist es aber natürlich nicht.“
+Zu dumm
+Noch weniger will er akzeptieren, dass Konzerne wie Google oder Apple die Nutzer zur Dummheit erziehen.
+„Die Technologie entwickelte sich so rasend schnell, dass die meisten erst gar nicht mehr versuchen, sie zu verstehen.“ Fatal sei das, findet Vasiliev, als würde man auf die Straße gehen, ohne die Regeln der Schwerkraft zu kennen.
+Bei der Arbeit mit Superglue lerne der Nutzer nach und nach mehr darüber, wie ein Computernetzwerk funktioniert und wo Daten gespeichert werden.
+„Es kann nicht sein, dass nur ein paar wenige die einfachsten Prinzipien dieser Technik verstehen, die so großen Einfluss auf alles hat.“
+Im Café in Altona verliert Ali Jelveh im Laufe des Gesprächs langsam den Faden.
+Fast eine Stunde läuft das Band schon, als er immer wieder ins Leere zu starren beginnt.
+In solchen Momenten bekommt man eine Ahnung, wie anstrengend es sein muss, Revolutionsoffizier mit 36 Mitarbeitern zu sein.
+Ein paar Türen weiter führt ein Aufzug zu einem weiteren Großraumbüro, in dem die meisten Protonetler arbeiten.
+Schuhe müssen des Parketts wegen am Eingang ausgezogen werden.
+Thomas Reimers, der hier wartet, ist CMO von Protonet – Chief Marketing Officer.
+Auf einem Laptop zeigt er die ersten Bilder einer Kampagne, die im Januar starten soll.
+Warum, fragt Reimers, sei Datenhoheit eigentlich abends beim Bier im angrenzenden Szeneviertel noch kein Tischgespräch?
+Ihre Kampagne soll das ändern.
+Es ist eine politische Kampagne, die behauptet, es werde eine Gesetzesänderung in Deutschland geben, die Unternehmen dazu zwingt, alle Daten offenzulegen, die sie über ihre Nutzer gesammelt haben.
+Wunschdenken also.
+Oder, wie Ali Jelveh sagen würde: „Es geht darum, zu vergessen, dass Dinge eigentlich nicht gehen.“
+Teilen:

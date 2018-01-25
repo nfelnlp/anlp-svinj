@@ -1,3 +1,88 @@
-Black Lives Matter ist die neue große Bürgerrechtsbewegung in Amerika.
-Als im Sommer 2013 George Zimmerman freigesprochen wurde, der den 17-jährigen schwarzen Schüler Trayvon Martin erschossen hatte, sammelten sich ihre Anhänger unter dem Hashtag #BlackLivesMatter.
-Jetzt erzählt eine der Gründerinnen ihre Geschichte
+Drunt in der grünen Au, steht … ja was nur?
+Montage: Der Freitag, Foto: Volker Z / Fotolia
+Stuttgart wird umgebaut.
+Das Verkehrs- und Städtebauprojekt Stuttgart 21 hat die Bürger auf die Barrikaden getrieben, es hat die Landtagswahlen beeinflusst und den Begriff „Wutbürger“ zum Wort des Jahres 2010 gemacht.
+Inzwischen sind die Proteste deutlich leiser geworden, und in den überregionalen Medien ist nur noch selten etwas über den Umbau zu lesen, doch an die Tausend Bahnhofs-Gegner demonstrieren nach wie vor jeden Montag gegen das Projekt.
+Stuttgart 21, das sind im Baujargon die Planfeststellungsabschnitte 1.1 bis 1.6b mit Erweiterungsoptionen wie T-Spange oder P-Option, die Zentrumsfläche der Stuttgarter Innenstadt mit ihren Gebieten A1 bis E.
+In einem Imagefilm sieht man eine zufriedene Frau in ein virtuelles Bahnhofsgebäude schlendern; es wirkt steril, fast mutet es wie eine Raumstation aus einem Science-Fiction-Film an.
+Das Informationszentrum Turmforum wirbt in einer Multimedia-Ausstellung über vier Etagen mit Filmen, Modellen und Plänen – und verschlingt jährlich Kosten von rund 900.000 Euro.
+Es ist also nicht so, dass man sich keine Mühe gegeben hätte, die Bürger über die Planungen zu informieren.
+Nur hält sich die Vorstellungskraft des Menschen in Grenzen.
+Modelle, Filme, Pläne, interaktive Karten und dumpfe PR – wie ein Bauprojekt sich am Ende in die bestehende Landschaft einfügen wird, ist schwer vorstellbar.
+Das soll sich ändern.
+Wissenschaftler bereiten Augmented-Reality-Apps für Smartphones oder Tablet-PCs vor, mit denen politische Entscheidungsträger und betroffene Anwohner ohne Fachkenntnisse ein Bauprojekt realitätsnah vorab regelrecht erleben können.
+Rekonstruiert aus Ruinen
+Augmented Reality (AR) bedeutet „erweiterte Realität“.
+Das Prinzip ist recht einfach: Man hält eine Smartphone-Kamera zum Beispiel auf eine abrissreife Fabrik und sieht auf dem Bildschirm ein Modell des geplanten Neubaus – es wird in das aktuelle Kamerabild hineinprojiziert.
+Der Nutzer kann sich dem Gebäude nähern, er kann es sich von allen Seiten ansehen oder aus der Ferne als Panorama betrachten.
+Das projizierte Modell passt sich der realen Perspektive an.
+Erste AR-Apps dieser Art wurden bereits erprobt.
+1999 verabschiedete Finnland ein Landnutzungs- und Baugesetz, das in nahezu allen Planungsphasen bei Bauprojekten von öffentlichem Interesse Transparenz und Bürgerbeteiligung vorsieht.
+Bevor sich die Anwohner, Landbesitzer und städtischen Entscheidungsträger für ein Bauprojekt entscheiden, gibt es meist eine Begehung.
+Man spaziert auf der geplanten Baustelle herum und diskutiert dabei die Pläne und die Auswirkungen des Baus auf die Umgebung.
+Das finnische Forschungszentrum VTT Technical Research Centre hat Ende 2011 bei einer solchen Begehung erstmals eine AR-Anwendung vorgestellt.
+Geplant ist ein Hotel- und ein Konferenzkomplex in dem Ort Raseborg, 80 Kilometer westlich von Helsinki.
+Die Neubauten entstehen in der Nähe einer historischen Eisenhütte.
+Die AR-Anwendung projiziert alle rund 50 geplanten Gebäude in die reale Umwelt.
+Die Forscher führten die Teilnehmer zu sogenannten Hotspots.
+An diesen Hotspots gibt es Referenzobjekte, zum Beispiel einen hohen Schornstein.
+Die Nutzer halten ihre Smartphone-Kamera auf den Schornstein, um die AR-Anwendung zu kalibrieren.
+Die Software kann die genaue Position des Smartphones berechnen, da die Daten des Schornsteins bereits vorab erfasst wurden.
+Einmal kalibriert, können die Nutzer am Hotspot ihr Smartphone beliebig bewegen und sich die geplanten Bauwerke in der natürlichen Umgebung ansehen.
+Die Gruppe machte an mehreren solcher Hotspots halt.
+„Viele Teilnehmer erklärten, dass sie mit der App den Plan besser verstanden haben“, sagt Charles Woodward vom VTT Technical Research Centre.
+„Sie erleichtert die Entscheidung für oder gegen einen Entwurf“.
+Die Leute würden in der Egoperspektive einen Bebauungsplan natürlicher erleben als beispielsweise auf dreidimensionalen Illustrationen.
+Außerdem könnten die Teilnehmer die Beziehungen zwischen den Gebäuden und ihre Proportionen besser einschätzen.
+Architektur und Stadtplanung sind der jüngste Trend in der Augmented-Reality-Forschung.
+Bisher waren vor allem Anwendungen wie Layar, Wikitude oder junaio populär.
+Sie projizieren Informationen etwa zu interessanten Sehenswürdigkeiten auf das Smartphone – was besonders für Touristen reizvoll ist.
+Die Projizierung von Bauentwürfen richtet sich hingegen gezielt an die Einwohner der Städte.
+Am deutlichsten zeigt das eine App, die Forscher des HIT Lab NZ der Universität Canterbury im neuseeländischen Christchurch realisiert haben.
+Die Stadt Christchurch wurde am 22. Februar 2011 von einem schweren Erdbeben erschüttert.
+Das Epizentrum lag nur 10 Kilometer südöstlich des Stadtzentrums.
+Die Schäden waren gewaltig: 185 Menschen kamen ums Leben, viele denkmalgeschützte Bauten wie die Christ Church Cathedral stürzten teilweise oder ganz ein – bis zu 10.000 Häuser sind für immer zerstört.
+CityViewAR ist eine mobile AR-Anwendung, die eigentlich dafür entwickelt wurde, die Stadt, wie sie vor dem Erdbeben war, der Nachwelt zu erhalten.
+Mithilfe von Baumodellen und einem städtischen Fotoarchiv rekonstruierten die Forscher mehrere Hundert Häuser.
+Die Nutzer der App können durch die Straßen gehen und mit ihrem Smartphone über die Schutthaufen und Ruinen die einstigen Gebäuden projizieren – und so in Erinnerung behalten.
+„Es ist das erste Mal, dass AR für die virtuelle Rekonstruktion einer durch ein Erdbeben beschädigten Stadt genutzt wurde“, sagt Mark Billinghurst, Direktor der Forschungseinrichtung.
+Doch dabei blieb es nicht.
+Am 30 Juli 2012 wurde der Wiederaufbauplan der Stadt veröffentlicht.
+„Die Stadtverwaltung war von unserer Anwendung so beeindruckt, dass sie diese bei der Veröffentlichung des neuen Plans vorführten“, sagt Billinghurst.
+„Wir haben dafür eigens hypothetische Gebäude wie ein neues Stadion in die App eingebaut“.
+Derzeit setzt sein Team weitere Eigenentwürfe für künftige Gebäude als Platzhalter in die Anwendung ein.
+Wenn der Stadt die ersten Wiederaufbaupläne für einzelne Gebäude vorliegen, ersetzen sie die Dummy-Modelle in der Software.
+Dann können die Bewohner der Stadt am Smartphone ihr Feedback zu den Entwürfen eingeben und mitunter sogar darüber abstimmen.
+Abstimmen leicht gemacht
+Ein ganz ähnliches Projekt entwickeln die Landschaftsarchitekten und Umweltplaner der Hochschule Anhalt gemeinsam mit dem Fraunhofer-Institut für Fabrikbetrieb und -automatisierung IFF in Magdeburg.
+Die Forscher wollen damit ganz gezielt die Kommunikation von Architektur-Projekten erleichtern.
+„Ein Architekt kann mit AR einem Laien anschaulich seine Pläne präsentieren“, sagt auch René Krug von der Hochschule Anhalt.
+„Beide Seiten können dann mit einem Tablet gemeinsam den Ort begehen – oder jeder für sich, um sich dann über ein integriertes Kommunikationstool auszutauschen“.
+Geplant sei ebenfalls, eine Abstimmungsmöglichkeit für öffentliche Bauprojekte einzubauen.
+„Die Stadtverwaltung kann bei partizipativen Verfahren viel leichter das Feedback der Bürger einholen und diese von Beginn an in die Entscheidungsfindung einbinden“, sagt Krug.
+Die App soll erstmals bei der Planung eines Studentenhauses der Hochschule Anhalt zum Einsatz kommen – die Studierenden sollen so leichter über die Entwürfe mitentscheiden können.
+Ein Problem muss die weltweite AR-Forschung allerdings noch lösen: Um ein geplantes Gebäude genau an die Stelle zu projizieren, an der man es in der Natur haben will, muss das Smartphone genau wissen, wo sich der Betrachter befindet und in welche Richtung er sein mobiles Gerät hält.
+Die meisten Geräte verfügen zwar über GPS, Kompass und Beschleunigungssensor, doch damit ist Positionsbestimmung nur auf einige Meter genau möglich.
+Das projizierte Gebäude kann dann schon mal fünf Meter versetzt erscheinen.
+In Finnland löste man das Problem durch Hotspots, in Neuseeland konnten die Nutzer die virtuellen Gebäude mit dem Finger auf dem Touchscreen an den korrekten Platz schieben – doch das ist keine Dauerlösung.
+An diesem Problem arbeitet unter anderem Tobias Höllerer, Leiter des Four Eyes Labs der Universität Kalifornien in Santa Barbara.
+Er setzt auf „Computervision“: Dabei wird die reale Umgebung, zum Beispiel eine Straße, zunächst mit einer 360-Grad-Kamera aufgenommen.
+Die Software analysiert die Aufnahmen: Sie sucht nach sogenannten „High-Contrast Points“, also Kontrastunterschieden.
+Mehrere Tausende solcher Features macht die Software je Bildausschnitt aus.
+Geht nun ein Anwender erneut mit seinem Smartphone diesen Weg entlang und richtet es auf ein bestimmtes Haus, nutzt die Software zunächst GPS, um die ungefähre Position des Nutzers zu finden.
+Dann folgt der Vergleich der Kontrastmuster des aktuellen Bildausschnitts mit den zuvor aufgenommenen – und ermöglicht eine exakte Positionsfindung.
+„Die neuen Aufnahmen mit dem Smartphone werden ebenfalls zum Server geschickt“, sagt Höllerer.
+„So wird mit jedem Nutzer die Software noch genauer, da mehr Daten vorliegen.“ Durch dieses Verfahren kann prinzipiell jede Umgebung für Augmented Reality erschlossen werden.
+Beim Fraunhofer-Institut für Graphische Datenverarbeitung in Darmstadt hat man eine nahezu identische Methode entwickelt – auch für Indoor-Szenarien.
+Das Projekt Life BC ist eine Augmented-Reality-Anwendung für Gebäudemanager.
+Das besondere an dieser Software ist, dass sie das „Building Information Modeling“ (BIM) von Gebäuden nutzt.
+BIM ist ein virtuelles Gebäudemodell, das alle Räume, Fenster, Türen und sogar Kabel und Rohrleitungen berücksichtigt.
+Diese Daten integrieren die Fraunhofer-Forscher in Life BC – so kann ein Gebäudemanager sein Smartphone auf eine beliebige Wand im Gebäude richten, und die Software projiziert die dahinterlaufenden Kabel, Rohre oder sogar die Wandbeschaffenheit auf den Bildschirm.
+Wie bei Höllerers Methode vergleicht die Software den Bildausschnitt, hier allerdings mit den BIM-Daten, sodass eine Begehung vorab nicht einmal notwendig ist.
+Gleichzeitig sendet das Mobilgerät auch Daten zurück – wenn der Gebäudemanager zum Beispiel einen Wasserschaden an der Wand entdeckt, kann er ihn mit dem Smartphone aufnehmen und die genaue Position in das BIM einbinden.
+Ein Handwerker würde darauf zugreifen und wiederum seine Arbeiten protokollieren
+Charles Woodward ist überzeugt, dass gerade das einfache und anschauliche Erleben eines Plans die Bürger dazu motiviere, sich am Planungsverfahren von Anfang an zu beteiligen.
+Darüber hinaus fühlten sie sich besser informiert.
+Und wer weiß: Vielleicht wäre Stuttgart 21 anders verlaufen, hätte man bereits in der Frühphase Augmented-Reality-Techniken zur Verfügung gehabt.
+Boris Hänßler hat im Freitag zuletzt über eine andere technische Entgrenzung geschrieben: über Sex mit Robotern
+Teilen:

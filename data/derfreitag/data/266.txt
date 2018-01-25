@@ -1,3 +1,44 @@
-Black Lives Matter ist die neue große Bürgerrechtsbewegung in Amerika.
-Als im Sommer 2013 George Zimmerman freigesprochen wurde, der den 17-jährigen schwarzen Schüler Trayvon Martin erschossen hatte, sammelten sich ihre Anhänger unter dem Hashtag #BlackLivesMatter.
-Jetzt erzählt eine der Gründerinnen ihre Geschichte
+Auch von Netflix war während des DDoS-Angriffs nicht mehr viel zu sehen
+Bild: Pascal Le Segretain/Getty Images
+Vor Kurzem kam es zu einem groß angelegten DDoS-Angriff auf den DNS-Provider DynDNS .
+In der Folgen waren zahlreiche, teils sehr populäre Internet-Dienste zeitweise nicht zu erreichen.
+Durchgeführt wurde die Attacke, soweit bislang bekannt, durch gekaperte Haushaltsgeräte und Unterhaltungselektronik – das „Internet of Things“ (IoT) zeigt seine Schattenseite.
+Der Vorfall zeigt, dass es höchste Zeit wird, kritische Infrastrukturen besser abzusichern.
+Zudem sollten insbesondere auch beim IoT und bei sogenannten „Smart Homes“ Sicherheits- und Datenschutzaspekte stärker berücksichtigt werden.
+Das DNS: Das Navigationssystem für das Internet
+Das Domain Name System (DNS) ist dafür da, durch IP-Adressen bezeichneten Webservern die korrekten Domain-Namen zuzuordnen.
+Gibt also ein Nutzer eine bestimmte Website-Adresse in seinen Browser ein, schlägt das DNS die dazu passende IP-Adresse des Servers nach.
+Es funktioniert somit quasi wie ein Navigationssystem für das Internet, das zur vom Benutzer eingegebenen Adresse die richtigen GPS-Koordinaten und die Route dorthin bereitstellt.
+Das DNS ist hierarchisch aufgebaut.
+Ein gezielter Angriff auf die höchste Ebene dieses Systems kann daher große Teile des Internet lahm legen, wie es Mitte Oktober auch geschehen ist.
+Der nun viel diskutierte Angriff galt dem populären und von zahlreichen Internet-Diensten verwendeten DNS-Provider DynDNS.
+Die Attacke – ein sogenannter DDoS-Angriff, bei dem die Infrastruktur durch eine Vielzahl von Anfragen überlastet wird – legte unter anderem populäre Websites wie Amazon, Twitter, Netflix, PayPal und Spotify zeitweise lahm .
+Experten verdächtigen das Mirai-Botnet
+Angesichts des großen Umfangs der Attacke bemühten sich schon bald zahlreiche Sicherheitsforscher, den Hergang und die Verursacher der Attacke zu ermitteln.
+Schon bald zeichnete sich ein Hauptverdächtiger ab: das sogenannte „Mirai“-Botnet.
+Ein Botnet ist ein Zusammenschluss gekaperter Computer oder anderer Geräte, der von Kriminellen ferngesteuert werden kann.
+Das Mirai-Botnet besteht unter anderem aus Überwachungskameras, digitalen Videorecordern und ähnlichen Geräten, wie der IT-Sicherheitsforscher Brian Krebs beschreibt .
+Krebs war in der Vergangenheitz selbst schon Opfer einer massiven Attacke des Mirai-Botnets geworden.
+Smart Devices: Klug, aber oft unsicher
+Botnets wie Mirai sind leider eine unerfreuliche, aber keineswegs überraschende Erscheinung.
+Schon seit Jahren prangern IT-Sicherheitsexperten und Datenschützer an, dass beim Internet of Things – egal, ob es, wie hier, um Kameras und Videorecorder geht, oder um sogenannte „Smart Homes“ mit vernetzten Haushaltsgeräten – der Aspekt der Datensicherheit oft zu kurz kommt.
+Zwar gab es in den letzten Jahren einige Verbesserungen.
+Doch kranken viele Smart Devices nach wie vor an unzureichenden Sicherheitsfeatures oder, was häufiger vorkommt, unzureichenden Werkseinstellungen, die Möglichkeiten beispielsweise zur Verschlüsselung der Datenübertragung nicht ausnutzen.
+Die Erfahrung lehrt, dass viele Verbraucher diese Einstellungen aus Bequemlichkeit oder Unwissenheit niemals ändern (ähnlich, wie es noch vor einigen Jahren bei WLAN-Routern der Fall war, was für massenhafte Verbreitung schlecht abgesicherter Netzwerke sorgte).
+Hier müsste dringend angesetzt werden.
+Das Internet of Things kann zweifellos das Leben für viele Menschen einfacher und komfortabler machen und bietet gerade Senioren oder Menschen mit körperlichen Behinderungen große Chancen, mit Hilfe der Technologie weniger auf die Hilfe Dritter angewiesen zu sein.
+Somit sollte diese Technologie keinesfalls verdammt werden.
+Es wird aber höchste Zeit, bei der Entwicklung dieser Systeme und Infrastrukturen den Sicherheits-Aspekt ernster zu nehmen und potentielle Bedrohungsszenarien realistisch in die Planung zu integrieren.
+Anderenfalls sind nicht nur sensible Daten der Nutzer auf das Höchste gefährdet.
+Es kann auch immer wieder zu Vorfällen wie dem DynDNS-DDoS kommen.
+Mehr Sicherheit für kritische Infrastrukturen
+Daneben ist der Angriff aber auch eine Warnung, das DNS als kritische Infrastruktur – ohne die große Teile des Internets nicht funktionieren – besser abzusichern.
+Allgemein kam die Sicherheit solcher kritischer Infrastrukturen in der Vergangenheit oft zu kurz.
+Auch hier wird es Zeit für gezielte Entwicklung von Konzepten und auch für die Ausarbeitung tragfähiger Richtlinien für die Betreiber solcher Systeme.
+Der Angriff auf DynDNS war eine Warnung und ein Hinweis darauf, an welcher Stelle Datenschutz und IT-Sicherheit dringend verbessert werden müssen.
+Nun ist die Zeit, diese Warnung zu beherzigen und sich den Herausforderungen der aktuellen Bedrohungslandschaft zu stellen.
+Das ist ebenso zum Wohle des großen Ganzen wie der einzelnen Nutzer und Kunden.
+Dieser Beitrag erschien zuerst auf netzpiloten.de
+Annika Kremer schreibt regelmäßig über Netzpolitik und Netzaktivismus.
+Sie interessiert sich nicht nur für die Technik als solche, sondern vor allem dafür, wie diese genutzt wird und wie sie sich auf die Gesellschaft auswirkt
+Teilen:

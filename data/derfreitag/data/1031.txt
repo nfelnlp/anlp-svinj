@@ -1,3 +1,102 @@
-Black Lives Matter ist die neue große Bürgerrechtsbewegung in Amerika.
-Als im Sommer 2013 George Zimmerman freigesprochen wurde, der den 17-jährigen schwarzen Schüler Trayvon Martin erschossen hatte, sammelten sich ihre Anhänger unter dem Hashtag #BlackLivesMatter.
-Jetzt erzählt eine der Gründerinnen ihre Geschichte
+„Das ist naiv“
+„Das ist naiv“
+Überwachung Die Datenschutzaktivistin Rena Tangens über die Skepsis gegenüber der E-Mail-Verschlüsselung, die Abwehr von Geheimdiensten und die neuen Aufgaben der Politik
+Teilen:
+Foto: ddp / Volker hartmann
+Frau Tangens, seit Wochen wird über die Internetüberwachung diskutiert, Sie empfehlen die Verschlüsselung von E-Mails.
+Es gibt aber viele Leute, die behaupten von sich: Ich habe nichts zu verbergen.
+Was sagen Sie denen?
+Dieser Artikel erschien in Ausgabe 33/2013 vom 15.08.2013 Die aktuelle Ausgabe des Freitag erhalten Sie am Kiosk.
+Oder sichern Sie sich hier 3 Wochen gratis
+Rena Tangens: Das ist naiv, unsolidarisch und wenig vorausschauend.
+Naiv, weil jeder etwas zu verbergen hat.
+Das sind ganz intime Dinge, die wir brauchen, um unsere Identität zu finden, bevor wir uns anderen öffnen.
+Unsolidarisch, weil die Aussage über mich auch eine Aufforderung an andere ist: Wenn du nichts Kriminelles getan hast, dann leg du doch auch alles offen wie ich.
+Und wenig vorausschauend, weil ich mit der Aussage verspreche, dass ich auch in Zukunft nichts zu verbergen habe.
+Eventuell bekommen wir eine andere Regierung oder eine andere Regierungsform, etwa eine Diktatur.
+Vielleicht habe ich dann durchaus etwas zu verbergen.
+Es geht doch um heutige Überwachung.
+Die Erkenntnisse von heute stehen einer Regierung von morgen zur Verfügung.
+Das kann tödliche Folgen haben.
+Werfen wir einen Blick auf die Geschichte: In Norwegen gab es seit 1866 ein Judenregister, in dem die Religionszugehörigkeit festgehalten war.
+In Dänemark gab es kein solches Register.
+Beide Länder wurden im Zweiten Weltkrieg von Nazi-Deutschland erobert – da wurde die Religionszugehörigkeit plötzlich zu einem gefährlichen Merkmal.
+Im Jahr 1942 waren in Dänemark 1 Prozent der dort lebenden Juden ermordet, in Norwegen dagegen mehr als 50 Prozent.
+Wenn ich mich heute gegen die Durchleuchtung meiner Person wehren möchte, kann ich meine E-Mails verschlüsseln.
+Das finden die meisten zu aufwändig.
+Wie viel Zeit kostet das denn?
+Man braucht etwa eine Stunde, um das zu verstehen und sich ein passendes Programm einzurichten.
+Dazu sollte man zum Beispiel computeraffine Freunde fragen oder eine Crypto-Party besuchen.
+Bei diesen Veranstaltungen wird erklärt, wie die Verschlüsselung funktioniert.
+Ist die Verschlüsselung nicht wahnsinnig kompliziert?
+Nein, das Prinzip ist einfach: Sie können zum Beispiel OpenPGP benutzen.
+PGP steht für „Pretty Good Privacy“, also ziemlich gute Privatsphäre.
+Da gibt es auf der einen Seite ein Vorhängeschloss und auf der anderen Seite den dazu passenden Schlüssel.
+Wenn Robert an Alice eine verschlüsselte Nachricht schicken möchte, dann braucht Robert das offene Vorhängeschloss von Alice, packt seine Nachricht in ein Kästchen, drückt das offene Schloss zu und sendet das Kästchen an Alice.
+Nur Alice hat den passenden Schlüssel, um das Vorhängeschloss wieder zu öffnen.
+Computerexperten reden immer von zwei Schlüsseln.
+Ja, um im Bild von eben zu bleiben: Der öffentliche Schlüssel entspricht dem offenen Vorhängeschloss, der private Schlüssel ist der dazu passende Schlüssel von Alice.
+Meinen öffentlichen Schlüssel mache ich möglichst weit bekannt, ich kann ihn auf meiner Webseite veröffentlichen und meinen Freunden zumailen.
+Den privaten Schlüssel hingegen sollte ich sehr sorgfältig aufbewahren und mit einem möglichst langen und sicheren Passwort schützen.
+Kann mir dann jeder verschlüsselte E-Mails schicken?
+Nur diejenigen, die auch das OpenPGP-Programm nutzen.
+Ich muss also meine Freundinnen und Freunde dazu anhalten, dass sie das auch verwenden.
+Das ist so bei einer Ende-zu-Ende-Verschlüsselung, das macht sie aber auch so sicher.
+Verschlüsselt wird direkt auf dem Rechner der Absenderin, entschlüsselt wird auf dem Rechner des Empfängers.
+Unterwegs im Internet ist das dann nur ein unleserliches Datenpaket, an dem Geheimdienste oder Hacker verzweifeln.
+Jetzt hat der E-Mail-Anbieter Lavabit seinen Dienst eingestellt, der angeblich von Edward Snowden genutzt wurde.
+Was hat es damit auf sich?
+Lavabit hat seinen Kunden versprochen, dass die Nachrichten verschlüsselt auf dem Server gespeichert werden und nur mit Passwort zu lesen sind.
+Offenbar versuchen die US-Behörden nun, an die Daten heranzukommen.
+Da zeigt sich ein grundsätzliches Problem: Wenn ich nicht direkt auf meinem eigenen Rechner verschlüssele, gibt es immer die Gefahr, dass meine Mail im Klartext irgendwo unterwegs abgegriffen wird oder die Mail auf irgendeinem Server so schlecht verschlüsselt ist, dass sie mit geringem Aufwand gelesen werden kann.
+Deswegen ist die Ende-zu-Ende-Verschlüsselung sicherer.
+Und bei welchem E-Mail-Anbieter ich bin, ist dann egal?
+Nein, das wäre nur so, wenn ich mit allen Leuten verschlüsselt kommunizieren würde.
+Viele tun das aber nicht.
+Deshalb ist es sinnvoll, zu einem kleinen E-Mail-Anbieter zu gehen, in Deutschland zum Beispiel zu posteo.de.
+Anbieter, die ihren Firmensitz in den USA haben, sind nicht empfehlenswert.
+Dort kommen die Geheimdienste noch leichter an die Mails heran als hier.
+Das heißt, europäische E-Mail-Anbieter sind besser?
+Solange sie die Daten nicht in einer Cloud speichern.
+Deren Rechner sind nämlich möglicherweise auch in den USA.
+Bevor man sich für einen Anbieter entscheidet, sollte man den erst mal fragen, wie er es mit der Sicherheit hält.
+Und mit dem Geld.
+Die Dienste kosten vielleicht fünf oder zehn Euro im Monat.
+Aber das sollte es uns wert sein.
+Wenn wir nicht mit Geld zahlen, bezahlen wir mit unseren Daten, unserer Freiheit, unseren Bürgerrechten.
+Und auch die Mails unserer Freunde werden durchsucht.
+Unternehmen bieten die Dienstleistungen nicht gratis aus Menschenfreundlichkeit an, sondern weil sie davon etwas haben oder weil sie etwas im Schilde führen.
+OpenPGP ist aber auch kostenlos.
+Das Programm ist einmal erarbeitet worden, dafür wurde gespendet, jetzt ist es da.
+Aber es ist etwas anderes, einen Mailserver aufrecht zu halten.
+Das kostet Arbeitszeit und die muss auch bezahlt werden.
+Ist die Verschlüsselung mit OpenPGP wirklich sicher?
+Hundertprozentige Sicherheit gibt es natürlich nicht.
+Aber die Sicherheit für den Transportweg ist ziemlich hoch.
+Wenn der Geheimdienst an meiner Kommunikation interessiert wäre, müsste er alleine für eine einzelne Nachricht sehr viele Rechner monate- oder sogar jahre-lang für die Entschlüsselung einsetzen.
+Kennt der Geheimdienst einen Trick, um schneller zu entschlüsseln?
+Das Prinzip der Verschlüsselung bei Pretty Good Privacy beruht auf der Faktorisierung von Primzahlen.
+Solange keine geniale Mathematikerin eine neue Methode erfindet, die Schlüsselpaare zu errechnen, weiß der Geheimdienst zwar, wie es geht – aber das Verfahren dauert richtig lange.
+Und Terroristen nutzen schon OpenPGP?
+Ich glaube, wer tatsächlich eine terroristische Tat plant, wird darüber nicht digital kommunizieren.
+Auch wenn die Inhalte verschlüsselt sind: Möglicherweise sind schon die Verbindungsdaten verdächtig.
+Und jeder macht Fehler.
+Wenn Terroristen aber statt E-Mails einfach Briefe schreiben, dann nützt die Überwachung des Internets gar nichts?
+Das ist ein wichtiges Argument, etwa gegen die Vorratsdatenspeicherung.
+Wer etwas Illegales vorhat, wird Mittel und Wege finden, sich vor Überwachung zu schützen.
+Betroffen sind aber Millionen unschuldiger Bürgerinnen und Bürger, die ohne Anlass und ohne Verdacht bespitzelt werden.
+Die Bürger können problemlos ihre E-Mails verschlüsseln.
+Warum soll ich mich dann überhaupt noch politisch gegen Überwachung wehren?
+Da reden Sie Bundesinnenminister Hans-Peter Friedrich das Wort.
+Er will sich aus der politischen Verantwortung stehlen und schiebt die Verantwortung auf die Bürger ab.
+Stellen Sie sich vor, dass Leute ständig in Ihr Zimmer reinfilmen mit einer Videokamera.
+Nur weil es Gardinen gibt, wollen Sie doch nicht den ganzen Tag die Gardinen geschlossen halten, oder?
+Wenn Minister Friedrich schon zum Verschlüsseln aufruft: Kann die Bundesregierung nicht etwas tun, um das zu erleichtern?
+Das Wirtschaftsministerium sollte einen Fördertopf einrichten zur Verbesserung von Verschlüsselungsprogrammen.
+Die Benutzung der Programme muss einfacher werden.
+So eine Wirtschaftsförderung hat es sogar schon einmal gegeben, das weiß nur heute fast niemand mehr.
+Das war in den frühen neunziger Jahren, als Deutschland von den US-Amerikanern gedrängt wurde, Verschlüsselung zu verbieten.
+Nach dem Bekanntwerden der NSA-Überwachung wäre die Zeit reif für ein neues Förderprogramm.
+Das Gespräch führte Felix Werdermann.
+Rena Tangens ist Datenschutzaktivistin und einer der Köpfe des Vereins Digitalcourage.
+Sie ist Ehrenmitglied im Chaos Computer Club und unterstützt die Demonstration „Freiheit statt Angst“ am 7. September 2013 in Berlin

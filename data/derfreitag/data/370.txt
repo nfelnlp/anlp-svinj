@@ -1,3 +1,163 @@
-Black Lives Matter ist die neue große Bürgerrechtsbewegung in Amerika.
-Als im Sommer 2013 George Zimmerman freigesprochen wurde, der den 17-jährigen schwarzen Schüler Trayvon Martin erschossen hatte, sammelten sich ihre Anhänger unter dem Hashtag #BlackLivesMatter.
-Jetzt erzählt eine der Gründerinnen ihre Geschichte
+5.
+Fazit oder: was soll das alles?
+1.
+Zur Semantik des Fragespiels1.1.
+Die Frage: Wir beschäftigen uns zunächst mit einer ganz einfachen Frage und verschiedenen möglichen Antworten auf diese, um in ers-ter Annäherung zu einer Klassifizierung zu gelangen.
+Die Frage lautet: Wie spät ist es?
+Die Antworten seien: a) 13 Uhr b) 16 Uhr c) ich weiß nicht d) spät, die Sonne geht bereits unter e) blau f) es wird 15 Uhr 59 gewesen sein .
+Die Uhr zeige im Moment des Antwortens genau 16 Uhr.
+Zunächst bietet sich eine Klassifizierung nach 'Wahrheit' an.
+In diesem Sinne scheint nur Antwort b) eine wahre Antwort zu sein.
+Diese Bestimmung erweist sich aber sofort als problematisch, denn nach der allgemein üblichen Definition von Wahrheit bestimmt sich diese durch ihr Verhältnis zum Gegenstand, nicht aber durch ihr Ver-hältnis zu der ihr voraufgegangenen Frage.
+Dann aber können - mit Ausnahme von a) - alle Antworten wahre Antworten sein.
+Für diese Prüfung ist es aber außerdem irrelevant, ob es sich um Antworten handelt oder nicht; die Sätze werden wie Aussagen behandelt.
+Wir können festhalten: 'Einen Satz als Aussage nehmen, statt als Antwort, heißt von seiner Entstehung abstrahieren.'
+(S. 47)
+Eine weitere gängige Klassifizierung geht danach, ob es sich bei den Antworten um Antworten auf die Frage handelt oder nicht.
+Hier könnte man davon ausgehen, daß es sich bei a)-c) um 'gute' Antworten handelt, bei d)-f) aber nicht.
+Kriterium hierfür wäre, inwieweit die Antwort den Erwartungen, die in der Frage impliziert sind, entspricht oder nicht.
+Diese Antwortdimension soll als Gültigkeit bezeichnet werden.
+Eine weitere wichtige Antwortdimension ist die der Korrektheit: Kriterium dafür sei, ob der Antwortende sein Bestes tut, um die Frage zu beantworten.
+Korrekt in diesem Sinne können alle Antworten sein: So kann etwa bei a) die Uhr falsch gehen oder bei e) ein zu lang geratener Pulloverärmel verhindern, daß ich beim Blick auf die Armband-uhr das Zifferblatt sehe.
+Die Analyse dessen, was eine gültige Antwort ist, führt uns zu einem ersten Ergebnis über die Frage: diese impliziert bereits Er-wartungen über die Art und Weise des An-wortens.
+Sie gibt ein Satzradikal vor, daß zum Aufbau von Satzteilen dienen kann und bereits eine Vermutung über den Gegenstand enthält.
+In unserem Fall wäre dies eine Theorie der Uhrzeit, die diese als linea-re Abfolge von 24 x 60 gleichförmigen Einheiten ansieht.
+Gleichzeitig zielt die Fra-ge auf den Gegenstand, denn es soll eine Zuordnung zu dem vorgegeben Raster vor-genommen werden.
+Das Satzradikal der Frage legt dabei fest, was gültige Antwor-ten sind, indem es bestimmte Antwortmög-lichkeiten generiert.
+Wir können auch sa-gen: Das Satzradikal R der Frage konstitu-iert einen Frageraum als Folie des Vergleichs mit dem Gegenstand: die Gesamt-heit der Elemente, in die das Radikal der Frage unterteilt ist; dazu gehört auch die gemeinsame Grenze.
+Wir können sagen: Fragen heißt: einen Gegenstand in die Grenzen eines Frageraums ziehen oder vom Gegenstand veranlaßt werden, diesen zu überschreiten.
+Zum Anfang
+1.2.
+Die Antwort: Mit der bisher erarbeiteten Klassifikation können wir sagen: a) und b) sind gültige Antworten, wobei nach der Wahrheitsprü-fung a) eine 'falsche' und b) eine 'richtige' Antwort ist.
+Etwas schwieriger ist es bei c).
+Prinzipiell handelt es sich hier auch um eine gültige Antwort, da sie sich auch auf das Frageradikal bezieht; es ist sogar die einzi-ge Antwort, die sich nur auf das Frageradi-kal, nicht aber auf den Gegenstand bezieht: Sie kann deswegen nichts weiter als den Frageraum wiederholen: 'Es ist entweder 1 Uhr oder 2 Uhr...oder x Uhr.'
+Denkbar ist allerdings auch, daß die Antwort nicht in der Lage ist, die Frage auch nur zu verste-hen: Dann wäre es wie d) bis f) eine ungül-tige Antwort.
+Auch bei d) handelt es sich um ein Nicht-Wissen wie bei c); trotzdem erhält der Fra-ger mehr Informationen, die der Frager in die Sprache 'seiner' Frage übersetzen kann.
+Grund dafür ist, daß d) eigentlich auf eine Frage antwortet, die ebenfalls mit einer Vorstellung von 'Spät-Sein' operiert, die quantitativen Rasterelemente der Ausgangsfrage aber durch qualitative Vorstel-lungen von 'früh' und 'spät' ersetzt.
+Bei genauerem Hinsehen handelt es sich also um eine partiell gültige Antwort.
+Wenn wie in diesem Fall die Antwort dem Raster des Frageradikals nicht entspricht, kommt die Grenze des Frageraums in den Blick: Die Antwort wird auf die Überein-stimmung mit dem in der Frage enthaltenen Begriff der Uhrzeit überprüft, damit durch die Grenze des Frageraums zerteilt in einen Teil, der in die Sprache der Frage übersetzt werden kann, und einen Teil, der nicht interessiert.
+Eine solche Antwort soll Grenz-antwort genannt werden.
+Im Gegensatz dazu heißen Antworten wie a) bis c) subsumtive Antworten, da bei ihnen die Grenze des Frageraums nicht in den Blick gerät.
+Bei Antwort e) ergibt eine Überprüfung des Frageraums, auf den sie sich bezieht, daß dieser weder die Rasterelemente noch den Rasterbegriff der Ausgangsfrage enthält.
+E) liegt außerhalb des Frageraums; es handelt sich um eine Fehlantwort.
+Der spannendste Fall ist die Antwort f).
+Hier wird sich sowohl auf den Rasterbegriff wie auf die Rasterelemente der Frage bezogen; trotzdem scheint die Antwort vom Standpunkt der Frage aus fruchtlos: es wird keine Wahl zwischen den Rasterelementen getroffen; das, was die Antwort über diese Rasterelemente hinaus enthält, hat nichts mit dem Frageraum zu tun.
+Der Versuch wie bei d) den Rasterbegriff einzusetzen, um einen Teil der Antwort in den Frage-raum zu ziehen, scheitert ebenfalls: Der Frageraum als Ganzer ist nämlich im Ant-wortraum enthalten.
+Der Antwortraum umschließt den Frageraum und weist dar-über hinaus.
+Und eben dadurch wird deut-lich, daß diese Antwort der Frage widerspricht: Es handelt sich um eine widersprechende Antwort.
+Es wird aber keineswegs deutlich, worin der Widerspruch besteht und wo er her-kommt, nur, daß er existiert.
+An dieser Stelle kommen wir zu einem Umschlag-punkt im Fragespiel: Um den Widerspruch begreifen zu können, muß der Standpunkt der Frage verlassen werden und der Frager sich auf den Standpunkt der Antwort stel-len.
+Die Antwort hört damit auf, ungültig zu sein; gefragt wird jetzt nach der Gültig-keit der Frage.
+Die Antwort löst die Frage auf in zwei Teile, die nicht miteinander beantwortbar sind.
+Sie weist das Frageradi-kal zurück, indem sie keine Auswahl der Rasterelemente trifft.
+Sie setzt dem Frage-radikal ein anderes Satzradikal entgegen.
+Man kann die Frage als Kürzel (R1 , x?)
+darstellen, wobei R1 für das Satzraduikal der Frage steht.
+Die Antwort würde in dieser Schreibweise als Verhältnis von zwei Satzradikalen R1 und R2 symbolisiert werden, da die Antwort immer in Auseinandersetzung mit dem Frageradikal erfolgt.
+Die subsumtive Antwort hat dann die Notation (R1,R2), die widersprechende Antwort die Notation (nicht R1, sondern R2).
+Zum Anfang
+1.3.
+Der Gegenstand Bei alledem darf nicht übersehen werden, daß auch der Gegenstand eine zentrale Funktion hat, denn nur durch ihn kann überhaupt von der Frage zur Antwort über-gegangen werden.Nur über den Gegenstand entsteht auch die Möglichkeit der widersprechenden Antwort; denn diese bezieht sich auf eine bestimmte Qualität des Gegenstands, welche im Frageraum so nicht enthalten ist.
+2.
+Verwandlung von Antwort in Behauptung Jede Antwort verhält sich nicht nur zu der Frage, auf die sie erfolgt, sondern behauptet auch etwas über den Gegenstand.
+Dabei gibt es zwischen Antwort und aus ihr her-vor gehender Behauptung zwei wesentliche Unterschiede:
+a) Die Antwort hat keinen Wahrheitswert, die Behauptung sehr wohl: sie ist entweder wahr oder falsch.
+b) Die Behauptung hat im Gegensatz zur Antwort kein regelhaftes Verhältnis zum Frageraum.
+Ihre Notation wäre also: R2.
+Dadurch wird klar: Jede Antwort läßt sich in mindestens zwei Behauptungen trans-formieren: eine, die Aussagen über das Frageradikal macht (stimmt oder stimmt nicht), eine zweite, die auf dieser Basis ein Element des Antwortraums bestimmt.
+Dies kann bei subsumtiven Antworten verdeckt sein, da hier das Frageradikal stillschweigend akzeptiert werden kann.
+Bei widersprechenden Antworten muß dies offen geschehen: (nicht R1, sondern R2), wobei allerdings beide Teil unterschiedlich akzentuiert werden können, bis dahin, daß ein Teil weggelassen werden kann.
+zum Anfang
+3.
+Übergang von der Antwort zur Frage Wir sehen uns nun die Vorgeschichte der Frage an.
+Denn die Frage ist nicht das erste: das Satzradikal der Frage, das den Frageraum konstituiert, ist selbst schon Be-standteil einer Antwort, die der Frage vor-ausgesetzt ist.
+Gerade dieser Übergang von der Antwort zur Frage, so ist die These, enthält den Keim schöpferischen Denkens.
+Dazu müssen wir zunächst vom Standpunkt der Frage aus zurückblicken: Unsere Frage lautet jetzt: welche Antworten sind der Frage vorausgesetzt?
+Wir betrachten dazu ein Beispiel, das aus dem Schulunterricht stammen könnte: Was kritisiert Dichter A?
+Woran erkennt ihr das?
+Für die Antwort auf die zweite Frage ist die Antwort auf die erste Frage Voraussetzung: 'die Unehrlichkeit'.
+Dies reicht aber nicht aus: zusätzlich muß noch darauf ge-antwortet werden, wie von der ersten Antwort weitergefragt werden kann:
+'Wenn eine Vorstellung vom Inhalt da ist, kann zur Untersuchung der Dialektik von Form und Inhalt fortgeschritten werden.'
+Die erste Antwort auf den Gegenstand (Unehrlichkeit), die zweite Antwort zielt mit einem Satzradikal auf ein schon bekanntes anderes Satzradikal (Dialektik von Form und Inhalt).
+Es handelt sich hier also um ein gleichzeitiges Vorwärts- und Rückwärtsfragen.
+Beim Rückwärtsfragen wird ein Wissen aktualisiert, daß ich schon vorher hatte, aber bisher in dieser Situation nicht verwendet habe.
+Aber was ist das eigentlich, wonach hier zurückgefragt wird?
+Wenn man sich die Struktur genau betrachtet, sieht man, daß die Rückfragen letztlich auf die Gesamtheit aller Annahmen zielt, die wir wissen, bevor wir die Frage stellen.
+Wir müssen sie wis-sen, um die Frage stellen zu können: Es handelt sich nämlich um den Diskurs, in dem sich die Frage bewegt.
+Wir bezeichnen ihn mit R0.
+Falls der Diskurs geschlossen und in sich stimmig ist, werden Antworten immer subsumtiv sein; es kann also nichts Neues ent-stehen.
+Die uns interessierende Möglichkeit ist aber, daß der Diskurs eben dies nicht ist, sondern Widersprüchlichkeiten enthält.
+Dies könnte z.B. daran liegen, daß der zugrunde liegende Diskurs des Fragers Elemente aus widerstreitenden Diskursen enthält, aber auch daran, daß er einfach in sich nicht schlüssig ist.
+Dies kann dann da-zu führen, daß zwei Frageradikale R1 und R3 durch die Vermittlung der Antworten (R1,R2) und (R2,R3) in Zusammenhang ge-raten und der Widerspruch offensichtlich wird.
+Ein typischer Fall wäre hier 'die Antwort, die nur einen Fehler: sie antwortet auf eine Frage, die gar nicht gestellt wur-de.'
+(Althusser)
+Um diesen Widerspruch zu überwinden, muß das Frageradikal erweitert werden: nicht R1, sondern R2.
+Diese Struktur entspricht genau der der widersprechenden Antwort; dies heißt nichts anderes als das die widersprechende Antwort in ihrer explizierten Form direkt in eine neue Frage nach x?
+umgewandelt werden kann, ohne daß ein Rückwärtsfragen erfolgen muß.
+Als zusammenfassendes Fazit können wir festhalten:
+Eine Antwort verstehen heißt, bis zum Verständnis der Frage zu gelangen, die ihr zugrunde liegt.
+zum Anfang
+4.
+Das Befehlsspiel Als letztes sollen noch einige Gedanken zum Unterschied zwischen Frage- und Befehlsspiel erläutert werden.
+Befehle lassen sich auffassen als Kette von Fragen, auf die die Antworten bereits vor-gegeben sind: 'Besorgen Sie Folgendes; wie sie's machen, ist mir gleich:' Diese Fragen lassen keine widersprechenden Antworten zu; der Befehlsempfänger muß die Frage übernehmen und sie subsumtiv beantworten.
+Umgekehrt läßt sich daraus ableiten, daß ein Fragespiel genau dann in ein Befehls-spiel übergeht, wenn widersprechende Antworten nicht mehr zugelassen werden.
+Die Vorfrage ist dann keine Frage mehr, sondern ein Befehl.
+Beispielsweise eine Fragesequenz im Krimi: Wer ist der Täter?
+Wodurch hat er sich verraten?
+Die zweite Frage ist nur sinnvoll, wenn die erste Frage subsumtiv beantwortet wird, also ein Täter angegeben wird.
+Für den Fall, daß kein Täter existiert bzw. die Existenz eines Täters geleugnet wird, macht sie keinen Sinn.
+Das heißt nun aber nicht, daß die gegenstandsfreie Zielstrebigkeit von Frage 2 notwendig ins Leere läuft.
+Sie kann trotzdem Ergebnisse haben, die dann allerdings Ergebnisse über einen selbstproduzierten Erkenntnisgegenstand sind.
+Gerade hier zeigt sich ein wichtiger Bezug auch zur Beratungspraxis.
+Wenn dort im Sinne des Befehlsspiels vorgegangen wird, also auf bestimmte Fragen keine widerspre-chenden Antworten zugelassen werden, können relativ leicht durch die Beratung Probleme erzeugt werden, die nicht die des Klienten sind.
+Das passiert in der Praxis schneller als man denkt.
+So ist eine relativ harmlos scheinende und in der Praxis übliche Frage wie 'Was hindert dich daran, deine Wut/Trauer/Aggression rauszulassen?'
+eigentlich eine ganze Fragesequenz, die lauter subsumtive Antworten erfordert:
+'Empfindest du Wut/Trauer/Aggression?"
+'Ist dies eine Empfindung, die du in dir vermutest?'
+'Glaubst du, es wäre nützlich, sie nach au-ßen zeigen zu können?'
+'Gibt es etwas, was dich daran hindert, dies zu tun?'
+Diese Fragen erfordern alle ein Ja!, bevor die obige Frage sinnvoll gestellt werden kann.
+Eine widersprechende Antwort müßte den Berater dazu auffordern, rückwärts nach den zugrundeliegenden Diskurs zu fragen, der ein anderer als sein eigener sein kann.
+Besonders problematisch wird das Ganze noch dadurch, daß in der Beratung nicht zwei für die anstehende Thematik glei-chermaßen Autorisierte miteinander spre-chen, sondern der Berater strukturell Expertenstatus hat und seine Sichtweise also höhere Autorität genießt.
+Er gibt also quasi die legitimierte Sprech- und Denkweise übert psychische Befindlichkeiten und wie man mit diesen umgeht vor.
+Die Tendenz für den Klienten, die Fragen des Beraters immer subsumtiv zu beantworten, ist also strukturell nahegelegt.
+Dies gilt aber auch für die Position des Beraters: Auch dieser wird strukturell leicht zu verleiten sein, widersprechende Antworten aufgrund seiner legitimierten Sprech- und Denkweise nicht wahrzunehmen Dieses Thema wird Renates Referat behandeln.
+zum Anfang
+5.
+Fazit oder: was soll das alles?
+Dieses Referat habe ich in ähnlicher Form schon zweimal auf SPSH-Fortbildungen gehalten.
+Das erste Mal muß es bereits Ende der achtziger Jahre gewesen sein.
+Damals war ich in erster Linie von diesem Ansatz fasziniert und hatte den dunklen Verdacht, daß hier ein für die Beratung äußerst wichtiges Thema abgehandelt wird, ohne daß ich genau hätte sagen können, was denn die Bedeutung für die Beratung ist.
+Inzwischen, fast zehn Jahre später, ist das Thema für mich immer noch zentral, aber ich würde heute behaupten, daß dieser Ansatz ein ganz wesentlicher Bestandteil meiner Beratungspraxis geworden ist.
+Deswegen formuliere ich auch zum ersten Mal Konsequenzen aus diesem Ansatz:
+1.
+Ich glaube, daß in der Beratung eine gewisse Langsamkeit des Denkens erforderlich ist.
+Ich meine dies in dem Sinne, daß ich bei jeder Antwort mich fragen muß, ob sie eigentlich strukturell so aussieht, wie ich sie erwartet habe.
+Wenn sie mir irgendwie schräg vorkommt, braucht es Zeit, um dies zu realisieren.
+Das geht aber nicht, wenn ich gedanklich schon bei der nächsten oder übernächsten Frage bin, um nicht den Eindruck zu vermitteln, ich wüßte nicht weiter.
+2.
+Wenn ich die Schrägheit der Antwort wahrgenommen habe, habe ich zwei Möglichkeiten: a) auf meiner Frage zu bestehen und die passende Antwort zu fordern (wahlweise die erhaltene Antwort geistig in meine Frage einzupassen) oder b) die Ant-wort daraufhin befragen, auf welche Frage sie denn antwortet.
+3.
+Ich gehe davon aus, daß die so gefundene Frage nicht mit der Ausgangsfrage identisch ist und eine Sinnverschiebung stattgefunden hat.
+Diese Sinnverschiebung kann den Blick auf wesentliche Dimensionen freigeben, die gar nicht explizit thematisiert werden.
+Beispielsweise erzählte mir ein Klient, daß zu seinem zehnten Geburtstag Freunde von ihm ein Video mit lauter Statements über ihn machen wollten und auch seine drei Jahre ältere Schwester fragten, ob sie etwas sagen könne.
+Die Antwort war: 'Für den Hosenscheißer mach ich das nicht!'
+Die Schwester hatte eigentlich die Frage beantwortet, wie jemand sein muß, damit sie das täte.
+Dadurch wird sichtbar, daß bei ihr Neid und Konkurrenz mit dem Bruder eine große Rolle spielen, während mein Klient vorher nur die Ablehnung gehört hatte.
+4.
+Wichtig ist auch, den Punkt zu erkennen, wo Fragen bereits so formuliert sind, daß sie direkt ins Befehlsspiel führen.
+Das ist immer dann der Fall, wenn sie so formuliert sind, daß bestimmte subsumtive Antworten fast gegeben sein müssen, damit die Frage-Antwort-Sequenz überhaupt noch einen Sinn macht.
+'Haben Sie Ihr Auto vor meiner Garage geparkt?'
+'Isch 'abe gar kein Auto.'
+Der italienische Moment im Leben besteht in einer widersprechenden Antwort.
+Aber was ist mit 'Sie haben gar keine Garage.'?
+5.
+Schließlich: Auch für die Beratung ist die Gretchenfrage, wie denn Neues entsteht, und zwar in diesem Fall Neues beim Klienten, das eine Erweiterung seiner Handlungsmöglichkeiten darstellt.
+Das bisher Gesagte zielt darauf ab, den Diskurs, in dem der Klient sein Problem zu begreifen versucht.
+Weitergehend ist die Annahme, daß der Diskurs Widersprüchlichkeiten enthält, die sich als Behinderung seiner Handlungsfähigkeit zeigen.
+(Eine im übrigen problematische Annahme.)
+Diese Widersprüchlichkeiten wären also im Fragespiel aufzufinden und nun ihrerseits durch widersprechende Antworten des Beraters umzustrukturieren, um sie letztlich in einem neuen/erweiterten Diskurs aufzuheben.
+Ich formuliere hier nebulös, weil ich den Boden dessen, was ich mit einiger Überzeugung vertreten kann und mich in den Bereich der Spekulation begebe.
+Also: Inwieweit das Fragespiel und seine Analyse nicht nur eine 'diagnostische' Methode ist, sondern auch Veränderungsprozesse in Gange setzen kann und wenn ja, wie und auf welchen Ebenen, ist bisher nur Vermutung.
+Genaueres vielleicht in zehn Jahren!

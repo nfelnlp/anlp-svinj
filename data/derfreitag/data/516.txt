@@ -1,3 +1,33 @@
-Black Lives Matter ist die neue große Bürgerrechtsbewegung in Amerika.
-Als im Sommer 2013 George Zimmerman freigesprochen wurde, der den 17-jährigen schwarzen Schüler Trayvon Martin erschossen hatte, sammelten sich ihre Anhänger unter dem Hashtag #BlackLivesMatter.
-Jetzt erzählt eine der Gründerinnen ihre Geschichte
+Bei diesem Beitrag handelt es sich um ein Blog aus der Freitag-Community
+Foto: Sean Gallup/Getty Images
+Bei der Abschlusskundgebung der "Freiheit statt Angst"-Demo Ende August in Berlin wurde das Thema am Ende doch noch, wenn auch beiläufig, angesprochen: Ein Vertreter von Amnesty International empörte sich darüber, dass allein auf Basis von Verbindungsdaten Drohneneinsätze in Ländern wie Pakistan, Somalia oder dem Jemen geflogen und "gezielte Tötungen" durchgeführt werden.
+Ein Aspekt, der im Kontext der Totalüberwachung von NSA & Co bislang gern übersehen wird.
+Denn im Zentrum der Diskussion über die digitale Durchleuchtung der Gesellschaft steht die Verteidigung des Rechts auf Privatsphäre und informationelle Selbstbestimmung.
+Der ehemalige Chef von NSA und CIA, Michael Hayden, bestätigte aber im vergangenen April im Rahmen einer Veranstaltung in Baltimore, was bis dahin nur gemutmaßt wurde: "Wir töten auf Basis von Metadaten!"
+Der Hintergrund: Werden die Meta- bzw. Verbindungsdaten über einen längeren Zeitraum gezielt ausgewertet, lassen sich präzise Persönlichkeitsprofile erstellen, die "alles" über einen Menschen erzählen, so dass die Inhalte von Kommunikation (z.B. in Telefongesprächen, Emails) praktisch irrelevant werden.
+Die militärischen Spezialeinheiten, die mutmaßliche Terroristen finden und eliminieren sollen, brauchen kein einziges Gespräch abzuhören oder keine Email zu lesen, um Hinweise über den Ort der gesuchten Person zu erhalten.
+Allein die Merkmale der Kommunikation reichen, um die gesuchten Personen zu orten (da SIM-Karten und Telefone getauscht werden können, sind allerdings auch Unschuldige unter den Opfern der Drohnenangriffe zu vermuten).
+Der Versuch, die eigenen Daten durch Verschlüsselung zu schützen, läuft in diesem Fall zudem ins Leere.
+Denn kryptographische Verfahren helfen nicht gegen die Auswertung der Metadaten.
+Der Journalist Detlef Borchers schreibt in der Internetzeitung "Berlinergazette" deshalb von der Drohne als dem "Gefechtssprengkopf des NSA-Netzwerkes im Informationskrieg" und "dass Drohnen und die Datenanalyse der NSA eine tief verwobene Einheit bilden".
+Neben den rein militärischen werden die Daten auch für die Verfolgung politischer und ökonomischer Ziele genutzt.
+Die Spiegel-Redakteure Marcel Rosenbach und Holger Stark verbinden mit dem Kürzel "NSA" einen nachrichtendienstlich-industriellen Komplex, der enge Verbindungen zwischen dem US-Auslandsgeheimdienst und anderen Geheimdiensten, privaten Sicherheitsfirmen und der Privatwirtschaft (zum Beispiel Google, Facebook) aufweist.
+So entstand faktisch ein weltumspannender staatlich-privater Überwachungsverbund.
+Nach Angaben von Rosenbach und Stark gehen nur 35 Prozent der NSA-Ressourcen tatsächlich in die Terrorabwehr (die aber nach wie vor der offizielle Grund für die globale Überwachungspraxis ist).
+Der größte Teil richtet sich gegen andere Staaten bzw. Organisationen (klassische Spionage), und wird für Wirtschaftsspionage sowie das Auskundschaften politischer Entscheidungsabläufe eingesetzt.
+Ein wenig thematisiertes Ziel der digitalen Totalerfassung besteht zudem darin, verlässliche Prognosegrundlagen für das Verhalten von potenziellen "Gefährdern" und "gefährlichen" Personengruppen zu liefern – interessant insbesondere angesichts des fortschreitenden Sozialabbaus.
+Vor dem Hintergrund dieses Geflechts von Akteuren, Interessen und Handlungsmotiven schreibt der US-Journalist Glenn Greenwald in seinem aktuellen Buch, dass die digitale Überwachung zur schrecklichsten und repressivsten Waffe staatlicher Einmischung zu werden droht, die es in der Geschichte der Menschheit je gegeben hat.
+Seiner Auffassung nach befinden wir uns an einem historischen Scheideweg: Entweder das digitale Zeitalter bereitet der politischen Freiheit den Boden oder aber es etabliert ein System allumfassender Überwachung und Kontrolle, das sich nicht einmal die schlimmsten Tyrannen der Vergangenheit hätten träumen lassen (vgl. "Die globale Überwachung: Der Fall Snowden, die amerikanischen Geheimdienste und die Folgen", München, 2014, S. 16).
+Greenwalds dualistische Sicht – Befreiung oder Zwangsherrschaft – konstatiert im Grunde, dass wir uns auf der Überholspur in den Überwachungsstaat bewegen, der den Rechtsstaat sukzessive ablösen wird.
+Aber schon seit Ende der 1970er Jahre diagnostizieren Kritiker bereits (für die Bundesrepublik) einen systematischen Zersetzungsprozess verfassungsrechtlich garantierter Freiheitsrechte, in der Regel begründet mit der Abwehr von Gefahren für die innere Sicherheit.
+Das Problem dabei: Diese Perspektive übersieht, dass Geheimdienste als staatliche Behörden im Verfassungsstaat verankert sind und zunehmend verrechtlicht agieren.
+Insofern überzeugt die Idee eines allmählichen Rechtsstaatsverfalls nur bedingt.
+Die willkürliche und präventive Massenüberwachung einerseits sowie andererseits die Unmöglichkeit, Geheimdienste demokratisch kontrollieren zu können, sind durchaus vereinbar mit einem weitgehenden Erhalt rechtsstaatlicher Prozeduren.
+In dem Fall, dass exekutive Behörden gesetzliche Verfahren temporär und situationsbedingt außer Kraft setzen, können nachträglich legislative Anpassungen erfolgen.
+Oder aber es werden ausnahmerechtliche Argumentationsfiguren vorgebracht und auf Dauer normalisiert ( vergleichbar beispielsweise die Rolle des Völkergewohnheitsrechts ).
+Denn der Staat übt seine Macht vorzugsweise mit dem Medium des Rechts aus.
+Staatliche Repression kann durch Recht gebunden, aber auch entfesselt werden – und sich darüber hinaus in rechtsfreien Räumen bewegen (als "tiefer Staat").
+Die Macht der (Meta)Daten entfaltet sich dabei in jedem Fall.
+Zum Autor:
+Joachim Maiworm lebt in Berlin, engagiert sich in der Erwerbslosenszene und ist zur Zeit Mitglied eines Solidaritäts-Komitees für eine Altenpflegehelferin.
+Bisher erschienen von ihm an dieser Stelle:
