@@ -1,0 +1,24 @@
+National
+2
+Berlin.
+Geht es nach den Plänen der Bundesregierung, sollen zukünftig alle deutschen Geheimdienste einen verdeckten Zugriff auf digitale Paßfotos von Deutschen bekommen.
+„Die Polizeien des Bundes und der Länder, das Bundesamt für Verfassungsschutz, der Militärische Abschirmdienst, der Bundesnachrichtendienst sowie die Verfassungsschutzbehörden der Länder dürfen das Lichtbild zur Erfüllung ihrer Aufgaben im automatisierten Verfahren abrufen“, heißt es im Gesetzesentwurf zum elektronischen Personalausweis.
+Bereits seit 2007 hat die Polizei einen „automatisierten“ Zugriff auf die Paßbilder.
+Das soll ab 2021 auch den Geheimdiensten ermöglicht werden.
+Die Bundesregierung begründet ihren Entwurf mit einer höheren Effizienz der Geheimdienste, die dadurch erreicht werde.
+Wenn in den Kommunalämtern keiner wisse, daß ein Geheimdienst auf ein Foto zugreife, könnten Verdächtige auch nicht gewarnt werden.
+Datenschützer warnen bereits, „daß durch den vermehrten Abruf und die Auswertung der Lichtbilder und den Abgleich mit Gesichtserkennungssystemen künftig das eigene Gesicht zum digitalen Identifizierungsmerkmal im normalen öffentlichen Raum wird“.
+Auf Initiative von Bundesinnenminister Thomas de Maiziére (CDU) soll im Herbst außerdem ein Modellversuch mit biometrischer Gesichtserkennung am Bahnhof Berlin-Südkreuz starten.
+Im „Projekt Sicherheitsbahnhof“ arbeiten das Bundesinnenministerium, das Bundeskriminalamt und die Deutsche Bahn gemeinsam an dem Pilotprojekt zu „intelligenter Videoanalyse“.
+„Die Sicherheitsbehörden versprechen sich davon die Erkennung auffälliger Szenarien – beispielsweise unbegleitete Gepäckstücke oder auffällige Personen.
+Damit werden Kameras zu Verhaltensscannern.
+Hinzu kommt automatische Gesichtserkennung, die Bahnhofsbesucher identifizieren soll.
+Während der Testphase soll das zunächst an freiwilligen Personen erprobt werden, die ihre Paßbilder oder Fotos zur Verfügung stellen.
+Auf welche Datenbanken die Systeme bei einem späteren Regelbetrieb zurückgreifen sollen, ist derzeit nicht entschieden“, faßt das Portal „netzpolitik.org“ zusammen.
+Auch dieser Modellversuch steht in der Kritik: „Der Bahnhof Südkreuz, der sowohl von S-Bahnen, Regional- als auch Fernverkehr angefahren wird, stellt im Rahmen dieser Entwicklung einen weiteren, bedenklichen Höhepunkt dar.
+Wenn das Pilotprojekt im Sinne von BMI und Sicherheitsbehörden erfolgreich verläuft, wird es auf weitere Bahnhöfe und Bereiche des öffentlichen Lebens ausgedehnt werden.
+Dann könnte in Zukunft schon das hektische Hin- und Herlaufen im Bahnhof dazu führen, von einem Computersystem als potentiell gefährlich markiert zu werden.
+Durch den Abgleich mit Bilddatenbanken würde es unmöglich, sich anonym in der Öffentlichkeit zu bewegen.
+Dadurch werden das eigene Verhalten und die Bewegungsfreiheit eingeschränkt.
+Für alle, auch wenn sie nichts Böses im Schilde führen“, kritisiert „netzpolitik.org“.
+(sp)

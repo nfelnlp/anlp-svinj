@@ -1,0 +1,22 @@
+International
+0
+Stanford/Kalifornien.
+Nicht nur die automatisierte Überwachung macht rasante Fortschritte.
+Sogenannte „künstliche Intelligenz“ (KI) hält längst auch in ganz anderen Lebensbereichen Einzug.
+Jetzt stellten Computerwissenschaftler des Artificial Intelligence Laboratory an der Stanford University eine Studie vor, in deren Rahmen 50 Millionen Bilder, die von Google-Street-Views-Autos in den Straßen und Stadtvierteln von 200 Städten aufgenommen wurden, ausgewertet und zu automatisierten Erkenntnissen über Lebensgewohnheiten, Einkommen und selbst die politische Einstellung der Bewohner ganzer Stadtviertel verarbeitet wurden.
+Die Zaubervokabel dabei lautet „Deep learning“ – dabei handelt es sich um „selbstlernende“ Verarbeitungsprozesse am gesammelten Datenmaterial, die mit schon bekannten Korrelationen gekoppelt werden.
+Eines der Ausgangsaxiome der US-Wissenschaftler war bei ihrer Studie, daß Autos zu den „am meisten personalisierten Ausdruckformen der amerikanischen Kultur“ gehören.
+Über 90 Prozent der US-Haushalte besitzen ein Auto, das bedingt durch zahlreiche spezifische Faktoren angeschafft wird: persönliche Präferenzen, Bedürfnisse des Haushalts und ökonomische Gegebenheiten.
+Zusätzlich könnte für präzisere Ergebnisse auch noch der Abstand zwischen Häusern, die Zahl der Stockwerke und die Art der Begrünung einbezogen werden, unterstreichen die Wissenschaftler.
+Tatsächlich konnten anhand der digitalisierten Auswertung bemerkenswerte Ergebnisse erzielt werden: für jedes untersuchte Stadtviertel leiteten die Forscher anhand der festgestellten Pkw demografische, sozioökonomische und politische Eigenschaften der Anwohner ab.
+Gezählt wurden dabei nicht nur die einzelnen Fahrzeuge.
+Auch die Fahrzeugtypen, die Kaufpreise, der Benzinverbrauch und die Fahrzeugdichte wurden gewertet.
+So bevorzugten Asiaten beispielsweise vorwiegend Hondas und Toyotas.
+Chrysler, Buick und Oldsmobil ließen Rückschlüsse auf afroamerikanische (schwarze) Viertel zu, während Weiße kaukasischer Abstammung Pickups, Volkswagen und Aston Martins bevorzugten.
+Und mehr noch: wo überwiegend Demokraten gewählt werden, überwiegen Limousinen, Pickups weisen auf republikanische Wähler hin.
+Unter dem Strich kann das an der Stanford University entwickelte System 2657 Merkmals-Kategorien in 0,2 Sekunden pro Auto analysieren.
+Die korrekte Identifizierungsrate lag bei 95% für Pkws, 83% für Vans, 91% für Minivans.
+86% für SUVs und 82% für Pickups.
+Die digitale Sichtung der 50 Millionen Bilder dauerte zwei Wochen.
+Die Studie ist in den Proceedings of the National Academy of Sciences erschienen.
+(mü)

@@ -1,0 +1,8 @@
+National
+6
+Ein wichtiges Informationsangebot haben das Statistische Bundesamt, die Bundesagentur für Arbeit und das Bundesamt für Migration und Flüchtlinge gemeinsam auf die Beine gestellt.
+Es handelt sich um eine interaktive Karte, die für alle Städte und Landkreise Deutschlands den jeweiligen Anteil von Ausländern ausweist, und zwar zum Stichtag 31. Dezember 2015.
+Neben dem Gesamtanteil können auch Geschlechterverteilung, Altersklassen und Arbeitslosenquote separat abgefragt werden.
+Die sogenannten „Schutzsuchenden“ mit den sechs wichtigsten Herkunftsländern sind ebenfalls direkt abfragbar.
+Achtung: Aufgeführt ist nur die Bevölkerung mit ausländischer Staatsangehörigkeit, die Millionen Menschen mit Migrationshintergrund und deutschem Paß sind kein Bestandteil der Karte.
+Das Angebot gibt es hier: https://service.destatis.de/DE/karten/migration_integration_regionen.html

@@ -1,0 +1,98 @@
+11. September 2017 um 12:07 Uhr | Verantwortlich: Jens Berger
+AfD-Werbung – Facebook hat ein Social-Bot-Problem
+Veröffentlicht in: AfD , Audio-Podcast , Medienkritik , Rechte Gefahr , Strategien der Meinungsmache
+Nachdem die Satireseite Der Postillon sich am Freitag gänzlich unsatirisch über Twitter wunderte, dass Facebook an prominenter Stelle politische Diskussionsgruppen aus dem Umfeld der AfD empfiehlt, löste dies eine Welle der Aufregung aus.
+#fickdichfacebook wurde am Wochenende zum meistgenutzten Hashtag und auch der Faktenfinder der Tagesschau nahm sich – diesmal sogar seriös – der Thematik an.
+Eigene Tests konnten die Vorwürfe bestätigen: Facebook empfiehlt aktiv und ohne erkennbare sachliche Gründe seinen Nutzern rechtsextreme Diskussionsgruppen.
+Dies ist aber nicht das einzige Problem, das Facebook mit braunen Meinungsmachern hat.
+Für den Eklat gibt es fünf mögliche Gründe, wobei es wahrscheinlich ist, dass Social Bots zugunsten der AfD den Algorithmus beeinflussen.
+Von Jens Berger.
+Dieser Beitrag ist auch als Audio-Podcast verfügbar.
+Podcast: Play in new window | Download
+Überprüfen Sie es selbst.
+Wenn Sie diesen Link anklicken , bekommen Sie auf Facebook Empfehlungsseiten für politische Gruppen – angeblich sind die Einträge vom Facebook-Algorithmus anhand Ihrer Interessen und den Interessen Ihrer Facebook-Freunde sorgfältig ausgewählt.
+Bei mir sehen diese Empfehlungen so aus:
+Das ist gleich aus mehreren Gründen erstaunlich.
+Zum Einen gibt mein Klickverhalten keinen Grund dafür, mir ausgerechnet AfD-Seiten zu empfehlen.
+Hinzu kommt, dass kein einziger meiner 722 Facebook-Kontakte in diesen Gruppen zu finden ist.
+Wie eine Empfehlung aussehen könnte, die sich tatsächlich anhand meiner Interessen und den Interessen meiner Freunde richtet, konnte ich wesentlich weiter unten auf der Seite sehen:
+Hier sehen Sie drei Gruppen, in denen tatsächlich Facebook-Freunde von mir Mitglieder sind und dazwischen wieder einmal eine rechtsextreme Gruppe, in der keiner meiner Facebook-Kontakte Mitglied ist.
+Von den ersten 25 Empfehlungen trifft dies wohlgemerkt auf 21 zu – wir haben es hier also nicht mit Ausnahmen, sondern mit der Regel zu tun.
+Dieses Phänomen ist auch kein Einzelfall.
+Nahezu allen Twitter-Nutzern, die sich am Wochenende echauffierten, wurden exakt diese Gruppen empfohlen.
+Darunter immer wieder Gruppen, in denen die AfD im Titel vorkommt, sowie klar rechtsextreme Gruppen wie „Besorgte Bürger“ oder „Die Patrioten“- amüsanterweise taucht auch die Gruppe „NEIN zur AfD“ regelmäßig bei vielen Nutzern sehr weit oben auf, was vor allem interessant ist, wenn man die Möglichkeit nicht außer Acht lässt, dass der Algorithmus manipuliert wurde.
+Kleiner Exkurs – worum geht es hier eigentlich
+Da nicht jeder NachDenkSeiten-Leser mit der Thematik vertraut ist, werde ich kurz erklären, was Facebook-Gruppen eigentlich sind: Auf Facebook gibt es tausende unterschiedlicher Gruppen für alle Interessen.
+Das geht von lokalen Flohmärkten, lokalen Themen bis hin zu Gruppen zu allen möglichen Hobbies und Interessen.
+Kinderschuhe werden über Facebook-Gruppen verkauft, in anderen Gruppen können Hobbypilzsammler Bilder aus dem Wald hochladen und die Pilze werden dann binnen Minuten von Fachleuten identifiziert.
+Es gibt Gruppen, die nur Nutzern bestimmter Ortsteile offenstehen und internationale Gruppen, in denen Englisch die Arbeitssprache ist.
+Erstellt werden diese Gruppen stets von Nutzern, die dann auch entscheiden, ob die Gruppen offen sind, also jeden Interessierten aufnehmen, oder geschlossen sind und neue Mitglieder nur von einem Gruppenleiter ernannt werden dürfen.
+In diesen Gruppen wird dann diskutiert und es werden von Mitgliedern auch externe Inhalte verlinkt und kommentiert.
+Man darf sich das also als virtuellen Stammtisch vorstellen, wobei dies bei sehr großen Gruppen schon abstrakt ist – einige Jeremy-Corbyn-Gruppen, in denen ich Mitglied bin, haben beispielsweise um die 100.000 Mitglieder.
+In Normalfall werden Nutzer durch „Anzeigen“ auf derartige Gruppen aufmerksam gemacht.
+Dabei wird vor allem auf Gruppen hingewiesen, in denen Facebook-Freunde Mitglieder sind, die im Netzwerk ein ähnliches Verhalten aufweisen – also ähnliche Seiten mit einem „Gefällt mir“ markieren und sich mit dem Nutzer häufiger unterhalten.
+Dass an prominenter Stelle Gruppen empfohlen werden, bei denen es keine erkennbaren Parallelen zum Nutzer gibt, ist eher ungewöhnlich.
+Woher kommen die rechtsextremen Empfehlungen – es gibt drei Möglichkeiten
+Facebook ist natürlich vor allem ein profitorientierter Konzern, der sich über seine Fähigkeit für äußerst zielgruppengenaue Werbung finanziert.
+Wer beispielsweise nur 20- bis 40-jährigen Männern mit Interesse für den ARD-Tatort, die im Großraum München leben und im letzten Jahr in Österreich waren, seine Werbung anzeigen will, der kann dies über Facebook sehr günstig tun.
+Bei klassischen Werbekanälen ist der Streuverlust meist sehr groß und derart spezifische Zielgruppen sind bei anderen Werbeformen ohnehin nicht separat ansprechbar.
+Daher liegt hier natürlich der Verdacht nahe, dass die rechtsextremen Aktivisten entweder direkt oder indirekt für die getürkten Empfehlungen bezahlen.
+Diese Erklärung schließt Facebook jedoch auf Anfrage der Faktenfinder aus.
+Das Unternehmen verweist stattdessen auf seinen Algorithmus, der laut Facebook folgende Faktoren berücksichtigt:
+Seiten, die dir gefallen
+Öffentliche oder geschlossene Gruppen, in denen deine Freunde Mitglied sind
+Öffentliche oder geschlossene Gruppen, die Gruppen ähneln, in denen du Mitglied bist
+Öffentliche oder geschlossene Gruppen, die sich in deiner Nähe befinden
+Nun spielen alle diese Faktoren nicht nur in meinem, sondern auch in den Beispielen hunderter Nutzer, die dies über Twitter kommunizierten, ganz offensichtlich keine Rolle.
+Daraus folgt:
+Möglichkeit 1: Facebook lügt und lässt sich für derartige Empfehlungen doch bezahlen.
+Das halte ich für wenig wahrscheinlich, da eine derartige Praxis schnell herauskäme und Facebook – vor allem in diesem Kontext – schlechte Pressemeldungen verschaffen würde.
+Vor allem in Deutschland hat Facebook ohnehin schon viel Ärger wegen rechter Umtriebe im eigenen Netz.
+Da wäre man sicher nicht so dumm, seine Zukunft für ein paar Euro aufs Spiel zu setzen.
+Möglichkeit 2: Facebook hat eine „rechte Agenda“ und zeigt die Inhalte mit voller Absicht
+Diese Möglichkeit ist eigentlich ebenfalls auszuschließen, da Facebook sich als unpolitische Plattform begreift, die am liebsten überhaupt nicht wertend in die Inhalte eingreifen würde.
+Das ist auch durchaus glaubhaft.
+Während Facebook in Windeseile jeden Nippel von Bildern weiblicher Brüste „zensiert“, tut man sich mit politischer Einflussnahme – gleich zu welcher Seite – eigentlich in der Regel sehr schwer und reagiert erst dann, wenn sich die Zahl der Beschwerden häuft oder der Staat interveniert.
+Möglichkeit 3: Der Algorithmus von Facebook wurde gehackt
+Dass ausgerechnet die Sympathisanten der AfD den Algorithmus des größten sozialen Netzwerks der Welt hacken und zu ihren Gunsten umprogrammieren, ist ebenfalls sehr unwahrscheinlich.
+Wer derartige Fähigkeiten hat, wäre ein gemachter Mann und müsste sich nicht für irgendwelche „besorgten Bürger“ exponieren.
+Nicht auszuschließen ist jedoch eine Beeinflussung des Algorithmus.
+Möglichkeit 4: Der Algorithmus von Facebook funktioniert in diesem Punkt schlicht nicht
+Bliebe die profanste aller Möglichkeiten.
+Facebook verspricht hier Features, die das Netzwerk zumindest in diesem Punkt überhaupt nicht beherrscht.
+Facebook ist zweifelsohne eine quantitativ extrem erfolgreiche Plattform.
+Aber wie sieht es mit der Qualität wirklich aus?
+Ob das Unternehmen seine Werbung wirklich so zielgruppenspezifisch anzeigen kann, wie es selbst behauptet, ist auch für Werbetreibende nicht kontrollierbar.
+In der Theorie hört sich das ja alles ganz toll an.
+Ob in der Praxis jedoch diese Versprechungen auch eingehalten werden, ist eine ganz andere Frage.
+Ich möchte es nicht ausschließen, dass der konkrete Algorithmus für die Gruppenempfehlungen schlicht nicht richtig funktioniert und am Ende gar keine nutzerspezifischen Empfehlungen abgibt.
+Und hier kommt dann ein weiterer Punkt ins Spiel.
+Möglichkeit 5: Bots tricksen den Facebook-Algorithmus zumindest in Teilen aus
+Es ist bekannt, dass gerade auf Facebook massiv sogenannte Social Bots ihr Unwesen treiben.
+Pikanterweise ist die AfD die einzige deutsche Partei, die offen zugegeben hat, dass sie im Wahlkampf Social Bots einsetzen will .
+Daher ist es sehr gut möglich, dass die von Facebook empfohlenen Gruppen massiv durch derartige „Meinungsroboter“ gepusht wurden und diese manipulierten Faktoren im nicht so recht funktionierenden Facebook-Algorithmus die gewollten Faktoren ausmanövrieren.
+Generell sind die Algorithmen nicht vor derlei Manipulationen gefeit.
+Facebook muss ernsthaft nachbessern
+Das Problem der Bots geht dabei weit über derlei Gruppenempfehlungen hinaus.
+Dazu zwei konkrete Beispiele von den NachDenkSeiten.
+Bei einem Artikel zu den Abschiebungen nach Afghanistan und einem Artikel zur Flüchtlingsmisere auf dem Mittelmeer konnten wir folgendes Phänomen beobachten.
+Bereits rund 15 Minuten nach Veröffentlichung der Artikel wurde unsere Facebook-Seite mit einschlägigen Kommentaren aus dem rechtsextremen Lager überschwemmt.
+Fast keiner der Accounts, die hier gepostet haben, wies irgendwelche Schnittstellen zu den NachDenkSeiten auf.
+Keiner der Nutzer hatte die NachDenkSeiten „geliked“ oder abonniert und es war auch nicht erkennbar, dass diese Accounts über „Freunde“ oder themenähnliche Seiten von Facebook auf unsere Artikel aufmerksam gemacht wurden.
+Wie hunderte solcher Accounts in so kurzer Zeit auf die Facebook-Kommentarspalte unseres Artikels stießen, ist uns nach wie vor ein Rätsel.
+Diese Accounts kamen aus dem „virtuellen Nirwana“ und überzogen die Kommentarspalte zu den genannten Artikeln mit rechter Hetze.
+In beiden Fällen mussten wir binnen weniger Stunden jeweils hunderte solcher Kommentare löschen und die Nutzer sperren.
+Auffällig auch: Durch gegenseitige „Gefällt-mir-Angaben“ haben diese Accounts ihre eigenen Kommentare gekonnt nach oben „gepusht“ – sie haben dem Algorithmus über digitale Interaktionen eine Relevanz vorgegaukelt, die sie rein objektiv nicht hatten.
+Natürlich können wir es nicht beweisen – aber das ganze Phänomen deutet klar darauf hin, dass hier Social Bots am Werk waren.
+Es erscheint alleine schon merkwürdig, dass keiner der gut 1.000 von uns gesperrten Nutzer sich jemals bei uns beschwert hat.
+Anders als Meinungsroboter sind „echte“ AfD-Sympathisanten, die gelöscht oder gar gesperrt werden, bekanntermaßen sehr mitteilungsfreudig.
+Ähnliche Beobachtungen haben schon viele Leute gemacht, die sich intensiv mit der Materie auseinandergesetzt haben.
+Es geht nicht mehr um die Frage, ob Bots eingesetzt werden, sondern wo, wie und in welchem Maßstab.
+Lesen Sie dazu bitte auch den Artikel „ Die Meinungsroboter kommen – die nächste Eskalationsstufe im Propagandakrieg um unsere Köpfe ist erreicht “
+Haben Sie bitte Verständnis dafür, dass ich Ihnen hier keine umfassende Analyse oder gar konkrete Verbesserungsvorschläge machen kann.
+Wir haben es hier mit einem Problem zu tun, das aufgrund der intransparenten Struktur der Algorithmen schlicht nicht greifbar ist.
+Jeder ahnt es, die meisten wissen es, doch kaum wer hat einen näheren Einblick in das Phänomen.
+Umso wichtiger erscheint es mir, die Probleme noch einmal offen anzusprechen und darauf hinzuweisen.
+In einer Welt, in der Zeitungen kaum mehr gelesen und Fernsehen ein Unterhaltungsmedium der Eltern- und Großelterngeneration ist, wird das Manipulationspotential durch die Algorithmen wohl zu dem großen Medienthema der nächsten Jahrzehnte.
+Da kann es nicht schaden, den Anfängen zu wehren.
+Selbst wenn es nur um skurrile Phänomen wie rechtslastige Gruppenempfehlungen von Facebook geht.

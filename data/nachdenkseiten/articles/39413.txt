@@ -1,0 +1,81 @@
+31. Juli 2017 um 12:39 Uhr | Verantwortlich: Jens Berger
+Zensiert Google linke Webseiten?
+Veröffentlicht in: Audio-Podcast , Medienkonzentration Vermachtung der Medien
+Der Vorwurf, den die Macher der World Socialist Web Site (WSWS) erheben , hat es in sich: Google habe vor rund drei Monaten seinen Such-Algorithmus verändert, um politische Zensur gegen linke Webseiten auszuüben.
+Das Alles fände unter dem Vorwand statt, Fake News zu bekämpfen und die Nutzer vor Seiten mit Verschwörungstheorien zu beschützen.
+Um die Vorwürfe zu untermauern, fügt WSWS zahlreiche Zahlen an, die jedoch für Externe nicht überprüfbar sind.
+Auch wenn sich die Vorwürfe von WSWS bei einer stichprobenartigen Überprüfung so nicht bestätigen lassen, werfen die Ergebnisse dennoch Fragen auf.
+Und vollkommen unabhängig vom Fallbeispiel WSWS zeigt die Debatte, wie groß das Missbrauchspotential durch Google ist und dass es im allgemeinen Interesse sein muss, Google transparenter und demokratischer zu machen.
+Von Jens Berger.
+Dieser Beitrag ist auch als Audio-Podcast verfügbar.
+Podcast: Play in new window | Download
+Dass Google vor rund drei Monaten seinen Algorithmus geändert hat, um die „Qualität der Suchergebnisse“ zu „verbessern“, ist ein Fakt.
+Nach Aussagen des Google-Suchmaschinen-Chefentwicklers Ben Gomes hat Google dafür 10.000 „Evaluatoren“ ausgewählt, mit deren Hilfe die „Qualität“ verschiedener Internetangebote bewertet werden soll.
+Die Ergebnisse dieser Nutzer-Evaluation gehen demnach in den Algorithmus ein und sorgen unter der Motorhaube der Suchmaschine dafür, dass Seiten, die als „qualitativ minderwertig“ gekennzeichnet wurden, bei den Suchergebnissen nach hinten rutschen.
+WSWS sieht sich nun als Opfer dieser Überarbeitungen und spricht von politischer Zensur.
+Nach eigenen Angaben soll die Zahl der Besucher, die pro Monat über Google auf die Angebote von WSWS finden, in den letzten drei Monaten von 467.890 auf 138.275 gefallen sein.
+WSWS nennt auch zahlreiche Beispiele für konkrete Suchanfragen, über die vor drei Monaten noch zahlreiche Nutzer auf die Seite stießen und die heute gar keine Google-Nutzer mehr zum WSWS-Angebot leiten.
+Glaubt man dem WSWS-Team, betrifft diese „Zensur“ nicht nur die eigene Seite, sondern generell linke, progressive und Anti-Kriegs-Webseiten, deren Traffic (Besucherzahlen) demnach im fraglichen Zeitraum massiv einbrachen.
+Sind auch die NachDenkSeiten betroffen?
+Zahlreiche unserer Leser, die diese Schilderungen am Wochenende gelesen haben, fragten schon besorgt bei uns an, ob die NachDenkSeiten auch Opfer dieser Google-Zensur seien.
+Ein kurzer Blick auf unsere Server-Statistiken zeigt, dass dies nicht der Fall ist.
+Die Zahl der Besucher, die über Google auf die NachDenkSeiten kommen, ist stetig und konstant und ohnehin vergleichsweise gering – nur jeder zehnte Leser kommt über einen klassischen Suchbegriff auf die NachDenkSeiten.
+Dies liegt jedoch nicht an den Algorithmen, sondern an der sehr großen Zahl von Stammlesern und der vergleichsweise hohen Zahl von Lesern, die uns über Links in den Sozialen Netzwerken finden.
+Mein Eindruck ist ohnehin, dass die Vorwürfe der WSWS ziemlich überzogen sind.
+So belegt WSWS den unterstellten generellen Rückgang der Besucherzahlen linker, progressiver und Anti-Kriegs-Webseiten mit dem Ranking des zum Amazon-Konzern gehörenden Dienstes Alexa .
+Alexa-Daten sind jedoch sehr unzuverlässig, vor allem für politisch kritische Seiten.
+Alexa erhebt seine Daten nämlich über eine „ Toolbar “, also ein kleines sinnfreies Plugin, das der Nutzer speziell für seinen Browser installieren muss.
+Ich kenne kaum jemanden, der je von diesem Plugin gehört hat und niemanden, der diese „Toolbar“ aktiv nutzt.
+Warum auch?
+Wer nutzt denn freiwillig eine Schnüffelsoftware, die von den meisten Spyware-Programmen ohnehin gemeldet und entfernt wird?
+Gerade für kritische Webseiten mit einer kritischen Leserschaft ist Alexa daher auch vollkommen ungeeignet und liefert keine validen Ergebnisse.
+Den NachDenkSeiten attestiert Alexa übrigens eine sehr positive Entwicklung für die letzten drei Monate – aber auch das ist freilich das Ergebnis eines „Stocherns im Trüben“ auf Basis einer verschwindend geringen Stichprobe.
+Überprüfen wir doch einmal die Vorwürfe
+Stichproben, die nicht den Anspruch erheben, repräsentativ zu sein und valide Ergebnisse zu bringen, kann man zur WSWS-Beschwerde übrigens auch persönlich machen.
+Eine Stichprobe, die ich durchgeführt habe, lieferte unklare Ergebnisse.
+Einige Suchergebnisse widersprechen den WSWS-Vorwürfen, andere sind jedoch in der Tat unerklärlich und hier sollte Google einmal Stellung beziehen.
+Da man auf den alten Google-Algorithmus keinen Zugriff mehr hat, muss man die Suchergebnisse mit denen alternativer Suchmaschinen wie DuckDuckGo und Bing vergleichen, die keine „Nutzer-Evaluationen“ durchführen.
+Stichprobe 1: „Drone Valley“
+Im September 2016 hatte WSWS einen spannenden Artikel über die Drohnen-Forschung an US-Universitäten veröffentlicht, die in San Diego unter dem Schlagwort „Drone Valley“ betrieben wird.
+Gibt man den Begriff „Drone Valley“ bei der Google-Suche ein, so taucht dieser Artikel erst an 31.
+Stelle auf.
+Bei den alternativen Suchmaschinen DuckDuckGo und Bing kommt der Artikel jedoch auch erst an 22. bzw. 24.
+Stelle in den Suchergebnissen.
+Der Google-Algorithmus scheint den WSWS-Artikel etwas schlechter einzuordnen – aber nur unwesentlich, so dass man keine Aussagen machen kann.
+Stichprobe 2: „Socialist Equality Party Sri Lanka“
+Als zweites habe ich es mit einem Begriff probiert, der auf WSWS im Vergleich zu andern Medien häufiger vorkommt – der „Socialist Equality Party“, einer trotzkistischen Partei aus Sri Lanka, die von der trotzkistischen WSWS gerne gecovert wird.
+Hier müsste die WSWS doch prominenter in den Suchergebnissen vertreten sein.
+Das ist auch der Fall.
+Der erste WSWS-Link kommt bei Google gleich hinter der deutschen und englischen Wiki-Seite und der Internetpräsenz der Partei selbst an vierter Stelle.
+Auch DuckDuckGo und Bing listen den ersten WSWS-Treffer an vierter Stelle.
+Stichprobe 3: „Geopolitics of Terrorism“
+Als dritte Stichprobe habe ich mir einen Artikel von Bill van Auken mit dem einschlägigen Titel „ Understanding the geopolitics of terrorism “ herausgesucht.
+Und siehe da: Gibt man bei Google „Geopolitics of Terrorism“ ein, erscheint der WSWS-Artikel gleich an erster Stelle.
+Bei DuckDuckGo und Bing erscheint der Artikel erst an vierter Stelle in den Suchergebnissen.
+Bei diesem Beispiel wird die WSWS also von Google sogar höher bewertet als bei alternativen Suchmaschinen.
+Es gibt jedoch auch ein krasses Gegenbeispiel.
+Stichprobe 4: „trump cory bernardi split liberal party“
+Als viertes Beispiel habe ich mir einen Artikel über einen australischen Rechtspopulisten ausgesucht, über den auch einige klassische Medien berichteten.
+Die am Artikel angelehnte Suchabfrage „trump cory bernardi split liberal party“ führt jedoch bei Google erstaunlicherweise überhaupt nicht auf den WSWS-Artikel.
+Dies ist umso merkwürdiger, da der Artikel bei DuckDuckGo an dritter Stelle und bei Bing sogar an zweiter Stelle in den Ergebnissen gelistet ist.
+Zensiert Google?
+Warum der WSWS-Artikel über Cory Bernardi bei Google nicht auftaucht, ist in der Tat unerklärlich.
+Von einer generellen Zensur der WSWS-Inhalte kann jedoch nicht gesprochen werden, da die allermeisten Suchanfragen offenbar genau so beantwortet werden, wie von der Konkurrenz.
+Bei weiteren Stichproben ließen sich auch die Fallbeispiele nicht bestätigen, die von der WSWS genannt werden.
+So behauptet WSWS beispielsweise , dass die Seite über Google keine Besucher mehr bekäme, die einen Suchbegriff benutzen, der die Wörter „Leo“ und „Trotzki“ enthält.
+Dies lässt sich jedoch empirisch nicht nachvollziehen.
+Bei meinen Stichproben wurden bei diversen Suchanfragen mit diesen Begriffen die WSWS-Ergebnisse bei Google nicht schlechter dargestellt als bei DuckDuckGo oder Bing.
+Das konkrete WSWS-Beispiel „Who is Leon Trotsky“ liefert übrigens nicht nur bei Google, sondern auch bei DuckDuckGo und Bing keine Top-Treffer bei WSWS.
+Summa summarum kann man also sagen, dass die Vorwürfe der WSWS sich nicht so richtig nachvollziehen und sich durch stichprobenhafte Überprüfungen nicht verifizieren lassen.
+Wenn WSWS tatsächlich weniger Besucher über Google bekommt, kommen auch andere Gründe in Frage.
+Die Algorithmen von Google sind eine Wissenschaft für sich und ein ganzer Wirtschaftszweig beschäftigt sich damit, Internetseiten für Google attraktiver zu machen.
+Woran es liegt, dass WSWS weniger Leser bekommt, ist daher von außen nicht seriös zu sagen.
+Nichtsdestotrotz hat das Thema Brisanz.
+Alleine schon der Umstand, dass Google eigenmächtig einen Algorithmus einführen könnte, der kritische, linke und progressive Webseiten systematisch benachteiligt, sollte Anlass zur äußersten Kritik sein.
+Google hat ein De-Facto-Monopol auf Suchmaschinen und damit die Macht, Seiten zu pushen oder im digitalen Nirwana verschwinden zu lassen.
+Und das Alles geht vollkommen intransparent vonstatten.
+Niemand weiß, was wirklich unter der Motorhaube von Google vorgeht und niemand – auch nicht Politik und Justiz – können nachvollziehen, wie Google seine Macht einsetzt.
+Das ist ein Zustand, der eigentlich unhaltbar ist.
+Paradoxerweise wachen die Politiker nur dann auf, wenn es nicht um politische oder ideologische Fragen, sondern um die Wirtschaft geht.
+Weil Google Konkurrenten im Online-Shopping bei den Suchergebnissen benachteiligt, hat die EU-Kommission jüngst eine 2,4-Milliarden-Euro-Strafe gegen den IT-Giganten verhängt .
+Ob Google Zensur ausübt und politisch unliebsame Inhalte benachteiligt, scheint der EU-Kommission indes egal zu sein.

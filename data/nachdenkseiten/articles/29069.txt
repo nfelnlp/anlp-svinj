@@ -1,0 +1,98 @@
+26. November 2015 um 11:33 Uhr | Verantwortlich: Jens Berger
+Wie Amazon Kunden und den Staat täuscht – ein Selbstversuch
+Veröffentlicht in: Audio-Podcast , Ökonomie , Steuerhinterziehung / Steueroasen / Steuerflucht , Steuern und Abgaben , Verbraucherschutz
+Wer über Amazon einkauft, geht in der Regel davon aus, dass er seine Ware auch bei Amazon kauft.
+Dies entspricht jedoch sehr oft nicht der Realität.
+Amazon ist heute nicht nur ein großer Onlineshop, sondern vor allem eine noch viel größere Handelsplattform.
+Die meisten Kunden merken dabei überhaupt nicht, dass sie ihre Produkte nicht bei, sondern über Amazon kaufen.
+Der eigentliche Händler steht nur im Kleingedruckten.
+Dies ist für Amazon-Kunden vor allem dann problematisch, wenn der betreffende Händler nicht in der EU sitzt.
+Hohe Zölle und die Einfuhrumsatzsteuer müssen dann vom Kunden getragen werden, ohne dass dies beim Kauf transparent dargestellt wurde.
+Rücksendungen sind teuer und kompliziert, die Produkthaftung wird nicht gewährleistet.
+Aber das ist noch nicht alles.
+Bei einem besonders beliebten Angebot für ausländische Anbieter hilft Amazon indirekt sogar bei der Umgehung der Mehrwertsteuer.
+Geschädigt wird hierbei nicht nur der Staat, sondern auch andere Anbieter aus der EU, die ordnungsgemäß Steuern entrichten.
+Von Jens Berger.
+Dieser Beitrag ist auch als Audio-Podcast verfügbar.
+Podcast: Play in new window | Download
+Ein Objektiv von Amazon?
+Ich wage einmal den Selbstversuch und suche mir über Amazon.de ein besonders lichtstarkes Wechselobjektiv für meine Kamera.
+Für das 35mm-Objektiv vom Typ Mitakon würde ich beim Einzelhändler meiner Wahl rund 900 Euro bezahlen.
+Amazon bietet mir das Objektiv jedoch schon für 735,95 an und verspricht sogar eine kostenlose Lieferung.
+Wer mit Amazon nicht so vertraut ist, geht nun natürlich davon aus, dass er wie von Amazon gewohnt ein vorbildliches Rückgaberecht hat und der Händler Amazon auch für Garantie und Produkthaftung zuständig ist.
+Der Käufer muss auch davon ausgehen, dass alle Steuern und Gebühren inklusive sind.
+Schließlich steht im Angebot ja auch ganz explizit „Alle Preisangaben inkl. MwSt.“.
+Woher der Käufer das Objektiv geschickt bekommt, ob eventuell weitere Kosten anfallen und ob Rückversand und Gewährleistung unter Umständen eingeschränkt sind, lässt sich aus der Produktübersicht nicht erkennen.
+Ok, ich klicke auf „in den Einkaufswagen“ und das Objektiv landet in eben diesem.
+Auch jetzt sieht alles immer noch nach einem ganz normalen Onlinekauf aus:
+Auch bei der Kaufabwicklung findet sich (außer der für Amazon ungewöhnlich langen Lieferzeit) kein Hinweis darauf, dass für das Objektiv unter Umständen noch zusätzliche Kosten anfallen und die Produkthaftung eingeschränkt sein könnte.
+Hätte ich nun auf „Jetzt kaufen“ gedrückt[ * ], hätte ich in rund zwei bis drei Wochen nicht das Objektiv, sondern eine Karte vom zuständigen Zollamt in einem Briefkasten gefunden.
+Ich hätte dann im Zollamt das Paket öffnen und vor Ort 6,7% Zoll und 19% Einfuhrumsatzsteuer, also insgesamt 189,14 Euro nachbezahlen müssen.
+Was aus dem Amazon-Angebot nämlich nicht auf den ersten Blick erkenntlich ist: Das angebotene Objektiv kommt nicht von Amazon, sondern von einem Händler namens „Glück-Express“, hinter dem eine Firma namens G&Q Trading Co.
+in Suzhou China steht.
+Ich habe das Objektiv also rechtlich gesehen aus China importiert und muss daher selbstverständlich selbst die Kosten für Zoll und die Einfuhrumsatzsteuer tragen.
+Das vermeintliche Schnäppchen kostet mich also am Ende 925 Euro und eine Fahrt zum Zoll.
+Nun kann ich nur hoffen, dass die Ware auch einwandfrei ist und gefällt.
+Wenn dies nämlich nicht der Fall ist, kann ich das Objektiv auf eigene Kosten nach China zurückschicken und kriege – wenn ich viel Glück habe – den Kaufpreis erstattet.
+Eine Erstattung meiner Zoll- und Einfuhrumsatzsteuerauslagen ist zwar möglich, aber realistisch gesehen ein bürokratischer Albtraum, der auch nur dann in Erfüllung geht, wenn Zoll und der chinesische Händler mitspielen.
+Und die Gewährleistung?
+Die kann man in der Realität wohl auch abhaken.
+Wie kann Amazon mir diese wichtigen Informationen verschweigen?
+Die Antwort ist ebenso so simpel wie vorhersagbar: Amazon sieht sich in diesem Falle als reiner Logistikdienstleister.
+In der Pflicht ist der Händler.
+Und der bietet in seinem Impressum sogar tatsächlich die erforderlichen Informationen.
+Nur dort erkennt der Kunde, dass der Verkäufer ein chinesisches Unternehmen ist, die Ware in China gelagert ist, ein internationaler Versand nötig ist und der Käufer „falls Zollgebühren erhoben werden“, diese Gebühren auch selbst tragen muss.
+Von der Einfuhrumsatzsteuer ist im Impressum nicht die Rede.
+Interessant ist jedoch folgender Passus aus dem Impressum: „Die MwSt ist NICHT in Verkaufpreis inkl.“ Wie war das?
+Auf der Artikelseite behauptet Amazon doch das genaue Gegenteil!
+Wohlgemerkt: Diese Informationen erhält der potentielle Käufer nur dann, wenn er sich speziell das Impressum des Verkäufers anschaut.
+Wer die Ware ganz normal bei Amazon einkauft, erfährt davon nichts und erlebt am Ende sein blaues Wunder.
+Ein Powerakku aus Deutschland?
+Erfahrene Amazon-Nutzer werden bei solchen Angeboten erst dann skeptisch, wenn sie die vergleichsweise lange Lieferzeit sehen.
+Der hier beschriebene Fall gehört auf „Amazon-Deutsch“ zum Verkaufssystem „Amazon Marketplace“.
+Hier tritt Amazon nur als Verkaufs- und Inkasso-Plattform auf.
+Versand und Gewährleistung obliegen dem eigentlichen Händler, der Amazon für die Vermittlung des Kaufs und die Abwicklung der Bezahlung eine Provision bezahlt.
+Noch undurchschaubarer für den Kunden ist jedoch ein weiteres Verkaufssystem von Amazon, das der Konzern „Fulfillment by Amazon“ (FBA) nennt.
+Hier lagert die Ware physisch in einem Logistikzentrum von Amazon – also für deutsche Kunden in Deutschland oder Polen.
+Verkäufer ist jedoch nicht Amazon, sondern der jeweilige FBA-Partner von Amazon.
+Amazon kassiert dafür vom Verkäufer eine Lagergebühr und eine Abwicklungspauschale.
+Bei derartigen Produkten ist die Lieferzeit normal, Amazon bietet hier sogar oft seinen sehr beliebten „Prime-Versand“ an – also einen garantierten Empfang am nächsten Werktag.
+Zu diesen Produkten zählt beispielsweise der „Often Powerakku“, eine Art Backup-Batterie für Smartphones und Tablets.
+Selbst für Profis ist bei diesem Angebot nicht ersichtlich, dass hier irgendetwas nicht stimmt.
+Erst wenn man beim kleinen Passus „Verkauf durch Often und Versand durch Amazon“ auf „Often“ klickt, sieht man im Kleingedruckten, dass der Verkäufer ein Unternehmen aus Shenzhen, China ist.
+Da die Ware jedoch in Deutschland lagert, Zoll sowie Einfuhrumsatzsteuer bereits entrichtet wurden und Amazon hier sogar die Rücksendungen selbst abwickelt, scheint der Fall doch problemlos zu sein.
+Oder?
+Aus Kundensicht ist auch dieses Angebot keinesfalls problemlos.
+Wie ein Test des Fachmagazins c´t zeigt, werden bei derlei Angeboten aus Nicht-EU-Ländern nur in absoluten Ausnahmefällen ordentliche Rechnungen verschickt, auf denen dann auch die Mehrwertsteuer ausgewiesen ist.
+Wenn Sie nun beispielsweise selbstständig sind, können Sie ja mal versuchen, einen derartigen Artikel als Betriebsausgabe steuerlich geltend zu machen – viel Spaß.
+Hinzu kommt, dass die über FBA angebotenen Artikel meist noch nicht einmal die rechtlichen Anforderungen, wie z.B. eine Typzulassung, erfüllen.
+Sollte Ihr neuer „Powerakku“ also beispielsweise durchbrennen oder durch einen Spannungsstoß Ihr teures Smartphone zerstören, dann haben Sie halt Pech gehabt.
+Nicht Amazon, sondern der chinesische Handelspartner ist diesem Fall schadensersatzpflichtig.
+Gehen Sie mal zu Ihrem deutschen Anwalt und versuchen einen Händler mit Sitz in Shenzhen zu verklagen.
+Im besten Falle können Sie hier auf Kulanz hoffen.
+Größer als der persönliche ist jedoch der gesellschaftliche Schaden, der durch Handelsplattformen wie FBA entsteht.
+Wie der c´t-Test zeigt, werden von Händlern aus Nicht-EU-Ländern in der Regel nämlich keine Mehrwertsteuern abgeführt.
+Die Zahlung der Mehrwertsteuer von chinesischen Händlern wird de facto auf freiwilliger Basis durchgeführt.
+Es gibt diesbezüglich kein Amtshilfe-Abkommen zwischen Deutschland und China.
+Die deutschen Zollbehörden können also die anfallenden Mehrwertsteuern nicht eintreiben.
+Dafür werden aber doch Zölle und die Einfuhrumsatzsteuer erhoben!
+Ja, aber Zoll und Einfuhrumsatzsteuer beziehen sich im Großhandel auf den Zollwert und nicht auf den Verkaufspreis.
+Wenn ein chinesischer Händler die „Powerbank“ also mit einem Zollwert von 10 Euro bilanziert und für 28,99 Euro über Amazon verkauft, zahlt er gar keinen Zoll (Waren unter 22 Euro sind nicht zollpflichtig) und 1,90 Euro Einfuhrumsatzsteuer.
+Ein deutscher Anbieter, der die Powerbank für 28,99 Euro brutto verkaufen würde, müsste indes 5,51 Euro Mehrwertsteuer abführen.
+Gerade im Elektronikbereich, wo die Margen gering sind, ist dies ein unschlagbarer Wettbewerbsvorteil für den chinesischen Anbieter.
+Dieser Wettbewerbsvorteil ist die Umgehung der Mehrwertsteuer und Amazon leistet hierbei Beihilfe.
+Amazon macht sich diesbezüglich jedoch einen schlanken Fuß.
+Der Internetriese ist schließlich nur „Logistik-Dienstleister“ und daher nicht verantwortlich für die ordnungsgemäße Versteuerung der Artikel.
+Schließlich bringt DHL auch nur die Pakete in die Haushalte und kann nicht in Anspruch genommen werden, wenn der Absender bzw. Verkäufer seine Steuern nicht ordnungsgemäß bezahlt.
+Doch so einfach ist das nicht.
+Amazon.de bietet seine Waren exklusiv für den deutschen Markt an.
+Da wäre es doch eigentlich zu erwarten, dass man nur Verkäufer zulässt, die eine deutsche Steuernummer vorweisen können und die Umsatzsteuer ordentlich bezahlen.
+Sowohl der Verbraucherschutz als auch die Finanzbehörden sind hier gefordert.
+Es kann doch nicht sein, dass arglose Käufer durch das intransparente Angebotssystem von Amazon über den Tisch gezogen und ihrer Verbraucherschutzrechte beraubt werden.
+Und es kann auch nicht sein, dass der größte deutsche Online-Händler sich bei seinem Geschäftsmodell FBA als reiner Logistikdienstleister versteht und dabei Beihilfe zur Steuervermeidung ausübt.
+Wenn es um Steuervermeidung und Amazon geht, dann können wir nicht nur über die Steuervermeidungsstrategien von Amazon selbst sprechen – Amazon verhilft auch anderen Nicht-EU-Anbietern, ihrerseits Steuern zu vermeiden und dabei inländische Anbieter aus dem Markt zu drängen.
+Wie es besser gehen kann, zeigen unzählige Onlineshops – auch aus Hong Kong oder China, die Zollgebühren sowie Einfuhrumsatzsteuern automatisch an den deutschen Fiskus abführen und dem Kunden auf der Shopseite den echten Bruttopreis anzeigen.
+Warum sollte der Gigant Amazon das nicht hinbekommen können?
+[ «* ] Ich habe die hier aufgeführten Artikel natürlich nicht gekauft.
+In der Vergangenheit bin ich jedoch selbst bereits auf diese Masche hereingefallen.
+Zum Glück handelte es sich dabei jedoch nur um einen relativ preiswerten und technisch einwandfreien Objektivadapter, bei dem Zoll und Einfuhrumsatzsteuer überschaubar waren.

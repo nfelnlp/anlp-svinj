@@ -1,0 +1,126 @@
+16. Februar 2017 um 13:53 Uhr | Verantwortlich: Jens Berger
+München unterwirft sich Microsoft – Laptop und Lederhose passen doch nicht zusammen
+Veröffentlicht in: Audio-Podcast , Lobbyismus und politische Korruption , Staatsorgane
+2003 entschied sich die Stadt München, der Software des Monopolisten Microsoft „Servus“ zu sagen und in Eigenregie eine – zumindest in diesem Maßstab – noch nie dagewesene Alternative zu entwickeln.
+Zehn Jahre später war die Umstellung auf LiMux, ein eigens auf die Münchner Bedürfnisse umgesetztes Linux-System, abgeschlossen.
+Dann kam es zu einem Wechsel im Rathaus.
+Christian Ude ging und der „Microsoft-Freund“ Dieter Reiter übernahm.
+Kaum war Reiter im Amt, schossen er und sein Koalitionspartner von der CSU substanzlos, aber scharf gegen LiMux.
+Was folgte, war ein abgekartetes Spiel: Ein Microsoft nahestehendes Beratungsunternehmen lieferte die Vorlage und SPD und CSU versetzten dem Pinguin den Todesstoß.
+Gestern beschloss der Stadtrat das endgültige Aus für die freie Software im kommunalen Einsatz.
+Dieser Entscheid hat jedoch ein Gschmäckle.
+Erst vor kurzem eröffnete der Münchner OB Reiter die neue Europazentrale von Microsoft im Münchner Stadtteil Schwabing.
+Welche Vergünstigungen die Münchner Polit-Schickeria sonst noch bekommen hat, ist (noch) unbekannt.
+Von Jens Berger.
+Dieser Beitrag ist auch als Audio-Podcast verfügbar.
+Podcast: Play in new window | Download
+Drei wichtige Gründe für Linux
+Der Einsatz proprietärer, also geschlossener und unfreier Software im öffentlichen Sektor ist schon seit langem ein wichtiges Thema, dem in der öffentlichen Debatte kaum Bedeutung zugemessen wird.
+Und dabei geht es nicht „nur“ um das viele Steuergeld, das Jahr für Jahr über die Lizenz- und Nutzungsgebühren an Unternehmen wie Microsoft fließt.
+Spätestens seit Edward Snowden ist auch bekannt, dass die US-Dienste wie selbstverständlich Zugang zu IT-Systemen haben, auf denen die Software von Microsoft läuft.
+Da können wir unsere Steuererklärung auch gleich nach Fort Meade schicken.
+Dabei gibt es sehr wohl ausgereifte Alternativen zu Microsoft, die nicht nur im Sinne des Datenschutzes vorzuziehen sind.
+Eines der Hauptprobleme der Microsoft-Software ist es nämlich, dass sie vergleichsweise hardwarehungrig ist.
+So verlangt das 2009 erschienene und im Unternehmenseinsatz am weitesten verbreitete Betriebssystem Microsoft Windows 7 in der 64bit-Version mindestens zwei Gigabyte Arbeitsspeicher und einen Prozessor mit mehr als einem Gigahertz Taktfrequenz.
+Worüber heute wohl jeder Heimanwender lachen würde, war in München damals ein echtes Problem.
+Seinerzeit hatten mehr als die Hälfte aller Münchner IT-Arbeitsplätze weniger als 500 MHz Rechenpower und nur wenige Rechner mehr als 256 MB Arbeitsspeicher.
+Der große Vorteil an Linux ist, dass es auf diesen eigentlich schon lange abgeschriebenen Maschinen in der Regel flüssig läuft und damit teure Re-Investitionen vermeidet, die ja nach den „Innovationszyklen“ von Microsoft und Intel alle zwei bis drei Jahre erneuert werden müssen.
+Ein dritter entscheidender Grund ist die technologische Entwicklung des Standortes Deutschland.
+Microsoft, Apple, Intel, Google, Facebook, Amazon … man könnte diese Liste mühelos verlängern; all diese Unternehmen sind US-Unternehmen.
+Deutschland und sogar die EU haben bei den Informationstechnologien zumindest im großen Maßstab den Anschluss verloren.
+Es ist daher alleine schon im Sinne einer strategischen Wirtschaftspolitik zwingend nötig, nationale bzw. europäische Alternativen zu den US-Produkten zu entwickeln und sich aus der vorhandenen Abhängigkeit zu befreien.
+Würde ein Drittstaat das uneingeschränkte Monopol auf andere strategische Güter, wie z.B. Erdöl oder seltene Erden, haben, hätten wir schon längst einen langfristigen Maßnahmenplan, wie man sich aus der Abhängigkeit befreien könnte.
+Bei der IT-Technologie, die zweifelsohne die entscheidende Zukunftstechnologie ist, sieht dies jedoch anders aus.
+Und dabei zeigt gerade das Beispiel Linux, wie es anderes gehen kann.
+Linux ist nicht nur als Software, sondern auch als Idee, eine sinnvolle Alternative zu Microsoft und Co.
+Linux ist quelloffen, jedermann kann sich die Codezeilen selbst anschauen, am Code mitarbeiten und auch mögliche Sicherheitslecks erkennen.
+Es gibt keine Patente, keine Zwangsabgaben oder Lizenzgebühren.
+Niemand kann gegen den Willen der Nutzer einfach mal den Support beenden und die Kunden dadurch zwingen, sich neue Software und meist auch neue Hardware sowie externe Hilfe bei der Migration kaufen zu müssen.
+Und last but not least ist Linux weit mehr als „nur“ ein Betriebssystem für Arbeitsplatzrechner.
+Linux werkelt unter der Haube von Autos, Unterhaltungselektronik und Kommunikationselektronik.
+Auf den allermeisten Smartphones läuft beispielsweise Android, ein von Google umgeschriebenes Betriebssystem auf Linux-Basis.
+Und bei den Rechnern, die das Rückgrat des Internets bilden, hat Linux einen Marktanteil von mehr als zwei Dritteln.
+Für den IT-Standort Deutschland wäre es also durchaus sinnvoll, sich nicht von Microsoft und Co.
+abhängig zu machen, sondern auf Linux zu setzen und sowohl in der Ausbildung als auch in der Forschung und Entwicklung auf diesem Feld neue Wege zu beschreiten.
+München als Vorreiter
+Vor nunmehr 14 Jahren war die Stadt München ein Vorreiter, auf den man stolz sein konnte.
+Als erste europäische Großstadt widerstand die bayerische Landeshauptstadt dem massiven Lobbydruck von Microsoft und entschied sich 2003, einen Großteil der städtischen IT-Arbeitsplätze auf das Linux-Betriebssystem und freie Bürosoftware aus dem Open-Office-Paket umzustellen.
+Die Migration von Windows auf Linux erwies sich – Fachkreisen zufolge – als voller Erfolg.
+Fast genau 10 Jahre nach Projektbeginn meldete die Behörde Vollzug .
+Neben 14.000 umgestellten Arbeitsplätzen wurden unter anderem 10.000 Vorlagen erstellt und 130 Makros für den täglichen Einsatz programmiert.
+Der Teufel steckte jedoch auch in München wie so oft im Detail.
+In einer Welt, in der die meisten Heimanwender Microsofts Excel als Datenbankanwendung „nutzen“, mit Word Tabellen und mit Powerpoint Zeichnungen „erstellen“, ist der Austausch von Daten mit der Außenwelt natürlich ein echtes Problem, das jedoch weit über die „Systemfrage“ hinausgeht.
+Da kann es dann natürlich sein, dass ein Finanzbeamter aus München Probleme hat, auf die „Excel-Tapete“ seines Kollegen aus Ingolstadt zuzugreifen.
+Diese Probleme hat er jedoch unabhängig davon, ob er nun LiMux oder Windows 7 verwendet.
+Das eigentliche Problem steckt tiefer und liegt in der Verantwortung von Microsoft.
+Die Software von Microsoft ist zwar theoretisch in der Lage, auch auf Basis von offenen Dateiformaten zu arbeiten.
+Das geht in der Praxis aber nur dann, wenn die Mitarbeiter genau darauf geschult werden und auch mit offenen Formaten arbeiten.
+Dies geschieht jedoch so gut wie nie und Microsoft tut sein übriges, um die Nutzer dazu zu verleiten, Dokumente zu erstellen, die nicht offen und mit anderer Software voll kompatibel sind.
+Aber auch hier gilt: Das Problem liegt nicht bei LiMux, sondern bei Microsoft.
+Ich kann als Bürger nicht davon ausgehen, dass „mein“ Bauamt über die teure Software verfügt, das neueste Adobe-Photoshop-Format mit all seinen Features zu bearbeiten, also schicke ich Skizzen zu einem Bauantrag im PDF-Format.
+Andere Formate würde das Bauamt sicher auch ablehnen.
+Warum müssen andere Ämter dann aber Word-Dateien austauschen, die mit XML, VBA-Makros, eingebetteten Grafiken und Tabellen vollgestopft sind, deren Layout sofort „zerschossen“ ist, wenn man nicht die gleiche exotische Schriftart besitzt, mit der das Dokument erstellt wurde?
+Es ist an der Zeit, hier abzurüsten und einen offenen Standard zu definieren.
+Hier wäre es dann sinnvoll, ein quelloffenes Linux-Dateiformat als Standard zu nehmen.
+Und wenn Microsoft seinen Kunden ein solches Format nicht anbieten kann oder nicht anbieten will, dann ist dies kein Problem der Behörden, sondern ein Problem von Microsoft.
+In München wird dies jedoch vollkommen anders gesehen, wobei die „Argumente“ wirklich lächerlich wirken.
+Der „Microsoft-Fan“ wird Bürgermeister und alles ändert sich
+Der Umstieg von Microsoft auf LiMux war eines der Projekte des ehemaligen Münchner Oberbürgermeisters Christian Ude (SPD), der seinerzeit sogar dem Druck des Microsoft-Chefs Steve Ballmer widerstehen konnte, der wegen der Münchner Wechselpläne sogar eigens seinen Skiurlaub in der Schweiz unterbrach , um sich mit Ude zu treffen.
+Auf Ude folgte 2014 jedoch sein Parteifreund Dieter Reiter, der als bekennender „ Microsoft-Fan “ ganz eigene Vorstellungen hatte.
+Es dauerte dann auch nicht lange, bis Reiter, der nach eigenen Worten von der Linux-Entscheidung seines Amtsvorgängers „ überrascht “ war, anfing, gegen die freie Software zu wettern.
+Er selbst könne „ein Lied davon singen“, das „Open-Source-Software gelegentlich den Microsoft-Anwendungen hinterher hinke“.
+Nachdem die Umstellung von Reiters Mail-Account offenbar länger gedauert hat, als er es sich wünschte und dann auch noch der Mail-Server wegen eines Bugs am Wochenende ausfiel, ging Reiter in die Offensive.
+„Es [könne] nicht sein, dass der Mailserver der Stadt München tagelang nicht erreichbar ist“, so Reiter damals gegenüber der AZ.
+Er könne „mit der zweitbesten Lösung nicht zufrieden“ sein.
+Da stellt sich freilich die Frage, was ein Ausfall des Mailservers mit dem Desktop-Betriebssystem der Behördenmitarbeiter zu tun hat?
+Die Antwort ist: Nichts.
+Reiters Äußerungen zeigen vielmehr, dass er offenbar ziemlich inkompetent auf diesem Gebiet ist.
+Richtig ist, dass Microsoft früher einmal mit seinem „Exchange Server“ einen Marktanteil von rund 80% hatte.
+Heutzutage liegt der Marktanteil von Microsoft bei den Mailservern laut Marktforschungsanalysen bei unter zwei Prozent.
+Es gibt kaum Server, die nicht auf Linux oder einem anderen Unix-Derivat laufen.
+Das gilt übrigens auch und vor allem für cloudbasierte Lösungen, die auf Großrechnern (Mainframes) laufen.
+Was Reiter meint, ist vielmehr der Teil der Software, den er persönlich zu Gesicht bekommt, der aber relativ unabhängig von der Systemarchitektur im Hintergrund ist.
+Und dass man auf Linux selbstverständlich nutzerfreundliche Mail-Clients einbinden kann, versteht sich von selbst.
+Aber da der „Microsoft-Fan“ Reiter sich offenbar nie mit anderen Systemen beschäftigt hat, kann er dies auch nicht wissen.
+Als er den ersten Gegenwind bekam und die IT-Verantwortlichen der Stadt sich ihrerseits über ihren „Chef“ wunderten, ruderte dieser zurück und ging erst einmal in Deckung.
+Dafür lies er seinen Vize Josef Schmid (CSU) von der Leine, der dann ebenfalls kompetenzfreien „Stuss“ zum Besten gab.
+„Es [spräche] schließlich auch Bände, wenn für den OB und ihn erst ein externer Mailserver eingerichtet werden müsse“, damit der E-Mail-Verkehr auf den Smartphones der beiden Spitzenleute der Stadt überhaupt funktioniert.
+„Das [sei] nicht mehr zeitgemäß“.
+Freilich hat auch diese nichts, aber auch überhaupt nichts, mit LiMux zu tun, sondern betrifft die Serverarchitektur hinter den Kulissen.
+Und auch hier funktioniert in München offenbar auch bei den Smartphones alles hervorragend.
+Der Mailserver (Linux) kommuniziert mit den Clients (Android, basierend auf Linux, und iOS, basierend auf Darwin, das wie Linux zur Unix-Familie gehört) problemlos.
+Dass die Einrichtung der Bürgermeister-Smartphones etwas länger gedauert hat, lag laut der IT-Abteilung im Münchner Rathaus vor allem an den Sicherheitsvorkehrungen.
+Die eigentlichen Probleme liegen ganz woanders
+IT-Systeme, die eierlegende Wollmilchsäue sind, gibt es nicht.
+Kein System ist abhörsicher, 100% zuverlässig, offen aufgesetzt, kostenlos und kinderleicht zu bedienen.
+Linux-Systeme bringen oft das Problem mit sich, dass die Nutzer „von zu Hause“ ihr Windows kennen und verzweifeln, wenn sie diese oder jene Funktion nicht genau an dem Ort wiederfinden, an dem sie „schon immer war“.
+Die Probleme im IT-Bereich der Münchner waren aber ganz anderer Art: Zum Einen nutzte die Stadt München LiMux auch dafür, nötige Investitionen in die Hardware aufzuschieben.
+Auch wenn LiMux auch auf Uraltrechnern läuft, gibt es natürlich andere Probleme, die mit alter Hardware zu tun haben.
+Man sollte hier jedoch auch nicht vergessen, dass es hier um Arbeitsplatz-Rechner geht; dass man mit alten „Arbeitspferden“ vielleicht nicht immer die neuesten YouTube-Videos ruckelfrei in HD anschauen und die 4K-Urlaubsvideos vom iPhone über einen blitzschnellen Thunderbolt-Anschluss übertragen kann, sollte daher auch verschmerzbar sein.
+Neben den Klagen über die zu alte Hardware standen jedoch vor allem Klagen über die chaotischen Organisationsstrukturen ganz oben auf der Liste.
+Jedes Referat ist in München selbst für die IT-Organisation verantwortlich.
+Eine übergeordnete Kompetenzstelle gibt es nicht.
+Stattdessen betreuen gleich drei Unternehmen die Stadt in IT-Fragen; natürlich auch ohne klare Trennung der Kompetenzen.
+Auch diese Probleme haben jedoch nicht mit der LiMux-Entscheidung zu tun und sind im besten Sinne hausgemacht.
+Eine Auftragsstudie und eine neue Microsoft-Zentrale
+Zu diesem Ergebnis kommt überraschenderweise eine Studie des Beratungsunternehmens Accenture, die OB Reiter in Auftrag gegeben hat.
+Alleine die Auftragsvergabe zeigt bereits, dass Reiter die „Systemfrage“ nicht ergebnisoffen sieht.
+Accenture ist nämlich ein alter und guter Verbündeter von Microsoft.
+Zusammen betreibt man den IT-Dienstleister Avanade, der sich auf Großkunden spezialisiert hat und unter anderem die Stadt Frankfurt und das Land Rheinland-Pfalz mit Microsoft-Produkten und –Dienstleistungen betreut.
+Oder um es anders zu sagen: Accenture verdient mit Microsoft-Produkten sehr gutes Geld und ist ein guter Geschäftspartner des Software-Giganten.
+Da wäre es schon seltsam, wenn man der Stadt München raten würde, beim gefährlichsten Konkurrenten zu bleiben.
+Die Vorwürfe gegen LiMux sind jedoch so hanebüchen, dass selbst Accenture sich nicht durchringen konnte, einen direkten Wechsel zu Microsoft-Produkten zu empfehlen.
+Dies alles störte den „Microsoft-Fan“ Reiter jedoch nicht.
+Er setzte sich dennoch für einen Wechsel zu Microsoft ein.
+Ob dies vielleicht etwas damit zu tun hat, dass Microsoft erst vor wenigen Wochen mitten in Schwabing seine neue Deutschland-Zentrale eröffnet hat ?
+1.900 Microsoft-Mitarbeiter sind schließlich für die Stadt München keine Kleinigkeit.
+Reiter kommentierte die Eröffnung mit den Worten: „München ist eine der führenden IT-Metropolen Europas.
+Ein Ort, an dem Trends entstehen und gesellschaftliche Entwicklungen frühzeitig sichtbar werden.“ Und auch in diesem Punkt liegt er meilenweit daneben.
+Die Trends entstehen heute nicht in administrativen Zentralen der IT-Giganten, denen es vor allem um die Versilberung ihrer Lizenzen und die Verteidigung ihrer Monopole geht.
+Ein solcher Ort hätte München werden können, wenn die Stadtführung nur die Größe besessen hätte, den Verlockungen des Giganten zu widerstehen und auf echte Alternativen zu setzen.
+Diese Alternativen werden entwickelt und es werden Kompetenz-Cluster in Europa entstehen.
+Zum Beispiel in Turin , wo man 2014 auf Linux umgestiegen ist.
+Oder in Valenica und Toulouse, wo man ebenfalls mittlerweile auf Open Source umsteigt .
+In Deutschland gehen die Uhren halt etwas langsamer.
+Laptop und Lederhose?
+Ein schönes Bild, das leider nicht der Realität entspricht.

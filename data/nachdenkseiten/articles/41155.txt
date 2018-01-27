@@ -1,0 +1,328 @@
+Oury Jalloh, das war Mord!
+Vorbemerkung: Wir kommentieren, wenn wir das für nötig halten.
+Selbstverständlich bedeutet die Aufnahme in unsere Übersicht nicht in jedem Fall, dass wir mit allen Aussagen der jeweiligen Texte einverstanden sind.
+Wenn Sie diese Übersicht für hilfreich halten, dann weisen Sie doch bitte Ihre Bekannten auf diese Möglichkeit der schnellen Information hin.
+Jamaika gescheitert – FDP bricht Sondierungen ab
+Das Vertrauen habe gefehlt, ebenso gemeinsame Ideen für eine Modernisierung – so begründete FDP-Parteichef Lindner den Abbruch der Sondierungen.
+Damit ist der erste Jamaika-Versuch auf Bundesebene gescheitert.
+Die Kanzlerin bedauerte die FDP-Entscheidung.
+Die FDP hat die Jamaika-Verhandlungen abgebrochen.
+„Es ist besser nicht zu regieren, als falsch zu regieren“, sagte FDP-Chef Christian Lindner am späten Abend nach stundenlangen Verhandlungen in Berlin.
+Er begründete den Abbruch der Sondierungen nach gut vier Wochen mit fehlendem Vertrauen.
+Es sei den vier Gesprächspartnern nicht gelungen, eine Vertrauensbasis oder eine gemeinsame Idee für die Modernisierung des Landes zu finden, sagte Lindner.
+Die NachDenkSeiten werden das Scheitern der Sondierungsgespräche im Laufe des Vormittag noch kommentieren.
+Maidanmorde: Drei Beteiligte gestehen
+Drei Georgier geben zu, unter den Maidanschützen gewesen zu sein, die auf Polizisten und Zivilisten schossen – bewaffnet und angestiftet unter anderem von einem ukrainischen Oppositionspolitiker
+Drei georgische Männer haben nun zugegeben, am 20. Februar 2014 in Kiew sowohl auf Polizisten als auch auf Maidankämpfer und Demonstranten geschossen zu haben oder zumindest als Augenzeugen unmittelbar bei Schützengruppen gewesen zu sein.
+Dies sagten sie in Interviews mit dem italienischen Journalisten Gian Micalessin von der Zeitung Il Giornale.
+Die entsprechende TV-Reportage mit dem Titel „Ucraina: Le verità nascoste“ zeigte nun der Sender Canale 5 in seinem Magazin „Matrix“.
+Ziel der Schüsse sei es gewesen, so viel Chaos wie möglich zu erzeugen, erläutern die Georgier.
+Damit gerät die offizielle Version der ukrainischen Generalstaatsanwaltschaft, die Sicherheitskräfte des damaligen Präsidenten Viktor Janukowitsch seien für das Massaker mit Dutzenden Toten verantwortlich, weiter ins Wanken.
+Bereits im vergangenen Jahr hatte ein ukrainischer Maidankämpfer zugegeben, zwei Polizisten vom Konservatorium aus erschossen zu haben (siehe Maidan: „Ich schoss ihnen ins Genick“).
+Auch die BBC hatte 2015 einen Maidanschützen ausfindig gemacht und anonym interviewt.
+Die nun geständigen Männer namens Koba Nergadze, Kvarateskelia Zalogy und Alexander Revazishvilli hätten mit weiteren angeworbenen Schützen unter anderem aus Georgien und Litauen sowohl vom Konservatorium am Maidan als auch vom Hotel Ukraina aus in die Menge geschossen.
+Bewaffnet wurden ihren Aussagen nach alle Schützen von militanten ukrainischen Maidan-Kommandeuren.
+Die drei Männer seien von einem weiteren Georgier namens Mamuka Mamulashvili rekrutiert worden, heißt es in dem italienischen Bericht.
+Mamulashvili sei ein Militär des früheren georgischen Präsidenten Micheil Saakaschwili gewesen.
+Heute kämpft Mamulashvili im Donbass an der Seite rechtsradikaler ukrainischer Bataillone und befehligt dort eine Truppe, die sich „georgische Legion“ nennt.
+Die International Business Times nennt ihn „den Soldaten, der nicht aufhören kann, Moskau zu bekämpfen“.
+Quelle: Telepolis
+Anmerkung Albrecht Müller: Das war zu vermuten und so haben wir Macher der NachDenkSeiten es von Anfang an gesehen.
+Was da auf dem Maidan geschehen ist, war ein vom Westen inszenierter Putsch, offensichtlich unter Inanspruchnahme von Mördern.
+Und der deutsche, der polnische und französische Außenminister haben in der entscheidenden Nacht mitgespielt, ein Abkommen mit dem damaligen Präsidenten ausgehandelt und, als es um dessen Umsetzung und Kontrolle ging, waren sie verschwunden.
+Terabyte-große Datencontainer entdeckt: US-Militär überwacht Soziale Netzwerke weltweit
+Chris Vickery von UpGuard staunte nicht schlecht, als er Amazons Cloud-Speicherdienst S3 nach offenen Türen abklopfte.
+Dort fand er unter den Namen „Centcom-Backup“, „Centcom-Archive“ und „Pacom-Archive“ drei riesige Datencontainer mit Überwachungsdaten aus sozialen Netzwerken rund über den Globus verteilt.
+Der Name CENTCOM steht für die militärische Leitung der US-Streitkräfte Cental Command.
+PACOM steht für Pacific Command, also den Teil der Streitkräfte, der sich um China, Asien und Australien kümmert.
+Die Datencontainer sollen dutzende Terabyte an Rohdaten aus Überwachungen sozialer Netzwerke enthalten.
+Vickery lud eine Probe von 400 GByte herunter mit 1,8 Milliarden Social-Media-Beiträgen aus den vergangenen acht Jahren.
+Die Beträge stammten seiner Analyse zufolge hauptsächlich aus Asien und den USA.
+Anhand der Datenstruktur und Verschlagwortung kommt Vickery zu dem Schluss, dass die Rohdaten für das Outpost-Programm der US-Regierung zur Terror-Abwehr genutzt würden.
+Es sammle nicht nur Daten, sondern könne auch Kampagnen zur Beeinflussung starten – ähnlich wie sie die US-Regierung derzeit Russland vorwirft.
+So fand er Konfigurations-Dateien für Apache Lucene und die Open-Source-Engine Elasticsearch.
+Andere Hinweise zeigten auf „Coral“, womit das Data-Mining-Programm Coral Reef gemeint sein könnte.
+Mit Coral Reef sollen Analysten sehr schnell große Datenbestände durchforsten, um Verbindungen und Kontaktnetzwerke aufzustöbern.
+Quelle: heise online
+Das Ende der großen Euphorie
+Die politische Bewegung Emmanuel Macrons La République en marche (LREM) bildet eine Ausnahme in der zertrümmerten Parteienlandschaft Frankreichs.
+Sie verfügt über die größte Fraktion in der Nationalversammlung, über Finanzmittel von 20 Millionen Euro jährlich und über eine stattliche Anhängerkartei mit mehr als 380.000 Namen.
+Dennoch kämpft die junge Bewegung vor ihrem Parteitag an diesem Samstag in Lyon gegen Proteste und Austrittsankündigungen.
+Schon die Prozedur zur Bestimmung des neuen LREM-Generaldelegierten gab Anlass zu Verstimmung.
+So war es Präsident Macron höchstpersönlich, der seinen Regierungssprecher Christophe Castaner zum Chef erwählte.
+In Lyon ist jetzt zwar eine Abstimmung per Handzeichen geplant, um Castaner zu legitimieren, aber Gegenkandidaten für den Posten des Vorsitzenden gibt es nicht.
+Immerhin dürfen die Delegierten nach langem Hin und Her in Lyon darüber befinden, ob sie nicht lieber in geheimer Abstimmung über die Personalie Castaner entscheiden.
+Das war zunächst nicht vorgesehen.
+Eine elektronische Urwahl, wie sie beispielsweise die Republikaner am 10. Dezember zur Bestimmung ihres Parteivorsitzenden organisieren, kam aus ungenannten Gründen für LREM nicht in Frage.
+In einem Offenen Brief beklagen „100 Demokraten“ autoritäre Strukturen in der Bewegung, die an das „Ancien Régime“ der absolutistischen Herrscher Frankreichs erinnerten.
+Der basisdemokratische Erneuerungsgeist sei seit den Parlamentswahlen einer „Herrschaft der Eliten“ gewichen, kritisierten die namentlich nicht genannten Unterzeichner.
+Alles werde in Paris entschieden, der Zentralismus sei unerträglich.
+Vorgeblich sollen unter den „100 Demokraten“ etliche Lokalgrößen der Bewegung sein.
+Der LREM-Abgeordnete Laurent Saint-Martin sagte: „Unsere Partei ist in einem depressivem Zustand“.
+Der ehemalige Sprecher von En marche, Arnaud Leroy, äußerte sich besorgt über die mangelnde Dynamik an der Basis.
+„Die Zahl der aktiven Mitglieder ist stark rückläufig“, sagte er.
+Quelle: Frankfurter Allgemeine
+Anmerkung unseres Lesers H.K.
+: Event-Marketing als Politikersatz ist wohl nicht so einfach zu organisieren.
+Wer allerdings auf die Ankündigung mit der Basisdemokratie hereingefallen ist, darf sich jetzt lokalpatriotisch am reinigen von Bachläufen beteiligen.
+Dann bleiben die Strippenzieher der Finanzmärkte in Paris weiterhin unter sich.
+Und eine kostenlose Mitgliedschaft in einem ferngesteuerten Politzirkus ist doch auch schon was.
+Ergänzende Anmerkung Christian Reimann: Das Phänomen „en marche“ war doch nie ernsthaft als Basisbewegung gedacht.
+Vielmehr ist es offenbar ein (politisches) Produkt der französischen „Elite“/Oligarchie: So hatte z.B. der reichste Franzose, Bernard Arnault, den Wahlkampf Macrons nicht lediglich finanziell, sondern auch mit einem persönlichen Aufruf zu dessen Wahl unterstützt.
+Seine Tochter und ihr Mann, der Internet-Milliardär Xavier Niel scheinen gute Freunde dieses inzwischen amtierenden Präsidenten zu sein.
+Was Macron – wohl aufgrund seiner frühen Kontakte zu den Reichen und Vermögenden sowie deren politischer Haltung – von seinen Gegnern und „von denen, da unten“ hält, hatte Chantal Mouffe relativ frühzeitig so bewertet :
+„Infolgedessen nimmt es sich Emmanuel Macron heraus, die große Zahl von Franzosen, die in Opposition zu seiner Politik stehen, gering zu schätzen und die Forderungen des „Frankreich-von-unten“ einfach zu ignorieren.
+Dass eine solche Politik unvermeidlich zu einer Revolte der unteren Bevölkerungs-Schichten führen wird, beunruhigt ihn nicht weiter – eine eigentlich unglaubliche Verblendung.“
+Der doppelte Kubicki
+Wolfgang Kubicki gilt derzeit als aussichtsreichster Kandidat für das Amt des Bundesfinanzministers.
+Die Frage ist allerdings, wie lange das noch so bleibt.
+„Es wäre Realsatire, wenn Kubicki Finanzminister würde“, sagte Peer Steinbrück vergangene Woche der ZEIT.
+Der Satz zielt auf einen wunden Punkt des FDP-Politikers.
+Kubicki nämlich vertritt als Anwalt Hanno Berger, den Mann, der als Spiritus Rector des größten Steuerraubs in der deutschen Geschichte gilt (ZEIT Nr. 24/17).
+Mehrere Milliarden Euro gingen dem Staat durch sogenannte Cum-Ex-Geschäfte verloren.
+Auch in den Verhandlungen um die Jamaika-Koalition wird das nun zum Thema.
+„Wie kann jemand in Parlament oder Regierung die Interessen der deutschen Steuerzahler vertreten und gleichzeitig die Argumente derer unterstützen, die dem Staat und damit den Steuerzahlern Milliarden aus der Tasche gezogen haben?“, fragt Gerhard Schick, der finanzpolitische Sprecher der Grünen.
+„Für mich passt das nicht zusammen.“
+Auf die Kritik Steinbrücks hat Kubicki bereits reagiert.
+Im Interview mit dem Spiegel wirft er Steinbrück vor, „die Prinzipien des Rechtsstaats offensichtlich nicht verstanden“ zu haben.
+Und er keilt zurück: Steinbrück wolle durch sein „bekannt nassforsches Auftreten“ bloß davon ablenken, dass er es versäumt habe, die Lücken im Steuerrecht zu schließen.
+Hätte er das zu seiner Zeit als Finanzminister getan, wären dem Staat mehrere Milliarden Euro weniger entgangen.
+Politisch ist das ein altbewährtes Mittel: Man geht zum Gegenangriff über, um sich selbst aus der Schusslinie zu bringen.
+Im Fall von Kubicki ist allerdings zweifelhaft, ob das funktioniert.
+Seine beiden Rollen als Anwalt und Politiker lassen sich nämlich nicht so eindeutig voneinander trennen, wie die FDP das gerne hätte.
+Das zeigen Aussagen Kubickis selbst.
+Bevor Hanno Berger, ebenfalls FDP-Mitglied, sein Mandant wird, inszeniert sich Kubicki in Schleswig-Holstein als lautstarker Kritiker der Cum-Ex-Geschäfte.
+Über verdächtige Aktiendeals der HSH Nordbank sagt er 2013: „Die beschriebenen Geschäfte erfüllen ohne jeden Zweifel den objektiven und subjektiven Tatbestand der Steuerhinterziehung.“ Kubicki findet, das habe auch jedem klar gewesen sein müssen.
+„Das wäre so, als würde der einfache ehrliche Steuerzahler künftig Erstattungen für Steuern beanspruchen, die zuvor gar nicht gezahlt wurden.“ Eindeutiger geht es kaum.
+Anmerkung Christian Reimann: Bitte lesen Sie dazu erneut Steuerausfälle durch Aktiendeals: Kubicki kritisiert „ Gesinnungsstrafrecht „.
+Wäre ein Rücktritt bzw. Rückzug aus der Politik nicht angemessen?
+Fachkräftemangel: Wachstumsbremse
+Umsätze sinken, dringende IT- und Digitalisierungsprojekte werden verschoben: Fehlende Arbeitskräfte haben für Mittelständler zunehmend negative Folgen.
+Die unbesetzten Stellen gehen zu Lasten der Stammbelegschaft.
+Stefan Zeidler schlägt Alarm: „Einigen Unternehmen fehlen schon heute die Spezialisten, um die Erweiterungsinvestitionen und Zukunftsprojekte im Rahmen einer Digitalisierungsoffensive – Schlagwort Industrie 4.0 – vorantreiben zu können“, sagt der Firmenkundenvorstand der DZ Bank.
+„Damit gefährdet der Fachkräftemangel die künftige Wettbewerbsfähigkeit unserer Unternehmen“, meint Zeidler.
+Die Ergebnisse einer aktuellen GfK-Studie im Auftrag der DZ Bank geben Anlass zur Sorge: Zwar ist die Investitionsbereitschaft so hoch wie lange nicht.
+Mehr als ein Drittel der 800 befragten mittelständischen Unternehmen mit einem Jahresumsatz zwischen 500.000 Euro und 125 Millionen Euro will in den nächsten drei Jahren die Investitionen erhöhen.
+Doch ein Mangel an qualifizierten Mitarbeitern ist bereits für 61 Prozent der Firmen ein zentrales Investitionshindernis.
+Damit ist der Fachkräftemangel mittlerweile die größte Hürde bei Investitionsvorhaben.
+„Fast die Hälfte der vom Fachkräftemangel betroffenen Unternehmen musste bereits auf Umsatz verzichten.
+Für 60 Prozent der Betroffenen war zumindest die Wettbewerbsfähigkeit beeinträchtigt“, heißt es in der Studie.
+Und rund ein Sechstel der Firmen, die den Engpass spüren, kann aufgrund des Fachkräftemangels bereits wichtige IT- und Digitalisierungsprojekte nicht realisieren.
+Die großen Mittelständler leiden dabei stärker als kleinere Firmen.
+Die unbesetzten Stellen gehen zu Lasten der Stammbelegschaft: Drei Viertel der Unternehmen geben an, dass die Mitarbeiter Mehrarbeit leisten, um den Arbeitskräftemangel zu kompensieren.
+Gleichwohl nehmen die Mittelständler das größer werdende Problem Fachkräftemangel nicht tatenlos hin.
+Mehr als 80 Prozent der Unternehmen wollen verstärkt in Rekrutierung sowie in die Aus- und Fortbildung ihrer Mitarbeiter investieren.
+[…]
+55 Prozent aller Mittelständler sind bereit, tiefer in die Taschen zu greifen, um Mitarbeiter zu gewinnen.
+Auch Zusatzanreize neben dem Gehalt wie ein modernes Firmenimage, Kooperationen mit Schulen, Berufsschulen oder Universitäten sowie eine verstärkte Familienfreundlichkeit sind laut der Studie Maßnahmen, mit denen der Mittelstand dem Personalengpass begegnen will.
+Für Firmenkundenvorstand Zeidler sind das richtige Ansätze.
+Doch er fordert Hilfe durch die Politik: „Die mittelständischen Unternehmen warten bislang vergeblich darauf, dass eine zielgerichtete Zuwanderungspolitik oder Bildungsinvestitionen der öffentlichen Hand die Situation verbessern.“
+Quelle: Handelsblatt
+Anmerkung unseres Lesers J.A.
+: Ach ja, die Fachkräftemangel von heute, wie habe ich sie vermißt.
+„Mehr als 80 Prozent der Unternehmen wollen verstärkt in Rekrutierung sowie in die Aus- und Fortbildung ihrer Mitarbeiter investieren.
+[…] 55 Prozent aller Mittelständler sind bereit, tiefer in die Taschen zu greifen, um Mitarbeiter zu gewinnen.
+Auch Zusatzanreize neben dem Gehalt wie ein modernes Firmenimage, Kooperationen mit Schulen, Berufsschulen oder Universitäten sowie eine verstärkte Familienfreundlichkeit sind laut der Studie Maßnahmen“ – da werden Selbstverständlichkeiten wie minimal höhere Gehälter (nach einer langen Durststrecke) oder, man glaubt es kaum, mehr Investitionen „in die Aus- und Fortbildung ihrer Mitarbeiter“ als unglaubliches Entgegenkommen gehypt, um dann, was würden die Unternehmen ohne den Staat anfangen, zu des Pudels Kern zu kommen: „Bildungsinvestitionen der öffentlichen Hand“ (natürlich in Kombination mit Unternehmensteuersenkungen) und, der Klassiker „eine zielgerichtete Zuwanderungspolitik“.
+Der letztere Punkt ist besonders bizarr, weil heute schon weltweit IT-Spezialisten für Dumpinglöhne von 40.000 Euro angeworben werden dürfen.
+Wo soll denn die Grenze demnächst liegen, bei 2.000 Euro brutto im Monat?
+„Drei Viertel der Unternehmen geben an, dass die Mitarbeiter Mehrarbeit leisten, um den Arbeitskräftemangel zu kompensieren.“ – Die vorhandenen Angestellten zu (unbezahlter?)
+Mehrarbeit zu zwingen, scheint mir der beste Weg, einen wirklichen Fachkräftemangel zu erzeugen…
+Ryanair-Piloten proben den Aufstand
+Piloten des irischen Billigfliegers Ryanair haben bisher keinen Tarifvertrag.
+Über ihre Gehälter verhandeln lokale Pilotenvertretungen mit dem Unternehmen.
+Das soll sich nun ändern.
+Mithilfe der Gewerkschaft Vereinigung Cockpit (VC) haben Ryanair-Mitarbeiter die Fluggesellschaft zu Tarifverhandlungen aufgefordert.
+Dazu sei eine Tarifkommission mit einem professionellen Verhandlungsführer gegründet worden, berichtet die Gewerkschaft.
+„Ryanair hatte immer eine hohe Fluktuationsrate – wie aus ihren Jahresberichten ersichtlich ist -, aber wir sehen derzeit eine demografische Veränderung bei den Ryanair-Piloten“, erklärte Jim Phillips, Vorstand für Internationales in der VC.
+„Viele betrachten Ryanair inzwischen als eine Karriere und nicht als einen Zwischenstopp, um ein paar Flugstunden zu sammeln.
+Die Piloten wollen Familien haben, Häuser kaufen und sie möchten dort leben, wo sie stationiert sind.
+Familienleben braucht die Stabilität der nationalen Tarifverträge.“ Es liege auf der Hand, dass Ryanair an seinen Basen nationale Gewerkschaftsverträge aushandeln müsse.
+Quelle: tagesschau.de
+„Flexibilisierung“ des Arbeitszeitgesetzes: Angriff auf ein Museumsstück?
+Der Acht-Stunden-Tag und die wirklichen Absichten der Deregulierer
+Eigentlich wurde der landläufig als die „fünf Wirtschaftsweisen“ bezeichnete Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung (SVR) in den vergangenen Jahren kaum noch wirklich beachtet, wenn sie einmal jährlich immer im November ihre meist voluminösen Jahresgutachten veröffentlicht haben.
+Das lag weniger an der Qualität der Vorhersagen der wirtschaftlichen Entwicklung, über die man auch streiten kann, als an den zahlreichen wirtschaftspolitischen Belehrungen, was die Politik zu machen habe.
+Die waren und sind in der Regel eingebettet in eine rigide angebotsorientierte Sicht auf Wirtschaftspolitik.
+Bei einigen gab es bei den Jahresgutachten lediglich den fast schon unterhaltsamen Faktor, neben den Inhalten die Zahl der „Eine andere Meinung“-Äußerungen des Außenseiters Peter Bofinger, dem letzten Keynesianer in dem Gremium, zu registrieren, mit denen die Jahresgutachten eine ganz eigene Färbung bekommen.
+Im neuen Jahresgutachten 2017/18 unter der schön daherkommenden Überschrift „Für eine zukunftsorientierte Wirtschaftspolitik“ sind es insgesamt fünf Minderheitenvoten, die Bofinger abgegeben hat.
+Quelle: Aktuelle Sozialpolitik
+Sperrmüll für die Armen
+Von 409 Euro muss ein alleinstehender Hartz-IV-Bezieher jeden Monat alles außer der Miete zahlen: Essen, Strom, Fahrkosten, Telefon, Kleidung, Reparaturen im Haushalt und vieles mehr.
+Das Sparen fängt bereits beim Gründen eines eigenen Haushalts an.
+Zwar müssen Jobcenter ihren Klienten zusätzliche Mittel für die Ersteinrichtung der Wohnung gewähren.
+Doch ein Fall aus dem bayrischen Schwabach zeigt nicht nur, dass von diesen Minisummen mehr als Sperrmüll praktisch nicht zu bekommen ist.
+Auch die Geschäfte der Sozialkaufhäuser blühen im Zuge der staatlichen Armutsverwaltung.
+Allem voran steht die Angst.
+»Wenn man sich beschwert oder an die Öffentlichkeit geht, muss man damit rechnen, dass sie einen noch mehr drangsalieren«, betont Ilona Schmidt gleich zu Anfang des Gesprächs mit junge Welt.
+Die Gewerkschafterin begleitet ehrenamtlich Erwerbslose, die Probleme mit dem Jobcenter haben.
+Ihren richtigen Namen und den ihres Klienten will sie nicht nennen.
+»Es könnte sein, dass sie ihm daraus einen Strick drehen«, befürchtet die Mitvierzigerin.
+Eigentlich sei der Mann chronisch krank, weshalb er Erwerbsunfähigkeitsrente wegen Schwerbehinderung beantragt habe, so Schmidt.
+Doch das Verfahren dauere, er müsse vorerst mit Hartz IV vorliebnehmen.
+Zuletzt habe er aus Geldmangel im Haushalt seiner Eltern gelebt.
+Eine Dauerlösung sei das nicht.
+Angefangen habe die Tortur mit der Wohnungssuche, berichtet die Helferin.
+Denn Unterkünfte zu einer Miete, die Jobcenter als »angemessen« übernehmen, sind rar.
+»Und dann stand er in völlig leeren Räumen«, erinnert sie sich.
+Seinen Antrag auf Erstausstattung (Dokumente liegen jW vor) bewilligte das Jobcenter nur zum Teil.
+Die Zugeständnisse hält Ilona Schmidt für »einen schlechten Witz«.
+Dafür bekomme man »höchstens Sperrmüll«, kritisiert sie.
+Quelle: junge Welt
+Anmerkung Christian Reimann: Also auch im ach so guten Bayern geht es längst nicht Allen so gut wie es sein könnte.
+Zu befürchten ist – unabhängig von diesem Fall -, dass an der Schraube der Kürzungen auch in den nächsten Jahren weiter kräftig gedreht wird.
+Und zwar nach unten.
+In Deutschland leben die Menschen seit einigen Jahrzehnten unter ihren Verhältnissen.
+Anstatt permanent die Ausgabenseite zu betrachten und zu senken, sollte vielmehr und besser die Seite der Staatseinnahmen beachtet und erhöht werden.
+Wäre das nicht viel sinnvoller?
+Siegener Jobcenter soll höhere Kaltmieten erstatten
+Es gibt zu wenig Wohnungen in Siegen.
+Vor allem für die, die auf preisgünstigen Wohnraum angewiesen sind.
+Hoffnungen ruhen auf dem Kreistag: Wenn er die Höchstgrenze für die Kaltmiete, die auch das Jobcenter akzeptiert, anhebt, dann entstehen zwar keine neuen Wohnungen.
+Aber wenigstens die, die eine haben, behielten ihr Dach über dem Kopf.
+„Sie müssten gar nicht erst auf Wohnungssuche gehen“, sagt Andreas Kornmann, Arbeitsgruppenleiter in der Sozialabteilung.
+Er unterstützt den Wunsch, „dass dieses Hin- und Herziehen beendet wird.“ (…)
+Auslöser dafür sind die „Kostensenkungsverfahren“: In mehreren Eskalationsstufen werden Bezieher von Arbeitslosengeld 2 („Hartz IV“) aufgefordert, billiger zu wohnen, wenn ihre Wohnung mehr als fünf Euro Kaltmiete kostet — kein Kunststück: Die Hälfte der in Siegen noch vorhandenen Sozialwohnungen ist teurer, die Miete in einer neu gebauten Sozialwohnung beträgt nicht weniger als 5,25 Euro.
+Der Satz von fünf Euro ist älter als die Hartz-Gesetze und hat, wie Andreas Kornmann erinnert, schon die Euro-Umstellung überlebt.
+Damals hätten allerdings aus 10 DM wenigstens 5,11 Euro werden müssen.
+Der Betrag sei „nicht mehr zeitgemäß“.
+Anmerkung unseres Lesers K.H.L.
+: Ist das „nur“ in Siegen so .
+.
+.?
+Die Kommunen saufen ab
+Schulen, medizinische Versorgung, Feuerwehr – die Grundversorgung ihrer Gemeinden sei nicht mehr gesichert und die Bürger fühlten sich abgehängt, beklagen 21 parteilose Bürgermeister aus dem Erzgebirge.
+Sie verlangen ein Ende der rigiden Sparpolitik im Freistaat Sachsen.
+(…)
+Das sei, so betonen die Unterzeichner übereinstimmend – keine Kampfansage an die Staatsregierung, sondern ein Gesprächsangebot.
+Hauptanliegen sind die Finanzen.
+Steigende Ausgaben für beispielsweise die neu eingeführte, personalintensive doppelte Buchführung in den Kommunen.
+Ferner die Ausweitung der Bürokratie bei den Anträgen für Fördermittel bis hin zu den Mehrkosten durch die Überalterung der Bevölkerung.
+All das führe zu Ausgabenerhöhungen und schaffe große Probleme bei der Erfüllung der kommunalen Pflicht-Aufgaben.
+Die Schlüsselzuweisungen des Bundes und des Landes würden jedoch nicht angehoben sagt Oberbürgermeister Schmidt verständnislos:
+„Und überall liest man, es gibt Rekordsteuereinnahmen, es gibt unglaubliche wirtschaftliche, gute Entwicklungen und an der Basis muss man jedem erklären, wir müssen kürzen, wir müssen Kindertagesstätten-Beiträge erhöhen und wir müssen dort streichen.
+Und es ist politisch nicht mehr glaubwürdig.
+Rekordsteuereinnahmen und an der Basis erzählen: Es ist kein Geld da.
+Das nimmt uns keiner mehr ab!“
+Quelle: Deutschlandfunk
+Anmerkung Christian Reimann: Ähnlich dürfte die Situation in zahlreichen anderen Kommunen auch außerhalb des Erzgebirges sein.
+Aber auch die SPD hält offenbar weiterhin an der sogenannten Schuldenbremse und „schwarzer Null“ fest.
+Scheinbar ist den politischen Entscheidungsträgern das betriebswirtschaftliche Betrachten der Finanzlage wichtiger als die „Pflicht-Aufgaben“ seitens des Staates, zu dem auch die Kommunen gehören.
+Wer sich selbst eine Grube gräbt
+Deutschland gibt sich in Bonn als vorbildlicher Gastgeber.
+Eine kurze Busfahrt entfernt sorgt der Braunkohleabbau bei den Gipfelbesuchern für Entsetzen.
+(…)
+„Klimaschutzlösungen made in Germany“ heißen die Touren, die Nordrhein-Westfalen und die Bundesregierung während der Konferenz anbieten.
+Da fahren Busse zu effizienten Heizungen in Erkrath, zur Erdwärme bei der Deutschen Post, zur Solarforschung in Jülich.
+Nur Eingeweihte wissen, dass sich unter der Überschrift „Rückenwind für die Energiewende“ und den bunten Bildern von Windanlagen eine Tour ins dunkle Herz der deutschen Kohle verbirgt.
+In den Tagebau Garzweiler II.
+(…)
+Angela Merkel weiß das sehr genau.
+Aber als sie am Mittwoch auf der Klimakonferenz kurz eine Rede hält, geht sie nicht darauf ein.
+Schließlich ist das Thema bei den Jamaika-Sondierungen heiß umstritten.
+In Bonn wollen alle von ihr das Wort „Kohleausstieg“ hören.
+Länder wie Großbritannien, Kanada oder Frankreich machen es vor.
+Aber die Kanzlerin sagt nur: „Die Kohle, und besonders die Braunkohle, wird einen wesentlichen Beitrag leisten“, die Klimaziele zu erreichen.
+Ein Ausstieg sei „auch in einem reichen Land wie Deutschland nicht einfach“.
+(…)
+Auf der Konferenz sagen viele, die deutsche Kohlepolitik sei „verrückt“.
+Merkels Zögern beim Kohleausstieg sei „nicht die Art von Führung, die wir von Deutschland erwarten“, meint Teresa Riberia vom französischen Thinktank IDDRI.
+Für Li Shuo von Greenpeace China schafft „Deutschland entweder einen ambitionierten Ausstieg aus Kohle und Verbrennungsmotor, oder es riskiert es seine grüne Tradition“.
+Noch will aber niemand ernsthaft an Deutschlands Rolle rütteln.
+So viele Vorreiter in der Klimadiplomatie mit Geld und Einfluss gibt es auch wieder nicht.
+Deutschland müsse allerdings aufpassen, seinen grünen Ruf nicht zu verspielen, sagt Bob Ward von der London School of Economics.
+„Eine Sache ist es, dreckig zu sein und alle wissen das.
+Aber wer sauber sein will und plötzlich als dreckig dasteht, der verliert seinen Ruf.
+Das ist das Schlimmste, was einem passieren kann.“
+Der Dieselskandal sei der erste Kratzer am Ökolack gewesen.
+„Wenn ihr an der Kohle festhaltet, könnte das so aussehen, als wärt ihr ein Land im Niedergang.“ Der Brexit-Gegner lacht und fügt hinzu: „Wie sich das anfühlt, wissen wir Briten genau.“
+Quelle: taz
+Chaos in Zimbabwe after Mugabe fails to announce expected resignation
+President Robert Mugabe delivered a rambling address on live television offering no concessions, after ruling party Zanu-PF sacked him as leader
+Zimbabwe’s ongoing crisis descended into outright chaos on Sunday after president Robert Mugabe failed to announce his resignation as widely expected in a national address on live television.
+Instead, in a rambling 30 minute address, Mugabe offered no concessions to his critics, the tens of thousands who marched calling for his resignation or the army commanders who led the military takeover last week.
+Instead, the 93-year-old autocrat said that “we cannot be guided by bitterness or revengefulness which would not makes us any better … Zimbabweans” and said that he would preside over a special congress of the ruling Zanu-PF party scheduled for next month – suggesting he has no immediate intention of stepping down.
+Mugabe, who repeatedly cited the legacy of Zimbabwe’s brutal liberations wars of the 1970s, said he believed that the military “operation” launched last Tuesday by army commanders was motivated by “a deep patriotic concern for the stability of the nation” and “did not amount to a threat to our well-cherished constitutional order”.
+Quelle: Guardian
+dazu: Coup in Zimbabwe: A win-win for China – for now
+China has huge investments in Zimbabwe – including tobacco, diamonds, and power generation – and is by far the country’s largest benefactor.
+By GRANT NEWSHAM NOVEMBER 20, 2017 9:10 AM (UTC+8) 564
+Did Beijing give the go-ahead to remove Zimbabwe President Robert Mugabe?
+Nobody is saying.
+But it is suspicious that Zimbabwe’s army chief General Chiwenga visited China a few days before he moved against Mugabe.
+Presumably, nobody in Beijing told him ‘no.’
+China has huge investments in Zimbabwe – including tobacco, diamonds, and power generation – and is by far the country’s largest benefactor.
+And there’s been Chinese concern, indeed anger, over the last few years over enforcement of the ‘indigenization law’ – Mugabe’s brainchild requiring foreign companies operating in the country to have majority black Zimbabwean ownership.
+Chinese companies and interests stand to suffer.
+China can size things up: Even Mugabe isn’t going to live forever.
+And for a successor it’s a choice between his wife, Grace, or recently dismissed Vice President, Emmerson Mnangagwa whose removal sparked the coup.
+Quelle: Asia Times
+Strange Twists in the Hariri Mystery
+French President Macron has invited Lebanese Prime Minister Saad Hariri to Paris, a possible opportunity to determine whether Hariri’s sudden resignation, announced in Saudi Arabia, was coerced, as Dennis J Bernstein reports.
+The strange case of Lebanon’s Prime Minister Saad Hariri and his surprise resignation, delivered in Saudi Arabia, has developed international overtones with rumors about his possible kidnapping by the Saudis and France extending an invitation for him to come to Paris before possibly returning to Lebanon.
+Saad Hariri of Lebanon in Washington.
+July 2017.
+(Wikipedia)
+Because of concerns that his resignation may have been extracted by the Saudis under duress, the Lebanese government has refused to accept it unless he tenders it in person.
+In an interview last Sunday, Hariri looked harried and nervous.
+At one point the camera caught a man holding up some kind of sign behind the interviewer, as if he was trying to direct Hariri’s comments.
+I spoke again to Beirut-based political activist and environmentalist Rania Masri on Nov.
+13 about the Hariri case.
+Masri is an Arab-American academic, an expert in the workings of the Lebanese government, and has been doing regular translations of Hezbollah leader Hassan Nasrallah on Facebook.
+Dennis Bernstein: Let’s start with your response to the latest developments.
+The prime minister says he would like to return to Lebanon.
+Quelle: Consortiumsnews.com
+„Paradise Papers“-Daten publiziert
+Das Internationale Konsortium für Investigative Journalisten hat die ersten Daten aus den „Paradise Papers“ veröffentlicht.
+In der Datenbank sind zunächst Informationen zu 25.000 Offshore-Konstrukten zu finden.
+In den kommenden Wochen werden weitere Unterlagen publiziert.
+In der Datenbank des Internationalen Konsortiums für Investigative Journalisten (ICIJ) sind seit heute erstmals Unterlagen der „Paradise Papers“ für jedermann zugänglich gemacht.
+Zunächst wurden Informationen über 25.000 Offshore-Konstruktionen eingestellt.
+Dabei geht es um Daten der Kanzlei Appleby zu Trusts und Firmen in mehr als 30 Jurisdiktionen.
+Auch Adressen und Namen von Direktoren und Anteilseignern sind in den Daten zu finden.
+(…)
+Die Offshore-Leak-Datenbank beinhaltet bereits Dokumente der Projekte „Panama Papers“, „Offshore Leaks“ und „Bahamas Leaks“.
+Insgesamt sind nun mehr als 520.000 Datensätze durchsuchbar.
+Das ICIJ wird in den kommenden Wochen weitere Unterlagen der „Paradise Papers“ in die Datenbank einspeisen.
+Darunter sind mehr als 100.000 Aufzeichnungen aus verschiedenen Finanzplätzen weltweit, die als intransparent gelten.
+Quelle: tagesschau.de
+Anmerkung Christian Reimann: Auf dem ersten Blick wirken die Zahlen vermutlich wohl „erdrückend“.
+Aber der Gesamtbestand der Daten dürfte um ein Vielfaches höher liegen und ein Gefühl der Ohnmacht könnte beabsichtigt sein.
+Malcolm Simmons: ein mutiger EU Richter spricht Klartext in Kosova
+Die österreichische Zeitung „ Standard“ schrieb gestern: Der Vorsitzende Richter der Justiz- und Polizeikommission der EU im Kosovo, Malcolm Simmons, legt sein Amt nieder.
+In einem Gespräch mit der französischen Tageszeitung „Le Monde“ vom Donnerstag prangerte Simmons Korruption innerhalb der Eulex-Mission an – eine Sache, die die Mission im Kosovo bekämpfen soll.“ Außerdem nannte Richter Malcolm Simmons die EU Rechtsstaatsmission EULEX „ eine rein politische Mission, darüber dürfe man sich keine Illusionen machen“.
+Der Brite Malcolm Simmons, war Vorsitzender des Richterrates der EU Mission in Kosova.
+Er war der höchste Richter im Land welche angeblich für Rechtsstaatlichkeit sorgen soll.
+Nach Koha Ditore“ sagte Simmons: „Viele meiner Kollegen sind ehrlich und anständig“, aber sie gehen nicht gegen das System an.“ Vielmehr würden sie sich darin einrichten, weil sie wüssten, dass es sonst Probleme geben könnte.
+„Sie stehen unter ständigem Druck.“ Im Oktober 2014 hatte es massive Korruptionsanschuldigungen durch eine britische Staatsanwältin gegen- ihre EULEX Kollegen gegeben.
+Die Staatsanwältin musste daraufhin abreisen.
+Sie belegte in den kosovarischen Medien, dass u.a. Ermittlungen wegen Mord in drei Fällen, gegen die Zahlung von 300.000 € durch EULEX Richter eingestellt wurden.
+Die Vorwürfe wurden allerdings -wie könnte es anders sein- im vergangenen Jahr von kosovarischen Sonderermittlern fallengelassen.
+Die Akten ruhen seit Anfang 2015 in Brüssel.
+Die Sprecherin der EULEX in Prishtina Maja Kocijancic erklärte bezüglich der Aussagen von Richter Malcolm Simmons zynisch: „Die EU fährt ebenso wie EULEX eine Null-Toleranz-Strategie gegenüber unangebrachtem Verhalten“.
+„Alle Missionsmitglieder tragen Verantwortung für ihre Taten“.
+Wers glaubt wird selig.
+Jedem klar denkenden Menschen in Kosova ist bewusst, dass die EULEX nicht nur mit den örtlichen politischen Mafiosi kollaboriert.
+Die EU Mission EULEX ist selbst eine politkriminelle Veranstaltung.
+Der kosovarische Autor Enver Robelli hat Recht wenn er heute in einem Artikel, der EULEX eine „gute Heimreise“ wünscht.
+Quelle: scharf-links
+Nichts ist normal in Gaza
+Die ohnehin katastrophale Lage der Bewohner von Gaza ist seit dem Sommer noch schlimmer geworden.
+Mit der jüngsten Annäherung zwischen Fatah und Hamas steigt nun die Hoffnung auf Besserung.
+Doch dafür müsste auch Israel einlenken und seine Blockade lockern.
+Als der palästinensische Premierminister Hamdallah am 2. Oktober den Erez-Grenzübergang nach Gaza überquerte, wurde er mit frenetischem Jubel begrüßt.
+Sein Besuch war ein erster Schritt zu einem erneuten Versuch einer Einigung zwischen den verfeindeten Parteien Fatah und Hamas.
+Zwei Wochen zuvor hatte die Hamas-Regierung in Gaza verkündet, sie sei bereit, mit der Fatah über eine Versöhnung zu verhandeln und ihren Verwaltungsrat aufzulösen, der die Regierungsgeschäfte in Gaza bis dahin de facto geführt hat.
+Ob die Versöhnung diesmal gelingt, steht allerdings in den Sternen.
+Der letzte Versuch zur Bildung einer Einheitsregierung 2014 scheiterte bereits nach wenigen Wochen.
+Die Hamas, die den Gazastreifen seit 2007 kontrolliert,1 trat mit ihrem neuen Versöhnungsangebot eine Flucht nach vor an, denn Gaza befindet sich seit Monaten in einer Art humanitärem Schockzustand.
+Das liegt vor allem an der andauernden israelischen Blockade, die von den USA, Europa und Ägypten unterstützt wird, aber auch am zunehmenden Drucks aus Ramallah.
+Während meines letzten Besuchs in Gaza im Frühjahr 2017 haben mich zwei Dinge am meisten berührt: die verheerenden Auswirkungen der mittlerweile über zehn Jahre andauernden Isolation Gazas vom Rest der Welt und die Tatsache, dass hier immer mehr Menschen ganz offensichtlich am Ende ihrer Kräfte sind.
+Oury Jalloh, das war Mord!
+Ein beispielloser deutscher Justizskandal: Ein Mann wird in einer Polizeizelle verbrannt und niemanden interessiert es
+Es war ein massiver Polizeieinsatz im Januar 2012, der aber nur in einer kleinen politischen Szene wahrgenommen wurde.
+Es waren vor allem Migranten aus Afrika, die wie jedes Jahr am 7. Januar auf die Straße gegangen sind, um am Todestag ihres Freundes und Bekannten Oury Jalloh zu gedenken.
+Jalloh war am 7.Januar 2005 in einer Dessauer Polizeizelle verbrannt.
+Für die Polizei stand sofort fest, der Tote hat die Zelle selbst in Brand gesetzt.
+Ein kleiner Kreis von Jallohs Freunden und Bekannten wollte sich damit aber nicht zufriedengeben.
+Immer zum Todestag gingen sie in Dessau auf die Straße.
+Was 2012 geschehen ist, beschrieb die Initiative so: […]
