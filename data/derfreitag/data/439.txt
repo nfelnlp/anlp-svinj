@@ -1,0 +1,63 @@
+Bei diesem Beitrag handelt es sich um ein Blog aus der Freitag-Community
+Foto: Robert Cianflone/ AFP/ Getty Images
+Evgeny Morozov war vor einem Jahr deutlich: „ Es ist lächerlich, das Internet erklären zu wollen “.
+Dem setzte der Erklärbär deutscher Zunge, Sasha Lobo, kürzlich die larmoyante Krone auf.
+Nicht nur er, sondern die ganze Menschheit erfahre eine digitale Kränkung.
+Weil: Das Internet ist kaputt .
+Was die F.A.Z.
+stellvertretend oder leitend für das deutsche Feuilleton zu Wort hat kommen lassen, ist in sich widersprüchlich.
+Beide Autoren verbindet, dass sie 25 Jahre nach Installierung von http mit der Absage an Utopien nun die nötige Bodenhaftung zu gewinnen scheinen, die in der detaillierten Problemlösung liegen würde: Vor allem gegen den kalt rechnenden, den überwachenden, den zunehmend entmenschlichten Staat.
+Aber sie verbindet auch ein unauflöslicher innerer Widerspruch.
+Was ein (technisches) System nicht sein, tun oder leisten sollte, setzt mindestens ein positives Präkonzept voraus.
+Das Utopische wie das Dystopische darin lässt sich denknotwendig nicht ausklammern.
+Und wer sich auf staatliche Ingerenz als Ausschnitt des systemischen Beziehungsgeflechts kapriziert, wird eines kaum erklären können – warum jedes 3.
+Individuum dieses Planeten (wenn schon von „Menschheit“ gesprochen wird) bereitwillig für teures Geld die Tools zur eigenen Ausforschung erwirbt und dabei gierig ruft: „Noch!“, „Mehr!“, „Noch mehr!“.
+Die Auflösung im Pessimismus, der überwiegend einer sorgfältig gepflegten Gemütslage Ausdruck verleiht, vermag vor allem kaum darüber hinweg zu täuschen, dass Netz nicht nur „ist“, sondern mit dem „ Internet der Dinge “ eine nächste, höchst praktische Entwicklungsstufe erreicht.
+Denn gleich ob mit dem am Handgelenk, im selbstverwaltenden „intelligenten“ Haus oder im "smarten" PKW - die Omnipräsenz des Rechners ist der Auftakt zu dem, was Bill Gates 2006 in „ A Robot in every Home “ für selbstverständlich erklärte: „We may be on the verge of a new era, when the PC will get up off the desktop and allow us to see, hear, touch and manipulate objects in places where we are not physically present.“ Darin ist die ubiquitäre Vernetzung wesensnotwendig enthalten.
+Von der Liebe, smart zu sein
+Wer sollte bei diesen Zukunftsaussichten an Bequemlichkeiten, da der Mensch von weiteren Lästig- wie Fehlbarkeiten befreit werden wird, widerstehen wollen.
+Es bedarf schon der quasi-religiösen Überzeugungskraft, mit der etwa Byung-Chul Han zu Werke geht, wenn er in „ Unsere gefühlte Freiheit “ eine Rückbesinnung anmahnt: Auf die Anfänge des Netzes, da „digitale Kommunikation eine Art Pfingstgemeinschaft hervorbringen [sollte], indem sie den Menschen aus dem für sich isolierten Selbst befreit und einen Geist der Nächstenliebe hervorruft“ – im vergleichenden Befund zum Präsens, wo in der Logik des Foucualt’schen Panoptismus‘ der Mensch in Wahrheit am eigenen Gefängnis baue: „Kontrolle und Freiheit bilden heutzutage überhaupt keine Gegensätze mehr.“
+Die Ursache der Kränkung hat Jaron Lanier 2006 vorausschauend kondensiert: „In the last year or two the trend has been to remove the scent of people, so as to come as close as possible to simulating the appearance of content emerging out of the Web as if it were speaking to us as a supernatural oracle.
+This is where the use of the Internet crosses the line into delusion.”
+Dass dieser Satz und seine zentrale Bedeutung untergegangen sind, hängt mit einer Provokation zusammen, die als ungeheuerlich aufgefasst wurde.
+Lanier hatte es in besagtem Essay gewagt, das kollaborative, freiwillige, hierachisch flache und zudem unentgeltlich zur Verfügung gestellte Projekt „Wikipedia“ unter die Überschrift „ DIGITAL MAOISM: The Hazards of the New Online Collectivism “ zu zwängen: „And that is part of the larger pattern of the appeal of a new online collectivism that is nothing less than a resurgence of the idea that the collective is all-wise, that it is desirable to have influence concentrated in a bottleneck that can channel the collective with the most verity and force.
+This is different from representative democracy, or meritocracy.“
+Das hängt speziell in Deutschland noch nach, wenn Jürgen Geuter (aka tante , Blog Spackeria ) bei spiegel.de die Verleihung des Friedenspreises in der Paulskirche zur „ Kriegserklärung “ gegen das „freie Netz“ umdeutet.
+Auf Geuter wiederum baut Thierry Chervel von den Perlentauchern auf, wo er bei freitag.de Lanier als einen „ Mann von gestern “ bezeichnet.
+Und es ist da noch Florian Cramer.
+Für „ Merkur “, dem digitalen Kind der bedeutenden analogen Eltern Klett-Cotta, attestierte der Literaturwissenschaftler der Jury schlicht „ Missverständnisse “, eine Fehleinschätzung der Leistungen Laniers, die „sich mit minimalem Rechercheaufwand [hätten] vermeiden lassen.“
+Eine rückwärtsgewandte Gilde, die sich eines falschen wie ignoranten Propheten bedienen würde, um unhaltbare Besitzstände zu verteidigen - so ließe sich die geballte Ablehnung interpretieren, die jenseits der gewählten Beispiele als Geist durch die deutsche Blogosphäre wabert, seitdem im Juni die Entscheidung des Börsenvereins für den Deutschen Buchhandel gefallen ist, Lanier auszuzeichnen.
+Das einzige aber, was dem „rant“, wie er seine Interventionen ironisch nennt, von Lanier entgegengehalten werden kann, ist, dass er zu früh erschienen war.
+Denn WikiLeaks ist erst rund ein halbes Jahr danach erstmals als Domain aufgetreten, die erste Veröffentlichung von geleakten Dokumenten erfolgte noch einmal zwei Monate später.
+Das Ergebnis der freien Verfügbarkeit von brisanten Informationen in einer wiki-basierten Umgebung fasst WikipediA (:en) anhand dieser ersten Veröffentlichung so zusammen : „Assange and the others were uncertain of its authenticity, but they thought that readers, using Wikipedia-like features of the site, would help analyze it.
+They published the decision with a lengthy commentary, which asked, ‘Is it a bold manifesto by a flamboyant Islamic militant with links to Bin Laden?
+Or is it a clever smear by US intelligence, designed to discredit the Union, fracture Somali alliances and manipulate China?‘ [...] The document’s authenticity was never determined, and news about WikiLeaks quickly superseded the leak itself.”
+Die Ungerichtetheit tritt bereits hier in zweifacher Gestalt auf: Das Publikum ignorierte mit der Fragestellung vollständig auch deren Klugheit, und es fehlte deswegen jede sichtbare, faktische Konsequenz aus dem mitgeteilten Sachverhalt und seiner Intention.
+Beides wird in der Folge das zentrale Thema sein, ob und in welcher Weise die Bearbeitung eines Informationssteinbruchs durch professionelle (und vergütete) Journalisten erfolgversprechender wäre.
+Den Überblick behalten
+Eine Lektion, so darf gemutmaßt werden, die ein Edward Snowden wohl vor allem mithilfe von Assanges Weggefährtin Sarah Harrison verinnerlicht haben dürfte, als er die Bearbeitung seines Materials umfänglich in die Hände von Profis gab.
+Das Ergebnis fasste Harrison vergangenes Jahr in Berlin so zusammen : „Journalisten, Verleger und Experten, die so mutig dafür arbeiten, dass die Wahrheit ans Licht kommt, werden scharf verfolgt.
+Glenn Greenwald, Laura Poitras und Jacob Appelbaum befinden sich faktisch im Exil.“
+Der gleiche Personenkreis, den Lanier 2006 mit „well-meaning individuals“, deren Wirken als „personality-based quality control” umschriebund zu dem auch Assange, Snowden, Harris oder Manning und der vorübergehend in Sippenhaft genommene Ehemann Greenwalds gehören, ist gerade wegen seiner herausragenden Stellung der der most wanted geworden: Als Helden für die einen, als Schwerstkriminelle für die anderen.
+Sie sind die, die darauf aufmerksam gemacht haben, dass es so etwas wie einen Flaschenhals überhaupt gibt.
+Wie leicht dagegen das undefinierte Personal jenes amorphen „Wir“ ersetzbar ist, haben zwei Phänomene vorläufig untermauert.
+Das eine nennt sich „Lsjbot“ und ist ein Programm.
+Mit seiner Hilfe hat Lennart Guldbransson automatisiert zum Stand Juli 2014 mehr als 2,7 Millionen Einträge, mithin bis zu 7.200 Lemmata am Tag auf der schwedischsprachigen Version von Wikipedia eingestellt.
+Eine Leistung, auf die Guldbransson sichtlich stolz ist.
+Darin kommt allerdings nicht nur Laniers früherer Seitenhieb auf die schiere „Klonierung präsenten Wissens“ zur Vollendung, die mit „Hive Mind“ verwechselt werde, sondern ist eine heute konkrete Beunruhigung.
+Wenn, wie unlängst zu „Große Seeschlachten - Wendepunkte der Weltgeschichte von Salamis bis Skagerrak“ bei C.H.Beck geschehen , Autoren bei Wikipedia abschreiben, sind es dann Bots, die ursächlich die „Wendepunkte der Weltgeschichte“ bestimmen (werden)?
+Die Fragestellung geht weit über das hinaus, was bislang nur als ein weiterer Fall von mehr oder minder schwerem Plagiat verhandelt worden ist.
+Das andere Phänomen hat Kilian Froitzhuber in den Erfahrungsbericht von „ Ein Tag im Leben eines Wikipedia-Wächters “ gekleidet.
+Zum täglichen, bereits vor dem Frühstück beginnenden Kampf „gegen einen Sturm der Irrelevanz“ kommt zunehmend der gegen die eigene schwindende Motivation: „Viele Administratoren suchen sich lieber andere Hobbys und kehren der Enzyklopädie den Rücken“.
+Die Notion von Hobby bringt mittlerweile sogar die des altruistischen Engagements im Ehrenamt selbst in Verruf.
+Kollektives "Wir": Cui bono?
+Den Kollektivismus mit Zähnen und Klauen zu verteidigen dürfte vielleicht damit zu tun haben, dass in dessen Namen nicht nur Brüche mit Traditionen versucht wurden, sondern der mit der Zivilisation selbst exekutiert worden ist.
+Der bei Wikipedia ließe sich dann als der verzweifelte, auch generationelle Versuch deuten, diesen fürchterlichen, fortdauernden Schaden zu beheben.
+Wie unbewältigt das noch immer ist, wäre bei der Preisverleihung in der Paulskirche zu besichtigen gewesen.
+Die Beiläufigkeit eines Martin Schulz, dass die Familie Laniers „unter der Verfolgung gegen die Juden leiden“ musste, kann als ein Musterbeispiel der Bequemlichkeit und Relativierung angesehen werden, mit der man es sich im Hier und Jetzt eingerichtet hat.
+Diese Form zurückgewiesen zu haben, indem Lanier an das tatsächliche Ausmaß seiner Biographie erinnerte, hat die Grundlage des Preises als einen der Völkerverständigung wieder hergestellt: Dass vor dem Übereinkommen erst die nach wie vor äußerst mühsame Verhandlung über die Tatsachengrundlagen steht.
+Demgemäß dürfte Laniers sonntägliche Erinnerung an die „metaphysische Dimension“ von „Netz“ kaum eine Erwiderung auf den in der wohlfeilen Kritik zum Ausdruck kommenden quasi-religiösen Impetus gewesen sein: Weder auf Chervel, für den „Wikipedia die Kathedrale des 21.
+Jahrhunderts“ bleibt, noch auf Byung-Chul Han.
+Dessen Not muss in der Tat groß sein, wenn er tatsächlich meint, die Motive einer evangelikalen Erwecksungsbewegung für eine Reconquista des Netzes auffahren zu müssen, um Foucault zu versinnbildlichen.
+Eher ist es eine Antwort auf eine Priesterschaft, deren Motivation Deutschlands prominentester Apologet von Open Source Felix von Leitner aka Fefe unlängst so beschrieben hat: „Der Programmierer zieht seinen Anreiz, die Software zu schaffen, aus der kreativen Freude des Programmierens, und aus dem Zen-ähnlichen Zustand, wenn ein komplexer Algorithmus, den man hingeschrieben hat, dann tatsächlich funktioniert.“ Aber was wird da wofür mit solcher Inbrunst programmiert, um das Produkt als verklärte Hostie zu präsentieren?
+(Ende von Teil II)

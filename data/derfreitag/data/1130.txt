@@ -1,0 +1,35 @@
+Teilen:
+Bei diesem Beitrag handelt es sich um ein Blog aus der Freitag-Community
+Linux-Pinguine vor der Hauptzentrale des Softwareherstellers Oracle in Redwood Shores, Kalifornien, wo auch Linux-Technik entwickelt wird
+Foto: Justin Sullivan/ AFP/ Getty Images
+Reklame - bitte NICHT KLICKEN !!!
+- Danke.
+:)
+Zu kompliziert sei es.
+Inkompatibel.
+Nun, kompliziert, inkompatibel ist es so gesehen lediglich für Jemanden, der zu ihm unbekannt Neuem sagt: „Aber das kenne ich ja gar nicht – und das soll neu sein?“ http://tux.crystalxp.net/png/mlpo-ubuntu-tux-21580.png
+Linux und seine nichtkommerziellen Abkömmlinge sind inzwischen so einfach zu bedienen, wie man das mindestens von Windows oder Mac OS X gewohnt ist.
+Der Witz an der Sache ist aber vor allem, dass Linux-Computerbetriebssysteme von Anfang an so konzipiert sind, dass die Rechenmaschine tatsächlich das macht, was der Mensch will.
+Nicht mehr.
+Aber auch nicht weniger.
+Und das mit einer unerreichten Zuverlässigkeit und Vielfalt gegenüber den o.g.
+kommerziellen Betriebssystemen.
+http://tux.crystalxp.net/png/photozel-linux-mint-18142.png Dass persönliche Daten auf einem nichtkommerziellen Betriebssystem per se sicherer sind, weil ab Quelle niemand Profit aus Nutzerdaten ziehen kann und will, versteht sich von selbst – ein nichtkommerzielles Linux kann darüber hinaus hilfreich sein beim komplizierten und langwierigen Prozess der Emanzipation vom privatistischen Konsumenten zum souveränen Kollektiv-Teilhaber... http://tux.crystalxp.net/png/brunocb-tux-guevara---che-10546.png
+Diese Linux-Abkömmlinge sind darüber hinaus kostenlos.
+Sie beanspruchen weit weniger http://tux.crystalxp.net/png/pinguin_os-tux-debian-1995.png Energie (Strom) und Hardwareressourcen (bspw.
+Arbeitsspeicher und Rechenleistung) als die herkömmlichen, bekannten und kommerziellen Betriebssysteme, insbesondere Windows.
+http://linuxers.org/sites/default/files/imagecache/screenshot_artwork/themes/screenshot/4/2011/500x313x132811-tux.jpg.pagespeed.ic.j7qbGwHGUL.jpg
+Nebenbei: Selbstverständlich kann man (wenn man es unbedingt will – es gibt jeweils mehrfach kostenlose und auch durchaus bessere, einfach herunterladbare Alternativen unter Linux) seine teuer erstandenen Softwares auch unter Linux weiter laufen lassen; entweder unter wine oder in einer VirtualBox .
+http://vdhout.nl/images/userfiles/image/virtualbox-vbox.png
+Auch ist es selbstverständlich möglich, „neben“ seinem gewohnten Windows oder Mac OS X, auf ein und demselben Gerät also, ein Linux zu betreiben.
+(Anm.
+: Seit Windows 8 ist das etwas schwieriger, da der Konzern Microsoft seine de facto Monopolstellung dahingehend ausnutzt, die Hersteller von Computer-Hardware zu zwingen, technisch dafür zu sorgen, dass außer Windows 8 nichts anderes auf einem Computer installiert werden kann.
+- Klingt wie eine Verschwörungstheorie; ist aber tatsächliche Praxis.
+Allerdings arbeiten ehrliche Hacker eifrig daran, diese Restriktion zu umgehen.)
+http://tux.crystalxp.net/png/unknown-tux-bsd-1623.png
+Darüber hinaus ist in diesem Jahr auch eine nichtkommerzielle, kostenlose Linux-Version für Tablet und Smartphone geplant.
+Wer mal in ein nichtkommerzielles, kostenloses und einfach zu bedienendes Linux hinein schnuppern möchte, dem sei diese umfangreiche Webseite als Ausgangsbasis sehr empfohlen.
+Ein anderes, dem sehr verwandtes, weiteres Linux für Einsteiger ist dieses .
+Der YouTube-Kanal von Nixie Pixel bietet Dutzende von durchaus unterhaltsamen Videos zum Thema nichtkommerzieller Linux-Versionen, ihrer Bedienung, ihrer Vor- und Nachteile und mehr.
+Linux Handbuch (Ubuntu) : Ubuntu 12.04.2 LTS (Precise Pangolin)
+Distro - Watch : Die hundertfache Vielfalt abseits von Windows, Mac und Co.

@@ -1,0 +1,38 @@
+@                       Referenzkommentar
+|| Naja, ich habe bei der "Mobilisierung" meiner eigenen site gemerkt, wie schwierig es ist, mit zwei designs fuer desktop und mobile zu arbeiten und habs am Ende gelassen.
+Und meine Site ist noch nicht mal interaktiv.||
+Meine schon (digitale-demokratie.net), aber eben schon auf Desktop absolut spartanisch und so unaufgeräumt wie jede gute Werkbank.
+An Verbesserung u. Mobilisierung denke ich nicht, solange die Nutzer keine Beiträge zu Design & Funktion, Doku, FAQ usw. liefern, - ist doch unter meiner Beratung/Anleitung & mit vorh.
+Toolkits überhaupt nicht schwer bzw. sehr lernbar.
+Auch
+Demos/Tests, was man mit css alles so machen kann (z.
+B. publikuli.de = ausschl.
+css), statt tausende von Grafiken einzuhubern, blieben ohne Resonanz.
+|| Wie weit man die php, css und java files tweaken kann ist bei jeder platform natuerlich unterschiedlich.
+Dazu kommen naatuerlich auch bugs (beispielsweise Zeitfunktionsfehler) Das Eingabefeld zu vergroessern ist vermutlich nicht vorgesehen.
+Wenn man sowas versucht, zerschiesst man leicht die gesamte Funktion.
+Das ist bei der Zeit wohl passiert, darum bei dem Antwortcontainer besser Finger davon.
+||
+Da sehe ich eher das Gegenteil richtig.
+Natürlich ist auch die Veränderlichkeit der Kommentarfeldgröße per se vorgesehen, - wie wollte man denn sonst den "Responsive"-Anspruch einlösen?
+Und's geht ja, wie Sie oben sehen, man muß nur wollen ... (ich habe für diesen Kommentar die Breite (1.
+Wert der resizeTo-Parameter) auf 390 gesetzt, was erstmal beim einkopieren Ihres Kommentars hier die gleichen Umbrüche erzeugte wie im Original)
+Hinsichtlich "tweaken" und "zerschossener" Zeitstempelei siehe meinen Kommentar oben -, und da sind wir auch schon beim nächsten Punkt:
+|| Ich finde uebrigens die beiden Jungs im "Serverraum" machen einen guten Jobs im Rahmen ihrer Vorentscheidung fuer ihre Platform.
+(Muss man auch ja mal sagen).
+||
+Wären es nur zwei, die an der neuen Sache basteln, brauchte man nicht zwingend ein Repository(-Verfahren) u. ä. IT-Projekt-Tools, wenngleich nat.
+immer nützlich.
+Die alte Lösung habe ich mal mit zw.
+mind.
+250.000 bis 1,5 Mio. für's erste Jahr für Alles, bis runter zum Hosting eingeschätzt.
+Es wäre gefährlich für's - strategisch notwendig: anspruchsvollere - Neue, bloß zwei Männeken/Fräuleins werkeln zu lassen, die womöglich auch wenig Erfahrung haben/jung sind:
+Sowas löst man erstmal ohne preemptive deep-tweaks, sondern am Ende der Prozesskette bis runter auf den Client.
+Ist alles stabil produktiv und steht ein Testserver wieder zur Verfügung, berichtigt man die Output-Erstellung selbst, statt sie provisorisch am Ende zu korrigieren, - vor allem wg.
+Performance (Antwortzeiten, CPU-Konsum), strukt.
+Klarheit und Wartbarkeit.
+|| Die Uebernahmen des Themes von Freitag digital waere - vor allem fuer die Navigation - sinnvoller gewesen.
+Aber sowas sagt sich leicht... ||
+Mit Sicherheit nicht.
+Diese alte, recht gute Navig ist/wäre mit Wischen kaum bedienbar, siehe meine Kommentare in den versch.
+Threads dazu von Anbeginn, Stichwort Scroll, Einblenden/-ung usw.
