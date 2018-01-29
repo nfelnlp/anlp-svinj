@@ -1,27 +1,26 @@
 Bei diesem Beitrag handelt es sich um ein Blog aus der Freitag-Community
-Foto: Andreas Rentz / Getty Images
-Als 1990er Jahrgang zähle ich selber zu den „jungen Leuten“, von denen man sich in diesen Tagen fragt, wieso sie sich nicht über NSA-Affäre und Komplett-Überwachung aufregen und dagegen protestieren.
-In allen wichtigen Medien wird diese Frage gestellt: Warum bleibt der zu erwartende Protest aus, wo doch die Informationen, das Wissen, das Edward Snowden verbreitet hat und immer noch verbreitet, jedem bekannt ist?
-Neben den gängigen Begründungen, die eine unpolitische Generation beschreiben, die sich keiner Schuld bewusst ist und somit auch kein Problem in der Überwachung sieht, möchte ich auf einen kulturellen Aspekt hinweisen, den ich selber persönlich in meiner Wahrnehmung ausmache und der für mich bei der Marginalisierung des Überwachungsskandals durch die, vornehmlich junge, Bevölkerung eine wichtige Rolle spielt.
-Zunächst einmal kommt die Überwachung, der wir uns heute ausgesetzt sehen, in einer unsichtbaren, nicht greifbaren und meist auch nur schwer begreifbaren Form daher.
-Auch vor 40 Jahren wurden bereits Telefone angezapft und abgehört, dennoch war die Überwachung in gewissem Sinne analoger und somit spürbar und hatte damit auch ein größeres Angstmoment inne.
-Die Vorstellung, dass Geheimdienstmitarbeiter sich während der eigenen Abwesenheit Zutritt zur Wohnung verschaffen, um diese zu verwanzen, war und ist in der Tat angsteinflößend.
-Die Vorstellung dagegen, dass sich der britische Geheimdienst GCHQ an den Daten bedient, die durch ein Glasfaserkabel im Ozean geschickt werden, ist zwar im Grunde ähnlich konkret, dennoch aber sowohl gedanklich als auch räumlich derart weit weg, als dass sie uns keine Schrecken einjagen könnte.
-Nun ist diese Überwachung für unterschiedliche Menschen und Generationen in verschiedener Ausprägung abstrakt und, um den Aspekt der Angst fortzuführen, in verschiedener Ausprägung angsteinflößend.
-Je weniger ein Mensch onlineaffin ist, also je weniger er das Internet nutzt und auch versteht, desto abstrakter ist die digitale Überwachung der Geheimdienste für ihn.
-Je mehr sich der Mensch aber im digitalen Raum aufhält, ihn als im Grunde völlig natürlich betrachtet, desto verständlicher ist auch die Überwachung von Datenströmen und zwar sowohl in ihrer Bedeutung für einen selbst, als auch in ihrer technischen Funktionsweise.
-Diese beiden Gruppen, auf der einen Seite die „Digital Natives“ (von klein auf mit digitalen Medien sozialisiert), auf der anderen Seite die „Digital Immigrants“ (nicht von klein auf mit digitalen Techniken vertraut) sind, seit sie 1996 das erste Mal so betitelt wurden, ganz logisch mit Generationen und dem Alter der Menschen verknüpft.
-Daher bietet es sich an, auch die Reaktionen auf die NSA-Affäre grob pauschalisiert nach Generationen zu unterteilen.
-Von den, bereits eingangs erwähnten, „jungen Leuten“, den Digital Natives, zu denen auch ich mich zähle, wird wütender Protest erwartet, da wir die digitale Überwachung verstehen und begreifen können.
-Warum also bleiben Wut und Empörung aus?
-Ich formuliere meine persönliche Antwort auf die Frage folgendermaßen: Ich bin nicht überrascht davon, dass das Netz überwacht wird.
-Es war mir im Grunde genommen immer bewusst.
-Denn wir sind nicht nur mit dem Internet groß geworden, sondern auch mit Filmen wie „Der Staatsfeind Nr. 1“, „Die Bourne Identität“ oder „Mission Impossible“.
-Im Grunde genommen, meist wenig anspruchsvolle Action-Blockbuster, die die Arbeit von Agenten der Geheimdienste entweder glorifizieren oder kritisieren, die aber immer eins gemein haben: Die allumfassende digitale Überwachung und die Existenz von riesigen Datensätzen aus Informationen über nahezu jeden Bürger, werden als vollkommen normal und gegeben dargestellt (zunächst unabhängig davon, ob sie kritisiert werden oder nicht).
-Auch wenn es sich bei diesen Filmen um Fiktion handelt, so war und ist einem dennoch beim Schreiben von E-Mails, beim Hochladen von Fotos, beim Erstellen von Websites und bei allen anderen Aktivitäten im Internet immer unterbewusst klar, dass diese Daten theoretisch von Geheimdiensten ausgelesen werden können.
-Die technische Kompetenz der Digital Natives beinhaltet eben auch dieses, in meinen Augen maßgeblich durch Filmkultur geschaffene Wissen.
-Dieses Wissen, dass nichts im World Wide Web hundertprozentig privat bleiben kann, hatten wir schon bevor Edward Snowden damit begann die konkreten Ausmaße und Methoden der Geheimdienste öffentlich zu machen.
-Es sorgt, zumindest in meinem subjektiven Fall dafür, dass ich nicht in dem Maße überrascht und schockiert bin, als dass es mich wütend auf die Straße treiben würde.
-Es bleibt abschließend zu hoffen, dass sich das von mir beschriebene Szenario nicht in Bezug auf andere Thematiken wiederholt oder bereits wiederholt hat.
-Ein Stichwort sei hier die viel diskutierte US-Serie „Homeland“, der von Kritikern unterstellt wird, sie stelle die Foltermethoden der Regierung nebensächlich als notwendiges und legitimes Mittel gegen den Terrorismus dar.
-Teilen:
+Foto: Daniel Roland/AFP/GettyImages
+Auf dem Buchmarkt und an seinen Rändern herrscht seit geraumer Zeit ein Hauen und Stechen, wie der Tagesspiegel vor einiger Zeit berichtete, hinter und vor den Kulissen, dass man sich als Kleinverleger nur wundern kann.
+Kunden diesem Marktgebaren auszusetzen, ist schlicht verantwortungslos.
+Seit Frühjahr 2013 läuft bei mir ( AutorenVerlag Matern ) eine Umorientierung auf digitale Produkte - und genau in diesem Markt-Segment prallen Thesen und Antithesen, legales und illegales Handeln gegen- und ineinander, so dass Leute von außen, vor allem Leser, kaum noch erkennen können, worum es konkret geht.
+Zum Marktgebaren gehört eine Desinformationspolitik, die lediglich auf Effekte innerhalb der eigenen Reihen setzt und von außen gar nicht mehr nachvollziehbar ist.
+Die Betreiber illegaler Plattformen wie auch ihre Nutzer vermissen offenbar einen Vertrieb von drm-freien eBooks (eBooks ohne implementierte Rechteverwaltung) zu günstigen Preisen.
+Würde es einen solchen Vertrieb geben, wären die Plattformen für viele Leser vermutlich relativ unrelevant, sieht man mal von Nutzern ab, die sich auch preiswerte Bücher nicht leisten könnten.
+Bibliotheken hängen mit ihren Online- und Digital-Angeboten offenbar immer noch stark hinterher.
+Faktisch ist das Hauen und Stechen Teil eines gesellschaftlichen Desaster das seinen kurzzeitigen Höhepunkt mit Merkels Neuland-Bekenntnis hatte.
+Weshalb?
+EBooks gelten offiziell, handelsrechtlich nicht als Bücher, sondern als Software.
+Dies hat steuerliche Konsequenzen: 19% MwSt / USt anstatt 7%.
+Beim Preisvergleich von eBooks und Papierbüchern in Deutschland ist dies zu berücksichtigen.
+Desweiteren ist der deutschsprachige Markt im Vergleich zum englischsprachigen ein Dorf.
+In Australien und Indien wird man deutschsprachige Literatur kaum lesen, englischsprachige aber schon.
+Die Kalkulationen der Verlage sehen schlicht anders aus.
+Lässt man die Preise kurz außer Acht, sind die digitalen Schutzmechanismen, mit denen eBooks jeweils für ein Gerät lizensiert werden, tatsächlich verwerflich.
+Diese Einschränkung ist nicht zu rechtfertigen, es sei denn, man wollte die großen Softwarehersteller noch überbieten, die z.B. bei einem Rechnerwechsel eine neue Aktivierung verlangen.
+Für eBooks ist so etwas nicht vorgesehen: Das Kindle-Format lässt sich z.B. nicht einfach portieren.
+Sich mit geschützten eBooks ruhigen Gewissens eine Bibliothek aufzubauen, ist so gut wie unmöglich.
+Von der Kritik betroffen sind jedoch nicht nur Verlage, sondern auch Händler, die nur für das von ihnen vertriebene Gerät lizensieren.
+Im Hinblick auf die Preise sind aber Staat und Verlage gleichermaßen in die Verantwortung zu nehmen, günstige Angebote zu ermöglichen, im Hinblick auf einen Verleih die vielen öffentlichen Bibliotheken!
+Der immer wieder zu lesende Vergleich mit ‘Spotify’ aus der Musikbranche hinkt: Nicht nur sind die Gebühren an Labels und Verwertungsgesellschaften (Urherber) gering, die Firma ist inzwischen finanziell am Ende.
+Sollen die Marktpotentiale im deutschsprachigen Raum verspielt werden, bevor sich ein Markt überhaupt gebildet hat?
+Zuvor auf: http://tmblr.co/ZGvR4styIL6i

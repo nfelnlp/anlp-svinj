@@ -1,182 +1,26 @@
-Algorithmen bestimmen unser Leben
-Illustration: der Freitag
-Vor einigen Jahren unterbrach Kyle Behm sein Studium an der Vanderbilt University in Nashville, Tennessee.
-Er litt an einer bipolaren Störung und musste sich in Behandlung begeben.
-Anderthalb Jahre später ging es ihm wieder so gut, dass er an einer anderen Universität weiterstudieren konnte.
-Ein Freund erzählte ihm von einem Nebenjob, Teilzeit im Supermarkt – bloß Mindestlohn, aber eine sichere Sache, er könne für ihn bürgen.
-Die Bewerbung schien eine reine Formsache.
-Dieser Artikel erschien in Ausgabe 41/2016 vom 13.10.2016 Die aktuelle Ausgabe des Freitag erhalten Sie am Kiosk.
-Oder sichern Sie sich hier 3 Wochen gratis
-Doch Kyle wurde nicht zum Vorstellungsgespräch eingeladen.
-Auf Nachfrage sagte ihm sein Freund, er sei beim Persönlichkeitstext durchgefallen, der Teil des Bewerbungsverfahrens war.
-Diesen Test hatte eine Personaldienstleistungsfirma namens Kronos entwickelt.
-Als Kyle seinem Vater, dem Rechtsanwalt Roland Behm, davon berichtete, wollte dieser wissen, was für Fragen vorkamen.
-Kyle sagte, sie glichen dem Fünf-Faktoren-Test, den er auch in der Klinik gemacht hatte.
-Dieser stuft Menschen anhand der Eigenschaften „extrovertiert“, „verträglich“, „gewissenhaft“, „neurotisch“ und „offen für Neues“ ein.
-Auf den ersten Blick schien es nicht der Rede wert, wegen eines zweifelhaften Tests einen Nebenjob nicht zu bekommen.
-Kyle bewarb sich anderswo.
-Doch es war immer dasselbe.
-Alle Unternehmen, bei denen er es versuchte, verwendeten den gleichen Fragenkatalog – nirgendwo wurde er angenommen.
-Roland Behm war bestürzt.
-Fragen zur psychischen Gesundheit schienen seinem Sohn den Zugang zum Arbeitsmarkt zu versperren.
-Er begann der Sache nachzugehen und stellte fest, dass Persönlichkeitstests für Bewerber gerade bei großen Firmen weit verbreitet sind.
-Und kaum je wird gegen diese Praxis juristisch vorgegangen.
-Zum einen wissen die Bewerber meist nicht, dass sie wegen ihrer Testergebnisse abgelehnt wurden.
-Zum anderen schalten auch die, die es erfahren, in der Regel keinen Anwalt ein.
-Auf unerklärliche Weise
-Roland Behm teilte daraufhin sieben Unternehmen mit, dass er eine Sammelklage vorbereite, weil die Verwendung des Kronos-Tests bei Bewerbungen gesetzwidrig sei.
-Der Prozess steht noch aus.
-Entscheidend dürfte sein, ob der Test einer medizinischen Untersuchung gleichkommt.
-Dann wäre er laut US-amerikanischem Antidiskriminierungsgesetz illegal.
-Falls das Gericht zu diesem Schluss kommt, müsste es im nächsten Schritt entscheiden, ob die Schuld für den Verstoß bei den Firmen liegt, die den Test anwenden, oder bei Kronos.
-Aber der Fall wirft noch ganz andere Fragen auf.
-Automatisierte, auf mathematischen Formeln beruhende Verfahren sind bei der Sichtung von Bewerbungen in der westlichen Welt mittlerweile gang und gäbe.
-Diese Personaler-Algorithmen haben das Potenzial, eine neue Unterschicht zu schaffen – eine Klasse von Menschen, die sich auf unerklärliche Weise vom normalen Leben ausgeschlossen sieht.
-Eigentlich waren Algorithmen ja schon in Verruf geraten: Dass die Finanzkrise so katastrophale Ausmaße annahm, lag nicht zuletzt an vermeintlichen Zauberformeln, mit denen man glaubte, die Märkte kontrollieren zu können.
-Doch statt unser Verhältnis zu dieser Art der angewandten Mathematik zu überdenken, ließen wir zu, dass sie sich weiter ausbreitete.
-Nun ging es nicht mehr bloß um Finanzprodukte, sondern um Menschen.
-Mathematiker und Statistiker durchleuchten anhand gewaltiger Datenmengen (die sie oft aus sozialen Medien und Online-Kaufhäusern zusammenklauben) unsere Sehnsüchte, unsere Bewegungen und unser Kaufverhalten.
-Sie stufen damit unsere Vertrauenswürdigkeit ein und berechnen unser Potenzial als Arbeitnehmer, Liebhaber oder Straftäter.
-So ist die Big-Data-Wirtschaft in die Welt gekommen, und sie verspricht spektakuläre Erträge.
-Ein Computerprogramm kann sekundenschnell Tausende von Lebensläufen oder Kreditanträgen vergleichen und die vielversprechendsten Kandidaten nach oben sortieren.
-Das spart nicht nur Zeit, sondern gilt auch als fair und objektiv.
-Schließlich sind keine vorurteilsbehafteten Menschen im Spiel, nur Maschinen, die Zahlen auswerten.
-Auf diese Weise ist die Mathematik weiter denn je in unser Leben vorgedrungen – und die Gesellschaft zeigt sich damit bisher ganz einverstanden.
-Web Mining und Zukunftsprognosen
-Ein Algorithmus ist eine systematische Vorgehensweise, die zur Lösung eines Problemsführen soll – also ein Programm, das vorgegebene Abläufe so lang wiederholt, bis ein Ergebnis vorliegt.
-Wichtig dabei ist: Ein Algorithmus ist nicht neutral, sondern ebenso mit Vorurteilen belastet wie die Personen, die der Software die Anweisungen geben.
-Auch in Deutschland bestimmen Algorithmen zunehmend Arbeitsalltag und Bewerbungsverfahren: Personalmanagement-Software wird dabei vor allem von Großunternehmen genutzt.
-CV-Parsing-Software etwa sucht Daten aus Bewerbungen und Web-Profilen heraus, um eine übersichtliche Kandidatenliste zu erstellen.
-Web mining oder Data mining nennt man es, wenn ein Algorithmus dazu bestimmte Informationen im Internet oder anderen Datenbanken über eine Person sucht.
-Zudem interessieren sich Personaler stark für Algorithmen, die das zukünftige Verhalten von Bewerbern voraussagen sollen.
-Solche Software wird bisher vor allem von der Polizei genutzt.
-In den USA ist Predictive Policing (Vorhersagende Polizeiarbeit), also die Erhebung von Daten zur Berechnung zukünftiger Verbrechen, bereits weit verbreitet.
-In Deutschland wird das auch getestet.
-So nutzt die Münchner Polizei seit Oktober 2014 die Software Precobs.
-Dieses Prognoseprogramm wird von einem Institut in Oberhausen entwickelt und global vermarktet
-Hinter den meisten algorithmischen Anwendungen stehen gute Absichten.
-Es geht darum, objektive Messungen an die Stelle subjektiver Einschätzungen zu setzen – sei es bei der Frage, ob ein Lehrer schlechten Unterricht macht, oder wie die Sozialprognose eines Häftlings aussieht.
-Die Vorzüge der Algorithmen scheinen auf der Hand zu liegen.
-Ein Schulleiter lässt einen problematischen Lehrer vielleicht unbehelligt, weil er mit ihm befreundet ist.
-Und auch Richter sind nur Menschen.
-Sie fällen kurz vor dem Mittagessen nachweislich härtere Urteile als zu anderen Tageszeiten.
-Feste Kriterien sind also erstrebenswert, zumal wenn sie wissenschaftlich fundiert sind.
-Genau darin aber liegt das Problem.
-Nur wenige der heute gängigen Algorithmen und Punktesysteme würden einer wissenschaftlichen Überprüfung standhalten.
-Die automatisierten Lehrerbewertungen in den USA zum Beispiel schwanken von Jahr zu Jahr so stark, dass sie unmöglich als treffsicher gelten können.
-Algorithmen entscheiden heute über unsere Versicherungstarife oder darüber, welche Artikel wir lesen.
-Sie erstellen anhand der Wettervorhersage aber auch den täglichen Arbeitsplan tausender Menschen, ohne Rücksicht darauf zu nehmen, ob diese vorher ihre Kinder zur Schule bringen müssen.
-Die vermeintlich objektiven Formeln hinter der Big-Data-Wirtschaft basieren ihrerseits auf Entscheidungen fehlbarer Menschen.
-Sie binden Vorurteile, Vorlieben und Missverständnisse in automatische Systeme ein, die zunehmend unser Leben bestimmen.
-Diese Algorithmen sind so undurchschaubar wie Götter – nur die höchsten Priester (sprich: die zuständigen Mathematiker und Programmierer) haben Einblick in ihr Wirken.
-Ihre Urteile, gleich wie falsch oder schädlich, gelten als unanfechtbar.
-Und sie neigen dazu, Benachteiligte weiter ins Abseits zu drängen.
-Früher waren bei der Arbeitssuche vor allem Beziehungen wichtig.
-So gesehen beschritt Kyle Behm den herkömmlichen Weg: Ein Freund hatte ihn auf das Jobangebot hingewiesen und ein Wort für ihn eingelegt, wie man es seit Jahrzehnten tat, egal ob es um eine Stelle im Einzelhandel, bei einer Bank oder in einer Anwaltskanzlei ging.
-Auf eine solche Empfehlung folgte üblicherweise ein Vorstellungsgespräch, bei dem der Arbeitgeber versuchte, sich einen Eindruck von dem Kandidaten zu verschaffen.
-Allzu oft lief dies auf eine Frage hinaus: Ist die Person, die sich da vorstellt, so wie ich?
-Oder so wie andere, mit denen ich gut zurechtkomme?
-Benachteiligt waren dabei Jobsuchende ohne einen Freund in der Firma, besonders wenn sie eine andere Hautfarbe oder Religion hatten.
-Auch Frauen standen bei diesem Wer-kennt-wen-Spiel oft außen vor.
-Als Firmen wie Kronos – gegründet in den 70ern – wissenschaftliche Methoden in die Personalabteilungen einbrachten, warben sie damit, die Auswahlverfahren fairer zu machen.
-Das erste Kronos-Produkt war eine Stechuhr, die automatisch Arbeitsstunden addierte und meldete.
-Später entwickelte Kronos Programme fürs Personalmanagement.
-Vor allem die Software Workforce Ready soll „der Ungewissheit beim Einstellen“ ein Ende bereiten.
-Eine boomende Branche
-Kronos ist Teil einer boomenden Branche, die jährliche Wachstumsraten von 10 bis 15 Prozent verzeichnet.
-Das Personalwesen wird immer weiter automatisiert, und viele der Programme enthalten Tests wie den, über den Kyle Behm stolperte.
-Zwischen 60 und 70 Prozent der Jobbewerber in den USA absolvieren mittlerweile solche Prüfungen; in Großbritannien nutzen nach Angaben eines Personaler-Verbands bereits 71 Prozent der Arbeitgeber Psychotests beim Einstellungsverfahren.
-Doch abgesehen von den Zweifeln an Fairness und Rechtmäßigkeit zeigen Studien, dass Persönlichkeitstests kaum geeignet sind, um einzuschätzen, wie gut jemand arbeitet.
-Frank Schmidt, BWL-Professor an der University of Iowa, wertete ein ganzes Jahrhundert von Daten zur Arbeitsproduktivität aus, um die Prognosegenauigkeit verschiedener Auswahlverfahren zu überprüfen.
-Persönlichkeitstests schnitten schlecht ab.
-Sie erwiesen sich als weit ungenauer als Erkundigungen bei Ex-Arbeitgebern und den Ausbildungsstätten.
-„Der Zweck dieser Tests“, sagt Roland Behm, „ist nicht, die besten Mitarbeiter zu finden, sondern so billig wie möglich so viele Bewerber wie möglich auszusortieren.“
-Man sollte auch meinen, Persönlichkeitstests seien leicht zu manipulieren.
-In Online-Versionen des Fünf-Faktoren-Tests stößt man auf Fragen wie: „Haben Sie häufig Stimmungsschwankungen?“ Da kreuzt man clevererweise „Trifft überhaupt nicht zu“ an.
-Deshalb setzen Unternehmen inzwischen auf vertrackte Entweder-oder-Konstruktionen.
-Bei McDonald’s mussten Bewerber auswählen, welcher der beiden folgenden Sätze eher auf sie zutraf: „Es ist schwer, fröhlich zu bleiben, wenn man sich um viele Probleme kümmern muss.“ Oder: „Manchmal brauche ich ein bisschen Druck, um richtig loslegen zu können.“
-Das Wall Street Journal legte die Sätze dem Arbeitspsychologen Tomas Chamorro-Premuzic vor.
-Der erste Satz, erklärte er, erfasse „individuelle Ausschläge in den Kategorien neurotisch und gewissenhaft“, der zweite Satz belege Antriebsschwäche.
-Die Kandidaten hatten also die Wahl, ob sie überspannt oder faul waren.
-Es wird nicht nachjustiert
-Befürworter der Tests weisen darauf hin, dass sie eine große Zahl von Fragen umfassen und sich ein Bewerber nicht mit einer einzelnen Antwort disqualifiziert.
-Wohl aber durch bestimmte Antwortmuster.
-Und die Muster kennen wir nicht.
-Wir wissen nicht, wonach die Tests suchen.
-Das Verfahren ist völlig undurchsichtig.
-Schlimmer noch: Einmal eingerichtet, wird das Modell nicht mehr hinterfragt.
-Ein gutes Gegenbeispiel bietet hier der Sport.
-Im Profifußball etwa sind ja heute etliche Daten-Nerds damit beschäftigt, Spieler anhand ihrer Laufleistung, Passquote, gewonnenen Zweikämpfe zu analysieren.
-Und diese Variablen entscheiden mit über Vertragsverlängerungen oder Neuverpflichtungen.
-Beschließt allerdings, sagen wir, der FC Bayern München anhand mauer Statistikwerte, einen Spieler aus dem eigenen Kader weiterzureichen, und dieser Spieler wird dann bei einem anderen Klub zum Star, so wird sich der FC Bayern auf jeden Fall sein Datenmodell noch einmal genau vornehmen.
-Er wird prüfen, warum die Prognose falsch lag, und wird das Modell entsprechend verbessern.
-Die Klubs im Profisport arbeiten mit Individuen, von denen ein jedes Millionen wert ist.
-Die Qualität ihrer Analysewerkzeuge kann entscheidend sein, darum aktualisieren sie ihre Statistik-Systeme ständig.
-Ohne laufende Neujustierung würden sie untauglich werden.
-Dagegen behandeln Firmen, die Jobs im Niedriglohnsektor vergeben, die Bewerber wie eine Viehherde.
-Sie sparen Kosten ein, indem sie Personalchefs durch Maschinen ersetzen.
-Und diese Maschinen filtern aus einer großen Zahl von Menschen eine kleine Gruppe heraus.
-Solange die auf diese Weise zusammengestellte Belegschaft nicht außer Kontrolle gerät – sei es, dass in der Firma die Kleptomanie ausbricht oder die Produktivität absackt –, sehen die Unternehmen keinen Grund, ihr Auswahlverfahren zu überarbeiten.
-Es erfüllt ja seinen Zweck, auch wenn es die eine oder andere Fehleinschätzung hervorbringt.
-Anders sieht die Sache natürlich aus der Perspektive der Opfer der automatisierten Systeme aus.
-Die Mehrheit der Bewerber wird von den Algorithmen zwar nicht anhand irgendwelcher Persönlichkeitstests ausgemustert.
-Doch auch sie stehen vor der Herausforderung, ihre Bewerbung möglichst weit oben im Stapel zu platzieren, sodass sie zum Vorstellungsgespräch eingeladen werden.
-Vor allem für ethnische Minderheiten und Frauen ist dies bisher besonders schwer.
-Der beste Weg, die Vorurteile zu umgehen, sind komplett anonymisierte Bewerbungsverfahren.
-Orchester zum Beispiel waren lange Zeit eine Männerdomäne.
-Schon seit den 1970ern aber spielen Bewerberinnen und Bewerber hinter einem Wandschirm vor.
-Beziehungen, Geschlecht, Hautfarbe haben so keinen Einfluss mehr: Die Musik, die erklingt, spricht für sich.
-Der Prozentsatz von Frauen in großen Orchestern hat sich seither verfünffacht.
-Das soziale Kapital
-Eine vergleichbar neutrale Möglichkeit, Kandidaten zu beurteilen, bietet sich leider nicht in vielen Branchen.
-Deshalb müssen Arbeitgeber in anderen Bereichen unweigerlich Lebensläufe nach Indizien durchsuchen.
-In den USA werden heute 72 Prozent der für Bewerbungen eingereichten Lebensläufe aber nicht mehr von menschlichen Augen gesichtet.
-Computerprogramme überprüfen sie auf die Fähigkeiten und Erfahrungen, die der Arbeitgeber sich wünscht, und vergeben Punkte.
-Die Personalabteilung entscheidet, welche Mindestpunktzahl für ein Vorstellungsgespräch nötig ist, doch je mehr Kandidaten schon von den Algorithmen aussortiert sind, desto weniger Arbeitsstunden müssen die Personaler mit der Endauswahl verbringen.
-Bewerber sollten also den automatischen Leser im Sinn haben, wenn sie ihren Lebenslauf schreiben.
-Wer den Einblick hat, nach welchen Kriterien und Key Words die Maschine gewichtet, kann seinen Lebenslauf daraufhin ausrichten.
-Wer nichts von diesen Prozessen ahnt, schickt seine Bewerbung in ein schwarzes Loch.
-Ein weiteres Anliegen der Personaler ist es, die Fluktuation der Belegschaft möglichst gering zu halten, denn jede Neubesetzung einer Stelle verursacht Aufwand und Kosten.
-Deshalb werden die Einstellungsalgorithmen inzwischen auch darauf getrimmt, zu kalkulieren, wie lange ein neuer Mitarbeiter der Firma erhalten bleiben dürfte.
-Das Unternehmen Evolv, spezialisiert auf die Analyse von Personaldaten, erstellte für den Konzern Xerox eine Prognose für alle 40.000 Angestellten seiner Callcenter.
-Das Berechnungsmodell enthielt einige erwartbare Variablen, wie etwa die durchschnittliche Verweildauer in vorigen Jobs, doch es kamen auch andere Parameter zur Anwendung.
-So zeigte sich, dass Menschen, die das System als „kreative Typen“ einstufte, länger bei der Stange blieben als solche, die eine hohe Punktzahl in der Kategorie „wissbegierig“ erreichten.
-Am heikelsten aber war der geografische Zusammenhang, den die Kalkulation ans Licht brachte.
-Je weiter entfernt vom Arbeitsplatz ein Bewerber lebte, desto höher die Wahrscheinlichkeit, dass er bald wieder kündigen würde.
-So weit, so vorhersehbar – natürlich nerven lange Wege.
-Doch hinzu kam der Befund, dass diejenigen mit den weiten Wegen zum Großteil aus armen Gegenden kamen.
-Xerox zeigte sich verantwortungsbewusst und entfernte diese Korrelation wieder aus dem Rechenmodell.
-Während die Verweildauer-Analyse darauf abzielt, unstete Kandidaten auszusortieren, liegt die wichtigere Aufgabe für Personaler aber darin, künftige Leistungsträger aufzuspüren – Mitarbeiter, deren Intelligenz und Antrieb die Firma voranbringen können.
-Gerade in den höheren Gefilden der Wirtschaftswelt herrscht ein Wettbewerb um Köpfe, die zugleich kreativ denken und gut im Team arbeiten.
-Dort sind Algorithmen gefragt, die aus den Datenmassen Hinweise auf besondere Kreativität und soziale Kompetenz herausfiltern.
-Ein Pionier auf diesem Feld ist Gild, ein Start-up mit Sitz in San Francisco.
-Weit über Ausbildungsstätten und Lebensläufe hinaus analysiert Gild Millionen potenzieller Mitarbeiter anhand ihrer „sozialen Daten“.
-Gild behauptet sogar vorhersagen zu können, wann genau ein besonders heißer Kandidat die Arbeitsstelle wechseln will, zu welchem Zeitpunkt man ihm also ein Angebot machen sollte.
-Das Modell, mit dem Gild operiert, muss das „soziale Kapital“ von Arbeitnehmern auch bewerten.
-Welche Rolle spielt dieser Kandidat in der Gemeinschaft der Programmierer?
-Trägt er wichtige Lösungen bei?
-Teilt er sie mit anderen?
-Nehmen wir als Beispiel Pedro, einen Programmierer aus São Paulo.
-Jede Abend verbringt er an seinem PC im Austausch mit anderen Programmierern in aller Welt.
-Er löst Cloud-Computing-Probleme und macht Vorschläge für Spiel-Algorithmen auf Entwicklerwebseiten.
-Das Modell dürfte Pedro für dieses Hobby eine hohe Punktzahl geben und dabei auch berücksichtigen, in welchem Ausmaß er mit Kollegen interagiert.
-Die Kompetenzen und die soziale Bedeutung seiner Kontakte könnten mit einberechnet werden.
-Wenn Pedro online mit Google-Boss Sergey Brin kommuniziert, geht sein Punktestand so durch die Decke.
-Alle Arten von Mustern
-Allerdings sind solche eindeutigen Hinweise sehr selten.
-Also sucht Gild nach weniger offensichtlichen Zusammenhängen zwischen sozialer Aktivität und Ausnahmetalent.
-Bei einer Datenbank, die mehr als sechs Millionen Programmierer umfasst, lassen sich alle Arten von Mustern ermitteln.
-So fand Gild heraus, dass eine Schar hochbegabter Programmierer sich auf einer bestimmten japanischen Manga-Webseite tummelte.
-Wenn Pedro auch zu dieser Schar gehört, heißt das nicht zwangsläufig, dass er das Zeug zum Star-Mitarbeiter hat.
-Aber es könnte ein Hinweis sein.
-Doch andere Talente verbringen ihre Freizeit vielleicht eher offline und leisten Großartiges in der Kinderbetreuung oder einer Lesegruppe.
-Solchen Kompetenzen kommen selbst die ausgeklügeltsten Algorithmen nicht auf die Spur.
-Dass jemand nicht jeden Abend über Mangas diskutiert, sollte kein Handicap für seinen beruflichen Aufstieg sein.
-Zumal wenn, wie oft im Reich der Techies, dort ein sexistischer Tonfall herrscht, der Frauen abschreckt.
-Das Gild-Modell macht deutlich, wie sich die Automatisierung in den Personalabteilungen weiterentwickelt.
-Die Datenberge wachsen immer höher, wir produzieren laufend Updates über unser Leben.
-Und all diese Daten helfen potenziellen Arbeitgebern dabei, uns einzuschätzen.
-Dabei wächst auch die Gefahr, dass die Daten am Ende nur dazu genutzt werden, Vorurteile zu vertiefen und Ungerechtigkeiten fortzuführen.
-Nach wie vor haben allzu viele Modelle denselben Haken, der auch Kyle Behm ein Bein stellte: Die „Wissenschaft“, der sie folgen, ist nichts weiter als ein Bündel ungeprüfter Vermutungen.
-Cathy O’Neil ist Datenwissenschaftlerin, schreibt für den Guardian und betreibt den Blog mathbabe.org
-Übersetzung: Michael Ebmeyer
+Bei diesem Beitrag handelt es sich um ein Blog aus der Freitag-Community
+BWPWAP Networks mit Geert Lovink
+Giulia Baccosi / transmediale
+Virtueller Selbstmord ist eine knifflige Angelegenheit.
+Nicht, weil es Netzmüden an Willenskraft fehlt, sondern weil soziale Netzwerke wie Facebook es Nutzern schwer machen, ihre Profile zu löschen.
+Fast eine Milliarde Profile zählt das Börsenunternehmen.
+Nutzer haben Angst vor Manipulation und Datenhandel, Bewegungen wie Europe Versus Facebook oder ShareMeNot gehen dagegen vor.
+Geert Lovink, Medientheoretiker, Leiter des Institute of Network Cultures und Autor von Publikationen wie Uncanny Networks und Networks Without a Cause: A Critique of Social Media, rief bei der transmediale zum Kampf gegen die globale Macht der Social-Media-Konzerne auf.
+In seinem Vortrag gab er Handlungsempfehlungen, wir haben sie zusammengefasst.
+– Menschen wollen in sozialen Netzwerken interagieren.
+Es geht nicht darum, dieses Bedürfnis zu hinterfragen, sondern die Art und Weise, wie Profile gestaltet sind – wir brauchen Ideen für neue Architekturen.
+– Wir müssen soziale Netzwerke in Plattformen der Kollaboration verwandeln, sie sinnvoll nutzen und damit gestalten, anstatt sie nur als Umgebung für Kommunikation zu nutzen.
+Facebook versucht, das zu verhindern, denn für Social-Media-Konzerne stellt Kollaboration unter Usern eine Bedrohung dar.
+– Impulse für eine alternative Zukunft sozialer Netzwerke liefern auch künstlerische Positionen und Praktiken.
+Die Berliner Gruppe Telekommunisten etwa hat mit Thimbl ein Manifest für eine neue Form sozialer Online-Interaktion entwickelt.
+– Die Macht, die derzeit in zentralisierten sozialen Netzwerken vorherrscht, muss fragmentiert werden.
+Lokale Ansätze müssen an die Stelle globaler Netzwerke treten.
+– Es gibt bereits alternative soziale Netzwerke, die mit 100.000 bis 150.000 Profilen relativ erfolgreich sind, etwa Diaspora , Crabgrass oder Lorea .
+Von diesen Projekten können wir lernen, ihre Ansätze müssen wir weiterentwickeln.
+http://farm9.staticflickr.com/8514/8435344436_7bbd8c6764_b.jpg
+Daran, dass User, Künstler und Aktivisten noch eine Kehrtwende der sozialen Netzwerk-Kultur bewirken können, glaubt Lovink.
+Das Potenzial sei riesig, jetzt ginge es darum, zu handeln, sagte er, denn wir seien drauf und dran, dieses Potenzial zu verlieren.
+Aus dem Publikum meldete sich ein desillusionierter Aktivist zu Wort.
+Er bewundere Lovinks Optimismus, versicherte er, aber alternative soziale Netzwerke wie Lorea würden oft nicht richtig funktionieren, außerdem sei Facebook überall, es sei unmöglich, gegen den Konzern vorzugehen.
+All jene, die den Absprung trotzdem wagen wollen, können sich im Netz Hilfe holen: Mit Web 2.0 Suicide Machine oder Account Killer können Profile bei Facebook, Twitter, Google und anderen Netz-Platzhirschen dauerhaft gelöscht werden.
+Sabine Weier

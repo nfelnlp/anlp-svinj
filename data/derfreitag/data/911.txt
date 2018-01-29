@@ -1,86 +1,29 @@
-Teilen:
-Foto: LOUISA GOULIAMAKI/AFP/Getty Images
-Die Flüchtlinge sind da.
-Und nun?
-Für viele von ihnen beginnt damit ein komplett neues Leben in Deutschland, weit entfernt von ihrer Heimat, in einem Land das ihnen noch fremd erscheint.
-„Wir wollen diesen Menschen Deutschland näher bringen und ihnen den Einstieg erleichtern”, haben sich da viele engagierte Bürger gedacht – und genau zu diesem Zweck zahlreiche Webseiten und Apps entwickelt.
-Was steckt hinter den Apps?
-Was können sie?
-Und: Was für Hilfe bieten sie den Flüchtlingen?
-Warum ist das wichtig?
-Die angekommenen Flüchtlinge sind eine neue Realität in Deutschland.
-Sie bilden jetzt schon einen neuen Teil unserer Gesellschaft.
-Die Apps für Flüchtlings zeigen, wie wir uns einander annähern können.
-Apps für Flüchtlings-Apps sollen den neu eingetroffenen Flüchtlingen ihren Anfang in Deutschland erleichtern.
-Von der Jobsuche, über interaktive Landkarten, bis hin zum Asylprozess – die Apps bieten Flüchtlingen viele wichtige Informationen.
-Die Flüchtlings-Apps setzen auch ein Zeichen.
-Sie heißen die Flüchtlinge willkommen und zeigen: Deutschland möchte die Flüchtlinge nicht nur aufnehmen, sie sollen auch aktiv in unsere Gesellschaft eingebunden werden.
-Die Stadt-Apps für das Smartphone oder Tablet
-Die Dresdner Welcome App war eine der ersten Smartphone-Apps, die speziell für Flüchtlinge entwickelt wurde.
-Entwickelt wurde die App von den Dresdner IT-Unternehmen Saxonia Systems AG und der Heinrich & Reuter Solutions GmbH.
-Welcome to Dresden hilft neu angekommenen Flüchtlingen in Dresden zum Beispiel bei der Arztsuche oder gibt Tipps zu ersten Schritten im Asylverfahren.
-Viola Klein, Geschäftsführerin von Saxonia Systems AG sagt, die Idee zur App war eine ganz natürliche Entwicklung: „In unserem Unternehmen haben wir 230 Mitarbeiter aus 11 Nationen und sind es einfach gewohnt mit fremden Kulturen zu arbeiten.
-Ich finde das wunderbar, das bereichert!“ Für Viola Klein gibt es viele Dinge vor denen wir Angst haben sollten, aber Flüchtlinge gehören für sie nicht dazu.
-Ganz im Gegenteil.
-So wurde die App auch gemeinsam mit Flüchtlingen entwickelt, um deren brennendste Fragen möglichst einfach und schnell zu beantworten.
-Die App gibt es mittlerweile für alle drei mobilen Betriebssysteme und soll bald in zehn Sprachen erscheinen.
-Auch andere deutsche Städte wollen die Welcome-to-Dresden-App übernehmen.
-Der Witten City Guide folgt einem ähnlichen Prinzip.
-Die App bietet Flüchtlingen Informationstexte in verschiedenen Sprachen.
-Darüber hinaus können Nutzer über die „around me“-Suche wichtige Orte in ihrer unmittelbaren Nähe auf der Karte finden.
-Die App war ursprünglich für Bürger und Touristen gedacht.
-Über den Witten City Guide konnten sie sich über alles Wichtige aus Witten informieren.
-Die Idee, diese App mit Informationen für Flüchtlinge zu erweitern, kam der Stadt da sehr schnell: „Natürlich fehlt es bei uns vor Ort an verständlichen Informationen und an Hinweisen in der Muttersprache von Asylbewerbern, die Neuankömmlingen wenigstens die ersten Schritte im neuen Land erleichtern“, erklärt Astrid Raith von der Stadt Witten.
-Schon war der Witten City Guide mit spezieller Hilfe für Flüchtlinge ins Leben gerufen.
-Interaktive Stadtpläne: Afeefa Dresden und InfoCompass Berlin
-Die beiden Webseiten Afeefa (kurz für: alle für einen und einer für alle) aus Dresden und InfoCompass Berlin arbeiten mit Stadtplänen, um Flüchtlingen das Navigieren in diesen beiden Städten zu erleichtern.
-Afeefa geht es dabei vor allem um die Vernetzung zwischen Behörden, Organisationen, engagierten Bürgern und Flüchtlingen.
-Die Webseite versteht sich als „Dreh- und Angelpunkt der zahlreichen und vielseitigen Angebote von und für geflüchtete und engagierte Menschen“ in Dresden.
-Hier finden Flüchtlinge nicht nur praktische Informationen zum Aufnahmeverfahren, sondern auch aktuelle Veranstaltungen sowie eine Börse für Angebote und Gesuche für Flüchtlinge und Bürger, die helfen wollen.
-Dresdner App für Flüchtlinge: afeefa – alle für einen und einer für alle
-Felix Schönfeld und Joschka Heinrich, verantwortlich für das Konzept und die Programmierung der Webseite, haben viele Stunden in die Entwicklung des Internetauftritts gesteckt.
-„Das Ganze fing erst als Gegenbewegung zu Pegida an und wurde dann zu einem Netzwerk engagierter Bürger.
-Jeder hat dabei viele Informationen über und für Flüchtlinge zusammen getragen.
-Da wurde schnell klar, dass wir eigentlich eine Softwarelösung brauchen.“ So entstanden schließlich die Webseite, die mittlerweile in zehn Sprachen von Urdu bis Tigrinya verfügbar ist, sowie die Facebook-Kontaktseite zu Afeefa .
-InfoCompass Berlin ist ebenfalls entstanden, weil sich engagierte Menschen in Berlin Reinickendorf gefragt haben: „Wie können wir Flüchtlingen vor Ort helfen?“ Das Ergebnis ist eine Landkarte geworden, mit wichtigen Informationen für Flüchtlinge.
-Hier finden Flüchtlinge Sprachschulen, Kitas oder psychologischer Betreuung, sowie die InfoPoints von InfoCompass Berlin.
-Flüchtlinge können auf der Webseite oder per mobiler App alle InfoPoints in ihrer Nähe sehen.
-Diese Infopunkte werden drei Mal pro Woche geöffnet und engagierte Bürger verteilen hier Informationen für Flüchtlinge und stehen mit Rat und Tat zur Seite.
-Darüber hinaus gibt es auf InfoCompass auch InfoVideos zu wichtigen Themen.
-Den Gründern war es dabei wichtig, dass sich so auch Migranten selbst einbringen können, um andere Flüchtlinge zu beraten oder selbst Veranstaltungen zu organisieren.
-Den InfoCompass Berlin gibt es mittlerweile in sechs Sprachen für Berlin Reinickendorf und Westend.
-Hilfe bei der Jobsuche: SelfieJobs und Workeer
-SelfieJobs hat einem etwas anderen Ansatz.
-Die App aus Schweden wurde eigentlich für junge Menschen entwickelt, um die Jobsuche einfach und vor allem schneller zu machen.
-Jobsuchende erstellen bei SelfieJobs ein Profil, laden ihren Lebenslauf hoch und stellen sich mit einem kurzen Bewerbungsvideo vor.
-Arbeitgeber können dann bei der Suche nach Bewerbern wie bei der Dating-App Tinder auswählen: Kandidaten, die ihnen gefallen werden in eine Richtung gewischt, Kandidaten, die ausscheiden in die andere.
-Die in Europa kostenlose App gibt es für mehrere europäische Städte, unter anderem auch Berlin.
-SelfieJob-Erfinder Martin Tall möchte diese App nun gemeinsam mit der regierungsnahen Organisation Vinnova speziell für Flüchtlinge erweitern und einen Übersetzungsmechanismus einbauen.
-Die Idee dahinter: Flüchtlinge können die Jobangebote in ihrer Sprache lesen und ihren Lebenslauf etwa auf arabisch oder russisch hochladen.
-Arbeitgeber lesen diese Lebensläufe wiederum auf Schwedisch, Deutsch oder Englisch.
-Auch der anschließende Bewerbungsgespräch-Chat soll übersetzt werden.
-„Ich glaube, das ermöglicht Migranten mindestens einen ersten Kontakt, den sie sonst aufgrund der Sprachbarrieren gar nicht hätten“, sagt Tall.
-Er hofft, dass Auto CV im Dezember an den Start gehen kann.
-David Jacob und Philipp Kühn haben mit Workeer ebenfalls eine Webseite kreiert, die Flüchtlingen und Migranten bei der Arbeits- und Ausbildungssuche helfen soll.
-Das Projekt ist als Abschlussprojekt in ihrem Bachelorstudium entstanden.
-Jacob und Kühn wollten nicht nur einfach eine Arbeit schreiben, die in der Schublade verschwindet.
-Kombiniert mit persönlichem politischem Interesse am Thema Integration und Migration entstand so Workeer.
-Über die Idee zu Workeer sagen die Macher auf ihrer Webseite: „Mit der Plattform soll ein geeignetes Umfeld geschaffen werden, in dem diese besondere Gruppe von Arbeitssuchenden auf ihnen gegenüber positiv eingestellte Arbeitgeber trifft.“
-Die App Workeer möchte Arbeit- und Ausbildungsstellen vermitteln
-Sie hoffen also, dass Migranten und Flüchtlinge so schneller eine Arbeit in Deutschland finden – und somit auch schneller ein aktiver Teil der Gesellschaft werden können.
-Noch ist die Webseite allerdings nur auf Deutsch verfügbar, sie soll aber demnächst in weitere Sprachen übersetzt werden.
-Apps für Flüchtlinge – bisher ohne Feedback
-Die Apps und Webseiten für Flüchtlinge wollen ankommenden Flüchtlingen dabei helfen, sich in Deutschland besser zurechtzufinden.
-Sie wurden eigens dafür von engagierten Bürgern ins Leben gerufen und sie haben eine klare Botschaft: Flüchtlinge sind hier willkommen.
-Die meisten Applikationen stecken allerdings noch in den Kinderschuhen.
-Einige sind zum Teil noch in der Beta-Phase, bei anderen gibt es noch die typischen anfängliche technische Pannen, und Auto CV von SelfieJobs steckt sogar noch in der Entstehungssphase.
-Derweil entwickeln viele andere Firmen wie zum Beispiel SAP derweil ihre eigenen Flüchtlings-Apps.
-Hier wird die Zeit sicherlich zeigen, welche der vielen Angebote den meisten Zuspruch bekommen.
-Denn auch wenn viele Applikationen mit Hilfe von Migranten erstellt wurden, eins ist bei allen Apps noch absolute Mangelware: Feedback von den Flüchtlingen.
-Keiner weiß bisher genau, ob und wie viele Flüchtlinge ihre Apps nutzen – und ob sie ihnen überhaupt helfen.
-Dieser Beitrag erschien zuerst auf netzpiloten.de
-Marinela Potor begann ihren journalistischen Werdegang bei kleinen Lokalzeitungen und arbeitete dann während ihres Studiums als Reporterin für den Universitätsradiosender.
-Ihr Volontariat machte sie bei Radio Jade in Wilhelmshaven.
-Seit 2010 hat sie ihren Rucksack gepackt und bereist seitdem rastlos die Welt – und berichtet als freie Journalistin darüber.
-Über alle „inoffiziellen“ Geschichten schreibt sie in ihrem eigenen Blog
+Panagiotis Lafazanis (l.)
+war während der Diktatur im Widerstand
+Foto: Louisa Gouliamaki/AFP/Getty Images
+Die jüngste Partei des Landes, die aus der linken Syriza-Plattform entstandene „Volkseinheit“, ist inzwischen ein Begriff.
+Eher weniger bekannt sind deren Wurzeln in der ältesten griechischen Partei, der kommunistischen KKE.
+Sie war nach dem Bürgerkrieg (1945 – 1949) ebenso verboten wie zu Zeiten der Militärdiktatur (1967 – 1974), sodass sich ihre Führer zur Emigration gezwungen sahen, es blieben aber auch viele im Land, um der Repression zu widerstehen.
+Zunächst nur geografisch getrennt, wurde man sich bald auch ideologisch fremd: Kommunisten im rumänischen und sowjetischen Exil standen zum Leninismus, die innere Emigration hielt es mehr mit eurokommunistischen Positionen, wie sie in den 70er Jahren die spanische und italienische KP vertraten.
+Dieser Artikel erschien in Ausgabe 38/2015 vom 17.09.2015 Die aktuelle Ausgabe des Freitag erhalten Sie am Kiosk.
+Oder sichern Sie sich hier 3 Wochen gratis
+Diese Vorgeschichte ist von Belang, wenn sich Syriza neben der KKE nun eines weiteren linken Rivalen zu erwehren hat.
+Dabei bezieht sich Ex-Energieminister Panagiotis Lafazanis mit dem Namen Volkseinheit nicht nur auf die Unidad Popular des sozialistischen Präsidenten Salvador Allende, der 1973 in Chile einem Putsch zum Opfer fiel – dieses Jahr war für die griechische Linke noch aus einem anderen Grund von Bedeutung: Die Besetzung des Athener Polytechnikums, die am 17. November 1973 blutig niedergeschlagen wurde, sorgte für den Anfang vom Ende der Junta ein Jahr später.
+Panagiotis Lafazanis, damals Mitglied der kommunistischen Jugend KNE und 22 Jahre alt, gehörte zu den Führern dieses Aufstands.
+In jener Zeit sein Leben riskiert zu haben, das prägt bis heute.
+Egal, ob jemand zu Syriza, zur KKE oder anderen linken Parteien steht.
+Die Kommunisten wurden bald nach ihrer Gründung 1918 zur Massenpartei mit Rückhalt in den Gewerkschaften.
+Ihre Kader kämpften wie Aris Velouchiotis, Kommandeur der Partisanenarmee ELAS, gegen die deutsche Besatzung im Zweiten Weltkrieg und wurden zu Identifikationsfiguren schlechthin.
+Als er sich mit seinen Getreuen 1945 nicht entwaffnen ließ, wurde Velouchiotis von britischen Soldaten in den Bergen aufgespürt und niedergemacht.
+Wenig später begann die von etlichen NATO-Staaten gestützte Monarchie den Kampf gegen die KKE und löste einen Bürgerkrieg aus.
+Nachdem die KKE 1981 wieder legal war, traten ihre Fraktionen zunächst gemeinsam zur Parlamentswahl an.
+Es gab keine Alternative, da die Partei durch die Zeit der Illegalität xgeschwächt war.
+Doch der pragmatische Konsens verhieß keine ideologische Koexistenz.
+Die Konflikte zwischen Leninisten und Eurokommunisten blieben virulent, bis 1991 – nicht zuletzt unter dem Eindruck der sich auflösenden Sowjetunion – viele reformorientierte Mitglieder von KKE und KNE in die neu gegründete Linksallianz Synaspismos eintraten, die 2004 in der Linksallianz Syriza aufging.
+Damit waren die Gräben zwischen Orthodoxen und Reformern definitiv zementiert.
+Die KKE schloss Koalitionen mit Syriza kategorisch aus, auch wenn klar war, dass in deren Reihen mit Tsipras und Lafazanis Politiker standen, die einst zur KNE gehörten.
+Geschichte kann helfen, Gegenwart zu verstehen.
+Diese zeigt, wie Gleichgesinnte einander fremd wurden, sei es in den Jahren des Bürgerkriegs oder der Obristen.
+Trotzdem vereint Griechenlands Linke das Vermächtnis, sich nie einer Fremdbestimmung durch europäische Mächte zu unterwerfen.
+Deshalb ist das Einknicken von Tsipras vor den Gläubigern für viele Linke schwer erträglich.
 Teilen:

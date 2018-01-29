@@ -1,27 +1,38 @@
-„Twenty-Eight Nights and A Poem“
-Foto: Akram Zaatari
-Die Geschichte eines südlibanesischen Fotostudios als filmische „Interpretation des Archivs“ – so beschreibt der Videokünstler Akram Zaatari den Ansatz seines Dokumentarfilmprojekts Twenty-Eight Nights and a Poem.
-Verhandelt wird darin eine Frage, die im diesjährigen Festivalprogramm in zahlreichen experimentellen Arbeiten der Sektionen Forum und Forum Expanded auftaucht: Wie materialisieren sich Bewegtbildarchive nach dem Übertritt in digitale Medien der Aufzeichnung, Speicherung und Übertragung?
-Dieser Artikel erschien in Ausgabe 07/2015 vom 12.02.2015 Die aktuelle Ausgabe des Freitag erhalten Sie am Kiosk.
-Oder sichern Sie sich hier 3 Wochen gratis
-Wer Hashem el Madanis 1953 eröffnetes Fotostudio betrat, wollte porträtiert werden und bat den Fotografen um Vorschläge zu geeigneten Posen.
-Die Auskunft fiel meist genderspezifisch aus, aber im Archiv gibt es auch queere Seitenwege und diskrete Aktaufnahmen.
-Zwischendurch nutzte Madani freie Zeit für Streifzüge durch die Stadt Saida, bei denen unter anderem eine Serie entstand, die Ladenbesitzer vor ihren Geschäften ablichtete, was heute auch als beiläufige Querschnittsdokumentation einer historischen Warenwelt lesbar ist.
-Neben den Fotografien interessiert sich Zaatari aber in erster Linie für die mitgespeicherte Medienarchäologie dieses Archivs, für all die Geräte, Materialien, Systeme, die Madani jahrzehntelang aufbewahrt hat.
-Wer Altes nicht umgehend entsorgt, wenn Neues angeschafft wird, betreibt irgendwann ein autobiografisches Technikmuseum.
-Was sich in Madanis Fall aufblättert, ist ein Leben umgeben von zahllosen Medien der Bild- und Tonerzeugung, genutzt für berufliche wie private Zwecke.
-Von Super-8-Kameras bis zu frühen Videoformaten reicht das Spektrum.
-Kodak-Fotomaterial mit dem Ablaufdatum 1976 taucht auf und lässt sich gespenstisch reaktivieren.
-Altertümliche Radios und TV-Geräte werden noch mal mit Strom versorgt und befragt, welche Signale sie in unserer Gegenwart noch empfangen und wahrnehmbar machen können.
-Während hier das Vergehen der Zeit auch am Wandel der Apparate, ihrem materiellen Schrumpfen auf digitale Leichtgewichtigkeit und Flatness ablesbar ist, bearbeitet Iec Long, eine ebenfalls sehr schöne Arbeit von João Pedro Rodrigues und João Rui Guerra da Mata, die prinzipielle Überblendbarkeit historischer Zeitschichtungen.
-Händler an Händler
-Der Filmtitel bezeichnet eine ehemalige Feuerwerksfabrik in der portugiesischen Kolonie Macau.
-Von den handwerklichen Produktionsstätten des letzten Jahrhunderts sind neben wenigen Fotografien nur noch Ruinen übriggeblieben.
-Als Historiker seiner eigenen lebensgeschichtlichen Erzählung tritt ein Zeitzeuge auf, der seine Kindheit unfreiwillig in der Iec Long Fireworks Factory verbracht und überlebt hat.
-Wenn die Kamera den Ort in der Gegenwart durchstreift und das Bild schwarz-weiß wird, trifft sie dort auf einen Stellvertreter der einst fotografierten Subjekte: einen Jungen, der eines der Kinder gewesen sein könnte, die damals die gefährlich explosive Hauptarbeit verrichten mussten, weil kleine Hände als vorteilhaft beim Einfüllen des Schwarzpulvers galten.
-Während das fotografische Material hier politisch in die Gegenwart hineinaktualisiert wird, kann sich der Avantgarde-Altmeister Ken Jacobs auf die stabilen Zeitspeicher seines eigenen Outtake-Archivs verlassen.
-Orchard Street ist ein verspäteter Director’s Cut, der einer zwölfminütigen Arbeit aus dem Jahr 1955 nun noch 15 weitere Minuten hinzufügt.
-In fluiden Bewegungen dokumentarischer Beobachtung gleitet die 16-Millimeter-Kamera, eine Bell and Howell, durch die titelgebende Lower-East-Side-Straße.
-Händler reiht sich hier an Händler, die angebotenen Waren sind Teil vergessener Produktgeschichten wie die Sortimente der porträtierten Ladenbesitzer aus dem libanesischen Saida.
-Aber Jacobs Archiv spricht in der Sprache des historischen Filmmaterials, geht mit ihm zurück und in ihm auf: Das eingefangene Street Life leuchtet in Kodachrome-Farben, die mittels digitaler Restaurierung, also dank eines Medientransfers reanimierbar wurden.
-Teilen:
+@                       Referenzkommentar
+|| Naja, ich habe bei der "Mobilisierung" meiner eigenen site gemerkt, wie schwierig es ist, mit zwei designs fuer desktop und mobile zu arbeiten und habs am Ende gelassen.
+Und meine Site ist noch nicht mal interaktiv.||
+Meine schon (digitale-demokratie.net), aber eben schon auf Desktop absolut spartanisch und so unaufgeräumt wie jede gute Werkbank.
+An Verbesserung u. Mobilisierung denke ich nicht, solange die Nutzer keine Beiträge zu Design & Funktion, Doku, FAQ usw. liefern, - ist doch unter meiner Beratung/Anleitung & mit vorh.
+Toolkits überhaupt nicht schwer bzw. sehr lernbar.
+Auch
+Demos/Tests, was man mit css alles so machen kann (z.
+B. publikuli.de = ausschl.
+css), statt tausende von Grafiken einzuhubern, blieben ohne Resonanz.
+|| Wie weit man die php, css und java files tweaken kann ist bei jeder platform natuerlich unterschiedlich.
+Dazu kommen naatuerlich auch bugs (beispielsweise Zeitfunktionsfehler) Das Eingabefeld zu vergroessern ist vermutlich nicht vorgesehen.
+Wenn man sowas versucht, zerschiesst man leicht die gesamte Funktion.
+Das ist bei der Zeit wohl passiert, darum bei dem Antwortcontainer besser Finger davon.
+||
+Da sehe ich eher das Gegenteil richtig.
+Natürlich ist auch die Veränderlichkeit der Kommentarfeldgröße per se vorgesehen, - wie wollte man denn sonst den "Responsive"-Anspruch einlösen?
+Und's geht ja, wie Sie oben sehen, man muß nur wollen ... (ich habe für diesen Kommentar die Breite (1.
+Wert der resizeTo-Parameter) auf 390 gesetzt, was erstmal beim einkopieren Ihres Kommentars hier die gleichen Umbrüche erzeugte wie im Original)
+Hinsichtlich "tweaken" und "zerschossener" Zeitstempelei siehe meinen Kommentar oben -, und da sind wir auch schon beim nächsten Punkt:
+|| Ich finde uebrigens die beiden Jungs im "Serverraum" machen einen guten Jobs im Rahmen ihrer Vorentscheidung fuer ihre Platform.
+(Muss man auch ja mal sagen).
+||
+Wären es nur zwei, die an der neuen Sache basteln, brauchte man nicht zwingend ein Repository(-Verfahren) u. ä. IT-Projekt-Tools, wenngleich nat.
+immer nützlich.
+Die alte Lösung habe ich mal mit zw.
+mind.
+250.000 bis 1,5 Mio. für's erste Jahr für Alles, bis runter zum Hosting eingeschätzt.
+Es wäre gefährlich für's - strategisch notwendig: anspruchsvollere - Neue, bloß zwei Männeken/Fräuleins werkeln zu lassen, die womöglich auch wenig Erfahrung haben/jung sind:
+Sowas löst man erstmal ohne preemptive deep-tweaks, sondern am Ende der Prozesskette bis runter auf den Client.
+Ist alles stabil produktiv und steht ein Testserver wieder zur Verfügung, berichtigt man die Output-Erstellung selbst, statt sie provisorisch am Ende zu korrigieren, - vor allem wg.
+Performance (Antwortzeiten, CPU-Konsum), strukt.
+Klarheit und Wartbarkeit.
+|| Die Uebernahmen des Themes von Freitag digital waere - vor allem fuer die Navigation - sinnvoller gewesen.
+Aber sowas sagt sich leicht... ||
+Mit Sicherheit nicht.
+Diese alte, recht gute Navig ist/wäre mit Wischen kaum bedienbar, siehe meine Kommentare in den versch.
+Threads dazu von Anbeginn, Stichwort Scroll, Einblenden/-ung usw.

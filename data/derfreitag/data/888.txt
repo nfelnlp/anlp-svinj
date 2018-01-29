@@ -1,107 +1,71 @@
-Bei diesem Beitrag handelt es sich um ein Blog aus der Freitag-Community
-Foto: Quantic Dream/Sony Deutschland
-Mit einem Affen eroberte Shigeru Miyamoto für Nintendo den Videospiele-Markt.
-„Donkey Kong“ war im Jahr 1981 der Startschuss für eine bis dato ungeahnte Boom-Phase der Branche.
-Der Computerspiel-Designer hatte sich bei seinem Debüt von Hollywood-Klassikern wie „Die Schöne und das Biest“ und „King Kong“ inspirieren lassen.
-In Gestalt von Mario befreite der Spieler seine Freundin Pauline aus der Gewalt des Gorillas.
-Der einfachste dramaturgische Dreiklang: Aufbruch, Initiation und Rückkehr.
-Miyamoto trug damit die erste seichte Form der Dramaturgie auf die Konsole.
-Noch heute folgen Videospiele diesem Muster.
-Mit immer mehr cineastischen Mitteln erzählen sie entlang immer gleicher Drei-Akt-Strukturen.
-Der Ego-Shooter ist längst interaktiver Ersatz des Actionfilms, Max Payne schon lange der digitale Bruce Willis.
-Das „Uncanny Valley“ ist dort bedeutungslos, wo das Blut spritzt, Explosionen in HD die animierten Welten erschüttern und der Held das alles mit einem sarkastischen Spruch kommentiert.
-Der dramaturgische Rahmen in den nicht-spielbaren Filmsequenzen, die Kameraperspektiven, die Musik: Das Gamedesign hat den Action-Film, wie ihn die 80er und 90er Jahre hervorgebracht haben, nahezu deckungsgleich kopiert.
-Dass die Erzählschemata mit wenigen Ausnahmen fast immer gleich sind, hat zwei Ursachen: Zum einen fürchten die Entwickler ihre eigene Zielgruppe – zu viele Experimente könnten den Umsatz gefährden.
-Zum anderen gilt das Verhältnis zwischen Spiel und Erzählung noch immer als gespanntes.
-Unter Mischformen leidet immer einer der beiden Gegenpole.
-Doch das Verständnis dieses Gegensatzes in der Gaming-Industrie könnte sich langsam ändern.
-Immer mehr Entwickler loten die Grenzen des Erzählbaren im Computerspiel aus und erforschen andere Genres als das Action-Spiel.
-Sie versuchen Brücken über den unüberwindbaren Graben zu bauen, der Spiel und Erzählung trennt.
-Den Grand Canyon der digitalen Erfahrung.
-„To read fiction means to play a game (...)“[Umberto Eco]
-Es gibt zwei Werkstätten, in denen sich Autoren und Designer besonders um neue Wirkformeln in der Erzählweise von Games bemühen: Eine liegt am Boulevard Davout in Paris, die andere an der Universität von Portsmouth.
-An der Adresse in Paris ist das Entwicklerstudio Quantic Dream beheimatet.
-Das Team um David Cage bringt in diesem Jahr „Beyond: Two Souls“ heraus und bewegt sich damit weiter auf den Pfaden, die es mit „Fahrenheit“ und „Heavy Rain“ eingeschlagen hat: Cage setzt darauf, den Spieler durch seinen Einfluss auf die Dramaturgie maximal einzubeziehen.
-In mehreren Handlungssträngen mit mehreren Protagonisten stehen jeweils alternative Enden zur Verfügung.
-Ein großer Unterschied zu vollkommen linear gescripteten Blockbustern.
-Entscheidungsfreiheit mit Einfluss auf die Handlung: So etwas gibt es im Game-Mainstream kaum.
-Aus gutem Grund: Es ist wirtschaftlich aufwändig und kann Spieler auch verschrecken.
-Für seine Titel legt Cage deswegen besonderen Wert darauf, die Spieler emotional zu involvieren und so für die Handlung zu begeistern.
-„Heavy Rain“ führte den Spieler anhand von langen cineastischen Inszenierungen, Quick-Time-Action-Sequenzen und den Entscheidungsmöglichkeiten an den Rand des emotional Ertragbaren.
-Wie weit bist Du bereit für einen geliebten Menschen zu gehen?
-Einige Kritiker nennen das: einen interaktiven Film ohne wesentlichen Spielcharakter, denn die Interaktivität leide unter der Erzählung.
-Cage nennt das hingegen: Erwachsenwerden.
-Er attestiert der Gaming-Industrie, die mit ihrem jährlichen Umsatz Hollywood schon längst überflügelt, ein Peter-Pan-Syndrom: Seit 40 Jahren produziere sie die gleichen Spiele für die gleichen Spieler: Action, Sport, Autorennen.
-Er hingegen will Spiele produzieren, die „eine Bedeutung haben“, wie er sagt – und dafür ist entscheidend, dass sich der Spieler mit dem Protagonisten identifizieren kann, mitleidet, sich fürchtet.
-Erreichen will Cage das einerseits durch dramaturgisch geschickt erzeugte emotionale Grenzwanderungen, anderseits durch den intensiven Einsatz von Facial Motion Capturing.
-Für das neue Werk „Beyond: Two Souls“ engagierte er Ellen Page und Willem Dafoe für die Hauptrollen.
-Ein Interview mit Dafoe dazu lässt vermuten, dass sich die Story – neben dem Fantasy-Plot - intensiv um die Beziehung der beiden Protagonisten drehen wird.
-Diese werde sich „über einen langen Zeitraum hinweg entwickeln“.
-Klingt nicht nur ungewöhnlich, ist es auch in einem Medium, das die meisten Figuren klar in Gut und Böse zu unterteilen in der Lage ist.
-„Drama is life with the dull bits cut out.“ [Alfred Hitchcock ]
-Emotionale Nähe, so die Überlegung, steigert das Identifikationspotential, die Immersion, und tröstet über fehlende Offenheit der Spielewelt und geringere Interaktivität hinweg.
-Das ist notwendig, um dem Spieler einen sich langsam entwickelnden Plot, eine intensivere Charakterentwicklung zumuten zu können.
-Mit LA Noir beispielsweise hat auch die High-Tech-Schmiede Rockstar Games auf ein Spielkonzept gesetzt, das den Fokus auf die Interpretation menschlicher Mimik legt.
-Ein langsameres Erzähltempo wurde möglich und fesselte.
-Beim Shooter „Max Payne“ hingegen setzt das selbe Studio nicht auf Identifikation und emotionale Nähe – sondern auf abwechselnd kurze oder lange Zwischensequenzen, die ohne Ladezeiten unvermittelt ins Action-Gameplay übergehen.
-Die Interaktivität soll so in die erzählenden Cutscenes getragen werden.
-Der Effekt: Spieler können sich nie beruhigt zurücklehnen und müssen darauf gefasst sein, jederzeit einzugreifen.
-Doch was, wenn keine Story aus dem Action-Genre erzählt werden soll?
-„Heavy Rain“ und „LA Noir“ versuchten sich am Thriller - sind Dramen, Komödien, Liebesfilme als Film-Spiel-Hybrid erzählbar?
-Durch Identifikation und emotionale Nähe?
-Wie sich Film- und Computerspielkultur gegenseitig beeinflussen untersucht Prof. Dr. Rainer Leschke mit dem Schwerpunkt Medientheorie an der Universität in Siegen.
-Er ist der Überzeugung, dass sich die gleichen Strategien, mit denen David Cage das überwiegend männliche Thriller-Publikum begeistern kann, auch auf andere Genres anwenden lassen.
-„Die Zielgruppen sind dann natürlich andere.“ Die veränderten sich in den nächsten Jahrzehnten aber ohnehin.
-Derzeit bestehe das Publikum zu einem großen Teil aus Jugendlichen und jungen, männlichen Erwachsenen – grundsätzlich Gruppen die wiederholende Muster in den Erzählungen eher positiv bewerten.
-Die Computerspielbranche sei wie die Filmbranche aufgrund immenser Produktionskosten sehr auf Wirtschaftlichkeit ausgerichtet.
-Um die zu gewährleisten, die Zielgruppe nicht zu verärgern, arbeite auch Hollywood in den Erzählstrukturen lediglich mit „kalkulierter Varianz“, also sehr behutsamen und akzentuierten Abweichungen in den Erzählformen.
-Dem Computerspiel stehe die Zeit der Avantgarde noch bevor.
-„Die Branche nimmt sich erst jetzt des ästhetischen Bereichs an und orientiert sich nicht mehr ausschließlich an Massenkompatibilität“, sagt Leschke.
-Auch Literatur und Film hätten diese Entwicklungsstadien durchlaufen.
-„Das ist das Muster der Moderne.“
-„(...) When the author leads us to one particular door, we know it is the right one because it opens.”[John Updike]
-Und tatsächlich begegnen Computerspielern schon jetzt experimentelle Konzepte, die aus der Literatur bekannt sind.
-Für viele Kontroversen hat in diesem Zusammenhang das Spiel „Dear Esther“ des britischen Entwicklerteams „Chinese Room“ gesorgt.
-Völlig ohne explizite Handlungsanleitung erforscht der Spieler in dem Titel eine atmosphärisch dicht (und grafisch herausragend) gestaltete Insel in der Dämmerung, begleitet von mystischen Erzählungen aus dem Audio-Off.
-Immer auf der Suche nach dem Sinn des Unterfangens steuert er einem linear vorgegebenen, aber dem Spieler unbekannten Spielziel entgegen.
-Auf der Reise dorthin ist er allein mit seinen Spekulationen über die melancholischen Erzählungen aus dem Off.
-Doch (UND VORSICHT IN DIESEM ABSATZ STEHT EIN SPOILER): Die Erzählungen sind teilweise willkürlich angeordnet.
-Die Audios erscheinen bei jedem Spieldurchlauf an anderen Stellen in anderer Reihenfolge.
-Eine Methode, die an das in der Literatur bekannte Cut-Up erinnert - und der im Mittelpunkt stehenden Erzählung in „Dear Esther“ keinen Abbruch tut.
-Kritiker monierten: „Dear Esther“ sei gar kein Spiel, lediglich eine grafisch schön dargebrachte Erzählung, da die Interaktion mit der Umgebung fehle.
-Medienforscher streiten , ob Erzählung und Spiel gleichzeitig möglich sind.
-Viele betonen: Spielform und dramaturgische Form stehen sich antithetisch oder zumindest komplementär gegenüber.
-Lediglich Mischverhältnisse sind möglich, die immer zu Lasten eines Teilbereichs gehen.
-Doch ist das Spiel mit den vermittelten Informationen, mit den Möglichkeiten, mit den Spekulationen weniger Spiel als „Donkey Kong“?
-Weniger Spiel als „Max Payne“?
-Dass gerade die Schmiede „Chinese Room“ für das Konzept verantwortlich ist, ist kein Zufall.
-Das Entwicklerteam besteht aus Forschern der Universität Portsmouth.
-„Dear Esther“ entstand, als Dr. Dan Pinchbeck untersuchen wollte, wie entscheidend die Story für ein Spiel ist.
-Seine Datenanalysen warfen viele Fragen auf, „die man nicht beantworten konnte, weil die Spiele (dafür) nicht existierten“, sagt er im Interview.
-Der Wendepunkt für Pinchbeck.
-Sein Manifest : Spielentwicklung soll in den Mittelpunkt der Forschung rücken.
-Die Spiele des „Chinese Room“ sollen neuartige Ideen verwirklichen – um anschließend zu analysieren, ob sie funktionieren.
-Das Projekt „Korsakovia“ untersuchte zum Beispiel die Erwartungshaltung von Spielern, indem es bekannte Game-Mechaniken ohne Erklärung außer Kraft setzte.
-Gegner erhielten keinen logischen narrativen Background, verhielten sich irrational, Hinweise endeten oft in der Sackgasse.
-Die Erkenntnis des „Chinese Room“ nach der Rückmeldung der Spieler: Auch Machtlosigkeit – im Gegensatz zu den Allmachtsfantasien in den meisten Ego-Shootern - könne womöglich die Basis eines fesselnden Spielerlebnisses sein.
-Die Nachfolgeprojekte der „Amnesia“-Reihe waren geboren.
-„The Holy Grail we are looking for (...) is the ability to have freedom, and to have truly open ended stories.“[David Braben]
-Das bald erscheinende „Everybody's gone to the rapture“ soll hingegen der natürliche Nachfolger von „Dear Esther“ sein.
-„Anstatt in einer linearen Umgebung findet das Spiel in einer großen Welt statt“, verraten die Entwickler bislang.
-Es solle gleichzeitig „open world“ und „pure story“ sein, dem Vernehmen nach zeitlich begrenzt und auf die Frage abzielen: Wie verhalten sich normale Menschen angesichts der bevorstehenden Apokalypse?
-„Chinese Room“ versucht mit dem Spiel den Spagat zwischen Erzählung und Interaktivität.
-Der Titel stammt wohl nicht von ungefähr: „Rapture“ heißt zu deutsch etwa: „emotionale Betroffenheit“, wie sie auch bei David Cage häufig in der Argumentation erscheint.
-„Rapture“ ist laut dem Theoriemodell der Entwicklerin und Forscherin Prof. Dr. Janet Murray eine der drei ästhetischen Kategorien des Computerspiels - neben „Immersion“ (dt.
-: „Eintauchen“) und „Agency“ (dt.
-: „Interaktivität“).
-Auch die Welt des hoch gehandelten und verhältnismäßig storylastigen Spiels „Bioshock“ ist so benannt.
-„Rapture“ ist genau jene Kategorie, auf die die meisten Experimente zielen, die den Spagat zwischen Erzählung und Interaktion wagen.
-Für viele Entwickler sind die Schnittmengen noch nicht ausgereizt.
-Denn auch die klassischen Erzähler sind noch immer fasziniert, nicht nur Willem Dafoe und Ellen Page können sich für interaktive Projekte begeistern.
-Regisseur und Autor Guillermo Del Toro (Pans Labyrinth, Der Hobbit) sieht in Computerspielen „die Zukunft des Erzählens“ und arbeitet derzeit noch daran, sein Spieleprojekt „Insane“ zu realisieren.
-Er hat wohl noch einige finanzielle Hürden zu überwinden, obwohl sein Horror-Spiel vermutlich erneut hauptsächlich auf junge männliche Erwachsene als Zielgruppe abzielt.
-Noch sind nicht alle davon überzeugt, dass Entwickler und Regisseure massenkompatible Schnittmengen zwischen innovativer Erzählung und spielerischer Interaktivität schaffen können.
-Welche Reaktionen der neue Titel von „Chinese Room“ hervorruft, bleibt abzuwarten.
-Vielleicht wird der digitale Grand Canyon nicht mit Brücken überwunden.
-Vielleicht gelingt es den Forschern aber zumindest ihn zu vermessen.
-Upcoming
+Album kaufen
+In Kooperation mit
+Rock’n’Roll ist, anders als Boxen, nicht für großartige Comebacks bekannt.
+Ein paar Fehltritte und dann heißt es für gewöhnlich: Leb wohl, ein schönes Leben noch, wer warst du noch gleich?
+Von Zeit zu Zeit jedoch verliert ein musikalischer Schwergewichts-Champion eine Runde, nur um später noch stärker wieder zurückzukommen.
+David Bowie beispielsweise durchlief vor seiner Wiedergeburt eine lange Brachzeit.
+Paul Weller hatte einige holprige Jahre, bevor er als Solokünstler Fuß fasste.
+Nun gesellt sich eine dritte epochemachende Stimme in die Liste von Champions, die zurückkehrten, um ihren Gürtel zurückzuerobern: Liam Gallagher.
+Nachdem sich Beady Eye 2014 offiziell aufgelöst hatten, fand sich Liam zum ersten Mal seit 20 Jahren außerhalb der Blase einer organisierten Rockband mitsamt dem dazugehörigen Management-Apparat wieder.
+Er fiel hart.
+Plötzlich einfach nur noch ein normaler Typ („einfach nur eine normale absolute Legende“, stellt er klar), galt es zu erwägen, was er nun tun sollte.
+Für eine Weile spielte er mit dem Gedanken, nach Mallorca zu ziehen und den „’Sexy Beast’-Style“ irgendwo am Pool in der Sonne zu leben.
+Er fuhr ein paar Mal in den Urlaub.
+Er ging viel joggen.
+Er gönnte sich einige Bierchen.
+Und er ließ sich scheiden.
+Und als all das vorüber, warf er einen tiefen Blick in den Spiegel und erinnerte sich, wer er ist und was er tut.
+Er ist Liam Gallagher, Sohn von Peggy Gallagher aus Burnage, Manchester, der beste Sänger und Frontmann seiner Generation.
+Und so entschied er sich, wieder mit dem Singen und Songschreiben zu beginnen.
+Mallorca konnte warten.
+Als er wenig später zu Hause in London in seinem eigenwilligen Stil auf einer Gitarre herumspielte, überraschte er sich selbst damit, dass er einen Song schrieb.
+„Ich bin definitiv kein Profi darin“, sagt er, ganz bescheiden.
+„Es ist eher so der Frankenstein-Ansatz.
+Aber ich vermute mal, jeder hat so seinen Weg.
+Selbst Paul McCartney setzte sich nicht einfach hin und schrieb auf Anhieb ‚Hey Jude’.“
+Der Song, den er schrieb, war ein gewichtiger Klumpen aus Soul-Rock mit dem Titel „Bold“ – und stark genug, um ihm einen Plattenvertrag bei Warner einzubringen.
+Der Anfang war also gemacht.
+Schließlich hatte er einen ganzen Schwung Songs beisammen, die er zunächst als Demos mit einem Multi-Instrumentalisten namens Dan McDougall in London aufnahm, bevor er begann, Producer und Co-Schreiber zu treffen.
+„Warner Bros.
+fragte mich: ‚Wärst du offen für ein bisschen Co-Writing?’ Ich entgegnete in etwa: ‚Hab ich noch nie gemacht, wieso nicht?’“.
+Er flog nach L.A., traf einige der Kandidaten, so richtig klickte es dann jedoch mit Greg Kurstin.
+„Greg Kurstin spielte mir ein paar Ideen vor, wir unterhielten uns, tauschten einige Ideen aus, ordneten sie, und bevor wir es uns versahen, hatten wir weitere Songs im Kasten.
+Ich bin so überrascht wie alle anderen, dass es funktionierte, aber die Songs, die wir machten, sind top.“
+Zu diesen Stücken gehört auch Liams erste Single als Solokünstler, „Wall Of Glass“.
+Wenn man eine Gleichung all jener Elemente aufstellen sollte, die die frühen Oasis-Singles so apokalyptisch gut machten, also gewaltige Wellen von Gitarren-Hooks + eine Melodie, die man ewig nicht mehr abschütteln kann + ein donnernder Rhythmus + Liam Gallaghers Stimme, die einen eingängigen Refrain abliefert –, so fügt sich „Wall Of Glass“ nahtlos in diese Reihe.
+Man kann sich nur schwer auf eine Zeit besinnen, in der Liam jemals besser gesungen hätte – es ist, als hörte man ihn zum ersten Mal, dieselbe sehnsuchtsvolle Drohgebärde, die am Ende des Refrains von „Supersonic“ Millionen von Herzen gewonnen hatte.
+Seine Stimme ist definitiv auf den Punkt.
+„Nun ja“, stimmt er fast zu.
+„Ich bin ein guter Sänger, Mann!
+In neun von zehn Fällen sitzt das Ding.
+Im Studio erst recht.
+Da hab ich noch nie eine Note verkackt.“
+Die Aufnahmen für das Album fanden an zwei Orten mit zwei Produzenten statt: In L.A.
+mit Greg Kurstin, der auf den vier von ihm produzierten Songs zudem sämtliche Instrumente spielte („Wall Of Glass“, „Paper Crown“, „Come Back To Me“ und das poppig-psychedelische Sausen von „It Doesn’t Have To Be That Way“).
+Und in London mit Dan Grech-Marguerat.
+Zu den Musikern der London-Sessions bei Snap in Finsbury Park gehörten Mike Moore an der Gitarre, Keyboarder Martin Slattery und Dan McDougall an den Drums.
+Moore und McDougall werden auch in seiner Liveband spielen, neben Bassist Drew McDonnell.
+Der Sound, den sie in diesen Sessions zusammenbrauten und die am Ende sein Soloalbum „As You Were“ ergeben sollten, sind exakt wie man gehofft hätte, dass ein Soloalbum von Liam Gallagher klingen würde: die klassischen 60er/70er-Einflüsse, denen er wie eh und je ein Update für das Hier und Jetzt verpasst hat.
+Liam stimmt zu.
+„Ich wollte nie etwas neu erfinden oder auf eine Space-Jazz-Odyssee abdriften.
+Es ist der Lennon-‚Kalter Entzug’-Vibe, The Stones, die Klassiker.
+Aber eben jetzt und auf meine Weise interpretiert.“
+Einer der Aspekte der Songs, die sein Debütalbum ergeben, ist, dass sie allesamt eine Bestimmung haben.
+Es gibt kein Speckpolster, nichts zum Wegschneiden.
+Sie scheinen allesamt an jemanden oder etwas gerichtet, um Dinge richtigzustellen oder seine Seite der Geschichte zu erzählen, sei es das schwungvolle, Bo-Diddley-artige „Greedy Soul“, das jemanden einäschert, der der „ungrateful dead” ist, oder die Mega-Ballade „For What It’s Worth“, die Liam mit Simon Aldridge von Cherry Ghost schrieb und die mit dem rauschendsten Refrain von „As You Were“ aufwartet.
+„Ich wollte eine Abbitte schreiben“, sagt Liam.
+„Nicht an eine Person, sondern an jeden, weil ich nicht gut darin bin, mich zu entschuldigen.
+Dieser Song ist eine Haltung.“
+„Einige der Songs haben ein bisschen was von ‚fuck you’“, fährt er fort.
+„Ich weiß, wovon ich schreibe.
+Einfach Schwachköpfe im Allgemeinen.
+Abgesehen von dem einen, der aus der Reihe fällt und von Leuten handelt, die ich mag.
+Davon gibt es allerdings nicht allzu viele.“
+Liam scharrt bereits mit den Hufen, die Songs öffentlich zu singen.
+„Ich bin bereit.
+Ich bin mehr als bereit.
+Ich will wieder da rausgehen und allen zeigen, was sie vermisst haben.
+Ich dachte, es würde jemand des Weges kommen und die Dinge regeln, während ich damit beschäftigt war, nichts zu tun.
+Aber nein: kein einziger.
+Ich vermute mal, dann ist es wohl an mir ... wieder einmal.“
+Teilen:

@@ -1,40 +1,82 @@
-Mehr Medienbildung soll Manipulationen durch Social Bots vorbeugen
-Foto: Sabine Gudath/Imago
-Entscheidend an einer Sitzung ist immer, wer nicht da ist.
-Also fehlten bei der Anhörung des Ausschusses für Technikfolgenabschätzung am Donnerstag (hier der Mitschnitt ) die Vertreter der sozialen Netzwerke Twitter und Facebook – obwohl sie eingeladen waren.
-Sie sollten das Phänomen der so genannten Social Bots aufklären helfen.
-Das sind Meinungsroboter, die in den Netzwerken vortäuschen, sie seien menschliche Nutzer.
-In Wahrheit poppen sie Politikerprofile auf und vergrößern die Reichweite von Hass- und Falschmeldungen durch automatisierte massenhafte Retweets.
-Ein Drittel der Pro-Trump-Tweets im US-Wahlkampf kamen von Social Bots.
-Ist also auch die Bundestagswahl unter Manipulationsgefahr?
-Insgesamt 16 Gutachter äußerten sich zu dem Phänomen, und sie waren sich nur in zwei Punkten wirklich einig: Erstens, sollte die Medienbildung in den Schulen verbessert werden.
-Dann könnten Schüler bereits früh erkennen, ob sie in einem Netzwerk mit einem echten Menschen oder einem Social Bot kommunizieren.
-Mit anderen Worten: Die Kinder sollen´s richten.
-Sie sollen helfen, die Beeinflussung der Bundestagswahl durch Bot-Netwerke zu verhindern, hinter denen anonyme, nicht identifizierbare Interessengruppen stehen.
-Zweitens sei es nötig, um Social Bots und ihren Einfluss auf die politische Meinungsbildung zu erforschen, dass Netzwerke wie Twitter, Instagram oder Facebook die Nutzerdaten von Tarnprofilen für die Wissenschaftler frei geben.
-„Die Daten auf diesen Plattformen müssen auch für die Detektion oder Enttarnung von Social Bots geöffnet werden,“ sagte Markus Bernhard Strohmaier vom Leibniz-Institut für Sozialwissenschaften der Universität Koblenz-Landau.
-Er forderte den Bundestag auf, in dieser Frage "gestalterisch tätig zu werden", sprich: die Plattformen dazu zu zwingen, die Erforschung möglich zu machen.
-Inzwischen ist eine eigene Disziplin entstanden, die „Social media Forensik“, bestehend aus Politik- und Sozialwissenschaftlern sowie Informatikern.
-Sie versuchen, Social Bots zu identifizieren, ihre Mechanismen zu erforschen und ihre Effekte.
-„Es würde zu weit gehen zu sagen, dieses Phänomen untergräbt unsere Gesellschaft und gefährdet die Demokratie“, sagte der bekannteste unter ihnen, der Politikwissenschaftler Simon Hegelich von der TU München.
-Aber: „Es gibt eine umfassende empirische Grundlage, dass Social Bots auftauchen.
-Jeder politische Diskurs in den sozialen Netzwerken ist beeinflusst durch Bots“.
-Die entscheidende Frage sei, „beeinflussen sie wirklich die politische Willensbildung?“ Es sei freilich wissenschaftlich schwer nachzuweisen, ob jemand durch ein Flugblatt oder eine Bot-Message seine politische Meinung ändert.
-„Die Idee, dass mit Social Bots Wahlen beeinflusst werden könnten, übersteht den Lachtest nicht“
-Zum Streit kam es, als der Gutachter des Chaos Computer Clubs, Linus Neumann, sich über das Thema lustig machte.
-Politische Meinungsbeeinflussung gebe es schon immer – etwa durch die Bild-Zeitung.
-Er bestritt die empirische Grundlage des Problems Social Bots und warnte vor Panikmache.
-„Allein die Idee, dass mit Social Bots Wahlen beeinflusst werden könnten, übersteht den Lachtest nicht“.
-Neumann sprach direkt den Hauptgutachter Simon Hegelich an und forderte ihn auf, mehr Big Data-Science zu machen.
-„Wir haben seit 60 Jahren die Bild-Zeitung – und jetzt sollen plötzlich Social Bots das Problem sein und Wahlen beeinflussen?“
-"Man kann sich nicht auf den technischen Stand von 1994 zurückziehen, als ich meinen ersten Atari hatte.
-Wir stehen vor einem disruptiven Wandel der kompletten Öffentlichkeit.“
-Hegelich antwortete, es gebe keinen Zweifel, „dass wir vor einem disruptiven Wandel der kompletten Öffentlichkeit stehen“.
-Es gehe nicht um Dinge, die seit 60 Jahren existieren, sondern es sei eine Massenwirkung in der Kommunikation festzustellen.
-„Die Art, wie wir diskutieren, ändert sich radikal.
-Da kann man sich nicht auf den technischen Stand von 1994 zurückziehen, als ich meinen ersten Atari hatte.
-Das ist nicht der Punkt.“
-Am selben Abend durfte das Publikum Zeuge von Meinungsverzerrung ganz ohne Bots werden.
-Der Staatssender ZDF veröffentlichte in seiner Spätnachrichtensendung heuteplus ein Interview – mit Linus Neumann, der unter den 16 Sachverständigen ein Sondervotum abgab, das man als isoliert bezeichnen kann.
-Der Freitag hat an einem Fallbeispiel gezeigt , dass und wie Social Bots auf die politische Meinungsbildung wirken.
+Wie überlebt man in der Nische, wenn draußen die digitale Revolution tobt?
+Foto: Lubaib Gazir/Getty Images
+In ein paar Jahren wollen sie richtige Journalisten sein.
+Deshalb sind die Jugendlichen, allesamt Mitglieder der Jungen Presse Niedersachsen, nach Prag gekommen, in die Stadt des „rasenden Reporters“ Egon Erwin Kisch.
+In die Stadt, nach der Joseph Roth so oft Heimweh hatte, obwohl er nie dort lebte.
+In die Stadt von Max Brod und Friedrich Torberg, die zwischen den Weltkriegen für das legendäre Prager Tagblatt arbeiteten.
+Dieser Artikel erschien in Ausgabe 05/2017 vom 02.02.2017 Die aktuelle Ausgabe des Freitag erhalten Sie am Kiosk.
+Oder sichern Sie sich hier 3 Wochen gratis
+Nun sitzen die angehenden Journalisten im Konferenzraum der Prager Zeitung, in gewisser Hinsicht der Nachfolger des Tagblatts.
+Kurz nach der Wende hatte der tschechische Verlag die Rechte am Titel erworben und ihn lange Zeit für eine Beilage verwendet.
+Fragen gibt es genug.
+Wie will die Zeitung an die Tradition der deutschsprachigen Presse in Prag anknüpfen, wenn im Vergleich zu damals kaum noch Deutsche hier leben?
+Wie finanziert sich das Blatt?
+Wird wirklich frei und unabhängig berichtet?
+Und wer liest sie überhaupt?
+Die Skepsis überwiegt.
+Zwei Monate nach dem Besuch bekommt die Redaktion Post aus Niedersachsen.
+Das beigelegte Magazin der Nachwuchsjournalisten macht wenig Freude.
+Der Artikel über die Studienfahrt stellt der Prager Zeitung ein schlechtes Zeugnis aus.
+Die Büros seien nicht professionell eingerichtet, die veralteten Computer und Monitore gehörten auf den Sperrmüll.
+Zugegeben: Was die technische Ausstattung angeht, schneidet eine deutschsprachige Zeitung im Ausland gegenüber einer Hannoverschen Allgemeinen wohl immer schlechter ab.
+Aber welchen Stellenwert hat eine solche Zeitung?
+Darüber haben die Autoren des Textes wohl erst gar nicht nachgedacht.
+Der Redaktionsbesuch der jungen Niedersachsen liegt mittlerweile fünf Jahre zurück.
+Die Prager Zeitung, die seit 1991 jede Woche auf Deutsch über Tschechien und andere Länder in Mittel- und Osteuropa berichtete, erschien am 22. Dezember zum letzten Mal.
+Und obwohl das Interesse an ihren Inhalten gestiegen war, auch bei jüngeren Menschen, einfach weil sie mehr über das Nachbarland von Deutschland und Österreich erfahren wollten.
+Anfangs waren es vor allem Vertriebene, die das Blatt abonnierten.
+Die verkaufte Auflage lag nach ein paar Jahren bei knapp 25.000.
+Eigentlich ein Grund zum Feiern.
+Doch aus der Verbundenheit zur alten Heimat allein erwächst auf Dauer ein ernsthaftes Problem.
+Man muss kein Prophet sein, um zu erkennen: Eine Zeitung, der früher oder später die Leser wegsterben, würde selbst schnell begraben.
+Prag als Touristenhochburg, die Expansion deutscher Unternehmen und das zeitweilige Interesse an den einstigen Ostblockstaaten nach dem EU-Beitritt 2004 – die Prager Zeitung stellte sich darauf ein und profitierte davon.
+Doch wie begegnete sie dem Medienwandel?
+Auf der einen Seite selbst recherchierte Beiträge und Hintergrundberichte, auf der anderen die Gratiskultur im Internet.
+Hier eine gedruckte Wochenzeitung am Kiosk, dort aktuelle Nachrichten auf dem Smartphone.
+Wer gewinnt?
+Das ist an dieser Stelle wohl gar nicht die Frage.
+deutschsprachige Zeitungen Im Ausland
+Knapp 100 deutschsprachige Zeitungen gibt es weltweit im Ausland – in Argentinien, den USA, Namibia oder in Russland.
+Einige der renommiertesten stellten zuletzt allerdings den Betrieb ein.
+Der ungarische Pester Lloyd (2009) liegt genauso nicht mehr an den Kiosken wie die Israel Nachrichten (2011), beide sind ins Netz abgewandert.
+Die Deutsche Rundschau aus Kanada musste vor zwei Jahren schließen, obwohl sie nach eigenen Angaben rund 12.000 Exemplare im Monat verkaufte.
+Während die Druck- und Vertriebskosten nach oben schnellten, gingen die Werbeeinnahmen stark zurück.
+Ein Problem, mit dem auch die Prager Zeitung kämpfte und das den Verleger nun die Reißleine ziehen ließ.
+Doch es geht auch anders: In Urlaubsregionen wie an der Côte d’Azur und auf Mallorca läuft das Geschäft mit deutschsprachigen Zeitungen und Magazinen relativ gut.
+Manche meinten, die Prager Zeitung könne in ihrer Nische überleben, selbst wenn draußen die digitale Revolution tobt.
+Vermutlich stimmt das sogar.
+Die treuen Leser sprechen dafür.
+Geschichten aus Tschechien abseits des Mainstreams waren ihnen offenbar etwas wert.
+Digitale Medien machen den Auslandszeitungen weniger Konkurrenz als inländischen.
+Aber ohne einen Rettungsanker werden die wenigen, die sich heute mit der Prager Zeitung vergleichen lassen, untergehen.
+Das Problem ist das wirtschaftliche Umfeld.
+Nur wenige Unternehmen sind bereit, Anzeigen in einer Zeitung zu schalten, deren Leser in mehreren Ländern leben.
+Und die heterogene Zielgruppe – Studenten und Geschäftsleute, Ministerialbeamte und Expats, Touristen und Heimatvertriebene – schreckte viele ab.
+Hinzu kommt die vergleichsweise geringe Auflage.
+Gegenüber tschechischsprachigen Medien hatte die Prager Zeitung in dieser Hinsicht einen schweren Stand.
+Musste das Projekt, das ein Historiker aus Zwickau kurz nach der Wende aus dem Boden stampfte, nach rund 1.200 Ausgaben wirklich scheitern?
+Zum Preis eines Škoda der oberen Mittelklasse (um in Tschechien zu bleiben) hätte man die Verluste bereits ausgleichen und den knapp 5.000 Lesern für ein weiteres Jahr die gewohnte Zeitungslektüre bieten können.
+Viele Politiker lobten die Prager Zeitung in den höchsten Tönen.
+Zum 25.
+Jubiläum gratulierte etwa Bundeslandwirtschaftsminister Christian Schmidt und würdigte die journalistische Kompetenz und „die genaue Kenntnis dessen, worüber sie berichtet“.
+Sie trage dazu bei, das gegenseitige Verständnis in Europa zu fördern, sei eine wichtige Brücke zwischen Deutschland und Tschechien.
+Für Arndt Freytag von Loringhoven, bis vor kurzem deutscher Botschafter in Prag und nun Geheimdienstchef der NATO, füllte sie „im deutschsprachigen Raum die leider festzustellende Informationslücke über einen kleinen, aber wichtigen Nachbarn“.
+Und ein Leser aus Österreich schrieb per E-Mail, er könne mit seinen tschechischen Freunden nur über die Politik in deren Heimatland diskutieren, weil er regelmäßig die Prager Zeitung lese.
+Doch leider war das Loblied gleichzeitig auch der Abgesang.
+Das Ende lässt sich mit sinkenden Anzeigen-Einnahmen, aber auch mit hohen Vertriebskosten (gerade für den Auslandsversand) erklären.
+Eine grundsätzliche Frage, die sich nun stellt: Sollte man eine solche Zeitung allein der freien Marktwirtschaft überlassen?
+Schließlich werden andere grenzüberschreitende Kulturprojekte wie ein Musikfestival oder eine Buchübersetzung öffentlich gefördert.
+Blanker Hohn
+Als „gewinnorientiertes Medium“ und weil sie auch Leser in Deutschland und Österreich erreichen wollte, erhielt die Prager Zeitung im Gegensatz zu den meisten deutschsprachigen Auslandszeitungen keine staatlichen Fördermittel.
+Auch der letzte Versuch scheiterte.
+Der Bundesbeauftragte für Aussiedlerfragen und nationale Minderheiten in Berlin servierte die Absage im schönsten Beamtendeutsch: „Der Grundsatz der Förderung (…) beinhaltet die Unterstützung durch Zuschüsse zu Maßnahmen, die den Angehörigen der deutschen Minderheit zugutekommen.
+Hinzu kommt, dass die Prager Zeitung zwar eine deutschsprachige Wochenzeitung ist, jedoch nicht ausschließlich für Belange Angehöriger der deutschen Minderheit in Tschechien veröffentlicht wird.“ Immerhin – obwohl es nach blankem Hohn klingt – bedankte sich Hartmut Koschyk in seinem Schreiben für die Arbeit und verwies auf den Ehrenpreis der „Stiftung Verbundenheit mit den Deutschen im Ausland“.
+Den hatte die Zeitung 2012 erhalten.
+Die Laudatio hielt Bundestagspräsident Norbert Lammert, der die Politik dazu aufrief, deutschsprachige Auslandsmedien stärker zu unterstützen …
+Dabei ginge es dann eben nicht mehr um landsmannschaftliche Pflege, vielmehr um einen konkreten Beitrag zum vielzitierten „europäischen Dialog“, der nun wahrlich nicht auf festen Fundamenten steht.
+Das Ringen um eine EU-Flüchtlingsquote, der unterschiedliche Umgang mit Russland, das Erstarken der Rechtspopulisten: In Europa haben sich neue Gräben zwischen Ost und West aufgetan.
+Medien könnten dabei helfen, sie wieder zu schließen.
+Doch wenn selbst große deutsche Zeitungen immer mehr Korrespondenten abziehen und Journalisten mit Sitz in Wien oder Warschau über acht Länder aus Mittel- und Osteuropa schreiben, büßt die Berichterstattung zwangsläufig an Qualität ein.
+Und wer weiß, dass selbst Presseagenturen und öffentlich-rechtliche Sendeanstalten ihren Korrespondenten vorschreiben, welche Beiträge sie liefern, und dass sie dabei vor allem publikumswirksame Klischees bedienen, der begreift vielleicht etwas den Stellenwert der Prager Zeitung.
+Marcus Hundt war Chefredakteur der Prager Zeitung von 2010 bis 2016
 Teilen:

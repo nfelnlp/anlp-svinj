@@ -1,48 +1,18 @@
 Bei diesem Beitrag handelt es sich um ein Blog aus der Freitag-Community
-Foto: Scott Olson / AFP / Getty Images
-Wenn heute von der Überwachung durch die NSA die Rede ist, dann geschieht das zumeist mit zwei Konnotationen: Zum einen sind die Kommentatoren über die Tastsachen überrascht, haben offenbar die fast haargenau gleichen Ideen in Deutschland und der EU zur Vorratsdatenspeicherung schon wieder vergessen oder verdrängt.
-Zum anderen scheint es sie nicht zu betreffen, denn es handelt sich ja “nur” um Verbindungsdaten der großen US-Firmen, mit denen man aber nichts zu tun hat; das Internet ist da das weit entfernte, das Neuland (wie es die Regentin so treffend nannte).
-Beide Annahmen sind falsch, die Diskussion mit diesen Ansichten als Ausgangspunkt zu führen führt nur zu Desinformation, verschleiert den wahren Umfang des Skandals, und hilft so letztlich nur den Tätern (auf beiden Seiten: der der Spione, und der der wirklichen Terroristen).
-Wer sich seit der Verkündung der US-Gesetze “Patriot Act” und “Homeland Security Act” bei einer der US-Firmen Google, Microsoft, Facebook oder Apple anmeldete, der konnte dort in den AGB lesen (zumeist in unverständlichem Juristen-Englisch), dass diese Firmen den Gesetzen der USA unterworfen wären, und daher sämtliche Daten gegenüber US-Behörden offenlegen müssten.
-Dazu wurde manchmal verklausuliert in den AGB (deutlicher in der Fachpresse wie Heise) gesagt, dass die Firmen selbst die Betroffenen davon nicht informieren dürften, und auch auf Anfrage durch die Betroffenen die Überwachung nicht zugeben dürften.
-Soweit ist das alles bekannt.
-Wer das nicht mitbekommen hat der hat schlicht die Debatte der letzten 10 Jahre verschlafen.
-Was man dabei übersieht: es geht nicht nur um die goßen US-Konzerne.
-Ein großer Teil der Open-Source-Initiativen sind ebenfalls Firmen mit Standort in den USA.
-Dazu gehören z.B. die Wikimedia Foundation Inc., die Apache Software Foundation, RedHat Inc., GitHub Inc., Heroku Inc.
-Die Eclipse Foundation sitzt in Canada, die Canocical Ltd (liefert Ubuntu Linux) sitzt in Großbritannien.
-Alle diese Firmen unterliegen mehr (USA) oder weniger strenger (Canada) Überwachung bzw. Abschöpfung durch Geheimdienste.
-Aber auch deutsche Firmen, Service-Provider, Web-Dienste, sogar einfache Firmen sind nicht vor Ausspähung durch Geheimdienste sicher.
-Auch jede deutsche Firma kann Teile ihres Datenbestands in der sogenannten Cloud speichern, ohne dass die Betroffenen das erfahren müssen.
-Unter Start-Ups ist es seit Jahren schon sehr populär, Rechenleistung für Webdienste bei Cloud-Diensten anzumieten, und die anfallenden Daten bei anderen Cloud-Anbietern zu speichern.
-Alles in der Cloud.
-Das kann dann auch schon einmal vollständig auf Servern in den USA oder in China liegen.
-Und nur das allerwenigste davon ist verschlüsselt.
-Ob also der liebgewonnene Internet-Dienst, oder auch die Direktversicherung oder die Internetbank, durch ausspähbare Cloud-Dienste geradezu vergiftet sind wie die Tiefkühl-Pizza mit den Gen-Tomaten, das wird schwer herauszufinden sein.
-(Wie steht es wohl um den ADAC, Bild.de, Spiegel-Online, oder die Unwetterzentrale?)
-Ein weiterer Irrglaube ist, dass das Internet nur das ist, was man im Browser sehen kann.
-Falsch.
-Ganz falsch.
-Das Internet beginnt in jedem PC der damit verbunden ist.
-Tatsächlich wird jeder PC auf dem man einen Browser benutzen kann zu einem Teil des Internets.
-(Der Beweis: Sie haben eine Internet-Adresse.
-Das glauben Sie nicht?
-Dann geben sie unter Windows den Befehl “ipconfig” ein, auf Linux heißt er “ifconfig“.
-Oder schauen Sie sich die URL “showip.net” im Browser an.
-Sehen Sie sich die Ausgabe an: Dort steht ihre Internet-Adresse.)
-Mit dem PC sind auch alle Dinge “im” Internet die auf der Platte gespeichert sind, auf jedem verbundenen Gerät, auch auf jedem Smartphone oder iPod.
-Es sind zwar nicht auf jedem PC oder Smartphone immer auch Programme gestartet, die all dies nach außen zugänglich machen, aber solche Programme sind Alltagsgegenstände auf PCs und auch auf Smartphones.
-(Suchen Sie z.B. nach “Fernwartung” bei heise.de)
-Das Bild, das sich die meisten Menschen vom Internet machen ist also grundfalsch.
-Das Internet ist etwas völlig anderes als etwa das Fernsehprogramm – wir sind als Internet-User nie nur Zuschauer, sondern immer auch Handelnde.
-Daher ist der Gedanke, es könne niemand ausgespäht werden, der nur “einfach Webseiten liest”, oder “nur twittert” ein komplettes Missverständnis.
-Vor allem auch die Frage, was denn die Verbindungsdaten, oder auch die Google-Suchhistorie, so wertvolles über uns aussagen, wird falsch eingeschätzt.
-Hier gilt nicht die altdeutsche Blockwartregel “wer sich nix zu Schulden kommen lässt braucht nix befürchten” – ganz im Gegenteil.
-Der Eingriff in die Privatsphäre beginnt damit, dass Dienste einen lückenlosen Überblick aller geführten Telefongespräche, aller gesendeten oder empfangenen E-Mails und Kurznachrichten und aller aufgerufen Webseiten führen können – und zwar von sämtlichen Internet-Usern.
-Damit wird das Verhalten in der Vergangenheit nachvollziehbar, und aufgrund von massenhaften Vergleichsdaten anderer Menschen wird “Missverhalten” zu einem maschinell auffindbaren Datenmuster.
-Schon Meinungsunterschiede zur Mehrheit äußern sich dann in anderen Datenspuren, einem verdächtigen Muster.
-Der Weg hin zur Verfolgung allein wegen der Abweichung im Datenmuster ist kurz.
-Wegen der Geheimhaltung dieser Suchmuster und –trefferlisten ist es auch nicht möglich, dagegen Einspruch einzulegen, etwa wenn die Bewertung offensichtlich falsch ist.
-Und so bleiben Betroffene im Raster der Dienste ohne ihr Wissen hängen.
-Mit möglicherweise schlimmen Folgen: Absagen bei Bewerbungen bei staatlichen oder staatsnahen Betrieben, andauernde rechtswidrige Beobachtung, Verweigern von Visa, Absagen bei Kreditanträgen, etc.
+Installation view "What Dust Will Rise" by Michael Rakowitz
+Foto: Janine Sack
+When I arrived at Kassel Wilhelmshöhe on a cloudy day in June, dOCUMENTA(13) had just opened a few days ago.
+Not having been in Europe or connected to the “art world” for almost one year, I had missed out on all the rumors and speculations that normally precede this major art event.
+Hardly knowing how to pronounce the curator’s name correctly, I felt as curious and open minded as anyone.
+The experience of the following ten hours, walking from the Hauptbahnhof-exhibition site down to Fridericianum, strolling through Karlsaue Park, visiting documenta-Halle, Orangerie and Neue Galerie, was a journey of discovery, both of individual artist’s works and of subtle relations between different pieces throughout the exhibit.
+The lack of Überbau in the curatorial concept of this documenta seemed not only to best represent the current status of the arts but it also opened way for an unbiased reflection upon the conditions of contemporary life.
+New connections are being made between different types of knowledge, old knowledge is being re-evaluated, memories lose or gain significance over time.
+This idea is best exemplified in the “Brain”, the Rotunda in the Fridericianum.
+While it might be said that time and memory are at the base of all art ever made, at dOCUMENTA(13) we are also to explore these notions along the (intersecting) trajectories of war and destruction, documentation and preservation, technology and knowledge or process and psychoanalysis.
+In this context some of the pivotal works were in my opinion the works of William Kentridge, Kader Attia, Michael Rakowitz, Sanja Ivekovic, Natascha Sadr Haghighian, Anna Maria Maiolino, and the rediscovered journals of Charlotte Salomon.
+Back on the train at night, I was carrying a reservoir of images.
+No, I had not made it to the Grimm Museum, any of the Off the Main Sites nor the public program but I had still enjoyed a diverse exhibition, which focuses less on the “most important contemporary artist” but on the shifting meanings of artifacts over time.
+Mehr zur Documenta (und eine übersetzte, gekürzte Version des Beitrags) im Artikel „Kasseler Schnittchen“ .
+Ania Corcilius, Künstlerin und Kuratorin, lebt mit ihrer Familie in San Francisco.
+aniacorcilius.de
 Teilen:

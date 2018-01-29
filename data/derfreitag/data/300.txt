@@ -1,233 +1,134 @@
-Was verraten meine Gene?
-Bildmaterial: Bramgino / Fotalia
-Die Entschlüsselung meines Genoms dauerte ein knappes Jahr.
-Während dieser Zeit hatte ich keine großen Bedenken.
-Ich wurde gründlich über mögliche Krankheiten oder die entsprechenden Veranlagungen aufgeklärt, dann habe ich unbeschwert mein Einverständnis erklärt.
-„Besser, man weiß Bescheid,“ dachte ich.
-Also dachte ich damals.
-Wahrscheinlich war ich naiv.
-Dieser Artikel erschien in Ausgabe 28/2013 vom 11.07.2013 Die aktuelle Ausgabe des Freitag erhalten Sie am Kiosk.
-Oder sichern Sie sich hier 3 Wochen gratis
-Zwölf Monate später fliege ich tatsächlich nach San Diego.
-Hier soll ich auf einem sogenannten G-Symposium das Ergebnis erfahren.
-Am ersten Morgen wache ich früh auf, mache meinen Computer an und lese – alle berichten von Angelina Jolies BRCA1-Gen und ihrer Entscheidung, sich die Brüste amputieren zu lassen.
-Und schon der erste Redner auf dem Podium wird später sagen, welche unglaubliche Bedeutung dieser Schritt für die Genmedizin haben würde.
-Nun werde ich doch ein bisschen nervös.
-Eigentlich hatte ich immer gedacht, es sei besser, seine Gene zu kennen.
-Jetzt bin ich mir nicht mehr sicher.
-Denn im Großen und Ganzen, heißt es doch oft, könne man schon der Familiengeschichte entnehmen, welche Krankheiten sich so im eigenen Genpool tummeln.
-„Nicht unbedingt“, entgegnet mir der Humangenetiker Bob Best beim Frühstück.
-Das BRCA1-Gen etwa zeige sich nicht immer, wenn es in der väterlichen Linie vorhanden sei.
-„Außerdem gibt es Mutationen, die einfach aus dem Nichts kommen.“ Die Sache sei, sagt er, dass wir heute viel weniger wüssten als früher.
-Vor zehn Jahren hatte James Watson, einer der bedeutendsten Molekularbiologen aller Zeiten, im amerikanischen Kongress verkündet, wir würden das Buch des Lebens erst kennen, wenn wir das Genom entschlüsselt hätten.
-Watson hatte gemeinsam mit anderen Wissenschaftlern die Molekularstruktur der DNA entdeckt und den Nobelpreis dafür bekommen.
-„Später aber hat sich herausgestellt, dass wir diese Sprache gar nicht richtig verstehen“, sagt nun Bob Best.
-Durchs Genom surfen
-Die Genomforschung verändert sich rasend schnell und könnte sich tatsächlich als revolutionär erweisen.
-Es ist noch keine zehn Jahre her, dass erstmals ein menschliches Genom vollständig sequenziert wurde – das hatte 13 Jahre gedauert und 2,7 Milliarden US-Dollar gekostet.
-2007 wurde das Genom von Craig Venter entschlüsselt.
-„Und morgen“, sagt Matt Posard von Illumina, dem Unternehmen, das das Symposium organisiert hat und die Apparate zur Sequenzierung herstellt, „wird jeder in diesem Raum sein eigenes Genom in Händen halten können.“ Er hält einen Tablet-Computer hoch.
-Auf so ein Gerät wird die Firma unsere Ergebnisse laden.
-„Sie werden durch Ihr Genom surfen und alles über sich selbst herausfinden können.“
-Das Ganze hat mehr als nur einen Hauch von Science-Fiction.
-Ich kann kaum glauben, dass ich hier bin.
-Illumina veranstaltet erst sein zweites „Understand Your Genome“-Event.
-Zum ersten Mal wurden dafür die Genome einer größeren Gruppe sequenziert und die Ergebnisse an die Beteiligten ausgegeben.
-Das Unternehmen will anhand von Fachleuten Erfahrungen sammeln, bevor es auch Laien zulässt.
-Die vielen Genetiker hier können ihr Glück kaum fassen, sie sind außer sich wie Schulkinder, weil ihr gesamtes Genom und nicht nur einzelne Schnipsel sequenziert werden.
-Das gesamte Genom, das ist eine Art Heiliger Gral.
-Möglich wird dies, da sich die Kosten enorm reduziert haben.
-Von jenen sagenhaften 2,7 Milliarden Dollar auf nur 5.000!
-Und das Tablet mit den Resultaten ist sogar im Preis inbegriffen.
-Niemand hätte erwartet, dass die Preise so schnell so tief sinken würden.
-Das Verfahren allerdings ist noch immer zeitaufwendig.
-Auswertung, Interpretation und Vermittlung der Ergebnisse stecken nach wie vor in den Kinderschuhen.
-Und abgesehen von einigen Entschlüsselungen aus Forschungszwecken ließen nach Schätzungen von Illumina-Chef Jay Flatley bislang weniger als 500 Menschen ihr gesamtes Genom entschlüsseln.
-„Und Sie sind einer davon“, verkündet man uns pathetisch.
-Ich fühle mich privilegiert.
-Und bin doch besorgt.
-Während eines Panels wird Bonnie LeRoy, die Humangenetikerin mit dem Schwerpunkt Beratung, gefragt, an welchem Punkt der Entwicklung wir denn heute stehen.
-„Wir sind gerade auf dem Mond gelandet“, sagt sie und hat recht.Auch wenn der große Durchbruch für den Einzelnen noch auf sich warten lässt, gehen die Genetiker davon aus, dass bereits in ein paar Jahren die Genome aller Neugeborenen sequenziert werden.
-Und auch auf dem Gebiet der Krebsbehandlung stehen uns revolutionäre Veränderungen bevor.
-„Chemotherapie ist einfach mittelalterlich“, meint Eric Topol.
-„Wir werden einmal darauf zurückblicken und uns an finstere Zeiten erinnern.“ In naher Zukunft sollen Tumore nämlich sequenziert und Medikamente dadurch eher individuell zugeschnitten werden.
-Das wäre dann die Geburtsstunde der sogenannten personalisierten Medizin.
-Als ich im vergangenen Herbst meine Hausärztin bat, meine Einverständniserklärung für die Sequenzierung zu unterschreiben, schickte sie mir eine E-Mail, in der „komplizierte Geschichte“ und „Ich bitte Sie dringend, sich die Sache gründlich zu überlegen“ stand.
-Sie kam sogar zu dem Schluss: „Wir als Praxis sind nicht der Auffassung, hinter einer Sequenzierung stehen zu können.“ Damals war ich richtig sauer.
-Die Informationen sind erhältlich, die Preise sinken, die Leute werden ihre Gene analysieren lassen, und auch die Ärzte, ja, das gesamte Gesundheitssystem wird damit klarkommen müssen.
-Je näher jedoch die Übergabe meiner Resultate rückt, desto mehr beginne ich, die Ärztin zu verstehen.
-In jedem Genom gibt es 6,4 Milliarden Basenpaare.
-Allein die Informationen darüber verschlingen ein halbes Terabyte an Daten.
-Die werden derzeit in der Amazon-Cloud gespeichert und können, wie alle digitalen Daten, gehackt und geleakt werden.
-Beim ersten Symposion dieser Art im Oktober 2012 hatte Illumina 354 bekannte krankheitserregende Gene klinisch interpretiert.
-Dieses Mal sind es bereits 1.600.
-Viele Varianten
-Tina Hambuch von Illumina erklärt, dass diese 1.600 Gene in den 47 Genomen der Symposiumsteilnehmer bei 1.221 Erkrankungen eine Rolle spielen könnten.
-Die Auswertung dieser 23.144 Varianten habe des Weiteren ergeben, dass 65 wahrscheinlich pathogen, das heißt für das Zustandekommen einer Krankheit mitverantwortlich sein könnten.
-Es hatte einer kleinen Armee bedurft, um diese Arbeit zu leisten.
-Mögen auch die Kosten der Informationsgewinnung massiv gesunken sein – herauszufinden, was sie für den Menschen bedeuten, ist nach wie vor ein teures, verzwicktes Unterfangen, für das es noch keine computerbasierte Lösung gibt.
-Als ich dann endlich meine Ergebnisse in den Händen halte, bin ich ein bisschen beunruhigt und aufgeregt.
-Eigentlich sind mir keine schlimmen Krankheiten in meiner Familie bekannt.
-Aber als ich etwas genauer überlege, woran meine Verwandten so gestorben sind, wird mir klar, dass ich das in den meisten Fällen gar nicht weiß.
-In meiner väterlicherseits walisischen Familie sind viele einfach tot umgefallen, als sie noch vergleichsweise jung waren.
-Ich hatte immer gedacht, das hatte damit zu tun, dass sie arm waren und der walisischen Arbeiterklasse angehörten: Mein Großvater rauchte und starb an Lungenaufblähung.
-Mein Vater rauchte und starb an Lungenkrebs.
-Die meisten Gene sind nicht einfach nur Schicksal.
-Es gibt so viele andere Einflüsse sogenannter epigenetischer Faktoren wie Umwelt oder Ernährung, die die Aktivitäten der Gene beeinflussen können.
-Studien beispielsweie konnten nachweisen, dass sich Frühstücksgewohnheiten über Generationen nachverfolgen lassen beziehungsweise das, was sich daran epigenetisch niederschlägt.
-Trotzdem glauben wir daran, dass allein die Gene eine mythische Kraft haben.
-Große Verwirrung
-Am Tag darauf erhalte ich auch das Tablet mit den restlichen Ergebnissen; sie beinhalten eine Menge technischer Feinheiten.
-Ein Illumina-Mitarbeiter arbeitet sich mit mir durch eine ganze Liste von Krankheiten, die von dem Test nicht erfasst würden – unter anderem auch die Huntingtonsche Krankheit, eine erbliche, bislang unheilbare Gehirnerkrankung.
-Über diese und andere können also keine Angaben gemacht werden.
-Die jedoch, die man erkennen kann, werden auf einer Liste in „krankheitserregend“ „wahrscheinlich krankheitserregend“ und „verdächtig“ ein geteilt.
-Überraschenderweise sind bei mir alle diese Felder leer.
-Und auch dort, wo klinisch signifikante Ergebnisse zusammengefasst werden, steht jeweils eine Null.
-Heißt das, dass ich im Laufe meines Lebens doch nie eine ernsthafte Krankheit bekommen werde?
-Nur im zweiten Teil, dort, wo der „Träger-Status“ oder „rezessive Gene“ vermerkt werden, gibt es einen Eintrag: Galaktosämie, eine seltene Stoffwechselerkrankung.
-Aber eigenartigerweise bleibt meine Freude aus.
-Die Ergebnisse verwirren mich eher.
-„Es scheint ja nicht viel zu geben“, sage ich.
-„Die meisten haben mindestens zwei oder drei Einträge, Sie sind im Grunde die Gesündeste hier,“ erzählt man mir.
-Wirklich?
-Ich komme mir vor, als hätte ich ein Rennen gewonnen, von dem ich gar nicht wusste, dass ich daran teilgenommen hatte.
-Dann aber folgt prompt die negative Nachricht: „Bis jetzt.“ Zwar haben die Forscher bei mir bislang keine fiesen Gene entdeckt; es lässt sich aber nicht ausschließen, dass sie morgen oder in fünf Jahren fündig werden.
-„Und, wie ist dein Genom denn so?“, wird mich mein Freund später, da bin ich längst wieder zu Hause, fragen.
-„Ein bisschen langweilig“, antworte ich ihm.
-„Langweilig?
-Du hast keine schlimmen genetischen Defekte und findest das langweilig?
-!“ Und natürlich, er hat recht.
-Auf dem Symposion überfällt mich plötzlich eine andere Angst: Was ist, wenn ich uralt werde?
-Meine Großtante Ruth ist 101.
-Sie war schon in Rente, bevor ich geboren wurde.
-Wenn ich mir nun keine Sorgen um meine Gesundheit machen muss, dann aber wohl offensichtlich um meine finanzielle Zukunft.
-Aufgrund unseres Rentensystems in Großbritannien habe ich keine Rentenansprüche.
-Wahrscheinlich sollte ich mit 60 zu rauchen anfangen, um so auch eine der walisischen „Lifestyle“-Krankheiten zu bekommen.
-Ich schicke meinem Freund eine flapsige SMS: Wenigstens hätte ich nicht das „Angelina-Gen“.
-Er findet das nicht lustig.
-„Bitte erzähl nicht weiter davon.
-Ich will das alles lieber nicht wissen.“
-Viele Menschen denken ähnlich.
-Ich aber möchte immer noch alles wissen.
-Als ich aber beginne, auf dem Tablet ein wenig intensiver meine Genom-Daten in der MyGenome-App zu betrachten, kann ich sie schon ein wenig besser verstehen.
-Zurück zu meiner Galaktosämie: Sie ist mit einem orangefarbenen Punkt versehen, aber außerdem noch mit einer ganzen Reihe von lilafarbenen Punkten, die man als „genetische Verknüpfungen“ bezeichnet.
-Bei mir gibt es davon 69.
-Das könnte bedeuten: eine bestimmte Augenfarbe und Weltoffenheit – aber auch venöse Thrombembolie, Morbus Crohn und Depressionen bis hin zu Epilepsie und Schlaganfall.
-Sofort bin ich wieder beunruhigt, auch wenn mir ein weiterer der anwesenden Humangenetiker erklärt, dass nicht alle der Korrelationen schlecht seien.
-Manche von ihnen zeigen gute Gene an, die eine Schutzfunktion haben.
-Sowieso seien nur sehr wenige mit großer Sicherheit nachweisbar.
-Es gebe zwar eine Studie, die eine Verbindung dieser Merkmale zu diesen Erkrankungen nahelegt, doch die sei sehr klein gewesen und wurde nur einmal durchgeführt.
-Stattdessen zeigt er mir, wie ich sehen kann, wie viele Menschen dieselbe Mutation aufweisen.
-Das hilft mir, die Statistiken etwas besser zu verstehen.
-Denn letztlich zeigen die Ergebnisse nicht mehr als eine Wahrscheinlichkeit an.
-Mein Infarktrisiko
-In meiner Familie gibt es Diabetes Typ 2, der bei mir mit einem lila-farbenen Punkt markiert ist.
-Auf Gen G6PC2 habe ich ein C-Allel, das „mit einem 0,06-fachen Anstieg der Nüchternglukose in Verbindung gebracht“ wird und bei 85 Prozent der Menschen vorkommt.
-Das ist nun keine überwältigend große Zahl.
-Daneben, in der Spalte Schlaganfall sehe ich allerdings, dass ich eine Mutation aufweise, die mit einem um das 5,62-fache erhöhten Risiko in Verbindung gebracht wird und nur bei acht Prozent vorkommt.
-Das erscheint mir schon besorgniserregender zu sein.
-Zumal ich die Beschreibung „in Verbindung gebracht werden“ auch nicht wirklich verstehe.
-Zwei andere Ergebnisse überraschen mich dagegen leider überhaupt nicht: Ich gehöre natürlich zu jenen 20 Prozent, die eine Variante des NRXN3-Gens aufweisen, das mit „erhöhtem Hüftumfang“ in Verbindung gebracht wird.
-Ich neige also, kein schönes Wort, zu Fettleibigkeit.
-Und außerdem besitze ich selbstverständlich sechs Gene, die eine Affinität zu intensiverem Zigarettenkonsum anzeigen.
-Die habe ich von meiner walisischen Familie geerbt.
-Es besteht auch die Möglichkeit einer negativen Reaktion auf Flucloxacillin, ein recht verbreitetes Antibiotikum.
-Ich verfüge über ein Gen, das die Wahrscheinlichkeit erhöht, ein liebenswürdiger Mensch zu sein.
-Und eines, das sie gleichzeitig wieder senkt.
-„Liebenswürdigkeit“ mag eigenartig klingen, ist aber eine nützliche psychologische Eigenschaft, die stark erblich ist.
-Zwei Gene deuten auf ein erhöhtes Risiko für rheumatische Arthritis hin.
-Bei den Medikamenten Carboplatin und Paclitaxel stoße ich dann auf den wahrscheinlich interessantesten Punkt.
-Sie werden bei Lungenkrebs verwendet.
-Mein EIF4E2-Gen ist offenbar so ausgeprägt, dass ich mit einer 2,38-fach geringeren Überlebenschance rechnen muss, wenn ich mit diesen Medikamenten gegen nicht-kleinzelligen Lungenkrebs behandelt werde.
-Vielleicht haben meine Mutter und ich uns damals doch nicht eingebildet, dass die Chemotherapie meinen Vater schneller umbrachte als der Krebs selbst.
-Es ist schwer einzuschätzen, ob oder wie ernst man diese „Verbindungen“ nehmen soll.
-Die Qualität der Untersuchungen schwankt gewaltig.
-Zu wissen, welche Medikamente man nicht verträgt, ist definitiv nützlich.
-Aber was fange ich mit diesen Informationen über meine Persönlichkeitsmerkmale an?
-Ich bin wirklich „extrovertiert“ und „nicht neurotisch“?
-Einer der Professoren sagt mir jedenfalls, es gebe im Moment einfach noch zu wenig klinische Nachweise, um so etwas wirklich ernst nehmen zu können.
-Dann bin ich plötzlich wieder beunruhigt, als man mir anbietet, nach jenem Gen zu sehen, das mir sagt, ob ich besser für Kraft- oder für Ausdauersport geeignet bin.
-Ständig schwanken meine Gefühle, mal will ich etwas wissen, dann wieder nicht.
-In einem Augenblick stimmen mich die Ergebnisse ruhig, im nächsten schon beginne ich zu zweifeln.
-„Suchen Sie ruhig nach dem Ausdauer-Gen,“ höre ich mich sagen.
-„Aber ich weiß bereits, dass ich definitiv eine Ausdauer-Sportlerin bin.
-Ich bin zwar langsam, aber ich habe Ausdauer“.
-Mein Gegenüber stöbert in meinem Tablet herum und sagt schließlich: „Nein, Sie sind eigentlich eine Kraftsportlerin.
-Sie haben zwei Kraft-Allele.“ Wirklich?
-Aber ich bin doch so langsam?!
-Ich jogge – was sollte ich denn stattdessen tun?
-„Radrennen, Gewichtheben, so etwas.“
-Es ist in jeder Hinsicht verrückt!
-Nicht nur, dass mein Genom mich zur Gewichtheberin bestimmt hat.
-Wird dieses Wissen mich dazu bringen, anderen Sport zu treiben?
-Hätte es das getan, wenn ich es früher erfahren hätte?
-Wer weiß, was übereifrige Eltern mit dieser Art von Information so alles anstellen werden – über Gene zum Beispiel, von denen behauptet wird, sie würden bestimmen, wie schnell wir Informationen verarbeiten können, das heißt wie intelligent wir sind.
-Jay Flatley, der Vorstandsvorsitzende von Illumina, geht wie gesagt davon aus, dass die Sequenzierung von Neugeborenen in zehn Jahren Routine sein wird.
-„Frühe Erkrankungen bei Kindern sind ein ausgesprochen wichtiges Gebiet.
-Nehmen Sie zum Beispiel Autismus.
-Was, wenn wir das schon nach der Geburt diagnostizieren und mit der Behandlung beginnen könnten statt fünf oder sechs Jahre später?
-Wäre das nicht großartig?“, fragt er.
-Ängstliche Eltern würden die Sequenzierung wahrscheinlich als Erste in Anspruch nehmen.
-Mit einem neuen Gentest, der vergangenes Jahr eingeführt wurde, kann anhand einer Blutprobe der Mutter festgestellt werden, ob das Kind ein Down-Syndrom haben wird.
-Früher musste man dafür das Fruchtwasser untersuchen, was das Risiko einer Fehlgeburt erhöht hat.
-Und vor ein paar Monaten ist es gelungen, mithilde einer einfachen Blutprobe der Mutter das vollständige Genom eines Fötus zu sequenzieren.
-Ethische Fragen
-Flatley legt großen Wert darauf, dass Illumina so etwas nicht vorhat.
-Das erinnert zu sehr an Eugenik.
-Schon gibt es eine Firma namens GenePeeks, die Paaren anbietet, die vorhandenen Gene zu einem „virtuellen Baby“ zusammenzubauen, um zu sehen, ob irgendwo rezessive Allele lauern, die zu einer genetisch bedingten Erkrankung führen könnten.
-„Es gibt keine technischen Schranken mehr“, erklärt Flatley.
-„Die moralischen Fragen müssen von der Gesellschaft beantwortet werden“, lautet seine Schlussfolgerung.
-Er hat recht.
-Die Geschwindigkeit, mit der der technische Wandel voranschreitet, übertrifft unsere Fähigkeit, ihn zu steuern und uns darüber klar zu werden, welche Folgen er haben könnte.
-Zurück in London spreche ich mit Ruth Chadwick, der Direktorin des Cesagen-Forschungszentrums in Cardiff.
-Sie wird bald einen Bericht über jene ethischen Fragen vorlegen, die die Sequenzierung ganzer Erbanlagen mit sich bringt.
-Die Wissenschaftlerin fasst das Problem zusammen, indem sie folgenden Vergleich macht: „Wenn man an Angelina Jolie denkt – was wäre passiert, wenn man die Informationen über sie schon bei oder vor ihrer Geburt gehabt hätte?
-Wie wäre man damit umgegangen?
-Wie würde man es heute tun?
-Wäre eine solche genetische Veranlagung für Eltern ein Grund, ein Kind abzutreiben?
-Wegen einer Krankheit, die vielleicht erst nach 50 Jahren auftritt oder sogar nie?“
-Doch auch ohne die Antworten auf solche und andere moralische Fragen wird die Technik allein durch die wohl weiter wachsende Nachfrage der Konsumenten vorangetrieben.
-Für ein paar hundert Dollar kann man heute schon einen Test machen, der angeblich die Veranlagung zu Alzheimer, vorhandene oder nicht vorhandene Persönlichkeitsmerkmale sowie Informationen über die eigenen Vorfahren offenbart.
-Dieser Test ist momentan sehr angesagt.
-In den zwölf Monaten seit seiner Einführung hätten ihn bereits 160.000 Menschen durchgeführt.
-Am letzten Tag auf dem G-Symposium gehe ich mit einer Beraterin noch die Statistiken zu meinem Infarktrisiko durch.
-Sonderlich Beeindruckendes ergibt sich nicht, aber trotzdem nehme ich mir vor, meiner Mutter zu sagen, sie solle lieber jeden Tag eine Aspirin nehmen.
-Ich könnte noch vieles andere nachschlagen, aber ich entscheide mich letztlich, es doch zu lassen.
-Im Gegenteil, ich fange langsam an, jene Leute besser zu verstehen, die nicht alles über sich wissen wollen.
-Es dreht sich ohnehin vieles nur um Risiken und Wahrscheinlichkeiten.
-Darum, dass wir all diese neuen Informationen einfach noch nicht gut genug verstehen, um sie sinnvoll zu unserem Leben, ja, in Beziehung setzen zu können.
-Carole Cadwalladr ist in Wales aufgewachsen.
-Sie lebt und arbeitet als Autorin und Journalistin in London.
-Sie schreibt große Features für den Observer.
-Ihr Roman The Family Tree erschien im Jahr 2006 und wurde in mehrere Sprachen übersetzt.
-Gentechnik und die gesetzliche Lage in Deutschland
- 
-Die DNA-Sequenzierungstechnik (next generation sequencing) hat sich in den letzten Jahren rasant entwickelt.
-Statt nur einzelne Gene oder Gensequenzen zu entschlüsseln, erlauben es die neuen Methoden und Maschinen mittlerweile, ein gesamtes Genom zu sequenzieren, also das Genprofil eines Individuums zu erstellen.
-Es wird erwartet, dass sich die Kosten in einigen Jahren auf weniger als 1.000 Dollar reduzieren, wobei die Interpretation der Daten in der Summe nicht eingerechnet ist.
-Die Genetik befasst sich mit der Weitergabe von Erbanlagen an die nächste Generation, die Epigenetik mit dem Aktivitätspotenzial eines Gens.
-Es gibt also unveränderliche Anlagen, die vererbt werden, und andererseits Modifikationsfaktoren wie Er-nährungsverhalten, Stress- oder Umwelteinflüsse, die darüber entscheiden, ob ein Gen gerade „Lust hat“, die Information ordentlich zu transkribieren, oder lieber den Fehlerteufel spielt.
-Mittels Hochdurchsatztechnik können auch epigenetische Profile der DNA oder der RNA erstellt werden.
-An die nächste Generation weitergegebene Mutationen (Genveränderungen) tragen als Allele (Genvarianten) zur Variabilität einer Population bei.
-Eigenschaften, die auf dem mütterlichen und dem väterlichen Chromosom auftreten, werden in einem rezessiven Erbgang weitergegeben.
-„Fehlerhafte“ Gene können sich unterschiedlich ausprägen, wie etwa beim erblichen Brustkrebs: Manche Trägerinnen des Tumorsuppressorgens BRCA1/BRCA2 entwickeln die Krankheit, manche nicht.
-Eine Voraussage, wer zu den Glücklichen gehört, ist nicht möglich.
-Die genetisch gestützte Krankheitsbestimmung ist besonders erfolgreich, wo Störungen einem bestimmten Gen zuzuordnen sind (etwa frühkindliche Entwicklungsstörungen).
-Diese meist sogenannten monogenen Krankheiten, von denen bislang erst ein Fünftel aufgeklärt, also auf ein bestimmtes Gen zurückzuführen ist, sind selten und in der Regel nicht therapierbar.
-Volkskrankheiten dagegen haben so viele Ursachen, dass sie nicht genetisch identifiziert werden können.
-Das Gendiagnostikgesetz (GenDG) regelt in Deutschland den Umgang mit genetischen Tests und Daten.
-Es ist geleitet vom Grundsatz der informationellen Selbstbestimmung auf der einen und des Benachteiligungsverbots auf der anderen Seite.
-Das heißt, Patienten oder Kunden, die genetische Analysen durchführen lassen, bestimmen darüber, was sie wissen wollen und was mit ihren genetischen Proben und Daten passiert.
-Träger von bestimmten genetischen Eigenschaften bzw. mit ihnen verwandte Personen dürfen aufgrund dieser Tatsache nicht diskriminiert werden.
-Das GenDG ging noch von der Vorstellung aus, einzelne Gene gezielt zu untersuchen.
-Es regelt nicht die komplette Gensequenzierung und den Umgang mit den bei der Analyse anfallenden Daten, auch nicht mit solchen, nach denen gar nicht gesucht wurde, sogenannten Überschussdaten.
-Genetische Analysen, die keine medizinischen Zwecke verfolgen, werden vom GenDG nicht erfasst.
-Es gibt außerdem erhebliche Lücken bei der Qualitätssicherung hinsichtlich der Expertise und der Datenschutzprobleme in Bezug auf die Langzeitlagerung von Genomdaten auf Biobanken.
-Genetische Analysen, die mittels Hochdurchsatztechnik durchgeführt werden, bergen die Tendenz zu unspezifischem Suchverhalten.
-Die Aufklärung und Beratung wird anspruchsvoller, insbesondere was die Interpretation der statistischen Wahrscheinlichkeitsaussagen von Gen- und Risikoprofilen betrifft.
-In der Pränataldiagnostik kann das genetische Screening nicht revidierbare Konsequenzen für den Embryo haben.
-Zur Debatte steht derzeit insbesondere der sogenannte PraenaTest, der es ermöglichen soll, ohne unmittelbaren Eingriff das Vorliegen eines Downsyndroms (und perspektivisch auch anderer Chromosomenstörungen) festzustellen.
-Befürworter sehen darin eine Entlastung der Schwangeren, Kritiker reklamieren, der Einsatz des PraenaTests verstoße gegen die UN-Behindertenkonvention und diskriminiere Menschen mit Behinderung.
-Ulrike Baureithel
-Übersetzung der gekürzten Version: Zilla Hofman / Holger Hutt
+Bei diesem Beitrag handelt es sich um ein Blog aus der Freitag-Community
+Keine „wirtschaftsfeindliche Politik" mit Gerhard Schröder.
+Hier 2005 in Nürnberg
+Foto: Jan Pitman/Getty Images
+Für den "demokratischen Sozialismus", konkret für eine "Vision einer freien, gerechten und solidarischen Gesellschaft" setzt sich die SPD ein.
+Jedenfalls nach ihrem aktuellen Parteiprogramm .
+Gerechtigkeit, Solidarität, Visionen.
+Das klingt doch nach Mut und Willenskraft.
+Sicherheitshinweis – Achtung liebe SPD-Mitglieder: Die nun folgenden Ausführungen sind geeignet das Gefühl auslösen, Mitglied in der falschen Partei zu sein.
+Irreparable Erkenntnisse können nicht ausgeschlossen werden.
+Wie die SPD den demokratischen Sozialismus einführte
+1998 war es soweit.
+SPD und Grüne bekommen nach jahrzehntelanger Kohl-Regierung Mehrheiten im Bundestag und Bundesrat.
+Endlich eine linke Mehrheit!
+Endlich die Chance, soziale Reformen in Gang zu setzen und die ganze Marktwirtschaft umzukrempeln.
+Reformen gab es dann tatsächlich.
+Der Spitzensteuersatz wurde zunächst einmal von 53 % auf 42 % gesenkt.
+Den Einkommensstärksten könne schließlich nicht zugemutet werden über die Hälfte ihrer Einkünfte an den Staat abzuführen.
+Mit dieser Maßnahme konnte die von der SPD geführte Bundesregierung endlich von oben nach unten umverteilen.
+Zur Erinnerung :
+Das reichste Zehntel unserer Gesellschaft besitzt 66,6 % aller Güter, die reichsten 0,1 % besitzen 23 % des Vermögens in Deutschland.
+Die untere Hälfte der Gesellschaft besitzt hingegen ganze 1,4 % des Vermögens.
+Während einige wenige Familiendynastien die größten Konzerne des Landes besitzen und so jährlich Milliardensummen erzielen, lebt ein nicht unerheblicher Teil der Gesellschaft am Existenzminimum .
+In keinem anderen Staat innerhalb der Euro-Zone ist die Kluft zwischen arm und reich größe r.
+Nach dieser brillianten von grenzenlosem Sozialismus geprägten Schritt senkte die SPD zusammen mit der CDU die Kapitalertragssteuer von 42 % auf 25 %.
+Das Kapital arbeiten zu lassen lohnt sich nun mehr, als selbst Hand anzulegen.
+Großes Kino war natürlich auch die Reform der Erbschaftssteuer.
+Vererbte Unternehmen ­­wurden unabhängig von ihrer Größe – es waren auch also die größten Konzerne Deutschlands umfasst – von der Erbschaftssteuer befreit, wenn die Erben die Unternehmen eine gewisse Zeit weitergeführt hatten .
+Dieses Gesetz wurde jüngst vom Bundesverfassungsgericht gekippt.
+Es bevorteile insbesondere Erben von Großkonzernen im Vergleich zu Erben von Geldvermögen in unverhältnismäßiger Weise.
+Nur um sich da einmal klar zu machen: Dieses Gesetz verstößt nicht etwa gegen die Gerechtigkeitserwägungen von irgendwelchen „linken Spinnern", es verstößt gegen nichts geringeres als das Grundgesetz.
+Nach einem Teil des Senats des BVerfG ergibt sich die Grundgesetzwidrigkeit zudem daraus, dass der Gesetzgeber damit in evidenter Weise gegen die Vorgabe des Grundgesetzes verstößt, soziale Gerechtigkeit herzustellen (Das so genannte „Sozialstaatsprinzip").
+Die Partei des demokratischen Sozialismus hat sich mal wieder selbst übertroffen.
+Weitere geniale Schachzüge folgten.
+Die Unternehmensbesteuerung wurde abgesenkt.
+Die tatsächliche Steuerbelastung der Einkommen aus Unternehmertätigkeit und Vermögen war von nun an in Deutschland im Vergleich zu allen anderen EU-Staaten - mit Ausnahme von Griechenland - am niedrigsten (21 %, Link ).
+Der Öffentlichkeit ist mittlerweile auch bekannt geworden, dass die von der SPD eingeführte Riester-Rente für die ganz überwiegende Mehrheit unwirtschaftlich sind.
+Verdienen tun damit in erster Linie Schröders Freunde von der Finanzindustrie .
+Die SPD hat zudem mit ihren zahlreichen GKV-Reformen auch die Zwei-Klassen-Medizin befördert.
+Während gesetzliche Krankenversicherte im Durchschnitt 71 Tage auf einen Facharzttermin warten, sind es bei privat Versicherten 19 Tage.
+Zudem erhalten privat Versicherte mehr medizinische Leistungen.
+Die medizinische Versorgung ist heute also zu einem gewissen Grad abhängig vom Geldbeutel der BürgerInnen.
+Sozialismus in Reinkultur!
+Die Liste ließe sich endlos weiterführen.
+Nach sieben Jahren Rot-Grün im Bund und diversen SPD-geführten Bundesländern konnte die Partei des demokratischen Sozialismus endlich auch Bildungsgerechtigkeit herstellen.
+Oder?
+2006 erklärte selbst das Bundesbildungsministerium: Es "entscheidet in keinem anderen Industriestaat die sozio-ökonomische Herkunft so sehr über den Schulerfolg und die Bildungschancen wie in Deutschland."
+Die Bedeutung dieser Aussage muss man sich mal vor Augen führen: Deutschland befindet sich bei dem Ranking der Bildungsgerechtigkeit auf dem allerletzten Platz der Industrienationen.
+Heute dient die SPD als Steigbügelhalter für Merkel.
+Linke Politik ist in dieser Konstellation natürlich unmöglich.
+Abgesehen vom Mindestlohn sind soziale Reformen nicht erkennbar.
+Für die SPD offensichtlich immer noch besser, als mit der Linkspartei in Koalitionsverhandlungen zu treten.
+Angesichts dieser Begebenheiten überrascht es nicht, dass die SPD auch auf anderen Gebieten nicht sehr aktiv wurde, zumal sie ohnehin nicht für ihre Bürgerrechtsorientierung bekannt ist.
+So hat die SPD in den vielen Jahren in ihrer Regierungszeit entgegen aller Argumente auch an den Verfassungs- und Staatsschutzbehörden festgehalten.
+Die Finanzmarktpolitik der SPD
+Zum Glück hatte die SPD Oscar Lafontaine.
+Lafontaine hatte tatsächlich die Weitsicht besessen, die Finanzmärkte bereits in den 90er Jahren – in Zeiten des neoliberalen Mainstreams – regulieren zu wollen, um wirtschaftsschädliche Exzesse vorzubeugen.
+Leider war mit Schröder eine solche „wirtschaftsfeindliche Politik" nicht zu machen.
+Lafontaine konnte seine Vorstellungen einer sozial gerechten Welt nicht durchsetzen.
+Er war offensichtlich in der falschen Partei, konsequenterweise zog er sich zurück; Lafontaine konnte sich mit Schröders geplanter Wirtschaftspolitik nicht länger identifizieren.
+Lafontaine war von diesem Zeitpunkt an für SPD und Teilen der Öffentlichkeit eine Persona non grata.
+Die rot-grüne Regierung deregulierte die Finanzindustrie, Gesetze mit den Namen Investmentmodernisierungsgesetz (führte erstmals Hedgefonds ein, zudem ohne Bankenaufsicht) und Finanzmarktförderungsgesetze wurden verabschiedet.
+Das Ende der Geschichte ist bekannt: Die Finanzmärkte brachen 2007 zusammen.
+Deutschland war infolge der Liberalisierung der Finanzmärkte tief in die Krise verstrickt und auch mitursächlich.
+Der Steuerzahler musste bezahlen.
+Die Partei der Arbeitnehmer hat wieder mal gute Arbeit geleistet.
+Zwar ist Peer Streinbrück 2013 mit dem Thema „Reform des Bankensektors" in den Wahlkampf gezogen , nach dessen Niederlage wurde das Reformvorhaben bei der SPD aber offensichtlich ad acta gelegt.
+In den Koalitionsverhandlungen mit der CDU waren andere Themen wohl wichtiger.
+Die Partei der Vernunft
+Ihr müsst endlich verstehen, was die SPD von anderen linken Parteien und Organisationen unterscheidet.
+Während die linken Träumer eine völlig utopische Welt fordern, bleibt die SPD auf dem Boden der Tatsachen.
+Sie ist die Partei der Vernunft.
+Vernunft!
+Ja, der Wohlstand in Deutschland ist sehr ungleich verteilt.
+Aber die SPD kann da gar nichts machen.
+Wir leben schließlich in einer globalisierten Welt.
+Wir konkurrieren mit anderen Standorten und müssen den Konzernen auch was bieten können.
+Produktivität ist die oberste Devise.
+Das ist genau das, was gemeinhin als "Realpolitik" bezeichnet wird und was sich die SPD auf ihre Fahnen geschrieben hat.
+Die Sozialdemokraten wissen halt, dass die Wirtschaft bei der Stange gehalten werden muss.
+Alles andere ist einfach nur unvernünftig.
+Der ganze Wirtschaftsstandort Deutschland verlöre in kürzester Zeit massiv an Bedeutung, wenn man es tatsächlich wagen würde, die Wohlstandsverteilung umzukrempeln.
+Tatsächlich?
+Diese Argumentation wurde bereits in einem vergangenen Blogposting auf den Prüfstand gestellt.
+Produktivität und Anreize sind demnac mit sozialen Reformen absolut zu vereinbaren.
+Es ist sicher sinnvoll bei der Frage nach Reformen auch Standortfaktoren und Anreize zu berücksichtigen .
+Aber mit diesen Fragen beschäftigt sich die SPD offensichtlich nicht (mehr).
+Der SPD fehlt schlicht der Mut und die Kreativität Wege zu finden, mit denen soziale Gerechtigkeit verwirklicht werden kann, ohne dass vorher die global existierende Marktwirtschaft überwunden werden muss.
+Die SPD scheint insoweit einfach zu vernünftig zu sein für sozial Gerechtigkeit.
+Oder eher mutlos und ängstlich.
+Sie ziert sich vor sozialen Reformen wie ein Kleinkind vor der Badewanne.
+Ja, klar – die SPD hat sich für die Einführung des Mindestlohns eingesetzt.
+Mit einigen Jahren Verspätung und lange nachdem etwa die Linkspartei selbiges gefordert hatte.
+Eine vernünftige Wohlstandsverteilung wird es hierdurch aber noch lange nicht geben.
+Oft hört man den Satz, die CDU mache heute sozialdemokratische Politik.
+Das ist ein Irrtum.
+Nicht die CDU macht sozialdemokratische Politik, sondern umgekehrt macht die SPD – mit Blick auf die oben genannten Maßnahmen – eine „christdemokratische", also konservative und wirtschaftsfreundliche Politik.
+Ihre Reformen stehen weitgehend in einer Linie mit der Politik der Union.
+Die Tragik an der SPD ist darin zu sehen, dass sie mit ihrer langen Tradition als die Arbeiterpartei schlechthin wahrgenommen wird.
+Sie besetzt soziale Themen, ohne diese im Kern anzupacken.
+Die SPD kann leider für jeden, der sozialen Fortschritt will, eigentlich nur als politischer Feind angesehen werden.
+Johannes Kahrs, ein sympathischer Mann
+Die Frage nach einem möglicherweise fehlenden politischen Willen der SPD zu sozialen Reformen könnte man sich mit Blick auf den Seeheimer Kreis durchaus stellen.
+Der konservative Flügel der SPD wird geleitet von Johannes Kahrs, der bis heute zudem einen ernormen Einfluss auf die Hamburger Jusos ausübt und sinnbildlich ist für den von Schröder in den 90er Jahren eingeschlagenen Kurs.
+Bei Johannes Kahrs handelt es sich wirklich um einen sehr sympathischer Politiker.
+Nachdem Nahles zur Generalsekretärin gewählt wurde und Müntefering aus dem Parteivorstand zurücktrat, sprach Kahrs von einem "Dolchstoß".
+Kahrs organisiert immer wieder große Spenden der Rüstungsindustrie an seinen SPD Bezirk.
+Gleichzeitig sitzt er im Verteidigungsausschusses des Bundestags.
+In der Wirtschaft nennt man so etwas Bestechung.
+Kahrs steht im engen Kontakt zur Rüstungsindustrie und war der einzige SPD-Politiker, der am 8. Juli 2011 gegen den Antrag Keine Genehmigung zur Lieferung von Kriegswaffen an Saudi-Arabien gestimmt hat.
+Zu seinen Juso Zeiten wurde Kahrs der Belästigung einer innerparteilichen Konkurrentin durch nächtliche anonyme Telefonanrufe überführt .
+"Ich krieg' dich, du Schlampe", drohte Kahrs, der offensichtlich nicht mit dem Einsatz einer Fangschaltung gerechnet hatte.
+Kahrs Karriere bei der SPD hat das nicht beeinträchtigt.
+Er wurde 1998 Abgeordneter des Deutschen Bundestags und Sprecher des Seeheimer Kreises, einer der einflussreichsten politischen Strömungen innerhalb der SPD.
+Die innerparteiliche Konkurrentin trat infolge ausbleibender Konsequenzen aus der SPD aus.
+Dieser Mann ist sinnbildlich für Teile der SPD, die sich nicht der sozialistischen Demokratie verschrieben haben, sondern einem neoliberalen Deutschland.
+Johannes Kahrs könnte genauso gut in der CDU sein Unwesen treiben.
+Wahrscheinlich wäre er als junger Mann in die CDU eingetreten, wenn sie in der entsprechenden Zeit in Hamburg an der Macht gewesen wäre.
+Kahrs steht für Politik gegen Spenden und schert sich nicht um moralische Bedenken hinsichtlich der Auslieferung von Panzern an ein diktatorisches Regime in Saudi-Arabien.
+Was soll man also schon von einer Partei halten, die einen Johannes Kahrs in den Bundestag entsendet und ihn zum Vorsitzenden einer der bedeutsamsten innerparteilichen Strömungen – dem Seeheimer Kreis – wählt?
+Natürlich existiert auch ein linker Flügel innerhalb der SPD.
+Jedoch sind erstens ihre Forderungen und Ideen nicht besonders weitgehend und oft eher mutlos, zweitens setzen sich die Parteilinken innerhalb der SPD ungefähr so oft durch wie staatliche deutsche Großbauvorhaben ihr Budget einhalten, also ungefähr nie.
+Nicht verwunderlich, wenn man sich die Austrittswellen von Parteilinken infolge der HARTZ Reformen in Erinnerung ruft .
+Alternativen
+Die SPD vermag Linke mangels sozialer Reformbemühungen nicht zu überzeugen.
+Wie sieht es aus mit Alternativen?
+Die Grünen haben sich zunächst an den genialen Sozialreformen unter Schröder mitbeteiligt.
+Die linken Politiker der Grünen wie Trittin oder Künast, denen man eine gute linke Politik trotzdem noch zugetraut hätte, wurden mittlerweile abgelöst von so genannten „Realos" wie Kretschmann oder Özdemir.
+Leute wie Boris Palmer haben gute Chancen mittelfristig in die Bundesspitze vorzudringen.
+Die weitere Entwicklung bleibt abzuwarten.
+Die Linkspartei ist derweil zerstritten und mitunter nur schwer zu berechnen.
+Alle denjenigen, die sich für soziale Reformen auf dem Boden unseres Grundgesetzes einsetzen wollen, ohne vorher den weltweit existierenden Kapitalismus überwinden zu müssen, bleibt keine besonders große Auswahlmöglichkeit.
+Bei diesem Klientel geht mit Sicherheit viel Potential verloren.
 Teilen:

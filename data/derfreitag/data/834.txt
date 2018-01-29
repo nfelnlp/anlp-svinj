@@ -1,38 +1,44 @@
-@                       Referenzkommentar
-|| Naja, ich habe bei der "Mobilisierung" meiner eigenen site gemerkt, wie schwierig es ist, mit zwei designs fuer desktop und mobile zu arbeiten und habs am Ende gelassen.
-Und meine Site ist noch nicht mal interaktiv.||
-Meine schon (digitale-demokratie.net), aber eben schon auf Desktop absolut spartanisch und so unaufgeräumt wie jede gute Werkbank.
-An Verbesserung u. Mobilisierung denke ich nicht, solange die Nutzer keine Beiträge zu Design & Funktion, Doku, FAQ usw. liefern, - ist doch unter meiner Beratung/Anleitung & mit vorh.
-Toolkits überhaupt nicht schwer bzw. sehr lernbar.
-Auch
-Demos/Tests, was man mit css alles so machen kann (z.
-B. publikuli.de = ausschl.
-css), statt tausende von Grafiken einzuhubern, blieben ohne Resonanz.
-|| Wie weit man die php, css und java files tweaken kann ist bei jeder platform natuerlich unterschiedlich.
-Dazu kommen naatuerlich auch bugs (beispielsweise Zeitfunktionsfehler) Das Eingabefeld zu vergroessern ist vermutlich nicht vorgesehen.
-Wenn man sowas versucht, zerschiesst man leicht die gesamte Funktion.
-Das ist bei der Zeit wohl passiert, darum bei dem Antwortcontainer besser Finger davon.
-||
-Da sehe ich eher das Gegenteil richtig.
-Natürlich ist auch die Veränderlichkeit der Kommentarfeldgröße per se vorgesehen, - wie wollte man denn sonst den "Responsive"-Anspruch einlösen?
-Und's geht ja, wie Sie oben sehen, man muß nur wollen ... (ich habe für diesen Kommentar die Breite (1.
-Wert der resizeTo-Parameter) auf 390 gesetzt, was erstmal beim einkopieren Ihres Kommentars hier die gleichen Umbrüche erzeugte wie im Original)
-Hinsichtlich "tweaken" und "zerschossener" Zeitstempelei siehe meinen Kommentar oben -, und da sind wir auch schon beim nächsten Punkt:
-|| Ich finde uebrigens die beiden Jungs im "Serverraum" machen einen guten Jobs im Rahmen ihrer Vorentscheidung fuer ihre Platform.
-(Muss man auch ja mal sagen).
-||
-Wären es nur zwei, die an der neuen Sache basteln, brauchte man nicht zwingend ein Repository(-Verfahren) u. ä. IT-Projekt-Tools, wenngleich nat.
-immer nützlich.
-Die alte Lösung habe ich mal mit zw.
-mind.
-250.000 bis 1,5 Mio. für's erste Jahr für Alles, bis runter zum Hosting eingeschätzt.
-Es wäre gefährlich für's - strategisch notwendig: anspruchsvollere - Neue, bloß zwei Männeken/Fräuleins werkeln zu lassen, die womöglich auch wenig Erfahrung haben/jung sind:
-Sowas löst man erstmal ohne preemptive deep-tweaks, sondern am Ende der Prozesskette bis runter auf den Client.
-Ist alles stabil produktiv und steht ein Testserver wieder zur Verfügung, berichtigt man die Output-Erstellung selbst, statt sie provisorisch am Ende zu korrigieren, - vor allem wg.
-Performance (Antwortzeiten, CPU-Konsum), strukt.
-Klarheit und Wartbarkeit.
-|| Die Uebernahmen des Themes von Freitag digital waere - vor allem fuer die Navigation - sinnvoller gewesen.
-Aber sowas sagt sich leicht... ||
-Mit Sicherheit nicht.
-Diese alte, recht gute Navig ist/wäre mit Wischen kaum bedienbar, siehe meine Kommentare in den versch.
-Threads dazu von Anbeginn, Stichwort Scroll, Einblenden/-ung usw.
+Hands up: David Guetta
+Foto: Charley Gallay/ AFP/ Getty Images
+Es ist ein sehr lustiges Video , was die Comedy-Truppe The Lonely Island da für Saturday Night Live gedreht hat.
+„When Will The Bass Drop?“ zeigt einen gewissen DJ Davincii während seines Auftritts, der im Wesentlichen daraus besteht, das Publikum mit ein wenig theatralischem Knöpfchendrehen auf den erlösenden Bass-Ausbruch warten zu lassen – um unterdessen diversen anderen Beschäftigungen nachzugehen.
+„Davincii“, das ist ein sehr leicht zu entschlüsselnder Namensbastard der realen „DJ“s David Guetta und Avicii.
+Gnadenlos überhöht ist das alles – aber eben doch gar nicht soweit weg von den realen Verhältnissen, unter denen die Megastars der EDM-Szene mit praktisch absoluter Narrenfreiheit agieren.
+Gerade nicht von den Säcken an Geld, mit denen sie tatsächlich für jeden Auftritt überhäuft werden.
+Sie sind die Aushängeschilder einer Veranstaltungsindustrie, in der Geld in Hülle und Fülle vorhanden scheint.
+Denn EDM ist echtes Big Business geworden.
+EDM, Electronic Dance Music, so wird jene im Prinzip DJ-orientierte Musik heutzutage genannt, die sich seit einigen Jahren im US-Mainstream durchgesetzt hat.
+Dort hatte Rave-Musik sehr lange nur eine Nischenrolle, zumindest bis die große Dubstep-Welle nicht nur durch die Clubs des Landes rollte, sondern auch durch die unzähligen Springbreak-Events.
+Seitdem ist EDM ein rasanter Wachstumsmarkt, dessen Epizentrum nicht umsonst Miami ist – jene Stadt, die für die alljährlichen Springbreak-Exzesse bekannt ist und dessen eh schon vergleichsweise gut bestückte Clubszene jetzt mit riesigen neuen Locations aufgebläht wurde, durch die Zehntausende zahlungs- und trinkstarke Gäste geschleust werden können.
+Parallel dazu gibt es eine Unmenge EDM-Festivals; neu aus dem Boden gestampft oder – vorwiegend in Europa – mehr oder weniger aus dem angestammten Rave-Festivalzirkus übernommen.
+Dahinter steht oft die NASDAQ-notierte Firma SFX Entertainment, mit der der berühmt-berüchtigte Unternehmer Robert F. X. Sillerman gleich noch einmal macht, was Live Nation, ein Vorkonglomerat aus Sillermans illustren Aktivitäten-Portfolio, schon in der klassischen Rock- und Pop-Veranstaltungsindustrie durchexerziert hat: die Kontrolle über Livegeschäft, Artistbooking und Musikvertrieb gleichermaßen in den Griff zu bekommen und so in sich geschlossene Erlöskreisläufe zu erzeugen.
+Vereinfacht gesagt: Eigene Musiker spielen auf eigenen Konzerten in eigenen Clubs und Festivals und verkaufen dort eigene Getränke und eigenes Merchandise.
+Wie man das durchzieht, lässt sich jetzt in Sachen EDM in Echtzeit beobachten.
+Direkt oder indirekt gehören SFX Entertainment ganz oder zumindest teilweise Clubs in Miami, Bookingagenturen, Festivals wie das australische Stereosonic, das deutsche Nature One und das belgische Tomorrowland.
+Mit aktuell 400.000 (!)
+verkauften Tickets ist es das europäische Flaggschiff des EDM-Hypes schlechthin.
+Die Musik dafür liefert SFX seit 2013 gleich noch mit.
+Da hatte man mit Beatport die führende Onlineplattform für elektronische Musik gekauft – nicht ohne in der Folge alle Firmenbereiche, die nicht direkt Gewinn machten, umgehend zu schließen und die entsprechenden Mitarbeiter zu entlassen.
+Dem breiten Publikum – und das wächst immer noch – ist das natürlich herzlich egal, so lange ganz oben auf den Plakaten Namen wie David Guetta, Avicii, Tiësto, Steve Aoki, Deadmau5 oder Skrillex stehen.
+Der „Clubkultur“ gut tut all das selbstverständlich nicht.
+Dazu hat sich der in Berlin lebende amerikanische DJ und Produzent Seth Troxler soeben viel beachtet zu Wort gemeldet .
+Publikum und DJs im aktuellen EDM seien Idioten, die die Clubkultur zur Sau machen würden – so lässt sich Troxlers Tirade inhaltlich nur unwesentlich verkürzt zusammenfassen.
+„DJ und Produzent“, das sollte man an dieser Stelle noch anmerken, ist die Standard-Berufsbezeichnung für alle, die im internationalen EDM-Geschäft als „Artist“ mitmischen.
+Gemeinhin bedeutet das, dass jemand, der sich als DJ ein paar Meriten verdient hat, nicht umhin kommt, selbst Musik zu produzieren.
+Das ist vielleicht sogar echtes künstlerisches Bedürfnis, immer jedoch auch eine geschäftliche Notwendigkeit.
+Eigene Stücke dienen als Relevanz-Nachweis und Bewerbungsmappe für Veranstalter.
+Wer keine vorweisen kann, wird außerhalb des eigenen Umfelds schlicht nicht wahrgenommen, also nicht gebucht.
+Wer es dagegen schafft, in seiner jeweiligen Liga einen echten Hit zu landen, hat den Jackpot gezogen und braucht sich über seine nähere Zukunft keine Sorgen mehr machen – weniger wegen der Erlöse des Tracks an sich, sondern der darauf basierenden DJ-Bookings und dem durch die Bekanntheit beim Publikum in Richtung „Headliner“ gepimpten Status.
+Ein offenes Geheimnis dabei ist, dass sich etliche der ganz großen der Zunft ihre Tracks von Ghostproducer-Teams zimmern und nur noch den eigenen Namen draufkleben lassen.
+Wer genau hinschaut, kann das oft in den Urheber-Credits erkennen, die neben dem Star noch weitere, in der Regel nur Insidern bekannte, Komponisten ausweisen.
+Für Troxler gilt das nicht, er zählt zu den auch in ernsthafteren Szenekreisen geschätzten Musikern mit gewissem künstlerischen Grundanspruch.
+Auf den großen Festivals, wo die großen Schecks gereicht werden, ist er trotzdem unterwegs.
+Nur halt nicht so gern.
+Sagt er.
+Und zwar ausgerechnet in Vice, jenem Medium, das bekannt dafür ist, so etwas wie das Sprachrohr der EDM-Generation zu sein und gern jede noch so groteske Szene-Geschmacklosigkeit in dürftiger Sprache salonfähig zu machen.
+Sich dort zu beschweren, ist so ungefähr, als ob man sich im Rolling Stone über Alte-Männer-Musik aufregt oder in der Bild über den Niedergang der Persönlichkeitsrechte.
+Vor allem aber: News-Wert hat das schon seit 50 Jahren nicht mehr, es ist der altbekannte Kreislauf aus Underground und Mainstream-Ripoff, bei dem naturgemäß die „authentische“ Ursprungskultur auf der Strecke bleibt.
+Selbst in der Dance-Kultur gibt es schon mehrere Inkarnationen davon: von der Disco-Ära bis zum brutalen Love Parade-Ausverkauf.
+Die Lösung ist immer gleich und kommt immer von selbst: Irgendwann stirbt der Hype und damit das Geschäft.
+Dann kann es von vorn losgehen.
+Teilen:

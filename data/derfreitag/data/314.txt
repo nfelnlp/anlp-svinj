@@ -1,37 +1,192 @@
-Bei diesem Beitrag handelt es sich um ein Blog aus der Freitag-Community
-Foto: Fethi Belaid/ AFP/ Getty Images
-MRSA ist ein Keim, der gegen nahezu alle Antibiotika unempfindlich ist.
-Einer aktuellen Studie zufolge bewirke eine Verdopplung der Bestandsdichte eine Steigerung der Wahrscheinlichkeit, viehhaltungsbedingte MRSA-Bakterien in sich zu tragen um etwa 24 bis 77 Prozent – je nach Tierart.
-Damit könne das Risiko einer möglichen Erkrankung steigen.
-Betroffen seien Menschen, die in einer Gemeinde oder einem Stadtbezirk mit einer hohen Viehdichte wohnen, ebenso wie die Landwirte selber.
-Die Arbeit erschien in der November-Ausgabe des wissenschaftlichen Fachblatts Emerging Infectious Diseases.
-Verdopple man die Dichte der Kälberbestände, steige die Chance um 24,1 Prozent gegenüber Trägern anderer, nicht mit der Tierhaltung in Verbindung gebrachter MRSA-Formen.
-Bei Rindern seien es 24,7, bei Schweinen 76,9 Prozent.
-Die Viehdichte steht dabei für die Anzahl von Tieren pro Hektar Land einer Gemeinde oder eines Stadtbezirks.
-Obwohl die Daten der Wissenschaftler nicht anzeigen, ob jemand tatsächlich an dem MRSA-Erreger erkrankt ist, erhöhe sich dennoch das Risiko einer möglichen Infektion.
-MRSA, die Kurzform für Methicillin-resistenter Staphylococcus aureus, kann eine Reihe von Erkrankungen beim Menschen hervorrufen.
-Angefangen von kleinen bis hin zu lebensbedrohlichen Entzündungen der Haut, des Blutkreislaufes, der Atem- und Harnwege sowie von Wunden nach einer Operation.
-Da die meisten Antibiotika bei MRSA nicht anschlagen, gestaltet sich die Behandlung der verschiedenen Erkrankungen als schwer.
-Früher wurden MRSA-Infektionen vor allem in Krankenhäusern und anderen Institutionen des Gesundheitswesens erworben.
-Seit ungefähr einem Jahrzehnt allerdings geschehe ein Großteil der Ansteckungen in den meisten Ländern in der Gesellschaft außerhalb jener Einrichtungen.
-In den Niederlanden beispielsweise gingen heutzutage mehr als 40 Prozent aller MRSA-Fälle auf die mit der Viehhaltung einhergehende Form zurück, kurz LA-MRSA.
-Auch in Fleisch konnte MRSA bereits nachgewiesen werden.
-Mehr als 170.000 Menschen steckten sich 2007 in der Europäischen Union mit MRSA an, plus Norwegen und Island, schreiben die Forscher.
-In den USA seien es zwei Jahre zuvor geschätzte 94.000 gewesen.
-Über 18.000 Amerikaner würden an den Folgen der MRSA-Infektion sterben.
-Das führe zu erheblichen Mehrkosten zulasten der jeweiligen Gesundheitssysteme.
-Für ihre Arbeit verglichen die Wissenschaftler vorhandene Daten von niederländischen Trägern viehhaltungsassoziierter und anderer MRSA mit den Statistiken der landesweiten Viehbestands- und Bevölkerungsdichten.
-Ferner wurden die Lage des Wohnorts und bekannte Informationen bezüglich möglicher individueller Risikofaktoren berücksichtigt.
-Zum Beispiel, ob jemand einen direkten oder indirekten Kontakt zu Tieren hat.
-Insgesamt verwendeten sie Daten von 87 Personen, wobei 27 Patienten mit LA-MRSA waren.
-Die restlichen 60 gehörten zu zwei Kontrollgruppen .
-In einer Studie aus dem vergangenen Jahr kämen Forscher zu ähnlichen Ergebnissen.
-2010 wiederum sah eine andere Forschergruppe keinen Risikofaktor in einer hohen Viehbestandsdichte, fügen die Autoren der aktuellen Arbeit an.
-Auch wenn die Studie in den Niederlanden angesiedelt war, herrschen in anderen Ländern ähnliche Bedingungen.
-Zwar sei die Schweineproduktion da von maßgeblicher landwirtschaftlicher Bedeutung.
-Aber die Bestandsdichte und Größenverhältnisse seien in den USA vergleichsweise größer.
-Dort gäbe es circa 75.000 Betriebe mit Schweinen, von denen etwa elf Prozent mehr als 2.000 Tiere besäßen.
-Demgegenüber seien es in den Niederlanden rund 14.500 Höfe, von denen knapp sieben Prozent mehr als 2.000 Schweine hätten.
-Zum Vergleich: In Deutschland gibt es etwa 32.000 derartige Betriebe.
-Sieben Prozent davon halten mehr als 2.000 Tiere.
----------------
+Robert Mercer soll mit seinem Netzwerk auch der Leave-Kampagne geholfen haben
+Foto: Andrew Toth/AFP/Getty Images
+Vor einigen Wochen versammelte Donald Trump internationale Pressevertreter vor sich, um sie als Lügner zu bezeichnen.
+„Die Presse ist außer Kontrolle“, erklärte er.
+„Die Öffentlichkeit glaubt euch nicht mehr.“ CNN beschieb er als „very fake news“.
+Und die BBC sei „noch eine von der gleichen Sorte“.
+Dieser Artikel erschien in Ausgabe 10/2017 vom 09.03.2017 Die aktuelle Ausgabe des Freitag erhalten Sie am Kiosk.
+Oder sichern Sie sich hier 3 Wochen gratis
+An jenem Abend habe ich zwei Dinge getan.
+Zuerst habe ich bei Twitter „Trump“ in das Suchfeld eingegeben.
+Mein eigener Twitter-Feed sagte mir, er sei verrückt, ein Irrer, ein durchgeknallter Psychopath.
+Doch diese Einschätzung wurde keineswegs überall geteilt.
+Durch meine Suche erhielt ich eine regelrechte Flut von „Go Donald!!!
+!“ und „Zeig’s ihnen!!
+!“-Einträgen von Leuten, die ich nicht kenne.
+Da waren Stars-and-Stripes-Emojis, hochgereckte Daumen und Clips von Trump, wie er auf die „Fake-News-Lügner der Mainstream-Medien“ einprügelt.
+Trump hatte gesprochen und sein Publikum hatte ihn gehört.
+Dann tat ich das, was ich nun seit zweieinhalb Monaten regelmäßig tue.
+Ich habe „Mainstream-Medien sind“ gegoogelt.
+Die Vorschläge der Autocomplete-Funktion lauteten: „… tot, liegen im Sterben, Fake News, Fake“.
+Sind sie echt tot?, fragte ich mich.
+Haben die Fake News gewonnen?
+Sind wir jetzt die Fake News?
+Ich klickte auf den ersten Link, den Google mir vorschlug.
+Er führte mich auf eine Website namens CNSnews.com und einen Artikel mit der Schlagzeile: „Die Mainstream-Medien sind tot“.
+Sie sind deshalb tot, erfuhr ich, weil man ihnen „nicht vertrauen kann“.
+Wie war es möglich, dass eine obskure Seite, von der ich noch nie etwas gehört hatte, den Google-Suchalgorithmus dominierte und als Erstes angezeigt wurde?
+Unter dem „About us“-Button erfuhr ich, dass CNSnews dem Media Research Center gehört.
+Es sei „Amerikas Medien-Aufsicht“, eine Organisation, die von sich sagt, sie habe sich „unbeirrbar der Aufgabe verschrieben, die linke Voreingenommenheit in Nachrichten, Medien und Popkultur zu neutralisieren“.
+Algorithmen für die Börse
+Ein paar Klicks weiter las ich, dass CNSnews einen großen Teil seiner Finanzierung von einem einzigen Mann erhält: dem Hedgefonds-Milliardär Robert Mercer.
+Wer sich intensiver mit US-Politik beschäftigt, kennt diesen Namen.
+Robert Mercers Geld steht hinter Donald Trump.
+Er war der größte Einzelspender in Trumps Wahlkampf.
+Zunächst hatte er Ted Cruz unterstützt, doch als dieser aus dem Rennen ausschied, gab er sein Geld – genauer gesagt 13,5 Millionen Dollar – für die Trump-Kampagne.
+Im Laufe meiner Recherchen erfahre ich, dass Mercers Geld aber noch hinter einer Menge anderer Sachen steckt.
+Sein Vermögen hat er als brillanter, zurückgezogen lebender Computerwissenschaftler gemacht.
+Angefangen hat er bei IBM, wo er für bahnbrechende Innovationen bei der Sprachverarbeitung verantwortlich war – einer Technik, die eine Schlüsselfunktion bei der Entwicklung künstlicher Intelligenz einnehmen sollte.
+Später wurde er Co-CEO bei Renaissance Technologies, einem Hedgefonds, der mithilfe von Algorithmen an den Finanzmärkten handelt.
+Einer der Renaissance-Technologies-Fonds mit Namen Medallion verwaltet ausschließlich Geld der eigenen Angestellten und ist der erfolgreichste der Welt – bisher hat er 55 Milliarden Dollar generiert.
+Seit 2010 hat Mercer 45 Millionen Dollar an verschiedene konservative Polit-Kampagnen gespendet.
+Weitere 50 Millionen Dollar hat er rechten, ultrakonservativen Non-Profit-Organisationen gegeben.
+Kurzum: Robert Mercer ist ein Milliardär, der versucht, die Welt nach seinen Ansichten umzugestalten.
+Er äußert sich nur sehr selten öffentlich und niemals gegenüber Journalisten.
+Um etwas über seine Ansichten zu erfahren, muss man sich deshalb ansehen, worein er sein Geld steckt – eine Reihe von Yachten, ein Modellzug-Set im Wert von 2,9 Millionen Dollar, die Leugnung des Klimawandels (er finanziert einen Thinktank, der den Klimawandel bestreitet) und das vielleicht ultimative Spielzeug des reichen Mannes: die Unterminierung der Mainstream-Medien.
+Dabei oft an seiner Seite ist sein enger Verbündeter Steve Bannon, der ehemalige Wahlkampfberater und heutige Chefstratege Donald Trumps.
+Das Media Research Center mit seiner Mission, die „linke Voreingenommenheit“ der Medien zu beenden, ist dabei nur eines von Mercers Spielzeugen.
+Der Stern im Zentrum von Mercers rechtem Medien-Universum ist Breitbart.
+Zehn Millionen Dollar hat er in Bannons Nachrichtenseite Breitbart investiert, deren erklärtes Ziel es ist, die Huffington Post der Rechten zu werden.
+Bei Breitbart werden regelmäßig antisemitische, islamophobe und rassistische Ansichten vertreten.
+Und gemessen an den Klickzahlen ist die Seite phänomenal erfolgreich: Bei den beliebtesten Internetseiten der USA steht sie mit zwei Milliarden Seitenabrufen pro Jahr auf Platz 29.
+Und sie ist die größte politische Seite bei Facebook und Twitter in den USA.
+Nur pro forma: Steve Bannon (rechts) steigt bei der US-Präsidentenmaschine hinten ein
+Foto: Nicholas Kamm/AFP/Getty Images
+Der 2012 verstorbene rechte Journalist Andrew Breitbart, der die Seite gegründet hat, erklärte Bannon seinerzeit, man müsse „die Kultur zurückerobern“.
+Das ist wohl gelungen.
+Und Amerika ist nur der Anfang.
+2014 hat Bannon eine neue Front „in unserem kulturellen und politischen Krieg“ eröffnet und Breitbart London ins Leben gerufen, gezielt im Vorfeld der britischen Parlamentswahlen.
+Frankreich und Deutschland sollen nun bald folgen.
+Ich kannte Robert Mercers Namen zuvor aus einem anderen Kontext: wegen seiner Verbindungen zu Cambridge Analytica, einem kleinen Unternehmen für Datenanalyse.
+Mercer hält angeblich Anteile von zehn Millionen Dollar an der Firma, die aus der größeren britischen SCL Group hervorgegangen ist.
+Die wiederum ist spezialisiert auf „Wahlmanagement-Strategien“ und „Nachrichtenübermittlungs- und Informationsoperationen“, die über 25 Jahre lang an Orten wie Afghanistan und Pakistan verfeinert wurden.
+In Militärkreisen spricht man von „Psyops“ – psychologischen Operationen, also Massenpropaganda, die auf die Emotionen der Menschen abzielt.
+Cambridge Analytica hat bei der Trump-Kampagne und Berichten zufolge auch bei der Leave-Kampagne für den Brexit mitgemischt.
+Als Mercer noch Ted Cruz unterstützte, hat Cambridge Analytica mit diesem gearbeitet.
+Als Mercer zu Trump überwechselte, folgte auch Cambridge Analytica.
+Und dort, wo Mercers Geld ist, ist in der Regel Bannon nicht fern: Berichten zufolge saß Bannon bis vergangenen August im Vorstand von Cambridge Analytica.
+Google-Suchergebnisse zu bestimmter Themen werden heute oft von rechten und extremistischen Seiten dominiert.
+Jonathan Albright, Kommunikationsprofessor an der Elon University, North Carolina, hat das US-Nachrichtenökosystem kartografiert und Millionen von Verbindungen zwischen den rechten Seiten gefunden, die den etablierten Medien „die Luft abschneiden“.
+Er erklärte mir, dass Tracker von Seiten wie Breitbart auch von Unternehmen wie Cambridge Analytica benutzt werden könnten, um Internetnutzern durchs Netz zu folgen und ihnen dann über Facebook gezielt Werbung zu präsentieren.
+Cambridge Analytica brüstet sich auf seiner Website mit der Behauptung, man besitze psychologische Profile von 220 Millionen US-Wählern mit jeweils zahlreichen Einzeldaten.
+Das Alleinstellungsmerkmal der Firma bestehe darin, dass man aus diesen Daten mittels psychometrischer Verfahren Aufschlüsse über die Einstellungen und Bedürfnisse der Menschen ableite und sie dementsprechend mit Informationen versorge.
+Wie die New York Times nun berichtete, räumten Führungskräfte der Firma aber ein, für den Trump-Wahlkampf gar keine psychometrischen Verfahren eingesetzt zu haben.
+Auch sollen die Ergebnisse der Daten und Targeting-Modelle von Cambridge Analytica nicht besser, teils sogar schlechter als die zuvor bereits benutzten Wähler-Targeting-Modelle des republikanischen Wahlkampfteams gewesen sein.
+Cambridge Analytica bestreitet zudem, von der britischen Leave-Kampagne angestellt gewesen zu sein.
+Ich treffe mich deshalb mit Andy Wigmore, dem leutseligen Kommunikationsdirektor von Leave.EU.
+Ich sehe mir mit ihm Schnappschüsse von Donald Trump auf seinem Smartphone an.
+Wigmore war es, der Nigel Farages Besuch im Trump Tower orchestrierte, einen PR-Coup, der Farage zum ersten ausländischen Politiker machte, der den gewählten Präsidenten vor dessen Amtsantritt besuchte.
+Nigel Farage (rechts) soll bei seiner Leave-Kampagne Unterstützung aus den USA erhalten haben
+Foto: AFP/Getty Images
+Mit Trump im Fahrstuhl
+Wigmore scrollt durch die Fotos.
+„Das hier habe ich gemacht“, sagt er und zeigt auf ein Bild, das weltweite Bekanntheit erlangt hat.
+Es zeigt Farage und Trump, die vor Trumps goldener Fahrstuhltür das Daumen-hoch-Zeichen machen.
+Cambridge Analytica habe für sie gearbeitet, sagt Wigmore.
+Das Unternehmen habe ihnen gezeigt, wie man Profile erstellt, Menschen gezielt anspricht, wie man massenhaft Daten von Facebook-Profilen abgreift.
+Auf Youtube gibt es ein Video, in dem Brittany Kaiser, die für Cambridge Analytica und SCL arbeitet, bei einer Gründungsveranstaltung von Leave.EU auf dem Podium sitzt.
+Facebook sei der Schlüssel zu der gesamten Kampagne gewesen, erklärt Wigmore.
+„Wenn man Verfahren nutzt, wie wir es getan haben, erfährt man alle möglichen Dinge über Personen und darüber, wie man sie mit welcher Art Werbung überzeugt.
+Und die haben dann andere Leute in ihrem Netzwerk, die die gleichen Sachen mögen – und so verbreiten sich die Dinge weiter.
+Der Computer hört nie auf zu lernen und hört nie auf zu überwachen.“
+„Klingt unheimlich“, sage ich.
+„Das ist unheimlich!
+Deshalb bin ich auch nicht bei Facebook.“ Angestellt habe man Cambridge Analytica aber nicht, sagt Wigmore.
+Es sei kein Geld geflossen.
+„Sie haben halt gern geholfen.“
+Warum?
+„Weil Nigel gut mit den Mercers befreundet ist.
+Robert Mercer hat uns mit Cambridge Analytica bekannt gemacht.
+Er sagte: ‚Diese Firma könnte hilfreich für euch sein.‘“ Hinter der Trump-Kampagne und Cambridge Analytica steckten „die gleichen Leute.
+Das ist eine Familie“.
+In einer Erklärung, die die britische Datenschutzbehörde (ICO) dem Observer gegenüber abgab, hieß es: „Jede Geschäftstätigkeit im Vereinigten Königreich, bei der persönliche Daten gesammelt und verwendet werden, muss sich an Recht und Gesetz halten.
+Wir werden uns mit Cambridge Analytica in Verbindung setzen, um herauszufinden, wie das Unternehmen im Vereinigten Königreich arbeitet – und ob dabei die hiesigen Gesetze eingehalten werden.“
+Cambridge Analytica betonte daraufhin, man verhalte sich vollkommen konform zu den Datenschutzgesetzen des Vereinigten Königreichs und der EU.
+Andere Fragen des Observers, etwa dazu, wie ihr psychometrisches Modell genau aufgebaut sei, beantwortete die Firma nicht.
+Die Washington Post berichtete, Mercer habe in Cambridge Analytica investiert, „angetrieben zum Teil von der Einschätzung, der Rechten fehle es an ausgereiften technologischen Möglichkeiten“.
+Doch in vielerlei Hinsicht wirft das, was SCL, das Mutterunternehmen von Cambridge Analytica, macht, sogar noch mehr Fragen auf.
+Emma Briant, Expertin für politische Propaganda an der Universität Sheffield, hat in ihrem Buch Propaganda and Counter-Terrorism: Strategies for Global Change über SCL geschrieben.
+Cambridge Analytica verfüge über die technologischen Instrumente, um Verhaltensveränderungen herbeizuführen, schreibt sie.
+Strategisch einsetzen würde diese aber SCL.
+Das Unternehmen habe sich auf der höchsten Ebene – für die NATO, das britische Verteidigungsministerium, das US-Außenministerium und andere – darauf spezialisiert, das Verhalten großer Gruppen zu studieren und zu verändern.
+Den Diskurs beeinflussen
+SCL wurde von einem Mann namens Nigel Oakes gegründet, der für die Werbeagentur Saatchi & Saatchi am Image Margaret Thatchers gearbeitet hatte, erzählt Emma Briant.
+Das Unternehmen „hat über einen langen Zeitraum Geld mit der Propaganda-Seite des Kriegs gegen den Terror gemacht.
+SCL hat verschiedene Waffen, aber bei allen geht es um Reichweite und die Fähigkeit, den Diskurs zu beeinflussen.
+Sie versuchen, bestimmte politische Erzählungen zu verstärken und wählen genau aus, an wen sie sich damit wenden: Sie versuchen nicht etwa, Linke zu überzeugen.“
+Leben wir in einem neuen Zeitalter der Propaganda?, frage ich Emma Briant.
+Einer Propaganda, die auf eine Art auf uns einwirkt, die wir noch gar nicht verstehen?
+„Definitiv.
+Die Überwachung durch Technologie ist heute so tiefgreifend, das Sammeln und die Verarbeitung unserer Daten sind so viel professioneller geworden.
+Diese Dinge spielen sich im Geheimen ab.
+Die Leute kriegen gar nicht mit, was vor sich geht.“
+Es gibt immer mehr Hinweise, dass unsere öffentlichen Arenen – die sozialen Netzwerke – zu einem Schlachtfeld geworden sind, auf dem in Echtzeit internationale Geopolitik stattfindet.
+Ein neues Zeitalter der Propaganda, aber wessen Propaganda?
+Sam Woolley vom Institut für Computerpropaganda des Oxford Internet Institute erzählt mir, dass vor dem Brexit-Referendum ein Drittel des gesamten Traffics in der britischen Twitter-Sphäre von automatisierten Bots generiert wurde – Profile, die so programmiert sind, dass sie sich verhalten wie Menschen.
+Mit ihnen werden Debatten beeinflusst und bestimmte Themen in den Rankings und Suchlisten nach oben gebracht.
+Alle diese Bots, sagt Woolley, hätten für Leave geworben.
+Und vor den US-Wahlen kamen auf einen Bot, der gegen Trump Stimmung machte, fünf für ihn – viele davon russischen Ursprungs.
+Nichts Zufälliges
+„Politik ist Krieg“, sagte Steve Bannon vergangenes Jahr dem Wall Street Journal.
+Und in der Tat scheint das zunehmend zuzutreffen.
+An Trumps Verhalten sei nichts Zufälliges, sagt mir Andy Wigmore von der Leave-Kampagne.
+„Diese Pressekonferenz von ihm war brillant.
+Ich konnte genau sehen, was er da machte.
+Es gibt online permanent Feedback.
+Man kann jede Reaktion auf jedes Wort messen.
+Beim Thema Einwanderung zum Beispiel gibt es Schlüsselbegriffe, über die die Leute sich Sorgen machen.
+Wenn man also eine Rede hält, geht es nur darum, wie man diese Wörter immer wieder einsetzen kann.“
+Wie ändert man das Denken einer Nation?
+Beginnen kann man damit, dass man bestehende Medien ersetzt – zum Beispiel durch Seiten wie Breitbart.
+Oder Websites wie CNSnews.com, die die etablierten Nachrichten- und Informationsquellen mit Schlagworten wie jenem von der „linken Voreingenommenheit der Medien“ diskreditieren und dann verdrängen.
+Und man könnte den verbleibenden Medien wie der „versagenden New York Times“ geben, was sie wollen: Geschichten.
+Aufwendiger Journalismus
+Die dritte Säule des Mercer-und-Bannon’schen Medienreichs ist das „Government Accountability Institute“.
+Bannon hat es mit zwei Millionen Dollar von Mercer gegründet.
+Rebekah, Mercers Tochter, wurde in den Vorstand berufen.
+Dann investierte man in teuren und zeitaufwendigen investigativen Journalismus, der eine bestimmte politische Stoßrichtung hatte.
+„Die moderne Redaktionsökonomie erlaubt keine große Zahl von Investigativreportern“, erklärte Bannon dem Forbes Magazin.
+„Heute wird man keine Watergate-Aufdeckung mehr kriegen, denn keiner kann es sich mehr leisten, einen Reporter sieben Monate mit einer Geschichte zubringen zu lassen.
+Wir aber können das.“
+Willkommen in der Zukunft des Journalismus im Zeitalter des Plattformkapitalismus.
+Nachrichtenorganisationen versuchen einen Weg zu finden, um ihre Arbeit weiter finanzieren zu können.
+Und währenddessen stoßen ein entschlossener Plutokrat und ein brillanter Medienstratege in die Lücke und gestalten den Journalismus zu ihren eigenen Zwecken um.
+In den etablierten Medien ist in den vergangenen Monaten viel über Steve Bannon geschrieben worden.
+Doch es ist Robert Mercer, der das Geld zur Umgestaltung der Medienlandschaft bereitgestellt hat.
+Und während Bannon die Medien versteht, versteht Mercer Big Data.
+Er versteht die Struktur des Internets.
+Er weiß, wie Algorithmen funktionieren.
+Auf eine Anfrage für diesen Artikel hat Robert Mercer nicht reagiert, Nick Patterson, ein britischer Kryptograf, der in den 80ern bei Renaissance Technologies gearbeitet hat und nun Computerspezialist am MIT ist, war derjenige, der das Talent Mercers entdeckt hat.
+Politisch beschreibt er Mercer als „sehr, sehr konservativ.
+Er mochte die Clintons nicht.
+Er war im Grunde ein rechter Libertärer, der die Regierung aus allem raushalten wollte“.
+Patterson vermutet, dass Mercer die Computerkenntnisse, die er in das Finanzwesen transferiert habe, nun in eine andere Sphäre trägt: „Wir erstellen mathematische Modelle der Finanzmärkte, Wahrscheinlichkeitsmodelle.
+Ich nehme an, dass Cambridge Analytica Wahrscheinlichkeitsmodelle über das Verhalten von Wählern erstellt.
+Und dann schauen sie, wie sie diese beeinflussen können.“
+In der Abteilung für Computerpropaganda des Oxford Internet Institute zeigen mir Leiter Phil Howard und Forschungsdirektor Sam Woolley, wie man die öffentliche Meinung formen und manipulieren kann.
+Aber gibt es einen rauchenden Colt?
+Beweise dafür, wer hier am Werk ist?
+„Es gibt keine rauchendes Gewehr, sondern rauchende Maschinengewehre“, sagt Howard.
+„Und eine Vielzahl von Beweisen.“
+So zeigt er mir, wie vor der US-Wahl hunderte Websites eingerichtet wurden, um ein paar wenige Links hinauszuschicken, die allesamt Pro-Trump waren.
+„Das wird von Leuten gemacht, die etwas von Informationsstruktur verstehen.
+Sie kaufen massenhaft Domains und lassen diese dann automatisiert eine bestimmte Botschaft ausposaunen.
+Um es so aussehen zu lassen, als sei Trump mehrheitsfähig.“ Und dafür braucht man Geld?
+„Organisation und Geld.
+Wenn man genug Bots und Menschen einsetzt und sie schlau verlinkt, schafft man so: Wahrheit.“
+Viele dieser Techniken seien in Russland entwickelt worden, sagt Howard.
+„Es sind Propagandawerkzeuge, die in einem autoritären Regime entwickelt und in eine freie Marktwirtschaft gebracht wurden, in der ein Regel-Vakuum besteht.
+Das Ergebnis ist ein Feuersturm.“
+Das ist die Welt, in die wir jeden Tag mit unseren Laptops und Smartphones eintreten.
+Sie ist ein Schlachtfeld, auf dem Kämpfe um die Ambitionen von Nationalstaaten und Ideologien ausgetragen werden – und wir werden dafür benutzt.
+Unsere Unterhaltungen, unsere Gedanken und Emotionen, unsere Wählerstimmen.
+Bots beeinflussen viel diskutierte Themen, sogenannte Trending Topics.
+Und diese wiederum haben einen mächtigen Einfluss auf Algorithmen bei Twitter, Google oder Facebook, sagt Woolley.
+Wer weiß, wie man die Informationsstruktur manipuliert, kann so die Realität manipulieren.
+Noch sind wir nicht in dieser alternativen Realität angekommen, in der die echten Nachrichten als Fake News gelten.
+Aber wir sind beinah da.
+Auf Twitter hat jemand, dem ich folge, neulich ein Zitat des Medienvordenkers Marshall McLuhan gepostet.
+Es stammt aus den 60er Jahren und lautet: „Der Dritte Weltkrieg ist ein Guerillainformationskrieg ohne Trennung zwischen militärischer und ziviler Teilnahme.“
+Carole Cadwalladr ist Reporterin des Observer
+Mitarbeit: Paul-Olivier Dehaye, Übersetzung: Zilla Hofman, Holger Hutt
+Teilen:

@@ -1,35 +1,70 @@
-Bitcoins sind, genau wie andere Kryptowährungen, gar keine Währung, sondern eher so etwas wie digitales Gold
-Foto: Dan Kitwood/Getty Images
-Tulpen haben wir die erste Spekulationsblase des Kapitalismus zu verdanken.
-Ende des 16. Jahrhunderts aus dem Osmanischen Reich nach Holland eingeführt, entwickelten sich diese Kryptophyten aus der Familie der Liliengewächse rasch zu einem Liebhaberobjekt, das neu, exotisch, selten und deswegen kostbar war.
-Weil die Nachfrage bald schneller wuchs als die Blumen selbst und immer mehr Käufer Tulpenzwiebeln nur erwarben, um sie später teurer weiterzuverkaufen, stieg ihr Preis zu Beginn der 1630er Jahre rasant an: Am Höhepunkt der „Tulipomanie“, im Februar 1637, erzielten einzelne Zwiebeln, die in Leerverkäufen und Terminkontrakten gehandelt wurden, Preise von mehr als 5.000 Gulden, bevor der Markt von einem Tag auf den nächsten zusammenbrach.
-Zum Vergleich: Ein holländischer Handwerker verdiente damals zwischen 150 und 350 Gulden im Jahr.
-Dieser Artikel erschien in Ausgabe 49/2017 vom 07.12.2017 Die aktuelle Ausgabe des Freitag erhalten Sie am Kiosk.
+Sinnbild für die Ökonomie der DDR: „Plaste und Elaste aus Schkopau“
+Foto: Dieter Matthes/Imago
+In Sachsen-Anhalt wird die AfD ihren größten Erfolg feiern.
+Das ist keine gewagte Prognose, auf bis zu 19 Prozent der Wählerstimmen kommt sie in dem östlichen Bundesland in aktuellen Umfragen.
+Noch vor der SPD würde sie damit zur drittstärksten Partei Sachsen-Anhalts aufsteigen.
+Jeder, der die politische Entwicklung in den neuen Bundesländern seit 1990 verfolgt hat, kann das nur erstaunlich finden, auf den ersten Blick jedenfalls.
+Denn dass Sachsen-Anhalt einmal besonders progressiv war, ist noch gut in Erinnerung.
+Und gerade die SPD schrieb hier einmal Geschichte.
+Was hat den Wandel bewirkt?
+Dieser Artikel erschien in Ausgabe 10/2016 vom 10.03.2016 Die aktuelle Ausgabe des Freitag erhalten Sie am Kiosk.
 Oder sichern Sie sich hier 3 Wochen gratis
-Dass es sich bei dem spektakulären Kursanstieg der Kryptowährung Bitcoin, deren Preis seit 2011 von 10 Dollar auf mehr als 11.000 Dollar angewachsen ist, um eine ähnlich spekulative Blase handelt, ist unstrittig.
-Bitcoins sind die Tulpen des digitalen Zeitalters: Sie sind neu, exotisch, künstlich verknappt und werden nur deshalb erworben, weil die Käufer auf einen Kursanstieg wetten.
-Wie bei jeder Blase kommt es am Ende bloß darauf an, wann sie platzt.
-Die „Byte-Münze“, oder Bitcoin, ist eine Kryptowährung, ein digital erzeugtes Tauschmittel, das mittels Kryptografie geschöpft und gehandelt wird.
-Es basiert auf einer 2009 veröffentlichten Open-Source-Software und wird erzeugt, indem sich Computer zu Netzwerken zusammenschließen und mithilfe von Rechenleistung Aufgaben lösen.
-Jede Transaktion wird in der Blockchain, einer über das Netzwerk verstreuten Datenbank also, festgehalten.
-Die ersten Bitcoins entstanden im Januar 2010.
-Im Mai desselben Jahres fand dann die erste Transaktion in der Realökonomie statt: Ein gewisser „Lazslo“ bestellte in Jacksonville, Florida, zwei Pizzen und bezahlte mit 10.000 Bitcoins.
-Lazslos Bitcoins wären heute mehr als 100 Millionen Euro wert.
-Der Preisanstieg ist auch damit zu erklären, dass Bitcoins, genau wie andere Kryptowährungen, gar keine Währung sind, sondern eher so etwas wie digitales Gold: ein virtuelles Edelmetall aus Code, das mithilfe von Rechenleistung „geschürft“ wird und dessen Menge endlich ist, willkürlich auf 21 Millionen Bitcoins begrenzt, was sich nur ändern ließe, wenn alle Halter zustimmten.
-Was wir derzeit erleben, ist also eine Art digitaler Goldrausch: Immer mehr Rechenleistung wird von immer mehr Usern dafür eingesetzt, Bitcoins zu schürfen.
-Der Guardian schätzte kürzlich, alle Bitcoins schürfenden Rechner zusammen verbrauchten in einem Jahr mehr Strom als ganz Irland.
-Aber die Ökobilanz ist der Bitcoin-Mania egal.
-Sie erinnert nicht von ungefähr an das Grimm’sche Märchen vom Goldesel, nur jetzt mit PCs anstelle des „guten Tiers“, das die Goldstücke „hinten und vorn“ ausspie.
-Es ist eine Fabel von der digitalen Welt: aber nicht mehr bloß als digitalisierte Warenproduktion, sondern indem das Digitale aus sich selbst heraus Gold schöpft.
-Vergessen ist der Dotcom-Crash, vergessen ist der Umstand, dass Computer und Roboter uns bald die Arbeit wegnehmen werden: Erst werden wir alle noch mal Do-it-yourself-Kapitalisten, die dank ihrer Rechner Werte aus dem Nichts erschaffen können.
-Dabei hatte der Bitcoin ursprünglich durchaus progressives Potenzial: Das Projekt versprach ein digitales Tauschmittel, User-generiert und unabhängig von den Banken.
-Das stellte sich als kurzer libertärer Traum vom Geld ohne Staat heraus, vom demokratisierten Zahlungsverkehr in Peer-to-Peer-Netzwerken.
-Denn Kryptowährungen wurden bald Ziel für all jenes Kapital, das in die regulierten, staatlich überwachten Finanzströme nicht hineinkann: Kapital aus Regionen, die keinen Zugang zum Finanzsystem haben, und Kapital aus illegalen Quellen.
-Der dieser Tage bekannt gewordene Plan von Venezuelas Präsident Maduro, eine eigene Kryptowährung, den „Petro“, auszugeben, ist ein solcher Versuch, sich aus der US-Finanzblockade zu befreien – auch wenn sein Vorschlag, die „Petros“ mit Erdölreserven abzusichern, der Idee einer Kryptowährung völlig entgegenläuft.
-In der ersten Phase des Bitcoin-Hypes wetterten Banker wie der CEO von JPMorgan ja noch, Bitcoins seien Betrug, weil sie Geld aus dem Nichts erschüfen, das solle doch bitte schön den etablierten Banken vorbehalten bleiben.
-Im nächsten Schritt wurden Kryptowährungen dann vom legalisierten Kapitalismus geschluckt: Die dem Bitcoin zugrunde liegende Technologie, die Blockchain, verspricht einen Innovationsschub im Finanzsektor.
-Und im Jahr 2017 allein wurden bereits Kryptowährungen im Wert von mehr als 3,5 Milliarden Dollar in sogenannten „Initial Coin Offerings“ ausgegeben, bei denen Anleger „Tokens“, Wertmarken, erhalten, die sich in nichts von Monopolygeld unterscheiden.
-Schließlich erhalten Bitcoin-Käufer ab dem 14. Dezember ganz offiziell die Möglichkeit, sich mit Terminkontrakten gegen Kursschwankungen abzusichern.
-Ob Tulpen oder Einsen und Nullen: Kapital sucht Rendite, bis die Blase platzt.
-Von der Tulpenmanie ist nichts geblieben außer ein paar Gemälden, etwa die „Satire op de Tulpomania“ von Jan Brueghel d. J.: Sie zeigt Affen, die ihr ganzes Geld in Tulpen investieren, als Sinnbild menschlicher Gier.
+Zwischen 1994 und 2002 regierte der Sozialdemokrat und frühere Bürgerrechtler Reinhard Höppner nach dem sogenannten Magdeburger Modell mit Minderheitskabinetten.
+Dem Anspruch nach sollte es ein Regieren mit wechselnden Mehrheiten sein, doch CDU und FDP spielten nicht mit.
+Und so waren es faktisch Kabinette, die von der PDS toleriert wurden.
+Obwohl die CDU diese Tolerierung mit der „Rote Socken“-Kampagne ihres Generalsekretärs Peter Hintze zu kriminalisieren versuchte, stützten die Wähler dieses Modell über die Wahlen von 1998 hinaus.
+Da wurde die SPD sogar um knapp zwei Prozent stärker.
+Sie regierte danach allein, vorher waren die Grünen der Koalitionspartner gewesen.
+Der katastrophale Einbruch der SPD bei den Wahlen 2002 – sie verlor damals 16 Prozent – hat seinen Hauptgrund darin, dass die wirtschaftlichen Probleme des Landes ungelöst blieben.
+Außerdem wirkten sich bundespolitische Entwicklungen aus: Wie Höppner 1998 von der Euphorie des bevorstehenden Machtwechsels im Bundeskanzleramt profitierte, wurde er 2002 von der Enttäuschung über die erste rot-grüne Koalition auf Bundesebene eingeholt.
+Es ist, als ob die Wähler da schon geahnt hätten, dass der SPD-Kanzler kurz nach Beginn seiner zweiten Amtszeit auf Hartz IV zusteuern würde.
+Doch weder mit diesem Schlag gegen den Sozialstaat noch mit den längerfristigen wirtschaftlichen Problemen lässt sich der rasante Aufstieg der AfD heute erklären.
+Es griffe zu kurz, wollte man sagen, da hätten viele Bürger endlich einmal ein Ventil für ihren sozialökonomischen Frust gefunden.
+Entsorgte Arbeiterhelden
+Tatsächlich hat sich die wirtschaftliche Entwicklung Sachsen-Anhalts in den vergangenen Jahren eher verbessert, während sie in den 1990er Jahren immer schwierig war.
+Die Jahre nach der Wende brachten steigende Arbeitslosigkeit, wobei die Höchststände in Höppners Amtszeit fielen: 16,5 Prozent 1995, 21,7 Prozent 1998/99.
+Die letzte Zahl war in ganz Deutschland unübertroffen.
+Buchstäblich auf dem Höhepunkt der Probleme wurde Höppner also im Amt bestätigt.
+Da die Arbteitslosigkeit bis 2005 nicht sank, wird man sich über seine Abwahl 2002 nicht wundern.
+2011 aber lag die Arbeitslosigkeit nur noch bei 11,5 Prozent.
+Im Chemiedreieck zwischen Halle, Bitterfeld und Merseburg wurden in den vergangenen Jahren die größten ausländischen Investitionen in ganz Ostdeutschland getätigt.
+Weshalb erstarkt die AfD hier am meisten?
+Wir sehen zunächst, dass Sachsen-Anhalt gerade dann, wenn man nach ökonomischen Hintergründen fragt, als exemplarisch für die DDR erscheint.
+Deshalb mag das Bundesland auch für die Entwicklung nach 1990 exemplarisch sein.
+Ältere Westdeutsche und Westberliner mögen sagen, bei jeder Transitdurchfahrt zwischen Berlin und Hof zu DDR-Zeiten hätten sie vor allem den Slogan „Plaste und Elaste aus Schkopau“ bestaunt, schon allein wegen der sprachlichen Eigenwilligkeit.
+Er war an der Elbebrücke Vockerode angebracht.
+Heute ist er im Berliner Deutschen Historischen Museum zu sehen.
+Schkopau war Standort der VEB Chemische Werke Buna, und wer dachte beim Thema Ökonomie der DDR nicht vor allem an Buna, noch mehr aber an Bitterfeld?
+An Bitterfeld deshalb noch mehr, weil der „Bitterfelder Weg“, ein 1959 begonnener Versuch, die „vorhandene Trennung von Kunst und Leben“ zu überwinden, auch bei vielen westdeutschen Intellektuellen Interesse fand.
+Die Idee des Bitterfelder Wegs war es, dass „Kumpel zur Feder greifen“, unterstützt von Schriftstellern, die sich dafür zeitweilig in Arbeiter des Chemiewerks verwandelten.
+Die ökologische Verseuchung im Dreieck war schon vor 1990 bekannt.
+Doch die Werke standen für Produktionsleistung – und diese gab dem Leben der Menschen Sinn, besonders in einer Gesellschaft, in der Arbeit ideologisch über allem stand.
+Nach der Wende brach das Dreieck ideologisch wie produktionsmäßig zusammen.
+Die Industriegewerkschaft Chemie musste kämpfen, damit die Standorte wenigstens teilweise erhalten blieben.
+Steigende Arbeitslosigkeit war die Folge.
+In Bitterfeld zum Beispiel gingen zwischen 1990 und 1994 12.000 von ehemals 18.000 Arbeitsplätzen verloren.
+Inzwischen aber hat sich die verbliebene Zahl auf 11.000 fast wieder verdoppelt.
+Das ist die ökonomische Seite.
+Ideologisch bleibt, dass Arbeiter nicht mehr als Helden angesehen werden.
+Das war zu DDR-Zeiten in eine Kultur eingebettet, die nicht jedermanns Sache war.
+Aber auf ein neues Identifizierungsangebot, das auch über ökonomische Probleme hätte hinweghelfen können, warteten die Menschen vergebens.
+Die Landeshauptstadt Magdeburg wirkt bis heute nicht hauptstädtisch.
+Seit der Wende gibt es eine kontinuierliche Abwanderung der Menschen.
+Das Statistische Landesamt prognostiziert einen Bevölkerungsrückgang um 30 Prozent zwischen 1990 und 2025.
+Ein schleichendes Gefühl des Sinnverlusts wird sich schon seit 1990 ausgebreitet haben.
+Davon legen die Dokumentarfilme Thomas Heises künstlerisches Zeugnis ab, angefangen mit Stau – jetzt geht’s los (1992) über die rechtsradikale Jugendszene in Halle.
+Man hatte es da mit Söhnen bornierter SED-Genossen zu tun.
+Doch die öffentliche Stimmung war zunächst anders.
+Dass Ministerpräsident Höppner damals noch von der Wählermehrheit getragen wurde, lässt sich damit erklären, dass die meisten lange Zeit bereit waren, die Probleme als Übergangsschwierigkeiten hinzunehmen, auch wenn sich niemand so recht fragte, wohin der Übergang denn führen sollte.
+Irgendwann wurde aber klar, dass die Dinge nicht grundsätzlich besser und vor allem nicht anders werden würden.
+Die Bundesregierung Schröder und die Hartz-Gesetze waren sicher ein Einschnitt, später auch die Erfahrung der Weltfinanzkrise.
+Und jetzt kommen die Rechtsextremen an die Oberfläche.
+Liegt es an den zugezogenen Ausländern?
+Zum Teil sicherlich ja, gerade weil Sachsen-Anhalt das Bundesland mit dem geringsten Ausländeranteil gewesen war.
+Denn der Umgang mit Ausländern bewirkt anderswo viel.
+Wer mit anhört, wie eine fast völlig verschleierte Türkin und ihr kleiner Bengel sich im besten Deutsch bei perfektester Aussprache genauso beharken, wie es auch Biodeutsche tun („Sei nicht so frech!“ „Selber frech!“), wird doch mindestens unbewusst begreifen, dass solche Menschen ihrerseits richtige Deutsche sind.
+Die Erfahrung fehlt den meisten Einwohnern Sachsen-Anhalts – leider, denn nirgends gibt es mehr Raum, Flüchtlinge unterzubringen.
+Der Soziologe Heinz Bude hat aber wahrscheinlich recht, wenn er vor der Überschätzung des ethnischen und auch des religiösen Problemfaktors warnt.
+Eher spielt eine Rolle, meint er, dass Ostdeutsche sich bis zum heutigen Tag als Neusiedler behandelt sehen, die selbst nicht hinreichend „integriert“ sind.
+Und nun sitzt ihnen schon ein weiterer Schub Zuziehender im Nacken.
 Teilen:

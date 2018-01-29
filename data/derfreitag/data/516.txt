@@ -1,33 +1,80 @@
-Bei diesem Beitrag handelt es sich um ein Blog aus der Freitag-Community
-Foto: Sean Gallup/Getty Images
-Bei der Abschlusskundgebung der "Freiheit statt Angst"-Demo Ende August in Berlin wurde das Thema am Ende doch noch, wenn auch beiläufig, angesprochen: Ein Vertreter von Amnesty International empörte sich darüber, dass allein auf Basis von Verbindungsdaten Drohneneinsätze in Ländern wie Pakistan, Somalia oder dem Jemen geflogen und "gezielte Tötungen" durchgeführt werden.
-Ein Aspekt, der im Kontext der Totalüberwachung von NSA & Co bislang gern übersehen wird.
-Denn im Zentrum der Diskussion über die digitale Durchleuchtung der Gesellschaft steht die Verteidigung des Rechts auf Privatsphäre und informationelle Selbstbestimmung.
-Der ehemalige Chef von NSA und CIA, Michael Hayden, bestätigte aber im vergangenen April im Rahmen einer Veranstaltung in Baltimore, was bis dahin nur gemutmaßt wurde: "Wir töten auf Basis von Metadaten!"
-Der Hintergrund: Werden die Meta- bzw. Verbindungsdaten über einen längeren Zeitraum gezielt ausgewertet, lassen sich präzise Persönlichkeitsprofile erstellen, die "alles" über einen Menschen erzählen, so dass die Inhalte von Kommunikation (z.B. in Telefongesprächen, Emails) praktisch irrelevant werden.
-Die militärischen Spezialeinheiten, die mutmaßliche Terroristen finden und eliminieren sollen, brauchen kein einziges Gespräch abzuhören oder keine Email zu lesen, um Hinweise über den Ort der gesuchten Person zu erhalten.
-Allein die Merkmale der Kommunikation reichen, um die gesuchten Personen zu orten (da SIM-Karten und Telefone getauscht werden können, sind allerdings auch Unschuldige unter den Opfern der Drohnenangriffe zu vermuten).
-Der Versuch, die eigenen Daten durch Verschlüsselung zu schützen, läuft in diesem Fall zudem ins Leere.
-Denn kryptographische Verfahren helfen nicht gegen die Auswertung der Metadaten.
-Der Journalist Detlef Borchers schreibt in der Internetzeitung "Berlinergazette" deshalb von der Drohne als dem "Gefechtssprengkopf des NSA-Netzwerkes im Informationskrieg" und "dass Drohnen und die Datenanalyse der NSA eine tief verwobene Einheit bilden".
-Neben den rein militärischen werden die Daten auch für die Verfolgung politischer und ökonomischer Ziele genutzt.
-Die Spiegel-Redakteure Marcel Rosenbach und Holger Stark verbinden mit dem Kürzel "NSA" einen nachrichtendienstlich-industriellen Komplex, der enge Verbindungen zwischen dem US-Auslandsgeheimdienst und anderen Geheimdiensten, privaten Sicherheitsfirmen und der Privatwirtschaft (zum Beispiel Google, Facebook) aufweist.
-So entstand faktisch ein weltumspannender staatlich-privater Überwachungsverbund.
-Nach Angaben von Rosenbach und Stark gehen nur 35 Prozent der NSA-Ressourcen tatsächlich in die Terrorabwehr (die aber nach wie vor der offizielle Grund für die globale Überwachungspraxis ist).
-Der größte Teil richtet sich gegen andere Staaten bzw. Organisationen (klassische Spionage), und wird für Wirtschaftsspionage sowie das Auskundschaften politischer Entscheidungsabläufe eingesetzt.
-Ein wenig thematisiertes Ziel der digitalen Totalerfassung besteht zudem darin, verlässliche Prognosegrundlagen für das Verhalten von potenziellen "Gefährdern" und "gefährlichen" Personengruppen zu liefern – interessant insbesondere angesichts des fortschreitenden Sozialabbaus.
-Vor dem Hintergrund dieses Geflechts von Akteuren, Interessen und Handlungsmotiven schreibt der US-Journalist Glenn Greenwald in seinem aktuellen Buch, dass die digitale Überwachung zur schrecklichsten und repressivsten Waffe staatlicher Einmischung zu werden droht, die es in der Geschichte der Menschheit je gegeben hat.
-Seiner Auffassung nach befinden wir uns an einem historischen Scheideweg: Entweder das digitale Zeitalter bereitet der politischen Freiheit den Boden oder aber es etabliert ein System allumfassender Überwachung und Kontrolle, das sich nicht einmal die schlimmsten Tyrannen der Vergangenheit hätten träumen lassen (vgl. "Die globale Überwachung: Der Fall Snowden, die amerikanischen Geheimdienste und die Folgen", München, 2014, S. 16).
-Greenwalds dualistische Sicht – Befreiung oder Zwangsherrschaft – konstatiert im Grunde, dass wir uns auf der Überholspur in den Überwachungsstaat bewegen, der den Rechtsstaat sukzessive ablösen wird.
-Aber schon seit Ende der 1970er Jahre diagnostizieren Kritiker bereits (für die Bundesrepublik) einen systematischen Zersetzungsprozess verfassungsrechtlich garantierter Freiheitsrechte, in der Regel begründet mit der Abwehr von Gefahren für die innere Sicherheit.
-Das Problem dabei: Diese Perspektive übersieht, dass Geheimdienste als staatliche Behörden im Verfassungsstaat verankert sind und zunehmend verrechtlicht agieren.
-Insofern überzeugt die Idee eines allmählichen Rechtsstaatsverfalls nur bedingt.
-Die willkürliche und präventive Massenüberwachung einerseits sowie andererseits die Unmöglichkeit, Geheimdienste demokratisch kontrollieren zu können, sind durchaus vereinbar mit einem weitgehenden Erhalt rechtsstaatlicher Prozeduren.
-In dem Fall, dass exekutive Behörden gesetzliche Verfahren temporär und situationsbedingt außer Kraft setzen, können nachträglich legislative Anpassungen erfolgen.
-Oder aber es werden ausnahmerechtliche Argumentationsfiguren vorgebracht und auf Dauer normalisiert ( vergleichbar beispielsweise die Rolle des Völkergewohnheitsrechts ).
-Denn der Staat übt seine Macht vorzugsweise mit dem Medium des Rechts aus.
-Staatliche Repression kann durch Recht gebunden, aber auch entfesselt werden – und sich darüber hinaus in rechtsfreien Räumen bewegen (als "tiefer Staat").
-Die Macht der (Meta)Daten entfaltet sich dabei in jedem Fall.
-Zum Autor:
-Joachim Maiworm lebt in Berlin, engagiert sich in der Erwerbslosenszene und ist zur Zeit Mitglied eines Solidaritäts-Komitees für eine Altenpflegehelferin.
-Bisher erschienen von ihm an dieser Stelle:
+Das Landidyll als Verwirklichung einer Blut-und-Boden-Ideologie
+Foto: Imago
+Eine Backsteinkirche neben dem Pfarrhaus, ein etwas heruntergekommenes Gutshaus mit Wirtschaftsgebäuden, ein Dorfteich und ein kleiner Park – das ist Klaber, eine 70-Seelen-Gemeinde mitten in den sanften Hügeln der Mecklenburger Schweiz.
+Nichts Besonderes, was den durchreisenden Tagestouristen am Ort halten würde.
+Gäbe es da nicht den Handwerkshof im alten Gutshof, mit Kunstschmiede, Buchbinderei, Steinmetz und Wollwerkstatt.
+Hierher kommen häufig Gäste und lassen sich von den Handwerkern von alten Techniken und Bräuchen erzählen.
+Dieser Artikel erschien in Ausgabe 33/2015 vom 13.08.2015 Die aktuelle Ausgabe des Freitag erhalten Sie am Kiosk.
+Oder sichern Sie sich hier 3 Wochen gratis
+Auf einer Wiese vor dem Handwerkshof steht eine große Steinstele – den „Weltenbaum“ nennt sie der Steinmetz, sie ihn aus einem riesigen Findling geschlagen hat.
+Und er erklärt die Form: Das untere, gezackte Ende symbolisiere die Wurzeln zur Erde, das ausladende Steingeweih oben auf der Stele sei ein Widderkopf, der für Kraft und Stärke stehe.
+Die taillierte Mitte der Stele, so erklärt es ihr Schöpfer, sei der Ort, an dem die Menschen leben.
+Was der Steinmetz verschweigt – die Steinfigur, auch unter dem Namen Irminsul bekannt, gilt als eine Art Erkennungszeichen neuheidnischer und völkischer Gruppen, die der extremen Rechten zugeordnet werden.
+Die rassistisch-antisemitische Organisation „Artgemeinschaft/Germanische Glaubens-Gemeinschaft“ etwa, an deren Feiern und Schulungsveranstaltungen regelmäßig führende Neonazis aus ganz Deutschland teilnehmen, schmückt sich damit; auch das rechte Öko-Magazin Umwelt & Aktiv verwendet es als Symbol.
+Wohl kein Zufall, denn schon für die 1935 von Heinrich Himmler als SS-Forschungseinrichtung gegründete „Forschungsgemeinschaft Deutsches Ahnenerbe“ war Irminsul, der Weltenbaum, das Erkennungszeichen.
+Wenn man die Sprache darauf bringt hier im Handwerkshof von Klaber, dann winkt der Steinmetz nur ab.
+Mit Politik habe er nichts am Hut, mit den Etiketten links und rechts könne er nichts anfangen, sagt er.
+Er und seine Mitstreiter auf dem Gutshof seien bodenständig, ökologisch, globalisierungskritisch.
+„Was ist daran falsch?“, fragt er.
+1.000 rechte Siedler
+Die übrigen Dorfbewohner von Klaber sehen das ähnlich.
+Nette Nachbarn seien die Leute vom Gutshof, ist immer wieder zu hören.
+Und dass sie ordentlich seien, freundlich, hilfsbereit.
+„Sie erhalten unser Dorf am Leben“, sagt eine Frau.
+„Immerhin haben sie zehn Kinder.“ Dass einer der Männer vom Handwerkshof früher in der NPD in Berlin-Pankow aktiv war und ein anderer als NPD-Anhänger auf deren Demonstrationen mitmarschierte, interessiert hier niemanden.
+Klaber, 200 Kilometer nordwestlich von Berlin gelegen, ist eine von insgesamt 13 versprengten Siedlungen zwischen Güstrow und Teterow, die zur Gemeinde Lalendorf gehören.
+In dem Landstrich haben in den vergangenen zwei Jahrzehnten rechtsnationale Siedler über ein halbes Dutzend Höfe und Häuser erworben.
+Sie berufen sich auf die Bewegung der Artamanen aus den 1920er Jahren – junge, „völkisch“ gesinnte Menschen waren das, die ihre Blut-und-Boden-Ideen in einer Dorfgemeinschaft mit Naturromantik und nordischen Bräuchen umsetzen wollten.
+Ihre größte Siedlung war Koppelow, das gerade mal zehn Kilometer entfernt liegt von Lalendorf.
+Die heutigen Siedler dort kommen der Rostocker Beratungsorganisation für Opfer rechter Gewalt „LOBBI“ zufolge aus neonazistischen Kinder- und Jugendorganisationen, wie etwa den inzwischen verbotenen Organisationen Wiking-Jugend und Heimattreue Deutsche Jugend.
+Die neuen Artamanen rings um Lalendorf und Koppelow sind kein Einzelfall, weiß Anne Schmidt von der Berliner Amadeu-Antonio-Stiftung (AAS).
+Sie kennt das Muster von Neonazis, die in kleine Dörfer ziehen, dort eine ökologische Landwirtschaft und kleine Handwerksbetriebe aufbauen, Gesinnungsgenossen nachziehen und auf diese Weise nach und nach das Dorf übernehmen.
+Schmidt hat im vergangenen Jahr im Auftrag der AAS und von der Bundesregierung gefördert eine Studie vorgelegt, die sich dem Phänomen der „Völkischen Siedler im ländlichen Raum“ nähert.
+Es ist die erste Untersuchung, die sich diesen Ansiedlungsprojekten rechter Gruppen und Familien auf dem Lande widmet.
+Andere Extremismus-Forscher und Soziologen hatten das Thema bislang nur oberflächlich zur Kenntnis genommen.
+Anne Schmidt geht inzwischen von rund 1.000 rechten Siedlern in der gesamten Bundesrepublik aus.
+Es sind meist Familien, die sich gezielt in wenig bewohnten Gebieten ansiedeln würden, um fernab der Städte ungestört ihren Lebensentwurf zu leben und ihre Kinder in einer rückwärtsgewandten Ideologie aufzuziehen.
+„Ihre Weltanschauung, die diese Siedler in die dörflichen Gemeinschaften hineintragen, geht auf das rassistisch-antisemitische Denken der völkischen Bewegung vom Anfang des 20. Jahrhunderts zurück“, sagt Anne Schmidt.
+Diese Anschauung aber lehne Weltoffenheit und die Vielfalt von Lebensentwürfen ab.
+Daneben knüpften viele rechte Bauern mit ihren Konzepten auch an Aspekte von Esoterik, Öko-Bewegung und Tierschutz an, womit sie einen Lifestyle bedienen würden, der voll im Trend liegt.
+„Und sie bekennen sich zu Brauchtum und Tradition, was bei vielen Dörflern gut ankommt“, sagt Schmidt.
+Vorbehalte seien selten, auch weil sich die rechten Siedler unpolitisch und als harmlose, nette Nachbarn geben.
+Solche Erfahrungen mussten auch Knut Jahn und seine Lebensgefährtin Barbara Kersten machen.
+Die beiden Rentner leben in Wibbese, einem verschlafenen Dorf im Wendland.
+Zwei Dutzend Häuser, einige davon leer stehend, eine Kirche, drei Straßen, ringsum Felder und ein Wald – mehr hat die 84-Seelen-Gemeinde nicht zu bieten.
+Knut Jahn und Barbara Kersten, freundliche Leute mit offenem Blick, bekamen vor anderthalb Jahren neue Nachbarn, die den seit Jahren leer stehenden Hof neben ihnen bezogen.
+„Das Pärchen hatte vorher schon ein paar Jahre in einem anderen Haus hier im Dorf gewohnt“, sagt die 67-jährige Barbara Kersten.
+Die neue Nachbarschaft ließ sich zunächst gut an.
+„Sie brachten uns Eier und Ziegenmilch vorbei, grüßten immer freundlich über den Zaun und boten uns ihre Hilfe an“, erinnert sich Jahn.
+855 Kilometer bis Braunau
+Die jungen Nachbarn wollten sich als Ökolandwirte versuchen.
+Im Rahmen eines „ökologisch orientierten Selbstversorgungsprojekts“ hatten sie vor, Hühner, Schweine und Schafe zu züchten.
+Im Garten hinter dem Haus legten sie eine Streuobstwiese an.
+Im Sommer 2014 dann zog ein paar Monate lang ein befreundetes Pärchen der Nachbarn in deren früheres Haus in Wibbese ein und half auf dem Hof aus.
+„Heute wissen wir, dass dieses Paar aus Mecklenburg stammt und sie dort ganz aktive Neonazis sind, mit Verbindungen zur NPD“, sagt Jahn.
+Herausbekommen haben er und seine Lebensgefährtin das mit Hilfe einer antifaschistischen Initiative in Lüneburg.
+Deren Sprecher Olaf Meyer bestätigt, dass seit Jahren immer mehr Neonazis und NPD-Sympathisanten auch in den Landkreis Lüchow-Dannenberg ziehen.
+Seit dem Frühjahr 2014 reisten zudem an fast jedem Wochenende junge Rechte aus Norddeutschland in Wibbese an.
+Sie hörten dröhnende Rockmusik und ließen sich von ihrem Gastgeber über dessen Hof führen.
+„Wibbese ist zu einem Treffpunkt unterschiedlicher rechter Gruppen aus ganz Norddeutschland geworden“, sagt Antifa-Sprecher Olaf Meyer.
+Klaber, Wibbese, auch das von mehreren Rechten mit ihren Familien bewohnte mecklenburgische Dörfchen Jamel, wo im Ortskern die Parole „Dorfgemeinschaft Jamel – frei, sozial, national“ prangt und ein Hinweisschild mit der Aufschrift „Braunau am Inn 855 km“ steht – die völkischen Siedler, die ihre „schaffende“ Tätigkeit auf der eigenen Scholle und im eigenen Handwerksbetrieb bewusst als Gegenstück zum antisemitischen Klischee des „raffenden“ Finanzkapitals inszenieren und propagieren, sind längst keine Ausnahmen mehr.
+Nach Recherchen von Anne Schmidt aus der AAS gibt es bereits in neun der 16 Bundesländer entsprechende Projekte, die meisten davon in Ostdeutschland.
+Aber auch in Schleswig-Holstein, Niedersachsen, Hessen und Bayern gibt es „völkische Siedler“.
+Reinheit der deutschen Rasse
+Während die rechten Siedlergemeinschaften in Ostdeutschland eher ein vergleichsweise neuer Trend sind, gibt es in westdeutschen Dörfern bereits völkische Sippen, die über mehrere Generationen gewachsen sind.
+Einige von ihnen, etwa in Schleswig-Holstein und in der Lüneburger Heide, bestehen schon seit der Zeit des Nationalsozialismus und besitzen daher erheblichen Einfluss in der rechten Szene.
+Sie leben die Ideale der Blut-und-Boden-Ideologie der nationalsozialistischen Volksgemeinschaft vor, indem sie „reinrassige“ Familien mit vielen Kindern gründen und sich durch Handwerk und – oft mit vormodernen Arbeitsweisen betriebene – Landwirtschaft weitgehend unabhängig versorgen.
+Barbara Kersten und Knut Jahn haben in Wibbese allerdings die Erfahrung machen müssen, dass die Dorfbevölkerung über solche Entwicklungen ungern spricht, selbst wenn sie vor der eigenen Haustür passieren.
+„Als wir unsere Beobachtungen über das rechte Treiben bei unserem Nachbarn öffentlich machten und entsprechende Gegeninitiativen im Dorf anstoßen wollten, bekamen wir viel Zustimmung, aber auch offene Ablehnung zu spüren“, erzählt Jahn.
+Man warf ihnen Stimmungsmache vor und dass sie nur die Ruhe im Dorf stören würden.
+„Unser Nachbar sei doch immer nett und hilfsbereit, wurde mir dann gesagt.
+Und dass man, solange er seine politischen Einstellungen für sich behalte und seinen Hof ordentlich führe, doch auch gut ein Bier mit ihm trinken könne oder zwei.“
+Ute Seckendorf, Projektleiterin in dem vom Innenministerium aufgelegten Bundesprogramm „Zusammenhalt durch Teilhabe“, ist solch ein Verhalten nicht fremd.
+„Die rechten Siedler in den Dörfern sind ja nicht nur Biobauern, Hebammen oder Schmied, sie engagieren sich oft auch im Sportverein, in der freiwilligen Feuerwehr oder im Gemeinderat“, sagt sie.
+„Bei so viel bürgerschaftlichem Engagement fällt es natürlich schwer, sich gegen diese Menschen zu stellen.“ Denn gerade auf dem Land komme es ja darauf an, dass jeder mitwirkt, damit die Dorfgemeinschaft funktioniert.
+„Und wie soll man dann damit umgehen, wenn ein Mitglied der Feuerwehr, das bei jedem Einsatz vorn mit dabei ist, das sich vor keinem Dienst drückt, beim Bier auf dem Dorffest plötzlich davon spricht, dass man auf die Reinheit der deutschen Rasse achten muss?“ Eine „Wortergreifungsstrategie“ sei hier nötig, sagt Ute Seckendorf.
+„Die Menschen müssen lernen, wie man rassistischen, sexistischen und homophoben Sprüchen begegnen kann und eben auch der Ideologie, die mal mehr, mal weniger offen von ‚völkischen Siedlern̒ transportiert wird.“
+In Wibbese sind einige Dorfbewohner bereits aktiv geworden.
+Gemeinsam mit dem Lüchow-Dannenberger Bündnis gegen Rechts haben sie bereits Informationsveranstaltungen organisiert und im Dorf Plakate mit dem Slogan „Schöner leben ohne Nazis“ aufgehängt.
+„Wir wollen den ‚völkischen Siedlern etwas Nachhaltiges entgegensetzen, also Information und Aufklärung“, sagt Jahn.
+Teilen:

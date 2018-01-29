@@ -1,78 +1,165 @@
-liquidfeedback.org
-Was ist das?
-Eine Software, mit der politische Entscheidungen online getroffen werden.
-Wie funktioniert’s?
-Teilnehmer reichen über ihren Internet-Browser Vorschläge ein.
-Sie werden zur Diskussion freigegeben, wenn genügend andere Nutzer die Initiative unterstützen.
-Dann können Anregungen formuliert und Gegeninitiativen entwickelt werden.
-Danach wird das Thema „eingefroren“, und die Teilnehmer entscheiden, ob sie den Ur-Vorschlag oder eine Gegeninitiative unterstützen möchten.
-Wenn sich mindestens zehn Prozent für eine Initiative aussprechen, wird endgültig abgestimmt.
-Wer sich nicht selbst beteiligen will, kann seine Stimme auf andere Nutzer übertragen.
-Wer nutzt es?
-Bisher vor allem Verbände der Piratenpartei.
-Gibt es Kritik?
-Um Missbrauch zu vermeiden, müssen sich Piratenmitglieder aufwändig registrieren.
-Da Manipulationen nie auszuschließen sind, wenden sich Kritiker gegen die Fortentwicklung des Programms zu einem Wahlcomputer, mit dem verbindliche Entscheidungen getroffen werden könnten.
-Adhocracy
-adhocracy.de
-Was ist das?
-Ein Werkzeug, mit dem Organisationen ihre Mitglieder über das Internet an Entscheidungen beteiligen.
-Wie funktioniert’s?
-Der Name bezieht sich auf die Idee der Adhokratie: Eine Gemeinschaft kann Probleme auch über spontan gebildete Expertengruppen lösen statt mit einem bürokratischen Apparat.
-Alle Nutzer können über ihren Internet-Browser eigene Vorschläge einbringen und sich an der Diskussion beteiligen.
-Moderiert werden die Online-Debatten nicht.
-Da nicht jeder Teilnehmer mit jedem Sach-verhalt vertraut sein kann, besteht die Möglichkeit, das Stimmrecht bei einer bestimmten Entscheidung an das Abstimmungsverhalten anderer zu koppeln.
-Wer nutzt es?
-Die Internet-Enquete-Kommission im Bundestag hat Adhocracy ebenso genutzt wie das Zeit-Magazin und die SPD-Bundestagsfraktion.
-Gibt es Kritik?
-Bringen die Teilnehmer sehr viele Vorschläge ein, leidet die Übersicht.
-Das führt zu Doppelungen, die die Erfolgschancen der einzelnen Vorschläge verringern.
-Mumble
-mumble.sourceforge.net
-Was ist das?
-Ein Computerprogramm, mit dem man Telefonkonferenzen über das Internet abhält.
-So können sich verstreut lebende Aktivisten austauschen, ohne sich zu treffen.
-Wie funktioniert’s?
-Jeder Nutzer lädt sich das Programm auf den eigenen Rechner.
-Im Unterschied zur Software Skype verbinden sich die Nutzer mit einem zentralen Server, der ihnen virtuelle Konferenzräume zur Verfügung stellt.
-Ein Vorzug der Software ist die Möglichkeit, dass die verschiedenen Räume miteinander verknüpft wer-den können.
-So lassen sich bei Bedarf kleinere Gesprächs-kreise zu größeren Runden zusammenschalten.
-Die Kommunikation wird aufwendig verschlüsselt.
-Wer nutzt es?
-Viele Organisa-tionen bevorzugen Mumble wegen seiner Benutzerfreundlichkeit.
-In Deutschland nutzen das Programm vor allem Mitglieder der Piratenpartei und Online-Spieler.
-Gibt es Kritik?
-Der Verwalter des Zentralcomputers kann den Nutzern vielfältige Rechte einräumen – oder Nutzer einfacher stumm schalten.
-Etherpad
-etherpad.org
-Was ist das?
-Ein Text-programm, mit dem mehrere Personen Dokumente wie etwa Sitzungsprotokolle gemeinsam verfassen.
-Wie funktioniert’s?
-Der Online-Dienst erlaubt es beliebig vielen Autoren, über ihren Internet-Browser zusammen an einem Text zu arbeiten.
-Verschiedene Farbmarkierungen zeigen die Urheber der jeweiligen Änderungen, die jeder Teilnehmer in Echtzeit einsehen kann.
-Über einen integrierten Chat können sich die Nutzer über den Text austauschen.
-Grundsätzlich eignen sich Etherpads für viele Textformen, auch für gemeinsam verfasste Positionspapiere.
-Zugang zu einem digitalen Notizblock hat jeder, der die dafür generierte Internet-Adresse kennt – und gegebenenfalls das Passwort.
-Wer nutzt es?
-Die Urfrage aller ernsthaften Politikaktivisten lautet: Wer schreibt das Protokoll?
-Die Piraten beantworten sie ganz einfach mit: wir alle.
-Gibt es Kritik?
-Nur von den-jenigen, die es seltsam finden, wenn in einer Besprechung vor jedem Teilnehmer ein Laptop steht.
-Visualisierungstools
-informationisbeautiful.net
-Was ist das?
-Bürgerbeteiligung übers Netz erfordert den einfachen Zugang zu Informationen, die das öffentliche Leben betreffen.
-Verschiedene Programme helfen dabei, große Datenmengen so aufzubereiten, dass sie leicht verständlich sind.
-Wie funktioniert’s?
-Das bekannteste Visualisierungswerkzeug ist Google Maps .
-Damit lassen sich etwa Geodaten einfach auf Karten eintragen und im Internet veröffentlichten.
-So werden auch seit 2010 viele Indikatoren aus Studien der Weltbank in das Kartenmaterial eingebunden.
-Auf der Seite many-eyes.com wiederum kann jeder Daten hochladen, sich zwischen verschiedenen grafischen Umsetzungen entscheiden und die Ergebnisse mit anderen diskutieren.
-Datensätze lassen sich mit pipes.yahoo.com zusammenführen.
-Die Online-Anwendung erlaubt es, den Infostrom verschiedener Webseiten nach frei bestimmbaren Kriterien zu filtern.
-Wer nutzt es?
-Aktivisten und Datenjournalisten.
-Gibt es Kritik?
-Ja, wenn eine Infografik hässlich, langweilig oder irreführend ist.
-Dieser Text ist Teil des Freitag-Spezial "Liquid Democracy - eine Anleitung".
-Die weiteren Beiträge:
+Von wegen alternativlos
+Von wegen alternativlos
+Jugend Vieles deutet darauf hin, dass die Kampagne von Bundeskanzlerin Merkel zur Bekämpfung der Jugendarbeitslosigkeit zu einem Enttäuschungsdesaster wird
+Teilen:
+Foto: Sean Gallup / Getty
+Die Duden-Redaktion hat für die nächste Ausgabe den Begriff “MERKELEY“ vorgemerkt.
+“Merkeleyen“ wird danach als politische Handlung definiert, die mit hohen Erwartungen zugleich existenzielle Enttäuschungen produziert.
+Der Begriff entstammt der politischen Kritik an Bundeskanzlerin Merkel und ihrer Arbeits- und Sozialministerin Ursula von der Leyen aus dem Jahr 2013.
+Programmiertes Enttäuschungsdesaster
+Soweit ist es mit dem Duden-Eintrag noch nicht, aber vieles deutet darauf hin, dass die Kampagne der EU und insbesondere von Bundeskanzlerin Merkel zur Bekämpfung der Jugendarbeitslosigkeit zu einem Enttäuschungsdesaster wird.
+Für die Jugendlichen hat Angela Merkel nur Vertröstungen, Kleingeld und die Verheißung auf die Fata Morgana des Wachstums anzubieten.
+Jugend auf die Wartebank – keine aktuellen Hoffnungen.
+Demonstrationen am langen Arm verhungern lassen.
+Die Jugendlichen warten geduldig auf die Übernahme des deutschen Ausbildungssystems 2022, auf eine erfolgreiche Kopie einer deutschen Agenda 2010 und einen monströsen Typ deutscher Arbeitsagentur in südeuropäischen Ländern.
+Für jeden Jugendlichen in Südeuropa gibt es 272 € im Jahr als Förderung – das wirkt fast so wie die Klavierstunden-Förderung von der Leyens.
+272 € pro Nase im Jahr verbunden mit einer unrealistischen Wachstumsphilosophie.
+Von wegen, es dürfe keine „verlorene Generation“ (Merkel) in Europa geben.
+Wir haben zwar Wahlkampf, aber kaum ein Oppositionspolitiker nennt die Merkel-von der Leyen-Politik das, was sie in Wirklichkeit ist: Ein Zerstörungsprojekt von Hoffnungen, das an politischer Verantwortungslosigkeit kaum zu überbieten ist.
+Harte Vorwürfe ziehen die Last von empirischen Belegen nach sich.
+Die sind in der Tat leicht zu haben, auch wenn die säuselnde öffentliche Kritik sonst eher milde ausfällt (“Merkel-Show“).
+Merkel kopflos
+Merkel hat einen inoffiziellen EU-Gipfel zur Jugendarbeitslosigkeit in Berlin veranstaltet.
+Das Thema war zwar kurz zuvor auf der Tagesordnung des Europäischen Rates, der sich mit der “zusätzlichen“ Fördersumme von 6 Mrd. € nur umgeschichteter Haushaltsmittel schmückte.
+Aber Merkel wollte europaweit ihr Image als seelenlose Sparkommissarin abstreifen und sich für eine sonst verloren geglaubte Generation einsetzen.
+Der Webfehler: Sie hatte außer den 272 € und einem daraus mitnichten zu finanzierenden Arbeits- und Ausbildungsplatz einfach nichts zu bieten.
+Merkel verspielte – offenkundig einmal miserabel vorbereitet – das zusätzliche Angebot Deutschlands, durch eine Aufstockung des EU-Fonds sichtbar und wirkungsvoll zu helfen.
+Die Kanzlerin glänzte in fast grenzenloser Ahnungslosigkeit und mit Mutti-Attitüden.
+Ein paar Kreditchen werden es nicht richten.
+Die Kanzlerin ist ja inzwischen sehr geübt in der Übernahme von SPD-Forderungen (“Mietpreisbremse“).
+Sie hätte also durchaus dem eindrucksvollen Plädoyer von Erhard Eppler und Hans-Jochen Vogel (beide SPD) folgen können, die – wie auch einige Wissenschaftler – einen spezifischen deutschen Beitrag forderten (6 Mrd. €).
+Zurecht weist der brillante Ökonom und Politikwissenschaftler Michael Krätke (Universität Leicester) auf die Relationen und Maßstabslosigkeiten hin: 6 Mrd. € nur umgeschichtete EU- Mittel für Jugendliche sind 0,13 Prozent der 4,5 Billionen Euro, die Bankenrettungen seit 2008 verschlungen haben.
+Merkel verschrottet Jugendliche
+Da merkt auch der Nicht-Experte: Bankenrettungen über alles, fast nichts für die konkrete existenzielle Hilfe für Menschen – 5,5 Mio. süd- und mitteleuropäische Jugendliche.
+Von den 20-40 % Kürzungen für Rentner und Sozialhilfeempfänger, von den massiven Einschränkungen im tagtäglichen Gesundheitswesen nicht zu reden.
+Auch nicht zu reden, wie Merkel/Schäuble milde auf Etatkürzungen im Verteidigungshaushalt Griechenlands einwirken – um die Lieferungen europäischer Rüstungsindustrie nicht zu gefährden.
+Und schließlich auch nicht zu reden über die fehlenden Schäuble/Merkel- Bemühungen, europäische Besitzer von Immobilien in Griechenland mit einer behutsamen Häusle-Steuer zu belasten (2-3 Mrd. € Mehreinnahmen).
+Nein, so peinlich-lächerlich-zynisch kann Merkel eine Generation nicht abspeisen, die so viel Kompetenz, Mobilität und Lernbereitschaft hat.
+Merkel verschrottet die junge Generation, statt ihr jenseits ihres eigenen Wachstumsimperativs konkrete Hilfe anzubieten.
+Für die deutsche und europäische Debatte sind deshalb drei jeweils differenziert anzuwendende Alternativstrategien zu buchstabieren: Eine menschengerechte Grundsicherung, ein Mindestlohn jenseits des Hungerlohns und ein Programm „selbstermächtigende Arbeit für gesellschaftlich sinnvolle Arbeit“.
+Der große Vorteil: Die Angst, ins Bodenlose zu fallen, wäre gemildert, konkretes Einbringen von Qualifikationen in Arbeit und Arbeitsplätze möglich – die Ermutigung zum aufrechten Gang.
+Auch Hartz IV könnte in Deutschland Zug um Zug aufgelöst werden, genauer: überflüssig gemacht werden.
+Adieu, Agenda-Repressanda 2010!
+Adieu den schamlosen Repressionen, die über 1 Mio. Hartz IV-Empfängern zusätzliche Kürzungen auferlegten!
+Zunächst eine irrlichternde Vorstellung: Die Bundesagentur für Arbeit wird im Jahr 2019 um 2/3 ihres Personals verkleinert.
+Der deutsche Beitrag zur Aufstockung des EU-Programms gegen Jugendarbeitslosigkeit könnte 15-20 Mrd. € betragen.
+Weniger ist einfach lachhaft.
+Es würde andere europäische Partner zur Solidarität einladen und Vorbild für mehr als Wachstumsanbetungen allein sein – auch für Deutschland.
+Erschreckende und ungerechte Merkel-Nazibilder würden alsbald verschwinden, weil junge Leute ein sicheres Gespür für politische Glaubwürdigkeit haben.
+Nur ein anderer Ansatz eröffnet die Chance, Sozial-, Arbeitsmarkt und Gesellschaftspolitik zu organisieren, die den demokratisch menschenrechtlichen Normen gemäß eine Antwort auf die großen Fragen der Zeit darstellt: das Ende der eindeutig und immer schon dominanten klassischen Erwerbsarbeit.
+Die Bundesrepublik sollte als dominantes EU-Land schon mehr bieten, als nur einsparende Zuchtprogramme und die Beschwörung des heiligen Wachstums und des Wettbewerbs.
+Das schließt natürlich ein, auch über Investitions- und Infrastrukturprogramme zu reden – aber gleichzeitig gilt: ein Notprogramm aufzulegen und dieses mit den südeuropäischen Ländern auf Augenhöhe zu erarbeiten.
+Das, was wir vorschlagen, sind nur erste Schritte.
+Sie müssen jedoch endlich gegangen werden.
+Grundsicherung, die ihren Namen verdient, Schaffung anderer Arbeit und anderer, von den Arbeitenden bestimmte Arbeitsplätze.
+Menschenrechtsgemäße Grundsicherung
+Alle Bürgerinnen und Bürger sollen als gleiche und freie Personen ohne existentielle Ängste leben können.
+Das macht eine notwendige Qualität der gesellschaftlichen Infrastruktur aus.
+Dieses Versprechen kann in einer arbeitsteiligen, mit unvermeidlichen Ungleichheiten versehenen, sich fortdauernd verändernden Gesellschaft nur einigermaßen eingehalten werden, wenn allen Mitgliedern der Gesellschaft eine soziale Basis politisch demokratisch gewährleistet wird.
+Das heißt rechtssicher und ohne Angst vor den wechselnden Klimazonen des eigenen Schicksals.
+Eine solche Sicherung der sozialen Basis, auf der jede und jeder menschenrechtsgemäß gehen kann, muss sich wenigstens durch folgende Kriterien auszeichnen, die für die einzelnen Länder jeweils auszuhandeln sind und hier auf Deutschland bezogen sind:
+Der Sockelbetrag, den jede Person erhält, muss so hoch sein, dass er ein bürgerliches Leben ohne Not gestattet.
+Der Betrag sollte – mit allen Zulagen – um 900 - 1.000 € monatlich für eine Person liegen.
+Es sollte schon mehr als die berüchtigte Sarrazin-Spar-Speisekarte sein, die Bahnfahrt zur 500 km entfernten Freundin müsste ebenso eingeschlossen sein wie ein Konzert von Peter Maffay.
+Die Finanzierung würde sich auf ca.
+25-30 Mrd. € belaufen – eine vergleichsweise bescheidene Summe zur Banken- und Eurorettung.
+Der erheblich über der gegenwärtigen Grundsicherung liegende Sockelbetrag verletzt die persönliche Integrität derjenigen nicht, die ihn beziehen.
+Das ist ein entscheidender Unterschied zu Hartz IV.
+Der individuelle Rechtsanspruch für alle muss verbürgt sein.
+In kleinen sozialen Einheiten, an jedem Ort, in jedem Stadtteil wird der Fond der Grundsicherung öffentlich zugänglich verwaltet.
+Es ist strikt darauf zu achten, dass die basisdemokratische Prägung bleibt.
+Die nötigen Willensbildungs- und Entscheidungsverläufe richten sich von unten nach oben.
+Die Anträge zur Grundsicherung sind auf wenige, leicht überprüfbare Fragen zu beschränken.
+Die Arbeitsagentur wird reduziert.
+Das würde bis zu 10 Mrd. € an Einsparungen pro Jahr ergeben können.
+Erst die Grundsicherung schafft die Voraussetzung der Freiheit von Angst.
+Erst eine solche Freiheit von Angst macht demokratisches Verhalten möglich.
+Selbstermächtigende Arbeitsplätze schaffen!
+Arbeiten bleibt nötig und Arbeit ist füllig vorhanden.
+Ob man in den Bildungsbereich, das riesige Gebiet der Krankenversorgung, den Umgang mit alten Menschen und Leuten ansieht, die nicht für sich selbst sorgen können, ob man den Zustand öffentliche Räume, alle möglichen Infrastruktureinrichtungen betrachtet, überall hallt wie ein stummer Schrei durch die Lande: wir brauchen Menschen, die gesellschaftlich sinnvolle Arbeit tun und das auch wirklich, wirklich wollen.
+Erwerbsfähigen und Erwerbswilligen werden deshalb unkonventionell Arbeitsplätze unterschiedlichen Typs angeboten und diejenigen, die brach liegende Arbeit tun wollen, können sich selbst einen Arbeitsplatz entlang ihren Qualifikationen, Motivationen und Möglichkeiten selbstermutigend suchen.
+Arbeitsmarkt von unten
+Bürgerinnen und Bürger bestimmen über ihre Erwerbstätigkeit in Inhalt und Form, nicht primär ein vermachtet unberechenbarer Markt und eine kafkaesk verstellte und züchtigende Bürokratie.
+Ein großes Spektrum von Arbeitschancen dehnt sich attraktiv.
+Diejenigen, die sich selbst eine Arbeit geben, arbeiten als Betreuer von Alten, von Schülern, von Behinderten und Kindern.
+Als Stadtteilhelferin, Fußball- Fanclub-Begleiterin, Rechercheurin in Forschungsprojekten, Fliegende Cafe-Dienstleisterin, Märchenerzählerin für Kinder, Festivalhelfer, Ökologieassistenten, City-Cleanern, Lehrerassistenten, Quartiersmanagerin und Musikassistentin, Bürgeraktivistin und Demokratielotse, Bürgerrechtler und Energieberater, Alternativgärtner und Gruppenleiter gegen Männergewalt, Assistent für Kinder- und Jugendrechte.
+Die neuen Arbeitnehmleute finden, erfinden, wählen und suchen ihre Arbeitsplätze.
+Sie haben die Wahl.
+Sie schließen mit einem demokratisch legitimierten Lokalgremium einen Arbeitsvertrag über Teil- oder Vollarbeitszeit, der zunächst auf drei Jahre begrenzt ist.
+Die Arbeitsverträge müssen einigen Minima entsprechen.
+Die Arbeit ist so zu entgelten, dass der Lohn der Arbeit erheblich über der Grundsicherung liegt.
+Das Programm will arbeitslose oder schlecht beschäftigte Personen ermutigen.
+Sich selbst etwas zu trauen, selbst nach Arbeit zu suchen und Neugier auf möglicherweise ungewohnte Tätigkeitsfelder zu entwickeln.
+Wenn diejenigen, die gesellschaftlich entlohnte Arbeit suchen, selbst aktiv werden - das ist unsere Annahme -, dann werden ihre erfolgreichen Beispiele andere mitziehen.
+Die Arbeitslosen, die sich dann Arbeit selbst nehmen, motivieren und mobilisieren sich und andere.
+Das geschieht im Gegensatz zu den heutzutage lähmenden und isolierenden Effekten der Arbeitslosigkeit.
+Nicht der Humbug von "Ich-AGs", Ein-Euro-Jobs und der stressreich zusammengesuchten Mini-Jobs sind die Alternative.
+Selbstbestimmte und selbstermutigendes Arbeiten des aufrechten Gangs sind es.
+Jahrelange Erfahrungen mit Erwerbslosen-Initiativen zeigen: die große Mehrheit hat sehr wohl positive Vorstellungen von einer identitätsstiftenden Arbeit.
+Der Arbeitsvertrag wird zur Regelungsinstanz dieses Projekts.
+Werden sich, herkömmlich gesprochen, "Arbeitgeber" und "Arbeitnehmer" einig, dann ist der Arbeitsplatz gegeben.
+Auch das wird nicht alles einfach werden, vor allem für diejenigen, die sehr lange ohne Erwerbsarbeit sind.
+Aber andererseits: bisher gab es nie eine größere Chance, sich und seine Qualitäten ernst zu nehmen und sie zu verwirklichen.
+Stufen der selbstorganisierten Arbeitsplätze
+Zwei Stufen dieses Programms öffentlichen Arbeitsangebots zu verwirklichen, sind vorgesehen:
+Erste Stufe
+Erwerbslose probieren bei vollem Gehalt für drei Monate einen Arbeitsplatz aus.
+Darüber hinaus erhalten sie einen Qualifikationszuschuss.
+Mit dessen Hilfe können sie sich beraten und von verschiedenen Beratungsagenturen unterstützen lassen (“Lotsenphase“).
+Zweite Stufe
+Auf drei Jahre begrenzt werden in der ersten Etappe öffentliche Mittel zur Verfügung gestellt, um in den Beruf einzusteigen.
+Wir sind optimistisch dass sich diese unkonventionellen Prozesse, ein Tätigkeitsfeld zu finden, rasch dynamisch entwickeln.
+Der Bedarf ist so groß, wie die qualifizierte Nachfrage.
+Jede Umfrage unter Erwerbslosen und Sozialhilfeempfängern informiert darüber, dass diese gut wissen, was sie gerne arbeiteten.
+Modellprojekte für Jugendliche, die ihre Arbeit selbst suchen konnten, sind erfolgreich verlaufen (in Berlin und Thüringen).
+Unser Projekt, Arbeit lohnend zu machen, die gesellschaftlich im Überfluss vorhanden ist, besitzt einen "Hauch von Anarchie".
+Bürgerinnen und Bürger machen endlich selbst das, was sie bedürfen.
+Die Ansprüche ökonomischer Regulierung oder politischer Steuerung werden aufgegeben.
+Niemand kann vorweg sagen, was am Ende herauskommen wird, wie viele Erwerbslose im Handwerk, dem Stadtteilquartier oder einer gemeinnützigen Organisation landen.
+Nichts wäre politisch erfolgreicher als eine solche Vielfältigkeit.
+Aber das wird der Grund sein, warum die Bundesagentur alles aufbieten wird, um ein solches Großprojekt zu verhindern.
+Sie würde in Teilen überflüssig.
+Alles andere als beliebig.
+Wir sehen keinen Jahrmarkt der Möglichkeiten vor, auf dem unverbindlich gehandelt wird.
+Der zentrale Impuls besteht darin, Menschen mit ihren Qualifikationen, Motivationen und Möglichkeiten ernst zu nehmen: Sie sollen selbst zum Initiator und ausführenden "Organ" ihres eigenen Programms werden.
+Damit der Eigeninitiative angemessen entsprochen werden kann, sind einige Beschränkungen und Präzisierungen des Vorhabens angezeigt.
+Öffentliche und private Schwerpunkte sind festzulegen, bei denen ein hoher gesellschaftlicher Bedarf unterstellt werden kann.
+Kommunale Einrichtungen sind vorzusehen, die solche Bereiche gesellschaftlichen Bedarfs öffentlich vorschlagen.
+Den Kommunen sollte eine vermittelnde Schlüsselrolle zufallen, ohne sie zur neuen Zentralinstanz zu machen.
+Um den Missbrauch im wirtschaftlichen Bereich einzuschränken, sind Mittel- und Großunternehmen auszuschließen.
+Es ist finanzierbar - und zwar sofort als Modellprojekt Berlin, Barcelona, Athen, Lissabon, Mailand, Budapest.
+Wer soll das bezahlen?
+Wie hoch die Kosten sein werden, lässt sich vorweg nicht genau voraussagen.
+Klar ist, es darf kein kleinteiliges Modellprojekt sein, das man nach drei Jahren abbricht.
+Ein Modellprojekt für Berlin und südeuropäische Städte für jeweils 200.000 – 300.000 Menschen könnte sinnvoll sein und hätte mutmaßlich eine hohe Akzeptanz bei den Bürgermeistern.
+Wenn diese im Durchschnitt Verdienste hätten, die mindestens 3.000 - 5.000 Euro im Jahr über der Grundsicherung lägen, dann sind 1 – 2 Mrd. Euro jährlich öffentlich aufzubringen.
+Eine spätere Ausweitung auf die Republik hätte natürlich ihre erheblichen Kosten.
+Auch das wäre im Vergleich zu den steuerlichen Kosten der Finanzmarktkrise und der Bankenrettung ein kleiner Betrag.
+Gewiss ist, dass die Kosten erheblich geringer sein werden, als diejenigen, die rund um die Arbeitslosigkeit anfallen.
+Arbeit der neuen Vielfältigkeit ist selbst rechnerisch das mit Abstand wohlfeilste Politikvorhaben.
+Gegenwärtig flössen fast 40 % der Ausgaben durch Steuern, Sozialbeiträge, Mehrwertsteuern u.ä.m.
+wieder in irgendeiner Form an die öffentlichen Haushalte zurück.
+Abbau von Arbeitsmarkt- und Sozialverwaltungen
+Die Arbeitsagenturen sind ebenfalls neu zu denken.
+Bei unseren Vorschlägen geht es primär um Phantasie, Kreativität und Beratung.
+Dies können die Arbeitsagenturen ohnehin schlecht leisten.
+Dafür sind sie einfach nicht musikalisch.
+Als eine der wenigen Aufgaben bliebe ihnen die förmliche Prüfung der neuen Arbeitsverträge.
+Der mittelfristige Einspareffekt könnte bei jährlich mehreren Mrd. Euro liegen.
+Hinzu kämen der Abbau und Umbau von Beratungseinrichtungen der Kommunen, Wohlfahrtsverbände und Kirchen, die von diesem Projekt insgesamt erheblich profitieren könnten.
+Tafeln und die Bundesagentur für Arbeit können zum Teil schließen
+Wenn unsere Argumentation aber auch nur einigermaßen plausibel ist, wären die grundgesicherten Bürgerinnen und Bürger in einer Verfassung, die eine Tafel- und Suppenküchen-Versorgung weitgehend überflüssig macht.
+Sie würden ihre Berechtigung vermutlich nicht einbüßen.
+Sie würden – so wie es ursprünglich gedacht war – zu einer Art Notfallversorgung.
+Nach 20 Jahren Tafeln und einer Versorgung von 1,5 Mio. Menschen ist eine gründliche Kurskorrektur überfällig.
+Bei unseren Vorschlägen würde der Bundesagentur für Arbeit und den Optionskommunen in einer 10- jährigen Perspektive teilweise das „Aus“ drohen.
+Wir reduzieren bürokratische Herrschaft, entziehen ihr eine Definitionsmacht, die Menschen in Ängste und oft in Verzweiflungstaten bis zu nachweisbaren Selbstmorden gestürzt hat.
+Die intendierte Auflösung der bürokratischen Herrschaft wird das Machtinteresse an sich selbst mobilisieren.
+Herr Weise wird um seine bürokratische Herrschaft kämpfen.
+EU-Mittel für die Aufstockung der Mindestlöhne
+Die EU müsste als erste Not-Maßnahme mit erheblichen Milliarden Euro die Mindestlöhne pro Stunde von denjenigen südeuropäischen Ländern aufstocken, die nicht menschenrechtlichen Mindeststandards entsprechen: Spanien 3,91 €, Griechenland 3,35 €, Portugal 2,92 €, Polen 2,21 €, Bulgarien 0,96 € und Rumänien 0,92 € - zunächst in einem ersten Schub für die erwerbslosen Jugendlichen und für diejenigen, die im Niedriglohnsektor so wenig verdienen, dass sie davon nicht leben können.
+Die EU-Dämmerung verfehlter, einäugiger Spar- und Zurichtungspolitik ist offenkundig.
+Wenn Menschen und Demokratie gewinnen könnten – wäre das für Europa ein großes Hoffnungszeichen.
+Wenn Merkel und von der Leyen sich selbst und Europa ernstnehmen, dann ist mehr gefordert, als sich auf dem EU-Gipfel gezeigt hat: ein Hoffnungsprogramm für die europäische Jugend.
+Peter Grottian ist ein deutscher Sozialwissenschaftler und politischer Aktivist des linken Spektrums
+Teilen:
