@@ -49,13 +49,17 @@ def read_csv(path):
 def merge_to_corpus(rows, prefix):
     corpus = [] 
     l = len(rows)
+    token_cnt = 0
     printProgressBar(0, l, prefix = prefix, suffix = 'Complete', length = 50)
     for i, row in enumerate(rows):
         with open(row[0]) as f:
             content = [x.strip('\n') for x in f.readlines()]
-            corpus.append(word_tokenize("\n".join(content)))
+            tokens = word_tokenize("\n".join(content))
+            token_cnt += len(tokens)
+            corpus.append(tokens)
             # Update Progress Bar
             printProgressBar(i + 1, l, prefix = prefix, suffix = 'Complete', length = 50)
+    print(token_cnt, 'tokens read\n')
     return corpus
 
 
@@ -68,13 +72,6 @@ if __name__ == "__main__":
     left_wing_corpus = merge_to_corpus(left_wing_train, 'Tokenizing left-wing:')
     right_wing_corpus = merge_to_corpus(right_wing_train, 'Tokenizing right-wing:')
 
-    # Calculate the best bigrams
-    print("\nCalculating left-wing bigrams")
-    left_finder = BigramCollocationFinder.from_documents(left_wing_corpus)
-    print("Calculating right-wing bigrams")
-    right_finder = BigramCollocationFinder.from_documents(right_wing_corpus)
-    
-
     # Ignoring too common or unwanted words
     ignored_words = nltk.corpus.stopwords.words('german')
     ignored_words.extend(["junge", "freiheit", "www.jungefreiheit.de", "co."])
@@ -83,14 +80,26 @@ if __name__ == "__main__":
     bigram_measures = BigramAssocMeasures() 
     word_filter = lambda w: len(w) < 3 or w.lower() in ignored_words
 
+    # Calculate most common bigrams
+    print("\nCalculating left-wing bigrams")
+    left_finder = BigramCollocationFinder.from_documents(left_wing_corpus)
     left_finder.apply_freq_filter(MIN_FREQ)
     left_finder.apply_word_filter(word_filter)
+    print(left_finder.nbest(bigram_measures.likelihood_ratio, 10), '\n')
+
+    print("Calculating right-wing bigrams")
+    right_finder = BigramCollocationFinder.from_documents(right_wing_corpus)
     right_finder.apply_freq_filter(MIN_FREQ)
     right_finder.apply_word_filter(word_filter)
+    print(right_finder.nbest(bigram_measures.likelihood_ratio, 10), '\n')
 
-    # Show most common extracted bigrams
-    print(left_finder.nbest(bigram_measures.likelihood_ratio, 10))
-    print()
-    print(right_finder.nbest(bigram_measures.likelihood_ratio, 10))
-    
+    # Calculate most common unigrams
+    print("Calculating left-wing unigrams")
+    left_wing_tokens = [item for sublist in left_wing_corpus for item in sublist]
+    left_wing_fdist = nltk.FreqDist(left_wing_tokens)
+    print(left_wing_fdist.most_common()[:10], '\n')
 
+    print("Calculating right-wing unigrams")
+    right_wing_tokens = [item for sublist in right_wing_corpus for item in sublist]
+    right_wing_fdist = nltk.FreqDist(right_wing_tokens)
+    print(right_wing_fdist.most_common()[:10], '\n')
