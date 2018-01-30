@@ -1,0 +1,15 @@
+© JUNGE FREIHEIT Verlag GmbH & Co.
+www.jungefreiheit.de    29/00 14. Juli 2000
+ 
+Hoaxes
+Erol Stern
+Ich bin sicher, auch Euch sind sie schon einmal begegnet: Beim     Abfragen Eurer E-Mail war die eine oder andere Viren-Warnung dabei.
+In der Regel enthalten     diese E-Mails den Aufruf, den Inhalt an alle Freunde, Bekannten und Kollegen     weiterzuleiten.
+Der größte Teil dieser Meldungen sind mittlerweile "Hoaxes",     also kettenbriefartige Falschmeldungen.
+Praktisch jeder E-Mail-Nutzer kann Hoaxes ohne     jegliche Programmierkenntnisse aufsetzen.
+Zumeist gibt der Initiator als Referenz     irgendeine Behörde, Universität, namhafte Internet- und Computerfirmen oder Institute     an.
+Erklärungen technischer Art erfolgen meist in englischem "Fachchinesisch",     erweisen sich aber bei genauerem Hinsehen für technisch Involvierte als Nonsens.
+Spätestens seit dem Medienrummel um den "I love you"-Virus sind die meisten     Anwender stark verunsichert.
+Fakt ist, daß eine reine Textnachricht keinerlei Gefahr für     Soft- oder Hardware darstellen kann.
+Hängt jedoch eine Datei an einer E-Mail, so sollte     man sie nur öffnen, wenn sie aus einer vertrauenswürdigen Quelle stammt, insbesondere,     wenn der Anhang eine Batchdatei oder ein Programm ist (also auch die beliebten     Flash-Filmchen).
+Kurios ist nun, daß die Falschmeldung quasi den eigentlichen     "Virus" darstellt, da die Nachricht in Windeseile verbreitet wird und das     entsprechende Datenaufkommen so manchen Server ausbremsen kann, warnt Euer Erol Stern

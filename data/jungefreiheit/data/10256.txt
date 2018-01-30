@@ -1,0 +1,62 @@
+© JUNGE FREIHEIT Verlag GmbH & Co.
+www.jungefreiheit.de 03/18 / 12. Januar 2018
+Der Goldrausch trδgt bizarre Blόten
+Kyptowδhrung Bitcoin: Die Blockchain bietet ein enormes Potential, aber diese Blase kann auch schnell platzen / Sinnvolle Anwendungen?
+Henning Lindhoff
+Bitcoin ist in aller Munde.
+Der Kurs der Kryptowδhrung explodierte 2017 um όber 1.300 Prozent und stand nach einer wilden Achterbahnfahrt am Dienstag mittag bei 12.342 Euro.
+Vor einem Jahr wurde ein Bitcoin noch mit unter 800 Euro notiert.
+Ist das noch ein gesundes Wachstum?
+Oder eine neue groίe Finanzblase?
+Erinnerungen werden wach an die New-Economy-Blase zur Jahrtausendwende.
+Im Internet toben Scharmόtzel zwischen meist jungen, wilden Bitcoin-Apologeten  nicht wenige von ihnen sind dank der jόngsten Kursexplosionen bereits zu Krypto-Millionδren aufgestiegen  und erfahrenen Investoren, die dem neuen Hype um Bitcoin, Cardano, Litecoin, Monero, Neo, Ripple & Co.
+skeptisch gegenόberstehen.
+Langfristig paίt sich der Kurs seinem Wert an
+In den Augen letzterer steht der Bitcoin-Kurs kurz vor seinem Zenit, die Blase unmittelbar vor dem Platzen.
+Sie sagen, hinter Bitcoin und den anderen, auf den ersten Blick recht δhnlichen, Kryptowδhrungen stehe kein echter Wert.
+Der Hype sei errichtet worden auf den Luftschlφssern der Trδumer und der Gier der Spekulanten.
+Auf der anderen Seite pochen die Krypto-Anhδnger auf die Vorzόge einer schφnen neuen dezentralisierten Welt.
+Sie versprechen Freiheit von Politikern, Unabhδngigkeit von Zentralbanken und letztlich finanzielle Freiheit fόr jeden, der nur schnell genug auf ihren Zug aufzuspringen vermag.
+Doch die Wahrheit ist nicht schwarz, nicht weiί.
+Um der Farbnuance etwas nδher kommen zu kφnnen, bedarf es der Erinnerung an die Lehre vom Wert und dem Preis.
+Jede Form von Geld zieht ihren Wert aus Vertrauen der Nutzer in Institutionen wie dem Staat oder der Zentralbank.
+Der Wert einer jeden Wδhrung, deren Tauschwert nicht exakt ihrem materiellen Wert entspricht (wie Gold, Silber oder Kupfer), lautet Vertrauen.
+Erst kollektives Vertrauen bei Bόrgern wie Unternehmen schafft dauerhafte und stabile Wertvorstellungen.
+Der Prozeί der Vertrauensbildung und Adaption dauert viele Jahre und hat mit Widerstδnden und Rόckschlδgen zu kδmpfen.
+Im Gegensatz zu Dollar, Euro, Franken oder Yen wird bei den Kryptowδhrungen allerdings das Vertrauen der Nutzer in die Institutionen (Bank, Staat) ersetzt durch das Vertrauen in eine Liste aus Blφcken von Computer-Datensδtzen (Blockchain) und deren Berechnungsalgorithmen.
+Entkoppelt vom Faktor Vertrauen und mit einem Blick auf die materielle Komponente, ergibt sich noch ein etwas anderes Bild.
+Zentralbankgeld ist  spδtestens seit der Aufhebung des Goldstandards  maximal durch den Wert des Papiers, auf das es gedruckt ist, gedeckt.
+Wer 1914 seine 20-Goldmark-Mόnze mit dem Kaiserportrδt nicht fόr Papiergeld hergab, der hat seinen Ururenkeln 300 Euro hinterlassen.
+40 Mark betrug damals der Wochenlohn eines Poliers  heute sind es netto 600 Euro.
+Ein Groίteil der Kryptowδhrungen hingegen hat immerhin einen hohen Herstellungswert.
+Dabei werden die sogenannten Miner fόr die Bereitstellung ihrer Computerrechenleistung fόr das Netzwerk mit der Ausschόttung neuer Einheiten der Kryptowδhrung belohnt.
+Der Herstellungswert der Kryptowδhrung entspricht auf diesem Weg der erbrachten Rechenleistung.
+Verglichen mit dem theoretisch in beliebiger Hφhe druckbaren Geld ohne inneren Wert (Fiat money) ist dies ein deutlich kostenintensiverer Prozeί, zumal Geldmengenausweitungen, wie sie bei einer Zentralbank mφglich sind, im Bitcoin-Φkosystem nicht denkbar sind.
+Bitcoin ist auf 21 Millionen Mόnzen begrenzt.
+Auch das Schόrfen der Blφcke kann nicht einfach beschleunigt werden.
+Durch diese festgelegten Limitierungen bleibt Bitcoin knapp, was sich wiederum positiv auf die Wertstabilitδt auswirkt.
+Gerade der kosten- und energieintensive Transaktionsprozeί ist aktuell das groίe Manko der Technologie.
+Auίerhalb der eigentlichen Blockchain werkeln daher Programmierer eifrig am Lightning Network, das mittelfristig die grφίten Schwδchen des neun Jahre alten Bitcoin ausmerzen und den Weg in Richtung einer anwendungsorientierten Zukunft ebnen soll.
+Die neue Technologie soll eine Million Transaktionen pro Sekunde ermφglichen und damit 15mal schneller sein als das Visa-Kreditkartensystem.
+Zudem sollen die Gebόhren deutlich sinken, die aktuell bei sage und schreibe 40 Dollar im Durchschnitt liegen.
+Bitcoin will Wδhrung sein und wird als solche wahrgenommen.
+Aber Wδhrung ist nur eine mφgliche Anwendung der Blockchain-Technologie.
+Fόr die Zukunft wird an vielen weiteren Diensten gearbeitet, bei denen die Frage der Zentralisierung zur Disposition steht: Benφtigen wir zentrale staatliche Stellen zur Dokumentation von Eigentum und Besitz?
+Zur Verifizierung von Identitδten?
+Zur Rechtevergabe und Lizenzierung?
+Kφnnte ein dezentrales Netzwerk Patente und geistiges Eigentum schόtzen?
+An solchen und vielen weiteren womφglich wertstiftenden Anwendungen arbeitet eine Vielzahl von groίen und kleinen Start-ups.
+In sogenannten ICOs (Initial Coin Offerings  δhnlich einer Erstausgabe von Aktien) bieten sie einen mehr oder weniger groίen Teil ihrer eigens kreierten digitalen Mόnzen potentiellen Kδufern an.
+ICOs dienen einem wertvollen Zweck, solange sie legitim und nicht betrόgerisch verwendet werden.
+Steht hinter einer solchen Kapitalbeschaffungsmaίnahme allerdings kein echter Anwendungsfall, das heiίt kein Problem, das wirklich durch eine Blockchain gelφst werden kφnnte, ist grφίte Vorsicht angebracht.
+Auf dem Weg zum echten Mehrwert όbernimmt Bitcoin selbst nur die Rolle des Wegbereiters.
+Ihm sind bereits zahlreiche schnellere, effizientere anwendungsorientierte Blockchains auf der Spur.
+Vielversprechende Kandidaten wie IOTA, Ethereum oder Litecoin haben es sich zum Ziel gesetzt, das Fundament des Internet of Things zu bauen, Computerprogramme in der Blockchain laufen und Netzwerke noch sehr viel schneller arbeiten zu lassen.
+Leider sind viele ICOs bis dato schlecht strukturiert und δhneln eher Betrugsversuchen als legitimen Projekten.
+Aus Angst, zuwenig Rendite zu machen, wird die Einschδtzung echter Werte gar nicht erst in Betracht gezogen.
+Das phantastischste Projekt ist gerade gut genug.
+Das Rendite-Risiko-Profil ihrer Investoren ist abenteuerlich.
+Die Skeptiker kφnnten aus diesem Grund recht behalten.
+Die zahlreichen Erinnerungen an die Tulpenblase 1636/37 und die Dotcom-Blase 2000 scheinen durchaus angebracht.
+Die Blockchain bietet ein enormes Potential, doch wenn die aufstrebenden Krypto-Unternehmen und Blockchain-Entwickler keinen echten Anwendungsfall kreieren, wenn sie keine echten Probleme lφsen, dann wird diese Blase schneller platzen, als so manchem Jungmillionδr lieb sein kann.
+Bitcoin Deutschland AG:

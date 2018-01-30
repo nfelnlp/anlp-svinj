@@ -1,0 +1,46 @@
+© JUNGE FREIHEIT Verlag GmbH & Co.
+www.jungefreiheit.de 03/16 / 15. Januar 2016
+Perfektionierte Schöpfung
+Neue gentechnische Verfahren erlauben präzise Eingriffe ins Erbgut / Heilung für Krebs und Alzheimer?
+Christoph Keller
+Es kommt selten vor, daß einem Wissenschaftsredakteur in der FAZ der Leitartikel überantwortet wird.
+In der Ausgabe vom 5. Dezember aber erhielt Joachim Müller-Jung diese seltene Gelegenheit, um unter dem raunenden Titel Dunkle Macht im Genlabor auch die eher politisch interessierte Leserschaft mit biomedizinischen Fortschritten vertraut zu machen, die als Revolution der Mikrobiologie zu unabsehbaren gesellschaftlichen Konsequenzen führen könnten.
+Während sich die meisten Medien auf den Pariser Weltklimagipfel (COP 21) konzentrierten (JF 50/15), verfolgte der Frankfurter Diplombiologe den von den Nationalakademien der USA, Großbritanniens und Chinas ausgerichteten Weltgipfel der Gentechnik.
+Drei Tage lang beschäftigten sich Mediziner, Biologen und Juristen auf dem International Summit on Human Gene Editing in Washington mit der Frage, ob es ethisch erlaubt sei, das Genom des Menschen mittels einer neuen genchirurgischen Technik zu manipulieren.
+Schöpfungskorrekturen mit Schweizer Taschenmesser
+Ausgangspunkt für die Kontroverse ist eine Entdeckung, die 2012 der in diesem Herbst als Nobelpreiskandidatin gehandelten französischen Mikrobiologin Emmanuelle Charpentier gelang.
+Zusammen mit der US-Strukturbiologin Jennifer Doudna (University of California, Berkeley) präsentierte die jetzige Direktorin am Max-Planck-Institut für Infektionsbiologie (Berlin) damals in Science anhand der Virenabwehr des Eiter-Bakteriums Streptococcus pyogenes analysierte Methoden, um gezielt ausgesuchte Gene zum Schweigen zu bringen, wie es die Wissenschaftsjournalistin Judith Rauch plastisch ausdrückt (Bild der Wissenschaft, 10/15).
+Unter der Abkürzung Crispr (Clustered Regularly Interspaced Short Palindromic Repeats) beschrieben Charpentier und Doudna Genomsequenzen, die Bakterien zur Abwehr von Viren dienen.
+Diese Fragmente viraler DNA werden auf natürlichem Weg in ein Bakteriengenom integriert und in Ribonukleinsäure (RNA) übersetzt.
+Die RNA-Fragmente wiederum binden dann an Cas-Proteine (Crispr-associated) an.
+Kommt es zum Kontakt mit komplementärer Virus-DNA oder RNA, zerstört das Cas-Protein das virale Genmaterial, so daß sich das Virus nicht vermehren und ausbreiten kann.
+Biomedizinisch von markanter Bedeutung ist das Protein Cas9, weil es die DNA-Doppelhelix schneidet.
+Kombiniert mit einem synthetischen RNA-Molekül erkennt es Sequenzen im Genom und entfernt sie mit hoher Präzision.
+An der Schnittstelle können dann andere DNA-Sequenzen ins Genom integriert werden.
+Damit, so hieß es in ersten Reaktionen auf den Science-Artikel von Charpentier und Doudna, habe man ein Schweizer Taschenmesser für die Gentechnik in der Hand.
+Die Pointe des Verfahrens liegt in seiner universalen Anwendbarkeit.
+Crispr-Cas9 funktioniert nicht nur im Immunsystem des Eiter-Bakteriums, sondern ist in jedem Organismus einsetzbar, um beliebige Abschnitte der Erbsubstanz DNA zu finden, zu zerschneiden und umzuschreiben.
+Für viele Nichtnaturwissenschaftler Grund genug, vor einem Alptraum zu warnen, da Crispr für gezielte Eingriffe in die Schöpfung (Müller-Jung) stehe.
+Ganz anders sah das die internationale Gemeinschaft der Lebenswissenschaftler, für die ein Märchen wahr zu werden schien.
+Denn im Anschluß an Charpentier und Doudna stieg die Zahl der Veröffentlichungen auf diesem bis dahin eher vernachlässigten Forschungsfeld von 79 (2011) auf 587 (2014) Artikel.
+2015 wurde die 1.000er-Marke locker übersprungen.
+Daß es dabei auch um sehr viel Geld geht, beweist ein von Judith Rauch erwähnter Patent-Streit, den Charpentier und Doudna gerade mit dem Biomediziner Feng Zhang vom Broad Institute of MIT and Harvard ausfechten.
+Die US-Patentbehörde hatte Zhang 2014 eilig ein Patent für ein Verfahren erteilt, mit Crispr Gene höherer Organismen umzuschreiben  obwohl es sich nur um eine Variation des von Charpentier und Doudna entdeckten, genchirurgisch nutzbaren Abwehrmechanismus handelte.
+Da jede Partei an Biotech-Firmen beteiligt ist, gibt der Streit einen ersten Vorgeschmack auf die ökonomisch motivierten Auseinandersetzungen, in die das Schweizer Taschenmesser die scientific community demnächst verwickeln dürfte.
+Fragen nach den Grenzen der Wissenschaftsfreiheit
+Noch stehen allerdings rein wissenschaftliche Probleme im Vordergrund der Crispr-Debatte.
+Die wird seit dem Frühjahr dieses Jahres von weitgehend mißglückten Experimenten an der Sun-Yat-sen-Universität in Kanton (Guangdong) dominiert.
+Dort wollten chinesische Biomediziner das Erbgut von 86 nicht entwicklungsfähigen Embryonen mit der Cas9-Methode verändern.
+Es glückte jedoch nur bei vier Embryonen, ein schadhaftes Gen, das zur Mittelmeeranämie (Thalassämie/erbliche Blutkrankheit) führt, zu reparieren, während es bei 28 Embryonen sogar zu unbeabsichtigten Korrekturen des Erbguts kam.
+Womit die mangelnde Praxistauglichkeit des Gen-Editing und das hohe Risiko solcher Keimbahneingriffe plötzlich ebenso auf den Prüfstand kamen wie die Frage nach den Grenzen der Wissenschaftsfreiheit.
+Um Chancen und Grenzen dieses Verfahrens ging es denn auch bei dem hochkarätig besetzten Workshop Genomchirurgie: Keimbahntherapie beim Menschen?, das die Brandenburgische Akademie der Wissenschaften im November in Berlin veranstaltete (Deutsches Ärzteblatt, 49/15).
+Einig war sich die Elite der deutschen Mediziner und Biologen nur in der Einschätzung der Crispr-Technologie in der Pflanzenzüchtung und in der etablierten Biotechnologie.
+Hier sei sie als ethisch und rechtlich unbedenklich zu werten.
+Ansonsten würde der chinesische Fehlschlag die Weisheit des deutschen Gesetzgebers bestätigen, der Keimbahn­interventionen und die Verwendung veränderter Keimzellen zur Befruchtung nach Paragraph 5 des Embryonenschutzgesetzes (ESG) schlicht verbiete.
+Hindernisse, um die internationale Forschungsdynamik zu drosseln, stellen solche juristischen Hürden jedoch nicht dar, zumal, wie der Medizinrechtler Jochen Taupitz einwarf, selbst ESG-Auslegungen für Crispr Türen öffnen.
+Nicht einmal zum freiwilligen Moratorium können deutsche Spitzenforscher ihre ausländischen Kollegen bewegen.
+Zu verlockend ist die Aussicht, durch Erbgutveränderungen nicht nur Krebs oder Alzheimer zu eliminieren, oder den durchschnittlichen Intelligenzquotienten anzuheben, sondern auch künftige Generationen derart zu perfektionieren.
+So blieb den Workshop-Teilnehmern am Ende nur die Hoffnung, daß nicht nur die chinesischen Crispr-Ingenieure ihre heillosen Versprechen vorerst nicht einzulösen vermögen.
+Emmanuelle Charpentier am Max-Planck-Institut für Infektionsbiologie:   mpg.de
+A Programmable Dual-RNA  Guided DNA Endonuclease in Adaptive Bacterial Immunity in Science 2012, Vol.
+337/6096, S. 816-821: sciencemag.org/

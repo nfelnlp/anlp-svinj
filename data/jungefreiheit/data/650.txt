@@ -1,31 +1,21 @@
 © JUNGE FREIHEIT Verlag GmbH & Co.
-www.jungefreiheit.de    37/97  05. September 1997
- 
-Pay-TV: Technischer Fortschritt als Groschengrab
-Teure Alternative
-von Toni Fischer
-Digitales Pay-TV, Decoder,      Pay-per-view-Kanäle, Interaktives Fernsehen, Teleshopping  vielen Lesern werden      diese Ausdrücke in der Werbung, aber auch jüngst in der Berichterstattung zu der      Internationalen Funkausstellung begegnet sein.
-Weniger vertraut sein dürften jedoch die      Hintergründe und Zusammenhänge dieser technischen Neuentwicklung und deren Auswirkungen      auf unsere Gesellschaft und unser Kommunikationsverhalten.
-In die Wege geleitet wird diese      Veränderung durch zwei Neuerungen: Dem Digitalen Fernsehen und dem Pay-TV.
-Die digitale Ausstrahlung von Fernsehprogrammen ermöglicht      (im Gegensatz zum analogen Verfahren) eine schnellere sowie komplexere Bildbearbeitung und      -steuerung bei gleichzeitig höherer Qualität  ein Quantensprung in der Television.
-Über einen Fernsehkanal lassen sich so gleichzeitig mehrere Programme übertragen.
-Eine      Auswahl von künftig möglicherweise über 100 Programmen ist durch herkömmliche Werbung      oder Rundfunkgebühren allerdings nicht zu finanzieren  dies erfolgt dann durch      "Pay-TV".
-Pay-TV unterscheidet sich vom traditionellen      "Free-TV" dadurch, daß ein einwandfreier Empfang der Programme nur nach      Bezahlung einer besonderen Gebühr möglich ist.
-Diese werden dazu verschlüsselt entweder über Satellit oder ein Kabelnetz in den Haushalt geführt.
-Hier sorgt dann ein      elektronischer Kasten zwischen Empfangsleitung und Fernseher, ein sogenannter      "Decoder" für die Entschlüsselung der Sendung  natürlich nur, wenn die      Gebühr bezahlt ist.
-Da nach neuesten Untersuchungen bereits jetzt schon Kinder eine      durchschnittliche Sehdauer von mehr als zwei Stunden pro Tag haben, läßt sich absehen,      daß der Medienkonsum schon recht bald einen größeren Posten in der privaten      Haushaltsrechnung darstellen könnte.Die Verbindung der Digitaltechnik mit dem Pay-TV      sorgt dann dafür, daß der Konsument die Fernsehgebühr nur für die tatsächlich in      Anspruch genommenen Zeiten bzw. Programmangebote entrichten muß.
-Und daß er  unter      Einbezug entsprechender Steuerungsgeräte  bei laufender Sendung      ("interaktiv") mitbestimmen kann, welches Ende der Held des Aktionsthrillers      findet oder wie die Leistungen einer Game-Show bewertet werden sollen.
-Diese Fernsehform ist natürlich nicht nur für das      Abspielen von Spielfilmen, Shows oder Nachrichtensendungen geeignet, sondern auch für      zahlreiche weitere Anwendungsmöglichkeiten.
-Hierbei ist dem Zusammenwachsen von Computer      und TV und der damit verbundenen Integration des Internets eine große Bedeutung      beizumessen.
-Als Folge der technischen Entwicklung kann nämlich auch hier in Deutschland      ein Einkaufspark im digitalen Fernsehmarkt entstehen, mit frei wählbarer Ansicht der      gewünschten Artikel, freundlicher Animation durch exotische Schönheiten und gezielter      Werbung, ja selektierten Spartenkanälen für ein "near Shopping on demand"  dem auch vom Verbraucher gesteuerten Abruf verschiedener Verkaufskanäle, die      einzelnen Produktgruppen gewidmet sind.
-In den USA ist dies teilweise schon mediale      Wirklichkeit: Mit einem direkten Rückkanal wird die Kauforder des Verbrauchers gleich in      die Lieferzentrale des Versandhauses übermittelt  in naher Zukunft vielleicht noch      mit einem kleinen Umweg über das angeschlossene Kreditinstitut zur Authorisierung der      Zahlungsbonität.
-Und da die vom Zuschauer tatsächlich in Anspruch      genommenen Fernsehsendungen ermittelt und gespeichert werden (mit allen denkbaren      Konsequenzen), läßt sich auch ohne weiteres ein detailliertes Verbraucherprofil      erstellen  mit gezielten Werbe-"Mailings": Nicht rückständig als      Briefpost, sondern als interaktive Sendung.
-Wer sich zum dritten Mal "Rambo II" reinzieht, erhält vor dem Happyend rechtzeitig die passende Bodybuilding-Ausrüstung, ein      vitaminreiches Müsli und ultimative Sportdressings angeboten.
-Das Einkaufserlebnis      verlagert sich so vom Laden in das Wohnzimmer.
-In dem Maße nämlich, in dem so neue      Vertriebswege entstehen, werden auch gleichzeitig die herkömmlichen Einkaufsstätten      gefährdet: Die Kaufhäuser und Fachgeschäfte in den Innenstädten, die Vorführsalons      der Autohäuser, der Katalogversandhandel  und der kleine Tante-Emma-Laden nebenan      sowieso.
-Bei der Fernsehwelt der Zukunft geht es so nicht nur um      Einnahmen aus Empfangs- und Fernsehgebühren oder um die Marketingetats für hochbezahlte      Werbespots zur besten Sendezeit.
-Neben dem Geschäft mit den Filmen, Shows und Programmen      und den Gewinnen aus technischen Investitionen (Kabelleitungen, Satellitenstationen oder      die Decodertechnik) bedeutet der Poker um die Senderechte und -plätze der Zukunft auch      den Zugang zu neuen Märkten.
-Gespielt wird hierbei mit hohem Einsatz: Nachdem sich jetzt      der digitale Sender DF 1 des Medienmoguls Kirch (aufgrund massiver Startschwierigkeiten)      mit dem Pay-TV-Sender "Premiere" zusammenschließt, der bereits gegenwärtig 1,5      Millionen Haushalte in Deutschland versorgt, geht die Brance von rund einer Milliarde DM      Verlust für Kirch aus.
-Kirch kann sich allerdings mit der Hoffnung auf gute Geschäfte      mit "Premiere" trösten, gehört er doch zu den Gründern des Handelsriesen      "Metro", der sich viel vom digitalen Fernsehmarkt verspricht.
-Neben der wirtschaftlichen Bedeutung des globalen      Medienpokers dürften die gesellschaftlichen Auswirkungen ebenfalls enorm sein.
-Dabei      dürften soziale Spannungen durch Verlagerungen von Arbeitsplätzen, weitere Reduzierung      von zwischenmenschlichen Kontakten und Verminderung der Kommunikationsfähigkeit noch die      geringsten Probleme darstellen.
+www.jungefreiheit.de    10/99 05. März 1999
+Kolumne:
+Doppel-Religion
+von Peter Sichrovsky
+Deutschlands grün-rote Koalition hat sofort bei Regierungsübernahme erkannt, was das      dringendste Thema für die deutsche Bevölkerung ist: die doppelte Staatsbürgerschaft.
+Die verantwortlichen Minister und der Kanzler haben damit ein Signal gesetzt, die so      wichtigen Probleme wie Arbeitslosgkeit, Wirtschaftskrise, EU-Korruption, Umweltzerstörung      usw. in den Griff zu bekommen.
+Wie man hört, soll auch schon der nächste Schritt zur      politschen Problemlösung in Vorbereitung sein: nach der doppelten Staatbürgerschaft die      doppelte Religionszugehörigkeit.
+Die grünen Minister der Regierungskoalition, die in so      wichtigen Fragen stets eine Vorreiterrolle übernehmen, haben bekanntgegeben, daß die      Präsidenten und Oberhäupter der Religionsgemeinschaften in Deutschland mit einem      strategischen Papier bereits kontaktiert wurden.
+Der Vorschlag sieht vor, daß ein Christ      auch Moslem werden darf, ein Jude auch Buddhist und ein Hindu auch Konfuzianer.
+Mitglieder      kleinerer Gemeinschaften können nur Christen werden.
+Andere Querverbindungen sind nur auf      speziellen Antrag erlaubt, der hinreichend begründet werden muß.
+Die Grünen versprechen sich von der doppelten Religionszugehörigkeit eine      Verminderung der Spannungen, eine Verbesserung des Zusammenlebens, eine schnellere      Integration und letzten Endes das Zusammenleben aller in einer Einheitsreligion.
+Deutschlands Grüne sehen die ideale Gesellschaft mit einer einzigen Religion und einem      einzigen Gott, der dann von der Basis gewählt wird.
+Zu diesem Ziel soll die      Doppel-Religion führen, wofür auch die Gotteshäuser entsprechend umgebaut werden      müssen.
+Die Kirchen bekommen Teppiche für die betenden Moslems, und der Muezzin darf vom      Glockenturm aus die Gläubigen zum Gebet rufen.
+In den Synagogen werden vergoldete Buddhas      aufgestellt und Räucherstäbchen angezündet, damit sich alle wie zu Hause fühlen.
+In      Mischehen lebende Deutsche und natürlich auch Auch-Deutsche bekommen dann einen      besonderen Steuernachlaß, wenn die beiden Partner automatisch mit dem Ehevertrag auch die      Religion des anderen übernehmen.
+Des Menschen Glück  so denken die Grünen für uns  muß diesem erst      einmal erklärt werden.
+Daß je nach Wahlresultat bisher mehr als 90 Prozent der      Bevölkerung dieses "grüne Glück" nicht verstanden haben, ändert nichts an      dem "moralischen" Wert ihrer Forderungen.
+"Moralin"  laut Duden:      eine enge, spießbürgerliche Sittlichkeitsauffassung  kommt allerdings auch von      "Moral" und paßt als eine gesellschaftsfähige Garderobe hervorrragend zu      "Grün".

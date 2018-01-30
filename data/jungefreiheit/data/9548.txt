@@ -1,0 +1,25 @@
+© JUNGE FREIHEIT Verlag GmbH & Co.
+www.jungefreiheit.de 05/16 / 29. Januar 2016
+Zwischen Reichstag und Kanzleramt
+Besser spät als nie
+Elena Hickman
+Deutsche Gründlichkeit und Sorgfalt sind nicht zu unterschätzen.
+Wahrscheinlich hat es deshalb auch ganze acht Monate gedauert, bis sich im Fall der Cyber-Attacke auf den Bundestag jetzt die Karlsruher Bundesanwaltschaft eingeschaltet hat.
+Sie ermittelt wegen geheimdienstlicher Agententätigkeit.
+Daß für den Angriff kein Teenager zuständig war, der aus purer Langeweile Daten des deutschen Parlamentes anzapft, war aufgrund des komplexen Angriffs schnell absehbar.
+Aber wie das in Deutschland üblich ist, soll niemand voreilig zu Unrecht beschuldigt werden, und deshalb gilt wohl auch hier: Besser spät als nie.
+Wie Spiegel Online in der vergangenen Woche berichtete, hat Generalbundesanwalt Peter Frank Ermittlungen gegen Unbekannt aufgenommen.
+Die zur Bekämpfung von Spionagedelikten zuständige Fachabteilung ermittelt wohl schon seit Mitte Januar wegen des Verdachts der geheimdienstlichen Agententätigkeit.
+Deutsche Sicherheitsbehörden vermuten die Urheber des bislang schwersten Hacker-Angriffs gegen das Computer-Netzwerk des Bundestages (Parlakom) in Rußland.
+Allerdings wollte eine Sprecherin der Bundesanwaltschaft nicht mitteilen, ob es inzwischen schon konkrete Spuren zu staatlichen Stellen gibt  etwa zu einem Geheimdienst.
+Währenddessen machen Experten der IT-Sicherheitsfirma Kaspersky Lab die Gruppe Sofacy für die Angriffe verantwortlich.
+Die Hacker-Gruppe würde mit hohem personellen und finanziellen Aufwand arbeiten, einiges deute auf staatlich-finanzierte Attacken hin.
+Außerdem sei die schädliche Software offenbar auf Rechnern mit russischer Spracheinstellung programmiert worden.
+Die Sofacy-Gruppe wird auch für weitere Angriffe auf verschiedene Nato-Staaten, wie auch auf Rüstungsunternehmen (insbesondere aus der Raum- und Luftfahrtbranche) verantwortlich gemacht.
+Im vergangenen Frühling hatten sich Hacker Zugriff zu 14 Bundestagsservern verschafft, einer davon war der Hauptserver mit sämtlichen Zugangsdaten zum deutschen Parlament.
+Das geht aus dem vertraulichen Abschlußbericht hervor, der dem Spiegel vorliegt.
+Als der Angriff Anfang Mai 2015 ans Licht kam, hatten die Hacker bereits 12,5 Gigabyte an Daten erbeutet.
+Später konnten sie weitere 3,5 Gigabyte abzapfen.
+Mit der Klassifizierung geheimdienstliche Agententätigkeit könnte die Regierung einer Aufklärung des Cyber-Angriffs schon etwas näher gekommen sein.
+Damit bis dahin das infizierte Parlakom aber vor weiteren Angriffen geschützt ist, hat der Bundestag vor drei Monaten  also ein knappes halbes Jahr nach dem Angriff  neue Schutzmaßnahmen gegen Hacker beschlossen: Abgeordnete und andere Mitarbeiter des Parlaments sind nun verpflichtet, Paßwörter und PINs mit mindestens acht Ziffern zu benutzen.
+Definitiv ein Schritt in die richtige Richtung, wenn sich auch mancher Experte eine grundlegende Aufrüstung und Umgestaltung der Bundestags-Kommunikationstechnik gewünscht hätte.

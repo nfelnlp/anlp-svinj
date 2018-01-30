@@ -1,0 +1,48 @@
+Nicht nur in Ägypten oder China wird an einer stärkeren  Kontrolle des Kommunikationsnetzes gearbeitet
+Patrick Schmidt
+Die Wahl von Barack Obama wurde auch deshalb als epochal  bezeichnet, weil der US-Präsident angeblich vor allem mit Hilfe der neuen  sozialen Netzwerke wie Facebook oder Twitter aufs Schild gehoben wurde.
+Sicherlich hatten und haben das Internet und mobile Kommunikationsgeräte wie  Multifunktionstelefone (Smart Phones), PDA (Personal Digital Assistant) oder  tragbare Kleinrechner (Netbooks) einen nicht zu unterschätzenden Einfluß speziell auf die jüngere Generation.
+Kriegsentscheidend waren sie angesichts  von Finanzkrise und acht Jahren George W. Bush jedoch nicht.
+Gleiches gilt auch letztlich für die Aufstände in Tunesien  und Ägypten oder die Unruhen im Iran im dortigen Wahljahr 2009, bei denen man im  Westen auch voreilig von Facebook-Revolutionen sprach.
+Die Möglichkeiten der  Meinungsbildung und der schnelle Informationsaustausch mit unzähligen  Multiplikatoren in diesen Netzwerken sind unbestritten.
+Da sie auch zur  kurzfristigen Mobilisierung Tausender Menschen geeignet sind, nutzte China die  Unruhen in der Uiguren-Provinz Xinjiang Anfang 2009 dazu, die Sperrung von  Facebook und YouTube zu begründen.
+Beide US-Internetportale sind seither dort  nicht mehr zu erreichen.
+Neben ökonomischen Gesichtspunkten  etwa das eigene  chinesische Facebook Ren Ren (renren.com) zu fördern  steht der Zensurgedanke  bei der kommunistischen Führung trotzdem deutlich im Vordergrund.
+Doch nicht nur im Reich der Mitte fürchtet sich die  Regierung vor den elektronischen Möglichkeiten des Volkes.
+Auch in den USA und  der EU wird darüber diskutiert, das Internet und das Mobilfunknetz bei einer  angeblichen Bedrohungslage innerhalb kürzester Zeit zu kappen.
+Im Fachjargon  nennt man das Kill Switch (Notausschalter).
+Die ägyptische Regierung brauchte  vorige Woche ganze 13 Minuten, um das komplette Internet im Lande am Nil  lahmzulegen.
+In Österreich will man von den Nachfahren der Pharaonen offenbar  lernen.
+Hier wird schon seit längerer Zeit an einem Internet-Notaus geforscht.
+Ganz offiziell arbeitet ein seit 2008 beim Bundeskanzleramt angesiedeltes  Institut an der Umsetzung dieser Pläne.
+Das Government Computer Emergency  Response Team (GovCERT.at) soll unter anderem Cyber-Attacken auf kritische  Informationsinfrastruktur der Alpenrepublik vereiteln.
+In Deutschland dementierten Bundesinnen- und  Justizministerium Berichte über eigene Kill-Switch-Pläne.
+Gesetzesänderungen im  Rahmen der Anti-Terrorstrategien sprechen auf Länderebene eine andere Sprache:  In Rheinland-Pfalz ist die Polizei künftig im Rahmen der Gefahrenabwehr und  nach richterlichem Beschluß dazu befugt, Mobilfunkverbindungen zu kappen  beispielsweise um das Fernzünden von Bomben zu verhindern.
+Ein bundesweites Not-Aus fürs Internet ist technisch kaum möglich, denn viele der  Internetrechner (Server) stehen im Ausland.
+Zudem würde bei einem totalen Kill  Switch mangels Alternative gleichzeitig die staatliche Kommunikation  zusammenbrechen.
+Selbst die inzwischen gängigen Sperren für unliebsame  Internetseiten lassen sich zumindest von geübten Nutzern unterlaufen.
+In den USA wurde bereits 2010 ein Kill-Switch-Gesetz  (Protecting Cyberspace as a National Asset Act/PCNAA) vorgelegt, das Obama eine ähnliche Befugnis wie Husni Mubarak übertragen würde.
+Es fand zwar bislang keine  Mehrheit im Kongreß, aber einige Senatoren um die Republikanerin Susan Collins  und den früheren Demokraten Joseph Lieberman wollen das PCNAA erneut ins Rennen  schicken.
+Der US-Präsident würde dann über eine eigene Behörde eine spezielle  Infrastruktur schaffen, die es innerhalb kürzester Zeit ermöglicht, sämtliche  elektronischen Kommunikationsmittel zu sperren.
+Angesichts der medialen Empörung über die Kill-Switch-Pläne  rudern die Initiatoren bereits zurück: So sollen die Notstandsbefugnisse nur für  wirtschaftlich und gesellschaftlich essentielle Systeme wie etwa  Elektrizitätswerke oder Wasserversorgungssysteme gelten.
+Da diese aber meistens  in privater Hand sind, ist eine rechtliche Handhabe zusätzlich schwierig.
+Im Zuge der Terror-Angst nach den Anschlägen vom 11.  September 2001 wurde die Überwachung von Telefon und Internet weltweit massiv  ausgeweitet.
+Die Vorratsdatenspeicherung ist zur Pflicht der  Telekommunikationsanbieter geworden, Bank- oder Passagierdaten von EU-Bürgern  sind für US-Behörden kein Geheimnis mehr.
+Nicht nur in China sind die Übergänge zwischen den  Möglichkeiten von Staat und marktbeherrschenden Unternehmen fließend.
+Denn so  sehr die sozialen Netzwerke in ihrer Rolle als Unterstützer von  Demokratiebewegungen gelobt werden  Facebook, Google & Co.
+sind  US-Internetgiganten, die über Milliarden von weltweiten Nutzerdaten verfügen.
+Damit läßt sich Geld verdienen, aber die digitale Informationsflut kann  genausogut dazu verwendet werden, patriotische Pflichten als Amerikaner zu  erfüllen.
+Eine Studie der TU Wien hat kürzlich aufgezeigt, welche  Programme (Apps) auf dem iPhone oder einem Mobiltelefon mit dem weitverbreiteten  Android-Betriebssystem Daten weitergeben, die den Nutzer eindeutig  identifizieren.
+Jedes Mobilfunkgerät hat eine eigene Identifikationsnummer, die  von vielen Programmen ohne das Wissen des Nutzers abgefragt und an die  Entwickler der Software weitergeleitet wird.
+Diese Nummer kann dann mit einem  Facebook- oder Google-Konto verknüpft werden, was mehr über den Nutzer verrät,  als ihm vielleicht lieb ist.
+Manche verharmlosen die Datenlecks mit dem Argument, sie haben ja nichts zu verbergen.
+Wenn dann jedoch lästige Werbung (Spam) ankommt  oder Datensammler private Profile speichern, um diese für kommerzielle oder gar  kriminelle Zwecke zu mißbrauchen, dann hört der Spaß auf.
+Die ungeahnten  Möglichkeiten von Behörden und Geheimdiensten sowie der Wirtschaftsspionage  lassen sich nur erahnen.
+Vorratsdatenspeicherung
+Die auf Vorrat gespeicherten Daten elektronischer  Kommunikationsvorgänge erlauben eine Auswertung von persönlichen sozialen  Netzwerken und stellen eine Vorstufe der Telekommunikationsüberwachung dar.
+Dies  ermöglicht den Unternehmen die Erstellung von Persönlichkeitsprofilen.
+Offizieller Zweck ist hingegen die Verhütung und Verfolgung von schweren  Straftaten.
+Das Bundesverfassungsgericht erklärte die Vorschriften zur  Vorratsdatenspeicherung am 2. März 2010 für verfassungswidrig.
+Diese sollten  Telekommunikationsanbieter verpflichten, die für Abrechnungszwecke erhobenen  Daten ihrer Kunden, Standortdaten und eindeutige Geräteidentifikationen für  einen bestimmten Zeitraum zu speichern (in der Regel sechs Monate), damit  Polizei und Nachrichtendienste darauf zugreifen können.
+Immer wieder kommen auch  die US-Unternehmen Google oder das soziale Netzwerk Face­book ins Gerede, weil  die dort hinterlegten persönlichen Daten stets in Gefahr sind, für andere als  die von den Betreibern ursprünglich angegebenen Ziele verwendet zu werden.
+Foto: Telefon mit Internetzugang: Notstandsbefugnisse in  der Planung?

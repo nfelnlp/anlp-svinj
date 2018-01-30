@@ -1,0 +1,37 @@
+Vernetzte Welten auf dem Silbertablett
+Cebit 2010: In Hannover wird nicht nur neue Technik präsentiert / Mobilität  mit Hindernissen
+Patrick Schmidt
+Seit einigen Jahren steht nicht nur die Präsentation technischer Neuerungen  im Fokus der weltweit größten Messe für Informationstechnik in Hannover.
+Zunehmend werden auch branchenübergreifende Themen wie etwa Umweltschutz und  Energieeinsparung (neudeutsch: Green IT) oder die Vernetzung von Internet und  Lebenswirklichkeit (Webciety) aufgegriffen.
+Damit will sich die Cebit (Akronym  für Centrum für Büroautomation, Informationstechnologie und Telekommunikation)  unter dem Motto Connected Worlds nicht nur als reine Verkaufsschau  profilieren, sondern vielmehr zusätzlich wegweisende Denkmuster für globale  Informationstechnik bieten.
+Vom Wohnzimmer aus die Waschmaschine steuern
+Und genau hier liegt auch ihre Schwäche: Die lange vom  amerikanisch-europäischen IT-Markt dominierte Informations- und  Telekommunikationsbranche muß seit einigen Jahren feststellen, daß die von ihr  ausgehenden Impulse und Neuerungen keine Einbahnstraße mehr sind.
+Verstärkt  werden aus anderen Teilen der Welt Stimmen laut, die ein globalisiertes  vernetztes Denken in Frage stellen und eigene Ideen entwickeln, um den neuen  Herausforderungen gerecht zu werden.
+Dabei geht es weniger um die Teilhabe an  internationalen Wertschöpfungsketten oder um die Beschaffung von Informationen  in Bruchteilen von Sekunden  zwei der vielen Illusionen der vernetzten Welt ,  sondern um die Definition des Verhältnisses zwischen Mensch und Maschine, die in  die Wort­hülse der work-life-balance verpackt wird.
+Die Techniktrends der Cebit zumindest versprechen genau dies: von der  Wohnzimmercouch aus die Waschmaschine, das Garagentor oder die Mikrowelle  steuern und nebenbei Filme herunterladen.
+Das ist in Zeiten von  Multifunktionstelefonen (Smartphones) keine wirkliche Innovation, aber die  Reflexion über eine nachhaltige Veränderung des Umgangs mit Medien in einer  zunehmend vernetzten Umgebung eröffnet neue Perspektiven.
+Auf den zahlreichen  Konferenzen (on-demand im Internet zu verfolgen) werden Themen wie das Cloud-Computing debattiert, eine abstrahierte IT-Infrastruktur, die fertige  Programme und Programmierumgebungen dynamisch an den jeweiligen Bedarf des  Nutzers anpaßt und über ein Netzwerk zur Verfügung gestellt wird.
+Das soll die herkömmliche Installations-CD verdrängen und zugleich Raubkopien  den Garaus machen.
+In dieselbe Richtung deuten auch andere neue mobile Geräte  wie Miniklapprechner (Netbooks), elektronische Lesegeräte (eBook Readers) oder  sogenannte Slates (Schieferplatten), also ultraflache tragbare Computer, die  außer kleinen Speicherkarten keine großen Datenspeicher mehr haben.
+Die von  ihrer Exklusivität lebende US-Firma Apple, die Ende Januar ihre Schieferplatte  unter dem Namen iPad präsentierte (JF 6/10), ist übrigens erneut nicht auf der  Cebit vertreten.
+Der von den Firmen angestrebte Zwang, künftig nicht nur Inhalte wie  kostenpflichtige Musik und Informationen, sondern auch die Benutzerprogramme aus  dem Internet zu beziehen, wirft die brisante Frage nach neuen  Breitbandübertragungskapazitäten für mobile Nutzer auf.
+Die derzeitigen  Standards HSDPA oder UMTS können zwar eine beachtliche Geschwindigkeit  aufweisen.
+Bei größeren Datenmengen und vielen Nutzern geht ihnen besonders in  Ballungsgebieten schnell die Luft aus.
+Abhilfe soll hier künftig der neue  Standard Long-Term Evolution (LTE) schaffen.
+Da die Umsätze mit klassischer  Sprachtelefonie kontinuierlich sinken, wird der zukünftige Markt sicherlich die  Datenübertragung sein.
+Theoretisch können dann auch hochauflösende Videos in  Sekundenschnelle auf mobile Geräte übertragen werden oder Videokonferenzen  jederzeit und überall abgehalten werden  wenn die Netzabdeckung entsprechend  vorhanden ist.
+Ein weiteres Problem ist die geringe Ausdauer der Mobilgeräte.
+Selbst bei zurückhaltender Nutzung müssen sie in der Regel schon nach wenigen  Stunden am Stromnetz nachgeladen werden.
+Einfach einen zweiten Wechselakku  einstecken  wie bei herkömmlichen Mobilgeräten oder Digitalkameras noch möglich  läßt die kompakte Bauweise meist nicht zu.
+Ist der Akku irgendwann defekt,  dann ist die Reparatur häufig so teuer, daß der Kauf eines neuen Geräts erwogen  wird  zur Freude der Aktionäre von Apple & Co., zum Schaden von Verbrauchern,  Umwelt und Natur.
+Innovationen für eine alternde Gesellschaft?
+Omnipräsent sind auf der Cebit neue mobile Flachrechner (Convertibles oder  Netvertibles genannt), deren Bildschirm sich um 180 Grad über die Tastatur  drehen läßt.
+Ob sie wirklich die 30jährige Ära tastaturbedienbarer Computer  beenden, ist fraglich.
+Denn selbst an das iPad läßt sich zur besseren Eingabe  eine externe Tastatur anschließen.
+Dem faktischen Cebit-Motto Noch kleiner, noch schneller, noch günstiger wird auch eine Innovation des Fraunhofer-Instituts so gar nicht gerecht.
+Ambient Assisted Living (AAL) ist ein technisches System, welches neue  Technologien und ihr soziales Umfeld miteinander verbinden soll.
+Dabei handelt  es sich um eine intelligente Wohnumgebung, die besonders für ältere Menschen  wertvolle Hilfestellungen leistet.
+So kann man per Handbewegung in einer Art  Diashow Dinge des täglichen Lebens im Haushalt steuern, seinen Gemütszustand  mittels eines Handschuhs mitteilen und über ein normales Mobiltelefon die  körperliche Aktivität des Nutzers messen.
+Wer sich an Aldous Huxleys Schöne Neue Welt erinnert fühlt, wird durch Bodo  Urban, Leiter des Fraunhofer-Instituts für Graphische Datenverarbeitung (IGD) in  Rostock, eines Besseren belehrt: Mit intuitiven Handbewegungen können wir  beispielsweise den Fernseher ein- und ausschalten.
+Tragbare Sensoren erkennen,  wie wir uns fühlen, registrieren unsere Bewegungen und messen unsere Fitneß.
+Dabei kontrollieren immer wir die Technik und werden nicht von ihr  kontrolliert.

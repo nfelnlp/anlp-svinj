@@ -1,32 +1,88 @@
 © JUNGE FREIHEIT Verlag GmbH & Co.
-www.jungefreiheit.de    34/97  15. August 1997
- 
-Computer: Branchenführer Microsoft steigt bei Erzfeind Apple      ein
-Bills Biß in den Apfel
-von Michael Oelmann
-Der Mann hat geradezu einen      mystischen Ruf: Bill Gates, Chef von Microsoft und per "Tellerwäscher"-Karriere      zu einem der reichsten Männer der Welt avanciert, ist mittlerweile eine Art Guru der      Informationsgesellschaft.
-Neuerliches Aufsehen erregt sein Coup, beim traditionellen      "Erzfeind" Apple Computer  dem anderen, großen Anbieter von      Betriebssystemen  mit 150 Millionen eingestiegen zu sein.
-Als Apple-Chef Steve Jobs auf der Messe      "Macworld" im kalifornischen Palo Alto den Deal der beiden Firmen bekanntgab,      machte sich bei den zuhörenden Apple-"Jüngern" Erstaunen, ja Entsetzen breit.
-Nicht ohne Grund: Beide Firmen gründeten sich 1975 in Kalifornien und waren fortan die      härtesten Konkurenten für Betriebssysteme.
-Mac oder Windows  an dieser Frage      scheiden sich bis heute die Gemüter der Computeranwendern.
-Eine Art Glaubensfrage der      Infogesellschaft.
-Ein geflügeltes Wort war die Devise von Steve Jobs, "wenn      Microsoft verliert, gewinnt Apple".
-Doch seit Ende der 80er Jahre geriet Apple mehr und mehr      ins Hintertreffen, verlor Marktanteile auf dem PC-Markt  von ehemals über zehn      Prozent auf knapp über 3 Prozent  und Umsatz  von elf Milliarden Dollar in      1995/95 auf knapp sieben Milliarden Dollar im letzten und diesem Jahr.
-Daß sich aber die      seit längerem kursierenden Gerüchte um einen Einstieg externer Geldgeber nun durch den      Ankauf stimmrechtsloser Aktien durch Microsoft bewahrheitet, hatte kaum einer auf seiner      Rechnung.
-Freilich gilt in der Wirtschaft das Kokettieren in      Freund-Feind-Dimensionen nicht viel, wenn es um handfeste strategische Zwecke geht.
-Längst schon hatte Microsoft Applikationen für Apple-Rechner  das      Tabellenkalkulationsprogramm Excel und die Textverarbeitung Word  erstellt und damit      an die 400 Millionen Dollar kassiert.
-Und auch andere Medien- und Computerfirmen haben in      den letzten Wochen mit Fusionen und Akquisitionen vorgelegt: Fuji mit Amdahl, SAP mit      Intel, Sun Microsystems mit Diba und National Semiconductor mit Cyrix, um nur einige der      zuletzt gehäuften Zusammengänge zu nennen.
-Und für Apple war klar: nur ein potenter      Partner kann die Firma auf mittelfristige Sicht stützen.
-Neben der Kooperation mit      Microsoft deutet sich dies auch in der grundlegenden personellen Neustrukturierung des      Verwaltungs- und Aufsichtsrates bei Apple durch Steve Jobs an, der unter anderem      Oracle-Chef Larry Ellison, Jerry York, den ehemaligen Finanzchef von IBM sowie Bill      Campell vom Quicken-Produzenten Intuit gewinnen konnte.
-Bill Gates, für den der Beteiligungsbetrag von 150      Millionen Dollar sozusagen aus der Portokasse bezahlbar ist, hat mit dem Deal gleich      mehrere Fliegen mit einer Klappe schlagen können.
-Bill Gates Medienkonzern umfaßt      mittlerweile nicht nur die mit weitem Abstand marktführende Software-Marke Microsoft,      sondern auch Fernsehsender, Online-Magazine und vor allem Internet-Produkte.
-Alles in      allem erzielte Gates 1996 einen Umsatz von 20,3 Milliarden Mark und ein Rekordgewinn von      6,1 Milliarden Mark.
-Wichtigstes Argument für seinen Einstieg bei Apple, so      Analysten, seien vor allem seine Probleme mit der amerikanischen Anti-Trust-Behörde.
-Denn      den Kartellhütern ist die dominierende Marktpräsenz von Microsoft seit langem ein Dorn      im Auge.
-Durch den Erhalt des Konkurrenzsystems Apple könnte Bill Gates die drohende      Zersplitterung seines Konzerns in einen Betriebssystem- und einen Softwareanbieter clever      umgangen haben.
-Auch die Absicht, für die Microsoft-Internet-Produkte, die      laut Vereinbarung künftig auch auf Apple-Rechnern zum Tragen kommen, Marktvorteile zu      gewinnen, hat eine Rolle gespielt.
-Bill Gates hat erkannt, daß die Zugangskontrolle zum      Internet sein größtes Kapital für die Zukunft ist.
-Hier ist der Zugriff auf die      Apple-PCs ein maßgeblicher Vorteil vor den jungen Konkurrenten wie Netscape und Java, den      beiden Haaren im Internet-Suppeneinheitstopf von Microsoft.
-Ein weiteres Plus des Zusammengangs sind laut      Wirtschaftsinsidern die Beendigung von Patent- und Lizenzstreitigkeiten der beiden Firmen,      die sich mit dem Joint-Venture erledigt haben dürften.
-Alles in allem scheint Bill Gates      erneut einen cleveren Schachzug gemacht zu haben, seine unangefochtene Führungsrolle im      Computerbereich zu festigen.
-Einen Tag nach der Ankündigung seines Einstiegs bei Apple      stiegen die Aktien des Konzerns um 6,5 auf über 26 Dollar  einen Großteil seiner      Investition hat Bill Gates also alleine dadurch wieder drin  in der Portokasse.
+www.jungefreiheit.de    07/99 12. Februar 1999
+Deutsche Mutprobe
+von Alexander von Stahl
+Die ausländerfeindlichen Mord- und Untaten zu Beginn der      neunziger Jahre, für die die Ortsnamen Hoyerswerda, Solingen und Mölln zu Synonymen      geworden sind, haben in den Köpfen der Deutschen zwei Dinge bewirkt: Zum einen haben sie      die Positionen der medien- und meinungsbeherrschenden Linken gefestigt, die sich nach dem      Zusammenbruch des real existierenden Sozialismus mit seinen desaströsen wirtschaftlichen und psychologischen Folgen allenthalben desorientiert auf dem Rückzug befand.
+Lichterketten glommen überall im Lande auf und signalisierten den neuen/alten Feind, der      eine Fortschreibung der liebgewonnenen eigenen Ideale ermöglichte.
+Hatten nicht die      Nationalsozialisten Polen, Juden und Zigeuner ermordet?
+War nicht der Faschismus nach      Dimitroff die Vorhut des Kapitalismus, der die Reichen immer reicher werden ließ und der      zudem auch noch aus Gründen der Gewinnmaximierung die Umwelt zerstörte?
+Der durch seine      Gene erblich belastete Deutsche zeigte seine böse Fratze.
+Betroffenheit paarte sich mit      Selbsthaß.
+"Wehret den Anfängen" schallte und schallt es durch das Land  und Goldhagen spielte die Begleitmusik dazu.
+Daß es sich bei diesen Verbrechen um      Einzelfälle handelte, die nicht von organisierten Banden von Extremisten begangen wurden,      beziehungsweise daß Spannungen zwischen ethnischen und gesellschaftlichen Gruppen fast überall in der Welt auch Gewaltakte auslösen können, das wurde nicht zur Kenntnis      genommen.
+Zum anderen hat diese medienpolitische Grundhaltung dazu geführt, daß über      Probleme, die die massive Einwanderung von Angehörigen aus fremden Kulturen  meist      aus der unteren Mittelschicht  betreffen, nicht kritisch nachgedacht werden darf,      will man nicht von den Gutmenschen jedweder Couleur als Ausländerfeind und damit als      Neonazi entlarvt werden.
+Die behauptete Ausländerfeindlichkeit läßt sich schon durch die Tatsache      eindrucksvoll widerlegen, daß Deutschland in den Jahren von 1990 bis 1997 nach den      Angaben des Bundesinnenministeriums mehr als die Hälfte aller nach Westeuropa (also über      die EU hinaus) einströmenden Asylbewerber aufgenommen hat und mindestens genauso viele      Asylbewerber und Flüchtlinge in diesen Jahren aufgenommen hat wie Australien, Kanada und      die USA zusammen.
+Der Ausländeranteil stieg in Deutschland in den letzten zwanzig Jahren      von 1977 bis 1997 von 6,4 auf 8,9 Prozent, wobei die neuen Bundesländer mit einem Anteil      von nur jeweils zwei Prozent (Ausnahme Brandenburg  ca.
+2,5 Prozent) kaum ins      Gewicht fallen.
+Deutschland hat damit nach der Schweiz (18 Prozent) den höchsten      Ausländeranteil in Europa, wenn die höheren Zahlen in Belgien (neun Prozent) und      Luxemburg (32 Prozent) unberücksichtigt bleiben, die auf die zeitweilige Anwesenheit      gutverdienender Eurobürokraten und von Bank- und Versicherungsangestellten      zurückzuführen sind.
+Auch Jahre nach dem Anwerbestopp für Gastarbeiter von 1972 beruhte die      Ausländerpolitik der Bundesregierung auf dem rotierenden System, das heißt, man ging      davon aus, daß die in Deutschland arbeitenden Ausländer nach einer Reihe von Jahren in      ihre Heimatländer Italien, Jugoslawien, Portugal oder die Türkei zurückkehren würden.
+Nachdem diese Fehleinschätzung spätestens zu Beginn der achtziger Jahre offensichtlich      geworden war, begann die Phase der Integrationspolitik, an deren Ende wir nach meiner Überzeugung jetzt stehen, weil sie an der Quantität und an der kulturellen      Verschiedenheit der eingewanderten Population gescheitert ist.
+Ich meine damit nicht die      hier lebenden Westeuropäer, die demselben Kulturkreis angehören, der sich nach Samuel P.      Huntington ("The Clash of Civilizations") durch im Grunde gemeinsame Traditionen      auszeichnet:
+l die Rezeption des "klassischen Erbes", der griechischen Philosophie, des      römischen Rechts, der lateinischen Sprache und des Christentums;
+l den Katholizismus und den Protestantismus in ihrer Dualität;
+l die romanischen und germanischen Sprachen;
+l die Trennung von weltlicher und geistlicher Macht;
+l die Rechtsstaatlichkeit (rule of law);
+l den gesellschaftlichen Pluralismus;
+l das politische Handeln durch Repräsentativorgane und den
+l Individualismus, der in der übrigen Welt außerhalb der westlichen Hemisphäre      bedeutungslos ist.
+Ich meine vor allen Dingen diejenigen, die aus der Welt des Islams      kommen und denen diese Wertvorstellungen im allgemeinen fremd sind.
+Die Wertung, ob die      Integration dieser Ausländergruppen gelungen oder gescheitert ist, läßt sich an zwei      Faktoren messen:
+l an den Kriminalitätsstatistiken  sie geben einen Einblick in die Akzeptanz der      gesellschaftlichen Normen des Gastlandes;
+l an den Sozialstatistiken  sie sind Ausdruck der wirtschaftlichen und sozialen      Eingliederung der Ausländer.
+Während die Zahl der Deutschen, die in den Jahren von 1976 bis 1996 rechtskräftig      verurteilt wurden, von 626.028 auf 556.375 sank, stieg die Zahl der ausländischen      Verurteilten im gleichen Zeitraum von 73.331 auf 207.315.
+In diesem Zeitraum war die      Anzahl der in Deutschland lebenden Ausländer von rund vier Millionen auf 7,3 Millionen      gestiegen.
+Die Anzahl der Verurteilten hatte sich jedoch verdreifacht.
+Während der Anteil der türkischen Bevölkerung an der ausländischen Bevölkerung      fast konstant bei 28 Prozent liegt, haben die absoluten Zahlen der türkischen      Verurteilten von 15.457 im gleichen Zeitraum auf 43.781 zugenommen.
+Ähnliche Zuwachsraten      weisen nur noch Bürger aus dem ehemaligen Jugoslawien auf.
+Während die      Verurteiltenstatistiken die Daten der Justiz zur Grundlage haben, stützen sich die      Kriminalstatistiken auf die Daten der Polizei.
+Die Kriminalbelastungsziffer gibt an, wie      viele Tatverdächtige (nicht gleichzusetzen mit Verurteilten) auf 100.000 Einwohner mit      denselben Merkmalen (also zum Beispiel Alter, Nationalität) entfallen.
+()
+Bedrückend an diesen Zahlen ist, daß die Ausländer unter 21 Jahren, die zum      größten Teil hier aufgewachsen sein dürften, eine doppelt so hohe      Kriminalitätsbelastung wie ihre deutschen Altersgenossen aufweisen.
+Über Frankfurt am      Main, wohl die Stadt mit dem höchsten Ausländeranteil von 28,5 Prozent, weiß die      Bundeskriminalstatistik zu berichten: "In Frankfurt am Main waren über 3/5 der      tatverdächtigen Jugendlichen (62,7 Prozent) und fast 3/4 der Heranwachsenden (71,2      Prozent) Nichtdeutsche.
+Frankfurt am Main zeigt auch unter den tatverdächtigen Kindern in      den Großstädten den höchsten nichtdeutschen Anteil mit 58,1 Prozent vor Stuttgart mit      49 Prozent, München mit 46,7 Prozent, Köln mit 52,5 Prozent und Wiesbaden mit 40,3      Prozent."
+Bei einem Ausländeranteil im Jahre 1996 von 8,9 Prozent betrug der Anteil      der Ausländer an den Tatverdächtigen 31,1 Prozent.
+Die polizeiliche Kriminalstatistik      führt hierzu ergänzend aus: "Überdurchschnittlich sind nichtdeutsche      Tatverdächtige in den alten Ländern mit Gesamtberlin jedoch auch bei gravierenden      Gewaltdelikten wie Raub 41,0 Prozent, Vergewaltigung 38,1 Prozent sowie Mord und Totschlag      37,2 Prozent vertreten.
+Hier schlagen sich unter anderem die Unterschiede in der Alters-      und Sozialstruktur sowie in den Wohn- und Lebensverhältnissen zwischen Deutschen und den      sich hier aufhaltenden Nichtdeutschen nieder."
+Ein Blick in die Berliner      Kriminalstatistik von 1997 weist aus, daß die Zahl der deutschen Tatverdächtigen von      1996 auf 1997 um 7,3 Prozent  schon ein erschreckend hoher Zuwachs , die Zahl      der türkischen Tatverdächtigen jedoch um 17 Prozent und die der libanesischen      Tatverdächtigen um 31,9 Prozent gestiegen ist.
+Im April 1998 waren von 471 Insassen im      Jugendbereich des Strafvollzuges der Berliner Justiz 226 Ausländer bei einem      Bevölkerungsanteil von unter 16 Prozent.
+Diese Zahlen, die einen überproportional hohen Anteil der Ausländer an den      Normverletzungen dokumentieren (insbesondere im Jugendbereich, und dort mit erheblichen      Zuwachsraten), zeigen, daß wir von einer Integration weit entfernt sind.
+Die ausländischen Jugendlichen und Heranwachsenden sind nicht schlechter als ihre      deutschen Altersgenossen.
+Als Wanderer zwischen den Kulturen mit schlechteren      Arbeitsplatz- und Ausbildungschancen neigen sie in viel größerem Maße dazu, die Gesetze      des Gastlandes nicht zu respektieren, sich in ihre Minderheitenidentität zurückzuziehen      und sich Banden und Gangs Gleichgesinnter anzuschließen, um dort Halt und Anerkennung zu      finden.
+Ein Blick in die Sozialstatistiken zeigt ein ähnlich bedrückendes Bild.
+Während      sich die Zahl der deutschen Sozialhilfeempfänger (im alten Bundesgebiet) von 1980 bis zum      Jahre 1996 gut verdoppelt hat (1980  840.733; 1996  1785044), hat sich die      Zahl der ausländischen Unterstützungsempfänger insgesamt mehr als verdreizehnfacht      (1980  81.413; 1996  618.418 Sozialhilfeempfänger plus 452.539 Asylbewerber).
+Die Kosten allein dieser Unterstützung betrugen für 1996 17,2 Milliarden DM.
+Hierin sind      nicht mit eingerechnet die anderen sozialen Wohltaten wie Kindergeld, Wohngeld etc. oder      der Umstand, daß über eine Million ausländischer Kinder kostenlos unsere Schulen      besuchen.
+Die Zahl der arbeitslosen Ausländer ist doppelt so hoch wie die der      Gesamtbevölkerung (Gesamtbevölkerung 10,1 Prozent, Ausländer 18,9 Prozent, Türken 24,4      Prozent, Italiener 20,6 Prozent) und stellt damit eine überproportionale Belastung der      Arbeitslosenversicherung dar.
+Die Eingliederungsprogramme und Berufsförderungsprogramme      für Ausländer von Bund, Ländern und Kommunen werden ebenfalls mit einigen hundert      Millionen Mark zu Buche schlagen.
+Selbst wenn Steuern und Beiträge der Ausländer mit      diesen Kosten saldiert würden  eine volkswirtschaftliche Gesamtrechnung ist mir      nicht bekannt und wird von der Bundesregierung auch wohlweislich nicht vorgelegt ,      käme immer noch eine Summe heraus, die dem Betrag entspräche, der eine akzeptable      Steuerreform ermöglichen würde.
+Darüber hinaus gilt folgendes: Die Wertvorstellungen des Islams und des Westens sind      nicht nur verschieden; in der fundamentalistischen Ausprägung des Islamismus stellen sie      eine latente Gefahr für die innere Sicherheit dar, die sich jederzeit in eine akute      Gefahr verwandeln kann.
+Es sei als Beispiel nur an die Ermordung von vier Exilpolitikern      in Berlin im Jahre 1993 durch iranische Stellen erinnert.
+Die Grundaussagen des Islamismus (nicht der islamischen Religion) sind:
+l Der Islam ist die alleinige Wahrheit.
+l Er kann nur durch den auf Koran und Scharia gegründeten islamischen Gottesstaat      verwirklicht werden.
+l Das bedingt die Verpflichtung zum Kampf gegen alle Ungläubigen, die einen      islamischen Gottesstaat nicht anstreben.
+l Notwendig ist daher die politische und soziale Revolution im Wege des      "Dschihad", die sowohl gewaltsam als auch daneben auf politischem Wege erfolgen      kann.
+l Alle der Ursprungsfassung von Koran und Scharia entgegenstehenden Wertvorstellungen      sind abzulehnen und zu bekämpfen 
+l und damit auch die Demokratie.
+Es gelten die geoffenbarten Gesetze Allahs.
+Die Parlamente sind Teufelswerk, weil sie      mit ihren Gesetzen in die Gesetze Gottes eingreifen.
+Mit freiheitlich-demokratischer      Grundordnung und Pluralismus hat dies nichts zu tun.
+Zudem ist der Islamismus in hohem      Maße antisemitisch, eine Haltung, die durch einen militanten Antizionismus kaschiert      wird.
+Der Islamismus hat gesiegt im Iran, im Sudan und in Afghanistan; an der ganzen      Südflanke Europas von der Türkei bis Algerien tobt ein heftiger Kampf.
+Unter den 7,3      Millionen Ausländern in Deutschland leben rund 2,3 Millionen ausländische Muslime, von      diesen gehören nach Auffassung der Verfassungsschutzämter rund 30.000 extremistischen      Organisationen an.
+Bedenkt man jedoch, daß die Verfassungsschutzämter bei 80 Millionen      Einwohnern das gesamte rechts- und linksextremistische Potential in der Bundesrepublik auf      ca.
+80.000 einschätzen und die Zahl der gewaltbereiten Extremisten von links und rechts      mit 14.000 beziffern, erhält die Zahl von 30.000 fundamentalistischen Extremisten ein      ganz anderes Gewicht.
+Die größte dieser Gruppen ist die islamische Gemeinschaft Milli Görüs e.V., die das      Sammelbecken islamistischer Auslandstürken in Europa darstellt.
+Sie hat ihren Sitz in      Köln und soll in Deutschland über 26.000 Mitglieder mit mehr als 500 Zweigstellen haben.
+Ihr Ziel ist darauf gerichtet, die laizistische Staatsordnung in der Türkei abzuschaffen.
+Daneben strebt sie die Islamisierung der ganzen Welt an.
+Sie leistet Basisarbeit unter den      in Deutschland lebenden Muslimen, um sie zur Wahrung der islamischen Identität zu      gewinnen.
+Nichtislamische Schulen und Kindergärten lehnt sie als Verrat am Islam ab.
+Ihre      Mitglieder zeichnen sich durch ein hohes Maß an Intoleranz aus; aber auch durch      Gewaltbereitschaft gegen Türken, die sich ihren Vorstellungen nicht beugen.
+Kontakte zu      Deutschen und deren (Schweinefleisch-Drogen-Sex-)Kultur sollen möglichst unterbleiben.
+Der Einfluß der Anhänger von Milli Görüs auf junge Türken wächst beständig, wie die      Verfassungsschutzämter feststellen.
+Das Problem der Zuwanderung aus Regionen außerhalb      des westlichen Kulturkreises wird weiter wachsen.
+Nur eine Politik, die diese Gefahren      erkennt, wird sie auch eindämmen können.
+Alexander von Stahl, Jahrgang 1938, Rechtsanwalt und FDP-Politiker,      war von 1990 bis 1993 Generalbundesanwalt.
+Bei dem Text handelt es sich um einen Nachdruck      aus dem von Klaus J. Groth und Joachim Schäfer herausgegebenen Buch      "Eingetrichtert" (Universitas Verlag, München 1999).

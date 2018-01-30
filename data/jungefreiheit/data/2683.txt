@@ -1,0 +1,13 @@
+© JUNGE FREIHEIT Verlag GmbH & Co.
+www.jungefreiheit.de    31-32/00 28. Juli / 04. August 2000
+ 
+Hacker querbeet
+Erol Stern
+Gut, daß ich zu geizig für ein Update war, dachte ich, als ich las, daß die Funktion "Smartdownload" von Netscape-Communicator ab Version 4.7 ALLES, was man sich im Web herunterlädt, akribisch an die AOL-Tochter meldet, natürlich nebst der relevanten Benutzerdaten (E-Mail-Adresse, bezogene IP-Adresse usw.).
+"Die also auch!"
+Amüsanter dagegen fand ich, daß der wohl berühmteste Hacker der Welt, Kevin Mitnick, der vor einigen Monaten aus der Haft entlassen wurde, durchgesetzt hat, daß er als Sicherheitsberater und Journalist arbeiten darf.
+Mitnick war Anfang der Neunziger als "Staatsfeind" gejagt und gestellt worden, nachdem er sich in zahlreiche Systeme von Militär und Industrie "gehängt" hatte.
+Zu schaffen macht ihm nun die Bewährungsauflage, drei Jahre weder Computer noch Handy benutzen zu dürfen; seine Artikel muß der 36jährige daher handschriftlich abliefern.
+Auf der Homepage des Hambuger Chaos-Computer-Clubs (ccc.de), der Anfang der achtziger Jahre die immensen Sicherheitslücken von BTX aufdeckte, las ich im Archiv in einer 1984er Ausgabe der "Datenschleuder", welche Hardware seinerzeit zum Hacken empfohlen wurde: Ein Hongkong-AppleII-Nachbau oder ein tragbarer Tandy bzw. Olivetti, eine CP/M-Erweiterungskarte (Vorgänger von MS-DOS), Diskettenlaufwerk, Modem Marke Eigenbau (verboten, daher Ehrensache; 300-1200 Bit/s) und 48 Kilobyte Hauptspeicher, dazu etwas Software.
+Was viele jedoch nicht wissen: Der Begriff "Hacker" wurde in der Sechzigern an der US-Elite-Uni MIT ursprünglich von Modelleisenbahnbauern geprägt, die sich erst später dem Computer zuwandten, verrät Euch Euer
+Erol Stern

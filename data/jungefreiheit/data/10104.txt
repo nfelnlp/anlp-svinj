@@ -1,0 +1,57 @@
+© JUNGE FREIHEIT Verlag GmbH & Co.
+www.jungefreiheit.de 06/17 / 03. Februar 2017
+Auf Pixelspurensuche
+Journalisten und Medienagenturen kδmpfen mit Bild-Forensikern gegen gefδlschte Aufnahmen
+Heiko Urbanzyk / Gil Barkei
+Im Internet macht derzeit der Vorwurf die Runde, Donald Trump habe auf einem offiziellen Foto seine Hand digital vergrφίern lassen, um stδrker zu wirken  ein Fake, wie man heutzutage so schφn sagt.
+Der Fall verdeutlicht, die Diskussion um gefδlschte Fotos und Videos, die schon vor dem Aufkommen des Begriffs Fake News begonnen hat.
+Bereits seit einem Bildfδlschungsskandal 2006, im Zuge dessen sich Reuters von einem Fotografen trennte, der zugunsten der Dramatik ein Foto vom brennenden Beirut im Libanon-Krieg retuschierte, befindet sich die Medienbranche in Aufruhr.
+Die Nachrichtenagentur verschδrfte damals ihren Verhaltenskodex.
+Fotografen dόrfen nur noch Rohbilder einsenden.
+Die Bearbeitung von Qualitδt und Bildausschnitten bei den 2.000 tδglich verschickten Fotos erledigen Reuters-Redakteure zentral.
+Neue technische und journalistische Methoden
+Es folgten mehrere Fδlle, in denen Nachrichtensendungen falsch zugeordnetes Bildmaterial verwendeten.
+Die scharfe Kritik daran spielte eine zentrale Rolle bei dem sich festsetzenden Vorwurf der Lόgenpresse gegen die etablierten Medien.
+So zeigte das ZDF-Morgenmagazin beispielsweise im Mai 2011 angeblich syrische Folterbilder, die in Wahrheit aus dem Irak stammten.
+Der Westdeutsche Rundfunk hinterlegte im August 2014 eine Meldung zu vermeintlichen Truppenbewegungen russischer Panzer in der Ukraine mit einem alten Foto von 2008.
+Einige Wochen zuvor illustrierte die ARD-Tagesschau einen Hubschrauberabschuί in der Ostukraine mit Aufnahmen eines abgeschossenen Helikopters in Syrien.
+Der damalige Auslandskorrespondent Udo Lielischkies gab den Fehler im Blog der Tagesschau zu und verwies auf den hohen Zeitdruck beim Prόfen von Bildmaterial.
+In der Tat stehen Journalisten vor einer groίen Herausforderung.
+Die fόr jedermann zugδnglichen sozialen Netzwerke sind eine unverzichtbare Quelle fόr aktuelle, schnelle und exklusive Bilder.
+Jeder Smartphone-Nutzer ist ein potentieller Reporter, und Facebook, Twitter, Youtube & Co.
+ziehen das Verφffentlichungstempo drastisch an.
+Mit der mehr und mehr digitalisierten Fototechnik ist es heute ohne Vorwissen nahezu jedem mφglich, Bilder zu manipulieren, wuίte bereits vor zehn Jahren Mathias Kirchner von der Technischen Universitδt Dresden zu berichten.
+Bildbearbeitungsprogramme wie Photoshop erφffnen jedem Laien Fδlschungsmφglichkeiten.
+Kirchner hat heute die Professur fόr Datenschutz inne und gibt Multimedia-Forensik als Interessenschwerpunkt an.
+Er arbeitet unter anderem an Projekten, in denen das sogenannte Bildsensorrauschen von Digitalkameras dazu genutzt wird, um die Ursprungskamera eines manipulierten Bildes zu identifizieren.
+Heute kφnnen Bild-Forensiker anhand verschiedener Analysemethoden nachvollziehen, ob ein Bild gephotoshopt wurde oder nicht  eine nachtrδgliche Bearbeitung hinterlδίt Pixelspuren, die sich vom Ursprungsbild unterscheiden.
+Ob ein Bild aus der Originalkamera kommt oder mehrfach abgespeichert wurde, lδίt sich ebenfalls berechnen.
+Um die neuen Methoden haben sich neuartige Anbieter und Berufsbezeichnugnen gesammelt.
+Fόr Bild-Forensiker ist der Ursprung eines Bildes oder Videos entscheidend.
+An dessen Verifizierung arbeiten Journalisten und Techniker gleichermaίen zusammen, erlδutert Mandy Jenkins von Storyful dem Deutschlandfunk.
+Storyful gehφrt dem Medien-Mogul Rupert Murdoch.
+Der Redaktionsdienstleister mit Sitz in Dublin sucht Inhalte in sozialen Netzwerken, prόft sie auf Echtheit und liefert weltweit an Medien wie Reuters oder die New York Times.
+Wir haben technische Hilfsmittel entwickelt, die uns groίartige Videos von Augenzeugen finden lassen in den sozialen Netzwerken, schwδrmt Jenkins.
+Der nδchste Schritt sei dann zu όberprόfen, ob das Video wirklich an dem Ort aufgenommen wurde, von dem es stammen soll und wann der Film genau entstanden ist.
+Eine hundertprozentige Sicherheit gebe es zwar nicht, und eine Prόfung kφnne sich hinziehen, aber in einem nicht zu komplizierten Fall bekδmen ihre Bild-Forensiker das in unter einer halben Stunde hin, oft sogar schneller.
+Daran Hassanzadeh, Video-Analytiker vom ZDF-Heute Journal, hat da ganz andere Erfahrungen: Verifizierung funktioniert in der Aktualitδt gar nicht. Sein Echtheitsnachweis und die exakte Einordnung eines Youtube-Videos, das einen Faίbomben-Abwurf auf die Zivilbevφlkerung im syrischen Aleppo zeigt, dauerte insgesamt einen Monat.
+Medien und Agenturen arbeiten weltweit zusammen 
+Immer mehr Medien versuchen wie die ZDF-Kollegen die neuen Methoden in ihre Redaktonsablδufe zu integrieren.
+Das Erste hat extra ein Content Center unter der Leitung von Michael Wegener eingerichtet.
+Den Chef-Verifizierer bei den Fernsehnachrichten der ARD nannte ihn der Deutschlandfunk.
+Wegener betont allerdings auch, die letzte Gewiίheit gebe es nicht.
+Man mόsse die fόr sich gewonnene Erkenntnis der Echtheit auch umgangssprachlich mit Bauchgefόhl beschreiben.
+Um die Fehlerquote bei diesem Bauchgefόhl mφglichst gering zu halten, arbeiten Medienanbieter zunehmend untereinander sowie mit externen Dienstleistern zusammen.
+Faktenchecker-Vereinigungen wie First Draft, die im Zuge der Fake News-Debatte steigende Bekanntheit erfahren haben, bieten Mφglichkeiten an, Fδlschungen besser zu erkennen und Standards zur Quellenanalyse zu etablieren.
+Zu den Grόndungspartnern gehφren neben Googles Journalismus-Projekt News Lab auch die erwδhnte Social-Media-Nachrichtenagentur Storyful.
+Zum Jahresanfang schlossen sich zahlreiche deutsche Medien wie die dpa, Zeit Online und die ARD dem im September 2016 gegrόndeten internationalen First Draft Partner Network an, zu dem unter anderem auch die New York Times, The Telegraph, Reuters, CNN, BBC, Facebook und Youtube, aber auch Menschenrechtsorganisationen wie Amnesty International gehφren.
+Schwerpunkt ist die Verifizierung von Augenzeugenmaterial (Leserreporter) aus sozialen Netzwerken.
+Der Grundkurs bietet einen Einblick, wie Bild-Forensiker in Redaktionsstuben und Zulieferagenturen arbeiten.
+Der Test, den Schauplatz eines Ereignisses anhand optischer Signale zu erkennen: Achten Sie auf Straίenschilder, die Sprache der Einzelhandelsschilder, Landschaft, Architektur, um zu erraten, wo die Szene spielen kφnnte, erklδrt First Draft das erste Vorgehen.
+Minutiφse Anleitungen in Video, Bild und Text zeigen, wie Stόck fόr Stόck die Herkunft beziehungsweise der wahre Schauplatz einer Szene ermittelt wird.
+Das 90sekόndige Anleitungsvideo demonstriert eindrucksvoll, wie schwierig, aber eben auch mφglich es ist, einen US-amerikanischen Luftwaffenstόtzpunkt in Afghanistan durch Bild-Analysen zu erkennen.
+Abgebildete Uniformen und militδrische Gerδte seien mit Hilfe anderer Netzseiten einem bestimmten Staat zuzuordnen.
+Kleidung solle darauf untersucht werden, ob sie zu den όbrigen Wetterverhδltnissen im Bild passe.
+Mittels Google Earth kann die Landschaft verifiziert werden.
+Andere Anleitungen erklδren, wie der Zeitpunkt des erstmaligen Hochladens bei Instagram und Youtube bestimmt werden kann, um an die Quelle einer kursierenden Aufnahme zu gelangen.
+Die Erkennung von Fake-Accounts in sozialen Netzwerken ist eine weitere Einheit.
