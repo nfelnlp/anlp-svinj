@@ -1,0 +1,58 @@
+Mehr Überwachung, weniger Zeugenrechte – der Bundestag höhlt die Grundrechte weiter aus
+Dein Freund und Hacker
+In der vergangenen Woche hat die Große Koalition eines der schärfsten Überwachungsgesetze seit Jahren beschlossen.
+Mit einem Trick im Gesetzgebungsverfahren vermied die Bundesregierung Proteste.
+Von
+Ein Gefährt für Ermittlungen auf dem Daten-Highway präsentierte die Polizei schon im März auf der Computermesse Cebit
+Bild:
+picture alliance / dpa / Ole Spata
+Anzeige
+Als die britische Premierministerin Theresa May kürzlich im Wahlkampf sagte, sie wolle für den Kampf gegen den Terror notfalls Menschenrechte einschränken, war der Aufschrei groß – nicht nur in Großbritannien.
+Bundesjustizminister Heiko Maas (SPD) schrieb auf Twitter: »Wer Menschenrechte einschränkt, beschert den Terroristen schon den ersten Sieg.
+Die Qualität eines Rechtsstaats zeigt sich in der Bedrohung.« Solche Töne waren vom Minister angesichts des deutschen Gesetzes zur Reform der Strafprozessordnung nicht zu vernehmen.
+Die Bundesregierung ließ das Vorhaben vergangene Woche im Bundestag verabschieden.
+Strafrechtsexperten und Bürgerrechtsorganisationen bewerten die Reform als schweren Angriff auf die Grundrechte.
+Das neue Gesetz ermöglicht es den Ermittlungsbehörden, die verschlüsselte Kommunikation von Smartphones und Computern, zum Beispiel über Messenger-Dienste wie Whatsapp, im Zuge der Quellen-Telekommunikationsüberwachung (Quellen-TKÜ) zu entschlüsseln oder in einer Online-Durchsuchung auszulesen.
+Hierzu wird eine Schadsoftware, auch bekannt als Staatstrojaner, auf das Gerät der Zielperson geladen.
+Verfügte bislang nur das Bundeskriminalamt über diese Befugnisse, um schwere Straftaten zu verfolgen, kann die Polizei den Trojaner in Zukunft auch für die Ermittlung in Fällen von Alltagskriminalität einsetzen.
+Die Überwachungsmaßnahmen kamen erst nachträglich durch einen Formulierungsvorschlag der Bundesregierung in das Gesetz.
+So erregte das Vorhaben nur geringe öffentliche Aufmerksamkeit.
+Bei der Quellen-TKÜ wird ein laufender Kommunikationsvorgang überwacht.
+Die Behörden können mit dem Trojaner den Inhalt einer Nachricht lesen, noch bevor sie verschlüsselt versendet wird.
+Im Falle der Online-Durchsuchung wird auf bereits gespeicherte Daten zugegriffen.
+Dem Gesetz zufolge darf der Staat auch Geräte von Personen hacken, die nicht selbst beschuldigt werden, wenn davon ausgegangen werden kann, dass die Beschuldigten die Geräte von Dritten benutzen.
+Damit die Ermittler überhaupt Zugriff auf Smartphones und Computer bekommen, müssen Sicherheitslücken im Netz bestehen.
+Dies führt zu widersprüchlichen Interessen staatlicher Behörden: Während auf der einen Seite das Bundesamt für Informationstechnik Sicherheitsmängel beheben soll, haben Polizei und Geheimdienste ein genuines Interesse daran, die Lücken zu nutzen, um ihre Trojaner einzuschleusen.
+Hacker lösten mit dieser Methode Anfang Mai den weltweiten Cyber-Angriff Wannacry aus.
+Die Datensammelwut der Behörden produziert also vorsätzlich Gefahren für die digitale Kommunikation.
+In einem wegweisenden Urteil hatte das Bundesverfassungsgericht im Jahr 2008 das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme entwickelt.
+Damit wollte das Gericht den Grundrechtsschutz auf die Kommunikation in der digitalen Sphäre ausweiten.
+Schließlich sind Computer und Smartphones Träger einer Vielzahl privater Daten, von Bankverbindungen und persönlichen E-Mails bis zu sexuellen Vorlieben.
+Eine heimliche Infil­tration dieser Geräte sei nur zulässig, wenn überragend wichtige Gemeinschaftsgüter gefährdet seien.
+Entgegen dieser sehr engen Bestimmung ermöglicht das neue Gesetz den Einsatz von Staatstrojanern in einer Vielzahl von Fällen.
+Beispielsweise darf die Quellen-TKÜ beim Verdacht auf Urkundenfälschung oder Steuerhinterziehung eingesetzt werden.
+Auch die weiteren vorgesehenen Straftatbestände betreffen nicht terroristische Gefahren, sondern bewegen sich auf der Stufe mittelschwerer Kriminalität.
+Für Jannik Rienhoff, Kriminologe an der Universität Marburg, ist das Gesetz eine »der krassesten Strafverschärfungen der vergangenen Jahre«.
+Er warnt im Gespräch mit der Jungle World vor einem massenhaften Einsatz des Staatstrojaners.
+Obwohl dieser Eingriff in die Grundrechte sogar umfassender sei als der »Große Lauschangriff« auf Privatwohnungen, seien die Voraussetzungen zum Teil deutlich niedriger.
+Wegen des neuen Gesetzes dürfte auch Redaktionsarbeit auf Rechtshilfegruppen wie die Rote Hilfe zukommen.
+Denn der Hinweis in zahlreichen Informationsbroschüren, man könne Zeugenvorladungen der Polizei ignorieren, gilt nicht mehr.
+Der neue Paragraph 163 Absatz 3 der Strafprozessordnung sieht vor, dass zukünftig Zeugen verpflichtet sind, auf Ladung von Ermittlungspersonen der Staatsanwaltschaft zu erscheinen und auszusagen, wenn der Ladung ein Auftrag der Staatsanwaltschaft zugrundeliegt.
+Aus der Sicht der Jenaer Strafrechtsanwältin Kristin Pietrzyk könnte diese Änderung sogar ein größeres Problem darstellen als der Einsatz des Staatstrojaners.
+Sie kritisiert im Gespräch mit der Jungle World die Schwammigkeit der Neuregelung: »Da keine Ladungsfristen im Gesetz zu finden sind, steht zu befürchten, dass Zeugen unangemessen kurzfristig geladen werden, um Zwangsmittel zu provozieren, oder dass sie gleich zu Hause oder am Arbeitsplatz aufgesucht werden.« Erschwerend komme hinzu, dass die Staatsanwaltschaft erst bei aufkommenden Zweifeln entscheide, ob die betroffene Person über ein Zeugnisverweigerungsrecht verfügt.
+Wenn die Polizei Personen zur Vernehmung hole, könnten diese ihren Status als Zeuge nur in Zweifel ziehen, wenn sie Angaben zur Sache machen.
+Dann habe die Polizei jedoch allemal eine Aussage, trotz des möglichen Zeugnisverweigerungsrechts.
+Die mögliche willkürliche Nutzung der Regelung werde die Zeugenrechte weiter aushöhlen, befürchtet Pietrzyk.
+Neben dem Inhalt des Gesetzes wurde auch die Art und Weise kritisiert, wie es ins Parlament eingebracht wurde.
+Die neuen Überwachungsmaßnahmen kamen erst nachträglich durch einen Formulierungsvorschlag der Bundesregierung in das Gesetz.
+Auf diesem Wege erregte das Vorhaben nur geringe öffentliche Aufmerksamkeit, auch eine erste Lesung im Bundestag wurde so verhindert.
+Diesem Umstand zum Trotz sagte die SPD-Abgeordnete Bettina Bähr-Losse während der Plenar­debatte am 22. Juni, der Gesetzentwurf sei eine überwältigende Leistung parlamentarischer Arbeit, und empfahl ihrer Fraktion die Zustimmung.
+Am Ende stimmten nur zwei Abgeordnete der SPD gegen das Gesetz.
+Wegen der verkürzten öffentlichen Debatte scheint selbst der SPD-Kanzlerkandidat Martin Schulz von dem Gesetz nichts mitbekommen zu haben.
+Auf dem Parteitag in Dortmund am Wochenende sagte er selbstbewusst: »Jeder, der Grundrechte der Verfassung in Frage stellen will, hat in der SPD eine entschiedene Gegnerin.« Das neue Gesetz ist nur eine von zahlreichen Strafverschärfungen und Überwachungsmaßnahmen, die in der laufenden Legislaturperiode verabschiedet wurden.
+Zuletzt hatte der Bundestag höhere Strafen für Widerstandshandlungen gegen Polizeibeamte und einen Zugriff auf die Smartphones von Flüchtlingen zur Identitätsfeststellung beschlossen.
+Die Gesellschaft für Freiheitsrechte, eine noch junge Organisation, die auf dem Wege strategischer Prozessführung Grundrechte verteidigen will, hat bereits angekündigt, gegen das neue Gesetz zu klagen.
+Auch die Grünen und die Linkspartei erwägen eine Beschwerde beim Bundesverfassungsgericht.
+Doch bis dieses die neuen Ermittlungsbefugnisse möglicherweise als grundrechtswidrig beurteilt, drohen einige Jahre ins Land zu ziehen.
+Die Überwachung mit dem Staatstrojaner könnte mittelfristig allenfalls daran scheitern, dass ihre technischen Voraussetzungen die Behörden überfordern.
+Mehr Inland

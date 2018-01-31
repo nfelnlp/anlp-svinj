@@ -1,0 +1,85 @@
+Simon Schaupp, Soziologe, über Self-Tracking
+»Eine Verlagerung der Verantwortung vom Staat zum Individuum«
+Simon Schaupp ist Soziologe und arbeitet als wissenschaftlicher Mitarbeiter am Munich Center for Technology in Society der Technischen Universität München.
+Derzeit forscht er zu den Machtwirkungen digitaler Prozesssteuerungstechnologien in der »Industrie 4.0«.
+Im Oktober 2016 erschien sein Buch »Digitale Selbstüberwachung.
+Self-Tracking im kybernetischen Kapitalismus« im Verlag Graswurzelrevolution.
+Am 13. Januar stellt er in Berlin ab 19 Uhr das Buch im FAU-Gewerkschaftslokal in der Grünthaler Straße 23 vor.
+Interview Von
+Simon Schaupp, Soziologe, über Self-Tracking
+Bild:
+turn-de.academia.edu
+Anzeige
+Warum sind immer mehr Menschen bereit, mit tragbaren digitalen Geräten ihren Lebenswandel zu überwachen und die Ergebnisse dann ins Internet zu stellen?
+Die Gründe für dieses sogenannte Self-Tracking sind vielfältig.
+Was ich versuche zu zeigen, ist, dass es einen Zusammenhang gibt zwischen den permanenten Anforderungen der Selbstoptimierung im Neoliberalismus und den Self-Tracking-Praktiken.
+Wenn das Aufpolieren des Selbst durch Sport, Wellness, Diäten etc. in vielen Bereichen zur Voraussetzung dafür wird, die eigene Arbeitskraft erfolgreich verkaufen zu können, dann ist es naheliegend, dass über kurz oder lang Hilfsmittel dafür angeboten werden.
+Als solche Hilfsmittel zur Rationalisierung der Arbeit am Selbst können die Self-Tracking-Technologien verstanden werden.
+Ihre Funktion ist in dieser Hinsicht wesentlich eine buchhalterische.
+Die verschiedenen Anwendungen überwachen mittels Sensortechnik bestimmte Aktivitäten und bereiten diese anschließend in Zahlen auf.
+Oft wird dann »Input« und »Output« gegenübergestellt, also zum Beispiel gelaufene Schritte und verbrannte Kalorien.
+Dadurch soll im Gegensatz zur subjektiv verzerrten Selbstwahrnehmung eine »objektive« Darstellung geboten werden.
+So weiß ich immer genau, was ich »investieren« muss, um meine Werte zu steigern.
+Diese ökonomischen Begriffe sind übrigens nicht meine Metaphern, sondern die werden wirklich so in der Self-Tracking-Werbung, die ich analysiert habe, benutzt.
+Die Userinnen und User werden klar als Unternehmer ihrer selbst angesprochen.
+Das sind die wesentlichen strukturellen Gründe für das Self-Tracking.
+Die individuellen Gründe können aber natürlich auch ganz andere sein, zum Beispiel das ­Experimentieren mit dem eigenen Körper.
+Die Darstellung der Self-Tracker als narzisstisch-obsessive Nerds trifft jedenfalls nur sehr selten zu.
+Ihr kürzlich im Verlag Graswurzelrevolution erschienenes Buch heißt »Digitale Selbstüberwachung.
+Self-Tracking im kybernetischen Kapitalismus«.
+Was verstehen Sie unter »kybernetischem Kapitalismus«?
+Ich verstehe darunter ein Produktionsregime, das wesentlich auf der Erhebung und Verarbeitung von Daten beruht.
+Durch die Allgegenwärtigkeit teils miniaturisierter vernetzter Computer werden in fast allen Lebenssituationen, vor allem aber da, wo Mehrwert produziert werden soll, Daten erhoben.
+Diese Daten erfüllen eine Doppelfunktion.
+Einerseits dienen sie der Kontrolle und Optimierung des überwachten Prozesses.
+Das kann die industrielle Produktion von Pappkartons sein, aber eben auch der individuelle Kalorienhaushalt.
+Andererseits werden diese Daten selbst zur Ware.
+Die Daten aus der Überwachung der Pappe-Produktionsmaschinen können beispielsweise zu abstrakten Prozessoptimierungsmodellen aggregiert werden, oder die Self-Tracking-Daten werden zu detaillierten persönlichen Profilen zusammengefasst, die dann als Grundlage für individualisierte Werbung dienen können.
+Ich benutze den Begriff des kybernetischen Kapitalismus, um den Kontrollaspekt zu betonen, der in der Debatte um Überwachung und die Kommodifizierung von Daten oft in den Hintergrund gerät.
+Norbert Wiener, der Begründer der Kybernetik, hat sie als »Wissenschaft von Kommunikation und Kontrolle« definiert.
+In ihrem Zentrum steht die Idee der Kontrolle durch permanentes Feedback.
+Self-Tracking ist ein Paradebeispiel für so eine Art von Kontrolle.
+Wie stehen Politik, Wirtschaft und Krankenkassen zum Self-Tracking?
+Der Trend wird dort zu großen Teilen geradezu euphorisch aufgenommen.
+Es gibt ein Positionspapier der Europäischen Kommission zu Self-Tracking im Gesundheitsbereich.
+Dort wird im Self-Tracking vor allem das Potential der Kosteneinsparung in den jeweiligen Gesundheitssystemen gesehen.
+Die Idee ist, dass mit dem Self-Tracking eine Verlagerung der Verantwortung vom Staat zum Individuum stattfinden soll.
+Die Nutzerinnen und Nutzer sollen zu einem gesünderen Lebenswandel und sogar zu Selbstdiagnosen »ermächtigt« werden.
+Entsprechend dieser Vision hat beispielsweise das britische Gesundheitsministerium Ärzten empfohlen, ihren Patienten Self-Tracking-Technologien zu verschreiben.
+Das Interesse der Krankenkassen am Self-Tracking ist natürlich naheliegend.
+Verschiedene Versicherungen, auch in Deutschland, experimentieren mit Bonusprogrammen auf der Grundlage von Self-Tracking-Daten.
+Das ist eine Entwicklung, die schnell zum Selbstläufer werden kann, so dass das Verweigern des Trackens indirekt finanziell bestraft wird.
+Noch ist dieser Punkt aber zum Glück nicht erreicht.
+Bei einer Analyse der Werbung für Self-Tracking-Technologien kommen Sie zu dem Fazit, dass Soldaten und Bergsteiger immer wiederkehrende Bilder sind.
+Warum gerade diese beiden Gruppen?
+Der Bergsteiger ist das zentrale Bild in der Illustration von Werbung für Self-Tracking.
+Meist wird der Bergsteiger dabei in sehr unwirtlicher Umgebung gezeigt.
+Er ist gerade angeseilt auf einem schneebedeckten Gipfel angekommen und schaut nun in den Sonnenuntergang.
+Damit werden dann Technologien beworben, die der Überwachung von Produktivität bei der Schreibtischarbeit dienen.
+Diese Figur des Bergsteigers ist die idealtypische Verkörperung von Leistung und Erfolg, nach dem Motto: »Wenn du nur hart genug an dir arbeitest, wirst du alles meistern.« Hier knüpft auch der militaristische Aspekt der Werbung an: Fast in jeder Self-Tracking, App gibt es virtuelle »Orden«, die bei Rekorden und Höchstleistungen freigeschaltet werden.
+Die Diätfirma Weight Watchers hat sogar eine eigene Werbekampagne unter dem Slogan »lose like a man« (abnehmen wie ein Mann), in der ein Soldat dem Publikum erklärt, wie er mittels Self-Tracking zum »Vorbild für seine Männer« geworden ist.
+Das Bild des Soldaten steht dabei hauptsächlich für die Disziplin, die die jeweiligen Programme fördern sollen.
+Gleichzeitig lässt es sich auch als Ausdruck eines auf Leistung fixierten Männlichkeitskults interpretieren.
+Werden solche Methoden von Unternehmen auch zur Überwachung von Beschäftigten eingesetzt, wie es bei Fahrdiensten und Callcentern schon geschieht?
+Ja.
+Viele Self-Tracking-Programme, wie zum Beispiel die Zeitmanagement-Anwendung Rescue Time haben sogenannte Team-Funktionen.
+Damit kann man nicht nur die eigene »Produktivität« steigern, sondern Vorgesetzte können auch minutiös überwachen, was ihre Untergebenen tun und sich beispielsweise Screenshots von deren Bildschirmen anzeigen lassen.
+Wenn ihnen nicht gefällt, was sie sehen, gibt es »Nudge«-Funktionen, mit denen den Untergebenen angezeigt werden kann, dass sie effizienter arbeiten sollen.
+Viele setzen sich aber auch scheinbar freiwillig der Überwachung aus, um so ihre Selbstdisziplin zu steigern.
+So gibt es Programme, die bei jedem Fehltritt oder auch bei mangelnder Dateneingabe eine vorher bestimmte Aufsichtsperson informieren.
+Besonders aufschlussreich sind aber diejenigen Fälle, in denen Selbst- und Fremdüberwachung verschmelzen.
+Das ist zum Beispiel dann der Fall, wenn Unternehmen ihren Angestellten nahelegen, sich in ihrer Freizeit zu tracken.
+Nicht, um dann die Daten abzugreifen, sondern in der Hoffnung, dass sie dadurch produktiver arbeiten.
+Im Buch stellen Sie unter anderem die Frage, ob unter nichtkapitalistischen Verhältnissen Self-Tracking und andere Formen kybernetischer Kontrolle auch zu emanzipatorischen Zwecken nutzbar wären.
+Gibt Ihr nächstes Buch*, das sich unter anderem mit einem solchen Projekt in Chile unter Salvador Allende befasst, darauf eine Antwort?
+Self-Tracking ist nicht die Ursache des Neoliberalismus, sondern die Konsequenz seiner Anforderungen.
+Gleichzeitig befördert es aber auch eine ­neoliberale Lebensführung und trägt damit zu dessen Stabilisierung bei.
+Insgesamt scheint mir die Kybernetik weder politisch neutral zu sein, noch produziert sie notwendigerweise eine bestimmte Form von Politik.
+Sie legt ­jedoch eine technikunterstützte Selbstorganisation nahe, die durchaus auch emanzipatorisch angewandt werden kann.
+Das von mir mitherausgegebene Buch dreht sich um die Frage, welche emanzipatorischen Perspektiven der technologische Wandel eröffnen könnte.
+Das angesprochene chilenische Projekt Cybersyn sollte so zum Beispiel die technische Infrastruktur für eine Art selbstorganisierte Planwirtschaft liefern.
+Allende ließ dafür den britischen Managementkybernetiker Stafford Beer nach Chile einfliegen, der ein Computersystem konzipieren sollte, das es ermöglicht, Produktionsentscheidungen in die jeweiligen von Arbeitern verwalteten Fabriken zu delegieren und trotzdem die Volkswirtschaft als Ganze nicht aus dem Blick zu verlieren.
+Für die Koordination dezentraler Organisation sind kybernetische Technologien also durchaus nützlich.
+Dass wir für eine emanzipatorische Lebensführung allerdings Self-Tracking-Technologien brauchen, scheint mir eher zweifelhaft.
+* Paul Buckermann, Anne Koppenburger und Simon Schaupp (Hg.): »Kybernetik, Kapitalismus, Revolutionen.
+Emanzipatorische Perspektiven im technologischen Wandel«, Unrast-Verlag, ab März 2017 erhältlich

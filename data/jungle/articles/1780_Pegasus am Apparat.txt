@@ -1,0 +1,48 @@
+Menschenrechtler und Journalisten wurden in Mexiko mit Spyware überwacht
+Pegasus am Apparat
+Mexikanische Journalisten und Menschenrechtler wurden mit einer auf ihren Handys installierten Spyware abgehört.
+Die mexikanische Regierung bestreitet, dafür verantwortlich zu sein.
+Von
+Nichts in der Hand.
+Menschenrechtler und Journalisten protestieren vor dem Büro des Generalstaatsanwalts in Mexiko-Stadt gegen den Lauschangriff, 23. Juni
+Bild:
+Reuters / Carlos Jasso
+Anzeige
+Ständig in immer neue politische Skandale verwickelt zu sein, kann auch ein herausstechendes Merkmal eines Präsidenten eines G20-Landes sein.
+Für die Regierungszeit von Enrique Peña Nieto aus Mexiko scheint dies jedenfalls zu gelten.
+Seit dem 19. Juni muss sich das Staatsoberhaupt in einem neuen Skandal rechtfertigen.
+Es geht um einem aufgeflogenen Spionageangriff auf Mitglieder der kritischen mexikanischen Zivilgesellschaft.
+An jenem Tag veröffentlichten die Organisationen R3D, Artículo 19 und Socialtic, die sich für Pressefreiheit und Menschenrechte engagieren, unterstützt vom Citizen Lab der Universität von Toronto ihren Bericht »Gobierno Espía« (Die Regierung spioniert aus).
+Gleichzeitig brachte die New York Times das Thema auf ihre Titelseite.
+In dem Bericht enthalten sind Belege dafür, dass zwischen 2015 und 2016 die Handys von zwölf Journalisten und Anwälten sowie manchen ihrer Familienange­hörigen in 76 Fällen mittels des Spionageprogamms »Pegasus« abgehört ­wurden.
+Ausspioniert wurde unter anderem die renommierte unabhängige Radiojournalistin Carmen Aristegui, die zusammen mit ihrem Team Ende 2015 dem Präsidenten und seiner Ehefrau einen millionenschweren Korruptionsfall nachwies; der Fernsehmoderator Carlos Loret de Mola des staatsnahen Privatsenders Televisa, der vor zwei Jahren von extralegalen Hinrichtungen durch die Bundespolizei auf der Ranch Tanhuato sprach; aber, wie Anfang Juli bekannt wurde, auch Anwälte aus der internationalen Expertengruppe GIEI, die den Fall des gewalt­samen Verschwindenlassens der 43 Studenten aus Ayotzinapa untersucht und mehrere Vertuschungen und das systematische Fälschen von Beweisen durch die staatlichen Behörden aufgedeckt hat.
+Die Attacken haben sich immer dann gehäuft, wenn wichtige Fortschritte der kritischen Arbeit der Betroffenen öffentlich wurden.
+Entwickelt und vertrieben wird die Spionagesoftware von der israelischen Firma NSO Group, die ihre Dienste nach Eigenangaben ausschließlich Regierungen zur Verfügung stellt.
+Neben den Vereinigten Arabischen Emiraten, Usbekistan, Kenia und weiteren, die auf der Kundenliste des Unternehmens stehen, nimmt Mexiko mit einem 45prozentigen Anteil an den Verkäufen der Firma den Spitzenplatz ein.
+Technisch ist das Programm recht simpel: Eine Textnachricht, die das Interesse des Opfers wecken soll, enthält einen Link.
+Wenn dieser geöffnet wird, installiert sich automatisch die »Pegasus«-Malware auf dem Smartphone.
+Der ­Angreifer erhält dadurch nicht nur Zugang zu Kontakten, E-Mails, Fotos und dergleichen, sondern ebenso Zugriff auf Mikrophon und Kamera des Geräts.
+Wie bereits in den Jahren zuvor diverse journalistische Berichte belegten, ­haben das Verteidigungsministerium, der Inlandsgeheimdienst und die Generalstaatsanwaltschaft das Programm erworben.
+Stichhaltige Beweise, dass hinter dem Lauschangriff die mexikanischen Behörden stehen, gibt es aber nicht – das Programm hinterlässt keinerlei Hinweise auf den Hacker.
+Daher antwortete das Präsidentenbüro von Peña Nieto noch am selben Tag in einem Schreiben an die New Yorker Times selbstbewusst: »Es gibt keinen einzigen Beweis, dass die Regierung für die vermeintliche Spionage ver­antwortlich sei.« Es lassen sich der Untersuchung zufolge jedoch einige ­Gemeinsamkeiten zwischen den Betroffenen ausmachen: Nicht nur haben sich die Attacken immer dann gehäuft, wenn wichtige Fortschritte in deren kritischer Arbeit öffentlich wurden.
+In allen Fällen war es zudem die mexikanische Bundesregierung, deren Ansehen durch die Veröffentlichung Schaden nahm.
+Obendrein wies zehn Tage später eine aktualisierte Untersuchung des Citizen Lab nach, dass drei prominente Oppositionspolitiker der nationalkonservativen Partei PAN ebenfalls ­attackiert worden waren.
+Der Menschenrechtler Alejandro Cerezo wurde ebenfalls zum Ziel von »Pegasus«.
+Doch weil er den Link nicht öffnete, installierte sich das Programm nicht auf seinem Handy.
+Cerezo arbeitet für die Menschenrechtsorganisation Comité Cerezo, die 2012 mit dem Aachener Friedenspreis ausgezeichnet ­wurde.
+Ursprünglich gegründet wurde die Organisation, um ihm und seinen beiden Brüdern Antonio und Héctor juristische und politische Unterstützung zukommen zu lassen, als die drei vom mexikanischen Staat jahrelang in diversen Hochsicherheitsgefängnissen unter spektakulären Anschuldigungen festgehalten wurden; ihnen wurde unter anderem die Beteiligung an einem Sprengstoffanschlag in ­Mexiko-Stadt vorgeworfen.
+Zum Zeitpunkt seiner Festnahme im Jahr 2001 war Alejandro 19 Jahre alt.
+Die Phishing-SMS bekamen er und Francisco, ein weiterer Bruder, der damals nicht inhaftiert wurde, am 26. Mai dieses Jahres.
+Sie waren auf dem Weg zu einem Treffen mit dem Hochkommissar für Menschenrechte der Ver­einten Nationen.
+Gesprächsthema sollten das gewaltsame Verschwinden­lassen und zwei extralegale Hinrichtungen im südöst­lichen Bundesstaat Chiapas sein.
+In den Fall sollen ­paramilitärische Gruppen und die mexikanische ­Armee verwickelt gewesen sein.
+»Man war wohl besorgt, was wir mit dem Kommissar besprechen würden«, sagte Alejan­dro Cerezo der Jungle World.
+Auch wenn Pegasus »etwas Neues« und eine »ausgeklügeltere Methode« darstelle, sei der Umstand als solcher alles andere als neu für ihn und das Comité Cerezo.
+»Seit 2011 haben wir verschiedene Telefoninterventionen registriert.
+Zum Beispiel wurde die Stimme von Héctor aufgenommen und später eine Nachricht mit seiner Stimme auf seinem Anrufbeantworter hinterlassen«, sagte Alejandro.
+Präsident Peña Nieto selbst meldete sich erst drei Tage nach den Veröffent­lichungen vom 19. Juni öffentlich zu Wort.
+Wohl etwas unbedacht ließ er wissen, er hoffe, dass rechtlich »gegen ­diejenigen, die falsche Beschuldigungen gegen die Regierung erhoben haben«, vorgegangen werde.
+Nicht zu Unrecht löste dieser Satz Empörung aus, haben doch die Nachforschungen zur Überwachung noch gar nicht begonnen.
+Peña Nieto könne daher gar nicht über die notwendigen juristischen Erkenntnisse verfügen, um solch eine Feststellung überhaupt zu tätigen, heißt es in einer Stellungnahme der Menschenrechtsorganisation Centro Prodh, ­Artículo 19, R3D und weiterer Gruppen.
+Dass der Präsident es dennoch tat, stützt indirekt die Aussage Eduardo Guerreros, eines ehemaligen Mitarbeiters des mexikanischen Inlandsgeheimdienstes, in dem eingangs erwähnten Artikel der New York Times: »Mexikanische Sicherheitsbehörden würden nicht nach einem Gerichtsbeschluss ­fragen, denn sie wissen, sie würden keinen bekommen.
+Ich meine, wie könnte ein Richter der Überwachung von jemandem zustimmen, der sich dem Schutz der Menschenrechte widmet?« Für Alejandro Cerezo bedeutet dies schlicht und einfach: »Wir leben in keinem demokratischen Staat.«

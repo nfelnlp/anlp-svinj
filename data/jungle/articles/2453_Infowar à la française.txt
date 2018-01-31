@@ -1,0 +1,32 @@
+Die Hackerangriffe gegen Emmanuel Macron und dessen Gegenwehr
+Infowar à la française
+Der neue französische Präsident Emmanuel Macron zeigt, wie Wahlkämpfer sich intelligent gegen Hackerangriffe wehren können.
+Von
+Enno Park
+Anzeige
+Am Freitag vor der Stichwahl um die französische Präsidentschaft wurden neun Gigabyte Daten über Wikileaks und das Webportal 4chan ins Internet gestellt: E-Mails, Dokumente und vielleicht auch kompromittierendes Material von den Servern Emmanuel Macrons.
+Dahinter steckte wahrscheinlich der russische Hacker »Fancy Bear«, dessen Gruppe auch schon im US-Wahlkampf eine Rolle gespielt hatte und ­direkt oder indirekt für Wladimir Putin arbeiten soll.
+Was angesichts der Umfragewerte kurz vor dem Wahltag wie eine verzweifelte Attacke der Unterstützer Marine Le Pens wirkte, könnte wegen einer Besonderheit des franzö­sischen Wahlrechts durchaus so geplant gewesen sein.
+In Frankreich dürfen am Wahlsonntag und am Tag zuvor weder Kandidaten noch Presse politische Äußerungen im Hinblick auf die Wahl tätigen.
+Gelangen in dieser Zeit Vorwürfe gegen einen Kandidaten an die Öffentlichkeit, hat dieser praktisch keine Chance mehr, sich zu wehren.
+Solche Leaks können den Wahlsieg kosten.
+Während Hillary Clinton sich ­erfolglos an immer neuen Verfehlungen Donald Trumps abarbeitete, wies Trump nur mantramäßig auf ihre E-Mail-Affäre hin.
+Was in diesen E-Mails wirklich steht und ob Clinton sich etwas Nennenswertes zuschulden kommen ließ, ist weiterhin unklar – und mittlerweile auch egal.
+Irgendwas wird schon drinstehen, zumal der Vorwurf oft genug wiederholt wurde, um haften zu bleiben.
+Einem ähnlichen Schicksal wich Macron geschickt aus.
+Im letzten Moment ließ er verlauten, die veröffentlichten Daten enthielten zahlreiche fakes.
+So versucht er, nicht als der Beschuldigte in einer unklaren Affäre zu erscheinen, sondern als das Opfer von Fälschern.
+Der große Datenhaufen, der alles Mögliche enthalten kann, spräche dann nicht mehr gegen, sondern für ihn.
+Dabei deutet vieles darauf hin, dass Macron nicht bloß auf einen Angriff reagierte, sondern gut darauf vorbereitet war.
+Sein Wahlkampfteam hatte in den Wochen zuvor zahlreiche Versuche registriert, die Computer der Mitarbeiter mit gut gemachten Phishing-Mails zu hacken.
+Macrons Team war also vorgewarnt und sein Berater für digitale Kommunikation, der IT-Unternehmer Mounir Mahjoubi, ging in die Gegenoffensive.
+Mahjoubi überhäufte nach eigenen Angaben die Absender der Phishing-Attacken mit Daten: falsche und echte Passwörter, falsche und echte Logins, falsche und echte Dokumente.
+Die Hacker wussten nicht, was genau sie von den Rechnern des französischen Wahlkampfteams erbeutet hatten und ob Daten echt oder gefälscht waren.
+Dementsprechend reagierte auch Wikileaks auf die Stellungnahme Macrons: Ob die Daten Fälschungen enthalten, könne Macrons Team kaum so schnell geklärt haben, da Wikileaks selbst die Daten noch nicht habe prüfen können.
+Die Plattform gab damit zu, selbst nicht zu wissen, ob die geleakten Daten überhaupt echt und relevant sind.
+Vollendet wurde das Chaos, als allerlei Verschwörungstheoretiker im Internet die Idee verbreiteten, es habe gar keinen Hackerangriff gegeben, sondern Macron habe die ganze Geschichte selbst inszeniert.
+Die französische Öffentlichkeit verlor schnell das Interesse an der mittlerweile recht wirren Geschichte, zumal die Wahl gelaufen war, noch bevor die Medien das Geschehen irgendwie aufarbeiten konnten.
+Was Macrons Wahlkampfteam und die französische Öffentlichkeit da erlebten, lässt sich eigentlich nur noch als infowar bezeichnen.
+Vor allem zeigt die Episode: Hackerangriffen muss man nicht schutzlos ausgeliefert sein.
+Mit dem richtigen Dreh ist es möglich, die Angreifer mit ihren eigenen Mitteln zu schlagen.
+Das ist auch für Wahlkampfmanager in Deutschland interessant, wenn der Bundestagswahlkampf in die heiße Phase geht.

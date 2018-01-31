@@ -1,0 +1,53 @@
+Die Linke und das Recht, Teil 11: Juristen und E-Mail-Verkehr
+Lob des Faxgeräts
+Im Paragraphendschungel – eine Kolumne über das Recht im linken Alltag, Teil 11
+Von
+Hartmut Liebs
+Anzeige
+Auf Twitter gibt es für alle eine Blase, so auch für Juristinnen und Juristen.
+Sie besteht hauptsächlich aus Rechtsanwälten und -anwältinnen.
+Zum Ende des Jahres wurde dort sehr viel über das Faxgerät geschrieben.
+Sarkastisch tauschte man sich darüber aus, dass man diese alte Technik nun wohl wieder häufiger benutzen werde.
+Für die meisten Menschen ist das Faxgerät mittlerweile überflüssig geworden – nicht so für Juristen.
+Bei ihnen ist das Faxen für die sehr formell geregelte Kommunikation mit Gerichten und anderen Parteien in einem Verfahren eine recht nützliche Zustellmethode.
+Praktischerweise ist ein Fax, wenn alles klappt, innerhalb von Minuten zugestellt und damit auch eine eventuell bestehende Frist eingehalten.
+Wenn es nicht klappt, bleibt die Fahrt zum Nachtbriefkasten des Gerichts.
+Gelingt die Faxübermittlung, wird der Schriftsatz zusammen mit dem Sendebericht abgeheftet und das Thema hat sich vorerst ­erledigt.
+Das hätte sich zum 1. Januar grundlegend ändern sollen.
+Die Bundesrechtsanwaltskammer (BRAK) war bereit, sich der Digitalisierung zu stellen, und hatte ein Projekt namens »besonderes elektronisches Anwaltspostfach« (beA) begonnen.
+Das Faxgerät sollte damit ausgedient haben.
+Digitalisierung der Justiz ist in Deutschland und auch auf EU-Ebene ein großes Thema, so dass auch die Anwaltschaft nicht darum herumkommt.
+Bei der BRAK sollte für alle zugelassenen Anwälte unter Berücksichtigung der nötigen Sicherheitsvorkehrungen ein solches Postfach unterhalten werden, auf das die Anwälte zugreifen können, um mit Kollegen und der Justiz elektronisch zu kommunizieren.
+Die Gesamtkosten des Vorhabens, für die letztlich die Anwaltschaft aufkommt, betragen derzeit etwa 38 Millionen Euro.
+Die Nutzung des Postfachs sollte, zumindest für den Empfang von Nachrichten, für alle Anwälte verpflichtend werden.
+Ab Jahresbeginn sollten die Gerichte bundesweit per »beA« erreichbar sein.
+Ende Dezember wurde jedoch klar, dass daraus nichts wird.
+Der Hacker Markus Drenger vom »Chaos Computer Club« hatte schwere Sicherheitslücken offengelegt.
+Die BRAK reagierte mit einer Hin­haltetaktik.
+Zunächst setzte sie »beA« wegen »Verbindungsproblemen« aus.
+Sicherheitslücken räumte sie nur scheibchenweise ein.
+Zuvor hatte sie die Nutzer aufgefordert, ein Zertifikat zu installieren, das die Sicherheitslücken noch erheblich vergrößert hätte.
+Fehlerhaft ist unter anderem die versprochene Ende-zu-Ende-Verschlüsselung.
+Weitere Probleme bestehen Drenger zufolge bei Schnittstellen und Zertifikaten.
+Anwälte hatten das Projekt von Anfang an kritisiert.
+Besonders, dass die gesamte Kommunikation über ein zentrales System laufen sollte, wurde skeptisch gesehen.
+Die Aussetzung des »beA« war schon allein wegen der entdeckten Sicherheitslücken nötig.
+Die ganze Geschichte hat dafür gesorgt, dass die Anwaltschaft viel Vertrauen in die Anwaltskammer verloren hat.
+Das Faxgerät hat also für Anwälte noch nicht ausgedient.
+Aus Gründen der Datensicherheit ist aber auch das nicht unproble­matisch.
+Unser piepsender kleiner Freund hatte in dieser Hinsicht von Beginn an einige Schwächen.
+So können durch einen Zahlendreher Unterlagen beim falschen Empfänger landen, zudem liegen sie in den meisten Büros für alle dort zugänglich herum.
+Beim Fax war und ist es weiterhin akzeptiert, dass die Unterlagen komplett unverschlüsselt übertragen werden.
+Man könnte es ungerecht finden, dass an Online-Kommunikation viel höhere Anforderungen gestellt werden, schließlich gingen in den vergangenen Jahrzehnten Unmengen persönlicher Details von Mandanten über diesen Weg.
+So werden zum Beispiel in Schadenersatzfällen oft ärztliche Befunde diskutiert.
+Allerdings ist mehr Datensicherheit in unserer immer stärker vernetzten Welt durchaus zu begrüßen.
+Ob und gegebenenfalls wie das »beA« gerettet werden kann, wird in der nächsten Zeit rege diskutiert werden.
+Wahrscheinlich werden auch erhebliche Mehrkosten entstehen.
+Man diskutiert bereits, wie die Firma, die die Software entwickelte, dafür zur Verantwortung gezogen werden kann, denn es ist unwahrscheinlich, dass diese von den schweren Sicherheitslücken keinerlei Kenntnis hatte.
+Oft kommt es in solchen Fällen jedoch dazu, dass für viel zusätzliches Geld nur die drängendsten Probleme gelöst werden – Geld, das die Mitglieder der BRAK werden aufbringen müssen.
+Besonders Anwälte im Nebenberuf und prekäre Existenzgründer – das sind nicht wenige – werden darunter zu leiden haben.
+Ich habe von Anwälten gehört, die überlegen, ihre Zulassung abzugeben.
+Spätestens an dieser Stelle könnte man es für eine bitterlustige Begebenheit halten.
+Ein Wortspiel kursiert unter den Betroffenen: »beA« und BER liegen klanglich recht nahe beieinander.
+Einen Untersuchungs­ausschuss wird es in diesem Fall allerdings wohl nicht geben.
+Mehr Inland
