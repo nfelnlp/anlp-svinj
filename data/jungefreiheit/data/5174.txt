@@ -1,10 +1,3 @@
-© JUNGE FREIHEIT Verlag GmbH & Co.
-www.jungefreiheit.de 12/05 18. März 2005
-Neulich im Internet
-Lili Marleen
-Erol Stern
-Sicher geht es nicht nur mir so, daß ich bei dem überaus schönen Wort "Laterne" immer spontan an einen bestimmten deutschen Schlagerklassiker denken muß.
-In naher Zukunft könnte es jedoch leicht passieren, daß das allseits bekannte Liedchen "Vor der Kaserne, vor dem großen Tor ..." zur Erkennungsmelodie für schnöde Internetdienste umfunktioniert wird.
 Die Dresdner Firma Red i Point (redipoint.de) vermarktet zur Zeit eine Idee (eBay # 3879490201), die als konkrete Technologie noch nicht existiert: Internet und Daten per Straßenlaterne.
 Das Konzept basiert auf der ebenso einfachen wie genialen Idee, daß in jedem Ballungsraum eine relativ hohe Dichte an Straßenleuchten existiert, die leicht per Funk vernetzt werden könnten.
 Natürlich sind auch Telefondienste möglich, welche sich ohnehin fast komplett auf das Web verlagern werden.

@@ -1,10 +1,3 @@
-© JUNGE FREIHEIT Verlag GmbH & Co.
-www.jungefreiheit.de 02/18 / 05. Januar 2018
-Unbemerktes Sammeln von Nutzerinformationen
-Datenschutz: Das Bundeskartellamt kritisiert Facebook / Eine Initiative will an der Macht des sozialen Netzwerks rütteln
-Ronald Berthold
-Auf eine bisher weitgehend unbekannte Datenfalle von Facebook hat der Präsident des Bundeskartellamtes, Andreas Mundt, aufmerksam gemacht.
-Dabei problematisiert er das externe Datensammeln des Social-Media-Giganten.
 Nutzer gerieten schon dann in die Fänge des Unternehmens, wenn man zum Beispiel einen Gefällt Mir-Button gar nicht nutzt, aber eine entsprechende Seite aufgerufen hat, in die ein solcher Button eingebettet ist.
 Dies sei den Nutzern nicht bewußt.
 Mundt bezweifelt, daß die Nutzer der Datensammelei rechtlich wirksam zustimmten.

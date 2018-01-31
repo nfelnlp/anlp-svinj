@@ -13,7 +13,7 @@ from nltk.collocations import BigramAssocMeasures
 
 # Change the date in order to get more balance between left- and rightwing data 
 # since there is a lot of old data in the rightwing dataset.
-IGNORE_BEFORE_DATE = datetime.strptime("2007-01-01", "%Y-%m-%d")
+IGNORE_BEFORE_DATE = datetime.strptime("1997-01-01", "%Y-%m-%d")
 
 # When calculating uni- and bigram frequencies, the words have to apper at least MIN_FREQ-times
 MIN_FREQ = 10

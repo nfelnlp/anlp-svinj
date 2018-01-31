@@ -1,7 +1,3 @@
-Energiepolitik: Windkraft-Großanlagen für Industrieprozesse / Auch eine Alternative für Deutschland?
-Wolfhard H. A. Schmid
-Laut einer Studie der Deutschen Bank ist Deutschland derzeit mit einem Anteil von 28 Prozent an der global installierten Windleistung bereits führend in der Herstellung von Strom durch Windenergie.
-Doch die dank staatlich initiierter Förderung wie Pilze aus dem Boden sprießenden Windräder liefern ihre Energie unregelmäßig.
 Praktikable Stromspeichertechniken stehen noch nicht zur Verfügung.
 Um gefährliche Netzschwankungen auszugleichen sind Vorhaltekapazitäten in Kohle- oder Atomkraftwerken nötig (JF 38/06).
 Der Windenergieanteil in Deutschland ist daher mit fünf Prozent (2007) gering und für energieintensive Industrieprozesse noch keine Alternative.
