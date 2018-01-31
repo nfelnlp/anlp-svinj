@@ -1,17 +1,16 @@
 import os
 import numpy as np
+
+from sklearn import metrics
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
-from sklearn.naive_bayes import MultinomialNB
+from sklearn.linear_model import SGDClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.pipeline import Pipeline
 
 import baseline as base
 
 
-"""
-WORK IN PROGRESS
-"""
-
-
-def build_corpus(subset, sid):
+def concatenate_articles(subset, sid):
     subcorpus = []
 
     for i, row in enumerate(subset):
@@ -29,44 +28,35 @@ def build_corpus(subset, sid):
     return subcorpus, labels
 
 
-def test_unseen(data_path, cvec, tft, clf, y_train):
-    article_list = []
-    files = os.listdir(data_path)
+def build_corpus(left, right):
+    X_left, y_left = concatenate_articles(left, sid=0)
+    X_right, y_right = concatenate_articles(right, sid=1)
 
-    for art_file in files:
-        with open("/".join([data_path, art_file])) as f:
-            article = " ".join(x.strip('\n') for x in f.readlines())
-            article_list.append(article)
+    # combine both corpora
+    X = X_left + X_right
+    y = np.append(y_left, y_right)
 
-    X_new_counts = cvec.transform(article_list)
-    X_new_tfidf = tft.transform(X_new_counts)
-
-    predicted = clf.predict(X_new_tfidf)
-
-    for doc, category in zip(article_list, predicted):
-        print('{} => {}'.format(doc, y_train[category]))
+    return X, y
 
 
 if __name__ == "__main__":
-    # Parse the data sets for left- and right-wing
+    # Parse the datasets
     left_wing_train = base.read_csv('../data/train/left_wing_train.csv')
     right_wing_train = base.read_csv('../data/train/right_wing_train.csv')
 
-    X_left, y_left = build_corpus(left_wing_train, sid=0)
-    X_right, y_right = build_corpus(right_wing_train, sid=1)
+    left_wing_test = base.read_csv('../data/test/left_wing_test.csv')
+    right_wing_test = base.read_csv('../data/test/right_wing_test.csv')
 
-    # combine both corpora
-    X_train = X_left + X_right
-    y_train = np.append(y_left, y_right)
+    X_train, y_train = build_corpus(left_wing_train, right_wing_train)
+    X_test, y_test = build_corpus(left_wing_test, right_wing_test)
 
-    count_vect = CountVectorizer()
-    X_train_counts = count_vect.fit_transform(X_train)
-    print("X_train: {}".format(X_train_counts.shape))
-    print("y_train: {}".format(y_train.shape))
+    text_clf = Pipeline([('vect', CountVectorizer()),
+                         ('tfidf', TfidfTransformer()),
+                         ('clf', SGDClassifier())])
 
-    tfidf_transformer = TfidfTransformer()
-    X_train_tfidf = tfidf_transformer.fit_transform(X_train_counts)
+    text_clf.fit(X_train, y_train)
+    predicted = text_clf.predict(X_test)
 
-    nb_clf = MultinomialNB().fit(X_train_tfidf, y_train)
+    print(metrics.classification_report(y_test, predicted))
 
-    test_unseen('../data/pi-news/pi_texts', count_vect, tfidf_transformer, nb_clf, y_train)
+    print(metrics.confusion_matrix(y_test, predicted))
