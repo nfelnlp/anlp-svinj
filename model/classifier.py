@@ -1,40 +1,36 @@
-import os
 import numpy as np
+import pandas as pd
 
 from sklearn import metrics
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 from sklearn.linear_model import SGDClassifier
-from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 
 import baseline as base
 
 
 def concatenate_articles(subset, sid):
-    subcorpus = []
+    df = pd.DataFrame()
 
-    for i, row in enumerate(subset):
-        with open(row[0]) as f:
-            # concatenate all sentences to one string
-            article = " ".join(x.strip('\n') for x in f.readlines())
-            subcorpus.append(article)
+    files = [row[0] for row in subset]
+    df["text"] = [open(f).read() for f in files]
+    df["file"] = files
 
-    # add labels
     if sid == 0:
-        labels = np.zeros((len(subcorpus), 1), dtype=np.int)
+        df["label"] = 0
     else:
-        labels = np.ones((len(subcorpus), 1), dtype=np.int)
+        df["label"] = 1
 
-    return subcorpus, labels
+    return df
 
 
 def build_corpus(left, right):
-    X_left, y_left = concatenate_articles(left, sid=0)
-    X_right, y_right = concatenate_articles(right, sid=1)
+    data_left = concatenate_articles(left, sid=0)
+    data_right = concatenate_articles(right, sid=1)
 
     # combine both corpora
-    X = X_left + X_right
-    y = np.append(y_left, y_right)
+    X = pd.concat([data_left[['text', 'file']], data_right[['text', 'file']]])
+    y = pd.concat([data_left['label'], data_right['label']])
 
     return X, y
 
@@ -54,9 +50,14 @@ if __name__ == "__main__":
                          ('tfidf', TfidfTransformer()),
                          ('clf', SGDClassifier())])
 
-    text_clf.fit(X_train, y_train)
-    predicted = text_clf.predict(X_test)
+    text_clf.fit(X_train.text, y_train)
+    predicted = text_clf.predict(X_test.text)
 
     print(metrics.classification_report(y_test, predicted))
 
     print(metrics.confusion_matrix(y_test, predicted))
+
+    X_test["pred"] = predicted
+    results = pd.concat([X_test, y_test], axis=1)
+
+    print(results[results.pred != results.label])
