@@ -2,7 +2,8 @@ import numpy as np
 import pandas as pd
 
 from sklearn import metrics
-from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
+from sklearn import tree
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer, TfidfTransformer
 from sklearn.linear_model import SGDClassifier
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.neural_network import MLPClassifier
@@ -17,7 +18,20 @@ def concatenate_articles(subset, sid):
     df = pd.DataFrame()
 
     files = [row[0] for row in subset]
-    df['text'] = [open(f).read() for f in files]
+    articles = [open(f).read() for f in files]
+
+    merkellist = []
+    for art in articles:
+        merkelcounter = 0
+        for word in art.split():
+            if word == "Merkel":
+                merkelcounter += 1
+        merkellist.append(merkelcounter)
+
+    df['angela'] = merkellist
+
+    df['text'] = articles
+
     df['file'] = files
 
     if sid == 0:
@@ -36,7 +50,7 @@ def build_corpus(left, right):
     data = pd.concat([data_left, data_right])
     shuffled_data = shuffle(data).reset_index(drop=True)
 
-    X = shuffled_data[['text', 'file']]
+    X = shuffled_data[['text', 'file', 'angela']]
     y = shuffled_data['label']
 
     return X, y
@@ -56,15 +70,21 @@ if __name__ == "__main__":
     X_test, y_test = build_corpus(left_wing_test, right_wing_test)
 
     # Training
-    text_clf = Pipeline([('vect', CountVectorizer()),
-                         ('tfidf', TfidfTransformer()),
-                         ('clf', SGDClassifier())])
+    """
+    text_clf = Pipeline([('vect', TfidfVectorizer(max_features=100)),
+                         #('tfidf', TfidfTransformer()),
+                         ('clf', MultinomialNB())])
     text_clf.fit(X_train.text, y_train)
-
     # Apply trained model on test set
     predicted = text_clf.predict(X_test.text)
+    """
+
+    text_clf = tree.DecisionTreeClassifier()
+    text_clf.fit(X_train.angela.reshape((19470, 1)), y_train)
+    predicted = text_clf.predict(X_test.angela.reshape((4860, 1)))
 
     # Evaluation
+    print(metrics.accuracy_score(y_test, predicted))
     print(metrics.classification_report(y_test, predicted))
     print(metrics.confusion_matrix(y_test, predicted))
 
