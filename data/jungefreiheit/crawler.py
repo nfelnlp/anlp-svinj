@@ -117,7 +117,7 @@ if __name__ == "__main__":
                         writer = csv.writer(csvfile, delimiter=' ', quotechar='|', quoting=csv.QUOTE_MINIMAL)
                         with open(path, 'w+') as f:
                             sent_tokenize_list = sent_tokenize(text, language='german')
-                            for sent in sent_tokenize_list:
+                            for sent in sent_tokenize_list[3:]:
                                 f.write(str(sent)+'\n')
                             writer.writerow([path, aurl, date, "None", "None"])
                             counter += 1

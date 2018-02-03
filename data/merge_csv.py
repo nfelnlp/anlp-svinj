@@ -9,10 +9,11 @@ TRAINING_SIZE_PERCENTAGE = .8
 
 left_wing  = ['derfreitag/derfreitag.csv',
               'nachdenkseiten/nachdenkseiten.csv',
-              'neues-deutschland/metadata_nd.csv']
+              'neues-deutschland/metadata_nd.csv',
+              'jungle/jungle.csv']
 right_wing = ['jungefreiheit/jungefreiheit.csv',
-              'zuerst/zuerst.csv',
-              '../compact/compact.csv']
+              #'../compact/compact.csv', # Temporarily exclude since csv format needs to be fixed
+              'zuerst/zuerst.csv']
 
 def read_csv(csv_paths):
     rows = []

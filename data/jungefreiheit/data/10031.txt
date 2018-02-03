@@ -1,11 +1,3 @@
-© JUNGE FREIHEIT Verlag GmbH & Co.
-www.jungefreiheit.de 05/17 / 27. Januar 2017
-Sozialstaat als der allerletzte Kitt
-Kφlner Studie zur Nationalen Identitδt in der deutschen Bevφlkerung: Wenn selbst der Verfassungspatriotismus unter Chauvinismusverdacht gerδt
-Wolfgang Mόller
-Das Modell, bei dem sowohl die Faktorladungen als auch die Intercepts in beiden Gruppen gleichgesetzt wurden, weist eine unbefriedigende Modellgόte auf (O2korr (71) = 1405,4 (p < 00,001); RMSEA = 0,086 (0,80/0,091), CFl = 0,779, SRMR = 0,078), so daί nicht davon ausgegangen werden kann, daί vollstδndig skalare Invarianz vorliegt.
-Was hier wie Daniel Dόsentriebs Weltformel anmutet, ist Selbstkritik an einem statistischen Modell, das die Wirklichkeit nur unzureichend objektiviert und sie nicht auf den mathematischen Punkt bringt.
-Kein Wunder, da es um den Proteus Identitδt geht, dem sich Matthias Mader, wissenschaftlicher Mitarbeiter am Mannheimer Lehrstuhl fόr Politische Psychologie, in seiner Untersuchung όber Stabilitδt und Wandel der nationalen Identitδt in der deutschen Bevφlkerung (Kφlner Zeitschrift fόr Soziologie und Sozialpsychologie, 3/16) widmet.
 Mader rδumt wiederholt zerknirscht ein, daί die Zuordnung der von ihm nach ihrem Nationalgefόhl Befragten einer gewissen Unschδrfe unterliege, seine Raster aus psychometrischen Erhebungen von 1995, 2004 und 2014 nur mit Vorsicht zu vergleichen seien, was die Belastbarkeit der Schluίfolgerungen natόrlich () reduziert, und daί womφglich weniger oder stδrker differenzierte deutsche Identitδten nicht adδquat erfaίt wόrden.
 Das scheint aber weniger Folge vielleicht noch unausgereifter statistischer Methoden zu sein, sondern Konsequenz seiner unscharfen Profile zu sein, die emotional verankerte politische Einstellungen beschreiben sollen.
 Die Mehrzahl der Befragten ordnet Mader drei Profilen zu: Patriotismus sowie vφlkisch-kulturalistischer sowie chauvinistischer Nationalismus.

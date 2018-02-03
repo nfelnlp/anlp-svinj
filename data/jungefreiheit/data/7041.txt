@@ -1,8 +1,3 @@
-Meinungsfreudig
-Thorsten Thaler
-Wer das Internetangebot unter www.jungefreiheit.de nutzt,  wird dort auf unserer Startseite seit voriger Woche auf die Rubrik Meistgelesen  / Meistkommentiert gestoßen sein.
-Sie gibt Auskunft darüber, welche Artikel in  den jeweils letzten 48 Stunden am häufigsten gelesen und welche am meisten  kommentiert wurden.
-Technisch funktioniert das so, daß die Kommentar- und  Klickraten bei jedem Klick für die jeweils aufgerufene Meldung berechnet werden.
 Die Reihenfolge ergibt sich aus der Kommentarrate, also nicht aus der absoluten  Zahl der Kommentare, sondern danach, welche Meldung die meisten Kommentare  bezogen auf einen fest umrissenen Zeitraum generiert hat.
 In der Regel werden  zwar die meistgelesenen Texte auch die meistkommentierten sein, doch gibt es  auch Abweichungen.
 Bei Redaktionsschluß dieser Ausgabe zum Beispiel gehörten ein  an diesem Dienstag frisch ins Internet gestellter Artikel aus der Druckausgabe  (Das schwarze Kuckucksei) sowie ein Blog von Ronald Gläser (Ein paar  Wahrheiten zum 8.

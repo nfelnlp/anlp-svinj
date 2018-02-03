@@ -1,8 +1,3 @@
-Computer sind nicht klüger als Menschen
-Ronald Gläser
-Diese Meldung hat es vor einer Woche in viele Nachrichtensendungen geschafft:  Der IBM-Supercomputer Watson hat bei dem amerikanischen Fernsehquiz Jeopardy  zwei Kontrahenten aus Fleisch und Blut besiegt.
-Watson triumphierte, weil er  wußte, daß Plattdeutsch ein Dialekt aus Germany ist.
-Jeopardy (lief bis 1998  auch bei RTL) ist ein Spiel, bei dem die Teilnehmer eine Frage zu einer Antwort  formulieren müssen.
 Also zum Beispiel: Er regierte Deutschland von 1982 bis  1998. Richtige Frage dazu: Wer war Helmut Kohl?
 Ein Computer, der hier mithalten kann, muß auch Zusammenhänge erkennen.
 Watson kann das.

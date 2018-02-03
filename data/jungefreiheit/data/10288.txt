@@ -1,10 +1,3 @@
-© JUNGE FREIHEIT Verlag GmbH & Co.
-www.jungefreiheit.de 03/18 / 12. Januar 2018
-Schreckgespenst und Kernschmelze
-Spectre und Meltdown: Neue Sicherheitslücke in Milliarden von Prozessoren / Alle Hersteller sind betroffen
-Mathias Pellack
-Am Mittwoch voriger Woche enthüllten Forscher der Öffentlichkeit gravierende Sicherheitsmängel in modernen Prozessoren.
-Ein Großteil der Zentralen Recheneinheiten seit dem 1995 veröffentlichten Intel Pentium Pro sind von Meltdown und Spectre, so die Namen der Sicherheitslücken, betroffen.
 Auch Chips von AMD, ARM und Broadcom, die in so gut wie allen Laptops, Tablets und Smartphones, iPods, SmartTVs und Medienreceivern und selbst in Taschenrechnern verbaut sind, weisen diese leicht angreifbare Chiparchitektur auf.
 Standardisierung und Leistungshunger als Fehler
 Die vier großen Hersteller geben an, daß sie Software-Patches bereitstellen werden, um die Fehler zu beheben oder zumindest abmildern zu können.

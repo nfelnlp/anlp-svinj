@@ -1,10 +1,3 @@
-© JUNGE FREIHEIT Verlag GmbH & Co.
-www.jungefreiheit.de 03/04 09. Januar 2004
-Neulich im Internet
-Fauxpas
-Erol Stern
-Ein äußerst peinlicher Patzer von Microsoft bei der Auslieferung des Büropakets Office 2003 hat kürzlich für negative Schlagzeilen gesorgt.
-Versehentlich wurde eine der beigefügten Schriftarten mit enthaltenen Hakenkreuz-Symbolen ausgeliefert.
 Das in Deutschland verbotene Zeichen steckt im Zeichensatz Bookshelf Symbol 7, und das gleich zweifach.
 Microsoft bedauerte öffentlich das Versehen und entschuldigte sich bei all jenen, die sich dadurch verletzt fühlen.
 Außerdem bietet Bill Gates' Konzern eine Datei zum Download an, welche die Schrift vollständig entfernt.

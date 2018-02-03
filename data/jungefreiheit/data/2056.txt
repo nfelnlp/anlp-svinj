@@ -1,9 +1,3 @@
-© JUNGE FREIHEIT Verlag GmbH & Co.
-www.jungefreiheit.de    20/00 12. Mai 2000
- 
-Ich liebe euch alle!
-von Jörg Fischer
-Am 3. Mai begann das Unheil: Millionen PC-Besitzer mit     Internet-Anschluß sichteten im E-Briefkasten die Nachricht "I love you".
 Da     für die "Internet-Gemeinde" Pidgin-Englisch (Für Dich heißt "4U")     die Verkehrssprache ist, öffneten unzählige den "Liebesbrief".
 Der enthaltene     PC-Virus wurde dadurch aktiviert und wütete nicht nur auf dem Rechner des Empfängers,     sondern der Virus verschickte sich selbsttätig an andere bekannte Adressen.
 So breitete     sich der Bösewicht rasant aus, drang in Firmennetze ein und richtete Milliardenschäden     an: die Windows-Welt, und nur die, stand still.

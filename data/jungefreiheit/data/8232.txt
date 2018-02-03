@@ -1,8 +1,3 @@
-Mit Konterfrei gegen Facebook und Co.
-Geschäftsidee: Hamburger Bildagentur findet einen  Weg, um Bilderkennungsprogramme von Sozialnetzwerken auszuspielen
-Bernhard Knapstein
-Die Proteste gegen das Anti-Piraterie-Abkommen  Acta haben gezeigt, wie sensibilisiert die Öffentlichkeit in bezug auf  Datensammel- und Kontrollwut ist.
-Zu den neusten Maßnahmen der  Kommunikationsindustrie gehört die Biometrie.
 Zu deutsch: die Erfassung und  Verwaltung personenbezogener Daten wie Fotos.
 Das Sozialnetzwerk Facebook etwa  speichert die Bilder seiner Mitglieder nicht nur.
 Es kann weitere Bilder des  Nutzers anhand der individuellen Gesichtsmerkmale erkennen.
