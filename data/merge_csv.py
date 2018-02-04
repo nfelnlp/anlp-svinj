@@ -4,16 +4,20 @@ import os
 import time
 import datetime
 from random import shuffle
+from nltk.tokenize import word_tokenize
 
 TRAINING_SIZE_PERCENTAGE = .8
+
+NUM_ARTICLES = 1200
 
 left_wing  = ['derfreitag/derfreitag.csv',
               'nachdenkseiten/nachdenkseiten.csv',
               'neues-deutschland/metadata_nd.csv',
               'jungle/jungle.csv']
 right_wing = ['jungefreiheit/jungefreiheit.csv',
-              #'../compact/compact.csv', # Temporarily exclude since csv format needs to be fixed
-              'zuerst/zuerst.csv']
+              'compact/compact.csv', 
+              'zuerst/zuerst.csv',
+              'pi-news/metadata_pi.csv']
 
 def read_csv(csv_paths):
     rows = []
@@ -21,14 +25,25 @@ def read_csv(csv_paths):
         print('Reading:', path)
         rel = '/'.join(path.split('/')[:-1])
         print('Rel:', rel) 
+        my_rows = []
         row_cnt = 0
         with open(path, 'r') as inf:
            reader = csv.reader(inf, delimiter=' ', quotechar='|')
            for row in reader:
-                row[0] = '../' + rel + '/' + row[0]
-                rows.append(row)
-                row_cnt += 1
-        print(row_cnt, 'rows read\n')
+                pth = rel + '/' + row[0]
+                row[0] = '../' + pth
+                try:
+                    with open(pth) as f:
+                        content = f.read()
+                        tokens = word_tokenize(content)
+                        my_rows.append((row, len(tokens)))
+                except:
+                    print('skipping file')
+        my_rows.sort(key=lambda x: x[1])
+        my_rows = [x[0] for x in my_rows[-NUM_ARTICLES:]]
+        rows += my_rows
+        print(len(my_rows), 'rows read\n')
+    print('total rows:', len(rows))
     return rows
 
 
