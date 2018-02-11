@@ -37,8 +37,8 @@ def read_csv(csv_paths):
                         content = f.read()
                         tokens = word_tokenize(content)
                         my_rows.append((row, len(tokens)))
-                except:
-                    print('skipping file')
+                except Exception as e:
+                    print('skipping file', e)
         my_rows.sort(key=lambda x: x[1])
         my_rows = [x[0] for x in my_rows[-NUM_ARTICLES:]]
         rows += my_rows
