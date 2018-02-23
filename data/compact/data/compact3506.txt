@@ -1,8 +1,40 @@
 COMPACT wieder online – Mut zur Wahrheit auch virtuell nicht kleinzukriegen			
 
-Einen Kommunikations-Großeinsatz erlebte die COMPACT Redaktion am Donnerstag. Nachdem gegen 11:00 Uhr COMPACT Online plötzlich nicht mehr abrufbar war, klingelten die Telefone heiße, quollen die Mail-Fächer über. Die bange Frage: hat COMPACT aufgegeben? Keineswegs – COMPACT steht fest an der Seite derjenigen mit Mut zur Wahrheit, als Fels in der Brandung der Lüge. Lediglich eine Überlastung des hin und wieder launigen Kollegen Computer verordnete uns ein paar Stunden Zwangspause. Der Server war schlicht überlastet und legte sich sozusagen ein paar Stunden aufs Ohr.
-Zugegeben – wir hätten es ahnen können. Weil immer mehr Menschen Mut zur Wahrheit leben, haben sich auch die Zugriffe unserer Internetangebote in den vergangenen Monaten mehr als verdoppelt. Print und Online entwickeln sich zu einer nicht mehr zu ignorierenden Bastion in der deutschen Medienlandschaft. Diese Entwicklung macht Mut und spendet Kraft – doch für die Rechnertechnik eine echte Herausforderung, die es zu meistern gilt. Deshalb werden die Kapazitäten immer wieder erhöht – der Ausfall vom Donnerstag bewies, dass wir hier wieder aktiv werden müssen.
-Kurzzeitig problematisch kann es jedoch auch werden, wenn – bezahlte? – Störer versuchen, COMPACT und unsere Leser aus der Bahn zu werfen. Das ist zwar ein hoffnungsloses Unterfangen, doch die Attacken mehren sich. Den Gegnern der Wahrheit treibt der Erfolg von COMPACT die ohnmächtige Wut ins Gesicht. Dass sie nach den hilflosen Angriffen auf die COMPACT Familienkonferenz im November nun auch unsere Onlineentwicklung stören würden, hatten wir erwartet. Deshalb auch modernste Technik, die jedes Eindringen auf unsere Datenbanken unmöglich macht. Alle Inhalte, auch alle Kundendaten sind zu 100 Prozent sicher. Schwieriger wird es bei sogenannten DDoS-Angriffen. Dabei wird ein Server durch massenhafte, zumeist automatische Anfragen von außen überlastet, bis er sich schließlich abschaltet.
-Welche Ursache genau zum Ausfall vom Donnerstag geführt hat, ist noch nicht restlos geklärt. Doch virtuelle Krawallmacher erreichen ihr Ziel weder jetzt noch in Zukunft. COMPACT steht immer wieder auf. So war es auch am dieses Mal. Fleißige Hände und wache Augen überprüften am Donnerstag sofort unsere Technik, fuhren den Server nur Stunden später wieder hoch. Datenverluste treten bei derartigen Überlastungen nicht auf. Weil der Tag für die angenervte Onlineredaktion aber nun ohnehin gelaufen war, entschieden die Techniker, ein paar sowieso anstehende Wartungsarbeiten vorzuziehen und COMPACT erst am Nachmittag wieder online zu schalten. Ursprünglich für März geplante kurzzeitige Abschaltungen aus Wartungsgründen konnten so vermieden werden.
-Trotzdem ist einmal mehr klar geworden: Die Wahrheit erfordert Mut, deshalb wird COMPACT gebraucht. Virtuell, vor allem aber auf Papier. Den Mut haben wir, die nötige Kraft entwickeln wir gemeinsam mit unseren Lesern. Deshalb ist es so wichtig, dass unsere starke Gemeinschaft noch enger zusammenrückt. Der tägliche Besuch bei COMPACT Online, unserem YouTube-Angebot und der Facebook-Seite schweißt uns immer mehr zusammen. Live-Veranstaltungen – das nächste Mal täglich vom 13. bis 16. März zur Buchmesse in Leipzig – vertiefen den menschlichen Kontakt.
-Angriffe auf unsere digitale Präsenz sind jedoch das eine, aber im Unterschied zu den schwächelnden etablierten Medien ist unser Standbein klassisch analog: das gedruckte Magazin. Dort wachsen wir, während die Konkurrenz ständig Boden verliert. Entscheidend ist daher das COMPACT Abo – unsere monatliche Printausgabe kommt zuverlässig ins Haus, unbeschadet aller Onlinestürme.
+Einen Kommunikations-Großeinsatz erlebte die COMPACT Redaktion am Donnerstag.
+Nachdem gegen 11:00 Uhr COMPACT Online plötzlich nicht mehr abrufbar war, klingelten die Telefone heiße, quollen die Mail-Fächer über.
+Die bange Frage: hat COMPACT aufgegeben?
+Keineswegs – COMPACT steht fest an der Seite derjenigen mit Mut zur Wahrheit, als Fels in der Brandung der Lüge.
+Lediglich eine Überlastung des hin und wieder launigen Kollegen Computer verordnete uns ein paar Stunden Zwangspause.
+Der Server war schlicht überlastet und legte sich sozusagen ein paar Stunden aufs Ohr.
+Zugegeben – wir hätten es ahnen können.
+Weil immer mehr Menschen Mut zur Wahrheit leben, haben sich auch die Zugriffe unserer Internetangebote in den vergangenen Monaten mehr als verdoppelt.
+Print und Online entwickeln sich zu einer nicht mehr zu ignorierenden Bastion in der deutschen Medienlandschaft.
+Diese Entwicklung macht Mut und spendet Kraft – doch für die Rechnertechnik eine echte Herausforderung, die es zu meistern gilt.
+Deshalb werden die Kapazitäten immer wieder erhöht – der Ausfall vom Donnerstag bewies, dass wir hier wieder aktiv werden müssen.
+Kurzzeitig problematisch kann es jedoch auch werden, wenn – bezahlte?
+– Störer versuchen, COMPACT und unsere Leser aus der Bahn zu werfen.
+Das ist zwar ein hoffnungsloses Unterfangen, doch die Attacken mehren sich.
+Den Gegnern der Wahrheit treibt der Erfolg von COMPACT die ohnmächtige Wut ins Gesicht.
+Dass sie nach den hilflosen Angriffen auf die COMPACT Familienkonferenz im November nun auch unsere Onlineentwicklung stören würden, hatten wir erwartet.
+Deshalb auch modernste Technik, die jedes Eindringen auf unsere Datenbanken unmöglich macht.
+Alle Inhalte, auch alle Kundendaten sind zu 100 Prozent sicher.
+Schwieriger wird es bei sogenannten DDoS-Angriffen.
+Dabei wird ein Server durch massenhafte, zumeist automatische Anfragen von außen überlastet, bis er sich schließlich abschaltet.
+Welche Ursache genau zum Ausfall vom Donnerstag geführt hat, ist noch nicht restlos geklärt.
+Doch virtuelle Krawallmacher erreichen ihr Ziel weder jetzt noch in Zukunft.
+COMPACT steht immer wieder auf.
+So war es auch am dieses Mal.
+Fleißige Hände und wache Augen überprüften am Donnerstag sofort unsere Technik, fuhren den Server nur Stunden später wieder hoch.
+Datenverluste treten bei derartigen Überlastungen nicht auf.
+Weil der Tag für die angenervte Onlineredaktion aber nun ohnehin gelaufen war, entschieden die Techniker, ein paar sowieso anstehende Wartungsarbeiten vorzuziehen und COMPACT erst am Nachmittag wieder online zu schalten.
+Ursprünglich für März geplante kurzzeitige Abschaltungen aus Wartungsgründen konnten so vermieden werden.
+Trotzdem ist einmal mehr klar geworden: Die Wahrheit erfordert Mut, deshalb wird COMPACT gebraucht.
+Virtuell, vor allem aber auf Papier.
+Den Mut haben wir, die nötige Kraft entwickeln wir gemeinsam mit unseren Lesern.
+Deshalb ist es so wichtig, dass unsere starke Gemeinschaft noch enger zusammenrückt.
+Der tägliche Besuch bei COMPACT Online, unserem YouTube-Angebot und der Facebook-Seite schweißt uns immer mehr zusammen.
+Live-Veranstaltungen – das nächste Mal täglich vom 13. bis 16.
+März zur Buchmesse in Leipzig – vertiefen den menschlichen Kontakt.
+Angriffe auf unsere digitale Präsenz sind jedoch das eine, aber im Unterschied zu den schwächelnden etablierten Medien ist unser Standbein klassisch analog: das gedruckte Magazin.
+Dort wachsen wir, während die Konkurrenz ständig Boden verliert.
+Entscheidend ist daher das COMPACT Abo – unsere monatliche Printausgabe kommt zuverlässig ins Haus, unbeschadet aller Onlinestürme.

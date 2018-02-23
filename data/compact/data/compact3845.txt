@@ -1,63 +1,159 @@
 Der Homo Internetiensis			
 
 Wie ich Vint Cerf, den „Vater des Internet“, kennen lernte.
-Das Internet hat eine weltumfassende atemberaubende kulturelle Revolution ausgelöst, die andauert und uns noch Überraschungen bringen wird. Auch stehen wir heute so sehr in der Mitte der Entwicklung, daß wir die gegenwärtigen politischen, soziologischen, wirtschaftlichen und auch philosophischen Auswirkungen nur andeutungsweise erfassen können.
-Dazu gehören insbesondere die Möglichkeiten der totalen Überwachung jedes Menschen durch Technologien, die sich direkt oder indirekt aus dem Internet entwickelt haben. Mobiltelefonie und Satellitennavigation haben weiter dazu beigetragen.
-Überwachung heißt nicht nur, daß unsere Aufenthaltsorte und unsere Kommunikation für Interessierte offen daliegen, sondern daß sich aus umfassenden Beobachtungsdaten über raffinierte automatisierte Auswertungsmethoden Profile über unsere Gedanken, Gefühle, Überzeugungen, Pläne und unser personelles Umfeld ermitteln lassen. Bis hin zu Handlungsentscheidungen ist alles automatisiert. Das bedeutet, daß Grenzen einer solchen umfassenden Überwachung lediglich Computer- und Übertragunskapazitäten sind, d.h. praktisch nicht existieren.
+Das Internet hat eine weltumfassende atemberaubende kulturelle Revolution ausgelöst, die andauert und uns noch Überraschungen bringen wird.
+Auch stehen wir heute so sehr in der Mitte der Entwicklung, daß wir die gegenwärtigen politischen, soziologischen, wirtschaftlichen und auch philosophischen Auswirkungen nur andeutungsweise erfassen können.
+Dazu gehören insbesondere die Möglichkeiten der totalen Überwachung jedes Menschen durch Technologien, die sich direkt oder indirekt aus dem Internet entwickelt haben.
+Mobiltelefonie und Satellitennavigation haben weiter dazu beigetragen.
+Überwachung heißt nicht nur, daß unsere Aufenthaltsorte und unsere Kommunikation für Interessierte offen daliegen, sondern daß sich aus umfassenden Beobachtungsdaten über raffinierte automatisierte Auswertungsmethoden Profile über unsere Gedanken, Gefühle, Überzeugungen, Pläne und unser personelles Umfeld ermitteln lassen.
+Bis hin zu Handlungsentscheidungen ist alles automatisiert.
+Das bedeutet, daß Grenzen einer solchen umfassenden Überwachung lediglich Computer- und Übertragunskapazitäten sind, d.h. praktisch nicht existieren.
 Gefahr eines neuen Totalitarismus
-Am Horizont sehen wir die umfassende Manipulierbarkeit der Bürger. Diese schleicht sich auf leisen Sohlen an. Sie ist so fantastisch, daß die meisten Menschen nur damit umgehen können, indem sie sie verdrängen. Es wird immer noch von Schutz der Privatsphäre geredet, obwohl diese längst der Vergangenheit angehört. Die Menschen lassen überwiegend keine Vorsicht walten bei dem, was sie ihren Emails anvertrauen, ganz zu schweigen von der Sorglosigkeit der Bürger in sozialen Netzen.
-Wir haben heute wiederum die Situation, daß wir auf dem Weg zum Totalitarismus sind und es nicht merken, weil die Schritte dahin so klein und allmählich sind. Eine neue Situation haben wir nur insofern, als Überwachung und Manipulation global sind. Umso fantastischer ist die Entwicklung. Noch ist unklar, wer die Oberhand behalten wird. Immerhin befinden sich wesentliche Ressourcen und Steuerungen des Internet in den USA. Wiederum werden nachfolgende Generationen sagen: „Wie konntet ihr nur! Es war doch klar, wohin die Reise ging“.
+Am Horizont sehen wir die umfassende Manipulierbarkeit der Bürger.
+Diese schleicht sich auf leisen Sohlen an.
+Sie ist so fantastisch, daß die meisten Menschen nur damit umgehen können, indem sie sie verdrängen.
+Es wird immer noch von Schutz der Privatsphäre geredet, obwohl diese längst der Vergangenheit angehört.
+Die Menschen lassen überwiegend keine Vorsicht walten bei dem, was sie ihren Emails anvertrauen, ganz zu schweigen von der Sorglosigkeit der Bürger in sozialen Netzen.
+Wir haben heute wiederum die Situation, daß wir auf dem Weg zum Totalitarismus sind und es nicht merken, weil die Schritte dahin so klein und allmählich sind.
+Eine neue Situation haben wir nur insofern, als Überwachung und Manipulation global sind.
+Umso fantastischer ist die Entwicklung.
+Noch ist unklar, wer die Oberhand behalten wird.
+Immerhin befinden sich wesentliche Ressourcen und Steuerungen des Internet in den USA.
+Wiederum werden nachfolgende Generationen sagen: „Wie konntet ihr nur!
+Es war doch klar, wohin die Reise ging“.
 Wie hat alles angefangen?
 Die „San Francisco Bay Area“ – Brutstätte des Internet
-Ich wohnte in Berkeley, auf der anderen Seite der Bucht von San Francisco, ein Großstadtgebiet bekannt als „San Francisco Bay Area“. Ich habe dieses Gebiet immer als die attraktivste Wohngegend der USA empfunden. Sie zieht sich in einem schmalen Streifen ineinanderlaufender Städte ganz unterschiedlichen Charakters um die Bucht herum. Das Silicon Valley gehört dazu.
-Durch diese Lage wird man nicht von einem Großstadtdschungel erdrückt. Auf der Ostseite der Bucht, hat man etwas weiter oben am Hang schöne kalifornische Natur. Ich hatte auf dem Grat dieser Hügel meine schönste Laufstrecke im Leben: Acht Meilen (13 km) durch die würzig duftende mittelmeerartige Landschaft mit Aussicht auf das Golden Gate und das Zentrale Tal von Kalifornien. Dazu ist Berkeley eine der wenigen richtig schönen Städtchen Amerikas.
-Dann noch das ideale Klima. Die Bucht wird im Sommer durch den Wind vom kalten Pazifik her gekühlt, wenn im Innern Kaliforniens das Thermometer auf 45 Grad Celsius steigt. Im Winter ist es warm genug, so daß ich dort nie einen Mantel besessen habe. Heiße durchweg trockene Sommer, was ich mir als Kind und Jugendlicher immer gewünscht habe, und feuchte warme Winter mit anständigen Regenstürmen lösen sich ab, bei denen immer mal wieder ein Berghang mitsamt Häusern abrutscht.
-Dabei ist man in nur wenige Stunden vom Hochgebirge der Sierra Nevada entfernt. Das letzte Mal, als wird dort im Winter auf Skiern durch die einsamen Wälder gestreift sind, hatten wir sechs Meter Schnee unter uns. Für eine Lunchpause mußten wir mit unseren Skiern eine Fläche legen, um nicht im Pulverschnee zu versinken.
-Ich hatte einen deutschen Forschungsauftrag an der University of California durchgeführt und saß auf dem Balkon meines Hauses, am Hang und im Grünen, mit Blick über die Bucht, San Francisco und das Golden Gate. Ich sollte jetzt eigentlich wieder nach Deutschland zurückkehren, aber ich konnte mich von Umgebung und schönem Blick nicht losreißen. Also warum nicht einfach bleiben?
+Ich wohnte in Berkeley, auf der anderen Seite der Bucht von San Francisco, ein Großstadtgebiet bekannt als „San Francisco Bay Area“.
+Ich habe dieses Gebiet immer als die attraktivste Wohngegend der USA empfunden.
+Sie zieht sich in einem schmalen Streifen ineinanderlaufender Städte ganz unterschiedlichen Charakters um die Bucht herum.
+Das Silicon Valley gehört dazu.
+Durch diese Lage wird man nicht von einem Großstadtdschungel erdrückt.
+Auf der Ostseite der Bucht, hat man etwas weiter oben am Hang schöne kalifornische Natur.
+Ich hatte auf dem Grat dieser Hügel meine schönste Laufstrecke im Leben: Acht Meilen (13 km) durch die würzig duftende mittelmeerartige Landschaft mit Aussicht auf das Golden Gate und das Zentrale Tal von Kalifornien.
+Dazu ist Berkeley eine der wenigen richtig schönen Städtchen Amerikas.
+Dann noch das ideale Klima.
+Die Bucht wird im Sommer durch den Wind vom kalten Pazifik her gekühlt, wenn im Innern Kaliforniens das Thermometer auf 45 Grad Celsius steigt.
+Im Winter ist es warm genug, so daß ich dort nie einen Mantel besessen habe.
+Heiße durchweg trockene Sommer, was ich mir als Kind und Jugendlicher immer gewünscht habe, und feuchte warme Winter mit anständigen Regenstürmen lösen sich ab, bei denen immer mal wieder ein Berghang mitsamt Häusern abrutscht.
+Dabei ist man in nur wenige Stunden vom Hochgebirge der Sierra Nevada entfernt.
+Das letzte Mal, als wird dort im Winter auf Skiern durch die einsamen Wälder gestreift sind, hatten wir sechs Meter Schnee unter uns.
+Für eine Lunchpause mußten wir mit unseren Skiern eine Fläche legen, um nicht im Pulverschnee zu versinken.
+Ich hatte einen deutschen Forschungsauftrag an der University of California durchgeführt und saß auf dem Balkon meines Hauses, am Hang und im Grünen, mit Blick über die Bucht, San Francisco und das Golden Gate.
+Ich sollte jetzt eigentlich wieder nach Deutschland zurückkehren, aber ich konnte mich von Umgebung und schönem Blick nicht losreißen.
+Also warum nicht einfach bleiben?
 Der Senat von Berlin will wissen, was vorgeht
-Also blieb ich. Einige Zeit später nahm der Senat von Berlin Kontakt mit mir auf und wollte ein Gutachten haben. In Deutschland war wieder einmal ein umfassendes Medizinnetzwerk geplant und die Länder hatten Teilaufgaben übernommen. Ich sollte für den Senat ein Gutachten über den Stand der Netzwerktechnik in den USA erstellen und eine Empfehlung für eine der Netztechnologien für das deutsche Netz aussprechen.
+Also blieb ich.
+Einige Zeit später nahm der Senat von Berlin Kontakt mit mir auf und wollte ein Gutachten haben.
+In Deutschland war wieder einmal ein umfassendes Medizinnetzwerk geplant und die Länder hatten Teilaufgaben übernommen.
+Ich sollte für den Senat ein Gutachten über den Stand der Netzwerktechnik in den USA erstellen und eine Empfehlung für eine der Netztechnologien für das deutsche Netz aussprechen.
 Vint Cerf – Vater des Internet
-Frech habe ich bei Vint Cerf angerufen, später ”Vater des“ Internet“ genannt. Er war der Leiter eines Teams, das eine neue Netzwerktechnologie für das Verteidigungsministerium entwickeln sollte. Vint war sehr aufgeschlossen, lud mich ein und gab mir etwas später sogar ein Büro neben dem seinen an der Stanford Universität. Mehr noch, er nahm mich zu den Zusammenkünften seines Teams mit, das über die USA verteilt war. Vint hatte von Anfang an Pläne, die über eine militärische Anwendung hinausgingen.
+Frech habe ich bei Vint Cerf angerufen, später ”Vater des“ Internet“ genannt.
+Er war der Leiter eines Teams, das eine neue Netzwerktechnologie für das Verteidigungsministerium entwickeln sollte.
+Vint war sehr aufgeschlossen, lud mich ein und gab mir etwas später sogar ein Büro neben dem seinen an der Stanford Universität.
+Mehr noch, er nahm mich zu den Zusammenkünften seines Teams mit, das über die USA verteilt war.
+Vint hatte von Anfang an Pläne, die über eine militärische Anwendung hinausgingen.
 Der militärische Ursprung des Internet
-Forscher und Entwickler an geographisch weit auseinander liegenden militärischen Projekten (z.B. in Stanford, Boston, Hawaii) sollten Gelegenheit bekommen, so an einem der wenigen millionenschweren Großrechner (Mainframe Computer) zu arbeiten, als stünde ein solcher direkt neben ihnen, d.h. daß ihr eigener Computer zum Terminal des jeweiligen entfernten Großcomputers mutierte. Von dem, was dazwischen geschah, sollten die Nutzer nichts merken.
+Forscher und Entwickler an geographisch weit auseinander liegenden militärischen Projekten (z.B.
+in Stanford, Boston, Hawaii) sollten Gelegenheit bekommen, so an einem der wenigen millionenschweren Großrechner (Mainframe Computer) zu arbeiten, als stünde ein solcher direkt neben ihnen, d.h. daß ihr eigener Computer zum Terminal des jeweiligen entfernten Großcomputers mutierte.
+Von dem, was dazwischen geschah, sollten die Nutzer nichts merken.
 Arpanet, der Vorläufer des Internet
-Der damalige Name des Netzes war Arpanet. Seine Spezifikationen waren: Der Nutzer sollte nichts mit der Telekommunikation zu tun haben. Wenn der Nutzer eine Eingabe auf seiner Tastatur tippte, sollte darauf die Antwort des fernen Großcomputers in weniger als zwei Sekunden erfolgen. Das Netz sollte so autonom sein, daß ein Ausfall eines Knotenpunktes des Netzes (z.B. durch Artilleriebeschuß) nicht die Kommunikation beeinträchtigen würde, ja sollte von den Nutzern gar nicht bemerkt werden. In anderen Worten, das Netz sollte durch automatische Umgehung eines zerstörten oder defekten Knotenpunktrechners, ohne Fehler in der Kommunikation, selbstreparierend weiterarbeiten.
+Der damalige Name des Netzes war Arpanet.
+Seine Spezifikationen waren: Der Nutzer sollte nichts mit der Telekommunikation zu tun haben.
+Wenn der Nutzer eine Eingabe auf seiner Tastatur tippte, sollte darauf die Antwort des fernen Großcomputers in weniger als zwei Sekunden erfolgen.
+Das Netz sollte so autonom sein, daß ein Ausfall eines Knotenpunktes des Netzes (z.B.
+durch Artilleriebeschuß) nicht die Kommunikation beeinträchtigen würde, ja sollte von den Nutzern gar nicht bemerkt werden.
+In anderen Worten, das Netz sollte durch automatische Umgehung eines zerstörten oder defekten Knotenpunktrechners, ohne Fehler in der Kommunikation, selbstreparierend weiterarbeiten.
 Erster Schritt der Internet-Revolution
-Der erste große Schritt war die Entwicklung einer Vermittlungstechnik, mit der diese Anforderungen zu erfüllen waren. Vermittlungstechnik bezieht sich auf die Einrichtungen, die z.B. bei einem Telefongespräch die Verbindung zwischen Anrufer und Angerufenem durch Zusammenschalten von Teilstücken des Telefonnetzes aufbauen und dann beim Angerufenen klingeln. Sie „vermitteln“ das Gespräch.
+Der erste große Schritt war die Entwicklung einer Vermittlungstechnik, mit der diese Anforderungen zu erfüllen waren.
+Vermittlungstechnik bezieht sich auf die Einrichtungen, die z.B.
+bei einem Telefongespräch die Verbindung zwischen Anrufer und Angerufenem durch Zusammenschalten von Teilstücken des Telefonnetzes aufbauen und dann beim Angerufenen klingeln.
+Sie „vermitteln“ das Gespräch.
 Der erste Netzbetrieb: Die „Fräulein vom Amt“
-Die ersten Vermittlungssysteme waren die „Fräulein vom Amt“, die per Hand die Kabel mit den ankommenden Gesprächen in die jeweils richtige Steckdose steckten, um sie mit dem nächsten Teilstück der Strecke zu verbinden. Jeder kennt aus Filmen die lange Reihe der sogenannten „Klappenschränke“, an denen die menschlichen Vermittlungssysteme, junge Frauen in langen Röcken, saßen, vor sich ein Gewirr von Kabeln.
+Die ersten Vermittlungssysteme waren die „Fräulein vom Amt“, die per Hand die Kabel mit den ankommenden Gesprächen in die jeweils richtige Steckdose steckten, um sie mit dem nächsten Teilstück der Strecke zu verbinden.
+Jeder kennt aus Filmen die lange Reihe der sogenannten „Klappenschränke“, an denen die menschlichen Vermittlungssysteme, junge Frauen in langen Röcken, saßen, vor sich ein Gewirr von Kabeln.
 Ein Bestattungsunternehmer stößt die Entwicklung an
-Eines Tages ärgerte sich der Bestattungsunternehmer Strowger in den USA, daß die „Fräulein vom Amt“ seine Konkurrenz bevorzugten, wenn jemand die „Vermittlungsbeamtin“ nach einer Empfehlung für ein Bestattungsunternehmen fragte. Strowger war technisch begabt und entwickelte das erste automatische Vermittlungsamt, eines, das also ohne Menschen auskam. Das Wort „Vermittlungsbeamtin“ hat sich (Im Gegensatz zum „Operator“) verständlicherweise nie eingebürgert. Es wies darauf hin, daß vorwiegend Frauen diese Funktion ausführten.
+Eines Tages ärgerte sich der Bestattungsunternehmer Strowger in den USA, daß die „Fräulein vom Amt“ seine Konkurrenz bevorzugten, wenn jemand die „Vermittlungsbeamtin“ nach einer Empfehlung für ein Bestattungsunternehmen fragte.
+Strowger war technisch begabt und entwickelte das erste automatische Vermittlungsamt, eines, das also ohne Menschen auskam.
+Das Wort „Vermittlungsbeamtin“ hat sich (Im Gegensatz zum „Operator“) verständlicherweise nie eingebürgert.
+Es wies darauf hin, daß vorwiegend Frauen diese Funktion ausführten.
 Diese Art der Vermittlung wird „Leitungsvermittlung“ (Line switching) genannt, weil Leitungsstücke zusammengeschaltet werden.
 Vorbild Rohrpost
-Ein völlig anderes Prinzip ist die Vermittlungstechnik der Rohrpost. Jeder Rohrpostbehälter trägt auf seiner Außenseite verstellbare Ringe, über deren Einstellung der jeweiligen Rohrpostnachricht die Zieladresse mitgegeben wird. Die Stellung der Ringe wird kurz vor den Knotenpunkten des Netzes automatisch abgelesen, worauf im Knotenpunkt Weichen in den Röhren gestellt werden, die die Sendung auf dem richtigen Weg weiterbringen.
-Für eine Sendung muß also kein Weg vor der Absendung aufgebaut werden. Die Sendung trägt ihre Adresse mit sich und sucht sich selbst den Weg, wird also durch eine „Nachricht“ gesteuert, die sie selbst mitführt. Das ist das Prinzip der „Nachrichtenvermittlung“ (Message switching).
+Ein völlig anderes Prinzip ist die Vermittlungstechnik der Rohrpost.
+Jeder Rohrpostbehälter trägt auf seiner Außenseite verstellbare Ringe, über deren Einstellung der jeweiligen Rohrpostnachricht die Zieladresse mitgegeben wird.
+Die Stellung der Ringe wird kurz vor den Knotenpunkten des Netzes automatisch abgelesen, worauf im Knotenpunkt Weichen in den Röhren gestellt werden, die die Sendung auf dem richtigen Weg weiterbringen.
+Für eine Sendung muß also kein Weg vor der Absendung aufgebaut werden.
+Die Sendung trägt ihre Adresse mit sich und sucht sich selbst den Weg, wird also durch eine „Nachricht“ gesteuert, die sie selbst mitführt.
+Das ist das Prinzip der „Nachrichtenvermittlung“ (Message switching).
 Die rasante Verbilligung der Übertragungskosten
-Das Arpanet-Team entschied sich für eine elektronische Version dieses Prinzips. Ich erkläre dies so ausführlich, weil dadurch der erste revolutionäre Schritt hin zum Internet getan war. Beim herkömmlichen Telefonieren gehen in die Vermittlungs- und Übertragungskosten die langen „Totzeiten“ ein: Warten auf eine freie Leitung bei jedem Vermittlungsschritt, Warten auf das Abheben und vor allem die unzähligen Pausen zwischen den informationstragenden Wörtern und Sätzen. Für eine solche Verbindung muß ein ganzer Kommunikationskanal, eventuell über eine lange Strecke offen gehalten werden (statt daß viele Gespräche auf wenige Kanäle verteilt werden).
-Das Vermittlungssystem des Netzes konnte nun durch geschickte Steuerung immer knapp unter seiner vollen Kapazität gefahren werden. Dies hatte, mit weiterer Optimierung, eine derart rasante Reduzierung von Übertragungskosten zur Folge, daß die Verbilligung, zusammen mit ein paar anderen Faktoren, später die explosionsartige Ausbreitung des Internets mit angetrieben hat. Heute denkt niemand mehr an Vermittlungs- und Übertragungskosten.
+Das Arpanet-Team entschied sich für eine elektronische Version dieses Prinzips.
+Ich erkläre dies so ausführlich, weil dadurch der erste revolutionäre Schritt hin zum Internet getan war.
+Beim herkömmlichen Telefonieren gehen in die Vermittlungs- und Übertragungskosten die langen „Totzeiten“ ein: Warten auf eine freie Leitung bei jedem Vermittlungsschritt, Warten auf das Abheben und vor allem die unzähligen Pausen zwischen den informationstragenden Wörtern und Sätzen.
+Für eine solche Verbindung muß ein ganzer Kommunikationskanal, eventuell über eine lange Strecke offen gehalten werden (statt daß viele Gespräche auf wenige Kanäle verteilt werden).
+Das Vermittlungssystem des Netzes konnte nun durch geschickte Steuerung immer knapp unter seiner vollen Kapazität gefahren werden.
+Dies hatte, mit weiterer Optimierung, eine derart rasante Reduzierung von Übertragungskosten zur Folge, daß die Verbilligung, zusammen mit ein paar anderen Faktoren, später die explosionsartige Ausbreitung des Internets mit angetrieben hat.
+Heute denkt niemand mehr an Vermittlungs- und Übertragungskosten.
 Die „Paket-Vermittlung“
-Die Übertragungseffizienz wurde noch einmal dadurch erhöht, daß alle Nachrichten, also der Informationsstrom, in gleichlange kleine Päckchen aufgespalten und unabhängig voneinander auf die Reise geschickt wurden. Dadurch wurde der Adressteil jedes der „Packets“ länger. Er mußte enthalten: Senderadresse, Zieladresse, Kennzeichnung der Sendung und Nummer des Pakets innerhalb der aufgespaltenen Sendung. Die Steuerung der Netzauslastung war so fein, daß von den Packets einige auf dem Weg z.B. von uns in die USA über Norwegen und andere derselben Nachricht über Australien laufen konnten. Diese Art der Vermittlung wurde zur „Paketvermittlung“ (Packet switching) und sparte noch einmal Übertragungskosten ein. Die Technik der Paketvermittlung stellte später besondere Herausforderungen an die Abhör- und Überwachungsmethoden, mit denen wir heute ausspioniert werden. Die einzelnen Packets einer Email müssen aus dem weltweiten Netz herausgefischt werden (Deep packet inspection).
+Die Übertragungseffizienz wurde noch einmal dadurch erhöht, daß alle Nachrichten, also der Informationsstrom, in gleichlange kleine Päckchen aufgespalten und unabhängig voneinander auf die Reise geschickt wurden.
+Dadurch wurde der Adressteil jedes der „Packets“ länger.
+Er mußte enthalten: Senderadresse, Zieladresse, Kennzeichnung der Sendung und Nummer des Pakets innerhalb der aufgespaltenen Sendung.
+Die Steuerung der Netzauslastung war so fein, daß von den Packets einige auf dem Weg z.B.
+von uns in die USA über Norwegen und andere derselben Nachricht über Australien laufen konnten.
+Diese Art der Vermittlung wurde zur „Paketvermittlung“ (Packet switching) und sparte noch einmal Übertragungskosten ein.
+Die Technik der Paketvermittlung stellte später besondere Herausforderungen an die Abhör- und Überwachungsmethoden, mit denen wir heute ausspioniert werden.
+Die einzelnen Packets einer Email müssen aus dem weltweiten Netz herausgefischt werden (Deep packet inspection).
 Aufgaben des Netzes: Große Dateien schaufeln
 Dieses Netz erfüllte die gestellten Bedingungen und wurde schrittweise von etwa fünf Knotenpunkten in den USA über die Jahre auf die ganze Welt ausgeweitet.
-Am Anfang bestand der Datenverkehr aus dem Austausch von Steuerbefehlen für die Verbindung zum entfernten „Mainframe computer“ und großen und sehr großen zusammenhängenden Datenpakete aus den Projekten. Dazu wurde ein einheitliches Daten-„Format“ festgelegt, praktisch eine Sprache, über die Sender und Empfänger sich gegenseitig verstanden. Dieses Format aus der Anfangszeit des Netzes gibt es immer noch, das FTP-Format, mit denen heute Websites vom Webdesigner zum Server „hochgeladen“ werden.
+Am Anfang bestand der Datenverkehr aus dem Austausch von Steuerbefehlen für die Verbindung zum entfernten „Mainframe computer“ und großen und sehr großen zusammenhängenden Datenpakete aus den Projekten.
+Dazu wurde ein einheitliches Daten-„Format“ festgelegt, praktisch eine Sprache, über die Sender und Empfänger sich gegenseitig verstanden.
+Dieses Format aus der Anfangszeit des Netzes gibt es immer noch, das FTP-Format, mit denen heute Websites vom Webdesigner zum Server „hochgeladen“ werden.
 Netz-Administrator: Email ist Verschwendung der Netzkapazität
-Eines Tages besuchte ich Doug Engelbart, auch einer der ersten Pioniere. An einer Stelle sagte Doug: „Sie Dir doch mal dies hier an. Ich habe mir gedacht, wäre es nicht schön, wenn alle diese Wissenschaftler und Entwickler, die an den Projekten arbeiten, über dasselbe Netz sich gegenseitig Nachrichten zusenden könnten?“ Er hatte das erste Emailprogramm geschrieben. Als er es einsetzen wollte, wurde ihm dies durch die Netzadministration verboten, weil dies eine „Verschwendung von Computer- und Übertragungs-Ressourcen“ sei.
+Eines Tages besuchte ich Doug Engelbart, auch einer der ersten Pioniere.
+An einer Stelle sagte Doug: „Sie Dir doch mal dies hier an.
+Ich habe mir gedacht, wäre es nicht schön, wenn alle diese Wissenschaftler und Entwickler, die an den Projekten arbeiten, über dasselbe Netz sich gegenseitig Nachrichten zusenden könnten?“ Er hatte das erste Emailprogramm geschrieben.
+Als er es einsetzen wollte, wurde ihm dies durch die Netzadministration verboten, weil dies eine „Verschwendung von Computer- und Übertragungs-Ressourcen“ sei.
 Wie wir wissen, trug Email später wesentlich zu der Explosion des Internet bei.
 Warum die große Offenheit bei diesem militärischen Projekt?
-Ich war erstaunt darüber, daß ich in dieses Planungsteam für ein militärisches Projekt aufgenommen wurde. Ich kann es mir nicht anders vorstellen, als daß bereits eine langfristige Strategie vorlag, das Netz weltweit auszudehnen und doch sorgfältig eine Grenze zwischen Geheimem und Nicht-Geheimem festzulegen. Denn wenn das Netz den Erdball umspannen sollte, dann konnten die Grundmechanismen sowieso nicht geheim gehalten werden. Unbekannte Überwachungs- und Steuerungsmechanismen konnte man in den Tiefen des Maschinencodes der Knotenpunktsrechner trotzdem verstecken. Die Knotenpunktsrechner spielen im Internet die Rolle der Vermittlungs- und Fernvermittlungsämter der Telefonnetze. Maschinencode sind die in langen Zahlenkolonnen aufgelösten Programme der Rechner, die unlesbar sind. In solche „Systemprogramme“ haben früher Systemprogrammierer von Banken Programmschnipsel eingeschmuggelt, die bei Aktivierung immer ein paar Pfennige auf die Konten der Programmierer abgezweigt haben. Bei Aufrundungen in Währungsumrechnungen konnte man dies früher noch unbemerkt tun. Im Maschinencode verstecken sich auch die sogenannten „Hintertüren“ (Backdoors) der Betriebssysteme, mit denen die Hersteller Zugriff auf unsere Computer haben.
-Es kann nicht anders sein, als daß Geheimdienste sich auch solche Hintertüren reservieren. Die so bewirkte rasante Verbilligung bei gleichzeitiger phantastischer Ausweitung von Ausspionieren und Überwachen ist einfach zu verführerisch.
+Ich war erstaunt darüber, daß ich in dieses Planungsteam für ein militärisches Projekt aufgenommen wurde.
+Ich kann es mir nicht anders vorstellen, als daß bereits eine langfristige Strategie vorlag, das Netz weltweit auszudehnen und doch sorgfältig eine Grenze zwischen Geheimem und Nicht-Geheimem festzulegen.
+Denn wenn das Netz den Erdball umspannen sollte, dann konnten die Grundmechanismen sowieso nicht geheim gehalten werden.
+Unbekannte Überwachungs- und Steuerungsmechanismen konnte man in den Tiefen des Maschinencodes der Knotenpunktsrechner trotzdem verstecken.
+Die Knotenpunktsrechner spielen im Internet die Rolle der Vermittlungs- und Fernvermittlungsämter der Telefonnetze.
+Maschinencode sind die in langen Zahlenkolonnen aufgelösten Programme der Rechner, die unlesbar sind.
+In solche „Systemprogramme“ haben früher Systemprogrammierer von Banken Programmschnipsel eingeschmuggelt, die bei Aktivierung immer ein paar Pfennige auf die Konten der Programmierer abgezweigt haben.
+Bei Aufrundungen in Währungsumrechnungen konnte man dies früher noch unbemerkt tun.
+Im Maschinencode verstecken sich auch die sogenannten „Hintertüren“ (Backdoors) der Betriebssysteme, mit denen die Hersteller Zugriff auf unsere Computer haben.
+Es kann nicht anders sein, als daß Geheimdienste sich auch solche Hintertüren reservieren.
+Die so bewirkte rasante Verbilligung bei gleichzeitiger phantastischer Ausweitung von Ausspionieren und Überwachen ist einfach zu verführerisch.
 Das Internet, der trügerische Herold von Demokratisierung und Emanzipation
 Groteskerweise war der Herold, der die Vorzüge des Internet vorausgetragen hat, die angebliche Demokratisierung und Emanzipierung der Bürger, die alle bei politischen Entscheidungen mitwirken und ihre eigenen Verleger werden könnten.
-Jetzt stellt es sich heraus, daß es sich eher um den listenreichen Mephisto handelt, der den fortschrittsinspirierten Dr. Faustus verführt. Nur die Partei der Piraten ist noch trunken von der „New Brave World“ (Aldous Huxley: Neue wackere Welt). Die Piraten hatten den politisch korrekten Mainstream-Politikern einen Schrecken eingejagt, sind aber schon wieder auf dem Weg in die Ecke der „anderen Parteien“ (derjenigen unter der 5%-Marge).
+Jetzt stellt es sich heraus, daß es sich eher um den listenreichen Mephisto handelt, der den fortschrittsinspirierten Dr. Faustus verführt.
+Nur die Partei der Piraten ist noch trunken von der „New Brave World“ (Aldous Huxley: Neue wackere Welt).
+Die Piraten hatten den politisch korrekten Mainstream-Politikern einen Schrecken eingejagt, sind aber schon wieder auf dem Weg in die Ecke der „anderen Parteien“ (derjenigen unter der 5%-Marge).
 Planung für Internet-Telefonie schon in den 70er Jahren
-Schon damals sprachen die Internet-Entwickler in dem erwähnten Team über die Möglichkeit des Telefonierens über das Internet (Ende der 70er Jahre!). Dazu mußte der grundsätzliche Widerspruch zwischen den beiden Netzen gelöst werden. Beim Telefonnetz können Fehler im übertragenen Signal (Inhalt) geduldet werden, aber keine Verzögerungen. Es macht nichts aus, wenn es bei einem Gespräch kurz mal knackt, aber mit kurzen Pausen wird die Sprachübertragung unverständlich.
-Beim Internet, bei dem alle übertragenen Signale digitale Daten, d.h. ein Strom von Zahlen sind, dürfen hingegen Fehler im Signal nicht geduldet werden, weil dies dann Unverständlichkeit durch verfälschte digitale Befehle und Daten bedeuten würde. Beim Internet müssen aber kleine Verzögerungen erlaubt sein, weil nur dadurch das Netz effizient in der Nähe der Kapazitätsgrenze betrieben werden kann. Die Grundideen zur Lösung des Problems wundem schon damals in dem erwähnten Team diskutiert.
-Internet-Telefonie ist eines der Beispiele dafür, wie weit in der Technik oft der Weg von der Idee bis zur Markteinführung ist. Anderes Beispiel: Satelliten-Navigation. Wie diese funktioniert hatte mein Professor für „Funkortung“ uns bereits in den 60er Jahren erklärt.
-Will ich Professor in Deutschland werden? Lieber nicht!
-Ich schickte mein Gutachten an den Senat, wurde bezahlt und hörte erst einmal nichts mehr von meinem Werk. Obwohl ich die technischen Details in verständlicher Breite dargelegt hatte, hatte ich meine Zweifel, ob der Berliner Senat erkennen würde, was er da in den Händen hielt (Ende der siebziger Jahre!). Würde er mein Gutachten an die richtigen Leute weitergeben?
+Schon damals sprachen die Internet-Entwickler in dem erwähnten Team über die Möglichkeit des Telefonierens über das Internet (Ende der 70er Jahre!).
+Dazu mußte der grundsätzliche Widerspruch zwischen den beiden Netzen gelöst werden.
+Beim Telefonnetz können Fehler im übertragenen Signal (Inhalt) geduldet werden, aber keine Verzögerungen.
+Es macht nichts aus, wenn es bei einem Gespräch kurz mal knackt, aber mit kurzen Pausen wird die Sprachübertragung unverständlich.
+Beim Internet, bei dem alle übertragenen Signale digitale Daten, d.h. ein Strom von Zahlen sind, dürfen hingegen Fehler im Signal nicht geduldet werden, weil dies dann Unverständlichkeit durch verfälschte digitale Befehle und Daten bedeuten würde.
+Beim Internet müssen aber kleine Verzögerungen erlaubt sein, weil nur dadurch das Netz effizient in der Nähe der Kapazitätsgrenze betrieben werden kann.
+Die Grundideen zur Lösung des Problems wundem schon damals in dem erwähnten Team diskutiert.
+Internet-Telefonie ist eines der Beispiele dafür, wie weit in der Technik oft der Weg von der Idee bis zur Markteinführung ist.
+Anderes Beispiel: Satelliten-Navigation.
+Wie diese funktioniert hatte mein Professor für „Funkortung“ uns bereits in den 60er Jahren erklärt.
+Will ich Professor in Deutschland werden?
+Lieber nicht!
+Ich schickte mein Gutachten an den Senat, wurde bezahlt und hörte erst einmal nichts mehr von meinem Werk.
+Obwohl ich die technischen Details in verständlicher Breite dargelegt hatte, hatte ich meine Zweifel, ob der Berliner Senat erkennen würde, was er da in den Händen hielt (Ende der siebziger Jahre!).
+Würde er mein Gutachten an die richtigen Leute weitergeben?
 Tatsächlich bekam ich später eine Einladung der medizinischen Universität Hannover zu einem Vortrag über die Arpanet-Technologie, im Wesentlichen die spätere Internet-Technologie.
-Nachlässigerweise fuhr ich nicht hin. Außerdem hatten wir Winter, d.h. die Jahreszeit, zu der ich mich ungern aus Kalifornien wegbewegte. Etwas später machte ich mir Vorwürfe, ob ich diese Gelegenheit nicht zu einem „Internet als Beruf“ hätte ausbauen können.
-Was für ein Beruf wäre in Frage gekommen? Die Zeit war noch nicht reif für „Geschäftsmodelle“ auf der Basis des Internet. Also Professor an einer deutschen Universität? In Informatik? Doch dann dachte ich: „lieber nicht“. Ich empfand damals mein Leben in Kalifornien als eine Befreiung von den Zwängen, unter denen ich in Deutschland aufgewachsen war. Diese Befreiung wollte ich noch weiter genießen, um auch innerlich von ihnen Abstand nehmen zu können.
- 
+Nachlässigerweise fuhr ich nicht hin.
+Außerdem hatten wir Winter, d.h. die Jahreszeit, zu der ich mich ungern aus Kalifornien wegbewegte.
+Etwas später machte ich mir Vorwürfe, ob ich diese Gelegenheit nicht zu einem „Internet als Beruf“ hätte ausbauen können.
+Was für ein Beruf wäre in Frage gekommen?
+Die Zeit war noch nicht reif für „Geschäftsmodelle“ auf der Basis des Internet.
+Also Professor an einer deutschen Universität?
+In Informatik?
+Doch dann dachte ich: „lieber nicht“.
+Ich empfand damals mein Leben in Kalifornien als eine Befreiung von den Zwängen, unter denen ich in Deutschland aufgewachsen war.
+Diese Befreiung wollte ich noch weiter genießen, um auch innerlich von ihnen Abstand nehmen zu können.
 Quelle Artikelbild: © Gerd Altmann / PIXELIO
- 

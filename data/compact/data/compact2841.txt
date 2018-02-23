@@ -1,14 +1,25 @@
 OELDE (Westfalen), 16.11., 19:00, Demo der AfD-NRW (und weitere Termine)			
 
-Wir sehen uns auf der Straße!  
+Wir sehen uns auf der Straße!
 Liebe COMPACT-Leser,
-ab sofort publizieren wir auf der Startseite von COMPACT-Online die Termine landesweiter Demonstrationen/Kundgebungen, die Deutschlands Souveränität zum Thema haben. Dazu brauchen wir Ihre Mithilfe. Wenn Sie eine Demonstration organisieren oder von einer erfahren – bitte teilen Sie uns das mit! Egal, ob von großen Veranstaltern (Pegida, AfD) oder lokalen Vereinen initiiert. Wir werden die Infos prüfen und anschließend veröffentlichen. Da kurzfristige Änderungen durch den Veranstalter immer möglich sind, können wir für die Richtigkeit der Angaben nicht garantieren.
+ab sofort publizieren wir auf der Startseite von COMPACT-Online die Termine landesweiter Demonstrationen/Kundgebungen, die Deutschlands Souveränität zum Thema haben.
+Dazu brauchen wir Ihre Mithilfe.
+Wenn Sie eine Demonstration organisieren oder von einer erfahren – bitte teilen Sie uns das mit!
+Egal, ob von großen Veranstaltern (Pegida, AfD) oder lokalen Vereinen initiiert.
+Wir werden die Infos prüfen und anschließend veröffentlichen.
+Da kurzfristige Änderungen durch den Veranstalter immer möglich sind, können wir für die Richtigkeit der Angaben nicht garantieren.
 Wie trage ich einen Demo Termin ein?
 Liebe COMPACT-Leser,
 Sie haben einen Demo-Termin, der in unserem Demo-Termin-Kalender auftauchen sollte?
-Dann bitte einfach den Titel der Veranstaltung, eine kurze Beschreibung der Demo (wenn möglich), das Start Datum auswählen, das „End Datum“ können Sie ignorieren, es sei denn es handelt sich um eine mehrtägige Demo. Dann die Uhrzeit im Auswahlfeld „Beginn der Veranstaltung“, das „Ende der Veranstaltung“ nur, wenn Sie genau wissen,wann die Demo endet. Darunter können Sie – wenn es sich um eine regelmäßige Veranstaltung handelt – die Frequenz auswählen (wöchentlich, monatlich z.B.). Dann rechts optional eine Link zur Demoseite, z.B. so: https://volksbewegung.wordpress.com/,
+Dann bitte einfach den Titel der Veranstaltung, eine kurze Beschreibung der Demo (wenn möglich), das Start Datum auswählen, das „End Datum“ können Sie ignorieren, es sei denn es handelt sich um eine mehrtägige Demo.
+Dann die Uhrzeit im Auswahlfeld „Beginn der Veranstaltung“, das „Ende der Veranstaltung“ nur, wenn Sie genau wissen,wann die Demo endet.
+Darunter können Sie – wenn es sich um eine regelmäßige Veranstaltung handelt – die Frequenz auswählen (wöchentlich, monatlich z.B.).
+Dann rechts optional eine Link zur Demoseite, z.B.
+so: https://volksbewegung.wordpress.com/,
 die Location der Demo, also Ort, Strasse, Telefon Kontakt, falls gewünscht und dann eine Adresse in das Feld Google Map eintragen, am Besten so:
-Musterstraße 12, 55555 Musterstadt die Karte wird dann automatisch aktualisiert. Zum Schluß den Termin abschicken. Einer unserer Redakteure wird die Angaben prüfen und so bald wie möglich freischalten.
+Musterstraße 12, 55555 Musterstadt die Karte wird dann automatisch aktualisiert.
+Zum Schluß den Termin abschicken.
+Einer unserer Redakteure wird die Angaben prüfen und so bald wie möglich freischalten.
 iCal
 Termin eintragen Abbrechen
 Danke für den Terminvorschlag, er wird in Kürze bearbeitet.
@@ -33,7 +44,8 @@ Repeat every
 month(s) on:
 Location (optional)
 Terminvorschlag abschicken
-26. Januar 2018
+26.
+Januar 2018
 22 - 28 Januar, 2018
 List View
 Montag
@@ -85,4 +97,3 @@ AfD-Demo auf dem Domplatz in…
 2
 3
 4
- 

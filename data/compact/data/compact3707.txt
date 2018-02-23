@@ -1,6 +1,7 @@
 So schützen Sie Ihre privaten Daten			
 
-Praktische Tipps gegen Geheimdienst-Schnüffelei und Überwachungsstaat. Von Netzblockierer.
+Praktische Tipps gegen Geheimdienst-Schnüffelei und Überwachungsstaat.
+Von Netzblockierer.
 Wenn wir Geheimdienste schon nicht davon abbringen können, unsere gesamte Kommunikation mitzuschneiden, dann sollten wir wenigstens dafür sorgen, dass diese
 für selbige nutzlos wird.
 Sichere Kommunikationsanbieter
@@ -9,7 +10,8 @@ Der effektivste Schutz besteht darin, Anbieter zu meiden, die Behörden gerne
 USA)… Auch Anbieter, die mitprotokollieren, sind zu meiden.
 Dies trifft auf alle kommerziellen Anbieter zu.
 Konkret wäre hier der Anbieter Privat DE Mail (http://privatdemail.net) zu nennen.
-Dieser bietet einen kostenlosen eMail-Dienst an, der absolut anonym ist. (Die
+Dieser bietet einen kostenlosen eMail-Dienst an, der absolut anonym ist.
+(Die
 Betreiber freuen sich dennoch über eine kleine Spende…)
 Zum Registrieren braucht man jediglich eine Wegwerf-eMail-Adresse, wie z.B.
 Trash-Mail.com
@@ -18,18 +20,25 @@ deren Datensparsamkeit berücksichtigt werden.
 Wegen vorsätzlicher Entfernung der ursprünglich angedachten Ende-zu-Ende –
 Verschlüsselung ist von dem Regierungs-‚eMailsystem‘ “DeMail“ nichts zu halten.
 Mehrere VPNs in Reihe als Anonymitätstunnel
-Die Nutzung sicherer VPNs ist angesichts von Zensurmaßnahmen wichtiger denn je. Dank
-dieser kann der Nutzer seine virtuelle Lokation beliebig verschieben (Bspw. in ein
-Land mit höheren Datenschutzauflagen.) Je mehr man in Reihe schaltet, desto
+Die Nutzung sicherer VPNs ist angesichts von Zensurmaßnahmen wichtiger denn je.
+Dank
+dieser kann der Nutzer seine virtuelle Lokation beliebig verschieben (Bspw.
+in ein
+Land mit höheren Datenschutzauflagen.)
+Je mehr man in Reihe schaltet, desto
 unmöglicher wird eine Rückverfolgung.
-Leider kosten diese Dienste Geld. Als sicher gilt hier bspw. http://ovpn.to/
+Leider kosten diese Dienste Geld.
+Als sicher gilt hier bspw.
+http://ovpn.to/
 Wer mehrere VPNs hintereinander verkettet, kann hierdurch die Sicherheit steigern.
-Auch sollte hier ein sicheres VPN-Verfahren wie OpenVPN genutzt werden. Das
+Auch sollte hier ein sicheres VPN-Verfahren wie OpenVPN genutzt werden.
+Das
 standardmäßig von Microsoft genutzte VPN-Protokoll PPTP ist als vorsätzlich unsicher
 einzustufen, da dieses binnen weniger Stunden mittels cloudcracker.com geknackt
 werden kann!
 Sichere digitale Zertifikate
-Digitale Zertifikate sind der Baustein des sicheren Internets. Praktisch jede Seite,
+Digitale Zertifikate sind der Baustein des sicheren Internets.
+Praktisch jede Seite,
 die Verschlüsselung nutzt, ist auf diese angewiesen.
 Doch wie schon oft passiert, kann man gegen entsprechendes Entgeld praktisch für jede
 Website ein Zertifikat im Namen des Websitebesitzers erwerben, ohne dass dieser das
@@ -37,14 +46,18 @@ je merkt.
 Eine gängige Betrugsmasche des Phishings nutzt dies aus, indem ein falsches
 Zertifikat zugesandt wird.
 Eine ganze Reihe an Add-Ons für den populären und sicheren Firefox-Browser helfen hier:
-z.B. “Perspectives“, das Spoofing erkennt, indem mehrere Server dieselbe Site
-bei Bedarf abrufen. “DNSSEC Validator“ überprüft, ob die Adresse nicht
-offensichtlich vorgegaukelt wird. “HTTPS Everywhere“ erzwingt eine verschlüsselte
+z.B.
+“Perspectives“, das Spoofing erkennt, indem mehrere Server dieselbe Site
+bei Bedarf abrufen.
+“DNSSEC Validator“ überprüft, ob die Adresse nicht
+offensichtlich vorgegaukelt wird.
+“HTTPS Everywhere“ erzwingt eine verschlüsselte
 Verbindung, wo immer möglich, und “Certificate Patrol“ meldet, wenn ein Zertifikat
 ausgetauscht wurde.
 Wer auf Nummer sicher geht, nimmt Community-Zerifikate von http://CACert.org
 Hierbei wird jeder Nutzer von mindestens drei Nutzern eindeutig identifiziert, ehe er
-ebenfalls das “Vertrauensnetz“ erweitern kann. Da in der Praxis jedoch mehr Nutzer
+ebenfalls das “Vertrauensnetz“ erweitern kann.
+Da in der Praxis jedoch mehr Nutzer
 dafür zur Rate gezogen werden, und die Authentifizierungen nachvollziehbar sind, ist
 ein Missbrauch nahezu ausgeschlossen, und würde von der Community entsprechend
 geahndet…
@@ -52,55 +65,76 @@ Aufgrund der Konkurrenz zu kommerziellen Zertifikatanbietern wird CACert z.T.
 systematisch gegängelt, wehalb man die Wurzelzertifikate manuell installieren muss.
 eMail – universell und einfach Verschlüsseln
 Mit dem GnuPG-Standard wurde eine einfache Methode geschaffen, Nachrichten sicher zu
-singnieren und zu verschlüsseln. Hierbei generiert man die nötigen Schlüssel selbst,
-ehe beide Kommunikationspartner einen öffentlichen Schlüssel austauschen. Dieser
+singnieren und zu verschlüsseln.
+Hierbei generiert man die nötigen Schlüssel selbst,
+ehe beide Kommunikationspartner einen öffentlichen Schlüssel austauschen.
+Dieser
 ermöglicht nur diesen beiden untereinander, ihre Nachrichten, die sie sich gegenseitig
 schicken, zu entschlüsseln.
-GNU Privacy Guard ist auf fast allen Betriebssystemen verfügbar. Unter Windows ist
+GNU Privacy Guard ist auf fast allen Betriebssystemen verfügbar.
+Unter Windows ist
 hier das Sammelpaket GPG4Win zu empfehlen, das mit dem weitverbreiteten
 eMail-Client Thunderbird dank passendem Add-On funktioniert, und binnen weniger
-Minuten auch von Nutzern ohne besondere Kenntnisse eingrichtet werden kann. Ein
+Minuten auch von Nutzern ohne besondere Kenntnisse eingrichtet werden kann.
+Ein
 passender Schlüssel ist binnen fünf Minuten und weniger Klicks erzeugt und der
 öffentliche Schlüssel mittels weniger Klicks auf Keyserver hochgeladen…
 Instant Messaging – Glaubhaft Abstreitbar
 Aktuell gibt es bilang nur mit XMPP (auch als Jabber bekannt) nur einen
-Instant-Messaging-Dienst, der eine sichere Verschlüsselung ermöglicht. Dies wird über
+Instant-Messaging-Dienst, der eine sichere Verschlüsselung ermöglicht.
+Dies wird über
 das ‚OTR-Plugin‘ (http://www.cypherpunks.ca/otr/), welches nach einer
-Verifikationsfrage beide Gesprächspartner authentifiziert, und verschlüsselt. Und zwar
+Verifikationsfrage beide Gesprächspartner authentifiziert, und verschlüsselt.
+Und zwar
 so, dass die gesamte Kommunikation geleugnet werden kann [glaubhaft abstreitbar]…
 Speichermedien sichern
 Die bislang effektivste, und zuweilen auch in den USA notwenige Methode, seine Daten
-zu sichern, besteht in der Verschlüsselung. Hier ist das benutzerfreundliche
-TrueCrypt zu empfehlen, das die komplette Festplatte verschlüsselt. Nutzer von
+zu sichern, besteht in der Verschlüsselung.
+Hier ist das benutzerfreundliche
+TrueCrypt zu empfehlen, das die komplette Festplatte verschlüsselt.
+Nutzer von
 Linux greifen da besser zur GPG Whole Disk Encryption oder dem bei der Distribution
-beigelegten Installationswerkzeugen (bspw. Volumenmanager).
+beigelegten Installationswerkzeugen (bspw.
+Volumenmanager).
 Auch kann hier wieder ‚glaubhaft abstreitbar‘ verschlüsselt werden, sodass hier ein
 Beweis der Vertuschung schwer bis unmöglich wird.
 Leider wurde das vielversprechende und funktionierende Dateisystem “Rubberhose“ von
-Julian-Paul Assange nicht mehr weiterentwickelt, bzw. für aktuelle Linux-Versionen
-portiert. Unter http://marutukku.org/ findet man aber alles zum Projekt.
+Julian-Paul Assange nicht mehr weiterentwickelt, bzw.
+für aktuelle Linux-Versionen
+portiert.
+Unter http://marutukku.org/ findet man aber alles zum Projekt.
 Prinzipiell kann jeder Speicher, egal ob Festplatte, USB-Stick oder Speicherkarte
 verschlüsselt werden.
 Telefonie verschlüsseln
 Abgesehen von Projekten wie Zfone, die theoretisch VoIP-Telefonate (übers Internet)
-durchweg verschlüsseln können, gibt es z.Zt. keine quelloffene (und damit glaubhaft
-beweisbar sichere!) Lösung, das “klassische Telefonat“ zu verschlüsseln.
-Hier ist inzwischen allerdings ein entsprechendes Projekt in Planung. Siehe
+durchweg verschlüsseln können, gibt es z.Zt.
+keine quelloffene (und damit glaubhaft
+beweisbar sichere!)
+Lösung, das “klassische Telefonat“ zu verschlüsseln.
+Hier ist inzwischen allerdings ein entsprechendes Projekt in Planung.
+Siehe
 hierzu http://cryptofon.net/ …
 Offene WLANs nutzen
-Unverschlüsselte WLANs findet man oft in der Nähe von Cafés oder vergleichbarem. Oft
-sogar ohne Registrierung, oder man erhält als Kunde das Passwort auf Nachfrage. Diese
+Unverschlüsselte WLANs findet man oft in der Nähe von Cafés oder vergleichbarem.
+Oft
+sogar ohne Registrierung, oder man erhält als Kunde das Passwort auf Nachfrage.
+Diese
 eignen sich für die relativ anonyme Internetnutzung jedoch nur mit einem sicheren VPN!
 Open-Source-Software statt “Security through Obscurity“
 Nur wenn der quellcode offen ist, lassen sich potenzielle Hintertüren nachweisen und
-verhindern. Kommerzielle – sprich Closed Source – Software birgt immer das Risiko von
-Hintertüren, die bewusst oder unter Nötigung von Behörden integriert werden. Deshalb
+verhindern.
+Kommerzielle – sprich Closed Source – Software birgt immer das Risiko von
+Hintertüren, die bewusst oder unter Nötigung von Behörden integriert werden.
+Deshalb
 ist von diesen auch abzuraten.
 An dieser Stelle sei die sehr nutzerfreundliche Linux-Distribution Ubuntu zu
-empfehlen. Die “LTS“ (Long-Term-Support) – Versionen erhalten fünf Jahre lang
+empfehlen.
+Die “LTS“ (Long-Term-Support) – Versionen erhalten fünf Jahre lang
 Sicherheitsupdates, sind sehr stabil und liefern auch gleich alles mit, was ein
-Betriebssystem noch braucht: Office-Paket, eMail-Programm, Browser, u.v.m. Und das
-alles kostenlos! Auch kann das System ohne Installation von DVD oder USB-Stick
+Betriebssystem noch braucht: Office-Paket, eMail-Programm, Browser, u.v.m.
+Und das
+alles kostenlos!
+Auch kann das System ohne Installation von DVD oder USB-Stick
 genutzt werden, und ist so (theoretisch) auch in Internetcafés oder an anderen PCs
 spurlos nutzbar.
 Zusammenfassung

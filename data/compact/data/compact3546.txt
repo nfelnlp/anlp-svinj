@@ -1,32 +1,112 @@
 So werden wir überwacht			
 
-Werde ich abgehört? Mit Sicherheit ja! Und zwar von dem Imperium der NSA mit ihren Ablegern und angeschlossenen Diensten. Kann das für mich Nachteile bedeuten oder mir gar gefährlich werden? Das läßt sich nicht so einfach sagen. Jedenfalls wird es wenig nützen, wenn Sie alle Gesetze befolgen, keiner oppositionellen Partei beitreten und sich nicht „radikalisieren“, einer der Ausdrücke, mit denen die amerikanischen Geheimdienste Worte umdefinieren.
+Werde ich abgehört?
+Mit Sicherheit ja!
+Und zwar von dem Imperium der NSA mit ihren Ablegern und angeschlossenen Diensten.
+Kann das für mich Nachteile bedeuten oder mir gar gefährlich werden?
+Das läßt sich nicht so einfach sagen.
+Jedenfalls wird es wenig nützen, wenn Sie alle Gesetze befolgen, keiner oppositionellen Partei beitreten und sich nicht „radikalisieren“, einer der Ausdrücke, mit denen die amerikanischen Geheimdienste Worte umdefinieren.
 Die NSA verfolgt nämlich Menschen bis „ins dritte Glied“, das heißt, Sie könnten jemanden kennen (zum Beispiel einmal mit ihm telefoniert haben), der seinerseits jemanden kennt, der der NSA Anlass gegeben hat, ihn intensiver unter die Lupe zu nehmen – und dazu bedarf es wenig.
-Wenn bei Ihnen danach keine weiteren Verdachtsmomente auftreten (Verdacht auf was auch immer), werden die Daten, die nun über Sie vorliegen, abgespeichert. Das heißt, man kann immer wieder auf sie zurückgreifen. Diese Daten ruhen nun in der gigantischen Serverkolonie der NSA in Utah, in der über neun Quadratkilometer Server an Server stehen. Über Sie ist eine Akte angelegt worden.
-[googlemap src="https://maps.google.de/maps?q=nsa+utah&ll=40.426238,-111.932831&spn=0.018491,0.042272&hq=nsa+utah&radius=15000&t=h&z=15" width="425" height="350" align="alignright" ]Der Speicherplatz reicht aus. Die gegenwärtige Kapazität soll zwischen drei und zwölf Exabyte am Tag liegen (Exabyte: eine eins mit 18 Nullen). Solche Zahlen sprengen jede Vorstellungskraft. Wir kennen sie nur noch aus der Astronomie. Dabei machen die Daten aus den USA nur etwa 500 Quadratmeter des Areals aus. Der Rest ist die Welt. Nicht nur lagern Ihre Daten dort für immer. Die Suchalgorithmen und die Rechenleistung der riesigen Anlage erlauben es, dass jederzeit ein Zusammenhang ihrer Daten mit anderen, die gesammelt werden, auffällt. In anderen Worten: Die NSA hat uns alle in der Tasche.
-Diese Situation hat George W. Busch geschaffen, als er nach dem 11. September (2001) die Devise ausgab: Findet jeden zu jeder Zeit! Dies war der entscheidende Schritt hin zum sogenannten „asymmetrischen Krieg“, in dem man nicht mehr eine militärische Formation identifizieren kann. Terrorist kann jeder sein oder werden. Also geht es darum, jemanden auf den Radarschirm zu bekommen, der sich zum Terroristen entwickelt, noch bevor er einer ist. Jeden Menschen zu jeder Zeit überwachen? Geht das? Die Amerikaner haben sich daran gemacht. Der Leviathan in Utah ist dabei, sich selbständig durch die Weltbevölkerung durchzufressen.
-Der Chaos Computer Clubs hat vom 27. bis zum 30. Dezember 2013 seinen jährlichen Kongress in Hamburg abgehalten. Es ist sein Verdienst, nicht nur die Situation im Überblick dargestellt, sondern auch Wege in die Zukunft gewiesen zu haben. Die bekannten Protagonisten wie Glenn Greenwald, Mitstreiter Snowdens, sonnten sich in ihrem Ruf und erschöpften sich in der üblichen politisierten Aufforderungs-Rhetorik, Aufforderung, für die gute Sache zu kämpfen. Es waren weniger spektakuläre Redner wie Kurt Opsahl von der Electronic Frontier Foundation, die einen Überblick über die Abhörmethoden gaben und konkrete Entwicklungen für die Zukunft in Aussicht stellten.
-Die NSA hat eine Vielfalt von Ausspäh-, Abhör- und Manipulationstechniken entwickelt, die sich überlappen und in ihrer Gesamtheit die ganze Kommunikationswelt abdecken. Die verschiedenen Techniken haben zu speziellen Programmen geführt, deren Daten gesammelt, zentral ausgewertet und mit Daten aus anderen Quellen verknüpft werden.
-Die Grundlage für die Abhör-Maschinerie war die Tatsache, dass der größte Teil des Datenverkehrs der Welt durch die USA fließt und zwar durch Kabel amerikanischer Telekommunikations-Unternehmen. Diese Situation hat etwas mit Geschichte und Struktur des Internet und des Preisgefüges zu tun. Diese Unternehmen sitzen also direkt auf den Kabeln, auf die NSA und andere zugreifen können. Der erste große Datenabgriff, der bekannt wurde, fand bei AT&T (ursprünglich eine Telefongesellschaft) in San Francisco statt, wo in einem Raum alle Glasfaser-Kabelstränge zusammengefasst waren. Dort wurde eine aufwendige Splitter-Apparatur entdeckt, die den gesamten Verkehr jeder Ader kopierte und abführte.
+Wenn bei Ihnen danach keine weiteren Verdachtsmomente auftreten (Verdacht auf was auch immer), werden die Daten, die nun über Sie vorliegen, abgespeichert.
+Das heißt, man kann immer wieder auf sie zurückgreifen.
+Diese Daten ruhen nun in der gigantischen Serverkolonie der NSA in Utah, in der über neun Quadratkilometer Server an Server stehen.
+Über Sie ist eine Akte angelegt worden.
+[googlemap src="https://maps.google.de/maps?q=nsa+utah&ll=40.426238,-111.932831&spn=0.018491,0.042272&hq=nsa+utah&radius=15000&t=h&z=15" width="425" height="350" align="alignright" ]Der Speicherplatz reicht aus.
+Die gegenwärtige Kapazität soll zwischen drei und zwölf Exabyte am Tag liegen (Exabyte: eine eins mit 18 Nullen).
+Solche Zahlen sprengen jede Vorstellungskraft.
+Wir kennen sie nur noch aus der Astronomie.
+Dabei machen die Daten aus den USA nur etwa 500 Quadratmeter des Areals aus.
+Der Rest ist die Welt.
+Nicht nur lagern Ihre Daten dort für immer.
+Die Suchalgorithmen und die Rechenleistung der riesigen Anlage erlauben es, dass jederzeit ein Zusammenhang ihrer Daten mit anderen, die gesammelt werden, auffällt.
+In anderen Worten: Die NSA hat uns alle in der Tasche.
+Diese Situation hat George W. Busch geschaffen, als er nach dem 11.
+September (2001) die Devise ausgab: Findet jeden zu jeder Zeit!
+Dies war der entscheidende Schritt hin zum sogenannten „asymmetrischen Krieg“, in dem man nicht mehr eine militärische Formation identifizieren kann.
+Terrorist kann jeder sein oder werden.
+Also geht es darum, jemanden auf den Radarschirm zu bekommen, der sich zum Terroristen entwickelt, noch bevor er einer ist.
+Jeden Menschen zu jeder Zeit überwachen?
+Geht das?
+Die Amerikaner haben sich daran gemacht.
+Der Leviathan in Utah ist dabei, sich selbständig durch die Weltbevölkerung durchzufressen.
+Der Chaos Computer Clubs hat vom 27. bis zum 30.
+Dezember 2013 seinen jährlichen Kongress in Hamburg abgehalten.
+Es ist sein Verdienst, nicht nur die Situation im Überblick dargestellt, sondern auch Wege in die Zukunft gewiesen zu haben.
+Die bekannten Protagonisten wie Glenn Greenwald, Mitstreiter Snowdens, sonnten sich in ihrem Ruf und erschöpften sich in der üblichen politisierten Aufforderungs-Rhetorik, Aufforderung, für die gute Sache zu kämpfen.
+Es waren weniger spektakuläre Redner wie Kurt Opsahl von der Electronic Frontier Foundation, die einen Überblick über die Abhörmethoden gaben und konkrete Entwicklungen für die Zukunft in Aussicht stellten.
+Die NSA hat eine Vielfalt von Ausspäh-, Abhör- und Manipulationstechniken entwickelt, die sich überlappen und in ihrer Gesamtheit die ganze Kommunikationswelt abdecken.
+Die verschiedenen Techniken haben zu speziellen Programmen geführt, deren Daten gesammelt, zentral ausgewertet und mit Daten aus anderen Quellen verknüpft werden.
+Die Grundlage für die Abhör-Maschinerie war die Tatsache, dass der größte Teil des Datenverkehrs der Welt durch die USA fließt und zwar durch Kabel amerikanischer Telekommunikations-Unternehmen.
+Diese Situation hat etwas mit Geschichte und Struktur des Internet und des Preisgefüges zu tun.
+Diese Unternehmen sitzen also direkt auf den Kabeln, auf die NSA und andere zugreifen können.
+Der erste große Datenabgriff, der bekannt wurde, fand bei AT&T (ursprünglich eine Telefongesellschaft) in San Francisco statt, wo in einem Raum alle Glasfaser-Kabelstränge zusammengefasst waren.
+Dort wurde eine aufwendige Splitter-Apparatur entdeckt, die den gesamten Verkehr jeder Ader kopierte und abführte.
 Mit der Zeit wurden spezialisierte Programme aufgelegt, die über ihre Datenbasen verknüpft sind:
 Für Inhalte bei der Telefonie        NUCLEAR
 für Metadaten der Telefonie        MAINWALE
 für Inhalte im Internet                 PRISM
 für Metadaten im Internet          MARINA
-Obama hat sich gegenüber der Öffentlichkeit herausgeredet, dass ja „nur“ Metadaten gespeichert würden (bei Telefonaten zum Bespiel Gesprächspartner, Dauer und Uhrzeit): „Nur die Metadaten werden herausgezogen. Niemand wird abgehört.“ Doch an den Metadaten sind die Geheimdienste für ihre Ersterfassungen stärker interessiert als an Inhalten. Wenn jemand einen Dienst für HIV-Tests, dann seinen Arzt und schließlich seine Krankenversicherung anruft, braucht man keine aufwendige Sprachanalyse durchzuführen.
+Obama hat sich gegenüber der Öffentlichkeit herausgeredet, dass ja „nur“ Metadaten gespeichert würden (bei Telefonaten zum Bespiel Gesprächspartner, Dauer und Uhrzeit): „Nur die Metadaten werden herausgezogen.
+Niemand wird abgehört.“ Doch an den Metadaten sind die Geheimdienste für ihre Ersterfassungen stärker interessiert als an Inhalten.
+Wenn jemand einen Dienst für HIV-Tests, dann seinen Arzt und schließlich seine Krankenversicherung anruft, braucht man keine aufwendige Sprachanalyse durchzuführen.
 Interner Übersichtsplan von NSA/CIA-Abhörposten für US-Diplomaten (einige Standorte wahrscheinlich veraltet) / Bild: Director National Intelligence
-Die Geheimdienste haben Internet-Verkehr einmal an den Glasfaser-Kabeln, zum anderen bei den Servern der Dienste Microsoft, Yahoo, Google, Facebook, PalTalk, AOL, Skype, Youtube, Apple abgegriffen. Eine staatliche Direktive ging zum Bespiel an den Kommunikationskonzern Verizon: Alle Gespräche aller Teilnehmer zu jeder Zeit aufnehmen. Die Internetdienste haben inzwischen zum Teil Verschlüsselung zwischen ihren Datenzentren eingeführt. Die Telefongesellschaften haben dies nicht getan.
-Zusätzliche Daten kommen aus anderen Quellen: Daten über Zahlungsverkehr liefert SWIFT. Im Programm MUSCULAR werden die Daten zwischen den Servern von Unternehmen wie Google und Yahoo abgegriffen. Im Programm COTRAVELLER werden die Mobiltelefone über die Funktürme des Mobilfunknetzes geortet. WLANs liefern weiteren Datenverkehr. Von Mobiltelefonen weitergeschickte GPS-Daten lassen sehr genaue Ortsbestimmung und damit die Feststellung von Bewegungsmustern zu. Wenn jemand ein vorgeblich nicht zuweisbares Mobiltelefon ausschaltet, woanders wieder einschaltet kommt mit der Zeit ein Muster zustande, das Identifikation zulässt. Manche Leute werfen ein nicht verfolgbares Mobiltelefon weg und führen das nächste Gespräch von einem anderen aus. Auch ein solches Muster erkennt das System.
-In Google-Cookies wurde Malware zum Ausspähen des betreffenden Computer versteckt. Oder einen Schritt weiter: QUANTUM INSERT. Ein Cooky wird aus dem Datenstrom des Internet herausgefischt und durch eines ersetzt, das eine sehr leistungsfähige Malware (Schadsoftware) in den betreffenden Computer schmuggelt. Diese analysiert den befallenen Computer auf mögliche Angriffspunkte und auf die Möglichkeiten, sich selbst sicher zu verstecken. Wenn letzteres nicht gewährleistet ist, zieht sich die Malware zurück.
-Eine breite Vielfalt von Mitteln kommt beim Programm Targeted Access Operations (TAO) zum Einsatz, wo bestimmte Personen abgehört werden sollen (Beispiel Merkel). Selbst Fingerabdrücke können über TAO in die große Datenbasis aufgenommen werden.
-BULLRUN führt direkte Sabotage auf Computern aus. LOVEINT sammelt kompromittierende Informationen über Liebes- und Sexualleben, wenn jemandes Ansehen und Glaubwürdigkeit beschädigt werden soll, der als politisch gefährlich eingeschätzt wird. Schlagwort: „Discrediting radicalizers”.
+Die Geheimdienste haben Internet-Verkehr einmal an den Glasfaser-Kabeln, zum anderen bei den Servern der Dienste Microsoft, Yahoo, Google, Facebook, PalTalk, AOL, Skype, Youtube, Apple abgegriffen.
+Eine staatliche Direktive ging zum Bespiel an den Kommunikationskonzern Verizon: Alle Gespräche aller Teilnehmer zu jeder Zeit aufnehmen.
+Die Internetdienste haben inzwischen zum Teil Verschlüsselung zwischen ihren Datenzentren eingeführt.
+Die Telefongesellschaften haben dies nicht getan.
+Zusätzliche Daten kommen aus anderen Quellen: Daten über Zahlungsverkehr liefert SWIFT.
+Im Programm MUSCULAR werden die Daten zwischen den Servern von Unternehmen wie Google und Yahoo abgegriffen.
+Im Programm COTRAVELLER werden die Mobiltelefone über die Funktürme des Mobilfunknetzes geortet.
+WLANs liefern weiteren Datenverkehr.
+Von Mobiltelefonen weitergeschickte GPS-Daten lassen sehr genaue Ortsbestimmung und damit die Feststellung von Bewegungsmustern zu.
+Wenn jemand ein vorgeblich nicht zuweisbares Mobiltelefon ausschaltet, woanders wieder einschaltet kommt mit der Zeit ein Muster zustande, das Identifikation zulässt.
+Manche Leute werfen ein nicht verfolgbares Mobiltelefon weg und führen das nächste Gespräch von einem anderen aus.
+Auch ein solches Muster erkennt das System.
+In Google-Cookies wurde Malware zum Ausspähen des betreffenden Computer versteckt.
+Oder einen Schritt weiter: QUANTUM INSERT.
+Ein Cooky wird aus dem Datenstrom des Internet herausgefischt und durch eines ersetzt, das eine sehr leistungsfähige Malware (Schadsoftware) in den betreffenden Computer schmuggelt.
+Diese analysiert den befallenen Computer auf mögliche Angriffspunkte und auf die Möglichkeiten, sich selbst sicher zu verstecken.
+Wenn letzteres nicht gewährleistet ist, zieht sich die Malware zurück.
+Eine breite Vielfalt von Mitteln kommt beim Programm Targeted Access Operations (TAO) zum Einsatz, wo bestimmte Personen abgehört werden sollen (Beispiel Merkel).
+Selbst Fingerabdrücke können über TAO in die große Datenbasis aufgenommen werden.
+BULLRUN führt direkte Sabotage auf Computern aus.
+LOVEINT sammelt kompromittierende Informationen über Liebes- und Sexualleben, wenn jemandes Ansehen und Glaubwürdigkeit beschädigt werden soll, der als politisch gefährlich eingeschätzt wird.
+Schlagwort: „Discrediting radicalizers”.
 Nach all diesen Schreckensbildern brachte Kurt Opsahl frohe Botschaften, die in der einen oder anderen Form den ganzen Kongress durchzogen: Es gibt Gegenmittel und wir arbeiten daran!
-Die wesentliche Waffe sei End to End-Verschlüsselung überall: Bei Mobiltelefonen, Emails, Datentransfers. Verschlüsselung auch bei allen Daten, die gespeichert werden: auf Festplatten, anderen Laufwerken, Memory-Sticks und anderen Medien. Der Weg in diese Welt sei die Unterrichtung der Bevölkerung in Verschlüsselungstechniken, die Kenntnisse und Übung erforderten. Es gebe tatsächlich Techniken, die sich als nicht dechiffrierbar erwiesen hätten. Auch der Anonymisierungsdienst Tor sei trotz der Angriffe, denen er in letzter Zeit ausgesetzt gewesen sei, mit hoher Sicherheit intakt geblieben. Wichtig sei auch, nur noch das Hypertext Transfer Protocol Secure (HTTPS) zu verwenden (erkennbar an den ersten Buchstaben der Webadressen) und für diesen Standard bei anderen zu werben.
-Bush hat sich nach dem 11. September 2001 über alle gesetzlichen Einschränkungen hinweggesetzt und per „Presidential Order“ regiert. Bis sich juristischer Widerstand regte, hatten die Geheimdienste Gelegenheit gehabt, ihre Definitions- und Auslegungsakrobatik zu perfektionieren. Wo ihnen zum Beispiel Datensammlung verboten war, haben sie das Wort „sammeln“ als „Herausnehmen eines Datensatzes aus einer großen Masse zur eingehenden Inspektion und Erweiterung“ definiert. Die Daten waren also einfach da wie Bücher in einer Bibliothek (nachdem sie natürlich im üblichen Sinne „gesammelt“ worden waren).
+Die wesentliche Waffe sei End to End-Verschlüsselung überall: Bei Mobiltelefonen, Emails, Datentransfers.
+Verschlüsselung auch bei allen Daten, die gespeichert werden: auf Festplatten, anderen Laufwerken, Memory-Sticks und anderen Medien.
+Der Weg in diese Welt sei die Unterrichtung der Bevölkerung in Verschlüsselungstechniken, die Kenntnisse und Übung erforderten.
+Es gebe tatsächlich Techniken, die sich als nicht dechiffrierbar erwiesen hätten.
+Auch der Anonymisierungsdienst Tor sei trotz der Angriffe, denen er in letzter Zeit ausgesetzt gewesen sei, mit hoher Sicherheit intakt geblieben.
+Wichtig sei auch, nur noch das Hypertext Transfer Protocol Secure (HTTPS) zu verwenden (erkennbar an den ersten Buchstaben der Webadressen) und für diesen Standard bei anderen zu werben.
+Bush hat sich nach dem 11.
+September 2001 über alle gesetzlichen Einschränkungen hinweggesetzt und per „Presidential Order“ regiert.
+Bis sich juristischer Widerstand regte, hatten die Geheimdienste Gelegenheit gehabt, ihre Definitions- und Auslegungsakrobatik zu perfektionieren.
+Wo ihnen zum Beispiel Datensammlung verboten war, haben sie das Wort „sammeln“ als „Herausnehmen eines Datensatzes aus einer großen Masse zur eingehenden Inspektion und Erweiterung“ definiert.
+Die Daten waren also einfach da wie Bücher in einer Bibliothek (nachdem sie natürlich im üblichen Sinne „gesammelt“ worden waren).
 Demonstration gegen das NSA-Überwachungsprogramm Prism / Bild: Mike Herbst; CC-BY-SA 2.0
-In dem Gewirr von Gesetzen, die sich mit Überwachung, Spionage und Abhören befassten und noch befassen, ist es ziemlich eindeutig verboten, Bürger der USA ohne Gerichtsbeschluss zu überwachen. Die Geheimdienste gaben sich Ausführungsbestimmungen der Art, dass sie aus einer Liste von Selektoren wählen konnten, von denen jeder laut Statistik mit einer Wahrscheinlichkeit von nur 51 Prozent auf einen Inländer verwies. Sonst war der betreffende Ausländer. Für Ausländer gibt es keine Einschränkungen. Jeder, der nicht eindeutig als Amerikaner erkennbar war, wurde sowieso als Ausländer eingestuft. Verschlüsselte Daten wurden in jedem Fall gesammelt und für immer gespeichert. Eine Kategorie, die sich durch kreative Definition fast beliebig ausweiten lässt, erstreckt sich auf alles, „was in Verbindung mit der Außenpolitik der USA steht“.
-Wenn dann immer noch jemand den Rechtsweg beschreiten will, wird die Beschwerde an das FISA-Gericht (FISA: Foreign Intelligence Surveillance Act) weitergeleitet, ein geheimes Abnickgericht, das in einem „Faradayschen Käfig“ (gegen elektrische Felder abgeschirmt) tagt und dessen Verhandlungen und Beschlüsse ebenfalls geheim sind. Dabei war FISA bereits von Busch mit dem FISAAA (Foreign Intelligence Surveillance Act Amendment Act) der Zahn gezogen worden.
-Heute findet eine bemerkenswerte Umkehrung der Verhältnisse bei Ausspähung und Überwachung statt. Ursprünglich wollte der amerikanische Staat sich und seine Bürger gegen Verbrecher, also die Bösen, schützen und hat daher Verschlüsselungs-Software reglementiert und ihre Ausfuhr ins Ausland verboten. Verbrecher sollten nicht dadurch geschützt werden, dass sie frei und unbemerkt kommunizieren könnten. Heute müssen sich die Bürger gegen den Staat mit Hilfe sicherer Verschlüsselung schützen. In den USA gibt es Aktivisten in verschiedenen Organisationen, die die Agenda des Schutzes vor Geheimdiensten vowärtstreiben. Bei uns ist der Chaos Computer Club von einem Verband der Hacker und Bastler zu einer Menschenrechtsorganisation mutiert, die sich weniger in Szene setzt und ermahnt, sondern uns da hilft, wo Politiker auch nicht die Andeutung eines Fachverständnisses, wenn schon keinen Sachverstand, vorweisen können.
-Jetzt gilt es, Einfluss auf die Vereinigten Staaten an den Stellen auszuüben, wo die maßgebenden Politiker hinhören, nämlich bei wirtschaftlichen Belangen, also Aufträge zurückziehen oder glaubhaft damit drohen und Verhandlungen wie die über das Freihandelsabkommen aussetzen. Brasilien hat ein Beispiel gesetzt. Das Land hat wegen des Abhörskandals bei Boeing einen Auftrag für Kampflugzeuge storniert.
-Deutschland muss aus seiner ängstlichen Passivität und Dienstfertigkeit heraustreten. Das Gefühl für Selbstbewusstsein ist in Deutschland verloren gegangen und die Einsicht, dass wir durch Selbstbewusstsein uns Respekt und Ansehen verschaffen und nicht durch Willfährigkeit. Bei uns ist sogar der Ausdruck „deutsche Interessen“ masochistisch geächtet. Ein Interesse, das wir einfordern können und müssen, ist unsere Sicherheit vor Ausspähung und Manipulation.
-Die Überwachungsaffäre der NSA war Schwerpunktthema von COMPACT 9/2013. Die Ausgabe kann hier weiterhin bestellt werden . Oder COMPACT abonnieren und künftig keine Ausgabe mehr verpassen!
+In dem Gewirr von Gesetzen, die sich mit Überwachung, Spionage und Abhören befassten und noch befassen, ist es ziemlich eindeutig verboten, Bürger der USA ohne Gerichtsbeschluss zu überwachen.
+Die Geheimdienste gaben sich Ausführungsbestimmungen der Art, dass sie aus einer Liste von Selektoren wählen konnten, von denen jeder laut Statistik mit einer Wahrscheinlichkeit von nur 51 Prozent auf einen Inländer verwies.
+Sonst war der betreffende Ausländer.
+Für Ausländer gibt es keine Einschränkungen.
+Jeder, der nicht eindeutig als Amerikaner erkennbar war, wurde sowieso als Ausländer eingestuft.
+Verschlüsselte Daten wurden in jedem Fall gesammelt und für immer gespeichert.
+Eine Kategorie, die sich durch kreative Definition fast beliebig ausweiten lässt, erstreckt sich auf alles, „was in Verbindung mit der Außenpolitik der USA steht“.
+Wenn dann immer noch jemand den Rechtsweg beschreiten will, wird die Beschwerde an das FISA-Gericht (FISA: Foreign Intelligence Surveillance Act) weitergeleitet, ein geheimes Abnickgericht, das in einem „Faradayschen Käfig“ (gegen elektrische Felder abgeschirmt) tagt und dessen Verhandlungen und Beschlüsse ebenfalls geheim sind.
+Dabei war FISA bereits von Busch mit dem FISAAA (Foreign Intelligence Surveillance Act Amendment Act) der Zahn gezogen worden.
+Heute findet eine bemerkenswerte Umkehrung der Verhältnisse bei Ausspähung und Überwachung statt.
+Ursprünglich wollte der amerikanische Staat sich und seine Bürger gegen Verbrecher, also die Bösen, schützen und hat daher Verschlüsselungs-Software reglementiert und ihre Ausfuhr ins Ausland verboten.
+Verbrecher sollten nicht dadurch geschützt werden, dass sie frei und unbemerkt kommunizieren könnten.
+Heute müssen sich die Bürger gegen den Staat mit Hilfe sicherer Verschlüsselung schützen.
+In den USA gibt es Aktivisten in verschiedenen Organisationen, die die Agenda des Schutzes vor Geheimdiensten vowärtstreiben.
+Bei uns ist der Chaos Computer Club von einem Verband der Hacker und Bastler zu einer Menschenrechtsorganisation mutiert, die sich weniger in Szene setzt und ermahnt, sondern uns da hilft, wo Politiker auch nicht die Andeutung eines Fachverständnisses, wenn schon keinen Sachverstand, vorweisen können.
+Jetzt gilt es, Einfluss auf die Vereinigten Staaten an den Stellen auszuüben, wo die maßgebenden Politiker hinhören, nämlich bei wirtschaftlichen Belangen, also Aufträge zurückziehen oder glaubhaft damit drohen und Verhandlungen wie die über das Freihandelsabkommen aussetzen.
+Brasilien hat ein Beispiel gesetzt.
+Das Land hat wegen des Abhörskandals bei Boeing einen Auftrag für Kampflugzeuge storniert.
+Deutschland muss aus seiner ängstlichen Passivität und Dienstfertigkeit heraustreten.
+Das Gefühl für Selbstbewusstsein ist in Deutschland verloren gegangen und die Einsicht, dass wir durch Selbstbewusstsein uns Respekt und Ansehen verschaffen und nicht durch Willfährigkeit.
+Bei uns ist sogar der Ausdruck „deutsche Interessen“ masochistisch geächtet.
+Ein Interesse, das wir einfordern können und müssen, ist unsere Sicherheit vor Ausspähung und Manipulation.
+Die Überwachungsaffäre der NSA war Schwerpunktthema von COMPACT 9/2013.
+Die Ausgabe kann hier weiterhin bestellt werden .
+Oder COMPACT abonnieren und künftig keine Ausgabe mehr verpassen!

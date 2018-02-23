@@ -1,15 +1,31 @@
 Daten-&#8222;Leak&#8220;:  Wahlbehörde im Rot-Schwarzen Innenministerium meldet politisch &#8222;korrektes&#8220; Wahlergebnis			
 
-Einen Skandal um Wählerstimmen und -daten orteten am Sonntagabend in Österreich zahlreiche Politbeobachter. Zwar stand die Auszählung der Briefwahlstimmen noch aus, aber: Auf der Seite des Innenministeriums tauchte ein Ergebnis INKLUSIVE der Briefwahlstimmen auf, die noch gar nicht ausgezählt sein konnten.
-COMPACT wendet sich gegen politischen und medialen Konformismus. Unterstützen Sie uns deshalb mit einem Abo: Hier abschließen
+Einen Skandal um Wählerstimmen und -daten orteten am Sonntagabend in Österreich zahlreiche Politbeobachter.
+Zwar stand die Auszählung der Briefwahlstimmen noch aus, aber: Auf der Seite des Innenministeriums tauchte ein Ergebnis INKLUSIVE der Briefwahlstimmen auf, die noch gar nicht ausgezählt sein konnten.
+COMPACT wendet sich gegen politischen und medialen Konformismus.
+Unterstützen Sie uns deshalb mit einem Abo: Hier abschließen
 _von Wolfgang Eggert
 Heute titelt die österreichische Presse: „Was ist dran an der Wahlkartenverschwörung?“ und schreibt weiter:
-„Am Sonntagabend befeuerte eine Veröffentlichung auf der Homepage des Innenministeriums Manipulations-Gerüchte – kurzzeitig fand sich dort ein ‚vorläufiges Endergebnis inkl. Briefwahl‘. (1) Das Innenministerium erklärte rasch, es habe sich um einen Irrtum gehandelt. Am Montagmorgen kannte Robert Stein, Leiter der Wahlbehörde, schließlich den genauen Grund. Die zahlreichen Analyse- und Abfragemöglichkeiten auf der Homepage des Ressorts machten es nötig, dass man das Funktionieren des komplexen Softwaretools vor dem Wahltag mit Testdaten probte. Das geschah nach Steins Angaben am 18. Mai.“ (2)
-18. Mai. Das ist nun schon ein paar Tage her. Der vermeintliche Blick in den Kaffeesatz überrascht. Das „Probe-„Ergebnis entspricht dem Endergebnis ohne Briefwahl: 51,9 : 48,1%. Nur, dass der Grüne Alexander van der Bellen mit dem Siegesergebnis verkündet wird – statt umgekehrt.
+„Am Sonntagabend befeuerte eine Veröffentlichung auf der Homepage des Innenministeriums Manipulations-Gerüchte – kurzzeitig fand sich dort ein ‚vorläufiges Endergebnis inkl.
+Briefwahl‘.
+(1) Das Innenministerium erklärte rasch, es habe sich um einen Irrtum gehandelt.
+Am Montagmorgen kannte Robert Stein, Leiter der Wahlbehörde, schließlich den genauen Grund.
+Die zahlreichen Analyse- und Abfragemöglichkeiten auf der Homepage des Ressorts machten es nötig, dass man das Funktionieren des komplexen Softwaretools vor dem Wahltag mit Testdaten probte.
+Das geschah nach Steins Angaben am 18.
+Mai.“ (2)
+18.
+Mai.
+Das ist nun schon ein paar Tage her.
+Der vermeintliche Blick in den Kaffeesatz überrascht.
+Das „Probe-„Ergebnis entspricht dem Endergebnis ohne Briefwahl: 51,9 : 48,1%.
+Nur, dass der Grüne Alexander van der Bellen mit dem Siegesergebnis verkündet wird – statt umgekehrt.
 Zwei lesenswerte Kommentare unter dem Artikel der „Presse“:
 tiroler1973, 23.05.2016 12:53
 Als IT-ler
-Finde ich es interessant, dass die Informatiker des Staates ein Produktivsystem mit Testdaten befüllen. Der Weg ist bei einer verantwortungsvollen EDV die andere Richtung. Man testet nie Daten in der Life-Umgebung. Dafür gibts die Entwicklungsumgebung und die Testumgebung.
+Finde ich es interessant, dass die Informatiker des Staates ein Produktivsystem mit Testdaten befüllen.
+Der Weg ist bei einer verantwortungsvollen EDV die andere Richtung.
+Man testet nie Daten in der Life-Umgebung.
+Dafür gibts die Entwicklungsumgebung und die Testumgebung.
 Antworten cw_t, 23.05.2016 13:26
 Re: Als IT-ler
 Ebenfalls IT, auch mich hat dieses Vorgehensmodell stark irritiert.

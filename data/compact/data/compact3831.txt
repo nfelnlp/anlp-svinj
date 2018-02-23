@@ -1,15 +1,45 @@
 Multikulti			
 
-Als erstrebenswerte kulturelle Eigenschaft unserer Gesellschaft wird uns in Deutschland ihre zunehmende Multikulturalität gepriesen. Soweit ich sehen kann, besteht diese im Wesentlichen darin, daß Migranten sich mit eigener kultureller Identität gegenüber der deutschen Allgemeinheit absetzen: Mädchen tragen Kopftücher; Jungen heiraten Importbräute mit traditionellem Kolorit; Jugendliche sprechen ein Ghetto-Argot; Streit wird mancherorts nach der Scharia geschlichtet. Viele leben in einer pittoresken Subkultur.
-Vielfach werden wir auf die angebliche kulturelle Vielfalt verwiesen, die sich in dem Einwanderland USA entwickelt habe. Wenn allerdings Deutsche nach Amerika kommen, sind sie erstaunt über der Uniformität der amerikanischen Kultur von Portland, Maine, bis San Diego, Kalifornien, etwa fünf tausend Kilometer. Bis auf die bekannten Ausnahmen wie Boston, New York, New Orleans, San Francisco und ethnische Subkulturen sehen alle Städte gleich aus –potthäßlich, schon auf den Zufahrtsstraßen. Der visuelle Eindruck der Städte ist ein Abbild allgemeiner Gleichförmigkeit. Manche Großstädte zeichnen sich zusätzlich dadurch aus, daß ihre „Inner cities“ zu Slums verkommen sind. Für Europäer ist besonders bedrückend, daß die Stadtzentren tot sind – und oft gefährlich.
-In den USA wird auf Einwanderer starker gesellschaftlicher Druck ausgeübt, sich nicht nur zu integrieren, sondern sich patriotisch zum Land zu bekennen und sich zu assimilieren. Ihre Kinder wollen in der Schule unter keinen Umständen als Einwanderer wahrgenommen werden. Wenigen Eltern gelingt es, ihre heimatliche Sprache an ihre Kinder weiterzugeben.
+Als erstrebenswerte kulturelle Eigenschaft unserer Gesellschaft wird uns in Deutschland ihre zunehmende Multikulturalität gepriesen.
+Soweit ich sehen kann, besteht diese im Wesentlichen darin, daß Migranten sich mit eigener kultureller Identität gegenüber der deutschen Allgemeinheit absetzen: Mädchen tragen Kopftücher; Jungen heiraten Importbräute mit traditionellem Kolorit; Jugendliche sprechen ein Ghetto-Argot; Streit wird mancherorts nach der Scharia geschlichtet.
+Viele leben in einer pittoresken Subkultur.
+Vielfach werden wir auf die angebliche kulturelle Vielfalt verwiesen, die sich in dem Einwanderland USA entwickelt habe.
+Wenn allerdings Deutsche nach Amerika kommen, sind sie erstaunt über der Uniformität der amerikanischen Kultur von Portland, Maine, bis San Diego, Kalifornien, etwa fünf tausend Kilometer.
+Bis auf die bekannten Ausnahmen wie Boston, New York, New Orleans, San Francisco und ethnische Subkulturen sehen alle Städte gleich aus –potthäßlich, schon auf den Zufahrtsstraßen.
+Der visuelle Eindruck der Städte ist ein Abbild allgemeiner Gleichförmigkeit.
+Manche Großstädte zeichnen sich zusätzlich dadurch aus, daß ihre „Inner cities“ zu Slums verkommen sind.
+Für Europäer ist besonders bedrückend, daß die Stadtzentren tot sind – und oft gefährlich.
+In den USA wird auf Einwanderer starker gesellschaftlicher Druck ausgeübt, sich nicht nur zu integrieren, sondern sich patriotisch zum Land zu bekennen und sich zu assimilieren.
+Ihre Kinder wollen in der Schule unter keinen Umständen als Einwanderer wahrgenommen werden.
+Wenigen Eltern gelingt es, ihre heimatliche Sprache an ihre Kinder weiterzugeben.
 Ich habe während meines Lebens in den USA die Gleichförmigkeit nicht so hautnah erlebt, weil ich in außergewöhnlichen und sehr angenehmen Stadtumgebungen gelebt habe: In der San Francisco Bay Area und in Boston mit Neuengland im Hintergrund, beide Regionen mit Elite-Universitäten.
-Eines Tages aber sprang mir die Gleichförmigkeit des Lebens in den USA ins Gesicht. Ich war einer der Industrievertreter im CODASYL COBOL-Committee, das Gremium, das die COBOL-Programmiersprache definierte und weiterentwickelte. Wir trafen uns alle 6 Wochen in einer anderen Stadt.
-Mit der Zeit bewegte ich mich auf diesen Reisen wie ein Schlafwandler. Ich fuhr zum Flugplatz und flog in eine andere Stadt. Der Flughafen dort sah aus wie der, von dem ich gerade gekommen war; der Autoverleih sah nicht nur genauso aus, die jungen Frauen waren auch genauso gekleidet wie an anderen Verleihs und sprachen in denselben Floskeln und mit den gleichen Stimmen. Ich bekam den gleichen Wagen wie sonst, fuhr durch die gleiche Stadtlandschaft, kam in das gleiche Hotel, ging zum gleichen Hotelrestaurant und aß das gleiche Steak.
-Das COBOL-Committee war ein Verstärker meiner Wahrnehmung. Wir diskutierten über zwei Stunden, ob in einem bestimmten COBOL-Befehl ein Komma stehen sollte oder nicht. Die Sitzungen fanden meistens in einem der üblichen Hotelkonferenzräumen statt, ohne Fenster und Tageslicht.
-Ich entsinne mich heute nur noch an eine einzige Sitzung. Die fand in einem Hotel in Miami, Florida, statt, wo der Konferenzraum eine Glaswand zum Meer hin hatte. Da brach meine Konzentration auf COBOL vollends zusammen, als ich sehnsüchtig auf das Meer starrte, dieses balsamwarme, in dem man sich suhlen und vergessen konnte.
-Landschaft und Klima waren tatsächlich die einzigen Varianten bei diesen Ausflügen. In Phoenix, Arizona, hatte der gastgebende Konzern für uns einen Ausritt in die Wüste arrangiert. Als wir zu den Pferdeställen kamen, sollten wir uns in eine Liste eintragen und dort angeben: „mit Reiterfahrung“ oder „ohne Reiterfahrung“. Ich hatte noch nie auf einem im mexikanisch-amerikanischen Stil zugerittenen Pferd gesessen. Ich war erstaunt, als sich alle als erfahrene Reiter eintrugen. Nur ich markierte „keine Reiterfahrung“.
-Richtig überrascht war ich, als es sich herausstellte, daß ich der einzige war, der ein Pferd reiten konnte. Was die anderen alle unter „Reiten“ verstanden, war das bequeme Sitzen auf einem sesselgroßen mexikanischen Sattel, mit dem großen Knauf vorne, an dem man sich festhalten konnte. Die Pferde liefen dann in gemächlichem Gehschritt hintereinander her.
-Die Anpassung an den amerikanisch-mexikanischen Reitstil stellte sich als harmlos heraus. Mir war das Entlangtrotten in einer langen Schlange aber zu langweilig. Gegen mein etwas widerwilliges Pferd, das in der Reihe bleiben wollte, bin ich mit kleinen Ausflügen in die Landschaft nebenher geritten. Auch hier war ich, wie meistens, ein Sonderling. Das, was ich unter Reiten verstand, war für die anderen Dressur, etwas Außergewöhnliches, das mir jedoch Achtung einbrachte. Der erste in unserer langen Reihe war ein Cowboy, der zum Einsatz kam, als ein Pferd einen Hang hinunterrutschte.
+Eines Tages aber sprang mir die Gleichförmigkeit des Lebens in den USA ins Gesicht.
+Ich war einer der Industrievertreter im CODASYL COBOL-Committee, das Gremium, das die COBOL-Programmiersprache definierte und weiterentwickelte.
+Wir trafen uns alle 6 Wochen in einer anderen Stadt.
+Mit der Zeit bewegte ich mich auf diesen Reisen wie ein Schlafwandler.
+Ich fuhr zum Flugplatz und flog in eine andere Stadt.
+Der Flughafen dort sah aus wie der, von dem ich gerade gekommen war; der Autoverleih sah nicht nur genauso aus, die jungen Frauen waren auch genauso gekleidet wie an anderen Verleihs und sprachen in denselben Floskeln und mit den gleichen Stimmen.
+Ich bekam den gleichen Wagen wie sonst, fuhr durch die gleiche Stadtlandschaft, kam in das gleiche Hotel, ging zum gleichen Hotelrestaurant und aß das gleiche Steak.
+Das COBOL-Committee war ein Verstärker meiner Wahrnehmung.
+Wir diskutierten über zwei Stunden, ob in einem bestimmten COBOL-Befehl ein Komma stehen sollte oder nicht.
+Die Sitzungen fanden meistens in einem der üblichen Hotelkonferenzräumen statt, ohne Fenster und Tageslicht.
+Ich entsinne mich heute nur noch an eine einzige Sitzung.
+Die fand in einem Hotel in Miami, Florida, statt, wo der Konferenzraum eine Glaswand zum Meer hin hatte.
+Da brach meine Konzentration auf COBOL vollends zusammen, als ich sehnsüchtig auf das Meer starrte, dieses balsamwarme, in dem man sich suhlen und vergessen konnte.
+Landschaft und Klima waren tatsächlich die einzigen Varianten bei diesen Ausflügen.
+In Phoenix, Arizona, hatte der gastgebende Konzern für uns einen Ausritt in die Wüste arrangiert.
+Als wir zu den Pferdeställen kamen, sollten wir uns in eine Liste eintragen und dort angeben: „mit Reiterfahrung“ oder „ohne Reiterfahrung“.
+Ich hatte noch nie auf einem im mexikanisch-amerikanischen Stil zugerittenen Pferd gesessen.
+Ich war erstaunt, als sich alle als erfahrene Reiter eintrugen.
+Nur ich markierte „keine Reiterfahrung“.
+Richtig überrascht war ich, als es sich herausstellte, daß ich der einzige war, der ein Pferd reiten konnte.
+Was die anderen alle unter „Reiten“ verstanden, war das bequeme Sitzen auf einem sesselgroßen mexikanischen Sattel, mit dem großen Knauf vorne, an dem man sich festhalten konnte.
+Die Pferde liefen dann in gemächlichem Gehschritt hintereinander her.
+Die Anpassung an den amerikanisch-mexikanischen Reitstil stellte sich als harmlos heraus.
+Mir war das Entlangtrotten in einer langen Schlange aber zu langweilig.
+Gegen mein etwas widerwilliges Pferd, das in der Reihe bleiben wollte, bin ich mit kleinen Ausflügen in die Landschaft nebenher geritten.
+Auch hier war ich, wie meistens, ein Sonderling.
+Das, was ich unter Reiten verstand, war für die anderen Dressur, etwas Außergewöhnliches, das mir jedoch Achtung einbrachte.
+Der erste in unserer langen Reihe war ein Cowboy, der zum Einsatz kam, als ein Pferd einen Hang hinunterrutschte.
 Dr. Hartmut Grebe, Autor der Biografie  MISSRATEN – Ein Leben ohne Ideologie
 Bild: Matschpfütze | Erich Kasten / pixelio.de

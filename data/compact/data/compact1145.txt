@@ -1,23 +1,52 @@
-Kollateralschaden? NSA und CIA haben Ransomware-Attacke ermöglicht			
+Kollateralschaden?
+NSA und CIA haben Ransomware-Attacke ermöglicht			
 
-Ein weltweiter Hackerangriff hat seit Freitag über 200.000 Computer in 150 Ländern vorübergehend lahmgelegt. Microsoft beschuldigt die US-Regierung für Sicherheitslücken verantwortlich zu sein. Durch Wikileaks wissen wir, dass die CIA Schwachstellen schafft, die sie nicht schützen kann.
-Microsoft gibt der US-Regierung eine Mitschuld an dem globalen Cyber-Angriff „Wanna cry“. Der Geheimdienst NSA habe Erkenntnisse über Sicherheitslücken im Windows-Betriebssystem für sich behalten. Der leitende Microsoft-Anwalt Brad Smith forderte die Regierung auf, entdeckte Sicherheitslücken an Softwareunternehmen zu melden, anstatt sie zu „horten“, wie er in einer Unternehmensmitteilung schreibt:
-„Das ist ein entstehendes Muster im Jahr 2017. Durch Wikileaks haben wir gesehen, dass die CIA Schwachstellen hortet. Nun sind Nutzer weltweit von diesen von der NSA gestohlenen Schwachstellen betroffen.“ (1) Deutliche Worte, die wir schon einmal gehört haben.
-Im März dieses Jahres hatte Wikileaks tausende CIA-Dokumente veröffentlicht. Julian Assange erklärte damals: „Die CIA hat ein gigantisches Arsenal entwickelt – allem Anschein nach das größte Arsenal von Trojanern und Viren der Welt. Das attackiert die meisten Systeme, die Journalisten, Regierungsangehörige, Politiker, Firmenchefs und normale Bürger nutzen. Sie haben es nicht gesichert, die Kontrolle darüber verloren und diese Tatsache dann verschleiert.“ Assange sprach von einem „historischen Akt vernichtender Inkompetenz“.
-COMPACT: Fakten gegen Fake News. Jeden Monat aktuell – Hier abonnieren.
+Ein weltweiter Hackerangriff hat seit Freitag über 200.000 Computer in 150 Ländern vorübergehend lahmgelegt.
+Microsoft beschuldigt die US-Regierung für Sicherheitslücken verantwortlich zu sein.
+Durch Wikileaks wissen wir, dass die CIA Schwachstellen schafft, die sie nicht schützen kann.
+Microsoft gibt der US-Regierung eine Mitschuld an dem globalen Cyber-Angriff „Wanna cry“.
+Der Geheimdienst NSA habe Erkenntnisse über Sicherheitslücken im Windows-Betriebssystem für sich behalten.
+Der leitende Microsoft-Anwalt Brad Smith forderte die Regierung auf, entdeckte Sicherheitslücken an Softwareunternehmen zu melden, anstatt sie zu „horten“, wie er in einer Unternehmensmitteilung schreibt:
+„Das ist ein entstehendes Muster im Jahr 2017.
+Durch Wikileaks haben wir gesehen, dass die CIA Schwachstellen hortet.
+Nun sind Nutzer weltweit von diesen von der NSA gestohlenen Schwachstellen betroffen.“ (1) Deutliche Worte, die wir schon einmal gehört haben.
+Im März dieses Jahres hatte Wikileaks tausende CIA-Dokumente veröffentlicht.
+Julian Assange erklärte damals: „Die CIA hat ein gigantisches Arsenal entwickelt – allem Anschein nach das größte Arsenal von Trojanern und Viren der Welt.
+Das attackiert die meisten Systeme, die Journalisten, Regierungsangehörige, Politiker, Firmenchefs und normale Bürger nutzen.
+Sie haben es nicht gesichert, die Kontrolle darüber verloren und diese Tatsache dann verschleiert.“ Assange sprach von einem „historischen Akt vernichtender Inkompetenz“.
+COMPACT: Fakten gegen Fake News.
+Jeden Monat aktuell – Hier abonnieren.
 https://www.youtube.com/watch?v=3iTpb9sSw6g
-Edward Snowden kommentierte die unter den Begriffen „Vault 7“ und „Year Zero“ bekannt gewordenen Dokumente so: “Die CIA-Berichte zeigen, dass die US-Regierung Schwachstellen in US-Produkten entwickelt und diese Löcher dann absichtlich offenlässt. Unbeschreiblich, wie unverantwortlich das ist.“ In einem späteren Tweet fügte er hinzu: „Warum das gefährlich ist? Weil, solange es offenbleibt, jeder Hacker das Sicherheitsloch (…) nutzen kann, um in jedes I-Phone der Welt zu hacken.“
-The CIA reports show the USG developing vulnerabilities in US products, then intentionally keeping the holes open. Reckless beyond words.
+Edward Snowden kommentierte die unter den Begriffen „Vault 7“ und „Year Zero“ bekannt gewordenen Dokumente so: “Die CIA-Berichte zeigen, dass die US-Regierung Schwachstellen in US-Produkten entwickelt und diese Löcher dann absichtlich offenlässt.
+Unbeschreiblich, wie unverantwortlich das ist.“ In einem späteren Tweet fügte er hinzu: „Warum das gefährlich ist?
+Weil, solange es offenbleibt, jeder Hacker das Sicherheitsloch (…) nutzen kann, um in jedes I-Phone der Welt zu hacken.“
+The CIA reports show the USG developing vulnerabilities in US products, then intentionally keeping the holes open.
+Reckless beyond words.
 — Edward Snowden (@Snowden) March 7, 2017
-Why is this dangerous? Because until closed, any hacker can use the security hole the CIA left open to break into any iPhone in the world. https://t.co/xK0aILAdFI
+Why is this dangerous?
+Because until closed, any hacker can use the security hole the CIA left open to break into any iPhone in the world.
+https://t.co/xK0aILAdFI
 — Edward Snowden (@Snowden) March 7, 2017
-Snowden nannte es „ungewöhnlich“, dass Microsoft die US-Regierung für die Entwicklung der Schädlingssoftware „Wanna cry“ offiziell verantwortlich macht. Zumal die CIA Assange erst kürzlich zum Staatsfeind Nr. 1 erklärt hat.
-Extraordinary: Microsoft officially confirms @NSAGov developed the flaw that brought down hospitals this weekend. https://t.co/zQ6785YpFf
+Snowden nannte es „ungewöhnlich“, dass Microsoft die US-Regierung für die Entwicklung der Schädlingssoftware „Wanna cry“ offiziell verantwortlich macht.
+Zumal die CIA Assange erst kürzlich zum Staatsfeind Nr.
+1 erklärt hat.
+Extraordinary: Microsoft officially confirms @NSAGov developed the flaw that brought down hospitals this weekend.
+https://t.co/zQ6785YpFf
 — Edward Snowden (@Snowden) May 14, 2017
-Amerikanische und britische Geheimdienste haben seit Jahrzehnten absichtlich für Sicherheitslücken gesorgt. Die schwedische Zeitung Aftonposten berichtete im Dezember 2014, dass britische Spione Entwickler von Mobilfunkgeräten in den 1980er Jahren unter Druck gesetzt hätten, die Verschlüsselungstechnik zu schwächen. (2)
-„Unsere Verschlüsselung ist jetzt noch immer 1000-mal schwächer als ursprünglich geplant“, heißt es im Artikel mit Hervorhebung im Original. „Das bedeutet, dass die NSA und andere wahrscheinlich länger dafür gebraucht hätten, die Verschlüsselung zu knacken und ein gewisses Maß an Abhörerei hätte vermieden werden können.“
-Der ehemalige Technische Direktor der NSA und Whistleblower William Binney erklärt zum jüngsten globalen Hackerangriff: „Erstens finden oder schaffen sie Schwachstellen. Dann reparieren sie diese nicht, damit wir alle verletzlich und angreifbar bleiben. Wenn dann ein Angriff stattfindet, dann sagen sie, dass sie mehr Geld für Cyber-Sicherheit brauchen – ein kompletter Schwindel!!!“ (3)
-Am Freitag gehackte Computer luden einen Erpressungstrojaner herunter, der begann, sämtliche Dateien auf dem Rechner zu verschlüsseln. Daraufhin sah das Opfer eine Warnung und die Forderung, 300 US-Dollar in der Internetwährung Bitcoins auf ein bestimmtes Konto zu überweisen. Bei der Attacke wurden auch Computer von Unternehmen und Behörden blockiert. In Deutschland war die Deutsche Bahn betroffen, in Großbritannien wurden mehrere Krankenhäuser lahmgelegt. 80 Prozent der betroffenen Rechner sollen in Russland gewesen sein.
+Amerikanische und britische Geheimdienste haben seit Jahrzehnten absichtlich für Sicherheitslücken gesorgt.
+Die schwedische Zeitung Aftonposten berichtete im Dezember 2014, dass britische Spione Entwickler von Mobilfunkgeräten in den 1980er Jahren unter Druck gesetzt hätten, die Verschlüsselungstechnik zu schwächen.
+(2)
+„Unsere Verschlüsselung ist jetzt noch immer 1000-mal schwächer als ursprünglich geplant“, heißt es im Artikel mit Hervorhebung im Original.
+„Das bedeutet, dass die NSA und andere wahrscheinlich länger dafür gebraucht hätten, die Verschlüsselung zu knacken und ein gewisses Maß an Abhörerei hätte vermieden werden können.“
+Der ehemalige Technische Direktor der NSA und Whistleblower William Binney erklärt zum jüngsten globalen Hackerangriff: „Erstens finden oder schaffen sie Schwachstellen.
+Dann reparieren sie diese nicht, damit wir alle verletzlich und angreifbar bleiben.
+Wenn dann ein Angriff stattfindet, dann sagen sie, dass sie mehr Geld für Cyber-Sicherheit brauchen – ein kompletter Schwindel!!
+!“ (3)
+Am Freitag gehackte Computer luden einen Erpressungstrojaner herunter, der begann, sämtliche Dateien auf dem Rechner zu verschlüsseln.
+Daraufhin sah das Opfer eine Warnung und die Forderung, 300 US-Dollar in der Internetwährung Bitcoins auf ein bestimmtes Konto zu überweisen.
+Bei der Attacke wurden auch Computer von Unternehmen und Behörden blockiert.
+In Deutschland war die Deutsche Bahn betroffen, in Großbritannien wurden mehrere Krankenhäuser lahmgelegt.
+80 Prozent der betroffenen Rechner sollen in Russland gewesen sein.
 Jetzt abonnieren, um COMPACT immer vor allen anderen und zwei attraktive Prämien zu erhalten!
 (1) https://blogs.microsoft.com/on-the-issues/2017/05/14/need-urgent-collective-action-keep-people-safe-online-lessons-last-weeks-cyberattack/#sm.0001pn6n47b98drtqs22lf4f3bx8j
 (2) http://www.aftenposten.no/verden/Sources-We-were-pressured-to-weaken-the-mobile-security-in-the-80s-98459b.html#.UtBjcfs_BQV

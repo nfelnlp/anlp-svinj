@@ -1,10 +1,32 @@
 Einmal Klick und Daten weg &#8211; Probleme mit der SOFORT-Überweisung			
 
-In unserer hochdynamischen Zeit möchte man alle Tätigkeit abkürzen und vereinfachen. Auch das Online-Shopping: Am besten mit einem Klick ordern und gleichzeitig die Überweisung tätigen. Weniger Arbeit und schnellere Lieferung. COMPACT kommt seinen Lesern da gerne entgegen. Aber es gibt auch Grenzen, wo „schnell und einfach“ in die Datenfalle führt. So bei dem SOFORT-Überweisungs-Service.
+In unserer hochdynamischen Zeit möchte man alle Tätigkeit abkürzen und vereinfachen.
+Auch das Online-Shopping: Am besten mit einem Klick ordern und gleichzeitig die Überweisung tätigen.
+Weniger Arbeit und schnellere Lieferung.
+COMPACT kommt seinen Lesern da gerne entgegen.
+Aber es gibt auch Grenzen, wo „schnell und einfach“ in die Datenfalle führt.
+So bei dem SOFORT-Überweisungs-Service.
 _von Paula Varga
-Dessen Konzept klingt verführerisch: Ein Klick des Kunden auf das SOFORT-Überweisungs-Button, ein kurzes Ausfüllen der Überweisung und der Verkäufer erhält die Zahlungsbestätigung. So kann er die Ware sofort lossenden oder zum Download freigeben. Die für Kunde und Verkäufer lästige Wartezeit bei der bisherigen Vorkasse entfällt. Auch ein Kundenkonto ist überflüssig. Wie das funktioniert? Der Zahlende überweist nicht mehr von seiner Bank aus, sondern schaltet SOFORT-Überweisung ein. Deren Service öffnet das Konto, prüft dessen Stand, und los geht’s. Ist das nicht toll? Laut Focus bieten schon über 11 000 Online-Shops dieses System an.
-Da ist nur ein Problem: Um zu dieser Aktion berechtigt zu sein, braucht SOFORT-Überweisung hochsensible Daten: beispielsweise Ihre PIN, also jene Geheimnummer, bei der Banken den Kunden raten, sie nicht einmal den eigenen Mitarbeitern preiszugeben. Außerdem braucht SOFORT-Überweisung noch Ihr Online Banking-Passwort und die TAN. Das berechtigt zur Überweisung, Einblick in den Kontostand und dessen Historie, auf alle früheren Überweisungen und Eingänge. Gläserner geht’s nicht mehr.
-Aber nicht nur die Gefahr illegaler Weitergabe sensibler Bankzugänge bereitet den Datenschützern Sorge. So warnt die Website „power-datenschutz.de“: „Allein schon die Eingabe der kompletten Online-Banking-Zugangsdaten sehen Kritiker problematisch, da bei jeder Eingabe theoretisch die Möglichkeit eines Hackerangriffs besteht.“
-Auch die Banken trauen dem (Daten-)Frieden nicht: Obwohl TÜV-geprüft, raten viele Geldinstitute vom SOFORT-Bezahlsystem ab, übernehmen bei dessen Anwendung keine Haftung. Das Landgericht Frankfurt am Main bestätigte im vergangenen Jahr die Bedenken gegenüber der SOFORT-Überweisung: „Die Nutzung des Dienstes ,Sofortüberweisung‘ ist nämlich unabhängig von seiner Bewertung durch Kreditinstitute für den Verbraucher unzumutbar, da er hierzu nicht nur mit einem Dritten in vertragliche Beziehungen treten muss, sondern diesem Dritten auch noch Kontozugangsdaten mitteilen muss und in den Abruf von Kontodaten einwilligen muss.
-Hierdurch erhält ein Dritter umfassenden Einblick in die Kunden-Kontoinformationen. Dabei handelt es sich um besonders sensible Finanzdaten, die auch zur Erstellung von Persönlichkeitsprofilen genutzt werden könnten. Daneben muss der Kunde dem Zahlungsdienstleister seine personalisierten Sicherheitsmerkmale (zum Beispiel PIN und TAN) mitteilen. Dies birgt erhebliche Risiken für die Datensicherheit und eröffnet erhebliche Missbrauchsmöglichkeiten. Dabei kommt es im Ergebnis nicht auf die konkrete Sicherheit des Dienstes ,Sofortüberweisung‘ an, sondern auf die grundsätzliche Erwägung, dass der Verbraucher nicht gezwungen werden kann, seine Daten diesem erhöhten Risiko auszusetzen.“
+Dessen Konzept klingt verführerisch: Ein Klick des Kunden auf das SOFORT-Überweisungs-Button, ein kurzes Ausfüllen der Überweisung und der Verkäufer erhält die Zahlungsbestätigung.
+So kann er die Ware sofort lossenden oder zum Download freigeben.
+Die für Kunde und Verkäufer lästige Wartezeit bei der bisherigen Vorkasse entfällt.
+Auch ein Kundenkonto ist überflüssig.
+Wie das funktioniert?
+Der Zahlende überweist nicht mehr von seiner Bank aus, sondern schaltet SOFORT-Überweisung ein.
+Deren Service öffnet das Konto, prüft dessen Stand, und los geht’s.
+Ist das nicht toll?
+Laut Focus bieten schon über 11 000 Online-Shops dieses System an.
+Da ist nur ein Problem: Um zu dieser Aktion berechtigt zu sein, braucht SOFORT-Überweisung hochsensible Daten: beispielsweise Ihre PIN, also jene Geheimnummer, bei der Banken den Kunden raten, sie nicht einmal den eigenen Mitarbeitern preiszugeben.
+Außerdem braucht SOFORT-Überweisung noch Ihr Online Banking-Passwort und die TAN.
+Das berechtigt zur Überweisung, Einblick in den Kontostand und dessen Historie, auf alle früheren Überweisungen und Eingänge.
+Gläserner geht’s nicht mehr.
+Aber nicht nur die Gefahr illegaler Weitergabe sensibler Bankzugänge bereitet den Datenschützern Sorge.
+So warnt die Website „power-datenschutz.de“: „Allein schon die Eingabe der kompletten Online-Banking-Zugangsdaten sehen Kritiker problematisch, da bei jeder Eingabe theoretisch die Möglichkeit eines Hackerangriffs besteht.“
+Auch die Banken trauen dem (Daten-)Frieden nicht: Obwohl TÜV-geprüft, raten viele Geldinstitute vom SOFORT-Bezahlsystem ab, übernehmen bei dessen Anwendung keine Haftung.
+Das Landgericht Frankfurt am Main bestätigte im vergangenen Jahr die Bedenken gegenüber der SOFORT-Überweisung: „Die Nutzung des Dienstes ,Sofortüberweisung‘ ist nämlich unabhängig von seiner Bewertung durch Kreditinstitute für den Verbraucher unzumutbar, da er hierzu nicht nur mit einem Dritten in vertragliche Beziehungen treten muss, sondern diesem Dritten auch noch Kontozugangsdaten mitteilen muss und in den Abruf von Kontodaten einwilligen muss.
+Hierdurch erhält ein Dritter umfassenden Einblick in die Kunden-Kontoinformationen.
+Dabei handelt es sich um besonders sensible Finanzdaten, die auch zur Erstellung von Persönlichkeitsprofilen genutzt werden könnten.
+Daneben muss der Kunde dem Zahlungsdienstleister seine personalisierten Sicherheitsmerkmale (zum Beispiel PIN und TAN) mitteilen.
+Dies birgt erhebliche Risiken für die Datensicherheit und eröffnet erhebliche Missbrauchsmöglichkeiten.
+Dabei kommt es im Ergebnis nicht auf die konkrete Sicherheit des Dienstes ,Sofortüberweisung‘ an, sondern auf die grundsätzliche Erwägung, dass der Verbraucher nicht gezwungen werden kann, seine Daten diesem erhöhten Risiko auszusetzen.“
 Und deshalb wird COMPACT Ihnen diesen Zahlungsweg auch nicht zumuten.

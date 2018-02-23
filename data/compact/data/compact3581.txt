@@ -1,9 +1,39 @@
 Whistleblower sterben einsam			
 
-Im Oktober 1998 wurde der talentierteste deutsche Hacker, Tron, erhängt in einem Berliner Park aufgefunden. Er war für Geheimdienste und Großkonzerne zur Gefahr geworden – wie einige andere ebenso. Von Jan Gaspard
-«Ein Mitglied des Chaos Computer Clubs (CCC), bekannt unter dem Namen Tron, ist gewaltsam zu Tode gekommen. Die Polizei spricht von mutmaßlichem Selbstmord. Wir können uns das nicht vorstellen», hieß es in einer Mitteilung des CCC Ende Oktober 1998. «Knackte er einen Code zuviel…?», fragte damals auch Bild.
-Tron, eigentlich Boris Floricic, war trotz seiner Jugend – er starb mit gerade 26 Jahren! – das größte Talent der deutschen Hacker-Szene. Er hatte eine «Wunderkarte» produziert, eine falsche Telefonkarte, die sich selbständig wieder aufladen konnte. Meiner Meinung nach war zum Beispiel auch der Zusammenbruch des Medien-Imperiums von Leo Kirch (Sat1, Pro Sieben) eigentlich Tron zu verdanken: Er entschlüsselte noch kurz vor seinem Tod die Codierung der Pay-TV-Schlüssel von Premiere, nur um zu zeigen, wie schlecht das alles gesichert war. Irgendwer stellte Trons Hack damals ins Internet (ohne sein Wissen), was man anhand einer versteckten «Signatur» von Tron im Programm-Code seiner Arbeit nachvollziehen konnte. Wenig später stieg Bertelsmann bei Premiere aus – vermutlich, weil Tron bewiesen hatte, dass diese Verschlüsselungen für Pay-TV niemals sicher sein würden, was das Risiko von Investitionen in diesem Bereich damals ins Unermessliche steigerte. Kirch ging daraufhin langsam das Geld aus, er musste seinen Konzern verkaufen.
-Trons bekannteste Erfindung war das «Cryptophon», ein ISDN-Telefon mit integrierter Sprachverschlüsselung, das er im Wintersemester 1997/1998 im Rahmen seiner Diplomarbeit an der Technischen Fachhochschule Berlin entwickelt hatte. Es sollte später zu «Cryptron» weiterentwickelt werden, welches auch Datenverbindungen hätte verschlüsseln können. Beide Systeme zusammen hätten Spionageprogramme wie Prism von Anfang an ins Leere laufen lassen können, umso mehr, als Tron so simple Technik verwendete, dass sie sich jeder für kleines Geld mit Material «aus dem Baumarkt» hätte nachbauen können. «Ihm traute man zu, Codes von Geheimdiensten zu dechiffrieren. Hatte er jetzt ihre Computer angezapft?», fragte die Bild-Zeitung.
-Die Ermittlungsbehörden bezeichneten – nach anfänglichen Zweifeln – Trons Tod schließlich als Selbstmord. Aber sie können nach wie vor nicht erklären, wieso er sich in einem Park in Berlin-Britz Süd mit einem Gürtel erhängt haben soll, der nie ihm gehört hat. Oder warum er am 22. Oktober 1998 (als er gefunden wurde) noch ein Nudelgericht mit einer ganz speziellen Basilikum-Sorte im Verdauungstrakt hatte (so das Obduktionsergebnis), wie er es nachweislich zuletzt am 17. Oktober gegessen hatte – dem Tag seines Verschwindens. Der Verdacht des Rechtsanwaltes Johnny Eisenberg: Tron muss bereits am 17. Oktober unter Fremdeinwirkung gestorben sein; danach wurde seine Leiche «postmortal gekühlt». Und nie geklärt wurde auch, was denn eigentlich das Motiv gewesen sein sollte für Tron, sich das Leben zu nehmen. Denn außer den offiziellen Ermittlern hatte keiner aus seinem Umfeld den Eindruck, dass Tron ein debiler Depressiver war, der unter seinen im Asperger-Syndrom begründeten Schwächen im sozialen Umgang mit anderen Menschen litt. Ganz im Gegenteil.
-Der Artikel ist der Auszug eines Textes aus der Oktober-Ausgabe. Diese ist über das Heftarchiv zu beziehen: https://www.compact-online.de/compact-oktober-2013/
-Jan Gaspard ist ein Pseudonym. Unter seinem richtigen Namen hat unser Autor für Unternehmen von Axel Springer, Leo Kirch, Rupert Murdoch, Ross Perot, Dick Cheney und vielen mehr gearbeitet. Ausgebildet unter anderem von einem ehemaligen Agenten des Militärischen Abschirmdienstes (MAD) ist er Vertrauensperson von unzufriedenen Ermittlern, wenn diese bei ihrer offiziellen Arbeit von Vorgesetzten behindert werden. Von ihm sind (auch unter weiteren Pseudonymen) insgesamt über 60 Hörspiele,  Hörbücher, Romane, Sachbücher und Ratgeber erschienen. Hinzu kommt ein journalistisches Gesamtwerk aus knapp 30 Jahren bei Tageszeitungen, Magazinen, Radio- und TV-Sendern. Zuletzt war Jan Gaspard herausgebender Chefredakteur eines Internet-TV-Senders und hier auch Moderator des eigenen investigativen Talk-Formats Café 23.
+Im Oktober 1998 wurde der talentierteste deutsche Hacker, Tron, erhängt in einem Berliner Park aufgefunden.
+Er war für Geheimdienste und Großkonzerne zur Gefahr geworden – wie einige andere ebenso.
+Von Jan Gaspard
+«Ein Mitglied des Chaos Computer Clubs (CCC), bekannt unter dem Namen Tron, ist gewaltsam zu Tode gekommen.
+Die Polizei spricht von mutmaßlichem Selbstmord.
+Wir können uns das nicht vorstellen», hieß es in einer Mitteilung des CCC Ende Oktober 1998.
+«Knackte er einen Code zuviel…?», fragte damals auch Bild.
+Tron, eigentlich Boris Floricic, war trotz seiner Jugend – er starb mit gerade 26 Jahren!
+– das größte Talent der deutschen Hacker-Szene.
+Er hatte eine «Wunderkarte» produziert, eine falsche Telefonkarte, die sich selbständig wieder aufladen konnte.
+Meiner Meinung nach war zum Beispiel auch der Zusammenbruch des Medien-Imperiums von Leo Kirch (Sat1, Pro Sieben) eigentlich Tron zu verdanken: Er entschlüsselte noch kurz vor seinem Tod die Codierung der Pay-TV-Schlüssel von Premiere, nur um zu zeigen, wie schlecht das alles gesichert war.
+Irgendwer stellte Trons Hack damals ins Internet (ohne sein Wissen), was man anhand einer versteckten «Signatur» von Tron im Programm-Code seiner Arbeit nachvollziehen konnte.
+Wenig später stieg Bertelsmann bei Premiere aus – vermutlich, weil Tron bewiesen hatte, dass diese Verschlüsselungen für Pay-TV niemals sicher sein würden, was das Risiko von Investitionen in diesem Bereich damals ins Unermessliche steigerte.
+Kirch ging daraufhin langsam das Geld aus, er musste seinen Konzern verkaufen.
+Trons bekannteste Erfindung war das «Cryptophon», ein ISDN-Telefon mit integrierter Sprachverschlüsselung, das er im Wintersemester 1997/1998 im Rahmen seiner Diplomarbeit an der Technischen Fachhochschule Berlin entwickelt hatte.
+Es sollte später zu «Cryptron» weiterentwickelt werden, welches auch Datenverbindungen hätte verschlüsseln können.
+Beide Systeme zusammen hätten Spionageprogramme wie Prism von Anfang an ins Leere laufen lassen können, umso mehr, als Tron so simple Technik verwendete, dass sie sich jeder für kleines Geld mit Material «aus dem Baumarkt» hätte nachbauen können.
+«Ihm traute man zu, Codes von Geheimdiensten zu dechiffrieren.
+Hatte er jetzt ihre Computer angezapft?», fragte die Bild-Zeitung.
+Die Ermittlungsbehörden bezeichneten – nach anfänglichen Zweifeln – Trons Tod schließlich als Selbstmord.
+Aber sie können nach wie vor nicht erklären, wieso er sich in einem Park in Berlin-Britz Süd mit einem Gürtel erhängt haben soll, der nie ihm gehört hat.
+Oder warum er am 22.
+Oktober 1998 (als er gefunden wurde) noch ein Nudelgericht mit einer ganz speziellen Basilikum-Sorte im Verdauungstrakt hatte (so das Obduktionsergebnis), wie er es nachweislich zuletzt am 17.
+Oktober gegessen hatte – dem Tag seines Verschwindens.
+Der Verdacht des Rechtsanwaltes Johnny Eisenberg: Tron muss bereits am 17.
+Oktober unter Fremdeinwirkung gestorben sein; danach wurde seine Leiche «postmortal gekühlt».
+Und nie geklärt wurde auch, was denn eigentlich das Motiv gewesen sein sollte für Tron, sich das Leben zu nehmen.
+Denn außer den offiziellen Ermittlern hatte keiner aus seinem Umfeld den Eindruck, dass Tron ein debiler Depressiver war, der unter seinen im Asperger-Syndrom begründeten Schwächen im sozialen Umgang mit anderen Menschen litt.
+Ganz im Gegenteil.
+Der Artikel ist der Auszug eines Textes aus der Oktober-Ausgabe.
+Diese ist über das Heftarchiv zu beziehen: https://www.compact-online.de/compact-oktober-2013/
+Jan Gaspard ist ein Pseudonym.
+Unter seinem richtigen Namen hat unser Autor für Unternehmen von Axel Springer, Leo Kirch, Rupert Murdoch, Ross Perot, Dick Cheney und vielen mehr gearbeitet.
+Ausgebildet unter anderem von einem ehemaligen Agenten des Militärischen Abschirmdienstes (MAD) ist er Vertrauensperson von unzufriedenen Ermittlern, wenn diese bei ihrer offiziellen Arbeit von Vorgesetzten behindert werden.
+Von ihm sind (auch unter weiteren Pseudonymen) insgesamt über 60 Hörspiele,  Hörbücher, Romane, Sachbücher und Ratgeber erschienen.
+Hinzu kommt ein journalistisches Gesamtwerk aus knapp 30 Jahren bei Tageszeitungen, Magazinen, Radio- und TV-Sendern.
+Zuletzt war Jan Gaspard herausgebender Chefredakteur eines Internet-TV-Senders und hier auch Moderator des eigenen investigativen Talk-Formats Café 23.

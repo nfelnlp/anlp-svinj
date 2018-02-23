@@ -1,27 +1,93 @@
-Der Abhörskandal. Die Kunst der Unsichtbarkeit.			
-
-Frau Leutheusser-Schnarrenberger hat kürzlich das einzig Sinnvolle zum sogenannten „Abhörskandal“ gesagt: Es sei viel zu früh dafür, über politische Konsequenzen der offensichtlich allumfassenden Abhörpraxis nachzudenken, da man noch viel zu wenig darüber wisse. Nur, sie und wir alle werden nie genug wissen, um einen umsetzbaren und sicheren Datenschutz entwerfen zu können.
-Unser Leben ist derart mit Internet, Social Networks, GPS sowie mit der großen Wolke von Anwendungen innerhalb dieser Technologien – und in Zukunft sogar mit bargeldlosen Zahlungssystemen – verwoben, dass man gar nicht mehr mit Gesetzen, Verordnungen und Regelungen nachkäme, wenn man es versuchte. Und wenn man sich aus diesen Systemen heraushält, wird man zunehmend erst recht verdächtig. In den USA ist man schon jetzt suspekt, wenn man keinen Facebook-Account hat.
-Geheimdienste können gar nicht anders, als sich der leicht zu beschaffenden Datenmassen zu bedienen. Die heutige Vernetzung ist der Traum eines jeden Geheimdienstes. Die „schöne neue Welt“ (Aldous Huxley) hat sich bereits verfestigt. In dieser Welt kann zu einem kleinen Bruchteil der Kosten das fantastisch Vielfache der Informationen und Daten gesammelt und automatisiert ausgewertet werden, die früher teuer über menschliche Kontakte eingeholt werden mußten (Human Intelligence oder Humint). Die Geheimdienste brauchen nun nicht mehr teure Anwerbung, Ausbildung und Führung von Agenten, noch brauchen sie andere „konventionelle“ Methoden. Das leviathangleiche Mammutsystem kann bequem von den Bürostühlen vergleichsweise weniger Bediener aus betrieben werden.
-Das System weiß durch automatisierte und erstaunlich intelligente Software-Systeme schon, ob Du oppositionell werden wirst, bevor Du selbst daran gedacht hast. Frei nach Google: „Wir beantworten Fragen, die Sie stellen werden, noch bevor Sie sie gestellt haben“. Dabei kann sogar große Freiheit vorgespiegelt werden. Das System kann so akkurate Voraussagen machen, dass man bequem warten kann und Dich erst dann zu „neutralisieren“ braucht, wenn Du kurz davor bist, gefährlich zu werden, sei es als Terrorist, sei es als politischer Querschießer. Man kann sich vordergründig beträchtliche Meinungsfreiheit erlauben. Die tatsächliche politische Macht kann sich im Hintergrund organisieren und konzentrieren, während es formal „demokratisch“ und „freiheitlich“ zugeht. Die Politik wird weiter „Freiheit und Demokratie“ in der Dritten Welt bejubeln.
-Mit totaler Überwachung wird totale Beherrschung möglich. Wenn unsere Political Correctness weiter anzieht, kann man jeden lahm legen. Jeder hat irgendwann, irgendwo mal etwas „Falsches gesagt“ (z.B. etwas als „menschenverachtend“ oder „rassistisch“ Interpretierbares). Der- oder diejenige könnte dann zumindest von einer Beamtung ausgeschlossen werden. Die hochentwickelten Dreckschleuder-Kampagnen der Politik verhindern auch, dass jemand gewählt wird oder sonstwie ein politisches Amt bekommt, der nicht zur politischen Klasse gehört.
-Ziemlich bald lässt sich keine Opposition mehr aufbauen oder lassen sich keine oppositionellen Gedanken mehr fassen, ohne dass die Betreffenden auf die Radarschirme von Wächtern geraten. Da die Politik es bereits gelernt hat, wie eine Einheitspartei wie die CDUCSUFDPSPDGRUENE sich gegen neue Parteigründungen absichern kann, stehen alle Instrumente für 1984 bereit.
-Dass noch keine Persönlichkeit erkennbar ist, die die Instrumente bündelt, oder eine Gruppe, die dies tut, ist wenig Trost. Das kann schon übermorgen passieren. Dass mehrheitlich akzeptierte Werte, Gesetze und gesellschaftliche Konzepte in einer jakobinischen Wende in Terrorregimen münden können, ist uns im vorigen Jahrhundert in kosmischen Ausmaßen vorgeführt worden. Am Anfang der Entwicklung sieht es immer so aus, dass das, was „gut“ ist, doch auch allgemein durchgesetzt werden sollte. Allerdings hat sich das „Gute“ von Generation zu Generation so verschoben, dass Analogien gar nicht mehr erkannt werden.
-Die Mindestvoraussetzung für Opposition ist die Möglichkeit zur Kommunikation mit den Gleichgesinnten. Mit einem Nachbarschaftsverein kann man keine Politik machen und keine beeinflussen. Nachbarschaftsvereine können zwar laut schreien. Es würde nichts nützen. Eine solche „Meinungsfreiheit“ kann im Gegensatz zu den alten Terrorsystemen ohne Beeinträchtigung der Machtausübung zugelassen werden.
-Es ist klar, daß der politische Prozess, der sich jetzt um die Frage der „Abhörsicherheit“ rankt, darin münden wird, dass die Öffentlichkeit jede Art von Garantien bekommt, dass Projekte wie Prism und Tempora beendet und Überwachung in der Zukunft „verfassungskonform“ gestaltet wird. Das ficht die Geheimdienste nicht an. Sie würden erforderliche Gerätschaften und Software-Systeme hinter dem Haus bereits wieder aufbauen, während diese noch zu großem politischen Applaus vor dem Haus abmontiert werden.
-Abhörsichere Kommunikation ist ein Einzelaspekt dieses Problemkreises. Kann man ein sicheres Kommunikationsnetz aufbauen und damit eine Organisation entwickeln, die nicht frühzeitig entdeckt und verhindert wird?
-Mit welcher Art von Denkansätzen wir uns beschäftigen müßten, wollten wir begründete Urteile fällen und sinnvolle Entscheidungen treffen, will ich beispielhaft an der Frage erläutern, wie ein unmerkbares und unüberwachbares Internet aufgebaut werden könnte. Es gibt andere Methoden, z.B. das Verstecken von Nachrichten in Bildern. Ich will hier die Möglichkeit des „Versteckens von Nachrichten im Rauschen“ erläutern.
-Mein Beispiel beantwortet auf der einen Seite die Fragen: Lässt sich Kommunikation überhaupt abhörsicher machen (ja) und kann der technische Aufwand von einer neuen politischen Initiative aufgebracht werden (schwerlich). Auf der anderen Seite ist dieses Beispiel eine Metapher für das, was ich „sich im Rauschen verstecken“ nenne. Mein technisches Beispiel eignet sich gut als Paradigma (ursprünglich: aussagekräftiges Beispiel) für eine sehr komplexe gesellschaftliche Frage. Die Frage lautet: Können wir uns im „gesellschaftlichen Rauschen“ verstecken. Der Begriff „Rauschen“ und die Analogie werden im Folgenden deutlich werden.
-Es stellt sich heraus, daß hundertprozentige Abhörsicherheit tatsächlich möglich ist und zwar mit Funknetzen, bei denen man meinen sollte, dass sie noch am leichtesten abzuhören sind. Die Voraussetzung ist, dass finanzielle Mittel und eine Organisationsstruktur für den Aufbau aufwendiger Technik zur Verfügung stehen.
-Hier also ein kleiner Ausflug in die Elektrotechnik / Informatik. Diese Ankündigung wird möglicherweise all die abschrecken, die in der Energiedebatte immer noch Kilowatt und Kilowattstunden verwechseln. Im Tagesspiegel las ich kürzlich, dass durch einen Taser kurzzeitig 50 tausend Volt durch den Körper des Angegriffenen „fließen“.
-Wie gesagt, ein sicheres Kommunikationssystem kann aufgebaut werden, indem Nachrichten im „Rauschen“ versteckt werden. Rauschen ist das, was man hört, wenn man am Radio, Fernseher oder einem Funkempfänger die Lautstärke voll aufdreht, ohne daß ein Sender eingestellt ist. Es ist das Prasseln der Elektronen.
-Diese sind genauso statistisch verteilt wie prasselnde Regentropfen auf einem Blechdach. Wenn man nun die Einschläge der Tropfen an einem einzigen Punkt des Daches auf einer Zeitachse aufzeichnet, dann bekommt man eine völlig unregelmäßige zeitliche Verteilung dafür, wie die Tropfen an diesem einen Punkt hintereinander auftreffen.
-Wenn nun der Regenmacher in sehr genauen regelmäßigen Abständen einen zusätzlichen Tropfen (oder ein Muster, das im Rauschen verschwindet) auf einen bestimmten Punkt fallen läßt (zusätzlich zu den statistisch, d.h. unregelmäßig verteilten), dann lässt sich diese Regelmäßigkeit von einem Beobachter nicht feststellen, der dieses Grundmuster nicht kennt. Die Regelmäßigkeit „verschwindet“ im „Rauschen“ der Regentropfen. Der Empfänger, der die genauen Abstände und den genauen Punkt kennt, kann dort die Tropfen aufaddieren und erhält dann nach einer Reihe von Wiederholungen eine Spitze (Anzahl der Tropfen oder der Wassermenge auf diesen Punkt), die sich aus dem Rauschen heraushebt.
-Dies wird realistischer, wenn wir von der Analogie der Regentropfen zu den Elektronen gehen. Die beregnete Fläche (analog dem Frequenzband der Funkübertragung) könnte ein Stadtteil sein, und auf einen einzigen Punkt (analog einer einzigen Frequenz) könnten Millionen von Regentropfen in jeder Millisekunde niederprasseln.
-Um kurz noch beim Regen zu bleiben. Der Regenmacher könnte nun die Aussendung dieser Regelmäßigkeiten anstellen und wieder abstellen. So kann er schon mal Morsecode übertragen: langes Anschalten für die Striche, kurzes für die Punkte. Also kann er im Grunde alles übertragen. Es müsste nur schnell genug gehen. Im Sinne der digitalen Kommunikation handelt es sich dann um einen Strom von Nullen und Einsen. Nichts anderes ist aber unsere gesamte digitale Informationsübertragung: Texte, Emails, Vorträge, Bilder, Videos, Filme.
-Die Abhörsicherheit läßt sich irrwitzig hochtreiben. Der Regenmacher kann gleichzeitig über eine Vielzahl von Punkten „senden“, die über die beregnete Fläche (das Frequenzband) verteilt sind. So kann er z.B. vier Bit (also 4 Zeichen, jedes jeweils eine Null oder eine Eins) an einem Punkt senden und dann zu einem anderen Punkt springen. Die verschiedenen Punkte kann er dann auch noch mit sich ändernden Reihenfolgen benutzen. Der verabredete Empfänger kann seine Nachrichten empfangen, wenn er die folgenden Parameter kennt: die genauen Punkte (Frequenzen), die Art der im Rauschen versteckten Regelmäßigkeit im Signal und das sich ändernde Muster in der Reihenfolge der Punkte (Frequenzen), an denen die Regentropfen beobachtet werden.
-In einem weiteren Schritt lassen sich die Mechanismen des Internet auf ein solches Funknetz übertragen. Eine Methode dafür ist bereits in den Anfängen des Internet (70er Jahre) im Zuge des Aloha-Projekts der Universität von Hawaii entwickelt und inzwischen verfeinert worden.
-Gegenüber einer Rundumverschlüsselung von allem, was gesendet und empfangen wird, hat „Verstecken im Rauschen“ den Vorteil, dass nicht einmal bemerkt wird, dass überhaupt kommuniziert worden ist. So wird auch nicht das Interesse eines Geheimdienstes auf einen rätselhaften Datenstrom gelenkt. Hinzu kommt, dass kein Leitungsnetz benötigt wird, dessen Aufbau enorm teuer wäre und lange Zeit bräuchte. Trotzdem bleibt der Aufbau eines solchen Funknetzes aufwendig.
-Eine oppositionelle Organisation müsste in der Zukunft also schon so mit finanziellen Mitteln gesegnet sein, dass sie in einem solchen Rahmen Technik aufbauen könnte. Hier die Erinnerung an Stuxnet, den Virus, der so komplex ist, dass schon früh vermutet wurde, dass er nur mit den Mitteln einer Regierung entwickelt werden konnte. Diese Annahme stellte sich als richtig heraus.
-Entweder Du entscheidest dich, niemals im Leben oppositionell zu werden. Dann kannst Du in Ruhe Emails schreiben und ein aktives Facebook-Leben führen. Oder Du musst Dich nicht nur im kommunikativen Rauschen, sondern in einem erweiterten Sinn im „gesellschaftlichen Rauschen“ verstecken.
+Der Abhörskandal.
+Die Kunst der Unsichtbarkeit.
+Frau Leutheusser-Schnarrenberger hat kürzlich das einzig Sinnvolle zum sogenannten „Abhörskandal“ gesagt: Es sei viel zu früh dafür, über politische Konsequenzen der offensichtlich allumfassenden Abhörpraxis nachzudenken, da man noch viel zu wenig darüber wisse.
+Nur, sie und wir alle werden nie genug wissen, um einen umsetzbaren und sicheren Datenschutz entwerfen zu können.
+Unser Leben ist derart mit Internet, Social Networks, GPS sowie mit der großen Wolke von Anwendungen innerhalb dieser Technologien – und in Zukunft sogar mit bargeldlosen Zahlungssystemen – verwoben, dass man gar nicht mehr mit Gesetzen, Verordnungen und Regelungen nachkäme, wenn man es versuchte.
+Und wenn man sich aus diesen Systemen heraushält, wird man zunehmend erst recht verdächtig.
+In den USA ist man schon jetzt suspekt, wenn man keinen Facebook-Account hat.
+Geheimdienste können gar nicht anders, als sich der leicht zu beschaffenden Datenmassen zu bedienen.
+Die heutige Vernetzung ist der Traum eines jeden Geheimdienstes.
+Die „schöne neue Welt“ (Aldous Huxley) hat sich bereits verfestigt.
+In dieser Welt kann zu einem kleinen Bruchteil der Kosten das fantastisch Vielfache der Informationen und Daten gesammelt und automatisiert ausgewertet werden, die früher teuer über menschliche Kontakte eingeholt werden mußten (Human Intelligence oder Humint).
+Die Geheimdienste brauchen nun nicht mehr teure Anwerbung, Ausbildung und Führung von Agenten, noch brauchen sie andere „konventionelle“ Methoden.
+Das leviathangleiche Mammutsystem kann bequem von den Bürostühlen vergleichsweise weniger Bediener aus betrieben werden.
+Das System weiß durch automatisierte und erstaunlich intelligente Software-Systeme schon, ob Du oppositionell werden wirst, bevor Du selbst daran gedacht hast.
+Frei nach Google: „Wir beantworten Fragen, die Sie stellen werden, noch bevor Sie sie gestellt haben“.
+Dabei kann sogar große Freiheit vorgespiegelt werden.
+Das System kann so akkurate Voraussagen machen, dass man bequem warten kann und Dich erst dann zu „neutralisieren“ braucht, wenn Du kurz davor bist, gefährlich zu werden, sei es als Terrorist, sei es als politischer Querschießer.
+Man kann sich vordergründig beträchtliche Meinungsfreiheit erlauben.
+Die tatsächliche politische Macht kann sich im Hintergrund organisieren und konzentrieren, während es formal „demokratisch“ und „freiheitlich“ zugeht.
+Die Politik wird weiter „Freiheit und Demokratie“ in der Dritten Welt bejubeln.
+Mit totaler Überwachung wird totale Beherrschung möglich.
+Wenn unsere Political Correctness weiter anzieht, kann man jeden lahm legen.
+Jeder hat irgendwann, irgendwo mal etwas „Falsches gesagt“ (z.B.
+etwas als „menschenverachtend“ oder „rassistisch“ Interpretierbares).
+Der- oder diejenige könnte dann zumindest von einer Beamtung ausgeschlossen werden.
+Die hochentwickelten Dreckschleuder-Kampagnen der Politik verhindern auch, dass jemand gewählt wird oder sonstwie ein politisches Amt bekommt, der nicht zur politischen Klasse gehört.
+Ziemlich bald lässt sich keine Opposition mehr aufbauen oder lassen sich keine oppositionellen Gedanken mehr fassen, ohne dass die Betreffenden auf die Radarschirme von Wächtern geraten.
+Da die Politik es bereits gelernt hat, wie eine Einheitspartei wie die CDUCSUFDPSPDGRUENE sich gegen neue Parteigründungen absichern kann, stehen alle Instrumente für 1984 bereit.
+Dass noch keine Persönlichkeit erkennbar ist, die die Instrumente bündelt, oder eine Gruppe, die dies tut, ist wenig Trost.
+Das kann schon übermorgen passieren.
+Dass mehrheitlich akzeptierte Werte, Gesetze und gesellschaftliche Konzepte in einer jakobinischen Wende in Terrorregimen münden können, ist uns im vorigen Jahrhundert in kosmischen Ausmaßen vorgeführt worden.
+Am Anfang der Entwicklung sieht es immer so aus, dass das, was „gut“ ist, doch auch allgemein durchgesetzt werden sollte.
+Allerdings hat sich das „Gute“ von Generation zu Generation so verschoben, dass Analogien gar nicht mehr erkannt werden.
+Die Mindestvoraussetzung für Opposition ist die Möglichkeit zur Kommunikation mit den Gleichgesinnten.
+Mit einem Nachbarschaftsverein kann man keine Politik machen und keine beeinflussen.
+Nachbarschaftsvereine können zwar laut schreien.
+Es würde nichts nützen.
+Eine solche „Meinungsfreiheit“ kann im Gegensatz zu den alten Terrorsystemen ohne Beeinträchtigung der Machtausübung zugelassen werden.
+Es ist klar, daß der politische Prozess, der sich jetzt um die Frage der „Abhörsicherheit“ rankt, darin münden wird, dass die Öffentlichkeit jede Art von Garantien bekommt, dass Projekte wie Prism und Tempora beendet und Überwachung in der Zukunft „verfassungskonform“ gestaltet wird.
+Das ficht die Geheimdienste nicht an.
+Sie würden erforderliche Gerätschaften und Software-Systeme hinter dem Haus bereits wieder aufbauen, während diese noch zu großem politischen Applaus vor dem Haus abmontiert werden.
+Abhörsichere Kommunikation ist ein Einzelaspekt dieses Problemkreises.
+Kann man ein sicheres Kommunikationsnetz aufbauen und damit eine Organisation entwickeln, die nicht frühzeitig entdeckt und verhindert wird?
+Mit welcher Art von Denkansätzen wir uns beschäftigen müßten, wollten wir begründete Urteile fällen und sinnvolle Entscheidungen treffen, will ich beispielhaft an der Frage erläutern, wie ein unmerkbares und unüberwachbares Internet aufgebaut werden könnte.
+Es gibt andere Methoden, z.B.
+das Verstecken von Nachrichten in Bildern.
+Ich will hier die Möglichkeit des „Versteckens von Nachrichten im Rauschen“ erläutern.
+Mein Beispiel beantwortet auf der einen Seite die Fragen: Lässt sich Kommunikation überhaupt abhörsicher machen (ja) und kann der technische Aufwand von einer neuen politischen Initiative aufgebracht werden (schwerlich).
+Auf der anderen Seite ist dieses Beispiel eine Metapher für das, was ich „sich im Rauschen verstecken“ nenne.
+Mein technisches Beispiel eignet sich gut als Paradigma (ursprünglich: aussagekräftiges Beispiel) für eine sehr komplexe gesellschaftliche Frage.
+Die Frage lautet: Können wir uns im „gesellschaftlichen Rauschen“ verstecken.
+Der Begriff „Rauschen“ und die Analogie werden im Folgenden deutlich werden.
+Es stellt sich heraus, daß hundertprozentige Abhörsicherheit tatsächlich möglich ist und zwar mit Funknetzen, bei denen man meinen sollte, dass sie noch am leichtesten abzuhören sind.
+Die Voraussetzung ist, dass finanzielle Mittel und eine Organisationsstruktur für den Aufbau aufwendiger Technik zur Verfügung stehen.
+Hier also ein kleiner Ausflug in die Elektrotechnik / Informatik.
+Diese Ankündigung wird möglicherweise all die abschrecken, die in der Energiedebatte immer noch Kilowatt und Kilowattstunden verwechseln.
+Im Tagesspiegel las ich kürzlich, dass durch einen Taser kurzzeitig 50 tausend Volt durch den Körper des Angegriffenen „fließen“.
+Wie gesagt, ein sicheres Kommunikationssystem kann aufgebaut werden, indem Nachrichten im „Rauschen“ versteckt werden.
+Rauschen ist das, was man hört, wenn man am Radio, Fernseher oder einem Funkempfänger die Lautstärke voll aufdreht, ohne daß ein Sender eingestellt ist.
+Es ist das Prasseln der Elektronen.
+Diese sind genauso statistisch verteilt wie prasselnde Regentropfen auf einem Blechdach.
+Wenn man nun die Einschläge der Tropfen an einem einzigen Punkt des Daches auf einer Zeitachse aufzeichnet, dann bekommt man eine völlig unregelmäßige zeitliche Verteilung dafür, wie die Tropfen an diesem einen Punkt hintereinander auftreffen.
+Wenn nun der Regenmacher in sehr genauen regelmäßigen Abständen einen zusätzlichen Tropfen (oder ein Muster, das im Rauschen verschwindet) auf einen bestimmten Punkt fallen läßt (zusätzlich zu den statistisch, d.h. unregelmäßig verteilten), dann lässt sich diese Regelmäßigkeit von einem Beobachter nicht feststellen, der dieses Grundmuster nicht kennt.
+Die Regelmäßigkeit „verschwindet“ im „Rauschen“ der Regentropfen.
+Der Empfänger, der die genauen Abstände und den genauen Punkt kennt, kann dort die Tropfen aufaddieren und erhält dann nach einer Reihe von Wiederholungen eine Spitze (Anzahl der Tropfen oder der Wassermenge auf diesen Punkt), die sich aus dem Rauschen heraushebt.
+Dies wird realistischer, wenn wir von der Analogie der Regentropfen zu den Elektronen gehen.
+Die beregnete Fläche (analog dem Frequenzband der Funkübertragung) könnte ein Stadtteil sein, und auf einen einzigen Punkt (analog einer einzigen Frequenz) könnten Millionen von Regentropfen in jeder Millisekunde niederprasseln.
+Um kurz noch beim Regen zu bleiben.
+Der Regenmacher könnte nun die Aussendung dieser Regelmäßigkeiten anstellen und wieder abstellen.
+So kann er schon mal Morsecode übertragen: langes Anschalten für die Striche, kurzes für die Punkte.
+Also kann er im Grunde alles übertragen.
+Es müsste nur schnell genug gehen.
+Im Sinne der digitalen Kommunikation handelt es sich dann um einen Strom von Nullen und Einsen.
+Nichts anderes ist aber unsere gesamte digitale Informationsübertragung: Texte, Emails, Vorträge, Bilder, Videos, Filme.
+Die Abhörsicherheit läßt sich irrwitzig hochtreiben.
+Der Regenmacher kann gleichzeitig über eine Vielzahl von Punkten „senden“, die über die beregnete Fläche (das Frequenzband) verteilt sind.
+So kann er z.B.
+vier Bit (also 4 Zeichen, jedes jeweils eine Null oder eine Eins) an einem Punkt senden und dann zu einem anderen Punkt springen.
+Die verschiedenen Punkte kann er dann auch noch mit sich ändernden Reihenfolgen benutzen.
+Der verabredete Empfänger kann seine Nachrichten empfangen, wenn er die folgenden Parameter kennt: die genauen Punkte (Frequenzen), die Art der im Rauschen versteckten Regelmäßigkeit im Signal und das sich ändernde Muster in der Reihenfolge der Punkte (Frequenzen), an denen die Regentropfen beobachtet werden.
+In einem weiteren Schritt lassen sich die Mechanismen des Internet auf ein solches Funknetz übertragen.
+Eine Methode dafür ist bereits in den Anfängen des Internet (70er Jahre) im Zuge des Aloha-Projekts der Universität von Hawaii entwickelt und inzwischen verfeinert worden.
+Gegenüber einer Rundumverschlüsselung von allem, was gesendet und empfangen wird, hat „Verstecken im Rauschen“ den Vorteil, dass nicht einmal bemerkt wird, dass überhaupt kommuniziert worden ist.
+So wird auch nicht das Interesse eines Geheimdienstes auf einen rätselhaften Datenstrom gelenkt.
+Hinzu kommt, dass kein Leitungsnetz benötigt wird, dessen Aufbau enorm teuer wäre und lange Zeit bräuchte.
+Trotzdem bleibt der Aufbau eines solchen Funknetzes aufwendig.
+Eine oppositionelle Organisation müsste in der Zukunft also schon so mit finanziellen Mitteln gesegnet sein, dass sie in einem solchen Rahmen Technik aufbauen könnte.
+Hier die Erinnerung an Stuxnet, den Virus, der so komplex ist, dass schon früh vermutet wurde, dass er nur mit den Mitteln einer Regierung entwickelt werden konnte.
+Diese Annahme stellte sich als richtig heraus.
+Entweder Du entscheidest dich, niemals im Leben oppositionell zu werden.
+Dann kannst Du in Ruhe Emails schreiben und ein aktives Facebook-Leben führen.
+Oder Du musst Dich nicht nur im kommunikativen Rauschen, sondern in einem erweiterten Sinn im „gesellschaftlichen Rauschen“ verstecken.
 Bildquell: Aka  / pixelio.de
