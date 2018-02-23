@@ -1,9 +1,25 @@
 Vielleicht später...
-Eine E-Mail ist so unsicher wie eine Postkarte. Das wissen inzwischen wohl die meisten E-Mail-Nutzer. Als die flächendeckende Überwachung unserer Kommunikation publik wurde, ging eine Welle der Empörung quer durch die Gesellschaft, viele fingen spätestens mit Snowdens NSA-Enthüllungen an, sich Sorgen um ihre Privatsphäre zu machen.
-Doch obwohl E-Mails mittlerweile recht komfortabel abhörsicher verschlüsselt werden können, wird ein Großteil der Mails immer noch offen versendet. Nur knapp 20 Prozent aller E-Mail-Nutzer verschlüsseln ihre Kommunikation, das erfuhr der Branchenverband Bitkom bei einer Umfrage im Oktober 2016. Immerhin hatte sich die Zahl der Nutzer von E-Mail-Verschlüsselung seit einer Umfrage im Jahr 2013 verdreifacht.
-Das Fraunhofer Institut - bekannt unter anderem durch die Entwicklung der MP3-Komprimierung - und die Telekom haben vor Kurzem die »Volksverschlüsselung« vorgestellt, welche die verschlüsselte Kommunikation benutzerfreundlicher machen soll. Dabei wird über ein eigenes Programm ein Zertifikat erstellt, dass dann in das E-Mail-Programm importiert wird. Es handelt sich dabei um das standardisierte und sichere S/MIME-Verfahren, das im Wirtschaftsumfeld verbreitet und vollständig kompatibel mit den Zertifikaten anderer Zertifizierungsstellen ist. Notwendig ist bei der Volksverschlüsselung allerdings die persönliche Authentifizierung des Nutzers. Diese kann über einen Telekom-Anschluss, die digitale Authentifizierung des Personalausweises oder persönlich erfolgen. Für Privatanwender ist die Nutzung kostenlos.
-Seit Mitte März können sich nun neben Privatanwendern auch kleine Unternehmen und Selbstständige für eine kostenlose Nutzung bewerben. Nach Auskunft des Projektleiters Michael Herfert hat dies einen einfachen Grund: »Nach dem Start der kostenlosen Volksverschlüsselung für Bürger haben zahlreiche Freiberufler und kleine Unternehmen bei uns nachgefragt, weil sie eine unkomplizierte Art der E-mail-Verschlüsselung für berufliche Zwecke brauchen.« Allerdings ist abzusehen, dass das Angebot nicht kostenfrei bleiben wird.
-Dass allerdings die Bereitschaft, an kostenpflichtigen Verschlüsselungsprogrammen teilzunehmen, bei Firmen nicht allzu groß ist, hat sich am »Secure E-Mail«-Programm von Vodafone gezeigt, welches das Unternehmen zum 1. April dieses Jahres einstampfen musste. Ein Grund dafür mag auch in der mangelnden Kompatibilität des Ansatzes gelegen haben.
-Für Privatanwender, kleine Firmen und Selbstständige steht nach wie vor auch die weit verbreitete asymmetrische Verschlüsselung über PGP und GnuPG zur Verfügung. Diese Technologie funktioniert ohne offizielle Zertifizierungsstelle und somit ohne persönliche Authentifizierung, ist aber praktisch genauso sicher. Im Gegensatz zu Lösungen wie der Volksverschlüsselung ist PGP grundsätzlich kostenlos und mit allen Betriebssystemen zu verwenden. Während die Volksverschlüsselung momentan nur für Windows verfügbar ist, funktioniert PGP/GnuPG auf allen Systemen.
-Letztendlich hängt die Nutzung eines der beiden Verfahren von den Erfordernissen des eigenen Umfeldes ab. Nutzen die Mailpartner und Mailpartnerinnen S/MIME, ist die Volksverschlüsselung sinnvoll, wird eher auf PGP gesetzt, nutzt man auch dieses. Übrigens ist mit der freien Software Gpg4win auch die parallele Nutzung beider Systeme möglich.
-
+Eine E-Mail ist so unsicher wie eine Postkarte.
+Das wissen inzwischen wohl die meisten E-Mail-Nutzer.
+Als die flächendeckende Überwachung unserer Kommunikation publik wurde, ging eine Welle der Empörung quer durch die Gesellschaft, viele fingen spätestens mit Snowdens NSA-Enthüllungen an, sich Sorgen um ihre Privatsphäre zu machen.
+Doch obwohl E-Mails mittlerweile recht komfortabel abhörsicher verschlüsselt werden können, wird ein Großteil der Mails immer noch offen versendet.
+Nur knapp 20 Prozent aller E-Mail-Nutzer verschlüsseln ihre Kommunikation, das erfuhr der Branchenverband Bitkom bei einer Umfrage im Oktober 2016.
+Immerhin hatte sich die Zahl der Nutzer von E-Mail-Verschlüsselung seit einer Umfrage im Jahr 2013 verdreifacht.
+Das Fraunhofer Institut - bekannt unter anderem durch die Entwicklung der MP3-Komprimierung - und die Telekom haben vor Kurzem die »Volksverschlüsselung« vorgestellt, welche die verschlüsselte Kommunikation benutzerfreundlicher machen soll.
+Dabei wird über ein eigenes Programm ein Zertifikat erstellt, dass dann in das E-Mail-Programm importiert wird.
+Es handelt sich dabei um das standardisierte und sichere S/MIME-Verfahren, das im Wirtschaftsumfeld verbreitet und vollständig kompatibel mit den Zertifikaten anderer Zertifizierungsstellen ist.
+Notwendig ist bei der Volksverschlüsselung allerdings die persönliche Authentifizierung des Nutzers.
+Diese kann über einen Telekom-Anschluss, die digitale Authentifizierung des Personalausweises oder persönlich erfolgen.
+Für Privatanwender ist die Nutzung kostenlos.
+Seit Mitte März können sich nun neben Privatanwendern auch kleine Unternehmen und Selbstständige für eine kostenlose Nutzung bewerben.
+Nach Auskunft des Projektleiters Michael Herfert hat dies einen einfachen Grund: »Nach dem Start der kostenlosen Volksverschlüsselung für Bürger haben zahlreiche Freiberufler und kleine Unternehmen bei uns nachgefragt, weil sie eine unkomplizierte Art der E-mail-Verschlüsselung für berufliche Zwecke brauchen.« Allerdings ist abzusehen, dass das Angebot nicht kostenfrei bleiben wird.
+Dass allerdings die Bereitschaft, an kostenpflichtigen Verschlüsselungsprogrammen teilzunehmen, bei Firmen nicht allzu groß ist, hat sich am »Secure E-Mail«-Programm von Vodafone gezeigt, welches das Unternehmen zum 1.
+April dieses Jahres einstampfen musste.
+Ein Grund dafür mag auch in der mangelnden Kompatibilität des Ansatzes gelegen haben.
+Für Privatanwender, kleine Firmen und Selbstständige steht nach wie vor auch die weit verbreitete asymmetrische Verschlüsselung über PGP und GnuPG zur Verfügung.
+Diese Technologie funktioniert ohne offizielle Zertifizierungsstelle und somit ohne persönliche Authentifizierung, ist aber praktisch genauso sicher.
+Im Gegensatz zu Lösungen wie der Volksverschlüsselung ist PGP grundsätzlich kostenlos und mit allen Betriebssystemen zu verwenden.
+Während die Volksverschlüsselung momentan nur für Windows verfügbar ist, funktioniert PGP/GnuPG auf allen Systemen.
+Letztendlich hängt die Nutzung eines der beiden Verfahren von den Erfordernissen des eigenen Umfeldes ab.
+Nutzen die Mailpartner und Mailpartnerinnen S/MIME, ist die Volksverschlüsselung sinnvoll, wird eher auf PGP gesetzt, nutzt man auch dieses.
+Übrigens ist mit der freien Software Gpg4win auch die parallele Nutzung beider Systeme möglich.

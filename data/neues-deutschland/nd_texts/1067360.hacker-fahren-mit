@@ -1,11 +1,32 @@
 Vielleicht später...
-Ungesicherte Datenschnittstellen im Auto können nach Experteneinschätzung zum Einfallstor für Hackerangriffe werden. Die Allianz-Versicherung fürchtet, dass es in den nächsten Jahren nicht bei vereinzelten Attacken von Datendieben und -saboteuren bleiben wird: »Die Schutzmechanismen vor Hackerangriffen sind - gerade bei älteren Fahrzeugen - oft unzureichend«, sagte Joachim Müller, Vorstand der Sachversicherung bei der Allianz. »Deshalb wird die Zahl der Angriffe auf vernetzte Fahrzeuge in den kommenden Jahren steigen.«
-Der größte europäische Versicherer steht mit seinen Sorgen nicht allein da. In der Autobranche gilt vor allem die OBD2-Schnittstelle als gefährdet, die seit Ende der 1990er Jahre in alle Fahrzeuge eingebaut ist. Sie wurde bewusst offen gehalten und war ursprünglich für das Auslesen von Abgasdaten per Kabel in der Werkstatt gedacht, wie Maik Böres, Leiter »Future Mobility« bei BMW, erläutert.
-Jetzt ermöglichen aber nachträglich installierte »Smart Dongles« für die Schnittstelle die Datenübertragung per WLAN oder SIM-Card - damit lässt sich etwa ein elektronisches Fahrtenbuch führen. Doch der Schutz gegen Eingriffe von außen ist mangelhaft. »Die Dongles von Drittanbietern sind zum Teil nicht mal passwortgeschützt«, sagt Böres. Die Münchner haben Vorkehrungen getroffen: »Bei BMW sind alle fahrsicherheitsrelevanten Dinge von der OBD-Schnittstelle abgekoppelt.«
-Doch gibt es Sorgen in- und außerhalb der Autobranche, dass die Sicherheitsvorkehrungen nicht bei allen Herstellern ausreichend sind. »Heute sind moderne Autos rollende Computer«, sagt Allianz-Vorstandsmitglied Müller. Durch Multimedia- und Internetfunktionen seien zentrale Steuergeräte häufig nicht nur mit dem Internet verbunden, sondern hätten auch internen Zugriff auf die Kommunikationsnetze des Fahrzeugs.
-Ein Hackerangriff auf Computer oder Handy ist für die Opfer ärgerlich, doch meist nicht lebensgefährlich. Kriminelle Cyberattacken auf Autos dagegen könnten gefährlich werden: »Wichtige Fahrfunktionen, wie ESP oder Bremsassistenten sind in die fahrzeuginterne Datenkommunikation eingebunden«, so Müller. »Wem es gelingt, in diese Systeme einzudringen, der kann etwa ein ungewolltes Bremsmanöver auslösen.«
-Die Szenarien sind bedrohlich: »Cyberangriffe auf Fahrzeuge machen Hersteller und große Flottenbetreiber zu potenziellen Erpressungsopfern«, sagt Müller. Am Anfang stehe der individuelle Angriff auf das vernetzte Auto. »Findet ein Hacker eine Schwachstelle, könnte er dann aber alle Fahrzeuge derselben Baureihe gleichzeitig sabotieren und zum Beispiel den Motor abstellen. Der Reputationsschaden für die Automobilbranche wäre riesig.«
-Großangelegte Attacken auf ganze Fahrzeugflotten sind noch nicht bekannt geworden, doch haben Hacker die OBD2-Schnittstelle geknackt - in einem Fall gelang es den Programmierern des US-Cybersicherheitsunternehmens Argus, einen laufenden Motor mittels Bluetooth-Signal auszuschalten. Die Allianz fordert von den Autoherstellern sichere IT-Architektur, die sich für die Lebensdauer eines Fahrzeugs aufrüsten lässt.
-Die deutsche Autoindustrie hat reagiert. Unter dem Dach des Verbands der Automobilindustrie (VDA) haben Hersteller und Zulieferer ein Konzept entwickelt, das sowohl die Sicherheit des Autos und seiner Insassen als auch Datensicherheit und -schutz gewährleisten soll. BMW stellte im Mai sein auf diesem Konzept basierendes »CarData«-Programm vor. Die Telematik-Daten der Fahrzeuge werden verschlüsselt und an einen Server übermittelt. So soll verhindert werden, dass Unbefugte oder Kriminelle sich bei laufender Fahrt Zugriff auf ein Auto verschaffen.
-Die Hoheit über die Daten soll beim Autobesitzer bleiben - er kann nach dem VDA-Konzept auswählen, was der Hersteller Werkstätten, Versicherern, Internetanbietern, App-Entwicklern und anderen Drittanbietern zur Verfügung stellt. »Es muss stets die Entscheidung des Kunden sein, ob und welche seiner Daten er weitergeben und welche Dienste er nutzen möchte«, sagt eine VDA-Sprecherin. Doch Standard in der Autoindustrie ist dieses Modell noch nicht. dpa/nd
-
+Ungesicherte Datenschnittstellen im Auto können nach Experteneinschätzung zum Einfallstor für Hackerangriffe werden.
+Die Allianz-Versicherung fürchtet, dass es in den nächsten Jahren nicht bei vereinzelten Attacken von Datendieben und -saboteuren bleiben wird: »Die Schutzmechanismen vor Hackerangriffen sind - gerade bei älteren Fahrzeugen - oft unzureichend«, sagte Joachim Müller, Vorstand der Sachversicherung bei der Allianz.
+»Deshalb wird die Zahl der Angriffe auf vernetzte Fahrzeuge in den kommenden Jahren steigen.«
+Der größte europäische Versicherer steht mit seinen Sorgen nicht allein da.
+In der Autobranche gilt vor allem die OBD2-Schnittstelle als gefährdet, die seit Ende der 1990er Jahre in alle Fahrzeuge eingebaut ist.
+Sie wurde bewusst offen gehalten und war ursprünglich für das Auslesen von Abgasdaten per Kabel in der Werkstatt gedacht, wie Maik Böres, Leiter »Future Mobility« bei BMW, erläutert.
+Jetzt ermöglichen aber nachträglich installierte »Smart Dongles« für die Schnittstelle die Datenübertragung per WLAN oder SIM-Card - damit lässt sich etwa ein elektronisches Fahrtenbuch führen.
+Doch der Schutz gegen Eingriffe von außen ist mangelhaft.
+»Die Dongles von Drittanbietern sind zum Teil nicht mal passwortgeschützt«, sagt Böres.
+Die Münchner haben Vorkehrungen getroffen: »Bei BMW sind alle fahrsicherheitsrelevanten Dinge von der OBD-Schnittstelle abgekoppelt.«
+Doch gibt es Sorgen in- und außerhalb der Autobranche, dass die Sicherheitsvorkehrungen nicht bei allen Herstellern ausreichend sind.
+»Heute sind moderne Autos rollende Computer«, sagt Allianz-Vorstandsmitglied Müller.
+Durch Multimedia- und Internetfunktionen seien zentrale Steuergeräte häufig nicht nur mit dem Internet verbunden, sondern hätten auch internen Zugriff auf die Kommunikationsnetze des Fahrzeugs.
+Ein Hackerangriff auf Computer oder Handy ist für die Opfer ärgerlich, doch meist nicht lebensgefährlich.
+Kriminelle Cyberattacken auf Autos dagegen könnten gefährlich werden: »Wichtige Fahrfunktionen, wie ESP oder Bremsassistenten sind in die fahrzeuginterne Datenkommunikation eingebunden«, so Müller.
+»Wem es gelingt, in diese Systeme einzudringen, der kann etwa ein ungewolltes Bremsmanöver auslösen.«
+Die Szenarien sind bedrohlich: »Cyberangriffe auf Fahrzeuge machen Hersteller und große Flottenbetreiber zu potenziellen Erpressungsopfern«, sagt Müller.
+Am Anfang stehe der individuelle Angriff auf das vernetzte Auto.
+»Findet ein Hacker eine Schwachstelle, könnte er dann aber alle Fahrzeuge derselben Baureihe gleichzeitig sabotieren und zum Beispiel den Motor abstellen.
+Der Reputationsschaden für die Automobilbranche wäre riesig.«
+Großangelegte Attacken auf ganze Fahrzeugflotten sind noch nicht bekannt geworden, doch haben Hacker die OBD2-Schnittstelle geknackt - in einem Fall gelang es den Programmierern des US-Cybersicherheitsunternehmens Argus, einen laufenden Motor mittels Bluetooth-Signal auszuschalten.
+Die Allianz fordert von den Autoherstellern sichere IT-Architektur, die sich für die Lebensdauer eines Fahrzeugs aufrüsten lässt.
+Die deutsche Autoindustrie hat reagiert.
+Unter dem Dach des Verbands der Automobilindustrie (VDA) haben Hersteller und Zulieferer ein Konzept entwickelt, das sowohl die Sicherheit des Autos und seiner Insassen als auch Datensicherheit und -schutz gewährleisten soll.
+BMW stellte im Mai sein auf diesem Konzept basierendes »CarData«-Programm vor.
+Die Telematik-Daten der Fahrzeuge werden verschlüsselt und an einen Server übermittelt.
+So soll verhindert werden, dass Unbefugte oder Kriminelle sich bei laufender Fahrt Zugriff auf ein Auto verschaffen.
+Die Hoheit über die Daten soll beim Autobesitzer bleiben - er kann nach dem VDA-Konzept auswählen, was der Hersteller Werkstätten, Versicherern, Internetanbietern, App-Entwicklern und anderen Drittanbietern zur Verfügung stellt.
+»Es muss stets die Entscheidung des Kunden sein, ob und welche seiner Daten er weitergeben und welche Dienste er nutzen möchte«, sagt eine VDA-Sprecherin.
+Doch Standard in der Autoindustrie ist dieses Modell noch nicht.
+dpa/nd
