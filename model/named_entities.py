@@ -3,9 +3,8 @@ import polyglot
 from polyglot.text import Text
 import collections as col
 
-
-
-def extract_named_entities(entity_list, article):
+#extracts entities from article and extracts the corresponding strings
+def entity_strings(article):
     try:
         curr_entities = Text(article).entities
     except:
@@ -13,19 +12,33 @@ def extract_named_entities(entity_list, article):
         printable = ''.join(x for x in article if x.isprintable())
         curr_entities = Text(printable).entities
 
-    zeroize = lambda x : (x,0)
-
     entity_strings = []
     for entity in curr_entities:
         entity_str = extract_chunk_string(entity,article)
         entity_strings.append(entity_str)
 
+    return entity_strings
+
+#extracts all named entities from an article
+def all_named_entities(article):
+
+    entities_dict = col.defaultdict(int)
+    for entity in entity_strings(article):
+        entities_dict[entity] += 1
+
+    return entities_dict
     
-        
+
+#extracts ony the entities in article that appear in entity_list
+#end returns list with number of occurences for each of these
+def extract_named_entities(entity_list, article):
+
+    zeroize = lambda x: (x,0)
+    
     zero_tuples = list(map(zeroize, entity_list))
     entity_dict = col.OrderedDict(zero_tuples)
 
-    for entity in entity_strings:
+    for entity in entity_strings(article):
         if entity in entity_list:
             entity_dict[entity] += 1
 
@@ -41,23 +54,6 @@ def extract_chunk_string(entity, article):
     return article[start:end]
 
 
-def add_entities(entity_dict, article):
-    try:
-        curr_entities = Text(article).entities
-    except:
-        #This is neccessary because polyglot has problems with some UTF-8 characters
-        printable = ''.join([x for x in article if x.isprintable()])
-        curr_entities = Text(printable).entities
-
-    
-    for entity in curr_entities:
-        entity_str = extract_chunk_string(entity,article)
-        if entity_str in entity_dict.keys():
-            entity_dict[entity_str] += 1
-        else:
-            entity_dict[entity_str] = 1
-
-    return entity_dict
 
 def insert_ordered(entity_list, entity_tuple):
     entity, occurences = entity_tuple
@@ -74,6 +70,48 @@ def insert_ordered(entity_list, entity_tuple):
 
     return entity_list
 
+
+def dict_add(dict1, dict2):
+    for (key, value) in dict2.items():
+        if key in dict1.keys():
+            dict1[key] += value
+        else:
+            dict1[key] = value
+
+    return dict1
+
+
+def most_common_entities(entities_left, entities_right, number=200):
+    combined_dict = col.defaultdict(int)
+
+    for entity_dict in entities_left + entities_right:
+        combined_dict = dict_add(combined_dict, entity_dict)
+    
+    most_common_ne = get_most_common(combined_dict, number)
+    
+    #keep only most common occurences of entities from articles
+    entity_vecs_left = []
+    for entity_dict in entities_left:
+        entities_vec = []
+        for entity in most_common_ne:
+            if entity in entity_dict.keys():
+                entities_vec.append(entity_dict[entity])
+            else:
+                entities_vec.append(0)
+        entity_vecs_left.append(entities_vec)
+
+    entity_vecs_right = []
+    for entity_dict in entities_right:
+        entities_vec = []
+        for entity in most_common_ne:
+            if entity in entity_dict.keys():
+                entities_vec.append(entity_dict[entity])
+            else:
+                entities_vec.append(0)
+        entity_vecs_right.append(entities_vec)
+
+    return most_common_ne, entity_vecs_left, entity_vecs_right
+                
 
 def get_most_common(entity_dict, number=200):
     entity_list = []

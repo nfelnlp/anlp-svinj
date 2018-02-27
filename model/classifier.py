@@ -14,7 +14,51 @@ from sklearn.utils import shuffle
 import baseline as base
 import named_entities as ne
 
-def concatenate_articles(left, right, named_entities):
+def concatenate_train(left, right):
+    df_left = pd.DataFrame()
+    df_right = pd.DataFrame()
+
+    files_left = [row[0] for row in left]
+    articles_left = [open(f).read() for f in files_left]   
+
+    files_right = [row[0] for row in right]
+    articles_right = [open(f).read() for f in files_right]   
+
+    
+    entities_left = []
+    entities_right = []
+    for left_art, right_art in zip(articles_left, articles_right):
+
+        entities_dict_left = ne.all_named_entities(left_art)
+        entities_left.append(entities_dict_left)
+        
+        entities_dict_right = ne.all_named_entities(right_art)
+        entities_right.append(entities_dict_right)
+    
+    most_common_ne, entities_left, entities_right = ne.most_common_entities(
+        entities_left, entities_right, number=200)
+    
+    ne_features_left = pd.DataFrame(entities_left)
+    df_left = pd.concat([df_left, ne_features_left], axis=1)
+
+    ne_features_right = pd.DataFrame(entities_right)
+    df_right = pd.concat([df_right, ne_features_right], axis=1)
+
+    df_left['text'] = articles_left
+    df_right['text'] = articles_right
+
+
+
+
+    df_left['file'] = files_left
+    df_right['file'] = files_right
+
+    df_left['label'] = 0
+    df_right['label'] = 1
+
+    return df_left, df_right, most_common_ne
+
+def concatenate_test(left, right, named_entities):
     df_left = pd.DataFrame()
     df_right = pd.DataFrame()
 
@@ -57,15 +101,12 @@ def concatenate_articles(left, right, named_entities):
 
     return df_left, df_right
 
-
-def build_corpus(left_train, right_train, left_test, right_test, most_common_ne):
+def build_corpus(left_train, right_train, left_test, right_test):
 
     ## Prepare training data
 
-    data_left, data_right = concatenate_articles(left_train, right_train, most_common_ne)
+    data_left, data_right, most_common_ne = concatenate_train(left_train, right_train)
     
-    #data_left = concatenate_articles(left, most_common_ne, sid=0)
-    #data_right = concatenate_articles(right, most_common_ne, sid=1)
 
     # Combine both corpora and shuffle it
     data = pd.concat([data_left, data_right])
@@ -79,7 +120,7 @@ def build_corpus(left_train, right_train, left_test, right_test, most_common_ne)
 
     ## Prepare test data
 
-    data_left, data_right = concatenate_articles(left_test, right_test, most_common_ne)
+    data_left, data_right = concatenate_test(left_test, right_test, most_common_ne)
     
     # Combine both corpora and shuffle it
     data = pd.concat([data_left, data_right])
@@ -93,16 +134,6 @@ def build_corpus(left_train, right_train, left_test, right_test, most_common_ne)
     return X_train, y_train, X_test, y_test
 
 
-def most_common_entities(subset):
-    files = [row[0] for row in subset]
-    articles = [open(f).read() for f in files]   
-
-    entities_dict = dict()
-    for art in articles:
-        entities_dict = ne.add_entities(entities_dict, art)
-    most_common = ne.get_most_common(entities_dict, number=200)
-
-    return most_common
 
 if __name__ == "__main__":
     np.random.seed(10)
@@ -119,13 +150,12 @@ if __name__ == "__main__":
     left_wing_test = base.read_csv('../data/test/left_wing_test_short.csv')
     right_wing_test = base.read_csv('../data/test/right_wing_test_short.csv')
 
-    most_common_ne = most_common_entities(left_wing_train + right_wing_train)
     
     #X_train, y_train = build_corpus(left_wing_train, right_wing_train, most_common_ne)
     #X_test, y_test = build_corpus(left_wing_test, right_wing_test, most_common_ne)
 
     X_train, y_train, X_test, y_test = build_corpus(
-        left_wing_train, right_wing_train, left_wing_test, right_wing_test, most_common_ne)
+        left_wing_train, right_wing_train, left_wing_test, right_wing_test)
     
     """
     text_clf = Pipeline([('vect', TfidfVectorizer(max_features=100)),
@@ -157,8 +187,5 @@ if __name__ == "__main__":
     # Print wrong predictions
     print(results[results.pred != results.label])
 
-    print("Hallo")
 
-    #print correct predictions
-    print(results[results.pred == results.label])
     
