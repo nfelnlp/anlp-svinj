@@ -59,17 +59,21 @@ def write_csv(rows, output_path):
      
 
 if __name__ == "__main__":
-    left_wing_rows = read_csv(left_wing)
-    right_wing_rows = read_csv(right_wing)
+    #left_wing_rows = read_csv(left_wing)
+    #right_wing_rows = read_csv(right_wing)
 
-    shuffle(left_wing_rows)
-    shuffle(right_wing_rows)
+    #shuffle(left_wing_rows)
+    #shuffle(right_wing_rows)
 
-    left_wing_training_split = int(len(left_wing_rows) * TRAINING_SIZE_PERCENTAGE)
-    right_wing_training_split = int(len(right_wing_rows) * TRAINING_SIZE_PERCENTAGE)
+    #left_wing_training_split = int(len(left_wing_rows) * TRAINING_SIZE_PERCENTAGE)
+    #right_wing_training_split = int(len(right_wing_rows) * TRAINING_SIZE_PERCENTAGE)
     
-    write_csv(left_wing_rows[:left_wing_training_split], 'train/left_wing_train.csv')
-    write_csv(left_wing_rows[left_wing_training_split:], 'test/left_wing_test.csv')
+    #write_csv(left_wing_rows[:left_wing_training_split], 'train/left_wing_train.csv')
+    #write_csv(left_wing_rows[left_wing_training_split:], 'test/left_wing_test.csv')
 
-    write_csv(right_wing_rows[:right_wing_training_split], 'train/right_wing_train.csv')
-    write_csv(right_wing_rows[right_wing_training_split:], 'test/right_wing_test.csv')
+    #write_csv(right_wing_rows[:right_wing_training_split], 'train/right_wing_train.csv')
+    #write_csv(right_wing_rows[right_wing_training_split:], 'test/right_wing_test.csv')
+    
+    write_csv(read_csv(['deutsche-stimme/deutsche-stimme.csv']), 'test/true_right_wing_test.csv')
+    write_csv(read_csv(['graswurzel/graswurzel.csv']), 'test/true_left_wing_test.csv')
+
