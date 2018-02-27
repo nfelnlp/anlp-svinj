@@ -14,33 +14,23 @@ from sklearn.utils import shuffle
 import baseline as base
 import named_entities as ne
 
+
 def concatenate_articles(subset, named_entities, sid):
     df = pd.DataFrame()
 
     files = [row[0] for row in subset]
-    articles = [open(f).read() for f in files]   
-    
-    
-    merkellist = []
+    articles = [open(f).read() for f in files]
+
+    df['text'] = articles
+
     entities_list = []
     for art in articles:
-        merkelcounter = 0
-        for word in art.split():
-            if word == "Merkel":
-                merkelcounter += 1
-        merkellist.append(merkelcounter)
-
         curr_entities = ne.extract_named_entities(named_entities, art)
         entities_list.append(curr_entities)
-        
 
-    #print(len(entities_list))
-    df['angela'] = merkellist
+    ne_features = pd.DataFrame(entities_list)
 
-    df['named_entities'] = entities_list
-    print(df['named_entities'])
-    #print(df['named_entities'].shape)
-    df['text'] = articles
+    df = pd.concat([df, ne_features], axis=1)
 
     df['file'] = files
 
@@ -63,7 +53,7 @@ def build_corpus(left, right):
     data = pd.concat([data_left, data_right])
     shuffled_data = shuffle(data).reset_index(drop=True)
 
-    X = shuffled_data[['text', 'file', 'angela', 'named_entities']]
+    X = shuffled_data.drop(['label'], axis=1)
     y = shuffled_data['label']
 
     return X, y
@@ -81,7 +71,6 @@ def most_common_entities(subset):
     return most_common
 
 if __name__ == "__main__":
-    np.random.seed(10)
 
     # Parse the datasets
     #left_wing_train = base.read_csv('../data/train/left_wing_train.csv')
@@ -98,19 +87,15 @@ if __name__ == "__main__":
     X_train, y_train = build_corpus(left_wing_train, right_wing_train)
     X_test, y_test = build_corpus(left_wing_test, right_wing_test)
 
+    # Select features from X_train
+
+    X_train = X_train.drop(['text', 'file'], axis=1).dropna()
+
     # Training
-    """
-    text_clf = Pipeline([('vect', TfidfVectorizer(max_features=100)),
-                         #('tfidf', TfidfTransformer()),
-                         ('clf', MultinomialNB())])
-    text_clf.fit(X_train.text, y_train)
-    # Apply trained model on test set
-    predicted = text_clf.predict(X_test.text)
-    """
 
     text_clf = tree.DecisionTreeClassifier()
-    text_clf.fit(X_train.named_entities.reshape((X_train.named_entities.shape[0], 1)), y_train)
-    predicted = text_clf.predict(X_test.angela.reshape((X_test.named_entities.shape[0], 1)))
+    text_clf.fit(X_train, y_train)
+    predicted = text_clf.predict(X_test.named_entites)
 
     # Evaluation
     print(metrics.accuracy_score(y_test, predicted))

@@ -45,6 +45,8 @@ def write_to_files(text, url, art_id):
 def traverse(outlet_url, num=4000):
     retrieved = 0
     page = 1
+
+    linklist = []
     while retrieved < num:
 
         if page < 2:
@@ -57,17 +59,21 @@ def traverse(outlet_url, num=4000):
 
         links = re.findall(r"<A\shref=\".*de\/(\d{4}\/\d{2}\/\d{2}\/.*)\"\s", html)
 
-        for link in links:
-            try:
-                art_url = outlet_url + link
-                extr = Extractor(extractor='ArticleExtractor', url=art_url)
-                text = extr.getText()
-                retrieved += 1
-                write_to_files(text, art_url, retrieved)
-                print("Extracted {}: {}".format(retrieved, art_url))
+        links = list(set(links))
 
-            except Exception as e:
-                print(e)
+        for link in links:
+            if link not in linklist:
+                try:
+                    art_url = outlet_url + link
+                    extr = Extractor(extractor='ArticleExtractor', url=art_url)
+                    text = extr.getText()
+                    retrieved += 1
+                    write_to_files(text, art_url, retrieved)
+                    print("Extracted {}: {}".format(retrieved, art_url))
+                    linklist.append(link)
+
+                except Exception as e:
+                    print(e)
         page += 1
 
 

@@ -1,0 +1,41 @@
+Rechtliche Hinweise
+Hackerangriff auf die »Herzkammer der Demokratie«
+Mit der Cyberattacke auf das IT-System des Bundestages gibt sich die Politik erneut der Lächerlichkeit preis Am 12. Juni verabschiedete der Bundestag das IT-Sicherheitsgesetz, mit dem Unternehmen und Bundesbehörden...
+Mit der Cyberattacke auf das IT-System des Bundestages gibt sich die Politik erneut der Lächerlichkeit preis
+Am 12. Juni verabschiedete der Bundestag das IT-Sicherheitsgesetz, mit dem Unternehmen und Bundesbehörden zur Einhaltung sicherheitstechnischer Mindestanforderungen an ihre Computersysteme verpflichtet werden.
+Ziel ist der Schutz »kritischer Infrastrukturen« von Energieunternehmen, Wasserwerken, Banken und der Bahn.
+Beschlossen wurde auch eine Meldepflicht für schwere Hackerangriffe sowie ein Bußgeld im Falle der Zuwiderhandlung.
+Wie Realsatire mutete die Bundestagsdebatte zum IT-Sicherheitsgesetz an, weil Tage vorher ein massiver Angriff auf das Computernetzwerk des Bundestages bekannt geworden war.
+An den vielgeschmähten Stammtischen im Land wurde nun kopfschüttelnd gehöhnt, die Polit-Dilettanten des Bundestages wollten per Akklamation die IT-Sicherheit von 2000 Unternehmen verbessern und könnten nicht mal ihre eigenen Arbeitsrechner vor Hackern schützen.
+Auch wenn für die Computersicherheit nicht der einzelne Abgeordnete, sondern die Bundestagsverwaltung verantwortlich zeichnet, ist der Ansehensverlust der angeblichen Volksvertreter immens.
+So schrieb Die* Welt* von einem »schlechten Timing für die Glaubwürdigkeit der Parlamentarier.
+Die Süddeutsche* Zeitung* stimmte gar pathetische Akkorde an: »Wenn etwas in diesem Land systemrelevant ist, so ist das der Deutsche Bundestag.
+Er ist, wie es so schön heißt, die Herzkammer der Demokratie.
+Dieses Herz muß pochen.
+Deshalb ist der Hackerangriff auf die Computer des Bundestages wirklich bedrohlich.
+Es ist ein Angriff auf das politische System, nicht nur auf die Technik.«
+Was war geschehen?
+Mitte Juni erfuhr die Öffentlichkeit, daß 15 an das Bundestagsnetzwerk angeschlossene Computer mit Trojanern verseucht sind.
+Auf einem Rechner in Angela Merkels Bundestagsbüro ist das Schadprogramm zuerst festgestellt worden, und Hacker nutzten Merkels Namen für das Versenden von verseuchten Nachrichten.
+Der Cyberangriff dauerte vier ganze Wochen und führte zum gezielten Datenabfluß von Computern im Umfang zwischen 16 und 20 Gigabyte.
+Zu den erbeuteten Daten gehören vertrauliche Nachrichten, Adreßverzeichnisse und Terminkalender von Abgeordneten.
+Das Bundesamt für Sicherheit in der Informationstechnik (BSI) konstatiert ein tiefes Eindringen in die IT-Infrastruktur des Bundestages.
+So verschafften sich die Hacker sogar Administratoren-Zugriffsrechte, mit denen sie – bis heute?
+– auf das gesamte Computernetz des Bundestages zugreifen können.
+Die meisten Abgeordneten versuchten demonstrative Gelassenheit an den Tag zu legen.
+Auch die Linken-Politikerin Petra Pau, Chefin der IT-Kommission im Bundestag, spielte die Tragweite des Angriffes herunter und beteuerte gebetsmühlenartig, »der Bundestag ist arbeitsfähig.« Die Abgeordnete Steffi Lemke trifft es wohl eher, wenn sie sagt, jemand habe »den Generalschlüssel zu allen Büros und Aktenschränken des Bundestages erbeutet und kann sich bedienen«.
+Wenig Gespür bewies Bundesinnenminister de Maizière, der den Abgeordneten bei der Aufklärung des IT-Debakels ausgerechnet das Bundesamt für Verfassungsschutz ans Herz legte.
+Insbesondere die Opposition wollte den Bock aber nicht zum Gärtner machen und befürchtet bei den »Verfassungsschützern« eher den Zugriff auf ihre eigene elektronische Korrespondenz als den Schutz vor Hackerangriffen.
+Der VS-Chef Hans-Georg Maaßen war es auch, der bei der Suche nach einem verantwortlichen Geheimdienst die ewigbösen Russen ins Spiel brachte und von »entsprechenden Fähigkeiten russischer Hacker« schwadronierte.
+An die Weltausspäher der NSA kann, will oder darf Maaßen öffentlich wohl nicht denken.
+Die durchsichtige Verdächtigung Rußlands soll nur ablenken: von den offensichtlich gravierenden Sicherheitslücken im IT-System des Bundestages und den systematischen Ausspäh-Aktionen des US-Geheimdienstes NSA gegen Deutschland einschließlich des Mobiltelefons der Kanzlerin.
+Jüngst wurde zudem bekannt, daß der Bundesnachrichtendienst der NSA beim Ausspähen europäischer und deutscher Unternehmen sowie fremder Regierungen auch noch Hilfsdienste leistete.
+Nicht nur die Rolle als Weltkriegstreiber und Staatenauflöser (siehe Irak und Libyen) fällt somit den USA zu, sondern auch der Status als weltgrößter Datendieb.
+Was liegt da näher als von diesen Schurkereien abzulenken und die Russen unter Hacker-Verdacht zu stellen?
+Zu doof aus Sicht der Anti-Rußland-Fraktion ist, daß nun bekannt wurde, daß der britische Geheimdienst GCHQ und – natürlich!
+– die NSA massiv Anti-Virensoftware-Entwickler im Visier haben.
+Für Geheimdienste ist es natürlich ein großes Ärgernis, wenn Software-Entwickler ihnen eine Nasenlänge voraus sind und mühevoll entwickelte Geheimdienst-Trojaner von guten Virenschutz-Programmen entdeckt und neutralisiert werden.
+Laut der Enthüllungsnetzseite The* Intercept* waren die Entwickler von Anti-Virensoftware wie Kaspersky deshalb Ausspähobjekt der Amerikaner und Briten.
+Unter dem Projektnamen »Camberdada« sollten Informationen gesammelt werden, um Anti-Virenprogramme effektiv umgehen zu können.
+Zu diesem Zweck fingen NSA und GCHQ sogar den ePost-Verkehr der Mitarbeiter diverser Software-Unternehmen ab.
+Moritz Altmann
