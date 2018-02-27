@@ -89,13 +89,14 @@ if __name__ == "__main__":
 
     # Select features from X_train
 
-    X_train = X_train.drop(['text', 'file'], axis=1).dropna()
+    X_train = X_train.drop(['text', 'file'], axis=1).fillna(0)
+    X_test = X_test.drop(['text', 'file'], axis=1).fillna(0)
 
     # Training
 
     text_clf = tree.DecisionTreeClassifier()
     text_clf.fit(X_train, y_train)
-    predicted = text_clf.predict(X_test.named_entites)
+    predicted = text_clf.predict(X_test)
 
     # Evaluation
     print(metrics.accuracy_score(y_test, predicted))
