@@ -9,7 +9,7 @@ from sklearn.utils import shuffle
 
 import baseline as base
 
-from features import pos_tags
+from features import pos_tags, sentiment
 
 
 def build_subset(subset, sid, split):
@@ -77,7 +77,7 @@ def train(data, clf):
 
 if __name__ == "__main__":
     # Parse the datasets
-    small_dataset = True
+    small_dataset = False
 
     if small_dataset:
         left_wing_train = base.read_csv('../data/train/left_wing_train_short.csv')
@@ -94,7 +94,8 @@ if __name__ == "__main__":
                         left_wing_test, right_wing_test)
 
     # Add features
-    data = pos_tags.add_features(df=data)  # POS tag feature
+    #data = pos_tags.add_features(df=data)  # POS tag feature
+    data = sentiment.add_feature(data)
 
     # Select classifier and train
     clf = tree.DecisionTreeClassifier()
