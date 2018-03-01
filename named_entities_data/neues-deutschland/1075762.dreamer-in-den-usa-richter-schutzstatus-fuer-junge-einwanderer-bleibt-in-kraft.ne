@@ -1,0 +1,1 @@
+{'Daca': 1, 'Daca Washington': 1, 'den': 1, 'zur Abschaffung': 1, 'Alsup in San': 1, 'entschied laut': 1, 'beenden': 1, 'Die': 1, 'der': 1, 'für Proteste': 1, 'Dekret': 1, 'sprechen': 1}

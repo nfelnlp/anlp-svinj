@@ -1,0 +1,1 @@
+{'Innerlichkeit': 1, 'Frankreich': 2, 'FAZ': 1, 'Sophie DeBris': 1, 'Sondergesetzen': 1, 'Make': 1, 'Make America': 1, 'selbst': 1, 'mehr': 1, '– von': 1, 'sei': 1, 'Politik als': 1, 'Komplizenschaft beschuldigt': 1, 'Ebenso': 1, 'sein': 1}

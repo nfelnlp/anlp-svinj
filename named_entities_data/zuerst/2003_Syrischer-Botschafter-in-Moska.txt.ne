@@ -1,0 +1,1 @@
+{'Damaskus/Moskau': 1, 'Die': 1, 'offenbar': 1, 'Ziele': 1, 'Ankara': 1, ',': 2, 'zu': 1, ')': 1, 'sollen': 1, 'Hadad': 1, '„Das': 1, '„Das Gefährlichste': 1, '(': 1, 'tun': 1, 'Botschafter': 1, 'Namen': 1, 'aber die': 1, 'US-Dollar': 1, 'die': 1}

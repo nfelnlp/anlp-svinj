@@ -1,0 +1,1 @@
+{'Washington': 1, 'hat ein': 1, ':': 1, 'des': 1, 'den prominenteren': 1, 'eine der': 1, 'Post': 1, 'eine hochrangige': 1, 'Ministeriums': 1, 'Kennedy und Gentry': 1, 'Smith . Daß': 1, 'Wechsel im Ministerium von': 1, 'Team selbst gewünscht wurde': 1, 'dieses': 1, 'am bisherigen': 1}

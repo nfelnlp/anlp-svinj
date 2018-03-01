@@ -1,0 +1,1 @@
+{'Wien': 1, 'der Bellen': 1, 'am': 1, 'ausgestrahlt': 1, 'Haus': 1, 'in Wien': 1, 'Äußerungen': 1, 'das': 1, 'der': 1, 'bezeichnete': 1, 'die Kritik': 1, 'lange': 1, 'hat': 1, 'die': 1, 'gestoßen': 1, '.': 2, 'mache': 1, 'Österreicher': 1, 'sich': 1, 'so Kickl': 1, 'eingesetzt': 1}

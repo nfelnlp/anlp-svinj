@@ -1,0 +1,1 @@
+{'Höcke und': 1, '(': 1, 'mit': 1, 'seiner Familie': 1, 'wie': 1, 'Ausstellungsräumen': 1, 'Konsequenz': 1, '3:15 –': 1, 'Hübner': 1, '“ (': 1}

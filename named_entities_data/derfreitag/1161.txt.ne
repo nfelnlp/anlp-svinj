@@ -1,0 +1,1 @@
+{'Wissenschaftlerin': 1, 'Ignorieren': 1, 'auf das': 1, 'außen': 1, ')': 1, 'Damit stehe': 1, 'nicht': 1, 'zu': 1, 'diese': 1, 'Demonstrationen': 1}

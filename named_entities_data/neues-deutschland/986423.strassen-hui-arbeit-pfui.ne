@@ -1,0 +1,1 @@
+{'Gebiet': 1, 'Wissenschaftler': 1, 'IG-Metall-Vorstandes': 1, 'einen': 1, 'ernüchternd': 1, 'Was': 1, '. Signifikante': 1, 'in Erreichbarkeiten': 1, 'Wasserwege': 1, 'Führung': 1, 'damit': 1, 'es auch der': 1, 'Nachrichten schon genug': 1, 'Jahr': 1, 'und': 1, 'Dienstleistungsgewerbe': 1, 'modernisieren': 1, 'zu erhalten': 1, 'historisch': 1}

@@ -1,0 +1,1 @@
+{'.': 1, '. Wegen': 1, 'hat der': 1, 'aus den': 1, 'einstimmig': 1, 'nicht': 1, 'Maiers Twitter-Account': 1, '»': 1, 'Ich': 1, 'bei allen': 1, '. Januar': 1}

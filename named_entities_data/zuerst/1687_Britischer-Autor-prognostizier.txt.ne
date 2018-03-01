@@ -1,0 +1,1 @@
+{'London': 1, 'Großbritannien': 1, 'Douglas Murray': 1, '“ (': 1, 'These': 1, 'führen': 1, 'sein': 1, 'er': 1, 'und': 3, 'Raum': 1, 'Murray': 1, 'daß': 1, ',': 1, '–': 2, 'Untergang': 1, 'ist ,': 1, 'Sarrazin': 1, 'seinen': 1, 'Zahlen :': 1, '2010': 1, 'entspreche': 1, 'von': 1, 'Cameron': 1, ', die': 1}

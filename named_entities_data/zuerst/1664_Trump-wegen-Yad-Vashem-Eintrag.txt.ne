@@ -1,0 +1,1 @@
+{'Jerusalem': 1, 'obwohl': 1, 'Eintrags': 1, 'in': 1, 'Kritik': 1, 'Trump': 1, 'der': 1, 'manchem': 1, '„Times': 1, 'hat vergessen': 1, 'schreiben': 1, 'korrekt': 1, 'sei „die': 1, 'er': 1}

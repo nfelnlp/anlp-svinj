@@ -1,0 +1,1 @@
+{'. FAMILIE': 1, 'Philosophie und Politik': 1, ',': 2, 'mit': 1, 'Status': 1, 'Bauern': 1, 'stammen': 1, 'preußisch': 1, 'der': 1, '“': 1, ', Pionieren': 1, 'relativ': 1, 'Anlaufstelle': 1, 'des': 1, 'Großeltern': 1, 'Weise': 1, 'Der': 1}

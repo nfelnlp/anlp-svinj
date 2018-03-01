@@ -1,0 +1,1 @@
+{'Washington': 1, 'die': 2, 'ums': 1, 'Insbesondere': 1, ',': 1, 'anderer': 1, 'dem deutschen': 1, '.': 1, 'der Nachrichtenagentur': 1, 'CNN': 1, 'dem': 2, 'Konstruktionsfehler': 1, 'der': 2, 'der EU': 1, 'Gewährsmann': 1, 'verstärkt': 1, 'den': 2, 'kommen': 1, 'Deutschland': 1, 'den deutschen': 1, 'will': 1, 'deutsche': 1, 'Haus': 1, '– im': 1, 'auf': 1}

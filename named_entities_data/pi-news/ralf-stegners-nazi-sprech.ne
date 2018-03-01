@@ -1,0 +1,1 @@
+{'SPD': 1, 'LINKE': 1, 'den': 1, 'Thema , keine': 1, 'Ausdruck auch': 1, 'hatte': 1, 'seinem': 1, 'ihn': 1, '.': 3, 'kommt eben': 1, 'am': 1, 'wenn': 1, 'wie': 1, 'aus': 1, 'Jedem das': 1, 'der erste': 1, 'Illner und': 1, 'unterschiedlich': 1, 'je': 1, 'Stegner': 1, 'Seine': 1}

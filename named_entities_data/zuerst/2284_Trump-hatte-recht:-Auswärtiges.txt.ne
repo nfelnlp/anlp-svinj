@@ -1,0 +1,1 @@
+{'Berlin': 1, ', der': 1, 'Schweden': 1, 'haben': 1, 'für': 1, '–': 1, 'Und': 1, 'es': 1, 'Anfang': 1, 'Reisende': 1, 'in': 1, '.': 1, 'und': 1, 'gültiges': 1, 'vorzuweisen': 1, 'der': 1, 'auch': 1, 'keine Wertsachen': 1, 'Einführung': 1, 'oder': 1, 'Waren': 1, 'den': 1, 'vor': 1, 'bitten': 1, 'Autofahrer': 1, ':': 1, 'März': 1}

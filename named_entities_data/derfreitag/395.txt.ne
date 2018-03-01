@@ -1,0 +1,1 @@
+{'Marty': 1, 'Suhrkamp': 1, '.': 2, 'Er hat': 1, 'notorisch': 1, 'kurz': 1, 'zur': 2, ',': 2, 'im': 1, 'eine ganze': 1, 'Ich': 1, ', der': 1, 'in': 1, 'Ignoranz': 1, 'mir': 1, 'einer': 1}

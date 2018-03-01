@@ -1,0 +1,1 @@
+{'Brüssel': 1, 'EU': 1, 'Ukraine-Krise': 1, 'Sanktionen': 1, 'die': 1, 'am': 1, 'Beschlusses': 1, 'ein': 1, 'der': 1, 'mü': 1}

@@ -1,0 +1,1 @@
+{'Deutschland': 2, 'Jetzt': 1, 'seine': 1, 'und': 2, 'dass': 1, 'Wirtschaftshochschule WHU': 1, 'Koblenz': 1, 'fest': 1, '»': 1, 'man': 1, 'am': 1, 'von': 1, 'dem': 1, 'Bundesbürger': 1, 'Online-Shopping': 1, ',': 1, 'bewahren und': 1, 'ist': 1}

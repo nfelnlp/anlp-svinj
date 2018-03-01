@@ -1,0 +1,1 @@
+{'Madrid': 2, 'Spanien': 3, 'Katalonien': 4, 'spanische': 1, 'Luis de Guindos': 1}

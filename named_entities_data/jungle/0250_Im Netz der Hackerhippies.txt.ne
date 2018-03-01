@@ -1,0 +1,1 @@
+{'Hacker': 1, 'heute eher': 1, '.': 1, 'zu': 1, ',': 4, 'verwirklichen': 1, 'man': 1, 'darin finden': 1, 'im': 1, 'wie': 1, 'sein': 1, 'die': 1, 'Der': 1, 'sollte': 1, 'Maschine': 1, ') erfand': 1, 'es heute': 1, 'in': 1, 'sein.': 1, 'und': 1, 'Master': 1, 'sie in': 1, 'Telefonnetze': 1, 'der': 1}

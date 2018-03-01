@@ -1,0 +1,1 @@
+{'Köln': 2, 'Nordrhein-Westfalen ) plötzlich': 1, 'von': 1, ')': 1, 'am': 1, 'zusammen': 1, 'Abstand': 1, 'Bürger': 1, '. Jahrhundert': 1, 'überregional': 1, 'Auch': 1, 'und': 1, 'dem': 1, 'des': 1, 'vergehen . Nach': 1, 'Einsturz': 1, 'welchem': 1, 'Frage': 1}

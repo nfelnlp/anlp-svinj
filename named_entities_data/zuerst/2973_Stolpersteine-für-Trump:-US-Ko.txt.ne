@@ -1,0 +1,1 @@
+{'scheidende': 1, 'scheidende Obama-Administration': 1, 'dem': 1, 'obwohl': 1, ',': 1, 'verabschiedete': 1, 'Trumps': 1, 'nicht vor ,': 1, 'revidieren': 1, 'Rußland': 1, 'Darüber': 1, 'Akkreditierte': 1, 'Laufe': 1}

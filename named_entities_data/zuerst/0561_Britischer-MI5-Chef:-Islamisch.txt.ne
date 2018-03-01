@@ -1,0 +1,1 @@
+{'London': 1, 'MI5': 1, 'Großbritannien': 1, 'Andrew': 1, 'in London': 1, 'Anschläge': 1, 'innerhalb': 1, 'Tage': 1, 'Ermittlungen': 1, 'die': 1, 'Auch': 1, 'Bedrohung': 1, 'Geschlecht': 1, 'des': 1, 'der': 1, '(': 1}

@@ -1,0 +1,1 @@
+{'. Die': 1, 'zufolge': 1, 'Jahr waren': 1, 'als': 1, 'den': 1, 'Niederlanden': 1, 'Risiko': 1, 'wie': 1, 'Zimmermann': 1, 'hat': 1, 'künftigen': 1, 'Altersarmut': 1, '»': 1, 'müssten': 1, 'werden': 1}

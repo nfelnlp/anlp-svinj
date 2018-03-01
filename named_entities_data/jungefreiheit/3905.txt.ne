@@ -1,0 +1,1 @@
+{'Der': 1, 'und': 1, 'religiösen': 1, 'sind.\x93': 1, 'von': 1, 'außerstande': 1, 'systematischen': 1, 'Doch': 1, 'So': 1, ',': 2, 'das': 1, 'Organe': 1, '\x84Wissen': 1, 'Nachdenklich': 1, 'Massenatheismus': 1, 'Gegenwart': 1}

@@ -1,0 +1,1 @@
+{'Gesellschaft 3 Rostock': 1, 'Am': 1, 'Rostock': 1, 'Linksextremisten': 1, 'Holm': 1, 'Attacken aufs Schärfste :': 1, 'in': 1, 'Noch in der': 1, 'unnötig': 1, 'fliegenden': 1, 'auf': 1, 'Krankenhaus': 1, 'im westfälischen Münster': 1, 'Attacke': 1, 'seinen': 1, 'mehrfach': 1, 'linksradikalen Gewalttätern': 1, 'wie': 1, 'sp )': 1}

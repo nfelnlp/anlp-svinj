@@ -1,0 +1,1 @@
+{'Jungle World': 1, 'Wide': 1, 'oder': 1, 'Sprache': 1, 'und': 1, '.': 1, 'hieß': 1, ', dem': 1, ', »': 1, 'sondern': 1, 'es': 1, 'man statt': 1, 'Entschärfung': 1, ':': 1, 'dem': 1, 'zum Beispiel': 1, '« II': 1, 'der': 2, 'aus': 1, '. Sie': 1, 'World': 1, 'damit': 1, 'Freiheitsgrade': 1, 'die': 1, 'hiesigen Universum': 1}

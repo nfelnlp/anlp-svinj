@@ -1,0 +1,1 @@
+{',': 1, 'der': 1, 'neuseeländische': 1, 'scheiterte': 1, ':': 1, 'dass': 1, 'kleine': 1, 'entlassenen': 1, 'fühlen uns': 1, 'zuschauen': 1, 'aufgekauft': 1, 'es': 1}

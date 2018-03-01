@@ -1,0 +1,1 @@
+{'. Ein': 1, 'am Freitag': 1, 'in': 1, ',': 2, 'dem Schlemmen': 1, 'reicht': 1, 'Sprecher der': 1, 'Europaparlament , am': 1, 'bei': 1, 'Ausstiegsplan': 1, 'Auch': 1, 'das derzeitige': 1, 'ein': 1, 'am Funkturm': 1, 'und': 1, ', die': 1, 'Aktion': 1}

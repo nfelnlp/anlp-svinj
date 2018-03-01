@@ -1,0 +1,1 @@
+{'Metall': 1, 'ver.di': 1, 'Jörg Meyer': 1, 'DGB-Familie': 1, '150': 1, 'Jahre': 1, 'die': 1, '.': 1, 'Deren': 1, 'mehreren Gewerkschaften': 1, 'Druck': 1, 'fünf': 1, 'grober': 1, 'ist .': 1, 'von': 1}

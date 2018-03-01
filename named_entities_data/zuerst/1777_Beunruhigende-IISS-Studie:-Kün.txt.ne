@@ -1,0 +1,1 @@
+{'London': 2, 'IISS-Generaldirektor': 1, 'bei der': 1, 'oder': 1, '“': 1, 'das': 1, 'im Mai': 1, 'im Mai 2008': 1, 'Wort': 1, 'werde': 1, 'haben': 1, 'Rhein-Main-Gebiet': 1, '. Eine ähnliche Entwicklung': 1, 'die': 1, ',': 1, ')': 1}

@@ -1,0 +1,1 @@
+{'.': 1, '. Wegen': 1, 'Tonnen Kerosin abgelassen': 1, '4 .': 1, 'gewesen': 1, 'als der': 1, 'Langen .': 1, 'habe dann': 1, '. Piloten in': 1, 'zuerst': 1, 'berichtet': 1, 'der': 1, ',': 1, 'Teile': 1, 'benachbarten': 1, '. Immer wieder': 1, ', dass es': 1, 'liegt': 1, 'zu': 1}

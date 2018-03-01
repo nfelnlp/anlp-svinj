@@ -1,0 +1,1 @@
+{'Panagiotis': 1, 'Images': 1, 'jüngste': 1, 'des': 1, 'die': 1, 'erschien': 1, 'Ausgabe': 1, 'Ausgabe 38/2015': 1, 'einem Putsch': 1, 'Opfer': 1, '– dieses': 1, 'griechische': 1, 'Grund': 1, ',': 1, 'Jugend': 1, 'alt ,': 1, 'im Zweiten': 1, 'später': 1, 'aus': 1, 'Synaspismos': 1, 'der': 1}

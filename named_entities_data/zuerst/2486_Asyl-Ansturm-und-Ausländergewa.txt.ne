@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Deutschland': 1, 'Jahren': 1, ')': 1}

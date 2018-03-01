@@ -1,0 +1,1 @@
+{'Bremer': 1, 'Süddeutsche': 1, 'wie': 1, '.': 1, 'wünscht': 1, 'einfacher': 1, 'selbst': 1, 'Software': 1, ', immer': 1, 'die Promotion': 1, 'sie': 1, 'Berufe zu': 1, 'vorkommen': 1, 'Bergisch': 1, 'lassen .': 1, 'Labor-': 1, 'konservativ Guttenberg': 1}

@@ -1,0 +1,1 @@
+{'Hofer': 1, 'Hinterlassenenrenten': 1, 'Invalidenrenten': 1, 'Krankentaggeld': 1, ',': 2, '.': 2, 'in Vereinen': 1, 'Grundeinkommen': 1, 'Schweizer': 1, 'Einführung': 1, 'anders': 1, 'eine': 1, 'Mehrheit': 1, 'für': 1, 'Leitlinien': 1, 'er erst einmal': 1, 'der': 1, 'herausgebildet': 1}

@@ -1,0 +1,1 @@
+{'Polizei': 4, 'Berlin': 1, 'Friedrichshain': 1, 'Liebigstraße': 1, 'geworfen': 1, 'mit': 1, 'Unterstützungskräfte wurden': 1, ',': 1, 'der': 1, 'Haus': 1, 'nicht': 1, 'vielleicht die': 1, 'mehr': 1, 'sich': 1, 'Innensenator': 1, 'aus': 1, ']': 1}

@@ -1,0 +1,1 @@
+{'der': 2, 'Nichtraucher': 1, 'einzige': 1, 'Geliebten': 1, 'zunächst': 1}

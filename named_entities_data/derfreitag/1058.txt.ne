@@ -1,0 +1,1 @@
+{'Teil': 1, 'heftig': 1, 'Einzelabkommen gelten': 1, '-': 1, 'und': 1, 'an': 1, 'wahrgenommene': 1, 'auch auf': 1, '.': 1}

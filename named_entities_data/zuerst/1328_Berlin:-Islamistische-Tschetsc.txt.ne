@@ -1,0 +1,1 @@
+{'Gesellschaft 3 Berlin': 1, 'Berlin': 1, '.': 2, '. Etwa': 1, 'raus': 1, 'religiös': 1, 'bestätigte gegenüber': 1, '„Tagesspiegel': 1, 'der russisch-eurasischen': 1}

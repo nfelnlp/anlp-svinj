@@ -1,0 +1,1 @@
+{'Bertelsmann-Studie': 1, '.': 2, 'wir': 2, 'der': 2, 'in': 1, '. Sie': 1, 'Vehrkamp': 1, 'derzeit durch': 1, 'Teile': 1, 'Prozent': 1, '(': 1, 'Gibt ja': 1, 'direkt': 1, 'dagegen': 1, 'dagegen am': 1, 'vor': 1, 'sogar ein': 1, 'falsch.': 1, '?': 1, 'Studie': 1, 'Demokratiefeinde': 1, 'die': 1, 'seit': 1, 'sieben': 1, 'Linkspopulisten': 1}

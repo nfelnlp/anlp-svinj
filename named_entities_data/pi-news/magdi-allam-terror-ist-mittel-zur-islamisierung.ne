@@ -1,0 +1,1 @@
+{'Magdi Cristiano Allam': 1, ',': 3, 'Lehrstunde': 1, 'von': 1, 'wo': 1, 'italienischen': 1, 'für kontraproduktiv': 1, 'islamischen': 2, 'dem': 1, 'Deutschland': 1, 'herumreiste': 1, 'Wölfe': 1, 'Islam-Prediger': 1, 'sich': 1, 'hat': 1, ':': 1}

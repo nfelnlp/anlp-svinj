@@ -1,0 +1,1 @@
+{'Verkehrsministerium': 1, 'chinesischen': 1, 'Ku Lang': 1, 'Irvash vom': 1, 'Konsulat': 1, 'dem': 1, 'Staatsrundfunk': 1, '.': 2, '300': 1, 'mit': 1, 'CF Crystal « zusammengestoßen': 1, 'Greenpeace erklärte': 1, 'Wei Xianghua von': 1, 'Universität Peking .': 1, 'hatte': 1, 'entsandte': 1, 'Küstenwache sei': 1, 'Oktober': 1, 'US-Marineschiffe': 1, 'mit einem Tanker aus': 1}

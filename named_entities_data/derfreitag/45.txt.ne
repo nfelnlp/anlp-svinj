@@ -1,0 +1,1 @@
+{'noch verbrannte': 1, 'Clubs Foto': 1, '.': 2, 'dominierende': 1, 'Bass-Garage-Tradition .': 1, 'mehr': 1, '&': 1, 'der': 1, 'verkündete': 1, 'rückwärtsgewandten': 1, '80er-Synthie-Revival-Sounds': 1, 'sollte': 1, 'dudelt': 1, 'dato': 1, 'erträglichen': 1, 'zu': 1, ', der': 1, 'da': 1, 'gesetzt': 1, 'bestbezahlten': 1, 'können': 1, 'natürlich': 1, ',': 1, 'einen Pop-Appeal': 1}

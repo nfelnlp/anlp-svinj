@@ -1,0 +1,1 @@
+{'Björn Höckes': 1, 'Wolfgang Hübner': 1, 'Höcke': 1, 'gewaltsame': 1, 'erfolgenden': 1, 'aber': 1, 'in der alten': 1, 'werden': 1, 'Wahlkampf': 1, ',': 1, '.': 1, 'sich': 1, 'Partei und ihrer': 1, 'würde': 1}

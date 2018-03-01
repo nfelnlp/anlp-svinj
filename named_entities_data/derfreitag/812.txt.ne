@@ -1,0 +1,1 @@
+{'es': 1, ',': 1, '?': 2, 'Zentralcomputers': 1, 'oder': 1, 'Weltbank': 1, 'diskutieren': 1}

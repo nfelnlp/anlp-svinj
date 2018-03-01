@@ -1,0 +1,1 @@
+{'Warschau': 2, 'Polen': 1, 'nationalkonservative': 1, 'Reparationsforderungen': 1, 'Deutschland': 1, 'Nationales': 1, 'ehemaligen': 1, '.': 4, 'in': 1, 'Leben': 2, 'die Behörde': 1, 'mithilfe von Interpol überprüfen': 1, 'IPN': 1, 'auch': 1, 'hätten': 1, 'Behörde': 1, 'um': 1, 'aber': 1, 'Verbleib': 1, 'Auge “': 1, 'gemacht .': 1}

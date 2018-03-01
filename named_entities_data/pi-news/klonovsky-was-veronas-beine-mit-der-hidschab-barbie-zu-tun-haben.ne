@@ -1,0 +1,1 @@
+{'Harvey Weinstein': 1, 'Pooth entschuldigte': 1, ',': 2, 'mit': 1, '.': 1, 'Modell': 1, 'US-Säbel': 1, '!': 1, ', das': 1, 'zu': 1, 'halten': 1, '! Wir': 1, 'zum': 1, 'des': 2, 'und irgendwelchen': 1, 'sie damals': 1, 'ausschließlich dem': 1, 'entschuldigt': 1, 'unzüchtigen': 1, 'gemeinhin': 1, 'als': 1, 'deklarieren': 1}

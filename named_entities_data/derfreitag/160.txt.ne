@@ -1,0 +1,1 @@
+{'(': 1, 'Handlungsbedarf': 1}

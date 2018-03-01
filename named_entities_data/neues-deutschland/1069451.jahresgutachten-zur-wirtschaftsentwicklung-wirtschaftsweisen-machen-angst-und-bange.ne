@@ -1,0 +1,1 @@
+{') in': 1, 'übergab': 1, 'fünf': 1, 'FDP': 1, 'Die': 1, 'gehen': 1, 'ihrer': 1, 'was er und sein': 1, 'Wirtschaftsweisen': 1, 'Steuern': 1, 'Abgaben': 1, 'das': 1, 'Einkommenssteuer': 1, 'Zeiten ist': 1, ') die': 1, 'scharf .': 1, 'die': 1, 'machen': 1, '. »': 1, ',': 1}

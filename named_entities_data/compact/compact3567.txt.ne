@@ -1,0 +1,1 @@
+{'und': 2, 'Willkommen': 1, 'Leben': 1, 'Nachstehend': 1, 'nicht': 1, 'mit': 1, 'Raus': 1, 'Auslässe': 1, 'im Wahlkampf mit': 1, 'dieser': 1, 'dort , wo': 1, 'Feld': 1, 'könnte wie': 1, 'aber': 1, 'doch': 1, '6-fach': 1, 'Lasten': 1, 'nach': 1, 'nicht wundervoll': 1, 'Kontinente': 1, 'ist': 1}

@@ -1,0 +1,1 @@
+{'Der': 1, 'die': 1, '.': 2, ')': 1, 'der': 1, 'beim': 1, 'fein': 1, 'getrennt': 1, 'war der Saal': 1, '!': 1, 'Erdogan': 1, 'Bevölkerung': 1, 'vom Demokratiezentrum': 1, 'Pforzheim': 1, 'doch sei .': 1, 'sich': 1, 'mal': 1, 'oder': 1, '70': 1, 'Muslime': 1, 'gedrückt': 1, 'ein üppiges': 1, 'Förderung': 1, 'sowie allen': 1, 'mit einbezogen': 1, 'halten': 1}

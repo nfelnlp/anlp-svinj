@@ -1,0 +1,1 @@
+{'Getty': 1, 'geht bereits': 1, 'Syriza': 1, 'Man': 1, 'Euro': 1, 'Audi A4': 1, 'schon als': 1, 'verkaufen': 1, 'durch': 1, 'mehr': 1, 'Rahmen': 1, 'öffentlichen': 1, 'Ausnahme': 1, 'besitzt': 1, 'Bundestagsabgeordneten eine': 1, 'Klasse': 1}

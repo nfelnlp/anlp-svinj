@@ -1,0 +1,1 @@
+{'liefert keine': 1, 'in': 1, 'die': 1, 'als 4000': 1, 'zu': 1, 'seinem Buch': 1, 'als': 1, 'städtischen': 1, 'vor': 1, 'Tauschwert': 1, 'sehr': 1, 'Nazis': 1, 'Kritik': 1, 'lehrte': 1, 'in Nanterre': 1, '1968 ihren': 1, '1968 ihren Ausgang': 1, 'Aktivisten': 1, 'Besetzung': 1, '«': 1, 'ging': 1, 'nicht': 1, 'um': 1, 'besseres': 1, 'ihn war': 1, '18 €': 1}

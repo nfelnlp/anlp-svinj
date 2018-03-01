@@ -1,0 +1,1 @@
+{'Christian Mang': 1, 'Linkspartei-Werbung': 1, 'DIE': 1, 'die': 1, 'ihre': 1, 'Chemiewaffen': 1, 'zugestimmt': 1, 'Zukunft': 1, 'alle': 1, 'Abstimmung': 1, 'aber': 1, 'können': 1, 'plädiert ,': 1, 'Nein': 1, 'Ja': 1, 'Frage': 1, 'Jahren': 1, 'sollte': 1}

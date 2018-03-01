@@ -1,0 +1,1 @@
+{',': 3, '4 Teilen': 1, '100': 1, 'in die': 1, 'Gelegenheit': 1, 'Pro': 1, ':': 1, 'von': 1, 'Ende': 1, 'jedoch': 1, 'bemerkenswerte': 1}

@@ -1,0 +1,1 @@
+{'Wien': 1, 'Österreich': 1, 'ab': 1, 'in': 1, 'wird': 1, 'mit der Feststellung zitiert': 1, 'Orbán': 1, 'Grenzzaun': 1, 'Volk': 1, 'schützen ,': 1, ',': 1, 'und': 1, 'Bürger sowie': 1}

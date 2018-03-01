@@ -1,0 +1,1 @@
+{'Jörg Meuthen': 1, 'verlockend': 1, 'Rede': 1, 'war der': 1, 'Die': 1, 'eigentlich nicht': 1, 'bislang': 1, 'Syrien': 1, 'gebracht': 1, 'antiglobalistisch': 1, 'erfolgreich sein': 1, ', diesen': 1, '. Nun': 1, 'dass': 1, 'gezwungen': 1, 'Edward': 1, 'und Stärke seines': 1, 'unterscheidet': 1, 'ein starkes': 1, 'Bord': 1, '„Wir': 1}

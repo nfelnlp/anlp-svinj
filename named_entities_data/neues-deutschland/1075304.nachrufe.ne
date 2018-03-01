@@ -1,0 +1,1 @@
+{'Carmen Franco Polo': 1, 'Carmen Franco Polo 14': 1, '» Carmencita «': 1, ',': 1, 'spanischen Diktators': 1, 'Franco .': 1, 'Parlament': 1, 'Ultrarechten': 1, 'Franco ließ': 1, 'vor , mit': 1, 'dessen': 1, 'verfrachtet': 1, ', und hatte': 1, 'eigenen Bett': 1, 'eine': 1, 'mli Sue': 1, '1940 – 28': 1, 'Sue': 1, 'dem Titel': 1, '60er': 1, 'mit': 1, ', dem': 1}

@@ -1,0 +1,1 @@
+{'Es': 1, 'nur': 1, '31-Jährigen': 1, 'Mädchen': 1, 'Übel': 1, 'fraglos': 1, 'Schwarm': 1, 'alltäglichen Staunen': 1}

@@ -1,0 +1,1 @@
+{'Italien': 3, 'Sergio Mattarella': 1, 'Gentiloni und': 1, 'Partei ,': 1, 'Renzi ,': 1, '.': 1, 'Trump weit': 1, 'oder': 1, 'Jong-Un . Beginnen': 1, 'mit großem': 1, 'beschlossen': 1, 'auch um': 1, 'Gesetz ihren': 1, 'wurde': 1, 'Prozent': 2, 'dass': 1, 'haben': 1, 'das': 1, ',': 1, 'man': 1, 'Kultur': 1, ':': 1, 'im': 1, 'als': 1, 'war': 1}

@@ -1,0 +1,1 @@
+{'Rom/Wien/Brüssel': 1, 'Aus': 1, 'kommen': 1, 'hysterische': 1, 'den': 1, 'So': 1, 'er wolle': 1, 'diskutieren': 1, 'stammende': 1, 'es': 1, 'ein': 1, '”': 1, ',': 1, 'den Vorstoß als': 1, 'Und': 1, 'zu': 1, 'dagegen': 1, 'begrüßt': 1, 'Auf': 1, 'der': 1, 'des': 1, 'im': 1, '.': 1, 'FPÖ-Südtirolsprecher': 1}

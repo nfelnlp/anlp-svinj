@@ -1,0 +1,1 @@
+{'Bundeskongress': 1, '( ver.di': 1, 'steht': 1, 'den': 1, 'einen': 1, 'der': 2, 'beim 4.': 1, 'Folge': 1, 'sein': 1, 'sich': 1, 'ver.di seit': 1, '2001': 1, '(': 1, 'DPG': 1, 'Handel': 1, 'Banken': 1, 'der Deutschen': 1, 'Nach seiner zu erwartenden': 1, 'wird': 1, 'die': 1, 'und': 1}

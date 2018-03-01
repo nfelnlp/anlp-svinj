@@ -1,0 +1,1 @@
+{'Teile': 1, ',': 1, 'April': 1, 'verhandelte': 1, 'Höchstquoten': 1}

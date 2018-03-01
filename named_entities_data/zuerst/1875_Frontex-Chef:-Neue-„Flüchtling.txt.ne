@@ -1,0 +1,1 @@
+{'Passau': 1, 'Europa': 1, 'Frontex': 1, 'Leggeri': 1, 'muß es': 1, '.': 1, 'ein': 1, 'sowie': 1, 'Die': 1, 'nutzten': 1, 'chaotische': 1, '„Sie': 1, 'Durchschnitt': 1, 'demgegenüber': 1, 'geschlossen': 1, '„Seit': 1, 'über': 1, 'im': 1, 'die': 1, 'das': 1, 'gebe': 1, 'Über': 1, 'Auch': 1}

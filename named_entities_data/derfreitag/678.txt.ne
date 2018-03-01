@@ -1,0 +1,1 @@
+{'Elie Wiesel': 1, 'Im': 1, 'verstorben –': 1, 'einem': 1, 'führt uns': 1, 'Konzentrationslager von': 1, 'Heranwachsender': 1, 'Gründung': 1, 'im': 1, 'Erlebte': 1, 'und': 2, 'das': 1, ',': 1, 'einmal': 1, 'kann': 1, 'Ansehen .': 1, 'aus den': 1, 'den': 1, 'Deutschen': 1, ', die': 1, 'Politik und': 1}

@@ -1,0 +1,1 @@
+{'schon die': 1, 'weltweit': 1, '000': 1, 'meisten': 1, 'es': 1, 'Standorten': 1, 'gesamt': 1, 'Mitarbeitern': 1, 'Wir': 1, 'Das': 1, 'Daran': 1, 'Jahr': 1, 'Röll :': 1, 'Röll : »': 1, 'Jahren': 1, 'wirtschaftliche': 1, 'gibt': 1, 'mit': 1, 'Regelungen ?': 1, 'so Steinmaier': 1, 'der': 2, 'die': 1, 'ansonsten': 1, 'sie das': 1, ',': 1, 'den': 1}

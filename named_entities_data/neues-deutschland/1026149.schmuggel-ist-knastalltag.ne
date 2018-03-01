@@ -1,0 +1,1 @@
+{'des Männergefängnisses': 1, 'seit': 1, 'Frontal': 1, 'L. genannt .': 1, 'ihren Mithäftlingen werden': 1, 'nicht entschuldbare': 1, 'Frust': 1, 'in dem': 1, '«': 1, 'ein organisiertes Netzwerk': 1, 'des deutschen': 1}

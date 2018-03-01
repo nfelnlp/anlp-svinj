@@ -1,0 +1,1 @@
+{') hat': 1, 'auch': 1, 'von': 1, 'Ende': 1, 'auf': 1, 'auf 269,6': 1, '.': 1, 'die': 2, 'Druck': 1, 'Anleihenkäufe': 1, 'und': 1, 'mit mehreren': 1, 'der Richter': 1, 'gewichtige Gründe dafür ,': 1, 'Karlsruhe': 1, 'Luxemburger': 1, 'Vorrang': 1, 'Bundesverfassungsgericht': 1, 'wieder': 1, 'zurückgefahren': 1, 'bis wann': 1}

@@ -1,0 +1,1 @@
+{'Moskau/Damaskus': 1, 'Das': 1, 'sei': 1, 'Gebiet': 2, '. Dem': 1, 'facto': 1, 'aus': 1, 'daß': 1, 'Unabhängigkeit': 1, 'der': 1, 'des russischen': 1, 'des russischen Außenministeriums': 1, 'Behörden': 1, ',': 1, ', die': 1, 'an': 1, 'Staat “': 1, 'ausgingen': 1, 'Territorium': 1, 'gelangen': 1, 'daß ihre': 1, 'nicht': 1, '(': 1}

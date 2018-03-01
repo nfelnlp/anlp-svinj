@@ -1,0 +1,1 @@
+{'Andersen/': 1, 'Getty': 1, 'Als': 1, ',': 3, 'der Überschrift': 1, '“': 1, 'sein': 1, 'meine eigenen': 1, 'allen': 1, '. Dort': 1, 'Jahren': 1, 'dem': 1, 'Schöneberg ,': 1, 'schwuler': 1, 'an': 1, 'eingerichtet .': 1, 'vor': 1, 'Peter Gente': 1, '–': 1, '„Lesbenfriedhof “': 1, 'endlich auch': 1}

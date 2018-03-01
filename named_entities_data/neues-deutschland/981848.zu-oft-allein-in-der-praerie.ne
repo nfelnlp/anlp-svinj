@@ -1,0 +1,1 @@
+{'Gewerkschaften in': 1, 'es': 1, 'vor 15': 1, 'Bedingung': 1, 'Beachtung': 1, '.': 1, 'Georgetown-Universität in': 1, 'in der im': 1, 'der': 2, 'der Friedrich-Ebert-Stiftung': 1, 'bröckelnden Tarifsystems ? Gewerkschaften und': 1, 'der US-Bevölkerung': 1, 'gewerkschaftlich': 1, 'nur': 1}

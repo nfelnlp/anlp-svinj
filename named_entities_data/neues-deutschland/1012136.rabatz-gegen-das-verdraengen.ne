@@ -1,0 +1,1 @@
+{'Gebirgsjäger': 1, 'Kreta': 2, 'Robert Andreasch': 1, 'Rabatz': 1, '.': 1, 'zum': 1, 'zu': 1, 'die Verbrechen': 1, 'Hearing': 1, '» Rabatz': 1, '» Rabatz «': 1, 'im': 1, 'der Bad': 1, 'Tagung': 1, 'vom': 1, 'an': 1}

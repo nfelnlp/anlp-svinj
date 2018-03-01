@@ -1,0 +1,1 @@
+{'klärte': 1, 'Landesvorstand': 1, 'Landesvorstand der': 1, 'Landesvorstand der Linkspartei': 1, 'Landesvorstand der Linkspartei Schleswig-Holstein': 1, 'selbstverständlich': 1, ',': 2, 'Personen handelt': 1, 'in den': 1, '. Spae\xadmann': 1, 'Spaemann': 1, 'sondern': 1, 'jedem mit': 1, 'verwendet': 1, 'Spätabtreibung': 1, 'in': 1, 'mit': 1, 'oder behindertes': 1, 'Diagnose': 1}

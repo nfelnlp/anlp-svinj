@@ -1,0 +1,1 @@
+{'Images Müssen': 1, 'den': 2, 'Bundestag': 1, '.': 2, '. Was': 1, 'Beschäftigten': 1, 'oder': 1, 'aus': 1, 'durchlaufen': 1, 'und': 2, 'diese': 1, 'einen': 1, 'Zustand': 1, 'auf': 1, 'hinkt': 1, 'seit': 1, 'hinterher': 1, 'Das': 1, 'Verhandlungsführer': 1, 'breite': 1}

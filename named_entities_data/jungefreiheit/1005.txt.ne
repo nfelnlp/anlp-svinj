@@ -1,0 +1,1 @@
+{'Redaktion': 1, 'Schwall': 1, 'sich': 1, ',': 2, 'des': 1, 'von': 1, 'wäre dann': 1, '``': 1, 'klarer': 1, 'Bewegung': 1, 'untersuchten': 1, 'den Medien': 1, 'der': 1, 'das': 1, '.': 1, 'Vorsilben-Fetischismus': 1, 'geradezu': 1, ':': 1, 'hier': 1, "''": 2, 'öffentlich entschuldigen': 1, 'Prozeß': 1, 'Völlig bedeutungslos wird': 1}

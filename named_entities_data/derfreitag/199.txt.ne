@@ -1,0 +1,1 @@
+{'doch überraschend': 1, '.': 2, ',': 1, 'geschafft': 1, 'man': 1, 'Recht': 1, 'Wer': 1, 'eins': 1, 'und': 1, 'Es': 1, 'unendlich': 1, 'hat': 1, 'InMove-Chef': 1, 'untertauchen': 1, 'hilft es ,': 1, 'zum': 1, 'für': 1}

@@ -1,0 +1,1 @@
+{'Homosexuellen-Ehe': 1, 'Mitte Mai': 1, 'Literatur-Nobelpreisträger Günter': 1, 'heißt es': 1, 'Frage': 1, 'Menschen': 1, '– hier': 1, 'sie': 1, 'Berührungen': 1, 'wird .': 1, 'noch': 1, 'haben': 2, 'ausdrücklich': 1, 'Der': 1, 'schlechte': 1, 'Pan- , Inter-': 1, 'Asexualität kämen': 1, ',': 1, 'das': 1, ')': 1, 'die Hefte in': 1, 'Sie hier': 1}

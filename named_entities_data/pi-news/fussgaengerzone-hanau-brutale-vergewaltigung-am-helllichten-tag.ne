@@ -1,0 +1,1 @@
+{'der': 1, '“': 1, 'müssen': 1, 'scheuen': 1, 'mehr': 1, 'Polizei': 1, 'deutschen': 1, 'Bevölkerung': 1, 'mitten': 1, 'weiter': 1, 'und': 1, 'gemeinsamen': 1, 'hieß es': 1, 'Eine': 1, 'Frauen': 1, '6.30': 1, 'von': 1, 'sie': 1, 'einem': 1, 'so': 1, '„Mann': 1, 'dunklen': 1, 'Schuhen': 1, 'Verfahren': 1, '15': 1}

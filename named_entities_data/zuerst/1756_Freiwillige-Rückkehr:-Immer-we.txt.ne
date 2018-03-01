@@ -1,0 +1,1 @@
+{'Berlin': 1, 'aus': 1, 'ihr': 2, 'Serbien': 1, 'Irak': 1, 'Kosovo': 1, 'Mazedonien': 1, 'Afghanistan': 1, 'Die': 1, 'Afghanen': 1, 'Jahr': 1, '( IOM )': 1, ',': 1}

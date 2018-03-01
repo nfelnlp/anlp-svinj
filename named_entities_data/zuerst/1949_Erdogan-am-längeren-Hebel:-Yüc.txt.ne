@@ -1,0 +1,1 @@
+{'Ankara': 2, 'türkische': 1, 'Recep Erdogan': 1, 'Berlin': 1, 'Deniz Yücel': 1, 'Ankara ausliefert': 1, 'TGRT': 1, 'Erdogan': 2, 'einer': 1, ':': 1, 'Zu': 1, ',': 2, ', sagte Erdogan': 1, 'auf': 1, 'aufzuheben': 1, 'terroristischen': 1, 'Ihm': 1, 'hinaus': 1}

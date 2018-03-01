@@ -1,0 +1,1 @@
+{'. Unter': 1, '26.': 1, ',': 2, '.': 1, 'und': 1, 'europäischen': 1, 'von': 1, 'einer der': 1}

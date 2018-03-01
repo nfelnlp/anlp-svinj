@@ -1,0 +1,1 @@
+{'Bern': 1, 'Schweizer': 1, 'Somalia': 1, 'Äthiopien': 1, 'Elfenbeinküste': 1, 'Dominik Langenbacher': 1, '„Flüchtlings': 1, 'es': 1, 'Diamanten': 1, 'gefestigte': 1, 'das': 1, 'könnten': 1, 'korrekterweise': 1, '„Nach': 1, '“': 1, 'zu': 1, 'wüßten': 1, 'Afrikaner': 1, 'gebe': 1}

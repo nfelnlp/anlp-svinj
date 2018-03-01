@@ -1,0 +1,1 @@
+{'Stuttgart': 1, 'Bürgerbewegung Pax Europa': 1, 'Stuttgart-Weil': 1, 'sind': 1, 'Erstarken': 1, 'argumentiert': 1, 'den': 1, 'sagt': 1, 'was': 1, 'Demos': 1, 'den Moscheebau': 1, 'auch': 1, 'der': 1, 'der ganz': 1, 'Spionage': 1, 'mit': 1, 'aufnehmen': 1}

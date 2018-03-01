@@ -1,0 +1,1 @@
+{'eine Leitkultur': 1, '? Ein': 1, 'schon': 1, 'dazu': 1, ',': 2, 'waren': 1, 'ist': 1, 'eine': 1, 'des': 1, '!': 1, 'dagegen': 1, 'die': 1, 'begründet': 1, ')': 1, '.': 1, 'mobilisieren': 1, '?': 1, 'längst': 1}

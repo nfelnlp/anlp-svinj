@@ -1,0 +1,1 @@
+{'Wien': 1, 'EU-Grenzen': 1, 'Peter': 1, 'Militärallianz aus der': 1, 'verwarf': 1, 'als': 1, 'müssen': 1, 'intensiv': 1, 'sein': 1, 'vorgebliche': 1, 'humanitären': 1, 'Soldaten': 1, 'Länder': 1, 'müsse außerdem': 1, 'Rückführungsbeauftragter': 1}

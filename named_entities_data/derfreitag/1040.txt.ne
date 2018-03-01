@@ -1,0 +1,1 @@
+{'Peter Atkins/Fotolia': 1, 'Sean': 1, 'Images Sie': 1, 'zu': 2, 'Von': 1, 'der': 1, 'engagiert': 1, 'Pessimist': 1, 'Chance': 1, 'einer': 1, 'für': 1, 'unter': 1, 'entscheidenden': 1, 'Arbeit': 1, 'Ob': 1, 'etwas': 1, 'in': 1, '–': 1, 'Osteuropa': 1, ',': 1, 'scharf': 1, 'vielen': 1, 'längst': 1, 'wie': 1, 'frei': 1, 'die Hälfte': 1, 'Arbeitnehmer und': 1, 'die': 1}

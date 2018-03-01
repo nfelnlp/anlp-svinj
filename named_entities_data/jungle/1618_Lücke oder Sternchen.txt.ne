@@ -1,0 +1,1 @@
+{'Sven Simon': 1, 'Sprachforscherin promoviert': 1, 'Technology in Trondheim . Es': 1, 'vor': 1, 'zur': 1, 'geben': 1, 'was': 1, 'Deutsche Sprache': 1, 'im Forschungsprojekt': 1, 'und hat': 1, 'gebe': 1, 'im': 2, '29jährigen': 1, 'Prozent': 1, '–': 1, '.': 1, 'sich': 1, 'Blick': 1, 'das': 1, 'Durchsetzung': 1, 'etwa': 1, 'durchsetzen': 1, 'werde': 1}

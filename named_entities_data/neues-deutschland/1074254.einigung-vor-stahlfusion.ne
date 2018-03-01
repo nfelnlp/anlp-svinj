@@ -1,0 +1,1 @@
+{'.': 2, '. Der': 1, 'nach': 2, 'Tata': 1, 'Nach': 1, 'weitreichende': 1, 'hatte den': 1, 'hält': 1, 'durch': 1, 'Zusammenlegung': 1, 'wurde': 1, 'Angaben': 1, 'aufgenommen': 1, 'die': 1, 'derzeitige': 1, '?': 1}

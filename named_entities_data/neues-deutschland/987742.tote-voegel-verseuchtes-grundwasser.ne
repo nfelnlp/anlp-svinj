@@ -1,0 +1,1 @@
+{'Guatemala': 2, 'Knut Henkel': 1, 'Polizei-Pickups': 1, ', wenige Kilometer nordöstlich': 1, 'Agrarregion mit viel': 1, 'Der 49-jährige': 1, 'ist einer': 1}

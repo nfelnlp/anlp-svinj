@@ -1,0 +1,1 @@
+{'Ankara': 1, 'Türkei': 1, 'MIT': 1, 'in die': 1, 'die nach': 1, '9.103': 1, '.': 2, 'Zentrum der': 1, 'größten Behörden': 1, 'Suspendierungen': 1, 'es': 1, 'im': 2, 'dem in': 1, 'Visier': 1, 'politisch': 1, 'Eingeständnis für Schlagzeilen ,': 1, '„EurActiv': 1, 'Gülen': 1, 'unterstützt .': 1, 'kooperiere': 1, 'der': 1}

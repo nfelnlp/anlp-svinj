@@ -1,0 +1,1 @@
+{'.': 1, '. In': 1, 'wieder': 1, 'im vergangenen Jahr in': 1, 'sich an': 1, 'Arbeit': 1}

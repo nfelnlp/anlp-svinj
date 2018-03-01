@@ -1,0 +1,1 @@
+{'Moskau': 1, 'Rußland': 1, 'Trump': 1, 'Kreml-Berater': 2, 'in einem': 1, 'sind': 1, 'das': 1, 'Militärmacht': 1, 'Benutzung': 1, ',': 2, '.': 1, 'Haus angesprochen': 1, 'über': 1, 'er': 1, 'Amerikas': 1}

@@ -1,0 +1,1 @@
+{'Washington': 1, 'und seinem': 1, 'kriselt es weiter': 1, '–': 1, 'auf': 2, 'August': 1, 'verlassen und': 1, 'hat sich': 1, 'Grund dafür': 1, 'Jr.': 1, 'Woche erscheinenden': 1, 'der Rußland-Affäre': 1, '.': 2, 'nichts': 1, 'zu tun': 1, '”': 1, 'Seine Kritik': 1, 'auf ein': 1, 'Anwältin mitten': 1, 'ging': 1, 'wegen der vermeintlichen „Rußland-Affäre': 1, 'der': 1}

@@ -1,0 +1,1 @@
+{'aus dem': 1, 'der': 1, '. »': 1, 'CGT -': 1, 'Gewerkschaft': 1, '. » Doch mit': 1, 'weniger': 1, ', die': 1, 'den': 1}

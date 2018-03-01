@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Wien': 1, ', der': 1, 'hat': 1, 'Gesichtsverhüllungsgesetz': 1, ',': 1, '.': 1, 'sich': 1, 'ins': 1, 'am': 1, 'folgte': 1, 'des': 1}

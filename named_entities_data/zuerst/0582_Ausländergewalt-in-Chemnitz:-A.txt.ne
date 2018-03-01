@@ -1,0 +1,1 @@
+{'Gesellschaft 9': 1, 'Gesellschaft 9 Chemnitz': 1, 'und': 1, 'Polizisten': 1, '„': 1, 'drei': 1, 'zu': 1, 'Nach': 1, 'Verdachts': 1}

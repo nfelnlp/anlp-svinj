@@ -1,0 +1,1 @@
+{'JF': 1, 'von Schrenck-Notzing herausgegebene': 1, 'und': 1, 'die': 1, 'Zweifeln': 1, 'Chefredakteur': 1, 'deutlich erhöht': 1, '``': 1, 'dabei': 1, '. Gewalttätige Übergriffe': 1, 'Oktober': 1, 'kam': 1, 'in': 1, 'der': 2, 'durch': 1, 'Zimmerstraße': 1, ',': 1, 'zur': 1, 'Nicht': 1, 'Bereits in den': 1, 'hatte': 1, 'diesem': 1, 'selbstverständlich': 1, 'einem': 1}

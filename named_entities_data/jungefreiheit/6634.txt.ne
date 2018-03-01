@@ -1,0 +1,1 @@
+{'üppigen': 1, '.': 1, 'erst': 1, 'den': 1, 'würden': 1, 'nicht mehr oder': 1, 'schließlich': 1, 'in': 2, 'die': 1, 'die unausweichliche': 1, 'das': 1, 'Die unausweichliche Folge': 1, 'Wenn': 1, 'steil': 1, 'Vermögen': 1, 'nach': 1, 'Gold': 1, 'und': 1, 'der': 1}

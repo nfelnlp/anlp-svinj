@@ -1,0 +1,1 @@
+{'PETER M. MESSER |': 1, 'verglichen': 1, 'Ditfurth ,': 1, 'nach': 1, 'den': 1, ':': 1, ',': 4, 'bestreiten': 1, 'nicht wirklich': 1, 'oder': 1, 'die': 1, 'jedoch': 1, 'fiel': 1, 'als': 1, 'diese': 1, 'schade': 1, 'AfD': 2, 'wirklich': 1, 'immer': 1, 'dass': 1, 'sie': 1, 'also': 1, 'Möglichkeit': 1, 'vielleicht': 1, 'ein': 1}

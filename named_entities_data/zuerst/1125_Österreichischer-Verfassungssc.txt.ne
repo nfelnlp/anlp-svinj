@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Wien': 1, 'Bundesamt': 1, 'BVT': 1, 'sich': 1, 'Anteil': 1, 'und': 1, 'möglicherweise': 1, 'der': 2, ',': 2, 'BVT-Jahresberichts .': 1, 'Die': 1, 'zahlreichen': 1, 'vor': 1, 'berichtete': 1}

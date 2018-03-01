@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Deutschland seien': 1, 'hat': 1, '.': 1, 'In': 1, 'sich': 1, 'den': 1}

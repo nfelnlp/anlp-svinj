@@ -1,0 +1,1 @@
+{':': 1, 'Montanmitbestimmungsgesetz': 1, 'und': 1}

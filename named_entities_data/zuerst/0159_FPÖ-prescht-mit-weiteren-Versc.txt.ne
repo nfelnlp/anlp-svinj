@@ -1,0 +1,1 @@
+{'Wien': 1, 'Österreich': 1, 'ÖVP-/FPÖ-Regierung': 1, 'die': 1, '.': 1, 'Vorschlag': 1, 'melden': 1, 'für nächtliche Ausgangssperren für': 1, 'starkgemacht': 1, 'Toni': 1, 'Mahdalik': 1, '„Die Anwesenheitspflicht': 1, 'flexibel': 1, 'Abschluß': 1}

@@ -1,0 +1,1 @@
+{'Erstmals': 1, 'in Vösendorf': 1, 'Wien': 1, 'traditionelles': 1, 'der': 2, 'es': 1, 'Jahren': 1, 'die': 1, 'Und': 1, ',': 2, 'räumte': 1, 'ihr': 1, 'umsetzen': 1, ']': 1, 'machen .': 1, 'die haben wir nicht': 1, 'werde': 1, 'sollte': 1, 'radikale': 1}

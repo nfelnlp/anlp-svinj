@@ -1,0 +1,1 @@
+{'FDP': 2, 'Rot': 1, 'noch': 1, 'Erde': 1, 'in Deutschland ist': 1, ',': 1, 'lütter…': 1, '’': 1, 'drum': 1, 'Und': 2, 'Fürsorgepflicht': 1, '“': 1, 'so der FDP heuchelnd': 1, 'in': 1, ':': 1, 'stets den': 1, 'die': 1, 'Mammas Kosten ,': 1, '(': 2, '.': 1, 'West': 1, 'Warum': 1, '1': 1, 'Tschullergung': 1, 'ist': 1}

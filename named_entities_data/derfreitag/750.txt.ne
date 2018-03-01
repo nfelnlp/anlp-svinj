@@ -1,0 +1,1 @@
+{'Rentz': 1, 'Steinbrück': 1, 'Berlin': 1, 'Antonis': 1, 'Nea': 1, 'Nea Dimokratia': 1, 'Samaras': 2, 'Griechenland': 2, 'SPD-Kanzleraspiranten': 1, 'Irland': 1, 'demnächst': 1, 'ergänzt': 1, 'Als': 1, 'mit': 1, ', wäre': 1, ',': 3, 'Lage': 1, 'gönnen': 1}

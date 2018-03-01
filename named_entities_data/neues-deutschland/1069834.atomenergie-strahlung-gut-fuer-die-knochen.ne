@@ -1,0 +1,1 @@
+{'Türkei': 4, 'AKW': 1, 'Erdbebengebieten': 1, 'Nelli': 1, 'Provinz Mersin': 1, 'Akkuyu': 1, 'Rosatom': 1, 'Shinzo Abe': 1, 'Recep Tayyip Erdoğan': 1, 'Sinop': 1, 'japanische': 1, 'japanische Mitsubishi Heavy Industries': 1, '...': 1}

@@ -1,0 +1,1 @@
+{'am': 2, 'am Main . Verhandeln statt': 1, 'VC': 1, 'Lufthansa': 1, 'einem': 1, 'streiken': 1, 'Lufthansa Cargo und Germanwings': 1, 'die': 1, 'nach': 1, 'gemeinsame': 1, 'dpa/nd': 1, 'Artikel': 1}

@@ -1,0 +1,1 @@
+{'London/Kinshasa': 1, 'Während': 1, 'Denn': 1, 'und': 1, 'erster': 1, 'ausführlich': 1, 'berichtete': 1, 'berichtete ,': 1, 'zum Teil erst': 1, 'Elektroautoproduzenten': 1, 'Handy': 1, 'ist': 1, 'Vorräte': 1}

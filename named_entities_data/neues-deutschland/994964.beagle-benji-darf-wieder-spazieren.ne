@@ -1,0 +1,1 @@
+{'Beagle': 1, 'Hundeverbot': 1, 'Kirschey': 1, 'Steglitz-Zehlendorf hatte im': 1}

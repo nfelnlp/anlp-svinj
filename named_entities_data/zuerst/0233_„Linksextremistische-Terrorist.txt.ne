@@ -1,0 +1,1 @@
+{'Berlin': 1, '–': 1, '“ neben': 1, 'Satz': 1, 'den': 1, 'Vorzeigefaschisten Hans-Martin Schleyer': 1, 'wie es im Text': 1, 'jeder Widerstand': 1, 'Gefahr': 1, '„Diese': 1, ', diffamierend': 1, 'das': 1}

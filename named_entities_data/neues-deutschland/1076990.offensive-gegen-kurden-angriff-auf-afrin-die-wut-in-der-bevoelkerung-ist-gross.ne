@@ -1,0 +1,1 @@
+{'Syrischen Armee': 1, 'türkischen': 1, 'Rojava': 1, 'Würden': 1, 'ich': 1, 'sage': 1, '.': 1, ',': 1, 'auf': 1, 'Afrin ist': 1, 'Rest': 1, 'das': 1, 'Vergangenheit': 1, 'bei': 1, ', sie': 1, 'andere': 1, 'einschreiten': 1, 'Wir': 1, 'zu': 1, 'eine Flugverbotszone': 1, 'eine Flugverbotszone ,': 1, 'Anti-IS-Koalition': 1, 'als': 1, 'und': 1, 'der': 1, 'aktiv .': 1}

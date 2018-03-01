@@ -1,0 +1,1 @@
+{'Moskau': 1, 'Syrien-Konflikt': 1, 'Vorwand': 1, '„Nach': 1, 'syrischen': 1, 'werden .': 1, 'weist': 1, 'mitgeteilt': 1, 'die': 1, 'Regierungsarmee': 1, 'syrische': 1, ',': 1, 'einem Gegenschlag': 1, '.': 1, 'es': 1, 'militärische': 1, 'verwendet': 1}

@@ -1,0 +1,1 @@
+{'Maureen Ohlhausen .': 1, 'unabhängige Bundesbehörde': 1, 'hatte': 2, 'über': 1, ',': 3, 'nach': 1, 'denen': 1, 'und': 1, 'Bewertungen': 1, 'Markierungen': 1, 'zudem darauf': 1, 'Nutzern': 1, 'seiner Familie': 1, '.': 1, 'auf zu': 1}

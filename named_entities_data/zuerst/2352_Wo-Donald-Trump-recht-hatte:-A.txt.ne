@@ -1,0 +1,1 @@
+{'Stockholm': 1, ', der': 1, 'Schweden': 1, 'haben': 1, 'für': 1, '–': 1, 'Auch': 1, 'und': 1, ',': 2, 'FoxNews': 1, 'in': 1, 'Ami': 1, 'Einwanderung und': 1, 'die': 1, '.': 1, 'im': 1, 'immens': 1, 'sehr': 1}

@@ -1,0 +1,1 @@
+{'Bukarest/Brüssel': 1, 'Nachdem': 1, 'Einleitung': 1, 'Denn': 1, 'drohender Einschränkungen': 1, 'und': 1, 'ebenfalls': 1, 'rumänische': 1, 'nach': 1, 'von': 1, ')': 1, 'Jetzt': 1, 'einer': 1, 'Polens': 1, 'Johannis': 1, 'Folgen': 1, 'sie': 1, 'Ermittlungsschritte': 1, 'Gefahr': 1, 'Union': 1}

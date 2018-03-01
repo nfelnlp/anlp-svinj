@@ -1,0 +1,1 @@
+{'Budapest': 1, 'echauffieren , kommt': 1, 'ausgerechnet aus': 1, 'Auch': 1, 'Soros': 1, 'Organisationen': 1, 'Land': 1, 'wenig': 1, 'gegen': 1, 'NGOs': 1, 'nach': 1, 'er': 1, 'Republik': 1, 'Vorfeld': 1, 'Kritik': 1, 'Kritik an': 1, 'Ministerpräsidenten': 1, 'nur': 1, 'der': 1, 'sich': 1, ',': 1, 'des': 1, 'gegen illegale': 1, 'aus': 1}

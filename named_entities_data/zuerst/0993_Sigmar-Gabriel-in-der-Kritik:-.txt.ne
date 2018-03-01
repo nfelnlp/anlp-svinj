@@ -1,0 +1,1 @@
+{'Gesellschaft 0 Berlin': 1, 'Sigmar Gabriel': 1, 'SPD': 1, 'Union': 1, 'Interview': 1, 'laut': 1, ',': 1}

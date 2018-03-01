@@ -1,0 +1,1 @@
+{'Wien': 1, 'Weg': 1, '„Flüchtlingspakt': 1, 'will': 1, 'Außengrenzschutz': 1, 'daß': 1, 'sind': 1, 'Doskozils': 1, 'der': 1, 'Unterstützung': 1, 'oder': 1, 'dies': 1, 'Gesetzeslage': 1, 'möglich': 1, 'für': 1}

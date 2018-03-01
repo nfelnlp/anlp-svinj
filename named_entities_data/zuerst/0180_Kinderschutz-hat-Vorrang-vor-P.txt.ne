@@ -1,0 +1,1 @@
+{'Warschau': 1, 'Brüssel': 1, 'ins': 1, 'unter': 1, '–': 1, 'Justizminister': 1, 'Die Einsicht': 1, 'mit': 1, 'oder': 1}

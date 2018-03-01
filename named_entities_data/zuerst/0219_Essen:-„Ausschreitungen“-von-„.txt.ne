@@ -1,0 +1,1 @@
+{'Essen': 1, 'abgesetzt': 1, 'abgesetzt .': 1, 'für': 1, 'werden': 1, 'Mhallami-Libanesen mit „erheblich': 1, 'dem': 1, 'Thomas': 1}

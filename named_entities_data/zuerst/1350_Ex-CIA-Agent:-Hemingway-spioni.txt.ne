@@ -1,0 +1,1 @@
+{'New': 1, 'New York': 1, 'US-Bestsellerautor': 1, 'Hemingway ( 1899': 1, 'Lebemann': 1, 'Reynolds': 1, 'jetzt ein': 1, '„Writer': 1, 'Adventures ,': 1, 'Buches': 1, 'sein': 2, 'überzeugter': 1, 'sollen der': 1, '.': 1, ',': 1, 'mit': 1, 'verstand': 1, 'so': 1, 'seine': 1}

@@ -1,0 +1,1 @@
+{'Göttingen': 2, 'Bremen': 1, 'Verena Kern': 1, 'deutsche': 1, 'Grünen': 1, 'CDU': 1, 'St': 1}

@@ -1,0 +1,1 @@
+{',': 4, 'Seibert': 1, 'der sich': 1, 'ganz': 2, 'für': 1, 'Züge': 1, 'Rózsa': 1, 'eine': 1, 'Auch er': 1, '.': 1, 'lebt': 1, 'und': 2, 'wieder': 1, 'Nina Röttgers': 1, 'wurden . Letztere': 1, 'Klaus': 1, 'und kamen': 1, 'von': 2, 'des': 1, 'mitgetragen': 1, 'als': 1, 'wusste ,': 1, 'die': 1, 'auch auf': 1, 'Klaus Rózsa': 1, 'Aktivismus ,': 1}

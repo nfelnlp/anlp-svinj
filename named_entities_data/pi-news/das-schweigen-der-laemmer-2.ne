@@ -1,0 +1,1 @@
+{'Selberdenker': 1, 'Das': 1, 'im': 1, 'die': 1, 'Massen in': 1, 'ist': 1, '.': 2, 'nicht': 1, 'Terror': 1, 'Ländern': 1, 'Seltenheit': 1}

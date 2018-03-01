@@ -1,0 +1,1 @@
+{'Kairo': 1, 'Ägypten': 1, '(': 1, ',': 2, '‘': 1, '‘ haben': 1, 'Angriffe': 1, 'ausgeführt.': 1, 'Auch': 1, '.': 2, 'den': 1, 'Sicherheitsrat ein und': 1, 'solle': 1, 'solle die': 1, 'Das': 1, 'und': 1, 'in einem': 1, 'die': 1, 'im': 1, 'Millionen Einwohner': 1, 'in': 1}

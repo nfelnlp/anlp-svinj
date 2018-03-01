@@ -1,0 +1,1 @@
+{'Straßburg': 1, 'Europäische Gerichtshof': 1, 'Belgien': 1, 'öffentlichen': 1, 'seit': 1}

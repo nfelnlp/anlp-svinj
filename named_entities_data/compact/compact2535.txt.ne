@@ -1,0 +1,1 @@
+{'Idomeni': 1, 'der': 1, 'Montag': 1, 'ein': 1, '–': 2, 'Balkanroute rigoros': 1, 'ist': 1, 'Mittwoch': 1, ',': 1, '.': 2, 'Stunden raus': 1, 'Fotograf': 1, 'von': 1, 'europäisch': 1, '„March': 1, 'Team': 1, 'die Berliner': 1, 'Verein': 1, 'ausschließt': 1, 'muss': 1, 'jenen': 1, 'die': 1, 'Premier .': 1, '„Die unsichtbare': 1, 'ASYL . DAS CHAOS .': 1}

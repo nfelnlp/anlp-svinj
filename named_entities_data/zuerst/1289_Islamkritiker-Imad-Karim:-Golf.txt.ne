@@ -1,0 +1,1 @@
+{'Stuttgart': 1, 'gewarnt .': 1, 'laut Berichten des': 1, 'Jahren': 1, 'Jahren bis': 1, 'Jahren bis zu': 1, ': „Auch': 1, ',': 1, 'bis': 1, 'daß': 1, 'Emirate': 1, 'ausgewiesen und kamen': 1, 'dem': 1, 'der': 1, 'Bevölkerung': 1, 'schreitet die': 1, 'mü': 1, 'Bildquelle': 1}

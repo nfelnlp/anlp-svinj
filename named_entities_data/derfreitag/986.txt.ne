@@ -1,0 +1,1 @@
+{'diesem': 1, 'mehr': 1, 'aufzubauen': 1, 'so': 1, 'Geschafft': 1, 'sogar': 1, 'zu': 1, 'NGOs': 1, 'Diese': 1, 'angezogen': 1, 'der': 1, 'schon': 1, 'bei': 1, 'Gegenteil': 1, 'Dominanz': 1, 'Fleißigsten': 1, 'die': 1, 'Auswüchse': 1, 'Mitteln': 1, 'er': 1}

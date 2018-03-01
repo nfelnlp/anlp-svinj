@@ -1,0 +1,1 @@
+{'Uns von': 1, 'auf': 1, 'dem': 1, 'Gemeinde': 1, 'steht': 1, 'Die': 1, 'unserem Flyer': 1, 'Gewaltanwendung gegenüber': 1, 'Ali Bardakoglu': 1, ', so': 1, 'Moslems zum': 1, 'Bardakoglus': 1, 'zu': 1, 'spricht seine': 1, 'die': 1, 'vertrauen': 1, 'Diskussion': 1}

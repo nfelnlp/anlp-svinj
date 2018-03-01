@@ -1,0 +1,1 @@
+{'Caen': 1, 'Charly Triballeaud/AFP/Getty': 1, 'Worüber': 1, 'man': 1, 'Dieser': 1, 'ein ,': 1, 'Valls auf Tour': 1, 'Land': 1, 'Land zu schicken': 1, 'Die': 1, 'den': 2, 'von': 1, 'ausführt': 1, 'ausspielen': 1, 'beschäftigen': 1, '.': 2, 'Nachteil': 1, 'die Konsumenten': 1}

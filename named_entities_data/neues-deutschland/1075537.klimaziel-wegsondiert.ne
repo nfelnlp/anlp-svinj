@@ -1,0 +1,1 @@
+{'. Die': 1, 'SPD': 2, 'das': 1, 'Berlin': 1, 'Sondierungsgruppe': 1, 'Energie': 1, 'vorliegende': 1, ',': 1, 'niedersächsischen': 1, 'Stephan Weil': 1, 'Thomas Kreuzer': 1, 'Arbeitsgruppe': 1, 'am': 1, 'Sechserrunde der': 1, 'bis 2020': 1, 'werde': 1, 'Wahlversprechen': 1, 'Ziel unmittelbar': 1, 'warf': 1, 'auch SPD-Chef Martin': 1, 'noch': 1, 'zugesichert': 1}

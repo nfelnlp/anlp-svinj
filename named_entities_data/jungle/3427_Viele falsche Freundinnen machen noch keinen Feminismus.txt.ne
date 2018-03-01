@@ -1,0 +1,1 @@
+{'Veronika': 1, 'Dworkin und': 1, ',': 1, 'Williams lieferten': 1, 'Strossen ,': 1, 'war': 1, 'Schwarzer ,': 1, 'dass': 2, 'stellen das': 1, 'einer': 1, 'ihn': 1, 'Wunsch': 1, 'schlechten': 1, 'bei': 1, 'selbst': 1, 'dieser Stelle': 1, 'Palästinenserinnen und': 1, 'des': 1, 'Pinkwashing': 1, 'Demisexualität': 1, 'schmerzlich': 1, 'Allgemeinen': 1, 'Genitalien': 1, 'zu': 1}

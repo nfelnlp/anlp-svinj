@@ -1,0 +1,1 @@
+{'Obama': 3, 'Romney': 5, 'Obama haushoch': 1, ',': 1, 'dazu': 1, 'Öffentlichkeit': 1, 'in': 1, 'Testfragen': 1, 'gab': 1, 'die': 2, 'landauf landab': 1, 'hatte': 1, 'seine': 1, 'Er': 1, 'Kenntnis': 1, '“ , einem': 1, 'mußte': 1, 'nicht haushoch': 1}

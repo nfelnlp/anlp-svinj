@@ -1,0 +1,1 @@
+{'Joaquín Vásquez': 2, 'Lenín Moreno': 1, 'Interview': 1, 'und Besitzer': 1, 'neuer Präsident': 1, 'sieht die': 1, 'die Verteilung': 1, 'Die': 1, 'sind': 1, 'Landkonflikte': 1, ',': 2, 'eine': 2, 'Bei den': 1, 'es hat': 1, 'Mann des': 1, 'zu': 1, 'der': 2, 'Dialogs': 1, 'auch': 1, '.': 1, 'sich': 1, 'muss': 1}

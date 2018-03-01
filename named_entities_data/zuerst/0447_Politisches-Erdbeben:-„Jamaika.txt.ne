@@ -1,0 +1,1 @@
+{'Berlin': 1, 'Union': 1, 'FDP': 3, 'Grünen': 1, 'SPD': 1, 'Linke': 1, 'facto': 1, 'Frank Walter Steinmeier': 1, 'verhandelt': 1, 'ab': 1, 'mit': 1, 'bräuchte': 1, 'aber': 1, '.': 1, 'sie': 1, 'auch': 1}

@@ -1,0 +1,1 @@
+{'Washington': 1, 'US-Präsident': 1, 'erneut eine': 1, '”': 1, '„New York': 1, '„und viele mehr ”': 1, 'Trump': 1, 'Donnerstag': 1, 'bekannten': 1, 'sagt Rush': 1, '! ”': 1, 'Er': 1, 'sagte': 1}

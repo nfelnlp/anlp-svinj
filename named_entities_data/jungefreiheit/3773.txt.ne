@@ -1,0 +1,1 @@
+{'Die': 1, 'Schlachtviehs': 1, 'Deutschland': 1, 'in': 1, 'Beziehung': 1, "''": 2, ')': 1, 'der deutschen und': 1, 'Fleischproben': 1, '``': 1, 'die': 1, 'reichen': 1, 'brauchte man ,': 1, 'durch': 1, 'den': 1, '.': 1, 'der': 1, 'bedeutet': 1, 'Frage': 1, 'Weltagrarpolitik': 1, 'anerkanntes': 1, 'wenn': 1, 'aller': 1, 'hinsichtlich': 1, 'und': 1}

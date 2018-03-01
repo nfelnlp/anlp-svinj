@@ -1,0 +1,1 @@
+{'flexibler': 1, 'sein': 1, 'öffentlichen': 1, 'Doch': 1, 'es': 1, 'gibt': 1, 'wegfallen': 1, 'die': 1, 'wie': 1, 'Ihr': 1, ',': 1, 'Millionen': 1, 'interpretiere': 1, 'viel stärker': 1, 'ein': 1, 'und': 1, 'das': 1, 'privaten Rentenversicherer': 1, 'der': 1, 'geben \x96': 1, '.': 2, 'quasi-eheliches': 1, 'geschaffen': 1, ':': 1}

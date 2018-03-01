@@ -1,0 +1,1 @@
+{'war für': 1, 'wie': 2, 'Vorschlag': 1, '.': 2, 'weiter auseinander': 1, 'Der': 1, 'großen': 1, 'auch \x84Kopfpauschale\x93': 1, 'werden\x93 .': 1, 'des': 1, 'für': 1, 'aber': 1, 'der': 1, 'GKV-Beitrag': 1, 'in': 1, 'von': 1, 'Euro': 1, 'Dem': 1}

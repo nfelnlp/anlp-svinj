@@ -1,0 +1,1 @@
+{'ist': 1, 'der Front': 1, 'AfD': 1, 'auch': 1, 'an': 1, 'aber': 1, 'ZAD': 1, 'halten': 1, 'geht aber': 1, 'allerdings': 1, 'schrieb .': 1, 'Begriff': 1, 'Gewalt bezugnehmend': 1, '» Versöhnung «': 1, 'ist die': 1}

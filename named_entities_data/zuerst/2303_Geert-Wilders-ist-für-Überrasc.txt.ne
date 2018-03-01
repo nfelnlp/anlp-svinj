@@ -1,0 +1,1 @@
+{'Haag': 1, 'Niederlande': 1, 'jetzt': 1, 'Auftrag': 1, 'darin': 1, 'niedrigen Zinsen': 1, 'die': 1, 'Zuwanderung': 1, ',': 1, ') traumhafte': 1, 'Wealth Management die': 1, 'beim niederländischen': 1, 'das': 1, 'läßt sich nicht': 1, 'im Nachbarland': 1, 'Brzeski': 1, 'Chefökonom': 1, 'Sollte': 1, 'Wilders': 1, 'als Sieger': 1, 'auch': 1, 'gravierende Folgen': 1}

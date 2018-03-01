@@ -1,0 +1,1 @@
+{'.': 1, '. Der': 1, 'wächst im': 1, '( CSU': 1, 'bereits': 1, 'Er': 1, 'jährlich': 1, 'Erhöhung': 1, 'vor': 1, 'dpa/nd': 1}

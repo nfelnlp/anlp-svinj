@@ -1,0 +1,1 @@
+{'Essen': 1, 'in Essen': 1, '„Arbeiterverräter': 1, 'ermittelt': 1, 'eines': 1, 'Gesichter': 1, ',': 1, 'Schaden': 1, 'seine Räume': 1, 'oder': 1, '.': 1}

@@ -1,0 +1,1 @@
+{'eine erhebliche': 1, 'in Aussicht': 1, 'jetzt in': 1, 'Bericht': 1, 'kamen': 1, 'Flügels': 1, 'Einsatzfähigkeit auf': 1, ',': 1, 'darüber': 1, '-Bericht': 1, 'verfügen': 1}

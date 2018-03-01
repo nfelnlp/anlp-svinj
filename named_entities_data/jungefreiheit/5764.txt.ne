@@ -1,0 +1,1 @@
+{'Matisse': 3, 'West': 1, 'Rußland': 1, 'die': 3, 'dagegen': 1, 'nun': 1, 'seinen': 1, 'wie': 1, '.': 3, 'Ordnungssinn': 1, 'Ureigen': 1, 'sie': 1, 'das': 1, 'Schon': 1, 'Dieses': 1, 'Genius': 1, '1948-51': 1, 'so': 1, 'immer': 1, 'Nu bleu': 1, ', in Düsseldorf': 1}

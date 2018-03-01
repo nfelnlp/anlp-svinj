@@ -1,0 +1,1 @@
+{'schlägt eine': 1, 'Während über': 1, ',': 1, 'unlängst in': 1, '» Unbeugsam': 1, 'Autonome Theorien': 1}

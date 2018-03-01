@@ -1,0 +1,1 @@
+{'Washington': 1, ', die': 1, 'ist': 1, 'Bau der': 1, 'für': 1, 'in': 1, 'Partei': 1, 'vergeblich': 1, 'und': 1, 'Amtszeit': 1}

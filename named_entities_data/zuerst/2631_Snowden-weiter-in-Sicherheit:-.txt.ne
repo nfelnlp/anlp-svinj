@@ -1,0 +1,1 @@
+{'Moskau': 1, 'NSA-Mitarbeiter': 1, 'muß für': 1, '.': 2, 'nach': 2, 'Snowdens Aufenthaltserlaubnis': 1, 'vorgeworfen': 1, 'eine': 1, 'vier': 1, ',': 1, 'Kreml-nahen': 1, 'Ort': 1, ';': 1, 'Arbeit': 1, 'Wahlsieg': 1, 'Moskau auch': 1, 'einer': 1, 'Beziehungen': 1, ': //commons.wikimedia.org/w/index.php': 1}

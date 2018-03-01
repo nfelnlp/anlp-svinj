@@ -1,0 +1,1 @@
+{'Gesellschaft 2 Berlin': 1, 'die': 1, 'zuständig für': 1, '.': 1}

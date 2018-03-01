@@ -1,0 +1,1 @@
+{'einigen': 1, ', darunter': 1, '.': 2, 'Twitter verkündete er': 1, 'sei': 1, 'Gespräche vor': 1, 'erfahrene Politiker': 1, 'hatte . Offiziell': 1, ',': 1, 'FARC-Verhandlungen': 1, 'an den': 1, 'acht': 1}

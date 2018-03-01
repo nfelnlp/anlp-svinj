@@ -1,0 +1,1 @@
+{'Akif Pirinçci': 1, 'Pegida': 1, 'Dresden': 2, 'Deutschland': 1, 'wurden': 1, 'um': 1, ',': 1, 'ist': 1, ', denn': 1, 'gar': 1}

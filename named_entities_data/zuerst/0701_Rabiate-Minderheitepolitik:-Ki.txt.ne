@@ -1,0 +1,1 @@
+{'Kiew/Budapest': 1, 'Die': 1, 'Nationalisierungspolitik': 1, 'Rada': 1, 'Gesetzentwurf': 1, 'vor': 1, 'kündigte': 1, 'für': 1, 'europäischen': 1, 'es': 1, 'Kilometer': 1, 'dem': 1, 'des': 1, ',': 1, 'die': 1, 'Vorgehensweise': 1, 'Vorgehensweise besprochen': 1, 'sowie': 1, 'OSZE-Vorsitzenden': 1, '.': 1}

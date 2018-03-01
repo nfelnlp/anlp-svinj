@@ -1,0 +1,1 @@
+{'hat': 1, ')': 2, 'verfolgt': 1, 'mich': 1, 'dazu': 1, 'große': 1, ', Buzzfeed ,': 1, 'Public': 1, 'Al': 1, 'Videos ohne': 1, 'in': 1, 'von': 1, 'einmal': 1, '. Ungefähr': 1, ',': 1, 'das': 1, 'automatisierte': 1, 'automatisierte und': 1, 'großem': 1, 'Front': 1, 'die': 1, 'Zombies .': 1, 'komische': 1, 'World': 1, '„Wackere': 1, 'mit': 1}

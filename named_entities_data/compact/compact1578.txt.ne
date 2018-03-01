@@ -1,0 +1,1 @@
+{'Merkel': 1, 'Neujahrsrede': 1, 'EU-Gegnern': 1, 'wieder mit': 1, 'so': 1, 'wenigen': 1, 'am': 1, 'ja': 1, 'es': 1, 'Städten': 1, 'gleich die': 1, 'mühsam': 1, 'Jahres': 1}

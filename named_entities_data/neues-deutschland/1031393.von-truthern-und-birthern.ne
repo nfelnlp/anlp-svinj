@@ -1,0 +1,1 @@
+{'dafür ein': 1, 'Beispiel': 1, 'neigen': 1, 'dazu': 1, 'wurde': 1, 'sogennante': 1, 'bis zur Zeit': 1, 'im': 1, 'am': 1, 'kein': 1, 'die': 1, '«': 1, 'Stagnation': 1, 'ersten': 1, '.': 1, 'der traditionellen': 1, '?': 1, 'sicherlich eine': 1, 'gedeihen': 1, 'und': 1, 'wir': 1}

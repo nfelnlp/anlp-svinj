@@ -1,0 +1,1 @@
+{'Martinek (': 1, '„Senat': 1, ',': 2, 'fest': 1, 'den': 1, 'Richtung': 1, 'Müller': 2, 'Ja ,': 1, 'DDR': 1, 'heute': 1, '.': 1, 'natürlich': 1, 'letzte': 1, 'über': 1, '500.000 Facebook-Fans': 1, '500.000 Facebook-Fans )': 1, 'wie „Melanie': 1, 'nicht': 1, 'Altersarmut': 1, 'auch': 1, 'wir beschäftigen': 1, 'jedem': 1, 'haben': 1, 'zahllose': 1, '149': 1, 'läuft': 1}

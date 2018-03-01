@@ -1,0 +1,1 @@
+{'Griechenland': 1, 'Justiz': 1, 'Dimitris': 1, 'Athen': 1, 'V. L. , eine': 1, 'Athen ,': 1, 'Athen , zu': 1, 'die': 1, 'der': 1, 'verübt': 1, 'eines': 1, 'wurde': 1, '.': 1, 'Kugel eines': 1, 'Zahl': 1, 'ebenso': 1, 'ihr': 1, 'DNA-Probe': 1, '«': 1, 'DNA-Spuren': 1, 'dem': 1, 'dreimal': 1, 'Beweisstücke': 1, 'der in': 1, 'könne': 1, 'Freund': 1, 'selbst hatte': 1}

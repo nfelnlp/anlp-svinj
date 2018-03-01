@@ -1,0 +1,1 @@
+{'RENATE': 1, 'Weihnachtsmärkten': 1, 'Deutschland': 1, '“': 1, 'womit': 1, 'zeigen': 1, 'die': 2, 'vor': 1, 'September 2015': 1, 'geantwortet :': 1, 'Islam': 1, 'beim': 1, 'das': 1, 'es': 1, '.': 1, 'Blockflöten': 1, 'wir': 2, 'der': 2, '„Und': 1, 'Gottes': 1, 'Der': 1, 'des': 1, 'kein': 1, 'gegen': 1, ':': 1, '2': 1, 'zu': 1}

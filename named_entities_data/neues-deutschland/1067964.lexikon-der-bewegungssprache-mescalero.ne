@@ -1,0 +1,1 @@
+{'mit': 1, 'Fraktion ( RAF': 1, ',': 1, 'ein': 1, 'und seine': 1, 'Universität': 1, 'Darin schildert': 1, 'auf': 1, '.': 1, 'zu': 1, 'Bevölkerung': 1}

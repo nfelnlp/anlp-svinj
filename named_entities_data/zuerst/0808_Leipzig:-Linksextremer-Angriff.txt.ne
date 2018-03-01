@@ -1,0 +1,1 @@
+{'für viele': 1, 'verschiedener': 1, 'geradezu': 1, 'davon': 1, 'sich': 1}

@@ -1,0 +1,1 @@
+{'Friederike Meier': 1, 'Susanne Götze': 1, 'Merkenich': 1, 'Köln': 1, 'Rheinland': 1, '23 . UN-Weltklimakonferenz': 1, 'Ende': 1, 'im': 1}

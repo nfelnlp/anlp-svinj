@@ -1,0 +1,1 @@
+{'Peking': 1, 'trägt': 1, 'auch': 1, 'zwar': 1, 'Dimitris': 1, 'asiatische': 1, 'und': 1, ',': 1, 'innere': 1, 'Schmuggler ist': 1, 'Libyen': 1, 'gegenüber': 1, '.': 1, 'Lage': 1, 'Frontex': 1}

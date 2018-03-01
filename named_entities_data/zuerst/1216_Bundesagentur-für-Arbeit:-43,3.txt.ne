@@ -1,0 +1,1 @@
+{'Berlin': 1, 'Deutschland': 1, 'Hessen': 1, 'Bundeskanzlerin Angela': 1, '(': 1, ', daß': 1, 'sich': 1, 'Kinder': 1, 'müssen': 1, 'noch': 1, 'eine': 1, 'jeder': 1}

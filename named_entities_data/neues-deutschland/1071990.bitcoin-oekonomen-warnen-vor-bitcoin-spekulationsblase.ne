@@ -1,0 +1,1 @@
+{'gesetzt': 1, 'Würde': 1, 'Zentral- und': 1, 'kommen': 1, 'weitaus': 1, 'der': 1, 'sind': 1, 'die': 1, 'temporär - starren': 1, 'erfolgen': 1, '10': 1, 'Alle Bitcoins zusammen waren': 1}

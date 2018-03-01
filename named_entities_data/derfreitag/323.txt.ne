@@ -1,0 +1,1 @@
+{'Image Mehr': 1, 'und': 1, 'Einkommen': 1, 'der Universität Greenwich': 1, 'dass diese': 1, 'in': 1, 'der': 2, 'lag': 1, 'von': 1, 'die': 1, 'Beitrag': 1}

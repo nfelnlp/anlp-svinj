@@ -1,0 +1,1 @@
+{'Obama': 1, 'aus': 1, 'durch Madame': 1, 'Polizei': 1, 'geht': 1, '.': 2, 'viele': 1, 'was': 1}

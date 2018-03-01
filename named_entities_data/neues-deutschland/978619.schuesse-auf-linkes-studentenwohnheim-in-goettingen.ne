@@ -1,0 +1,1 @@
+{'.': 2, '. Ein': 1, 'selbstverwaltetes': 1, 'Polizei': 1, 'des': 1, 'Erst': 1, '. Die': 1, 'Angriff': 1, 'und': 1, 'dieser': 1}

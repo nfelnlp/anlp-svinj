@@ -1,0 +1,1 @@
+{'Berlin': 1, 'Bundeswehr': 1, 'als': 1, 'und': 2, 'EU': 1, 'nach': 1, 'der': 1, 'Staaten': 1, 'weiter': 1, ',': 1, 'Jahrzehnten': 1, 'zitierte': 1, 'Wettbewerb': 1, '(': 1}

@@ -1,0 +1,1 @@
+{'Goethes': 1, 'religionsgeschichtlich': 1, 'Religion': 1, 'Vernutzung': 1, 'hat gezeigt': 1, ', indem': 1, ',': 1, 'ihm zeigt': 1, 'postheroische Mentalität': 1, 'nach': 1, 'sich': 1, 'und neuzeitlichem': 1, 'moderne': 1, 'läge im': 1}

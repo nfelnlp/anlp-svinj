@@ -1,0 +1,1 @@
+{'. Waffenausfuhren': 1, 'Wert': 1, 'eine': 2, '.': 1, 'Grässlin': 1, 'andere': 1, 'Friedensbewegung zwischen': 1, 'den': 1}

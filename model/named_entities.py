@@ -44,7 +44,11 @@ def all_named_entities(article, path=None):
         with open(entities_path, "r") as entities_file:
             entities_str = entities_file.read()
             entities_dict = ast.literal_eval(entities_str)
+            #entities_dict = eval(entities_str)
         return entities_dict
+    except SyntaxError:
+        print(entities_path)
+        raise(SyntaxError)
     except FileNotFoundError:
         with open(entities_path, "w") as entities_file:
             entities_dict = col.defaultdict(int)
@@ -53,22 +57,22 @@ def all_named_entities(article, path=None):
                     continue
                 entities_dict[entity] += 1
 
-            entities_file.write(str(entities_dict))
+            entities_file.write(str(entities_dict)[27:-1])
         return entities_dict
     
 
 #extracts ony the entities in article that appear in entity_list
 #end returns list with number of occurences for each of these
-def extract_named_entities(entity_list, article):
+def extract_named_entities(entity_list, article, path):
 
     zeroize = lambda x: (x,0)
     
     zero_tuples = list(map(zeroize, entity_list))
     entity_dict = col.OrderedDict(zero_tuples)
 
-    for entity in entity_strings(article):
+    for entity, occurences in all_named_entities(article, path).items():
         if entity in entity_list:
-            entity_dict[entity] += 1
+            entity_dict[entity] = occurences
 
     snd = lambda x : x[1]
 

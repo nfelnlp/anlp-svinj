@@ -1,0 +1,1 @@
+{'Sie': 1, 'bekommen': 1, 'sie': 1, '(': 1, 'Simacota': 1, 'und andere': 1, 'bis': 1, 'des': 1, ',': 1, 'mehr als': 1, 'ELN': 1, 'Friedensabkommen': 1, 'die': 1, 'und verhandelt': 1, 'führt das': 1, 'Pestizide': 1, 'rechten': 1, 'erst': 1, 'Manuel Santos': 1, 'aktiven Guerillaorganisationen Lateinamerikas': 1, 'unabhängigen': 1, 'Kräfte': 1, 'weist das': 1, 'auf': 1}

@@ -1,0 +1,1 @@
+{'Schulden': 1, 'aus dem': 1, 'Teufel': 1, '„Gerichtsvollzieher': 1, 'Mitgefühl': 1, 'dem': 1, 'zu': 1, 'die': 1, 'auffällt und': 1, 'halb-degenerierte': 1, 'Einheimische': 1, 'inzwischen': 1, 'besitzt ,': 1, 'seinen': 1, 'Forderungen': 1, 'sieh': 1, 'Die': 1, ',': 1, 'wiederum': 1, 'schokoladenfarbige': 1, 'ihr der': 1, 'des': 1, 'dafür': 1}

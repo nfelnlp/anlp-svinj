@@ -1,0 +1,1 @@
+{'Rom': 1, 'Europa': 1, 'Österreich': 1, 'Martin Sellner': 1, 'hatte': 1, '.': 1, ',': 1, 'sichtbar': 1, 'App downloaden': 1, 'auf': 1, 'egal': 1}

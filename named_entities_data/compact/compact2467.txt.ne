@@ -1,0 +1,1 @@
+{'Mutti': 1, 'Amazon': 1, 'Angela Merkel': 1, 'A.': 1, 'A. Kaya Überwältigend ist': 1, 'und': 1, 'Die': 1, 'habe sie': 1, 'das': 1, 'das nicht': 1, 'das nicht eigentlich': 1, 'um': 1, 'geplanten Mahlzeiten': 1, 'wie': 1, 'Als': 1, ',': 1, 'der': 1, 'vermute': 1, 'nach 15': 1, 'Wasser': 1}

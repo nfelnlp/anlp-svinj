@@ -1,0 +1,1 @@
+{',': 1, 'Tages': 1, 'nicht': 1, 'noch': 1, 'Philanthropie': 1, 'zu': 3, 'also': 1, 'des': 1, 'kann': 1, 'wenn': 1, 'Menschen': 1, 'postmodernen': 1, 'sucht': 1, 'Jahrhundert': 1, 'dieser': 1, 'Meinung': 1, 'Initiative': 1, 'Grundlage deutlich': 1, '`` zu': 1, 'Kaiser': 1, 'eine': 1, 'Staat': 1, 'auch': 1, 'wieder': 1, 'Bibel': 1, 'beantwortet': 1}

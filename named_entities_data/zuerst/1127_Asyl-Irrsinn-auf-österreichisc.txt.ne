@@ -1,0 +1,1 @@
+{'Wien': 2, 'Bundesrepublik Deutschland': 1, 'Österreich': 2, 'österreichischen': 1, 'Brüssel': 1}

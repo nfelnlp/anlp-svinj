@@ -1,0 +1,1 @@
+{'Tom Strohschneider': 2, 'Elsa Koester': 1, 'DiEM': 1, 'Yanis Varoufakis': 1}

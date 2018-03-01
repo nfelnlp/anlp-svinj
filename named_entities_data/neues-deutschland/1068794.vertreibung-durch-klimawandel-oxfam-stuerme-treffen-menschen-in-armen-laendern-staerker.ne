@@ -1,0 +1,1 @@
+{'.': 2, '. Menschen': 1, 'fünfmal': 1, '. »': 1, 'deswegen': 1, 'wegen': 1, '55.000': 1, 'Regierung': 1}

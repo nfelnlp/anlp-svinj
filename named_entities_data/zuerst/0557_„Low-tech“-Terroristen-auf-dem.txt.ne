@@ -1,0 +1,1 @@
+{'Brüssel': 1, 'EU-Kommission': 1, 'King': 1, ', die': 1, 'London': 1, 'Stockholm': 1, 'Barcelona': 1, 'gezeigt': 1, 'daß': 1, 'die': 1, 'wesentlich': 1, 'Personenkreise': 1}

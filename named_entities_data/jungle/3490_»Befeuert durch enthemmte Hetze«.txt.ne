@@ -1,0 +1,1 @@
+{'Bianca Klose': 2, 'Berlin': 3, 'Projektleiterin Bianca Klose': 1, 'Projektleiterin': 1, 'NPD': 4, 'Holger Apfel': 1, '»': 1, 'Uwe Meenen': 1, 'Partei': 1, 'Michael Regener': 1, 'das': 1, 'wurden': 1, 'Terrorzelle': 1, '. Obwohl': 1, 'der': 1, 'Rostock-Lichtenhagen wurden aus': 1, 'einer': 1, 'geworfen': 1, '?': 1}

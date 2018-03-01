@@ -1,0 +1,1 @@
+{'müssen': 2, 'zurücktreten.': 1, 'Ich': 1, '–': 1, 'das': 2, 'ihr Zusammenleben': 1, 'Bürger': 1, '.': 1, '2 )': 1, 'Volke aus': 1, 'uns': 1, 'zum': 1, '“ ,': 1, 'eine': 1, ',': 2, 'man seiner Individualität': 1, 'als Teil': 1, ', auf': 1, 'die': 1, 'der Wirte': 1}

@@ -1,0 +1,1 @@
+{'dabei': 1, 'den': 1, 'Namen': 1, 'Asyl beantragt und': 1, 'Taschengeld abkassiert .': 1, 'in': 1, 'Rathaus': 1, 'Minuten': 1, 'ihm': 1, 'mir': 1, 'auch': 1, 'Asylgrund': 1, 'persönlich': 1, 'zu': 1, '.': 1, 'Fassbomben störten': 1, 'sei': 1, 'Ich aber': 1, ':': 1, 'fünf': 1, 'damit': 1, 'vor': 1, 'Oder': 1}

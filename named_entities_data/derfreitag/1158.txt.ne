@@ -1,0 +1,1 @@
+{'Cyril Ramaphosa': 1, 'dass': 1, 'noch': 1, 'auf': 1, '.': 3, 'unpopulärer ,': 1, 'Zuma': 1, 'in Ausgabe': 1, 'und': 3, '. Die': 1, ') ,': 1, 'Südafrikas': 1, 'Dlamini-Zuma': 1, 'zu': 1, 'er': 1, ',': 2, 'des': 1, 'denn': 1, 'Neun': 1, 'wollte': 1, 'die lautstarken': 1, '2019': 1, ', falls die': 1, 'Er': 1, 'doch kann': 1, 'sein': 1}

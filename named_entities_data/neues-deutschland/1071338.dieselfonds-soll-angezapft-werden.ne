@@ -1,0 +1,1 @@
+{'.': 1, '. In': 1, ', der': 1, '. Bei': 1, '( CDU': 1, 'an': 1, 'Lohse sagte zudem': 1, 'vielen Städten': 1, 'darüber': 1, 'ersten': 1}

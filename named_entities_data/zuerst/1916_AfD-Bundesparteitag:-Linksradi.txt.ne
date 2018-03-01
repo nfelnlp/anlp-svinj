@@ -1,0 +1,1 @@
+{'Gesellschaft 4 Köln': 1, 'heute': 1, 'die': 1, 'und': 1, 'Holzlatte zu .': 1, ':': 1}

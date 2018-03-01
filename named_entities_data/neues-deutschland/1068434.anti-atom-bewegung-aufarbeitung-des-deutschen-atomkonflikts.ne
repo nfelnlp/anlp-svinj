@@ -1,0 +1,1 @@
+{'nun nachkommen ,': 1, 'und': 1, 'des': 1, 'Forschungsprojekts »': 1, 'Kernenergie und': 1, 'untersucht': 1, 'Tagung': 1, 'Akteuren von': 1, 'die Gerichtsverfahren': 1, '»': 1, 'der': 1, 'haben': 1, 'Arbeit': 1, 'Diese': 1}

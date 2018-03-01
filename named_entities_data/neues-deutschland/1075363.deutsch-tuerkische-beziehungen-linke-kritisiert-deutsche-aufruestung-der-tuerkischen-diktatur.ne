@@ -1,0 +1,1 @@
+{'.': 1, '. Nach': 1, '( SPD': 1, 'mit': 1, 'in Goslar': 1, 'die': 1, 'Bundesregierung': 1, '»': 1, 'richtig': 1, 'der': 2, '. Hintergrund der': 1, 'Kampfpanzer': 1, 'und': 1, 'modernisieren': 1, 'jüngsten': 1, 'dies': 1, 'Geiseln in': 1, 'einer': 1, 'muss': 1, 'und des': 1, 'dpa/nd': 1}

@@ -1,0 +1,1 @@
+{'Loeper': 1, 'Lissabon': 1, 'Gouvernanten': 1, 'da': 1, 'Wahl': 1, ',': 1, 'und': 1, 'Volk': 1, 'wohl': 1, 'in': 1, 'Blocksberg': 1, 'sich': 1, 'social': 1, 'Mensch': 1, 'nicht politikverdrossen': 1, 'türmt': 1}

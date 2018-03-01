@@ -1,0 +1,1 @@
+{'Helmut Schmidt': 1, 'Türkei': 1, 'Merkel': 1, 'dies': 1, ': Die': 1, '.': 1}

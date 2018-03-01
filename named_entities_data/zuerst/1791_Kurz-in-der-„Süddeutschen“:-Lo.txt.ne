@@ -1,0 +1,1 @@
+{'Wien/München': 1, 'Der': 1, 'hat': 1, 'Orbán': 1, 'seine': 1, 'gezollt .': 1, 'wir': 1, 'mit': 1, 'andere': 1, 'Sicherung der': 1, 'Ausschluß': 1, ',': 1, 'Europa der': 1, 'den': 1, '.': 1, 'der': 1, 'verfolgt': 1, 'wirtschaftlichen': 1, 'Kurz': 1, 'sind': 1, 'immer': 1, 'da': 1}

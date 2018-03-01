@@ -1,0 +1,1 @@
+{'packte': 1, 'für': 2, 'WG-Zimmer': 1, 'her': 1, 'Fenster': 1, ',': 3, 'Glockenspiel': 1, 'glauben': 1, 'Stiller ,': 1, 'Kinseher': 1, 'die Brass-Band': 1, 'Mama gestoßen sind (': 1, 'auch': 1, 'Musikvideo': 1, 'Musikvideo zur': 1, ') ,': 1, 'Kosten': 1, 'Transparenz': 1, 'Gebäude': 1}

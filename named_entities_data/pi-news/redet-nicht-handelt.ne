@@ -1,0 +1,1 @@
+{'DR.': 1, 'DR. MARCUS FRANZ |': 1, 'stellt': 1, 'und': 1, 'deutsche': 1, 'gigantischen Fluchtbewegung': 1, 'in': 1, 'Migranten': 1, 'sorgen': 1, 'sei': 1, 'er': 1, '?': 1, 'wie': 1, 'jetzt': 2, 'die': 1, 'Sobald': 1, 'entzogen': 1, 'Jahr': 1, 'seinen': 1, 'Merkel': 1}

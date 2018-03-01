@@ -1,0 +1,1 @@
+{'Wien': 1, 'Österreich': 1, 'Germania immer neue': 1, 'vormalige': 1, 'der': 2, 'wenigen Jahren': 1, 'in': 1, 'flächendeckende': 1, 'Antisemitismus': 1, 'Wörtlich': 1, 'Opfer': 1, 'klare': 1, '”': 1, 'regelmäßig': 1, 'allerdings': 1}

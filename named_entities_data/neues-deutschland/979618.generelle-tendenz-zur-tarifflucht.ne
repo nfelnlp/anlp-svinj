@@ -1,0 +1,1 @@
+{'Marcus Meier': 1, 'ver.di': 2, 'Amazon': 1, 'zum': 1, 'Sie wollen ,': 1, 'als': 1}

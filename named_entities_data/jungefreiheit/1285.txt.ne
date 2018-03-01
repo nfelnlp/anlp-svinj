@@ -1,0 +1,1 @@
+{'dieses': 1, '.': 4, 'Beginn': 1, 'Geschichte': 1, 'aus': 1, 'die': 1, 'im': 1, 'Jahrhundert': 1, 'Neues': 1, '21': 1, 'Indien': 1, '?': 1, '`` virtuellen': 1, 'der': 1, 'dessen Oberfläche infolge': 1}

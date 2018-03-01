@@ -1,0 +1,1 @@
+{'Tripolis/Rom': 1, 'Die': 1, 'geraten': 1, 'Am': 1, '„Rettungsschiffe': 1, ':': 1, 'Organisation': 1, '( IOM': 1, '700.000 und': 1, 'Libyen': 2, '.': 1, 'gelangt': 1, 'der': 2, 'über': 1, 'fünf': 1, 'mehr': 1, '(': 1, ')': 1}

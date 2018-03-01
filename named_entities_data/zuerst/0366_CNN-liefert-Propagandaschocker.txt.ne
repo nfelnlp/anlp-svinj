@@ -1,0 +1,1 @@
+{'Abidjan': 1, 'Rudolf Scharpings': 1, 'auf': 1, ':': 1, 'dieser': 1, 'Video': 1, 'Versteigerung': 1, 'an': 1, 'Rahmen': 1, 'teilte': 1, 'ebenfalls': 1, 'Notfalleinsätze': 1, 'schon': 1, ',': 2, 'Marokko': 1, 'die Demokratische': 1, 'Kongo': 1, '.': 1, 'sprach': 1, '„dringenden': 1, '”': 2, 'diejenigen aus Libyen': 1, 'zu': 1}

@@ -1,0 +1,1 @@
+{'Parlament selbst': 1, 'umstrittenen Handlungen': 1, 'Reform': 1, 'am Donnerstag': 1, 'führenden': 1, 'um': 1, 'zum': 1, 'und Sozialausgaben': 1, 'sie': 1, 'Frist': 1, 'planen': 1, 'Senats': 1, 'die': 1}

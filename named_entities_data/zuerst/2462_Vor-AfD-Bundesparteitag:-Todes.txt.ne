@@ -1,0 +1,1 @@
+{'Köln': 2, 'Alternative': 1, 'Deutschland': 1, 'dem': 1, 'Kolleginnen': 1, 'Kollegen': 1, 'Betriebsrat': 1, 'werde am': 1, 'festhalten': 1, 'Maritim-Kette': 1, 'die AfD': 1, 'der': 1}

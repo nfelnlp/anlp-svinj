@@ -1,0 +1,1 @@
+{'Gesellschaft 0 Berlin': 1, 'der Bund': 1, 'gegen': 1, 'Berlin-Mitte': 1, 'von': 1, 'fordert': 1, '„50': 1, 'kein': 1, 'ausnahmsweise': 1, 'mitteilte .': 1, 'sei': 1}

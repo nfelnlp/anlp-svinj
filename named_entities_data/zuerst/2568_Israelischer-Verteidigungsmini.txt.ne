@@ -1,0 +1,1 @@
+{'Tel': 1, 'Tel Aviv': 1, 'Israel': 1, 'kampfbereit': 1, 'Gaza-Streifen': 1, 'Avigdor': 1, 'deutlich .': 1, 'Falle': 1, 'erneuten': 1, 'rechten': 1, '“': 1, 'zu mobilisieren': 1, 'wo': 1, 'werden': 1, 'Vereinten': 1, 'für den': 1, '–': 1, 'Minister': 1, 'einer': 1, '(': 1, ')': 1}

@@ -1,0 +1,1 @@
+{'einer': 1, 'die Agenda': 1, 'Papier': 1, ',': 1, 'Da': 1, 'nicht': 2, 'CO2-Preis': 1, 'Stromsteuer': 1, 'bei': 1, 'die': 2, 'als': 1, 'und': 1, 'Marktplatz': 1, 'Treibhausgaszertifikate': 1, 'prüfen': 1, 'sich': 1, 'CO2-Gehalt': 1, '.': 1, 'Autoren': 1, 'vom': 1, 'als Heizen': 1, 'Tanken . Ihr zufolge': 1, 'der': 1, 'meint': 1, 'erneuerbaren': 1}

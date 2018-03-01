@@ -1,0 +1,1 @@
+{'Brüssel': 1, 'Europäischen Gerichtshofes': 1, 'Ungarn': 1, 'im': 2, 'aufnehmen': 1, 'zumindest': 1, 'sich': 1, ',': 1, 'Grenzschutz': 1, 'EU': 1, 'müsse Ungarn': 1, 'sein': 1, 'aufzunehmen': 1, 'die': 1, 'Balkanroute': 1, 'das': 1, '„keinen': 1, 'Flüchtlingspolitik': 1}

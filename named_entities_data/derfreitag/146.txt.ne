@@ -1,0 +1,1 @@
+{'Kris Connor': 1, 'Getty': 1, 'US-Gericht': 1, 'gewaltigen': 1, 'Gouverneur': 1, 'verabschiedet': 1, 'mit': 1, 'sie': 1, '.': 1, 'es': 1, ',': 2, 'vorantrieb': 1, 'Behauptung': 1, 'die': 1, 'einem von': 1, ', der': 1, 'dieser': 1, 'vergebens gewesen .': 1, 'wenn': 1, 'Denn letztlich': 1, 'galt ,': 1, 'implementieren': 1, 'Bestimmungen': 1}

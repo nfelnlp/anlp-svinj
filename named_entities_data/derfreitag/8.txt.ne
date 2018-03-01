@@ -1,0 +1,1 @@
+{'Costa Concordia': 2, 'Vincenzo Pinto': 1, 'AFP': 1, 'Getty': 1, 'boomt': 1, 'italienischen': 1, 'Giglio': 1, 'der als massenhaftes': 1, '.': 3, 'Massentourismus jedoch': 1, ', gibt': 1, ',': 1, 'er': 1, ': Als': 1, 'intensive': 1, 'aus': 1}

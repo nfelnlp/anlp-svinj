@@ -1,0 +1,1 @@
+{'Hamburg': 2, 'Euro': 1, 'Stapelfeldt (': 1, ')': 1, ') .': 1, 'weiter aus': 1, 'dann': 1, 'Asylbewerberheime': 1}

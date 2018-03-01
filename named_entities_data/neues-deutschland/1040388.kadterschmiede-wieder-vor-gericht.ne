@@ -1,0 +1,1 @@
+{'Räumungstitel': 1, 'Eigentümer - geschützt': 1}

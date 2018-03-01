@@ -1,0 +1,1 @@
+{'Anthony I. seine': 1, '22': 1, ',': 2, 'nach': 1, 'lediglich': 1, 'und nahm': 1, 'Boden': 1, ')': 1, 'in der': 1, 'wurde zwei': 1, 'der': 2, 'sie': 2, '. Soopika': 1, 'Pädagogik': 1, 'gab': 1, 'An': 1, 'Nebenklägerin auf': 1, 'von': 1, 'da ist nichts': 1, 'zufällig auch': 1, 'Anrechnung': 1, 'U-Haft': 1, 'Jahr': 1, 'Paramanathan': 1, '.': 1}

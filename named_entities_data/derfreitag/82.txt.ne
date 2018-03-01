@@ -1,0 +1,1 @@
+{'John Lydon': 2, 'Isle': 1, 'Wight Festival': 1, 'Newport': 1, 'Matt Cardy': 1, 'Getty': 1, 'Johnny': 1, 'Polizei': 1, 'gehört': 1, 'Here': 1, 'perfekt .': 1, 'erst im': 1, 'Nietengürtel': 1, 'er': 1, 'Band so': 1, ', dass': 1, 'Songschreiber war': 1, 'Sex Pistols': 1, 'wurde': 1, 'dem neuen': 1, 'eines der Projekte': 1, 'waren': 1, 'die': 1, ',': 1, 'verloren': 1}

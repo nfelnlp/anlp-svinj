@@ -1,0 +1,1 @@
+{'.': 1, '. Spanien': 1, '. Spanien will': 1, '. Spanien will mit': 1, 'Puigdemont': 1, 'die Konfliktregion': 1, 'lässt': 1, 'Dienstag im Interview': 1, 'der': 1, 'Kandidaten': 1, 'Regionalpräsidenten ernannt': 1, 'nach': 1, 'hatte': 1, 'davon': 1, 'Weg': 1, 'darf': 1, 'als': 1, 'abgesetzt': 1}

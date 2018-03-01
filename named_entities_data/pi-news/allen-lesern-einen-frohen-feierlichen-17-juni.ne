@@ -1,0 +1,1 @@
+{'C. Jahn |': 1, 'konnten': 1, 'bedarf': 1, ':': 1, 'an': 1, '1953 war': 1, 'schoss': 1, 'Paradies': 1, 'vereinnahmen': 1, 'es': 1, 'der': 2, 'Deutsche': 1, '„Stabilität': 1, '–': 1, 'Scheinstabilität ,': 1, '“': 1, 'auf': 1, 'war': 1, 'noch': 1, 'noch gestört': 1, 'unter': 1, 'schon': 1, ',': 1, '„Bunte': 1, 'Zusammenbruch': 1, 'Ziel': 1}

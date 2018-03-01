@@ -1,0 +1,1 @@
+{'Haag': 1, 'Geert Wilders': 1, 'Wilders': 2, 'Hofburg': 1, 'österreichischen Freiheitlichen': 1, 'dazu': 1, 'beschwerte': 1, 'Den': 1, ',': 2, 'noch': 1, 'niederländischen': 1, 'zufolge': 1, 'Staatsanwaltschaft': 1, 'übergeben': 1, 'aus': 1, 'das': 1, 'Behörden auf': 1, '.': 1, 'Terroristen': 1, 'und': 1, 'sich': 1}

@@ -1,0 +1,1 @@
+{'Moskau': 1, 'Rußland': 1, 'Rußland-Sanktionen': 1, ', der': 1, 'plant': 1, 'es': 1, 'Das Unternehmen': 1, 'Staatliche': 1, 'Generaldirektor der': 1, 'Schwellen': 1, 'Lieferanten': 1, 'Werke für': 1}

@@ -1,0 +1,1 @@
+{'.': 1, '. Amtsinhaber': 1, 'Zeman hat die': 1, 'gewonnen': 1, 'Zeman': 1, 'als': 1, ',': 1, '10,2 Prozent': 1, 'am': 1}

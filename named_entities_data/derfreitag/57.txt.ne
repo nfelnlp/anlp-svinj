@@ -1,0 +1,1 @@
+{'Features/Getty Images': 1, 'Buchverlage': 1, 'Europa': 1, 'papiernen': 1, ',': 1, 'Vielleicht': 1, 'dem': 1}

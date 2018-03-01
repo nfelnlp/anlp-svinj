@@ -1,0 +1,1 @@
+{'J.D': 1, 'Anis-Amri-Mini-me': 1, 'wurde': 1, 'Psychologe': 1, 'der': 1, 'zur': 1, 'für': 1, 'so': 1, '. Der': 1, 'werden . Zeitnah': 1, 'Es': 1, 'und': 1, 'im': 1, 'folgendermaßen': 1, 'weil eine': 1, 'Berichterstattung': 1, 'des': 1, 'angesichts': 1, '“': 1, '“ seien': 1, 'in Ludwigshafen': 1, 'ans': 1}

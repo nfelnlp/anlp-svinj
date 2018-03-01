@@ -1,0 +1,1 @@
+{'Weltuntergangsszenarien': 1, 'Neuen': 1, '–': 1, 'mit': 1, 'die Prepper': 1, 'Auf': 1, 'haben': 1, 'Naturkatastrophen': 1, 'Bastian': 1, 'sich für': 1, '.': 2, 'sind': 1, 'durch': 1, 'den USA': 1, 'Er': 1, ', die': 1, 'die': 1, 'und': 1, 'diese': 1}

@@ -1,0 +1,1 @@
+{'Budapest': 1, '„unbotmäßige': 1, '„unbotmäßige “': 1, 'wie': 1, 'Interview': 1, 'hat': 1, 'jetzt': 1, 'Die': 2, 'Nachrichtenagentur': 1, 'der': 1, 'Nationalrat': 1, 'eine Pressekonferenz': 1, 'als': 1, 'Freunde': 1, ',': 1, 'Budapest einen': 1, 'Budapest einen anderen': 1, 'Ungarn': 1, 'verleugnet': 1, 'Unternehmen': 1, 'nicht unkommentiert': 1, 'zuvor': 1, 'teilnehmen und': 1}

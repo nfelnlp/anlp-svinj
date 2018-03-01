@@ -1,0 +1,1 @@
+{'Berlin': 1, 'A.': 1, 'A. in': 1, 'A. in Reihen': 1, ',': 1, 'nun': 1, 'der Leyen': 1, 'erhalte': 1, 'die': 2, 'der': 1, 'berichtet': 1, '„F.A.Z.': 1, 'Prioritäten': 1, 'Diese': 1, 'Verbände': 1, 'US-Truppen': 1, 'an': 1, 'informiert': 1, '. (': 1}

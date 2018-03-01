@@ -1,0 +1,1 @@
+{'New': 1, 'New York .': 1, 'US-Luftwaffe am Himmel': 1, 'immer': 1, 'nicht': 1, '.': 1, 'US-Portal': 1, 'Dort erklärte ein': 1, 'Al-Dhafra in den Vereinigten': 1, 'eine': 1, 'der Nähe russische': 1, 'während': 1, 'US-Militär': 1}

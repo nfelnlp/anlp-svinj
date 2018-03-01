@@ -1,0 +1,1 @@
+{'Gesellschaft 1': 1, 'Gesellschaft 1 Bern': 1, 'EU-Europäer': 1, 'Sommaruga': 1, 'Antwort': 1, 'Nationalrat ,': 1}

@@ -1,0 +1,1 @@
+{'Warschau/Gnesen': 1, 'Im': 1, 'auch': 1, 'mit': 1, 'der Wochenzeitung': 1, 'daß': 1, 'meine': 1, 'Kontrolle': 1, '.': 2, 'kann': 1, 'kann man': 1, 'als dialogorientiert': 1, ')': 1}

@@ -1,0 +1,1 @@
+{'Johanna Wanka': 1, 'CDU': 1, 'CDU )': 1, 'den': 1, 'waren': 1, 'Bei': 1, 'sie mehr auf': 1}

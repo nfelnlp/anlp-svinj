@@ -1,0 +1,1 @@
+{'an seine': 1, 'Nobly 66': 1, 'Hauses': 1, ',': 1, 'Vater': 1, 'waren': 1, 'er': 1, 'Lieber': 1, '.': 1, 'erlebt': 1, 'damals': 1, 'dem': 1, 'und': 1, 'das': 1, 'Bobpilot .': 1, 'im': 2, 'die': 1, 'ein': 1, 'bekommen': 1, 'Frühjahr': 1, 'Zwinger': 1, 'wird der': 1, 'Sohn trägt': 1, 'künftigen': 1, 'mit': 1, 'die Buchführung': 1, 'freundlichen': 1, '-': 1}

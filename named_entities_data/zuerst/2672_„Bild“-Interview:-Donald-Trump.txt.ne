@@ -1,0 +1,1 @@
+{'Trump über': 1, 'deutschen Wurzeln': 1, 'scharf': 1, 'den': 1, 'in': 1, ':': 1, 'Ich bin': 1, 'schöne': 1, 'einen': 1, 'all diese': 1, 'die': 2, 'je': 1, 'sei': 1, 'diese': 1, 'das': 1, 'Auch': 1, '„Flüchtlings': 1, 'Mitarbeiter': 1, 'immer': 1, 'und': 1, 'kundzutun': 1}

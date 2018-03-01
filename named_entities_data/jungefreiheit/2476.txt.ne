@@ -1,0 +1,1 @@
+{',': 3, ', die': 1, 'meinen': 1, 'an Venter': 1, 'reduzieren': 1, 'ich': 1, 'Deutschland': 2, 'war': 1, 'Ich': 1, 'wider': 1, 'allem': 1, 'durchaus': 1, 'durchaus den': 1, 'Die': 1, 'sagten': 1, 'in': 1, 'auch': 1, 'Das': 1, 'der großen Drei \x96': 1, 'die Rolle': 1, 'ist': 1, 'wird': 1, 'eng': 1}

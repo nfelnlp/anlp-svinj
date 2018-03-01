@@ -1,0 +1,1 @@
+{'Schaar': 1, '–': 1, 'damalige': 1, 'Der Entwurf war': 1, ', dass': 1, 'die': 3, 'setzen , und der': 1, 'Kunden': 1, 'kein': 1, 'des': 1, 'manipulieren': 1, 'Sinn': 1, 'dass': 1, 'und': 1, 'Teilen': 1}

@@ -1,0 +1,1 @@
+{'Koch': 1, ', die': 1, 'immer': 1, 'sie': 1, 'halben': 1}

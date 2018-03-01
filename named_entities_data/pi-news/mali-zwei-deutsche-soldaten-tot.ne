@@ -1,0 +1,1 @@
+{'von der': 1, ')': 1, 'sind': 1, 'Ein Bild': 1, 'werden ,': 1, 'die Offiziersausbildung der': 1, 'Dafür': 1, 'Einsatz': 1, 'indirekt': 1, 'Temperaturobergrenze': 1, 'die Toleranzen': 1, 'Soldaten': 1, 'leichtfertiger': 1, 'der': 1, 'ein': 1, 'Islam': 1, 'in': 1, 'müssten': 1}

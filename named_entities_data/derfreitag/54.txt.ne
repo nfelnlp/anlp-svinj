@@ -1,0 +1,1 @@
+{'SPD': 1, 'Grünen': 1, 'aber': 1, '-': 1, 'lassen': 1, 'verfasse': 1, ', ääh': 1, 'obwohl': 1, 'am': 1, 'kenne': 1, 'Shakespeare': 1, '.': 2, 'pipapo': 1, 'Monate': 1, 'mir': 1, ',': 3, 'weder': 1, ": ... ''": 1, 'kein': 1, 'Merkel 42': 1, 'von': 1, 'da': 1, 'ohne auf': 1, "'s": 1, 'mit': 1, 'die': 1, 'ohne': 1, 'ohne Nährwertsstoffhamburger': 1, 'Beste': 1}

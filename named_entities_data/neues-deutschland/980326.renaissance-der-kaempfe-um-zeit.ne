@@ -1,0 +1,1 @@
+{'Jörg Meyer': 1, '1946': 1, 'tarifgebundenen': 1, 'laut': 1, 'Deutschland': 1, 'die': 1}

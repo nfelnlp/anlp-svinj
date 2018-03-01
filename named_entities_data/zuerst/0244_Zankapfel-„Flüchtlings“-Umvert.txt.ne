@@ -1,0 +1,1 @@
+{'Brüssel': 1, 'EU': 2, 'sich': 1, 'der': 1, 'seit': 1, 'des': 1, 'und Bundeskanzlerin Angela': 1, 'doppelten Spaltung': 1, 'um die Währungsunion': 1, 'verläuft': 1, ',': 2, 'endlich': 1, 'Führungspersönlichkeit': 1, ', daß': 1, 'EU-Verteilsystem': 1, '“': 1, '“ ablehnten': 1, 'Babis': 1, 'Rutte': 1, 'System': 1, 'was': 1, 'von der': 1}

@@ -1,0 +1,1 @@
+{'Kairo': 1, 'mindestens': 1, 'verletzt': 1, 'Al-Minja von Bewaffneten': 1, 'Umgebung': 1, 'In': 1, 'Christen': 1, 'Ziel': 1, '45': 1, 'Taten': 1, ',': 1, 'der': 1, 'noch !': 1, 'rund': 1, 'der mehr als': 1}

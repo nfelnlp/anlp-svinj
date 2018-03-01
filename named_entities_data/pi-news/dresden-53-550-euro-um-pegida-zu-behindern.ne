@@ -1,0 +1,1 @@
+{'Dirk Hilbert': 1, 'will': 1, 'förmlichen Bescheiden': 1, 'und': 1, 'Volksverhetzung durch': 1, '– Wie': 1, 'Bündnis': 1, 'Großes': 1, ',': 2, 'sich': 1, 'die': 1, 'will man': 1, 'rechtskonservative': 1, '.': 1, 'und sachlich': 1, 'Ausdrucksweise': 1}

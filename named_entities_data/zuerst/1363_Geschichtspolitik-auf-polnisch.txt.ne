@@ -1,0 +1,1 @@
+{'Warschau': 2, 'Polen': 1, 'NATO': 1, 'Rußland': 1, 'Moskau': 1, 'sowjetische': 1, 'Podborsko': 1, 'Gedenken': 1, 'nach': 1, '.': 1, 'Szarek ,': 1, 'Regierung': 1, 'sowjetischer': 1, 'Jahren': 1, 'daß': 1, 'Zweiten Weltkrieg': 1}

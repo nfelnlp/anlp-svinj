@@ -1,0 +1,1 @@
+{'Paris': 1, 'Europa': 1, 'Collomb': 1, 'Die': 2, 'im': 1, 'kurz': 1, '. In Frankreich': 1, 'diesem': 1, 'gestürmt und das Feuer': 1, 'insgesamt': 1, 'eine': 1, 'eine Reihe von': 1, 'Teil': 1}

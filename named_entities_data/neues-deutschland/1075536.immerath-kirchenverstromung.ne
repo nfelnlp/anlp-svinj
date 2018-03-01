@@ -1,0 +1,1 @@
+{'Greenpeace-Kletterer': 1, 'an': 1, ',': 1, '.': 3, 'Ausflug': 1, 'Pfarrer': 1, 'am': 1, 'nicht': 1, 'und alle': 1, 'aus der': 1, 'Antworten': 1, 'Ina': 1, 'besonderen': 1, 'Schöpfung': 1, 'Lob': 1, 'dann': 1, 'durchkreuzen': 1, 'dringen': 1, 'der': 1}

@@ -1,0 +1,1 @@
+{'es': 1, ',': 2, 'Kaffee': 1, 'wie': 1, '? Der': 1, 'Meine Fahrten': 1, 'dreieinhalb': 1, 'von': 1, 'alle': 1, 'Stunden': 1, 'Bahnhof': 1, 'der': 1, 'mir': 1, 'Der': 1, '.': 1}

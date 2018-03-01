@@ -1,0 +1,1 @@
+{'Deutschland': 1, 'Euro': 1, 'sich': 3, 'der': 1, 'Kredit in': 1, 'Stand': 1, 'Unternehmen': 2, 'mehrfach': 1, ',': 1, 'für den': 1, 'Und': 1, 'Garant': 1, 'durch': 1, 'entmachten': 1, 'eigentlich für': 1, 'So': 1, 'nur': 1, 'Es': 1, 'liegt': 1, 'beibehalten': 1, 'folglich': 1, 'Deutschen': 1, 'Gehen': 1}

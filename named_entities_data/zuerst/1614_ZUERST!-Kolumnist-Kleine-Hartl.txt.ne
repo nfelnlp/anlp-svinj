@@ -1,0 +1,1 @@
+{'beschäftigt sich': 1, 'geholten': 1, 'einschläfernd war , daß': 1, 'Wozu': 1, 'exotisch': 1, 'sind': 1, ',': 2, 'der': 1, 'Verhältnis': 1, 'wie': 1, 'allen': 1, 'oft': 1, '“': 1}

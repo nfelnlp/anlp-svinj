@@ -1,0 +1,1 @@
+{'Allianz': 1, ',': 1, 'amerikanische': 1, 'zu': 1, 'die': 1, 'konservative': 1, 'wenn': 2, 'am meisten': 1, 'vom': 1, 'monotheistisch-abrahamitische': 1, 'auf': 1, 'um': 1, 'Hinterfragung und': 1, 'fremd': 1, 'ist': 1, 'in': 1, 'eine όberlebenswillige': 1, 'wόrde': 1, 'kφnnen': 1}

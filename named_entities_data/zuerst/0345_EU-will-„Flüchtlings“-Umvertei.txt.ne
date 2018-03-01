@@ -1,0 +1,1 @@
+{'Brüssel': 1, 'EU': 1, 'sieht': 1, ',': 1, 'auf': 1, 'eines': 1, 'der': 1, 'würde': 1, 'Beschluß': 1, 'Dublin-Verordnung': 1, 'dem': 1, 'gilt': 1, 'oder': 1, 'die': 1, 'er': 1, 'auch': 1, 'qualifizierten': 1}

@@ -1,0 +1,1 @@
+{'mit der aufsehenerregenden': 1, 'offenbar vom': 1, 'nach Recherchen': 1, 'Recherchefirma auf den damaligen': 1, 'Demokratische': 1, 'des ehemaligen': 1, 'keinen Einfluß': 1, 'den': 1, 'Sachverhalt': 1, 'bestätigen :': 1, 'FBI': 1, 'die': 1, 'übernommen': 1, 'hat': 1, 'wechselte aber inzwischen': 1, '–': 1, 'zeigt': 1}

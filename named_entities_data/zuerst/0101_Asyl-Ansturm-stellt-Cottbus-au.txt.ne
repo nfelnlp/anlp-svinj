@@ -1,0 +1,1 @@
+{'Gesellschaft 10': 1, 'Gesellschaft 10 Cottbus': 1}

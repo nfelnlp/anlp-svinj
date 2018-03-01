@@ -1,0 +1,1 @@
+{'an beziehungsweise': 1, 'von': 1, ',': 3, 'die όberall': 1, 'und': 1, 'deshalb': 1, 'einer': 1, 'Globalisierung': 1, '\x84exotischen\x93': 1, 'zeigt': 1, 'nur': 1, '\x96': 1, 'nun': 1, 'das': 1, 'ab': 1, '.': 1, 'sie': 1, 'in': 1, 'die uns': 1, 'Revolution': 1, 'Der': 1, 'weiter': 1}

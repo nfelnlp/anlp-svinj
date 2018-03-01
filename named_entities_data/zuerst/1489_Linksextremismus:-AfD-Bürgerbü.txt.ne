@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'in': 1, 'Holm': 1, 'Pressemeldung : „Farbanschläge ,': 1, 'Alltag': 1, 'allerdings': 1, 'immer': 2, 'Aufstieg': 1}

@@ -1,0 +1,1 @@
+{'AfD': 1, 'Deutschland': 1, 'Ruhestörung': 1, 'Gauland ist': 1, 'Landtag': 1, 'Allgemeinen Sonntagszeitung gegeben': 1, 'als': 1, 'am': 1, '. Damit war die': 1, ', in': 1, 'und': 1, 'In der deutschen': 1, 'zu den': 1, 'den': 1, 'haben': 1, ',': 1, '.': 2, 'wurden': 1, 'stand': 1, 'rackerten': 1, 'Wichtiger': 1, 'Titel': 1, 'Gelegenheit': 1, 'das': 1, '„Fremden': 1, 'der': 1}

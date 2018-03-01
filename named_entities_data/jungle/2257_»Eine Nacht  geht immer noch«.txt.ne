@@ -1,0 +1,1 @@
+{'.': 2, 'steht': 1, 'der': 1, 'eine': 2, 'Problem': 1, 'und': 1, 'aufs nächste': 1, 'Berlin': 1, 'Man': 1, 'Deutschland': 1, 'Ländern': 1, 'vielleicht': 1, 'was': 1}

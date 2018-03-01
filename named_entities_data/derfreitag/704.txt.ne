@@ -1,0 +1,1 @@
+{'Sean Gallup/Getty': 1, 'Alles': 1, 'der': 1, 'Die': 1, 'Christdemokraten und Freidemokraten': 1, 'gründlichen Forschungen': 1, 'die': 2, 'und': 1, 'bedeuten': 1}

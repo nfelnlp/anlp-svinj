@@ -1,0 +1,1 @@
+{'begeistert': 1, ',': 2, ', braucht jedoch jeder noch': 1, '.': 2, 'das': 1, 'der': 2, 'sieht': 1, 'erneut': 1, 'ihrer': 1, 'dass': 1, 'grundsätzliches und': 1, '„Urbewohner': 1, 'Volldampf': 1, 'eigenen': 1, 'den': 1, 'und': 1, 'Schicksalswahl': 1}

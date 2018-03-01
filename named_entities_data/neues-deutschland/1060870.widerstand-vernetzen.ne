@@ -1,0 +1,1 @@
+{'der': 1, 'Grüne )': 1, ',': 1, 'zu': 1, 'aufgerückt ist': 1, 'steht für die Erkenntnis': 1, 'Treuhandgesellschaft': 1, 'den': 1, 'Streiks': 1, 'die': 1, 'zum': 1, 'des': 1, 'gegründeten': 1, '» Who is Who': 1, 'sitzen': 1, 'Teil eines europa-': 1, 'Privatisierung , Verdrängungswettbewerb und': 1, 'Luftverkehr': 1, 'wie': 1}

@@ -1,0 +1,1 @@
+{'.': 2, '. Die': 1, 'bereits': 1, 'sollen': 1, 'Ermittler auf': 1, 'mitteilte .': 1, '. Eine Festnahme': 1, 'die': 1, 'Erfolg verbuchen': 1, 'am': 1, 'am Dienstag': 1, 'einer Woche': 1, 'Thomas-Feuer ist': 1, 'Westküstenstaates': 1, 'betroffenen': 1, 'Woche tobten ,': 1}

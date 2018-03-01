@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Sven Lohse': 1, 'Aukrug': 1, 'Antifa': 1, 'Lohse': 1, 'für Veranstaltungen zur': 1, 'Schwarzen': 1, ', der': 1, ',': 1, 'eine': 1, 'In': 1, 'Das': 1, 'nicht': 1, 'Brut': 1, 'Ihnen': 1}

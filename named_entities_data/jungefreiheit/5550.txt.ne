@@ -1,0 +1,1 @@
+{'Karrierefamilien': 1, 'beifällig': 1, 'Neu': 1, 'von der': 1, 'eben': 1, 'den': 1, 'bestreiten': 1, ', wenn': 1, 'gehört mir': 1, 'insofern als': 1, 'Kriterien': 1, 'sich': 1, 'Kind': 1, 'Kind der Frauenbewegung': 1, 'mit Erwachsenenleben': 1, 'dies': 1, 'durch': 1, '``': 1, "''": 1, 'Kopfschütteln': 1}

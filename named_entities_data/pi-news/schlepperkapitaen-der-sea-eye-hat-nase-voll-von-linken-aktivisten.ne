@@ -1,0 +1,1 @@
+{'GRUNDGESETZWATCH': 1, 'ZEIT': 1, 'einen wohlwollenden': 1, 'und': 2, 'Kragen :': 1, 'paar': 1, 'wir': 1, 'uns': 1, ',': 3, 'Gunter': 1, '.': 2, 'oben': 1, 'finanzierte': 1, 'Moritz': 1, '37': 2, 'Deshalb': 1, 'zwei': 1, 'etwas': 1, 'geschleust': 1, 'der': 1, 'auftauchen': 1, 'nicht bekannt': 1, 'Hilfsorganisationen': 1, 'Auf der': 1}

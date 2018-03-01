@@ -1,0 +1,1 @@
+{'dem': 1, 'Jugendliche': 1, 'am': 1, 'und': 1, 'junger': 1, 'für': 1, 'Kunst': 1, 'habe': 1, 'wem': 1, 'arabisch-islamischen': 1, 'gar': 1, 'von': 1, 'überzeugte': 1, ')': 1, '.': 2, 'nicht': 1, 'er': 1, 'ist': 1, 'Moslems': 1, 'wenn': 1, 'wie': 1, '2008': 1, '2003/2004 arbeitete': 1, 'Von': 1, 'war': 1, 'Freiheit': 1, 'bei Youtube': 1, 'bisher': 1}

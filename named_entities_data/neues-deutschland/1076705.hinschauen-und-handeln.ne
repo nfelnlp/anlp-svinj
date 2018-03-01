@@ -1,0 +1,1 @@
+{'Polizei': 1, 'Berlin': 1, 'Deutschland': 1, 'SPD': 1, 'FDP': 1, 'Grünen': 1, 'Antrag': 1, 'Vorfeld': 1, 'von': 1, 'allem auf Antisemitismus': 1, 'Erst': 1, 'der': 1, 'bezeichnet werden': 1, 'Damit': 1, 'signalisiert': 1, ', zeigt': 1, 'erscheint': 1, 'und': 1}

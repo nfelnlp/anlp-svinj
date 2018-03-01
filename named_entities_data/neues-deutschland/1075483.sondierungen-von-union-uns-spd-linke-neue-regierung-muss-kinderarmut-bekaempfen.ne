@@ -1,0 +1,1 @@
+{'. Die': 1, 'Bundestag': 1, 'SPD': 1, ',': 1, 'Deutschland': 1, '.': 1, 'wies darauf': 1, 'Eurostat': 1, 'Betroffene': 1, '. Zimmermann': 1, 'der': 1, 'ein': 1, 'dpa/nd': 1}

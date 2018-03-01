@@ -1,0 +1,1 @@
+{'tun': 1, 'und': 1, 'dem': 2, 'geht': 1, 'Norden': 2, 'eine': 1}

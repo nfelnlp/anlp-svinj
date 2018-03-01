@@ -1,0 +1,1 @@
+{'AFP/ Getty': 1, 'Weil': 1, 'damalige': 1, 'Koalition der': 1, 'zog': 1, 'er': 1, '“': 1, 'Gestus': 1, 'ließen': 1, 'alles Fehlanzeige': 1, 'Man': 2, 'am': 1, 'bei': 1, 'Frage': 1, 'einmal': 1, 'zwar': 1, 'um': 1, 'vorher': 1, 'stimmen': 1, 'heißt': 1, ':': 1, 'angesichts': 1, 'Posten ,': 1}

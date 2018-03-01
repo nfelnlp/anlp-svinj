@@ -1,0 +1,1 @@
+{'Junkies': 1, 'Dezernenten': 1, 'Kulturbeauftragte': 1, 'Galeriebesitzer': 1, 'diffamierte die': 1, 'als': 1, 'allesamt': 1, 'Bahnhofsviertel': 1, 'die': 1, '«': 1, '.': 1, 'eine Wohnung': 1, 'Viertel': 1, ', profiliert sich': 1, 'ins': 1, 'zu': 1}

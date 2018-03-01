@@ -1,0 +1,1 @@
+{'für': 1, 'FreItag': 1, 'urteilte': 1, '1.000': 1, ')': 1, 'sein': 1, 'sollten': 1, ',': 1, 'entfernen': 1, 'Cambridge .': 1, 'der Universität': 1, 'und sitzt': 1, 'Richterspruch Übersetzung': 1}

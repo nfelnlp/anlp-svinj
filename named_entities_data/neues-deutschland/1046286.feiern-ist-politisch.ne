@@ -1,0 +1,1 @@
+{'Saudi-Arabien ist Autofahren': 1, 'unbegleiteter': 1, 'Männern nachschauen': 1, ',': 2, 'Sonne': 1, 'kommt': 1, ', die vom': 1}

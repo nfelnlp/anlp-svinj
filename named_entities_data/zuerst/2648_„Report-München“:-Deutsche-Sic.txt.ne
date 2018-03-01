@@ -1,0 +1,1 @@
+{'München': 1, 'Deutschland eindringenden': 1, 'Flüchtlingsbewegung stelle': 1, 'aber': 1, 'befanden.': 1, ',': 2, 'die': 3, 'der': 1, 'belegen': 1, 'wiedergegebene': 1, 'das': 1, 'würde': 1, 'dass Terroristen die': 1, 'auch': 1, 'deutschen Partner vor': 1, 'in': 1, 'rekrutieren': 1, 'deutsche': 1, 'es': 1, 'einem': 1, 'erschien': 1, 'und': 1, 'stehen': 1, '12': 1}

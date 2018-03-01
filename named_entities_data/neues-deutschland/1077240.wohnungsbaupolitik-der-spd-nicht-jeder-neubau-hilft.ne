@@ -1,0 +1,1 @@
+{'( LINKE': 1, 'gerne': 1, 'die': 1, 'wieder': 1}

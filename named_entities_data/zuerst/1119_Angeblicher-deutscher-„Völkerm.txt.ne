@@ -1,0 +1,1 @@
+{'New': 2, 'New York': 1, 'Bundesrepublik Deutschland': 1, 'und': 1, '.': 1, 'Vertreter': 1, 'Manhattan scheiterte': 1, 'wurde': 1, 'Standpunkt': 1, '„Deutschland versucht': 1, 'daß': 1, 'des': 1, 'mit': 1, 'Windhuk': 1, 'soll': 1, 'mü': 1}

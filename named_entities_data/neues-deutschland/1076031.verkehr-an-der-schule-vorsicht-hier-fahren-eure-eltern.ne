@@ -1,0 +1,1 @@
+{'Thomas Gesterkamp': 1, 'Genervtes': 1, 'Düsseldorf': 1, '»': 1, 'Rolf Zuckowski': 1, 'ein': 1, 'Handbewegung': 1}

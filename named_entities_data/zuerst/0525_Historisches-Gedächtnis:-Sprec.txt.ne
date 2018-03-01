@@ -1,0 +1,1 @@
+{'russischen': 2, 'Igor Konaschenkow': 1, '20': 1, ':': 1, ',': 1, 'Antlitz': 1, ', daß': 1, 'Millionen': 1, 'für': 1, 'Wiederaufbau': 1, 'wir': 2, 'Mal': 1, 'nicht': 1, 'nicht.': 1, 'Der': 1, 'IS': 1, '‘': 1, '“': 1, 'auch': 1, 'noch 45.000': 1, 'die': 1, 'zerstörten Rakka': 1}

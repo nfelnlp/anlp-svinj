@@ -1,0 +1,1 @@
+{'nicht': 1, 'verrechnet .': 1, 'schon': 1, 'will': 1, 'Gewinne': 1, '-': 1, 'vielleicht': 1, 'und': 1}

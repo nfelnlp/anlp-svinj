@@ -1,0 +1,1 @@
+{'Christian Mang': 1, 'Hamburg': 1, 'Tag': 1, '„Wahl-Geld': 1}

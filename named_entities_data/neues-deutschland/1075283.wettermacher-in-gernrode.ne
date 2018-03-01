@@ -1,0 +1,1 @@
+{'.': 1, '. Im': 1, 'steht': 2, 'Christian Bertram auf': 1, '9,80 Meter': 1, '1948': 1, 'Balkon': 1, '9,80 Meter großen': 1, 'Figuren werden': 1, 'dieser': 1}

@@ -1,0 +1,1 @@
+{'Schäuble': 1, 'Sean Gallup/Getty': 1, 'Solch': 1, 'Familien': 1, 'FDP': 1, 'dagegen': 1, 'mit einem': 1, 'Projekt': 1, 'mächtigster Mann im': 1, 'als': 1, 'im': 1, 'Koalition': 1, 'spielen': 1, 'Beschluss zur': 1, 'mühsam in': 1, 'Griechenland-Misere': 1, '.': 1, 'für beschädigt': 1, 'Gebot': 1, 'hochrangigen': 1}

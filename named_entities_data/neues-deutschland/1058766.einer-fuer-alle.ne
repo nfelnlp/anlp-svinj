@@ -1,0 +1,1 @@
+{'Donnerstag könnte mit': 1, 'hat': 1, 'mithin': 1, 'dieser': 2, 'Groß-': 1, '-': 2, 'die': 1, 'Tarifbindung': 1, 'selbst': 1, ',': 2}

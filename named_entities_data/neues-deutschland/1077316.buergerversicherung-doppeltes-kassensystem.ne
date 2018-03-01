@@ -1,0 +1,1 @@
+{'bei': 1, 'GKV': 1, '(': 1, 'Sondierungsgesprächen begrüßte er': 1, 'motivierte': 1, '«': 1, 'von': 1, 'ein Konzept': 1, 'worden war': 1, 'Beitragsbemessungsgrenze': 1, 'ist': 1, 'Kann und': 1, 'SPD': 1, 'der': 1, 'in': 1, ',': 1}

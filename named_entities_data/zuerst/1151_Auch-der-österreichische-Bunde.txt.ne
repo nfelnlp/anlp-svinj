@@ -1,0 +1,1 @@
+{'Wien': 1, 'SPÖ-Bundeskanzler': 1, 'gegen': 1, 'EU-Länder mobil': 1, 'Jetzt': 1, 'und': 1, 'EU-Budget': 1, 'kürzen': 1, 'weigerten': 1, 'die': 2, 'Beim': 1, 'beide': 1, 'völlig': 1, 'es': 1, 'polnische': 1, 'Warschau': 1, 'Unterschrift verweigert': 1, '„sehr': 1, '.': 2, 'den': 1, 'oder': 1, 'Angesichts': 1, ',': 1, 'da': 1, 'Schritte': 1, 'Brandstifter': 1, 'hier': 1, '”': 1}

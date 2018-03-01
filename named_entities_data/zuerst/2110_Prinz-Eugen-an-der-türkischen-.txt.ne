@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Wien': 1, 'ein': 1, 'Eugen und': 1, '“ an': 1, '“ an .': 1, 'Erdogan': 1, 'die': 1, '.': 1, 'kürzlich': 1, 'daß': 1, 'baldigen': 1, '„Heiliger': 1, 'ihrer': 1, 'Debatte': 1, 'Süleyman': 1, 'Enkel': 1, 'Sprecher': 1, '„Identitären': 1, 'der wichtigsten Feldherren': 1}

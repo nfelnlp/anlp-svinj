@@ -1,0 +1,1 @@
+{'Der Held': 1, 'nicht': 1, 'Mitherausgeberin der': 1, 'die Eleganz': 1, 'als dysfunktional': 1, ', was': 1, 'größte Projekt': 1, 'und': 1, 'dazu äußern': 1, 'dazu äußern .': 1, 'Die': 1, 'Die Förderung eines': 1, '.': 2, 'Arbeitsräume': 1, 'Sag alles ab': 1}

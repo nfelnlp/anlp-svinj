@@ -1,0 +1,1 @@
+{'.': 2, '. Bayerische': 1, 'Bund': 1, 'Antifaschisten': 1, 'VVN-BdA': 1, 'aus': 1, 'der': 1, 'initiiert hat': 1, 'Positionen': 1, 'sondern': 1, 'neonazistische': 1, '« vom Verfassungsschutz': 1, 'die': 1, '»': 1, 'verweisen zudem': 1, 'im': 1, 'anderen': 1}

@@ -1,0 +1,1 @@
+{'.': 2, '. In': 1, '(': 1, 'der': 1, 'unter': 1, ', wie': 1, 'Mittwoch': 1, 'absolvierte': 1, 'Putzmacherin': 1, 'Nach': 1, 'wo sie': 1, 'für': 1, 'die': 1, 'Paris .': 1, 'Vorstand': 1, 'Zeitschrift': 1}

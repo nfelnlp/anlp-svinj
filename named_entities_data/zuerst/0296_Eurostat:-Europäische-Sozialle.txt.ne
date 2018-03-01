@@ -1,0 +1,1 @@
+{'Brüssel': 1, 'EU': 1, 'EU-Statistikamt': 1, '.': 1, '(': 1, 'Finnland': 1, 'je': 5, 'den': 1, 'Österreich': 1, 'Italien': 1, 'Lettland': 1, 'Estland': 1, '17': 1, 'Bulgarien': 1, 'der': 2, 'gemeldet (': 1, 'von': 1, '37': 1, 'weniger': 1, 'gesamten': 1}

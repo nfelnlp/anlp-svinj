@@ -1,0 +1,1 @@
+{'Brüssel': 1, 'schwere': 1, 'Griechenland .': 1, 'Fälle': 1, 'näher': 1, 'Die': 1, 'der': 1, ', wenn': 1, 'Verletzung': 1, 'zutagegefördert': 1, 'in den': 1, 'Italien': 1, 'In': 1}

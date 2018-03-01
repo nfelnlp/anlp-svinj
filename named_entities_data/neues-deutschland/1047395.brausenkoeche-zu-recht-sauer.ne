@@ -1,0 +1,1 @@
+{'ging an': 1, 'in': 1, 'Dorsten': 1, 'Bielefeld': 1, 'Gladbek': 1, 'Münster': 1, 'Hamm': 1, '…': 1, 'die': 2, 'Cola': 1, 'Partners ( CCEP': 1, 'die NGG liegen in': 1, 'in der': 1, 'Anfang': 1, 'rund': 1, 'Es': 1, 'Festbetrag ein': 1}

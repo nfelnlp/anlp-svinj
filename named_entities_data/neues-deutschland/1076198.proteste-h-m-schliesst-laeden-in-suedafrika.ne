@@ -1,0 +1,1 @@
+{'.': 1, '. Nach': 1, 'die': 1, 'Partei der': 1}

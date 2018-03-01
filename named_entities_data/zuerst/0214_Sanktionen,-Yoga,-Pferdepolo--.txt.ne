@@ -1,0 +1,1 @@
+{'Alexandre Garese': 1, 'Rußland': 1, ',': 2, 'betreiben in': 1, 'Ukraine': 1, 'Frau': 1, '.': 3, 'schwierigen': 1, 'jeder': 1, 'in': 1, 'und': 1, 'paradox': 1, 'habe': 1, 'es': 1, 'bis': 1, 'Training': 1, 'US-Dollar': 1, ': Ich verstehe': 1, 'eines': 1, 'Sammlers': 1, 'Sowjetzeit': 1}

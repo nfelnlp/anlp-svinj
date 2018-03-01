@@ -1,0 +1,1 @@
+{'zu': 1, 'Einbürgerung': 1, 'Einbürgerung führen können': 1, 'Bekenntnis-': 1, '. Das': 1, 'die Werteordnung des': 1, '\x95 das': 1, 'in': 1, 'Frau': 1, 'Tochter': 1, 'einige': 1, 'Frauen': 1, 'Berufe': 1, 'die': 1, 'In': 1, 'planen': 1, 'Sie': 3, 'Der Vorsitzende': 1, '`` ein': 1, ')': 1, 'wurden': 1, 'Manche Leute': 1, 'Anschlägen': 1, 'von': 1, '29': 1}

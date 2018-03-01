@@ -1,0 +1,1 @@
+{'Washington': 1, 'Jared Kushner': 1, 'Ivanka Trump': 1, 'Bannon ,': 1, 'sein': 1, 'erscheint': 1, 'unmittelbar nach der': 1, ',': 1, 'Deal': 1, 'sich': 1, 'letzten 20': 1, 'vor': 1, 'Economic': 1}

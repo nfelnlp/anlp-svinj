@@ -1,0 +1,1 @@
+{'Bern': 1, 'Schweiz': 4, 'Schweizerische Volkspartei': 1, 'SVP': 1, 'EU': 1, 'SVP-Angeordnete': 1, 'begründete die': 1, 'Basel': 1, 'den': 1, 'sich': 1, 'nach': 1, 'eine': 1, 'für': 1, 'plant': 1, 'mit': 1, 'Mitglieder': 1}

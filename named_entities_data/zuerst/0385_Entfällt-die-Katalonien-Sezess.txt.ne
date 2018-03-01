@@ -1,0 +1,1 @@
+{'Barcelona/Madrid': 1, 'In': 1, 'sich': 1, 'ab': 1, 'von': 1, 'ist': 1, 'im': 1, 'Umfrage': 1, 'sprechen': 1, 'sprechen sich': 1, '21': 1, 'bei': 1, 'konnten': 1, 'Unabhängigkeitsreferendum Anfang': 1, 'und': 1, 'und lag': 1, 'Belgien': 1, ')': 1}

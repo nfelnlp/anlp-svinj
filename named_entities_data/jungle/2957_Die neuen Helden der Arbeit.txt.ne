@@ -1,0 +1,1 @@
+{'Die': 1, 'die': 2, 'Er ist': 1, 'Mitbegründer': 1, 'größten Risikokapitalfonds in': 1, 'israelischen': 1, 'trockener Unternehmer': 1, ':': 1, 'boomen': 1, 'der': 1, 'Reihe': 1, 'Erfolg': 1, '. Von der': 1, 'fruchtbar': 1, 'erfanden': 1, 'Bereich': 1, '.': 2, ',': 2, 'mit denen': 1, 'their': 1, 'give': 1, 'ein': 1, 'Schriftzug': 1, 'No': 1, 'Arbeitsbedingungen': 1}

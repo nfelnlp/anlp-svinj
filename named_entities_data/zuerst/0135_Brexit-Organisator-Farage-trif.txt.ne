@@ -1,0 +1,1 @@
+{'Brüssel': 1, 'EU-Kritiker': 1, 'als Organisator': 1, 'gilt': 1, 'Verhandlungen': 1, 'Barnier': 1, 'Farage unzufrieden': 1, 'erklärte': 1, 'den': 1, 'denn': 1, 'von': 1, 'Premierministerin': 1, 'bis': 1, 'nicht': 1, 'die zum': 1, 'sein ,': 1, 'Der': 1, 'er': 1, 'EU und': 1, 'Farage': 1, 'steigen werde': 1, 'verschwenden': 1, 'Artikel': 1, 'gesprochen': 1, ',': 1}

@@ -1,0 +1,1 @@
+{'Preußen': 1, 'Friedrich Wil\xadhelm I': 1, ',': 2, 'allem': 1, 'Uns': 1, 'höchstnötigen': 1, 'bis': 1, 'sollen.': 1, 'erste': 1, '.': 1, 'eingeführt , Straßburg': 1, '1647': 1, 'ein . Für': 1, 'Bevölkerung': 1, 'die': 1, 'großen': 1, 'über': 1, 'Gutsherren und': 1, 'gewaltige': 1, 'Haushandwerker': 1, 'vom': 1, 'Vormacht': 1}

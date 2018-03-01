@@ -1,0 +1,1 @@
+{'Charité': 2, 'Belegschaften': 1, 'Saarland': 1, 'Schleswig-Holstein , Nordrhein-Westfalen': 1, 'Hessen formieren sich': 1, ',': 3, 'rund': 1, 'müssen': 1}

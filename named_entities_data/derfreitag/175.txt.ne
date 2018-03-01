@@ -1,0 +1,1 @@
+{'.': 2, 'dem üblichen': 1, 'leben im': 1, 'unruhigen Kaschmir .': 1, 'den': 1, 'dem': 1, 'Land': 1, 'Auch': 1, 'des Filmes': 1, 'Hauptdarstellern eine': 1, 'Tauziehen mit den': 1, 'eine': 1, 'die': 1, 'sich': 1, '. )': 1, '19.15 Uhr': 1}

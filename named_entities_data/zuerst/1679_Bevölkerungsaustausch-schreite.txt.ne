@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Hamburg': 3, 'Deutschland': 1, 'Billbrook': 1, 'Polen': 1, 'Afghanistan': 1, 'Russische Föderation': 1, 'Iran': 1, 'Kasachstan': 1, 'Syrien': 1, 'Portugal': 1, 'deutschen': 1}

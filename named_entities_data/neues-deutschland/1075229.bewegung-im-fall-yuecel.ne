@@ -1,0 +1,1 @@
+{'. Die': 1, '. In': 1, 'gegen': 1, 'Beschwerde': 1, ',': 3, 'die': 1, 'Staatsbürgerschaft': 1, 'bleiben': 1, 'im Dezember': 1, '.': 1, 'vor': 1, 'Menschenrechte in': 1, 'eingelegt': 1, 'Nach': 1}

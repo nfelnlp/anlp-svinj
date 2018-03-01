@@ -1,0 +1,1 @@
+{'Budapest': 1, 'Kovacs': 2, 'wegen Spionage': 1, 'an': 1, 'Das': 1, 'Parlament hatte': 1, '20': 1, 'Russin': 1, 'als': 2, 'Entstehungsjahren': 1, 'Die': 1, 'Staatsanwaltschaft': 1, 'den': 1, 'sollen': 1, 'nicht': 1, 'steht': 1, ',': 1, '.': 1}

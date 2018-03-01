@@ -1,0 +1,1 @@
+{'Mailand': 1, 'Katalonien': 1, 'Roberto': 1, ', mit': 1, 'sei': 1, 'rechtsnationalen': 1, 'äußerte': 1, 'äußerte die': 1, 'für': 1, 'selben': 1, 'Unterstützung': 1, 'Unterstützung von': 1, 'eine': 1, 'eine Mitte-Rechts-Allianz im': 1, 'Parlamentswahlen im': 1, 'gefordert': 1, 'über': 1, 'eines Sonderstatuts': 1, 'erweiterte Autonomie . Zehn': 1, 'Wähler': 1, 'am': 1, 'in': 1}

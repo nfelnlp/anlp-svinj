@@ -1,0 +1,1 @@
+{'Sofia': 2, 'werben': 1, 'Proteste': 1, 'Uniformierte laufen mit': 1, ', bulgarischer': 1, 'im': 1, 'wieder': 1, ',': 1, 'Legionen , zu': 1, 'erschossen': 1}

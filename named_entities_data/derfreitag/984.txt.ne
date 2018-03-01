@@ -1,0 +1,1 @@
+{'Obergrenze': 1, 'Es': 1, 'mit': 1, 'Sprache': 1, 'Boot': 1, '`` Schiff': 1, 'erklären': 1, 'auch': 2, 'Debatten um': 1, 'Die': 1, '``': 1, 'Grenze': 1, 'wird': 1, 'äußeren': 1}

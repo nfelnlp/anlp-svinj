@@ -1,0 +1,1 @@
+{'London': 1, 'EU-kritischen': 1, 'Carswell': 1, 'Partei im': 1, 'der': 1, 'vom Posten des': 1, 'Partei': 1, '.': 2, 'Fällen': 1, 'einem Ziel': 1, 'schließen nicht': 1, 'er': 1, 'weshalb': 1}

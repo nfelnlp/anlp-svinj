@@ -1,0 +1,1 @@
+{'Wien': 1, 'Anders': 1, 'Bundesrepublik': 1, 'Österreich': 1, 'ÖVP': 1, 'FPÖ': 1, 'und': 1, '.': 1, 'die': 1, 'Schwerpunkte des': 1, 'digitalen': 1, 'hoch': 1}

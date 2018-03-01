@@ -1,0 +1,1 @@
+{'Hartz': 1, 'Hartz IV-Empfänger': 1, 'ist': 1, 'landen ,': 1, 'kämpfen': 1, 'diese Module': 1, 'jedoch': 1, 'nie': 1, 'Armut': 1, 'noch': 1, 'oftmals': 1, 'Zahl': 1, 'über': 1, 'Bildung': 1, ',': 1, 'Geburt': 1, 'staatlichen': 1}

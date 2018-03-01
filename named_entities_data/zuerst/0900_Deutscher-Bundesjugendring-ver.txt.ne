@@ -1,0 +1,1 @@
+{'und': 1, 'Doch': 1, 'sei –': 1, 'für': 1, 'ihm': 1, 'Lebensentwürfen': 1, 'sexuellen': 1}

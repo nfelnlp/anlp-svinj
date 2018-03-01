@@ -1,0 +1,1 @@
+{'Budapest': 1, 'ungarischen': 1, 'Orbán': 1, 'Bakondi': 1, 'Europäischen Gerichtshof': 1, 'Ungarn': 1, 'wörtlich': 1, 'an': 1, 'daß': 1, 'das': 1, 'für': 1, 'hatte': 1, 'hatte zwei': 1, ',': 3, 'sicheres': 1, 'Komitee': 1, 'vertreten': 1, 'eine': 1, 'neuer': 1}

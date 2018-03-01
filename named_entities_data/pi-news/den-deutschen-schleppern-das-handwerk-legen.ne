@@ -1,0 +1,1 @@
+{'im': 1, 'und': 1, '.': 1, '?': 1, 'Tag': 1, 'in': 1, 'ist': 1, 'denen': 1, 'nächsten': 1, 'Schlepper': 1, '„Flüchtlinge': 1, 'die': 1, 'Geschichte': 1}

@@ -1,0 +1,1 @@
+{'Pristina': 3, 'AFP': 1, 'Kosovo': 1, 'Moshe Harel': 1, 'unter': 1, '.': 1, 'erfolgte die': 1, ',': 1, 'Prämien': 1, 'als bald': 1, 'von': 1, 'eine': 1, 'auf': 1, 'Skandals': 1, 'Ärzte': 1, 'zu': 1, 'das': 1, 'und': 1, '. Ein': 1, 'als': 1, '“ bezeichnet wird': 1}

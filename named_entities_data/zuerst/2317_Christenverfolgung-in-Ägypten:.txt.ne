@@ -1,0 +1,1 @@
+{'Kairo': 1, 'hat': 1, 'IS': 1, 'dem': 1, 'in': 1, 'Bisher': 1, 'fast': 1, 'Der': 1, 'mit allem': 1, 'Nordsinai': 1, ',': 1}

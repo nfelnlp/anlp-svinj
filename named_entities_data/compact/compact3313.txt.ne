@@ -1,0 +1,1 @@
+{'Ukraine': 1, 'Wladimir Putin': 1, 'EU': 2, '–': 1, 'Andreas W. !': 1, 'marschiert': 1, 'vorgestellt': 1, ',': 3, '? Und': 1, 'und': 2, 'Volksrepublik ,': 1, '. Wir': 1, 'mit': 1, 'Übergang': 1, 'des Präsidenten': 1, 'vorgeschlagen ,': 1, 'die': 1, 'der Vereinbarungen': 1, 'Orten': 1, 'Vielleicht': 1, 'Situation': 1, '.': 1, 'Beispiel': 1, 'der': 1, 'um mit': 1, 'schlechte': 1}

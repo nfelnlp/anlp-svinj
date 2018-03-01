@@ -1,0 +1,1 @@
+{'Ronald Gläser': 2, 'Henkel hat': 1, ': Das': 1, 'eine': 1, 'ihnen': 1, '.': 2, 'Die': 2, 'Wahlen': 1, ':': 1, 'auch aus Mecklenburg-Vorpommern': 1, 'Mitglieder aufgefordert ,': 1, 'etwa': 1, 'Aber': 1, 'ein': 1}

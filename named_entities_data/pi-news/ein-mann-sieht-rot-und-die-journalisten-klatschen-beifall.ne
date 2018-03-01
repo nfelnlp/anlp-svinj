@@ -1,0 +1,1 @@
+{'( Foto': 1, '!': 1, 'her ,': 1, '„Rock am Ring': 1, 'Regel gehen': 1, 'Lobeshymnen und': 1, 'ansonsten': 1, 'Ring-Veranstalter rastet': 1, 'bei': 1, 'mit': 1, 'Worte': 1, 'Pharisäer .': 1, '.': 3, 'ihnen': 1, 'Logisch ,': 1, 'Islam': 1, ',': 1, 'Anschlag': 1, 'Nicht': 1, ', dann': 1, 'keine': 1, 'Ring': 1, 'Festival': 1}

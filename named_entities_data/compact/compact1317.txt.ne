@@ -1,0 +1,1 @@
+{'Höcke': 1, 'Björn Höcke': 1, 'letzte': 1, 'aber': 1, ',': 3, '!': 1, 'darin': 1, ')': 1, 'wie': 1, 'unter': 1, 'oppositioneller': 1, 'zur': 1, 'der': 2, 'wird': 1, 'das': 1, 'außerparlamentarischer Opposition': 1, 'Amerikaner': 1, 'anschieben': 1, 'liegen': 1, 'habe ja': 1, 'versucht': 1, '.': 1}

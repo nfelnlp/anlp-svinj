@@ -1,0 +1,1 @@
+{'Schwerstbehinderten': 1, 'In den': 1, 'jüngst': 1, 'Stellen': 1, 'der AfD': 1, 'ideologisches Projekt ,': 1, 'schilderte im': 1, 'bei dem alle': 1, 'Inklusion': 1, 'nicht': 1, 'die': 1, 'behindert Die': 1, 'der UN-Behindertenrechtskonvention': 1, 'auch': 1, 'für': 1, 'ganzen': 1, 'sich': 1, 'Handicaps': 1, 'ihnen': 1, 'eingehen': 1, 'drücken': 1, 'markiert ,': 1}

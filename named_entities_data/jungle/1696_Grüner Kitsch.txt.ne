@@ -1,0 +1,1 @@
+{'Garden-Guerillero': 1, '/ Alamy': 1, 'Innerstädtischer': 1, 'zu': 1, 'die an': 1, 'übersteigerten': 1, 'Städte': 1, 'Akten': 1, 'nur': 1, 'als auf': 1, 'Forest': 1, 'Million': 1, 'Straßen': 1, 'kommen': 1, 'Luft': 2, 'Heute': 1, 'etwa': 1, 'Vermummten': 1, 'ein': 1, 'der': 1, 'wichen': 1, 'auf': 1, 'Schutthalden': 1, 'rückgebauter': 1, 'versucht': 1, 'Pflanzen': 1}

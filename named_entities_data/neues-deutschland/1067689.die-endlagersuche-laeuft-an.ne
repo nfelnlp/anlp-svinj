@@ -1,0 +1,1 @@
+{'Schleswig-Holstein': 1, 'kürzlich durch Meldungen': 1, 'vor der dänischen': 1, 'Irgendwo': 1, 'wird': 1, 'Ort': 1, 'Lediglich': 1, 'Bundesland stünden': 1, 'Auswertung': 1, 'Miranda': 1, 'wird und': 1, 'begleiten soll': 1, 'Nach': 1, 'die': 1, 'für Erdwärme-': 1}

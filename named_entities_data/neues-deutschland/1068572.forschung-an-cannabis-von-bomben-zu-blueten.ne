@@ -1,0 +1,1 @@
+{'.': 1, '. Einst': 1, 'Nachdem': 1, 'wollen': 1, 'München vorangetrieben .': 1, 'der': 2, 'TU': 1, '»': 1, 'Anbau': 1, 'bei München zur': 1, 'gebracht': 1, 'Die': 1, 'eigenen Angaben': 1, 'um': 1, 'Israel': 1, ',': 1, 'Zypern': 1, 'Das': 1, 'nach': 1, 'einer': 1, 'Jahren': 1, 'vorstellen': 1, 'Bunker': 1}

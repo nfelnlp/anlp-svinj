@@ -1,0 +1,1 @@
+{'Daniel Hawkins': 1, 'EU': 1, 'Kolumbien': 1, 'EU-Botschafterin': 1, '.': 1, 'und Kolumbien': 1, 'In': 1, 'wo': 1, 'wollte': 1, 'sehr': 1}

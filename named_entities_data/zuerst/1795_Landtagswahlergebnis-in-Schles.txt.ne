@@ -1,0 +1,1 @@
+{'Kiel': 1, 'CDU': 2, 'Unionsspitzenkandidat Daniel Günther': 1, '“': 1, 'und': 2, 'gestiegen': 1, 'Günther': 1, 'den': 1, 'Schleswig-Holstein': 1, '. Das geht': 1, 'Politik': 1, 'erhielt': 1, 'befreite': 1, 'der': 2, 'Minderheit': 1, 'bereits': 1, 'zu': 1, 'des': 1, 'ein Überhangmandat für': 1, 'Sitze': 1, 'Sitzen': 1, 'Mandat': 1, 'das': 1}

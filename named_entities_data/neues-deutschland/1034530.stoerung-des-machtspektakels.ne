@@ -1,0 +1,1 @@
+{'Hamburg': 1, 'Weihnachten naht': 1, 'sich': 1, 'von der': 1, 'statt': 1, 'einigen': 1, ') kündigte den': 1, 'kurz': 1, 'Andere': 1, 'genau': 1}

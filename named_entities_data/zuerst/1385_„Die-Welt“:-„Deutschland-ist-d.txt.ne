@@ -1,0 +1,1 @@
+{':': 1, 'zum': 1, 'Nationen': 1, 'Ausländer': 1, 'jüngsten': 1, '. In': 1, '13,3': 1, 'Auswertungsjahr': 1, '„Die': 1, 'Australiens': 1, 'einem': 1, 'die': 1, 'Nicht-EU-Ausländer': 1, 'Nummer eins': 1, 'Allein': 1, 'Jahr': 1, '‚Flüchtlingskrise': 1, 'so „Die': 1, ')': 1}

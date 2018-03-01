@@ -1,0 +1,1 @@
+{'Washington/Paris': 1, 'Die': 1, 'austreten –': 1, 'anderem': 1, 'formell': 1, 'die': 1, ',': 1, '. Hintergrund': 1, 'Washington einmal': 1, 'der': 1, 'mitgeteilt': 1, 'Multilateralismus ein': 1, 'Sitz hat .': 1, 'UNESCO': 1, 'zahlreichen': 1, 'Ländern': 1, 'an': 1, 'offenbar': 1, '.': 1, 'zog': 1, 'aus': 1, 'aus der': 1}

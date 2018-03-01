@@ -1,0 +1,1 @@
+{'Revilok ;': 1, 'Meine': 1, 'Politik mitgestalten zu': 1, 'das': 2, 'Gültigkeit': 1, 'ausgegangen': 1, 'global': 1, '-': 1, 'ist': 1, '.': 1, 'hatte': 1, 'auch': 1, ',': 1, 'weder': 1, 'oder': 1, 'aufgelöst': 1, 'an': 1, 'völlig': 1, 'in': 1, 'NSA': 1, 'Wohlergehen': 1, 'Planet': 1, 'Planet hatten': 1, 'Planet hatten .': 1, 'ihre': 1, 'nicht': 1, 'einfach': 1, 'uns alle .': 1}

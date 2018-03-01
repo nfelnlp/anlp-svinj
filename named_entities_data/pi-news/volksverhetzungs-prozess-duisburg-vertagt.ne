@@ -1,0 +1,1 @@
+{'Duisburg': 1, ') Dabei': 1, '.': 3, 'mir': 2, 'feindselige': 1, 'ein': 1, 'dass': 1, 'berichtete': 1, 'nach': 1, ', dass': 1, 'worden': 2, 'die': 2, ', unter den': 1, 'zu': 1, ',': 3, 'ist durch': 1, 'sie': 1, 'werden': 1, '“ Ein': 1, '„Der': 1, 'U-Haft': 1, '. Den Vorfall': 1, '. Juli': 1, 'jetzigen Termin': 1, 'Auto': 1}

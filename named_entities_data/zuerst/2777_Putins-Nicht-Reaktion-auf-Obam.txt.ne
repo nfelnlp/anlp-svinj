@@ -1,0 +1,1 @@
+{'Washington/Moskau': 1, 'Als': 1, '35': 1, 'den USA': 1, 'von': 1, 'völlig': 1, 'Leere': 1, 'dieses': 1, '‘': 1, ',': 1, 'Unter': 1, 'die': 1, 'Wissenschaftler und Experte': 1, 'russische': 1, '„Das ist': 1, 'Staaten bekommen': 1, '“': 1, ', Donald': 1, 'sich dazu': 1, '.': 1, 'das Moskau': 1}

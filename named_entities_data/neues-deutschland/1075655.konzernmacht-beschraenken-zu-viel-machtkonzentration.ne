@@ -1,0 +1,1 @@
+{'darüber freut': 1, 'an der': 1, 'Bürgerliches Recht': 1, 'den': 1, 'Rechtsgrundlage': 1, 'ein': 1, ', die': 1, 'dem': 1, 'Frankreichs': 1, 'und': 2, 'größer die': 1, 'haben sie': 1}

@@ -1,0 +1,1 @@
+{'Dresden': 1, '(': 1, '2015/16 finanziert': 1, '29 Millionen': 1, 'geförderten Projekte anschaue': 1, 'Euro': 1, 'Mein Eindruck ist': 1}

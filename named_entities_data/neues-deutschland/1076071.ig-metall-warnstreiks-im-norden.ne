@@ -1,0 +1,1 @@
+{'. Die': 1, ', Nobiskrug ,': 1, 'beteiligen': 1, 'In': 1, 'der': 1, 'bestreikt': 1, 'Unterdessen wurde': 1, 'Runde der Tarifverhandlungen': 1, 'Allerdings sei': 1, 'Bewegung': 1}

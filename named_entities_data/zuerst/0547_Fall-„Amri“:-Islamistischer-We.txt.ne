@@ -1,0 +1,1 @@
+{'Gesellschaft 1': 1, 'Gesellschaft 1 Berlin': 1, 'Anis': 1, '“': 1, 'worden sein .': 1, 'einem Anschlag': 1, 'einem': 1, 'Anheizer': 1, ',': 1, 'Auch': 1, 'können': 1, 'tw/sp': 1}

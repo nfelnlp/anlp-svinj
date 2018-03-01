@@ -1,0 +1,1 @@
+{'. Angesichts': 1, 'die': 1, 'und': 1, 'Die': 1, 'sicher': 1, 'Kabul': 1, 'werden': 1, 'auch': 1, 'einer aus Nordrhein-Westfalen': 1, 'Liste , hieß': 1, 'Bundesländern': 1, 'sind': 1, 'angegriffen': 1, 'Dabei': 1, 'mindestens': 1}

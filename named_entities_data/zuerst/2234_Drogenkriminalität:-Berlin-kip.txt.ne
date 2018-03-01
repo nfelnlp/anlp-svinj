@@ -1,0 +1,1 @@
+{'Gesellschaft 2 Berlin': 1, '.': 1, 'dürfen nun': 1, 'zu': 1, 'für sie': 1, 'die': 1, 'die Null-Toleranz-Grenze': 1, '. Dabei wird': 1}

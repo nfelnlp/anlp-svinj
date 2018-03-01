@@ -1,0 +1,1 @@
+{'Wien': 1, 'Brandstetter': 1, 'ÖVP': 1, 'zu': 1, '“ wie': 1, 'Mitte': 1, 'auf': 1, 'Presseagentur': 1, 'Man': 1, 'Thema': 1, 'der Gemeinden': 1, ',': 1}

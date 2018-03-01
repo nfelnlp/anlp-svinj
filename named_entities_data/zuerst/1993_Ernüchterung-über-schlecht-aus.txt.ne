@@ -1,0 +1,1 @@
+{'Wien': 1, 'gibt': 1, 'Denkfabrik': 1, 'belegt': 1, 'geringqualifiziert': 1, 'Studie': 1, 'Anstellung': 1, 'Kommentar darauf': 1, 'Integration': 1, 'Wirtschaftsturbo': 1}

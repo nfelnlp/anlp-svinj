@@ -1,0 +1,1 @@
+{'DGB-Chef': 1, 'In einem': 1, 'auch': 1, 'Eigentümer': 1, 'Tölle': 1, 'sich dabei': 1}

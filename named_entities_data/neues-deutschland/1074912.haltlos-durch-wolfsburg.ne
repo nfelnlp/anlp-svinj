@@ -1,0 +1,1 @@
+{'den': 1, 'wollte': 1, '.': 1, ',': 2, 'planmäßig': 1, 'Zweifel': 1, 'mittlerweile': 1, 'nach dem letzten Vorfall': 1, 'entlockt': 1, 'vielen': 1, 'vielen nur': 1, 'Das': 1, 'ein': 1, 'geworben .': 1, 'doch': 1, 'sind': 1, 'Fahrpläne': 1, 'schlichtweg': 1, 'zu': 1, 'könnte': 1, '«': 1, 'auswirken': 1}

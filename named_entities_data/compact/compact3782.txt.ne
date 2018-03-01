@@ -1,0 +1,1 @@
+{'Zypern': 1, 'EU-Gesetzgebung': 1, 'sehen': 1, 'ihren': 1, 'das': 1, 'Angebote': 1, 'nach': 1, 'so': 1, 'dies': 1, 'Krügerrand': 1, 'Europa': 1, 'Gold': 1, 'einer': 1}

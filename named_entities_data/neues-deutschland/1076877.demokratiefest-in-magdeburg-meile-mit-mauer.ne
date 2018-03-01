@@ -1,0 +1,1 @@
+{'Sachsen-Anhalts Hauptstadt Magdeburg': 1, 'Die': 1, 'haben': 1, 'FC Magdeburg . Jenseits': 1, 'Kritiker als': 1, '» Miteinander': 1, 'Meile': 1, 'SPD )': 1, 'zur': 1, 'Evangelische': 1, 'Versuch der': 1, 'ergänzten': 1, '»': 1, 'von Extremismus': 1}

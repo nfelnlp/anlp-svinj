@@ -1,0 +1,1 @@
+{'. Der': 1, 'der Volkssolidarität': 1, 'Mecklenburg-Vorpommern': 1, 'muss': 1, 'die 2009 im': 1, 'seien': 1, '2013': 1, 'das': 1, 'der': 1}

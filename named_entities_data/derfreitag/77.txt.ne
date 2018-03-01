@@ -1,0 +1,1 @@
+{'/ Getty': 1, 'Letzte': 1, 'alt': 1, 'bekannten': 1, '.': 2, 'weit': 1, 'zu': 1, ',': 1, 'Hilfsdienste': 1, 'amtierende Berliner': 1, 'ließ': 1, 'gerne': 1, 'Nasszelle': 1, ', das bleibt': 1, 'genau': 1, 'Wertverfall': 1, 'ermittelte': 1, 'auch': 1, 'die': 1, 'aus': 1, 'am 12.02.2014': 1, '€': 1, 'ist': 1, 'angesammelten': 1, 'Orientierung': 1, '!': 1, 'Das': 1}

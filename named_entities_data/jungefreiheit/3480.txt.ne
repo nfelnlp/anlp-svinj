@@ -1,0 +1,1 @@
+{'nicht': 1, '(': 1, 'Frage': 1, 'der': 2, 'dies': 1, 'zehn': 1, ',': 1, 'unzulässig': 1, 'Presseinfo': 1, 'Migranten-Plädoyer': 1, '\x96 ganz': 1, 'eine': 1, 'ein Recht': 1, 'dem': 1, 'von': 1, 'Realität ,': 1, 'harmlosen': 1, "''": 1, 'Drehbuch': 1, '.': 1, 'Sätze': 1, 'aneinandergereiht': 1, 'Haltung': 1, '``': 1}

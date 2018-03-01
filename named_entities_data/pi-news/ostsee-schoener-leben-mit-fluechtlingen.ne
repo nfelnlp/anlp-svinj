@@ -1,0 +1,1 @@
+{'Germoney': 1, 'hat': 1, 'hat sich': 1, 'Chevrolet': 1, 'Einwohnern': 1, 'eine': 1, 'aufgenommen': 1, 'wurden': 1, 'dort': 1, 'Geschrei': 1, 'die Fahrkarte': 1, 'nicht': 1, 'nagelneuen': 1, 'gestellt': 1, '.': 1, '. Einzig': 1, 'Gärten': 1, 'Blick gen': 1, 'Asylforderer betrachten': 1, 'gelangweilten': 1, 'so': 1, 'bisher': 1, 'den': 1, 'Gäste': 1}

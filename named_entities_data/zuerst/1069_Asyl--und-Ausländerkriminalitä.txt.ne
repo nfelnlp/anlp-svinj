@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Deutschland': 1, '.': 2, 'Dabei': 1, 'Barcelona': 1, 'B.': 1, 'B. festnehmen , der': 1, 'ermordet': 1, 'soll': 1, 'des': 1, 'betrunkene': 1, 'Eritreer': 1, '. Zunächst sprach': 1, 'bevor er': 1, 'dem': 1}

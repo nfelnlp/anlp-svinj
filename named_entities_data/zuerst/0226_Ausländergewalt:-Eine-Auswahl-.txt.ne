@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Deutschland': 1, 'von': 1, 'drei': 1, 'eine': 1, '21jährigen': 1, 'einem': 1, 'Ein': 1, 'sein': 1, 'die': 1}

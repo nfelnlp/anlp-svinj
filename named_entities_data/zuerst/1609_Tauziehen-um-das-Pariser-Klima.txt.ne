@@ -1,0 +1,1 @@
+{'Washington': 1, 'zum': 1, 'berichtet „Axios': 1, 'dem Pariser': 1, 'auszusteigen': 1, '.': 2, 'argumentieren': 1, 'sei': 1, 'menschengemacht': 1, 'Abkommen': 1}

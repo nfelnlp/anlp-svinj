@@ -1,0 +1,1 @@
+{'Xavier Naidoo': 1, 'Publizisten': 1, 'der berühmteste': 1, 'stärksten': 1, '…': 1, 'Ich': 1, 'weil': 1, 'ihm': 1, 'Rechts': 1, 'neurechts': 1, '[': 1, 'Verfassungsfrage': 1, '[ nicht': 1, 'was': 1, 'aber': 1, 'schnell': 1, ']': 1, '.': 3, 'echte': 1, '(': 1, 'ansonsten': 1, 'denke': 1, 'schon': 1, ',': 1, 'angelegt': 1, 'dass': 1, 'Deutschland': 1, 'Nee': 1, 'können': 1}

@@ -1,0 +1,1 @@
+{'China': 2, 'US-Berater': 1, 'Richard': 1, '. Ihm': 1, '«': 1, 'sei': 1, 'Ausmaß': 1, 'Diese': 1, ', das': 1, 'Zeitung': 1, '« .': 1, 'Rohöl': 1, 'Selbst': 1, 'nun': 1, 'ausgetretenes': 1, 'könnte': 1, 'zudem': 1, 'mit': 1}

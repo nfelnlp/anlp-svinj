@@ -1,0 +1,1 @@
+{'Images': 1, 'von': 1, 'Träumen': 1, 'zitiert den': 1, 'Ausdruck': 1, 'schwer': 1, 'Zeit': 1, 'sein': 1, 'doch': 1, 'dem': 1, 'Unbewussten ? Eine': 1, 'nein': 1, 'auf': 1, 'offenbart sich': 1, 'stößt': 1, 'Abenteuer': 1, 'Jahrhundert voneinander': 1, 'anderes ,': 1, 'dieselben': 1, 'Metaphern': 1, 'eine': 1, 'das Subjekt': 1, 'Wahnsinn': 1, 'Gesellschaft': 1}

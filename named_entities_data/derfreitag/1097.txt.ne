@@ -1,0 +1,1 @@
+{'die': 2, 'Was': 1, 'Kracher': 1, 'sah': 1, '`` Lasst': 1, 'Umfragewerten': 1, 'unseres': 1, 'zurück': 1, 'links': 1, 'nur': 1, 'erlebt': 1, ':': 1, 'Politikfelder': 1, ',': 2, '.': 1, '(': 1, 'keiner': 1, 'der': 1, 'fast': 1, 'weiß': 1, 'Aufarbeitung': 1, 'Mitglied': 1, 'wirst': 1, 'will ,': 1, 'kann': 1, 'für': 1, 'ausschließen': 1, 'aus': 1, 'Einmal': 1, 'zu': 1}

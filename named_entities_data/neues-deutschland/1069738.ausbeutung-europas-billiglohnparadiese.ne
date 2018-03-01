@@ -1,0 +1,1 @@
+{',': 3, 'Serbien': 1, '.': 2, 'beschäftigt': 1, 'und': 1, 'Vero': 1, 'den': 2, 'erklärt': 1, 'Kiew ,': 1, 'versuchen': 1, 'Lage durch': 1, 'Rana': 1, 'die': 2, 'zwischen': 1, 'niedrigen Löhne': 1, 'hingegen': 1, 'wenn': 1, ', eine': 1, 'rufen': 1}

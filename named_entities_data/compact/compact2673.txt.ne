@@ -1,0 +1,1 @@
+{'uns': 1, 'es um': 1, 'App': 1, 'um': 1, 'Welt': 1, 'der': 1, 'und': 1, 'pompösen': 1, 'Hälfte des': 1, 'als': 1, 'Soros': 1, 'Was': 1, 'nach': 1, 'eines': 1, ',': 4, 'Zureisenden': 1, 'wir': 1, 'mit': 1, 'mußte': 1, '$': 1, ', offen für alles': 1, '. Diese': 1, 'Sozialen': 1, 'von': 1, 'hier': 1}

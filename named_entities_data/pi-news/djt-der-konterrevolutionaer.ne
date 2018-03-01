@@ -1,0 +1,1 @@
+{'Donald J. Trump zu': 1, 'austobt': 1, 'wohl': 1, 'Woran': 1, 'Dritter': 1, 'Kommunismus': 1, 'Alles': 1, 'randalierenden': 1, 'Gesindel': 1, 'zum schäumenden': 1, '„Abschottung “ oder intellektuelles': 1, 'Zurückgewiesen': 1, 'seine': 1, 'einen': 1, 'es': 1, 'des': 1, '„A': 1}

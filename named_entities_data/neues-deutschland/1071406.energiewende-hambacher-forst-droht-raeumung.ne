@@ -1,0 +1,1 @@
+{'einem': 1, '.': 2, 'der': 2, 'ein': 1, 'Dem': 1, 'gebaut': 1, 'möglich': 1, 'zum': 1, 'gerichtliche': 1, 'Personen': 1, 'im Umfeld': 1, 'blockierten': 1}

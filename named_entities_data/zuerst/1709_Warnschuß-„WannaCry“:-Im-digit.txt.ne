@@ -1,0 +1,1 @@
+{'Washington': 1, ', in': 1, 'Angriffe': 1, 'dabei': 1, 'kurzem vor': 1, 'von': 1, 'Pry wörtlich': 1, ', die nach einem': 1, ',': 1, 'kürzester Zeit': 1}

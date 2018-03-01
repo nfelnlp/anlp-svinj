@@ -1,0 +1,1 @@
+{'Bundesanwaltschaft': 1, 'Düsseldorf': 1, 'Gießen': 1, 'Al-Quaida-Ableger': 1, 'der': 1, 'und Soldaten': 1, 'größte': 1, 'verwaltet': 1, 'Ein': 1, '. Er': 1, 'auf die Düsseldorfer': 1, 'Wie': 1, ',': 1, '.': 1, 'ausländische': 1, 'Vereinigung': 1, 'gegen': 1, 'gegen das': 1}

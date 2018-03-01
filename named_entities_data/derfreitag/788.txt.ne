@@ -1,0 +1,1 @@
+{'Römer': 1, 'Bauer': 1, 'im': 1, 'und': 1, 'nannte': 1, 'Die': 1, 'schrecklich': 1, 'den': 1, 'nicht': 1, 'weiß': 1, 'Gleichheit': 1, ',': 2, ', ,Gleichheit': 1, 'zu': 1, 'zu schaffen': 1, 'Luxemburg': 1, 'NICHT': 1, 'möglich zu': 1, 'Isolationsgesellschaft': 1}

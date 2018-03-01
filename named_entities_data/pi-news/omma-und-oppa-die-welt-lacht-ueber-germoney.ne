@@ -1,0 +1,1 @@
+{'den': 1, 'mittelprächtiges': 1, 'Augen': 1, '.': 1, 'wie': 2, 'ist': 1, 'Nicht': 1, 'ja': 1, 'nix': 1, '&': 2, '“': 1, '„Full': 1, 'immer': 1, 'große': 1, '!': 1, 'Werbung': 1, 'Hose': 1, 'kassieren': 1, 'jährlich': 1, 'von': 1, 'CDU/SPD-Regierung': 1, 'Und': 1, 'alles': 1, 'natürlich': 1, 'mit Smartphone im': 1, '…': 1, ',': 1, 'liest': 1}

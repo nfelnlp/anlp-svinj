@@ -1,0 +1,1 @@
+{'Rom/Catania': 1, 'Immer': 1, '. Die': 1, 'teilte jetzt': 1, 'finanzierter Nichtregierungsorganisationen': 1, 'Staatsanwaltschaft': 1, 'daß': 1, 'Koordinaten': 1, '„Risk': 1, 'Soros-Organisationen': 1, '.': 1, 'wird': 1, 'mü': 1}

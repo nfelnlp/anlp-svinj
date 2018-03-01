@@ -1,0 +1,1 @@
+{'. Unter': 1, 'GÜZ': 1, 'aus': 1, 'Altmark': 1, 'den': 1, 'wird': 1}

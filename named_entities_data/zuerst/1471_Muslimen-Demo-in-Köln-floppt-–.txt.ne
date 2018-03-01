@@ -1,0 +1,1 @@
+{'Gesellschaft 9': 1, 'Gesellschaft 9 Köln': 1, ',': 2, 'Robin Alexander in': 1, 'eines': 1, ', aber': 1, 'die': 1, 'zutreffend': 1, '.': 1, 'bundesdeutschen': 1}

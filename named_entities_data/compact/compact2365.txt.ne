@@ -1,0 +1,1 @@
+{'Sudden': 1, 'Deutschland': 1, 'Fußballeuropameister': 1, 'Oliver Bierhoff': 1, 'Oder': 1, 'die': 2, 'eine': 1, '80.000': 1, 'was': 1, 'Moscheen': 1, 'häufig': 1, 'alle': 1, 'schon': 1, 'schießt': 1, 'alternative': 1}

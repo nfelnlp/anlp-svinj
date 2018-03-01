@@ -1,0 +1,1 @@
+{'täten': 1, 'Springers': 1, 'erwarten': 1, 'See': 1, 'idealisierenden': 1, 'kollektiven Aufklärungsdrang': 1, 'anderes': 1, 'Projekte': 1, 'posthum': 1, 'Snowden': 1, 'garantieren': 1, 'page for license': 1, 'so nun': 1, 'noch eine': 1, 'sollen…': 1, 'Wenn': 1, 'die': 1}

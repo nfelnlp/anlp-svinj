@@ -1,0 +1,1 @@
+{'Ibsen': 1, 'Andreas Rieger': 1, 'Fassung': 1, 'inszeniert .': 1, 'das': 1, 'seinem': 1, ',': 1, 'nicht nur einen': 1, ', radikale': 1, 'der': 2, 'tut': 1, 'weiter': 1, 'Verhältnisse': 1, 'des': 1, 'Parlamentarier': 1, 'Ideologien': 1, 'Praktiker der': 1, 'verdrängen verschanzte': 1, 'unnütze': 1, 'von': 1}

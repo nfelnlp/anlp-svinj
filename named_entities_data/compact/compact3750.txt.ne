@@ -1,0 +1,1 @@
+{'NSU-Prozesses': 1, '(': 1, '( OLG': 1, ',': 2, '.': 1, '14:30': 1, 'einen': 1, 'lebt .': 1, 'schwer': 1, 'können': 1, '–': 1, 'dem': 1, 'steht': 1, 'sonst nichts': 1, 'schwere': 1, '»': 1, 'illegalen Glücksspielszene': 1, 'Prozess': 1, 'einiger': 1, 'Der': 1, 'Jahre': 1}

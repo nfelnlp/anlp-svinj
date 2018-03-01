@@ -1,0 +1,1 @@
+{'London': 1, 'Sadiq Khan': 1, 'Mohammed Kozbar ,': 1, '“': 1, 'Toufik': 1, 'rettete ihn': 1, 'dass der': 1, 'Terrorangiffe': 1, 'Europa': 1, '.': 1, 'Stimmung': 1, 'Mainstream-Medien': 1, 'aber ihr': 1, 'Terroristen': 1, 'erkennt': 1, 'müssen': 1, 'ist': 1, 'falsch': 1}

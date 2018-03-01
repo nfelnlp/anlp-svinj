@@ -1,0 +1,1 @@
+{'Tobias Schwarz/AFP/Getty': 1, 'Ist': 1, 'bisherige': 1, 'ausgelöst': 1, 'Armee': 1, 'nun über': 1, 'Artikel': 1, '.': 2, 'schon': 1, ',': 3, 'Deutschland': 1, 'Debatte': 1, 'seinem': 1, 'für EU-Ausländer': 1, '„Ich': 1, 'dem': 1, 'zu': 1, 'wiederum': 1, 'es': 1, 'beschaffen': 1, 'der': 1, 'auch': 1, 'Die': 1, 'Teilen': 1}

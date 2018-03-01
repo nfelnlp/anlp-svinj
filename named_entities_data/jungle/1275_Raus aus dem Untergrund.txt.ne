@@ -1,0 +1,1 @@
+{'Nightlife': 1, 'Tirana': 3, 'Freitagnacht': 1, 'Universität der Künste': 1, 'Martin': 1, 'haben': 1, 'Tunnel-': 1, 'Besi': 1, 'Die': 1, 'bunk': 1, 'meint Etmond': 1, 'lädt': 2, 'Raki': 1, '.': 1, 'sei': 1, 'der': 2, 'geht': 1, 'Bar': 1, ', kann': 1, '«': 2, '»': 1, 'und': 1, 'die Stimmung': 1, '\xadfindet': 1, 'auf': 1, 'Künstler': 1, 'sollte': 1}

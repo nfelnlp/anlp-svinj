@@ -1,0 +1,1 @@
+{'.': 2, '. Der': 1, 'beim': 1, 'Hintergrund': 1, 'Gas': 1, 'mehrere': 1, '. Mitte': 1, 'Woche': 1, 'auch': 1}

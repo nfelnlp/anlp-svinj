@@ -1,0 +1,1 @@
+{'DR.': 1, 'DR. MARCUS FRANZ |': 1, 'zweite': 1, 'in': 1, 'ist': 1, 'die': 1, 'weltbekannte': 1, 'wo': 1, 'und im': 1, '?': 1, 'aus': 1, 'europäischen': 1, 'von': 1, 'Gruppe ,': 1, 'Verwandten': 1, 'der Armut': 1, 'weil': 1, 'nur': 1, 'redet': 1, 'und': 1, 'gehörte': 1, 'der': 1, 'nachdem': 1, 'Abgeordneter .': 1}

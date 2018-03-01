@@ -1,0 +1,1 @@
+{'VW-Produktion': 1, 'gut': 1, 'von': 1, 'den': 1, 'ein Rekordergebnis': 1, 'Bundesstaat': 1, 'sind': 1, 'Band': 1, 'der': 2, 'das Werk': 1, 'Produktion': 1, 'die': 1, 'Werk': 1}

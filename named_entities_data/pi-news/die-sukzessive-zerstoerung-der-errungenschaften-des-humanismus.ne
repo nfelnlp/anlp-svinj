@@ -1,0 +1,1 @@
+{'Cantaloop': 1, '.': 2, ',': 5, 'geführt': 2, 'jeder': 1, 'und': 1, 'denkenden': 1, 'geschweige denn': 1, 'es': 1, '–': 2, 'auf': 1, 'Wirklichkeit': 1, '“': 1, 'Menschen': 1, 'hierzulande bekanntlich': 1, '„Abendlande': 1, 'neuen': 1}

@@ -1,0 +1,1 @@
+{'Brüssel': 2, 'Kay Wagner': 1, 'Donald Trump': 1, 'US-Präsident': 1, 'zum': 1, 'was': 1, 'Verkehrschaos': 1, 'ist Leben': 1}

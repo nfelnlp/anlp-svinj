@@ -1,0 +1,1 @@
+{'Preßburg': 1, 'Slowakei': 1, '„Express “': 1, 'Premierminister': 1, 'Fico hatte': 1, '.': 1, 'Subventionen': 1, 'Partei ( SNS': 1, 'erklärte': 1, 'müssen alles': 1, 'um das': 1, 'anerkannte': 1, 'Zahl': 1, 'rund 5.000': 1}

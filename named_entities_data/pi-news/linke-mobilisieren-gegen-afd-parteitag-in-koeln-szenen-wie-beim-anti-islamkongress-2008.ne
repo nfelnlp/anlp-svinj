@@ -1,0 +1,1 @@
+{'der': 2, 'wie Bernd': 1, 'oder': 1, 'und den': 1, '.': 3, 'doch': 1, 'Stadt': 1, 'des': 1, 'am 22 .': 1, 'gegen die': 1, 'das': 1, 'Szene': 1, 'aufstellen': 1, ',': 2, 'Kongresses': 1, 'anzündeten': 1, 'einzelner': 1, 'in': 1, 'Polizistin': 1, 'auch': 1, 'schützen': 1, 'Behinderung des': 1, 'Innenstadt': 1, 'dauerhaften': 1}

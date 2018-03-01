@@ -1,0 +1,1 @@
+{'Berlin': 2, 'Ruud Koopmans': 1, 'Koopmans': 1, 'unterstreicht': 1, 'Prozent': 1, ',': 2, 'gerechtfertigt': 1, 'Europa': 1, 'Transitzonen': 1, '.': 1}

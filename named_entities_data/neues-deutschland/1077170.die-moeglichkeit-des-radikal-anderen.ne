@@ -1,0 +1,1 @@
+{'Simon Schaupp': 1, 'Bayerischen': 1, 'Peter Nowak': 1, 'Bayerischen Räterepublik': 1, 'Ernst Toller': 2, 'Erich Mühsam': 2, 'Hilde Kramer': 2, 'USPD': 1, 'KPD': 1}

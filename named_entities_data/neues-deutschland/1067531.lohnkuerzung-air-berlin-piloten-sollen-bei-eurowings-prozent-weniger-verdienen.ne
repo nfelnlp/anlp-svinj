@@ -1,0 +1,1 @@
+{'.': 1, '. Nach': 1, 'Air Berlin zur Lufthansa-Tochter': 1, 'müssen Piloten': 1, 'heißt': 1, 'Während die': 1, 'bei': 2, 'Airlines': 1, '25': 1, 'der Gesamtkosten': 1, ', betrügen sie bei': 1, 'einigte sich': 1, 'Unternehmensteile': 1, 'die Air-Berlin-Mitarbeiter': 1, ',': 1, 'deutschen Arbeitsverträgen': 1, 'Air-Berlin-Erfahrung angerechnet': 1}

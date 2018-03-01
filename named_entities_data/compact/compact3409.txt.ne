@@ -1,0 +1,1 @@
+{'Ukraine': 1, 'Andreas Rieger': 1, 'die': 1, 'dies': 1, 'an': 1, 'Losung': 1, 'Stiftungen': 1, 'völkisch': 1, 'nur': 1, 'des': 1, 'Selbstbestimmung': 1, 'böse': 1, '?': 1, 'Kriegsgeschrei': 1, 'Außenminister': 1, 'Kriegstreiberei': 1, ',': 1, 'Man': 1, 'operieren': 1, 'Souveränität': 1, 'Bank': 1, 'funktioniert .': 1}

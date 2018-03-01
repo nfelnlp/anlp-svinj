@@ -1,0 +1,1 @@
+{'Britannia': 1, 'Royal Mint': 1, 'beziehungsweise': 1, 'in': 1, 'Art :': 1, 'der': 1, 'stattdessen': 1, 'meinen': 1, 'ist': 1, 'das': 1, '.': 1, 'Brexit-Referendums irgendwas': 1, 'Königreichs': 1, 'Anlagemünze .': 1, 'kann auch': 1, 'l': 1, 'n': 1, 'Rogers warnt': 1, 'einsteigen .': 1, 'ist erhaben': 1, 'vielleicht': 1, 'einen Trip': 1}

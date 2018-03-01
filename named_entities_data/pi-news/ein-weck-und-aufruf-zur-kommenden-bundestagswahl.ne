@@ -1,0 +1,1 @@
+{'CDU/CSU': 1, 'hoher': 1, 'eine': 1, 'Linken': 1, 'Der': 1, 'der': 1, 'eingesetzt': 1, 'auch': 1, 'gewertet': 1, 'Acht': 1, 'im': 1, 'das': 1, 'Doch': 1, 'Partei': 1, 'Zweifel': 1, 'ist': 1}

@@ -1,0 +1,1 @@
+{'Europa': 1, 'Ben Shapiro': 1, 'seine': 1, 'dich': 1, 'auf eines': 1, 'schon': 1}

@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Münster': 1, 'Münsterland': 1, 'Ahaus': 1, ',': 1, 'den': 1, 'spätere': 1, '„Er': 1, 'trotz dieses': 1}

@@ -1,0 +1,1 @@
+{'Bundesgesundheitsminister Gröhe': 1, 'CDU': 1, 'Bilan/AFP/Getty': 1, 'Es': 1, 'gerade': 1, '.': 1, 'ins': 1, 'die': 1, 'nicht': 1, 'mittlerweile schon': 1, 'Kabinett': 1, 'mit': 1, 'Forschung': 1, 'Entwurf': 1, 'Krankheit': 1, 'behördlich': 1, 'Gruppe': 1, 'die Interessen': 1}

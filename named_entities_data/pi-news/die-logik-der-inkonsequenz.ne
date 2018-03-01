@@ -1,0 +1,1 @@
+{'CANTALOOP': 1, 'Republik': 1, 'Recht': 1, 'Hinterbänkler': 1, '“': 1, 'zu': 1, 'dargestellter': 1, ', als': 1, 'dafür': 1, 'ein Beispiel': 1, 'ebenso': 1, 'sich': 1, 'Lump ,': 1}

@@ -1,0 +1,1 @@
+{'CANTALOOP': 1, 'Hunderttausendfach': 1, 'so': 1, 'der ansonsten': 1, 'bestimmt': 1, 'in': 1, 'Grausen': 1, 'von den goldenen': 1, 'seinem': 1, '„Teams': 1, 'steht': 1, 'elitären Negativ': 1, 'Umkehrschluss': 1, 'Wunder': 1, 'weiteres': 1, '.': 1, '–': 1, 'Lagers auszusetzen': 1, 'noch': 1, 'preisgegeben': 1, 'wagen': 1}

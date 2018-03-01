@@ -1,0 +1,1 @@
+{'Koepsel/Getty': 1, 'Sustainable Futures der University': 1, 'Technology Sydney ( UTS': 1, ',': 1, 'und': 2, 'Aufsichtsbehörde': 1, 'genommen . Dabei ging': 1, 'Technology': 1, 'Sydney': 1, 'verfügen . Die': 1, 'des': 1, 'dem Blog The Conversation': 1, 'bit.ly/PPDGai Übersetzung : Holger': 1}

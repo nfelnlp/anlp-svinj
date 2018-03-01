@@ -1,0 +1,1 @@
+{'CGT': 3, 'Frankreich': 2, 'Ralf Klingsieck': 1, 'Paris': 1, 'Confédération': 1, 'du travail': 1, 'französischen': 1, 'François Hollande': 1, ',': 1, '.': 1, '2009': 1}

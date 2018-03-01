@@ -1,0 +1,1 @@
+{'Heiko Maas': 1, 'Tobias Schwarz/AFP/Getty': 1, 'Das': 1, 'verabschiedete': 1, ')': 1, 'Sicherheitsgesetze': 1, 'diese genutzt wird': 1}

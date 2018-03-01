@@ -1,0 +1,1 @@
+{'SELBERDENKER': 1, 'wurde': 1, 'Bundestages': 1, 'Deutschlands': 1, 'und': 1, '.': 2, 'erlauchten Club': 1, ',': 2, 'Büro': 1, 'Familien': 1, 'leben im': 1, 'Schokolade': 1, 'eine weitere': 1, 'DOHSE': 1, 'ist ein': 1, 'die': 2, 'Familie (': 1, 'JAHR 2050': 1, 'Vorherrschendes': 1, 'der': 1, 'bestimmen': 1, '!': 1, '! Da': 1}

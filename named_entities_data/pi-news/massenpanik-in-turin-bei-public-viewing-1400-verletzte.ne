@@ -1,0 +1,1 @@
+{'Public viewing': 1, 'Turiner': 1, 'und Real': 1, 'an': 1, 'an .': 1, 'in': 2, 'dass': 1, 'Panik': 1, 'er mit': 1, ',': 1, ', sind': 1, 'mit': 1, 'des': 1, 'einem': 1, '“': 2, 'ein Ermittlungsverfahren': 1, 'wird': 1, 'viele Luthers': 1}

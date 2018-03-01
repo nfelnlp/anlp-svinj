@@ -1,0 +1,1 @@
+{'Und': 1, ',': 1, ', hat mit der': 1, '!': 1, 'Trump': 1, 'ihr': 1, 'es': 1, '„ToleranzZeit': 1, 'hingegen als': 1, 'durch die': 1, 'wie': 1, 'doppeldeutig': 1, '“ bzw': 1, 'den': 1, 'die': 1, 'dar': 1, 'Kampagnen-Macher stehen': 1, 'Beobachtung': 1, 'Inquisition Die Reihe': 1, 'Produkte': 1}

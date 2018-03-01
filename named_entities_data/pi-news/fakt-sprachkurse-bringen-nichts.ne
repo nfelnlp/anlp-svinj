@@ -1,0 +1,1 @@
+{'am': 1, 'sind ,': 1, ',': 1, 'nur': 1, 'um die': 1, 'Euro': 1, 'beendeten': 1, 'Qualität': 1, 'eingegangen': 1, 'Viertel': 1, 'kein': 1}

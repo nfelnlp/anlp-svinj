@@ -1,0 +1,1 @@
+{'Industrie e.': 1, ', Dieter': 1, 'Berlin .': 1, 'Berlin . BDI-Präsident': 1, 'Kempf': 1, 'Alleingängen Deutschlands': 1, 'in Berlin': 1, '»': 1, 'Leitlinien': 1, 'Klimapolitik mehr': 1, '.': 2, 'Kernkraft': 1, 'im': 1, 'technischen': 1, '«': 1, '» Echter Klimaschutz': 1, 'Sie': 1, 'Netzentgelte und': 1, 'werden': 1, 'Wer': 1, 'sagte': 1, ': Wir': 1, ', wenn': 1}

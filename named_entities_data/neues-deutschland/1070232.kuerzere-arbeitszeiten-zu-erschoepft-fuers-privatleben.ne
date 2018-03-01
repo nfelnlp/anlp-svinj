@@ -1,0 +1,1 @@
+{'nach': 1, 'Arbeitszeitverkürzungen': 1, '. Die': 1, 'Gute': 1, 'Die': 1, 'dass': 1, 'der': 2, 'die mittlerweile': 1, 'und': 2, 'Bemessungsgrenze': 1, 'prekäre': 1, 'vor': 1, 'NGG )': 1, 'mit': 1}

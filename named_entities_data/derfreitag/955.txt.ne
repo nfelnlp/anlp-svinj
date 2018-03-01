@@ -1,0 +1,1 @@
+{'Schavan': 1, '.': 4, ',': 3, 'und': 3, 'auch': 1, 'werden': 1, 'tot': 1, 'Protest': 1, 'oder': 1, 'sind': 1, 'ich': 1, 'wollen': 1, 'da': 1, 'runterhaben': 1, 'Wahl des': 1, 'desinformierte': 1, 'die': 1}

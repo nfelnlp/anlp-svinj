@@ -1,0 +1,1 @@
+{'Jakob Augstein': 1, 'Frank Schirrmacher Frank Schirrmacher': 1, 'einen': 1, 'Gorki Theater': 1, 'Berlin und findet einmal': 1, 'Berlin': 2}

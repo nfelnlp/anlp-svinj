@@ -1,0 +1,1 @@
+{'Schweiz': 2, 'Deutschland': 1, 'Sean Gallup/Getty': 1, 'Staaten': 1, 'ihren': 1, 'jüngsten': 1, 'einer': 1, 'mit mehr als': 1, 'aus': 1, 'machen': 1, 'gegen': 1, ',': 1, 'aus seinem': 1, 'zurückhaltender': 1, 'verfolgt werden müssen': 1, 'Diskussion': 1, 'Form': 1, 'Nagelprobe': 1, 'Regierung': 1, 'Makulatur': 1, 'Papier': 1, 'Tonne': 1}

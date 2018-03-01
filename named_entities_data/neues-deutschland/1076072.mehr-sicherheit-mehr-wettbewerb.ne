@@ -1,0 +1,1 @@
+{'in': 2, 'Kreditkartenkonto': 1, '.': 2, 'Service': 2, ')': 1, 'würden': 1, 'erkannt': 1, 'Wenn': 1, '» nd': 1, 'aber': 1, 'aber , dass der': 1, 'schuldhaftem': 1, 'schaffen': 1, 'Umstieg': 1, 'Demnach': 1}

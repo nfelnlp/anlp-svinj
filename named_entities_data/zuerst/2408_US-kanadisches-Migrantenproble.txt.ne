@@ -1,0 +1,1 @@
+{'Quebec': 1, 'Kanada': 1, 'USA': 1, 'US-Präsident': 1, 'den USA': 1, 'strengeres': 1, 'Laut': 1, 'Ziel': 1, 'von': 1, '.': 1, 'Kontrolle': 1, 'Wochenende': 1, ',': 1, 'relativen Nähe': 1, 'den': 1, 'der Tatsache': 1, 'daß es in': 1, 'daß': 1, '”': 1, 'ihr': 1, 'sie': 1, 'nicht': 1}

@@ -1,0 +1,1 @@
+{'Brüssel/Budapest': 1, 'Der': 1, 'Orbán': 1, 'sich': 1, 'des': 1, 'Brüssel erklärte': 1, 'Mehrheitsmeinung': 1, 'mehr': 1, 'für': 1, 'beobachtet': 1, ',': 4, 'gemeinsamen': 1, 'wollen .': 1, 'Dort hatten': 1, 'jemand': 1}

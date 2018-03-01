@@ -1,0 +1,1 @@
+{'Berlin': 1, 'im': 1, 'für das': 1, 'tausend': 1, 'und': 1, 'fordert': 1, 'zur': 1, 'nicht': 1}

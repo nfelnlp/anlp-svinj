@@ -1,0 +1,1 @@
+{'Asien': 2, 'Mathias Peer': 1, 'Bangkok': 1, 'Indien': 1, 'Zentralindien': 1, 'Notunterkünfte': 1, 'Niño': 1}

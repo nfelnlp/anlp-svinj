@@ -1,0 +1,1 @@
+{'Wien': 1, 'Geschleuster': 1, 'veröffentlicht wurde .': 1, 'führen': 1, 'leben': 1, 'Prozent': 1, 'der': 1, 'und': 1}

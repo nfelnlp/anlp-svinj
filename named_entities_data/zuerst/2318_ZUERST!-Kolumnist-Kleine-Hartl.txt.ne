@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Manfred Kleine-Hartlage': 1, 'bestenfalls': 1, 'die Absicht': 1, ', auf': 1, 'mit': 1, 'abgepreßt': 1, 'erschöpft ,': 1, 'der': 1, '–': 1, 'weniger': 1}

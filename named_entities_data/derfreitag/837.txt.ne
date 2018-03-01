@@ -1,0 +1,1 @@
+{'Wonderwoman': 1, 'Trump': 1, 'London': 1, 'Chris J. Ratcliffe/AFP/Getty Images': 1, 'es': 2, 'den': 1, 'in die': 1, 'der': 2, 'mit': 1, 'Swing-Staaten': 1, 'frau': 1, '.': 1, 'Das': 1, 'Wieso': 1, 'erklären': 1, 'zwar': 1, 'Prozent': 1, 'ein': 2, 'nur': 1, 'System': 1, 'Männer': 1, 'von': 1, ':': 1, ', ist': 1, 'mehr': 1, 'to work.': 1}

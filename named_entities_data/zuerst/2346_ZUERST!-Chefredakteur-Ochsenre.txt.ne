@@ -1,0 +1,1 @@
+{'beschäftigt sich': 1, 'und': 1, 'wird im September': 1, 'Bundestag neu gewählt': 1, 'haben': 1, 'es': 2, 'Tradition': 1, 'Egozentriker': 1, 'Größenwahn in': 1, 'einmal': 1, 'Sollte es': 1, 'gelingen': 1, 'eine rot-rot-grüne': 1, '–': 1, 'Gegner': 1, 'vor': 1, 'Tricks': 1, 'um': 1, 'echte': 1, 'der': 1, ',': 2, 'den': 1, 'Mittel': 1, 'Gerade': 1}

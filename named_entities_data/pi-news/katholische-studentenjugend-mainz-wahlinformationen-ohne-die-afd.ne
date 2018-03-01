@@ -1,0 +1,1 @@
+{'Christopher Lapsit': 1, 'Katholischen': 1, 'Mainz': 1, 'dem „Jugend-Engagement-Preis “': 1, '’': 1, 'Möglichkeit': 1, 'dir': 1, 'lange': 1, 'der': 1, 'brennen': 1, 'Sei': 1, 'Wer': 1, 'das': 1, 'dem': 1, ',': 2, ':': 1, 'Meinung': 1, 'Kampagne': 1, 'die Stadt Mainz': 1, 'GrBukaZ': 1, 'die Wahrheit )': 1, 'auf die': 1, 'Jahre vertreten wurde': 1, 'kommt': 1}

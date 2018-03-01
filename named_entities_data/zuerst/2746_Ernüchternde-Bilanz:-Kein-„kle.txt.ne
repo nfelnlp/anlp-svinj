@@ -1,0 +1,1 @@
+{'Berlin': 1, 'fest': 1, 'Dieter': 1, 'zusammen mit': 1, 'kann': 1, 'Auch': 1, 'sah in': 1, 'sah in der Flüchtlingswelle': 1, 'für sehr': 1, 'Marcel': 1, ', zum': 1, 'noch': 1, 'positiven Wirtschaftseffekten': 1, 'der': 1}

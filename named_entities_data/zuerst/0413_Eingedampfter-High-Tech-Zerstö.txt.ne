@@ -1,0 +1,1 @@
+{'Washington': 1, ', erhebliche': 1, 'investieren , steht': 1, 'der': 1, 'wird': 1, 'einziger': 1, '.': 1}

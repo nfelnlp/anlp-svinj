@@ -1,0 +1,1 @@
+{'FOCUS': 2, 'München': 1, 'Sarah Goldmann': 1, 'In': 1, ', aber': 1, 'es': 1, 'noch': 1, 'im': 1, 'beider': 1, '.': 2, 'ganze': 1, '5': 1, 'mit': 1, 'zirka 120 Personen': 1, '578 Euro': 1, '. Die': 1, 'für': 1, 'jetzt': 1, 'zumal': 1, 'oben': 1, '=Anerkennung': 1, 'El': 1, 'allem': 1, ',': 1, 'sie': 1, 'integrieren': 1, 'gespannt sein': 1}

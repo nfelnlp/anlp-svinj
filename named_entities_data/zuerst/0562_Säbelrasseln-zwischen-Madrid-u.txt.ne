@@ -1,0 +1,1 @@
+{'Madrid/Barcelona': 1, 'Die': 1, 'wieder': 1, 'die': 2, 'Kataloniens': 1, '.': 1, 'ein': 1, 'zu': 1, ',': 2, '. Puigdemont': 1, 'unerwartet': 1, 'machte': 1, 'Region': 1, 'Barcelona': 1, 'Wie': 1, 'Neuwahlen': 1, 'Hoffnung': 1, 'Gefangenen': 1}

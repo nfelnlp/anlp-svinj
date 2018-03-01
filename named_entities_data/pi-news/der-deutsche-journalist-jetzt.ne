@@ -1,0 +1,1 @@
+{'DR.': 1, 'DR. GUDRUN EUSSNER |': 1, 'Nicht': 1, 'täglichen': 1, 'Bewältigung': 1, 'wissen': 1, 'Tendenzen': 1, 'besonderen': 1, 'und': 1, 'des': 2, ',': 1, 'diese Lehren mit': 1, '. Publizisten und Journalisten': 1, 'welcher': 1, 'Nachricht': 1, 'wenn': 1, '.': 1, 'an': 1, 'deutschen': 1, 'leben': 1, 'Zeit': 1, 'Zeit ,': 1}

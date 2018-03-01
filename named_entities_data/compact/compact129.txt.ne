@@ -1,0 +1,1 @@
+{'und': 2, 'einen': 1, 'hier': 1, 'begegnen': 1, 'Jahr !': 1}

@@ -1,0 +1,1 @@
+{'Brüssel': 2, 'EU': 1, 'Deutschland': 1, 'Das': 1, 'die': 1, 'Kehrtwendung': 1, 'In': 1, 'März': 1, 'für': 2, 'nicht.': 1, 'läuft': 1, 'Dezember': 1, 'der': 1, 'der nunmehrigen': 1, 'langfristig': 1, 'Transitgebühren': 1, '“': 1, 'äußerst': 1}

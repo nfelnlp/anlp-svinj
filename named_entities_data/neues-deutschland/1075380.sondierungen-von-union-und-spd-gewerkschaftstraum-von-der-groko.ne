@@ -1,0 +1,1 @@
+{'Sondierungen': 1, 'Union': 2, 'SPD': 2, 'DGB': 1, 'ver.di': 1, 'Bund': 1, 'Hans-Gerd Öfinger DGB-Chef Reiner': 1, 'Hans-Gerd Öfinger DGB-Chef Reiner Hoffmann': 1, 'SPD-Parteitag Wenn': 1, 'den': 1, 'dann': 1, 'und': 1, '.': 2, 'großer': 1, 'in diesen': 1, 'Großen Koalition wäre': 1, ',': 1, 'Politik': 1, 'DGB-Chef': 1, 'Privatperson': 1, 'Parteibuch': 1, 'möchte die': 1}

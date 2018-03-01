@@ -1,0 +1,1 @@
+{'Moser ,': 1, 'Gold': 1, 'unser': 1, 'Nationalbank (': 1, 'zu': 1, 'Franken .': 1, 'SVP ,': 1, ')': 1, 'im': 1, 'ungedeckten': 1, 'und': 1, 'Schlüer (': 1, '. Es': 1, 'haben': 1, 'sei ,': 1, ',': 3, 'in keinster': 1, ': „Für': 1, 'Goldreserven zu': 1, 'Schweiz': 1, 'der': 1, 'das': 1, 'an': 1, 'unsäglichen': 1, '.': 1, 'die': 1}

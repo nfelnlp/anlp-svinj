@@ -1,0 +1,1 @@
+{'ergibt sich': 1, 'Möglichkeit ,': 1, 'Am Mittwoch': 1, 'Obama': 1, 'im': 1, 'CFPB': 1, 'einem': 1, 'als': 1, 'aber': 1, 'weil Banken': 1, 'setzte': 1, 'Hensarling': 1, 'bezeichnete Cordrys': 1, '»': 1}

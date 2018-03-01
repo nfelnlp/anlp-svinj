@@ -1,0 +1,1 @@
+{'und mit': 1, 'der': 1, 'immer': 1, 'mir': 1, 'Aber': 1, 'US-Dollar': 1, 'Geld': 1, 'das': 1, 'Hab': 1, ',': 2, 'um': 1}

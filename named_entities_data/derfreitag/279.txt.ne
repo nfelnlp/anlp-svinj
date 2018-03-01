@@ -1,0 +1,1 @@
+{'Antonio Pietrangelis': 1, 'Michelangelo Antonioni': 1, 'berauscht': 1, 'Gemüt': 1, 'Mario Adorf': 1, 'Nero )': 1, 'Goggomobil': 1, 'klirrt': 1, 'zwar': 1, 'doch': 1, 'Strand': 1, 'wie': 2, 'mit': 1, 'Ich habe': 1, 'heiligen': 1, 'Glitzer': 1, 'abwanderte .': 1, 'leicht und sorglos': 1, ') ,': 1, '. Wo': 1, 'tapst': 1, 'dieser': 1, 'hätte': 1, '1965 )': 1, ',': 1, '€': 1}

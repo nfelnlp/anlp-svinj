@@ -1,0 +1,1 @@
+{'Wien': 1, 'und': 1, 'Soros sieht': 1, '„Standard': 1, 'dort': 1, 'wobei er': 1, 'Umfragaktion': 1, 'die': 1, '“': 1, 'nach': 1, 'seinem': 1, ',': 1}

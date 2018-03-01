@@ -1,0 +1,1 @@
+{'nicht': 1, 'natürlichem': 1, 'zu': 1, 'zu erzeugen ,': 1, 'Die': 1, 'Andrews': 1, 'Trend gebe': 1, 'per Samenspenden aus': 1, 'eine': 1, 'durchsetzen , hieße': 1, 'Schließlich': 1, 'gibt die': 1, 'für': 1, 'eugenischen': 1, 'Einsatz': 1, '1991': 1, 'in': 1, 'Interessengruppen': 1, 'zum Herr': 1, 'und': 1, 'und breche': 1}

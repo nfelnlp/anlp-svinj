@@ -1,0 +1,1 @@
+{'Moskau/Wien': 1, 'Europa': 1, 'ein': 1, 'Und': 1, 'in': 1, '.': 2, 'sollen': 1, 'pro': 1, 'dem': 1, 'Frühjahr': 1, 'die': 1, 'rund': 1, 'österreichische': 1, 'soll': 1, 'den': 1, 'Österreich': 1, 'Verteilerknoten': 1, 'strömen': 1, 'ist': 1, 'das': 1, 'Nutznießer': 1, 'zu': 1, 'daß sich': 1, 'Gastransportinfrastruktur': 1, 'stark': 1, 'Peter': 1, 'kürzlich': 1}

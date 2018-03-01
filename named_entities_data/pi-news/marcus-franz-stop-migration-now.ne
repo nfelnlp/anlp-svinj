@@ -1,0 +1,1 @@
+{'Sebastian Kurz': 1, 'Franz ,': 1, ')': 1, 'konnte': 1, 'den': 1, 'kann': 1, 'durch': 1, 'der': 1, 'Küste': 1, 'möglich': 1, 'erfolgt': 1, 'Herkunftsländer': 1, 'Orient': 1, 'helfen': 1, 'wird': 1, 'Telefonbetreiber': 1, 'lokalen': 1, 'in den': 1, 'Ländern': 1, 'diese hier': 1, 'Lebensgefahr': 1, 'auf': 1}

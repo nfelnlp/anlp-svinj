@@ -1,0 +1,1 @@
+{'Stockholm/London': 1, 'Überraschende': 1, ': die': 1, 'stellte am': 1, '.': 3, 'umgehend ,': 1, 'er': 1, 'Dort': 1, 'auf': 1, 'Sieg': 1, 'Die': 1, ',': 1, 'die': 2, 'gegen Assange': 1, 'in': 3, 'es': 1, 'Alle': 1, 'diesem': 1, 'werde Assange': 1, 'aber auf': 1, 'entlassen': 1, 'Schweden': 1, 'damit': 1, 'eine „Priorität': 1}

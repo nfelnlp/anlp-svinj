@@ -1,0 +1,1 @@
+{'Deutschland': 1, 'dem': 1, '“': 1, 'alt geworden': 1, 'Punkt': 1, 'einer': 1, 'Ihr': 1, 'man': 2, 'wurde': 1, 'von': 1, '.': 1, 'den': 1, 'unserer': 1, ':': 1, 'haben': 1, 'Mühe': 1, 'wird': 1, ': „Polizisten': 1, 'in': 1, 'liebe Kinder': 1, 'kaum': 1, 'ihr': 1, 'gleichzeitig': 1, 'wir': 1}

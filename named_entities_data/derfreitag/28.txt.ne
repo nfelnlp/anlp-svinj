@@ -1,0 +1,1 @@
+{'Images Sollte': 1, 'Autobiographie': 1, 'finden': 1, 'unumwunden :': 1, ',': 3, 'eine': 2, '.': 1, 'Fleischlichkeit': 1, 'nicht auf': 1, 'breiter': 1, 'dumpfe': 1, '“': 1, 'hat': 1, 'Im Dunklen': 1, 'Im Dunklen bleibt': 1, 'als Waldschrat': 1, 'letztlich nur': 1, 'wird': 1, 'Unwesen': 1, 'die': 1, 'der': 1, 'läuft': 1, 'Ausreizen': 1, 'einer': 1, 'ohnehin': 1, 'Teilen': 1}

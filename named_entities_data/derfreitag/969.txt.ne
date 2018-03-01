@@ -1,0 +1,1 @@
+{'Pierre Bourdieu': 1, 'Pierre Verdy/AFP/Getty': 1, 'Im': 1, 'haben': 1, 'Umstand nicht': 1, 'Suhrkamp-Verlag': 1, 'noch lieferbaren': 1, 'Herrschaft': 1, 'und': 2, 'und Ökonomie': 1, 'man': 1, '„magische “': 1, 'Ordnung der': 1, 'Phallogozentrismus .': 1, ':': 1, 'eigenen Theorien': 1, 'man und': 1}

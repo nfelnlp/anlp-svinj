@@ -1,0 +1,1 @@
+{'Getty': 1, 'Am': 1, 'Freitag': 1, 'Berlin': 1, 'wurden': 1, 'Motto': 1, 'es satt': 1, 'der': 1, 'auf': 1, 'pro Woche .': 1, 'Anerkennung': 1, 'Prozent': 1, 'von': 1, 'Wenn': 1, 'entstehen': 1, 'ist': 1, 'um': 1, 'für': 1, '.': 1, 'Entwicklung': 1}

@@ -1,0 +1,1 @@
+{'Ausstieg': 1, 'der': 2, ')': 1, 'Kongo': 1, 'am': 1, 'jüngste': 1, '.': 1, 'Norden': 1, 'Beharrungsvermögen': 1}

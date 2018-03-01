@@ -1,0 +1,1 @@
+{'Mahathir Mohamad': 1, 'malaysischen': 1, 'Eingemischt': 1, 'Mohamad': 1, 'Anwar Ibrahim': 1, 'wurde': 1, 'bei der': 1, 'Ismail , der': 1, 'beobachtet': 1, ',': 1, 'fünf': 1, 'der': 1, 'sein': 1}

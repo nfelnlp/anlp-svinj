@@ -1,0 +1,1 @@
+{'.': 1, '. In': 1, '(': 1, '«': 1, ',': 1, 'und': 2, 'setzen in': 1, 'preisgekrönten Film': 1}

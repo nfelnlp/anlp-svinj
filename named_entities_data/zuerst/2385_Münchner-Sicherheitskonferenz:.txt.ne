@@ -1,0 +1,1 @@
+{'München': 1, 'russische': 1, 'Sergej Lawrow': 1, 'einer': 1, 'Kalten': 1, 'nach': 1, '„pragmatisches': 1, 'Rußlands': 1, 'Lawrow': 1, 'Beziehungen': 1, ',': 1, 'hatte': 1, 'Donald': 1, 'Rußland': 1, 'für eine': 1, 'zu': 1, 'letzten': 1, 'Syrien-Frage': 1}

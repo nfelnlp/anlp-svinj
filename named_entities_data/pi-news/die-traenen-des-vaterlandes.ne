@@ -1,0 +1,1 @@
+{'hermachte': 1, 'Hunger': 1, '–': 2, 'Deutschland': 1, 'grausamsten': 1, 'Deutschlands': 1, 'Bismarck-Ära': 1, 'Jahre': 1, 'oder Grimmelshausen': 1, 'Es': 1, 'eine tiefe': 1, 'der': 1, 'nur': 1, 'es': 1}

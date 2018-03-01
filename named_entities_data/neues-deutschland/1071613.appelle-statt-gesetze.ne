@@ -1,0 +1,1 @@
+{'relativ': 1, 'den': 1, 'wurde': 1, 'Länderarbeitsgemeinschaft Verbraucherschutz': 1, 'von Bundesamt': 1, 'Oktober': 1, 'zu': 1, 'Eigenkontrollen': 1, 'Qualtitätsmanagementsystemen': 1, 'das': 1, 'von': 1, 'dabei': 1, 'Strafen': 1, 'Unternehmen': 1, 'in': 1, 'kein Ohrstecker': 1, 'Hautkontakt': 1, 'verzichteten einige': 1, 'Nickel': 1}

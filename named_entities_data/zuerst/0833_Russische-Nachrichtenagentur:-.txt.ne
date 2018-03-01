@@ -1,0 +1,1 @@
+{'Moskau/Damaskus': 1, 'Eine': 1, 'USA': 1, 'die': 1, '–': 1, 'Nachrichtenagentur RIA': 1, 'einer nicht': 1, 'des IS aus': 1, 'gebracht': 1, 'Novosti': 1, 'im': 1, 'Sicherheit': 1, 'Kämpfer': 1, 'IS-Feldkommandeure „europäischer Herkunft': 1, 'komme': 1, 'Regierungsarmee': 1, 'Regierungsarmee freilich': 1, 'geben organisierte Aktivitäten': 1}

@@ -1,0 +1,1 @@
+{',': 2, 'auch': 1, 'Alles ,': 1, 'im': 1, 'zentralistischen': 1, '.': 1, 'und': 2, 'französischen': 1, 'Auch': 1, 'Sozialdemokraten und': 1, 'schon': 1, 'müsste': 1, 'hinlänglich': 1, 'für': 1, 'ist': 1, 'Finanzkapital': 1, 'die': 1, 'Lenins': 1, 'rechte Etikett': 1, 'wurde': 1, 'Weltbild': 1, 'elegant': 1, 'Linksmoralpolitikern': 1, 'souveränen': 1}

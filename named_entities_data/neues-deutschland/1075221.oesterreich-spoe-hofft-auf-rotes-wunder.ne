@@ -1,0 +1,1 @@
+{'Österreich': 1, 'SPÖ': 1, 'Manfred Maurer': 1, 'Wien': 1, 'SPÖ-Granden': 1, 'Spitze pilgerten': 1, 'roten': 1, 'roten Spitzen': 1, 'sich': 1, 'den': 1, 'gesät': 1, 'ihrer': 1, 'die': 1, 'als Finanzlandesrat im Burgenland': 1, 'aus': 1}

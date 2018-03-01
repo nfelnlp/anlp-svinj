@@ -1,0 +1,1 @@
+{'am': 1, 'Eigentlich': 1, 'und Dich': 1, 'Die Kette': 1, 'Ehe': 1, 'hat': 1, 'Freitag': 1, 'ich': 1, 'Dir': 1, 'allzu': 1, 'von': 1}

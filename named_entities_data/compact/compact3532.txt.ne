@@ -1,0 +1,1 @@
+{'lügt': 1, ',': 1, 'ganz zu': 1, ':': 1, 'Mutterschaft': 1, 'daß': 1, 'Zauberwort': 1, 'Gemeinschaft': 1, 'des': 1, 'Mutter': 1, 'Kind': 1, 'das': 1, 'die': 2, '.': 1, 'Frau': 1, ', ist': 1}

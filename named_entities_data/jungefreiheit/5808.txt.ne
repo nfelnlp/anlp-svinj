@@ -1,0 +1,1 @@
+{'Nord': 1, 'Vereinten Nationen': 1, 'UN-Jahres': 1, 'und er meinte': 1, ',': 1, 'Lebenslagen': 1, 'besteht': 1, 'allem': 1, 'Echo-Deuter': 1, 'von': 1, 'den': 1, 'speziell der Tragödienmusik': 1, 'gemieteten': 1, 'Schiff': 1, 'gesprungen war': 1, 'und': 1, 'die': 1, '. Der': 1, 'zugesetzt': 1, 'daß': 1, 'Vorkommen': 1}

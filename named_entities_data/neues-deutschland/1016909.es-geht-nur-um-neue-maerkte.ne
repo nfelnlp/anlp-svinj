@@ -1,0 +1,1 @@
+{', große': 1, 'industrielle': 1, 'den': 1, 'Kontinent .': 1, 'gibt es': 1, 'Biodiversity Network': 1, 'in': 1, 'setzen': 1, 'unzählige': 1, 'aber': 1, 'Da': 1}

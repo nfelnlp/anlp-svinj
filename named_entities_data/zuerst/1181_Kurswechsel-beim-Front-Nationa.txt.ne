@@ -1,0 +1,1 @@
+{'Paris': 1, 'französischen Front National': 1, '.': 1, 'Le': 2, 'Le Pen': 1, 'raschen': 1, 'der': 1, 'aus': 1, 'aber auch ihren': 1, 'einen': 1, 'zurückgewinnen': 1, 'wird': 1, 'kämpft weiter': 1, 'bürgerlich-konservative': 1, 'bürgerlich-konservative Parteikreise': 1, 'bürgerlich-konservative Parteikreise werfen': 1, 'zu': 1}

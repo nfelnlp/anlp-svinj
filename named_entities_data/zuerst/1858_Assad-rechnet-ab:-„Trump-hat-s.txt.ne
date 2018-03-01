@@ -1,0 +1,1 @@
+{'Damaskus': 1, 'syrische': 1, 'Assad': 1, '„teleSUR ”': 1, 'Syrien-Politik Ausdruck verliehen und': 1, '‚deep': 1, 'beobachten': 1, 'den Bedingungen': 1, '”': 1, ',': 2, 'komplette': 1, '„was': 1, 'die': 1, 'in': 1, '.': 1, 'verschiedene': 1, 'und': 1, 'mit': 1}

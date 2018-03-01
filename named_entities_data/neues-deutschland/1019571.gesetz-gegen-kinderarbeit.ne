@@ -1,0 +1,1 @@
+{'die': 2, ',': 1, 'knappen': 1, 'immer': 1, 'Die': 1, 'CSU ) nach': 1, 'Abstimmung': 1, 'das': 1, 'in': 1, 'diesem': 1, 'das rund': 1, 'der': 1}

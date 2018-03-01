@@ -1,0 +1,1 @@
+{'Riad': 1, 'sich': 1, '.': 1, 'geführte': 1, 'als': 1, 'Art regionaler': 1, 'seine': 1, 'seiner': 1, 'sein Land in': 1, 'Dollar': 1, 'Saudi-Arabien': 1, '”': 1, 'Rex': 1, 'Rex Tillerson .': 1, 'Kurz- und': 1, 'Munition': 1, 'Konflikte': 1, '(': 1, ')': 1}

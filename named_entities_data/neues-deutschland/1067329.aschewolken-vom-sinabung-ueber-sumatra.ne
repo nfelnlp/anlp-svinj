@@ -1,0 +1,1 @@
+{'Sumatra': 1, 'Indonesien': 1, 'die': 1}

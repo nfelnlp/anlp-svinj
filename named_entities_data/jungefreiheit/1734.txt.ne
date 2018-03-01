@@ -1,0 +1,1 @@
+{'Altbundeskanzlers': 1, 'Regel': 1, 'eine': 1, 'verpönt': 1, 'des': 2, 'auf': 1, 'Unrechtshandlungen': 1, 'ersten': 1, 'eingesetzt': 1, 'waren': 1, 'Schumacher': 1, 'den': 1, 'sichert': 1, 'mit': 1, 'über': 1, 'auch': 1, 'und': 1, 'einzelnen': 1, '.': 1, 'etwas': 1, 'Verteidigung': 1, 'gemeinsame': 1, 'von': 1, 'der': 1, 'einmal in Ansätzen': 1, 'sich': 1, 'einmal': 1}

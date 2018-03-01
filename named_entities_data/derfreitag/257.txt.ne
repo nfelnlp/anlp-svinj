@@ -1,0 +1,1 @@
+{'Philipp Gloeckler': 1, 'Barcelona': 1, 'Rom': 1, 'Berlin-Mitte .': 1, 'sitzt auf': 1, 'seit': 1, 'eine': 1, 'werden': 1, ',': 3, 'für': 1, 'der': 1, 'schon sehr': 1, 'alt': 1, '„wesentlich': 1, 'dass': 1, 'er': 1, 'sich': 1, 'in': 1, 'Brötchen': 1, 'trennt': 1, 'Stadt': 1, 'ich': 1, 'von': 1}

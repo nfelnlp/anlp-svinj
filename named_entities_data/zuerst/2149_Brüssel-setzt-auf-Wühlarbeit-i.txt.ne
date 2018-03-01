@@ -1,0 +1,1 @@
+{'Brüssel/Peking': 1, 'Die': 1, 'am': 1, 'unterstützen': 1, '“': 1, 'chinesischen': 1, 'in': 2, 'neue': 1, 'getreten': 1, '„Gefahr': 1, 'der': 1, 'von': 1, 'sowie': 1, 'für': 1, 'sie': 1, 'National': 1, 'Das Geld wurde für Schulungen von': 1}

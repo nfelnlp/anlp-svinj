@@ -1,0 +1,1 @@
+{'Simon Schaupp': 1, 'ist Soziologe': 1, 'for Technology in Society': 1, 'Technischen': 1, 'München . Derzeit': 1, 'das': 1, 'Self-Tracking Bild': 1, 'Art von': 1, 'Nutzerinnen': 1, 'Fazit': 1, 'fördern': 1, ',': 1, 'sich': 1, 'die': 1, 'die Frage': 1, 'Kybernetik': 1, 'Emanzipatorische Perspektiven': 1, 'technologischen': 1}

@@ -1,0 +1,1 @@
+{'Moskau': 1, 'EU': 1, 'USA': 1, 'Rücken': 1, 'Der': 1, 'vor': 1, 'Steigerung': 1, '2016': 1, 'Rekordwert erreichten': 1, 'dort': 1, 'allerdings': 1, '.': 1, '2017': 1, 'Grund': 1, 'Flüssiggases': 1, 'wird': 1, 'Pipelines': 1, 'den': 1}

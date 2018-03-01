@@ -1,0 +1,1 @@
+{'Stockholm': 1, 'SVT': 1, 'Polizei': 1, '(': 1, 'offiziell': 1, 'einem': 1, '„Schweden ist': 1, 'Terrortat': 1, 'sagten': 1, 'Einzeltat ist': 1}

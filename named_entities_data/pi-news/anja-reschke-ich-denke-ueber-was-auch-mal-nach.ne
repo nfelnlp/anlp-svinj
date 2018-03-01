@@ -1,0 +1,1 @@
+{'ARD': 1, 'nicht': 1, 'Anja': 1, 'via Facebook-Livestream': 1, 'Intention': 1, 'zu': 1, ',': 1, 'dann meist mit': 1, 'bloß': 1, 'in': 1, 'der': 1, 'auch': 1, 'Beispiel': 1, 'Deckung': 1, 'Betrachtung': 1}

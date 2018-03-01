@@ -1,0 +1,1 @@
+{'.': 2, '. Der': 1, 'seine': 1, 'nach Leppersdorf': 1, 'Sachsen': 1, 'überprüfen .': 1, 'Freitag': 1, 'Westfalen-Blatt': 1, 'Dissen reagierte verhalten': 1, 'den': 1, 'weiter': 1, ',': 1, 'Müller': 1, 'Zuge': 1, 'Floh-Seligenthal': 1, 'Thüringen 2020': 1, 'werden': 1, 'dpa/nd': 1, 'Artikel': 1}

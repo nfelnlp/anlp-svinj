@@ -1,0 +1,1 @@
+{'.': 1, '. Nach': 1, 'Tiefensee': 1, 'Neuauflage der': 1, 'ihrer': 1, 'Schulz': 1, 'die': 1, 'Sondierungsgespräche mit': 1, '»': 1, '«': 1, 'hatte': 1, 'Vorsitzender': 1, 'im März': 1, 'eine Aufnahme': 1}

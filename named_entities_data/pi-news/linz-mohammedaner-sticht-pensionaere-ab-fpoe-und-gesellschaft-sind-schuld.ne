@@ -1,0 +1,1 @@
+{'zusammen': 1, 'älteres': 1, 'schlecht': 1, 'sei': 1, 'zu': 1, 'der': 1, 'den': 1, 'wohl': 1, 'die': 1, '.': 2, 'fällt': 1, 'und': 1, 'als': 1, 'willigen': 1}

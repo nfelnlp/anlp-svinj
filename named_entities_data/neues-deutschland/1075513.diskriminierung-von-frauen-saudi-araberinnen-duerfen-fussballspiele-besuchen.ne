@@ -1,0 +1,1 @@
+{'Riad Riad': 1, 'Frauen': 1, 'Saudi-Arabien dürfen am': 1, 'einer': 1, 'zugelassen ,': 1, 'Montag': 1, 'Al-Batin aufeinander': 1, 'Al-Batin aufeinander .': 1, 'Angaben': 1, 'noch': 1, 'in der': 1, 'Osten des': 1, 'Allerdings': 1, 'konservativen': 1, 'modernisieren': 1, 'Monarchie': 1, 'in': 1}

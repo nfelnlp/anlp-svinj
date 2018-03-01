@@ -1,0 +1,1 @@
+{'Kiew': 1, 'Rußland': 1, 'nur': 1, 'wieder': 1, 'ein Verbot': 1, 'den': 1, 'Maßnahmen': 1, 'erlassenes Gesetz verbietet': 1, 'sollen': 1, 'und': 1, 'Führung': 1, 'oder': 1, 'die': 1, 'Föderation verteidigt': 1, 'warfen der': 1, 'Regierung': 1, 'vor': 1, '„Neonazis “': 1, 'Verbot': 1}

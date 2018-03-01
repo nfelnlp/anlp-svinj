@@ -1,0 +1,1 @@
+{'Warschau': 1, 'EU': 1, 'polnische': 1, 'Sejm': 1, '”': 1, ', eine': 1, 'PO': 1, 'und ( Ungarns': 1, '” Das Gesetz': 1, 'Kritik an': 1, 'Gesetz': 1, 'Piotr': 1, 'vor allem': 1, 'treten': 1, '.': 1, '„umstrittener': 1, 'und': 1}

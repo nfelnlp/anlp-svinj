@@ -1,0 +1,1 @@
+{'.': 2, '. Entschädigungen': 1, 'Anfrage': 1, 'die': 2, 'Kohlekraftwerke': 1, 'Anschließend': 1, 'mit': 1, 'Vor': 1, '2016 eine neue': 1, 'in': 1, ') und Falkenberg': 1, 'Brandenburg )': 1, 'reduziert': 1, 'können . Die': 1, 'Strom mbH mit': 1}

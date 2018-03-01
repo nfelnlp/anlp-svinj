@@ -1,0 +1,1 @@
+{'die': 4, 'Wilders': 1, 'Le': 1, 'das': 1, 'den ersten 22': 1, 'hatten': 1, 'in': 1, 'bisherigen': 1, 'letzter Woche': 1, 'kommentiert :': 1, 'uns': 1, '.': 1, 'ignoriert': 1, 'im': 1, ',': 1, '–': 1, 'Euch': 1, 'dass': 1, 'seid': 1, 'Macht': 1, 'COMPACT-Magazin': 1}

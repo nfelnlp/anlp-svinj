@@ -1,0 +1,1 @@
+{'Budapest': 1, 'ungarische': 1, 'Orbán': 1, '( EVP': 1, ',': 2, 'Parteien': 2, 'der': 1, 'er und': 1, 'unbestätigte': 1, 'Fidesz': 1, ') beizutreten': 1, 'berufen': 1, 'auf': 1, 'aus': 1, 'Augenblick': 1, 'nur': 2, 'jedoch': 1, 'Fidesz-Politiker': 1, 'Kampagnen': 1, 'im': 1, 'Manövern': 1, 'EU': 1, ')': 1}

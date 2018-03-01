@@ -1,0 +1,1 @@
+{'Grey': 2, '. Die': 1, 'dicker ,': 1, 'heruntergeschriebener': 1, 'den': 1, 'Feinschmecker': 1, 'Episoden des': 1, 'dort': 1, '.': 2, ',': 2, 'um ihre': 1, 'Lektüre': 1, 'ein „wertloses': 1, '…': 1, 'Klischees': 1, ':': 1, 'ganze': 1, 'retten': 1, '?': 1, 'du': 1, 'in den': 1, '– mit': 1, 'und auch': 1, 'gehorchen': 1, 'gehorchen starken': 1}

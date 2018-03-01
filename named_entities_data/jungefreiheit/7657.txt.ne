@@ -1,0 +1,1 @@
+{'von': 1, 'her .': 1, ', wie Angriffe': 1, '. Nehmen wir': 1, 'Mut': 1, 'zu': 1, 'Zeit': 1, 'islamische': 1, 'Millionen': 1, 'Verbrechens': 1, ',': 3, 'sich': 1, 'bewahren': 1, 'Hier deutet': 1, 'nicht': 1, 'Bodenschätze': 1, 'der': 1, 'oder': 1, 'Geister': 1, 'die': 1, 'hier': 1, 'europäischen Rechten': 1}

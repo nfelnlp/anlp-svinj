@@ -1,0 +1,1 @@
+{'im': 1, 'bei': 1, 'repräsentativen': 1, 'europäischen': 1, 'überregionalen': 1, 'für die RWE': 1, 'Stromversorger': 1, 'bestehen auf': 1, 'an': 1, 'die': 2, ',': 1, 'andere': 1, 'nicht': 1, 'können , müssen': 1, 'den': 1, 'einigen': 1, 'selbst als': 1, 'Ökostrom-Versorger': 1, 'über': 1, 'Sachen': 1, 'Anbieter ,': 1}

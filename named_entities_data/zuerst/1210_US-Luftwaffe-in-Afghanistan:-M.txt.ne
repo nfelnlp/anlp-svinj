@@ -1,0 +1,1 @@
+{'Washington/New': 1, '. Mehr': 1, 'in Afghanistan': 1, 'Nach': 1, 'jetzt veröffentlichte': 1, 'und': 1, '„Islamischer': 1, 'zu': 1, 'für': 1, 'verbraucht': 1, 'bereits Einsätze': 1, 'als': 1, 'Montag veröffentlicht': 1}

@@ -1,0 +1,1 @@
+{'Kenia': 1, 'Die': 2, 'ist': 1, 'in Hamburg': 1, 'beschleunigt': 1, 'vielbeachteten Rohstoffpreisindex': 1, '.': 1, 'Prozent': 1, 'steigen': 1}

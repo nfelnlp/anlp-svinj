@@ -1,0 +1,1 @@
+{'Washington': 2, 'Intelligence Agency ( DNA': 1, 'aufgerüstet': 1, 'im': 1, 'Krieg': 1, 'über': 1, 'draufsatteln ,': 1}

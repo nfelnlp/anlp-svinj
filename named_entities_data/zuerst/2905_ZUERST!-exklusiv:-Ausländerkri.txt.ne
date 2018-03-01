@@ -1,0 +1,1 @@
+{'Gesellschaft 2 Berlin': 1, 'Polizei': 1, ',': 2, '– ein großes': 1, 'aufeinander eingestochen': 1, 'aufeinander eingestochen “': 1, 'so': 1, 'Högl': 1, 'eine': 1, 'Kontrolle gerade': 1, 'Alexanderplatz': 1, '(': 1, ')': 1}

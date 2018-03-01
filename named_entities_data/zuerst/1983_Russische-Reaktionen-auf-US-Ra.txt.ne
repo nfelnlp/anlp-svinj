@@ -1,0 +1,1 @@
+{'Moskau': 1, 'über': 1, '.': 1, 'sofort': 1, 'nahm ausdrücklich': 1, 'auf': 1, 'logisch': 1, 'handelt': 1, 'Maßnahme': 1, 'hochmodern': 1, 'Marschflugkörpern und': 1, 'die': 1, 'Bashar al-Assad': 1, 'Zeit': 1, 'Lage versetzt': 1, ',': 1}

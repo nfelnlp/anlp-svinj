@@ -1,0 +1,1 @@
+{'Wien': 1, 'österreichischen Justiz': 1, 'Wiener': 1, 'nach': 1, '.': 1, 'Strafrahmen': 1, 'Vorsitzende': 1, 'der Urteilsbegründung': 1}

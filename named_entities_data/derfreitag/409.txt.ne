@@ -1,0 +1,1 @@
+{'Berlin-Hohenzollernkanal': 1, 'man an': 1, 'Ich': 1, 'ausgestiegen': 1, 'man': 1, 'deren Gebäude': 1, 'Im Winter ist': 1, '-': 1, 'die': 2, 'ein': 1, 'gehen': 1, 'Ein Liter': 1, 'Tschick': 1}

@@ -1,0 +1,1 @@
+{'. Offenbar': 1, 'Wolfsburg durchsucht .': 1, 'den': 1, '. Auch': 1, ',': 1, 'erfuhr': 1, 'steuerrechtliche Aspekte': 1, 'Unternehmen': 1, 'Unternehmens für': 1, 'juristischen Sachverständigen': 1, 'dass': 1, 'den rechtlichen': 1, 'auch': 1, 'Verfahren wegen': 1, 'Neumann sowie': 1, 'der Marke': 1, 'Vorgänger': 1, 'Schumm .': 1}

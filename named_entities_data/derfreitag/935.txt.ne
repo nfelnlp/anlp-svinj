@@ -1,0 +1,1 @@
+{'Deutschland': 1, '. weiter': 1, 'da': 1, 'was': 1, 'sagen': 1, '-': 1, 'Doch': 1, 'ausgefallen': 1, 'kontrapunktiv': 1, 'und': 1, 'Islam auch': 1, 'auf diese': 1, 'draufgesattelt': 1, ',': 2, 'hat': 1, 'dem': 1, 'verhält': 1, 'bestellt': 1, 'so': 1}

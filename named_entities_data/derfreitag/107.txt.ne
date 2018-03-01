@@ -1,0 +1,1 @@
+{'Linksextremisten sind gewalttätiger': 1, 'der': 1}

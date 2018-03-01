@@ -1,0 +1,1 @@
+{'Telekom Jörg Augsburg': 1, 'Leo Ramirez/AFP/Getty': 1, 'Das': 1, 'von': 1, 'das Maximale': 1, 'unterwegs': 1, '9,99': 1, 'Labels': 1, '.': 1}

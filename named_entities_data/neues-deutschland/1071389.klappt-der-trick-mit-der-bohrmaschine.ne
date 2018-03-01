@@ -1,0 +1,1 @@
+{'. Nandus': 1, 'einem': 2, 'Die Zahl': 1, 'gesunken .': 1, 'über massive Verluste': 1, 'Raps- und Rübenfeldern': 1, 'Tiere': 1, 'wird der': 1, 'kontinuierlich anwachsende Bestand': 1, 'und': 1, 'festgestellt': 1, 'Arten aus ihrem': 1}

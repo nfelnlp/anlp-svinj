@@ -1,0 +1,1 @@
+{'Gleichen': 1, 'Palästina': 1, 'Nahen Osten': 1, 'Israel': 1, 'Hamas': 1, 'Nomos': 1, 'Carl Schmitt': 2, 'weltstaatlich': 1, 'untergräbt': 1, 'Osten': 1, 'Satellitenstaaten': 1, '. Nach': 1, 'Ernüchterung': 1, 'die': 1, 'den': 1, 'in': 1, 'jetzt': 1, 'heute': 1, 'Eingliederung': 1, 'maskierten': 1, '« Irregularität': 1, 'Zweifel': 1}

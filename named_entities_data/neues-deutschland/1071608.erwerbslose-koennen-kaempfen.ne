@@ -1,0 +1,1 @@
+{'seinem neuesten': 1, 'Dorf': 1, 'dem': 1, 'Jobverlust': 1, ',': 1, 'von': 1, 'Distanz': 1, 'Organisationen': 1, 'Er lehnt': 1, 'für': 1, 'rund': 1}

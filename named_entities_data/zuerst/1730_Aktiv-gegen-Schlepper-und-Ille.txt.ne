@@ -1,0 +1,1 @@
+{'Catania': 1, 'Europa': 1, 'zur': 1, 'eines': 1, 'Küste': 1, 'ausstatten': 1, 'aktivistische': 1, 'Sie': 1}

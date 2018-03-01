@@ -1,0 +1,1 @@
+{'Moskau': 1, 'Rußland': 2, 'Bundeskanzlerin Merkel': 1, 'auf': 1, 'haben': 1, 'zu': 1, 'Zusammenarbeit': 2, 'Kriseneinsätzen': 1, 'russischen': 1, ':': 1, 'offen für': 1, ',': 2, '“ Der': 1, 'russische': 1, 'zusammengearbeitet': 1, 'wären': 1, 'rechtliche': 1}

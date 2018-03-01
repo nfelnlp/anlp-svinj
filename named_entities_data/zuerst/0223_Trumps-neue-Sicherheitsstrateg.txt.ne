@@ -1,0 +1,1 @@
+{'Washington': 1, 'US-Präsident': 1, 'hat jetzt': 1, '.': 2, '“': 1, 'China': 1, 'neuen': 1, 'als': 1, 'USA': 1, '„Rußland': 1, 'schwächen': 1, '„verdrängen “ zu': 1, 'Kosten': 1, 'Souveränität': 1, 'mit': 1, 'mit Verweis': 1, 'hartnäckig eine': 1, 'zurück': 1, 'von': 1, 'Peking': 1}

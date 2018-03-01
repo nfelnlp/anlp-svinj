@@ -1,0 +1,1 @@
+{'Berlin': 1, '( SPD': 1, 'hat': 1, 'persönlich': 1, '–': 1, ',': 1, 'und': 1, 'heutigen': 1, 'Menge': 1, 'Polizeipräsidenten': 1}

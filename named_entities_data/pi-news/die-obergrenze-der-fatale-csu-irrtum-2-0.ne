@@ -1,0 +1,1 @@
+{'CSU': 3, 'Bayern': 1, 'Seehofer': 1, 'ARD': 1, '“': 1, '.': 3, 'Josef Strauß verkommen': 1, ',': 1, 'Seit': 1, 'es': 1, 'doch an': 1, 'doch an Schlog': 1, 'Schlog !': 1, 'ich': 1, ', was 200.000': 1, 'sind': 2, 'Jahr': 1, 'und': 1, 'Aufzählung': 1, 'weitere': 1, 'Mensch': 1, 'irgendeine': 1, 'gibt': 1, ')': 1}

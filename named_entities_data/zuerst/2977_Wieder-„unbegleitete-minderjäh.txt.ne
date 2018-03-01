@@ -1,0 +1,1 @@
+{'Gesellschaft 1 Graz': 1, 'Maria L. haben': 1, '–': 1, 'Afghanen belästigten eine': 1, 'stießen': 1, 'laut': 1, 'nach': 1, 'kurz': 1, 'der': 1, 'dann': 1, 'beiden': 1}

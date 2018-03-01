@@ -1,0 +1,1 @@
+{'London': 1, 'EU-Bürger': 1, 'aus zehn': 1, 'Studie': 1, 'und': 2, ',': 5, 'Vereinigten': 1, 'durchgeführt': 1, 'Befragt': 1, 'die Studie': 1, 'die': 1}

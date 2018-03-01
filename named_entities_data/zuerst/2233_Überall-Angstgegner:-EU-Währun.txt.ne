@@ -1,0 +1,1 @@
+{'Brüssel': 1, 'Front National': 1, 'Marine': 1, 'Marine Le': 1, 'Marine Le Pen': 1, 'Pens': 1, 'EU-Währungskommissar': 1, 'jetzt der': 1, ',': 2, ', „aus': 1, 'auszutreten': 1, 'ohne': 1, 'Mosocovici': 1, 'Es': 1, 'der': 1, 'die': 1, 'anderen': 1, '“ ,': 1, 'auseinanderdividieren': 1, 'USA': 1, 'Einzelstaaten': 1, 'mit': 1}

@@ -1,0 +1,1 @@
+{'Artikel erschien in': 1, 'meinem 14 .': 1, 'ihnen hatte': 1, 'mir': 1, 'und': 1, 'ich': 2, '.': 1, '. Zu Weihnachten und zu': 1, 'Westen': 1, ',': 1, ', Kerzenständer aus Holz': 1, 'ja': 1, 'in': 1, 'das': 1}

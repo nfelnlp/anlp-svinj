@@ -1,0 +1,1 @@
+{'.': 1, '. Der': 1, 'das Unternehmen': 1, 'räumte Binladin ein': 1, 'Umfang': 1, 'Monaten': 1, 'gegründete': 1, 'ist': 1}

@@ -1,0 +1,1 @@
+{'Der Diesel-Skandal': 1, 'seit zwanzig': 1, 'verfügbar .': 1, 'den': 1, 'ist': 1, 'Medien': 1, 'Kenner': 1, 'denkt': 1, ':': 1, 'unter': 1, 'war': 1, 'Abgasprüfungen im': 1, 'so lange': 1, 'wurden': 1, 'bis': 1, 'überhaupt': 1, 'denn nun': 1, 'weiterentwickelt': 1, 'und': 1, 'wird': 1, 'Nun': 1, 'vom': 1, 'und alle': 1, 'dorthin': 1}

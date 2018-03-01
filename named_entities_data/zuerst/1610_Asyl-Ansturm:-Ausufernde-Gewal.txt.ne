@@ -1,0 +1,1 @@
+{'Kreis': 1, ') angezündet': 1, 'der': 1, 'in': 1, 'bei': 1, 'seinen': 1, 'die': 1, 'Eisenstangen': 1, 'und': 1, 'aber': 1}

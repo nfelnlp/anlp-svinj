@@ -1,0 +1,1 @@
+{'Albanien': 3, 'EU': 1, 'Christiane Bischoff': 1, 'Andreas Michalke': 1, 'Balkan': 1, 'Deutschland': 1, 'Vereinten Nationen': 1, 'kontrolliert': 1, 'In': 1, 'das': 2, 'jedoch': 1, 'verdienen': 1, 'zum': 1, 'Während': 1, 'einziger': 1}

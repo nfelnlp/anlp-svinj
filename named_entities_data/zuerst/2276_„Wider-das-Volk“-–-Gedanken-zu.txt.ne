@@ -1,0 +1,1 @@
+{'NPD': 1, 'am': 1, 'des': 1, ') eine deftige Klatsche': 1, 'bekommen': 1, 'aber': 1, '2000 ein': 1, 'beziehungsweise Abstammung': 1, ', als': 1, 'kommentierte :': 1, 'Parteien': 1, 'Patriotenverfolgung mit': 1, '.': 1, 'Welchen': 1, 'jetzt': 1, 'gewisse': 1, 'es': 1, 'man nur das': 1, 'systemimmanenten': 1, '! sind': 1}

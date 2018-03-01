@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'In': 1, 'In Köln': 1, 'das': 1, 'zwei': 1, 'es': 1, 'zweimal': 1, 'zu': 2, ']': 3, 'wegen': 1, '40 bis': 1, '6': 1, 'http': 1}

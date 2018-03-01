@@ -1,0 +1,1 @@
+{'hatten': 1, 'die': 1, 'Verbänden': 1, 'per': 1, 'sie': 1, ',': 1, 'sollte': 1, '.': 2, '5500': 1, 'von': 1, 'Bremer': 1, 'vor französischen Verhältnissen': 1}

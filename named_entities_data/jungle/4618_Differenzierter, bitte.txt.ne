@@ -1,0 +1,1 @@
+{'Jonas Fedders': 1, '.': 1, 'anderem': 1, 'darauf': 1, 'werden .': 1, '» Das vornehme Wort': 1, '»': 1, 'Wesensart » des Islam': 1, 'des': 1, 'Orlando': 1, ':': 1, 'so': 1, '« an': 1, 'nach der': 1, 'derzeitigen': 1}

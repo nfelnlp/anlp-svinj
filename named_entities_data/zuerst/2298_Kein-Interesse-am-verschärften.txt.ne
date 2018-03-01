@@ -1,0 +1,1 @@
+{'Prag': 1, 'Tschechischen': 1, 'Tschechischen Republik': 1, 'Brüssel': 1, 'tschechische': 1, 'Milan Chovanec': 1, 'bewaffnen': 1, 'Chovanec': 1, 'die': 2, 'immer': 1, 'im': 1, 'einfach': 1, 'Gegenplan': 1, 'der': 1, 'Und': 1, '„Können': 1, 'wirklich': 1, 'Meinung': 1, 'März': 1, '.': 1}

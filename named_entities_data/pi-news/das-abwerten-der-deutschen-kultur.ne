@@ -1,0 +1,1 @@
+{'frenetisch': 1, 'aufgeladenes': 1, 'Herrenmenschentum': 1, 'hierzulande': 1, 'ist': 1, 'man': 1, 'als auch': 1, '“': 1, 'auf': 1, 'rühmliche Ausnahmen': 1, 'den': 1, 'den übermäßigen': 1, 'mit': 1, 'der': 1, 'gebracht': 1, 'er': 1, 'die': 1, 'fürderhin': 1, 'mehr': 1, 'führen': 1, 'So': 1, 'momentan': 1, 'auch': 1}

@@ -1,0 +1,1 @@
+{'Washington': 1, 'jetzt': 1, 'Zumindest': 1, 'im Süden': 1, 'Das': 1, 'die': 1, ', nebeneinander': 1, 'State University': 1, 'anders als Texas geeignet': 1, 'Bau': 1, 'zu': 1, 'den': 1, 'den Bau': 1, 'Mauer': 1, 'allerdings': 1}

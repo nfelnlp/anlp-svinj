@@ -1,0 +1,1 @@
+{'. »': 1, 'Volksinitiative': 1}

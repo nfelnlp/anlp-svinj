@@ -1,0 +1,1 @@
+{'Kern': 2, '.': 1, 'Kern :': 1, 'und': 3, 'einlassen': 1, 'spielen': 1, 'die Hilfsplattform': 1, 'Wir': 1, 'dass Bezness': 1, 'Deutschland': 1, 'islamischen': 1, 'in': 1, 'trotz': 1, 'Namen': 1, 'des': 1, '[': 1, ': Also': 1, 'wird': 1, 'sie': 1, 'Behörden ,': 1, 'von seiner': 1, 'arabische': 1, 'Kinder': 1, 'müssen': 1, 'Augen': 1}

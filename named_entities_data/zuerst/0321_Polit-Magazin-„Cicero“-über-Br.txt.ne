@@ -1,0 +1,1 @@
+{'Berlin': 1, 'Brüssel': 1, 'jetzt': 1, 'und': 1, 'die': 1, 'Bündel': 1, 'Schulkantinen': 1, ',': 1}

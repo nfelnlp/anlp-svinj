@@ -1,0 +1,1 @@
+{'EZLN': 2, 'Chiapas': 2, 'Luz Kerkeling': 1, 'San Cristóbal de': 1, 'Casas': 1, 'mexikanischen': 1, 'südmexikanischen': 1, 'Befreiungsarmee EZLN': 1, 'Befreiungsarmee EZLN .': 1, 'der': 1}

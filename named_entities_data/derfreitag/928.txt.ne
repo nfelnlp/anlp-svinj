@@ -1,0 +1,1 @@
+{'Bundeswehrsoldat Jesper': 1, 'Ronald Zehrfeld': 1, 'Tarik': 1, 'Afghanistan': 1, 'Filmförderung': 1, 'ist': 1, 'unterschiedlich': 1, 'rund': 1, ', ist': 1, 'Präsenz .': 1, 'verfährt Lone Survivor': 1, '(': 1, 'auch': 1, 'Mark Wahlberg': 1, '. Und': 1, 'wegen': 1, 'Tontechnik und': 1, 'Schnittchoreografie .': 1, 'ist .': 1, 'D 2013': 1}

@@ -1,0 +1,1 @@
+{'CANTALOOP': 1, '–': 1, 'glasklare': 1, '.': 2, ', oder': 1, ',': 1, 'seriösen': 1, 'junge': 1, 'als': 1, 'verabreichen .': 1, 'anstelle': 1, 'Folge': 1, 'das': 1, 'in': 1, 'Seine': 1, 'Einbremsung der': 1, 'Einwanderung': 1, 'Wahl transkribieren': 1, 'doch': 1, 'vor': 1, 'vor allem': 1, '(': 1, 'zur Information': 1, 'mit': 1, 'und': 1, 'Landes': 1, 'moralische': 1}

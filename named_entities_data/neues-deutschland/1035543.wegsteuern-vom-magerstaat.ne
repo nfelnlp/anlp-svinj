@@ -1,0 +1,1 @@
+{'mit': 1, 'einem': 1, 'sich': 1, 'viele': 1, ') will': 1, 'und': 1, 'zur': 1, ',': 1, 'unter': 1, 'auf': 1, 'zehn': 1, 'der': 1, 'würde': 1, 'werden': 2, 'für': 1, ', ob': 1, 'dem Gleichheitssatz': 1, 'wieder': 1, 'öffentliche': 1, 'dann': 1, 'keine': 1, 'Höhe': 1, 'dort': 1, 'direkt': 1, 'damit': 1}

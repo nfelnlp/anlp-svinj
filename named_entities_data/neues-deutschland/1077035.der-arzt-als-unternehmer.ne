@@ -1,0 +1,1 @@
+{'-': 1, 'dies': 1, 'Gynäkologen': 1, 'der': 1, 'wenige': 1, 'GmbH .': 1, 'auf': 1, 'als': 1}

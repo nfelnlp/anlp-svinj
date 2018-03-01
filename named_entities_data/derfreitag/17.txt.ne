@@ -1,0 +1,1 @@
+{'Versprechen': 1, '35/2015': 1, 'Joko Winterscheidt': 1, '„Einer dieser': 1, 'muss sich': 1, 'Krebserkrankung zurückziehen': 1, 'wurde': 1, 'eine Evolutionsstufe': 1, 'nicht': 1}

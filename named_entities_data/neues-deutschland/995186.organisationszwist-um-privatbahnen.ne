@@ -1,0 +1,1 @@
+{'Bahngewerkschaften': 1, 'Marcus Meier': 1, 'NRW': 1, 'National Express': 1, 'Deutschen Bahn AG': 1, 'nordrhein-westfälischen Markt :': 1, 'Rail GmbH übernahm': 1, 'und der Rhein-Wupper-Bahn': 1, 'Auftrag vor allem': 1, 'Auftrag vor allem des': 1, 'englische': 1, 'kam': 1, 'brachte frische weiß-blaue': 1, 'Anfang der 1980er-Jahre': 1}

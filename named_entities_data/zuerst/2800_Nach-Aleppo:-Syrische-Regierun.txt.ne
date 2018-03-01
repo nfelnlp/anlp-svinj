@@ -1,0 +1,1 @@
+{'Damaskus/Moskau': 1, 'In': 1, 'sich': 1, 'dem': 1, 'werden': 1, 'die': 1, 'im Nordwesten': 1, 'verstärkt': 1, 'Dschisr': 1, 'geflogen': 1, '. Anwohner': 1, 'russische und syrische': 1, 'angegriffen': 1, 'Assal rund': 1, 'Hreitan': 1, 'Andan': 1, 'Atareb': 1, 'der': 2, 'darüber': 1, '.': 1, 'den': 1, 'hat wiederholt': 1, ',': 1}

@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Wien': 1, 'Österreich': 1, 'an': 1, 'der': 1, 'Ten': 1, 'OECD-Staaten': 1, 'aus': 1}

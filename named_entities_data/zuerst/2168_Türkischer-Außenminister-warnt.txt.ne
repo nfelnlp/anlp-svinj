@@ -1,0 +1,1 @@
+{'Antalya': 2, 'Deutschland': 1, 'türkische': 1, 'Mevlüt Cavusoglu': 1, 'Niederlande': 1, 'niederländischen': 1, 'Mark Rutte': 1, 'Wilders .': 1, '“': 1, 'Wenn': 1, 'habe': 1, 'Europe': 1, ',': 1, 'In': 1, 'europäischen': 1, 'von der': 1, 'der Zeitung': 1, 'Deutsch': 1, 'Holland…': 1, 'wir': 1, 'Eurem Geschrei': 1, 'kennt': 1}

@@ -1,0 +1,1 @@
+{'Los Angeles': 1, '“ verbal': 1, 'angelegt': 1, 'Hälfte': 1, 'ist': 3, 'ein': 1, 'magst ihn': 1, '.': 1, 'so': 1, 'das': 1, 'die': 1, 'unterstützen': 1, 'Aber': 1}

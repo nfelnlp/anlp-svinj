@@ -1,0 +1,1 @@
+{'Images Vielleicht': 1, 'Sie': 1, 'noch': 1, '„Vorzugspreis “ literarische': 1, 'unter': 1, 'der Plattform': 1, ')': 1, ',': 1, 'denn erst': 1, 'versuchte sich': 1, 'einer Analyse': 1, 'Phänomens Laienbuchrezension': 1, 'wahren Vorlieben': 1, '“': 1, 'Das': 1, ') .': 1, '? Und': 1, 'im': 1, 'auch eine': 1}

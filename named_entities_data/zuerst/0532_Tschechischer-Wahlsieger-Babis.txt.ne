@@ -1,0 +1,1 @@
+{'Prag': 1, 'Babis': 1, 'hat erste': 1, 'schrillen': 1, 'angekündigt': 1, 'für': 1, 'wollen': 1, 'er': 1, 'gegen': 1, 'die': 1, 'vertrete': 1, 'Haltung': 1, 'hatte': 1, 'zu': 1, ',': 1, 'Politiker': 1, 'abzuriegeln': 1, 'Kraft': 1, '(': 1}

@@ -1,0 +1,1 @@
+{'( 33': 1, ',': 3, 'Und': 1, 'Dreiteiler gemacht hat .': 1, 'ja': 1, 'gehts': 1, 'arabische': 1, ':': 1, 'Söhnchen': 1, 'gewollt': 1, 'von': 1, 'paar': 1, 'Symbolfinger': 1, 'bin !': 1, 'Kinderwagen': 1, 'schwul': 1, 'hin': 1, 'Rama': 1, 'sie': 1, 'Stärke ,': 1, 'sich': 1}

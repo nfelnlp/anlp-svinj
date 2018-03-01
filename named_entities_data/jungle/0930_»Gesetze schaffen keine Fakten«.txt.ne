@@ -1,0 +1,1 @@
+{'Shereen El Feki': 1, 'Nordafrika': 2, 'brasilianische': 1, 'brasilianische NGO': 1, 'UN': 1, 'and North Africa': 1, 'Malaysia': 1, 'Gary Barker': 1, 'Promundo': 1, 'NGO': 1, 'Osten': 1, 'Red. ) .': 1, 'Syrien': 1, 'die': 2, 'Umstand': 1, '.': 1, ',': 1, 'offenbar': 1, 'konnten': 1, 'ein': 1, 'phantastisch': 1, 'zeigt': 1}

@@ -1,0 +1,1 @@
+{'Hannes Arch': 1, 'Bernhard': 1, 'austrieb': 1, 'Escape from': 1, 'beschrieben': 1, 'Dollar schwere': 1, 'die': 2, 'Bull': 1, 'vergleichbare': 1, 'das': 1, 'das wahre': 1, 'war': 1, 'in': 1, ',': 1, 'ob': 1, 'nicht schwer': 1, 'diese': 1, 'aus Identifikationsfiguren': 1, 'Extremsportler': 1, 'Baumgartner': 1, 'er seine': 1, 'ja': 1, ', als': 1, 'haben': 1, 'verlieren': 1}

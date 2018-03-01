@@ -1,0 +1,1 @@
+{'Gesellschaft 2 Paris': 1, 'Cathérine Deneuve': 1, 'Brigitte Bardot': 1, 'und': 1, 'Schauspielerinnen': 1, 'sexuell': 1, 'sie': 1, '-Kampagne': 1, 'Frauen': 1, 'sich daraufhin': 1, 'verteidigte': 1}

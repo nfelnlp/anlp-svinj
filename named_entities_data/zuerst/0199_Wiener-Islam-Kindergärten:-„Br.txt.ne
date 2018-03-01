@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Wien': 1, 'Uni Wien': 1, 'Aslan': 1, 'Wiener Islam-Kindergärten': 1, 'der': 1, 'Studie': 1, 'der islamischen': 1, 'Wort –': 1, 'setzt': 1, 'hinnehmen': 1, 'Kurz': 1}

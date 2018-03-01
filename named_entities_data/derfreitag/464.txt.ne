@@ -1,0 +1,1 @@
+{'Images': 1, 'gehört zu': 1, 'in': 1, 'weiter': 1, 'hier und': 1, 'Leinenausgaben': 1, 'für': 1, 'Schauspiel': 1, 'ein': 2, ',': 1, 'an Zeitgenossen': 1, 'Zeit': 1, 'der': 1, 'er in': 1, 'tue': 1, 'Er': 1, 'auf': 1, 'Eleganz': 1}

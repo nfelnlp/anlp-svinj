@@ -1,0 +1,1 @@
+{'mal': 1, 'weiß': 1, 'Weise': 1, 'in': 2, 'Ausgabe': 1, 'Tod im Herbst': 1, 'Migrationsproblem': 1, '„Spiegel': 1, 'viel': 1, 'was': 1, 'der': 1, 'Saltzwedel': 1, '“ -Redaktion': 1, 'offensichtlich': 1, 'noch': 1, 'als': 1, '.': 2, 'zu': 1, 'unverschämter': 1, 'selbst für': 1, 'selbst für die': 1, 'Sieferle': 1, 'kann man um': 1}

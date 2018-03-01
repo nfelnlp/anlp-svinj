@@ -1,0 +1,1 @@
+{'Was': 1, '.': 2, 'Rechte': 1, 'Entstehung': 1, 'zur': 1, '(': 1, ') ,': 1, 'und': 1, '. Im': 1, '2010': 1, 'die': 1, 'die für': 1, 'die für Copyright': 1, 'mit': 1, 'Erstellung': 1, 'Journalistinnen- und': 1, 'facto': 1, 'aus': 1, 'Hinweis': 1, 'Pressefreiheit auch': 1, 'sein': 1, 'auf .': 1, 'Gerade die': 1, '. Kurz': 1}

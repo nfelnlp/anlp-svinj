@@ -1,0 +1,1 @@
+{'L.S.Gabriel': 1, 'Scharia-Behörde': 1, 'der': 1, 'den': 1, 'Unterstützung': 1, 'man': 1, 'No-Go': 1, 'als': 1, ',': 3, 'von': 1, 'Hunger': 1, 'hätte': 1, 'schlichtweg': 1, 'dass': 1, 'solange': 1, 'diversen': 1, ', alles sich': 1, 'Toleranztrunkenheit': 1}

@@ -1,0 +1,1 @@
+{'verhaftet': 1, 'in': 1, 'Buch': 1, 'Jobs &': 1, 'Mark': 1, 'kennt . Bei': 1, 'Fotos': 1, 'um wirkliche': 1, 'Beispiel': 1, 'assistierte )': 1, 'New': 1, 'ein': 1, 'von': 1, 'der': 1, 'Ihre': 1, 'In': 1, 'als Therapie': 1, '.': 1, 'daher an': 1}
