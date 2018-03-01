@@ -10,7 +10,7 @@ from sklearn.utils import shuffle
 import baseline as base
 
 #from features import pos_tags, sentiment
-from features import sentiment
+from features import sentiment, named_entities
 
 def build_subset(subset, sid, split):
     # Read all files of a subset
@@ -95,6 +95,7 @@ if __name__ == "__main__":
 
     # Add features
     #data = pos_tags.add_features(df=data)  # POS tag feature
+    data = named_entities.add_features(data)
     data = sentiment.add_feature(data)
 
     # Select classifier and train
