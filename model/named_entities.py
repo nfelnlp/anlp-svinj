@@ -2,6 +2,8 @@ import nltk
 import polyglot
 from polyglot.text import Text
 import collections as col
+import os
+import ast
 
 #extracts entities from article and extracts the corresponding strings
 def entity_strings(article):
@@ -20,13 +22,39 @@ def entity_strings(article):
     return entity_strings
 
 #extracts all named entities from an article
-def all_named_entities(article):
+def all_named_entities(article, path=None):
 
-    entities_dict = col.defaultdict(int)
-    for entity in entity_strings(article):
-        entities_dict[entity] += 1
+    if not path:
+        entities_dict = col.defaultdict(int)
+        for entity in entity_strings(article):
+            if entity == '':
+                continue
+            entities_dict[entity] += 1
 
-    return entities_dict
+        return entities_dict
+    
+    path_components = path.split("/")
+    
+    outlet = path_components[4]
+    curr_name = path_components[6]
+
+    entities_path = "../named_entities_data/" + outlet + "/" + curr_name + ".ne"
+    
+    try:
+        with open(entities_path, "r") as entities_file:
+            entities_str = entities_file.read()
+            entities_dict = ast.literal_eval(entities_str)
+        return entities_dict
+    except FileNotFoundError:
+        with open(entities_path, "w") as entities_file:
+            entities_dict = col.defaultdict(int)
+            for entity in entity_strings(article):
+                if entity == '':
+                    continue
+                entities_dict[entity] += 1
+
+            entities_file.write(str(entities_dict))
+        return entities_dict
     
 
 #extracts ony the entities in article that appear in entity_list
@@ -50,8 +78,10 @@ def extract_named_entities(entity_list, article):
 
 def extract_chunk_string(entity, article):
     start = entity.start
-    end = entity.end + 1
-    return article[start:end]
+    end = entity.end
+    tokenized = nltk.word_tokenize(article)
+    chunk_string = " ".join(tokenized[start:end])
+    return chunk_string
 
 
 
