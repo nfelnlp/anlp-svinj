@@ -77,17 +77,18 @@ def train(data, clf):
 
 if __name__ == "__main__":
     # Parse the datasets
-    left_wing_train = base.read_csv('../data/train/left_wing_train.csv')
-    right_wing_train = base.read_csv('../data/train/right_wing_train.csv')
+    small_dataset = True
 
-    left_wing_test = base.read_csv('../data/test/true_left_wing_test.csv')
-    right_wing_test = base.read_csv('../data/test/true_right_wing_test.csv')
-
-    #left_wing_train = base.read_csv('../data/train/left_wing_train_short.csv')
-    #right_wing_train = base.read_csv('../data/train/right_wing_train_short.csv')
-
-    #left_wing_test = base.read_csv('../data/test/left_wing_test_short.csv')
-    #right_wing_test = base.read_csv('../data/test/right_wing_test_short.csv')
+    if small_dataset:
+        left_wing_train = base.read_csv('../data/train/left_wing_train_short.csv')
+        right_wing_train = base.read_csv('../data/train/right_wing_train_short.csv')
+        left_wing_test = base.read_csv('../data/test/left_wing_test_short.csv')
+        right_wing_test = base.read_csv('../data/test/right_wing_test_short.csv')
+    else:
+        left_wing_train = base.read_csv('../data/train/left_wing_train.csv')
+        right_wing_train = base.read_csv('../data/train/right_wing_train.csv')
+        left_wing_test = base.read_csv('../data/test/true_left_wing_test.csv')
+        right_wing_test = base.read_csv('../data/test/true_right_wing_test.csv')
 
     data = build_corpus(left_wing_train, right_wing_train,
                         left_wing_test, right_wing_test)

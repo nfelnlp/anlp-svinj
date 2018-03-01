@@ -24,6 +24,7 @@ def add_features(df):
 
 def annotate_with_pos(articles, tagger):
     all_pos = []
+    pos_dict = defaultdict(int) #list)
 
     for art in articles:
         tokenized_art = []
@@ -35,12 +36,13 @@ def annotate_with_pos(articles, tagger):
 
         anno = treetaggerwrapper.make_tags(tg_output, exclude_nottags=True)
 
-        pos_dict = defaultdict(list)
+        #pos_dict =
         for a in anno:
-            pos_dict[a[0]] = a[1]
-        all_pos.append(pos_dict)
+            pos_dict[a[1]] += 1
+            #pos_dict[a[1]] = a[0]
+        #all_pos.append(pos_dict)
 
     vec = DictVectorizer()
-    pos_vectorized = vec.fit_transform(all_pos)
+    pos_vectorized = vec.fit_transform(pos_dict) #all_pos
 
-    return pos_vectorized.toarray()
+    return pos_vectorized.toarray()#[:,0:50]
