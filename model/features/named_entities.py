@@ -8,7 +8,7 @@ import pandas as pd
 from sklearn.utils import shuffle
 
 
-def add_features(df):
+def add_features(df, ne_number):
     
     train_df = df[df['split'] == "train"]
     test_df = df[df['split'] == "test"]
@@ -22,7 +22,7 @@ def add_features(df):
         entities_dict = all_named_entities(art, path)
         entity_dict_list.append(entities_dict)
 
-    most_common_ne, entities = most_common_entities(entity_dict_list, number=200)
+    most_common_ne, entities = most_common_entities(entity_dict_list, ne_number)
 
     ne_features_train = pd.DataFrame(entities)
 
@@ -97,7 +97,11 @@ def all_named_entities(article, path=None):
     try:
         with open(entities_path, "r") as entities_file:
             entities_str = entities_file.read()
-            entities_dict = ast.literal_eval(entities_str)
+            entities_list = ast.literal_eval(entities_str)
+            entities_dict = col.defaultdict(int)
+            for entity in entities_list:
+                entities_dict[entity] += 1
+            #entities_dict = ast.literal_eval(entities_str)
             #entities_dict = eval(entities_str)
         return entities_dict
     except SyntaxError:
@@ -106,12 +110,14 @@ def all_named_entities(article, path=None):
     except FileNotFoundError:
         with open(entities_path, "w") as entities_file:
             entities_dict = col.defaultdict(int)
+            entities = []
             for entity in entity_strings(article):
                 if entity == '':
                     continue
+                entities.append(entity)
                 entities_dict[entity] += 1
 
-            entities_file.write(str(entities_dict)[27:-1])
+            entities_file.write(str(entities))
         return entities_dict
     
 
@@ -207,7 +213,7 @@ def most_common_entities(entity_dict_list, number=200):
 def get_most_common(entity_dict, number=200):
     entity_list = []
     for entity, occurences in entity_dict.items():
-        if len(entity_list) <= number:
+        if len(entity_list) < number:
             entity_list = insert_ordered(entity_list, (entity, occurences))
         else:
             _, least_occ = entity_list[number - 1]
