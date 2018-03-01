@@ -13,6 +13,7 @@ from sklearn.utils import shuffle
 
 import baseline as base
 import named_entities as ne
+import sentiment as se
 
 def concatenate_train(left, right):
     df_left = pd.DataFrame()
@@ -25,6 +26,7 @@ def concatenate_train(left, right):
     articles_right = [open(f).read() for f in files_right]   
 
     
+    # Named Entity Recognition
     entities_left = []
     entities_right = []
     for left_art, right_art in zip(articles_left, articles_right):
@@ -44,11 +46,19 @@ def concatenate_train(left, right):
     ne_features_right = pd.DataFrame(entities_right)
     df_right = pd.concat([df_right, ne_features_right], axis=1)
 
+
+    # Sentiment Analysis
+    polarity_left  = [se.polarity(art) for art in articles_left]
+    polarity_right = [se.polarity(art) for art in articles_right]
+
+    se_features_left  = pd.DataFrame(polarity_left)
+    df_left = pd.concat([df_left, se_features_left], axis=1)
+
+    se_features_right = pd.DataFrame(polarity_right)
+    df_right = pd.concat([df_right, se_features_right], axis=1)
+
     df_left['text'] = articles_left
     df_right['text'] = articles_right
-
-
-
 
     df_left['file'] = files_left
     df_right['file'] = files_right
@@ -69,6 +79,7 @@ def concatenate_test(left, right, named_entities):
     articles_right = [open(f).read() for f in files_right]   
 
     
+    # Named Entity Recognition
     entities_left = []
     entities_right = []
     for left_art, right_art in zip(articles_left, articles_right):
@@ -87,11 +98,20 @@ def concatenate_test(left, right, named_entities):
     ne_features_right = pd.DataFrame(entities_right)
     df_right = pd.concat([df_right, ne_features_right], axis=1)
 
+
+    # Sentiment Analysis
+    polarity_left  = [se.polarity(art) for art in articles_left]
+    polarity_right = [se.polarity(art) for art in articles_right]
+
+    se_features_left  = pd.DataFrame(polarity_left)
+    df_left = pd.concat([df_left, se_features_left], axis=1)
+
+    se_features_right = pd.DataFrame(polarity_right)
+    df_right = pd.concat([df_right, se_features_right], axis=1)
+
+
     df_left['text'] = articles_left
     df_right['text'] = articles_right
-
-
-
 
     df_left['file'] = files_left
     df_right['file'] = files_right
