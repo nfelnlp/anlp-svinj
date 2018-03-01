@@ -9,8 +9,8 @@ from sklearn.utils import shuffle
 
 import baseline as base
 
-from features import pos_tags, sentiment
-
+#from features import pos_tags, sentiment
+from features import sentiment
 
 def build_subset(subset, sid, split):
     # Read all files of a subset
@@ -30,7 +30,7 @@ def build_corpus(train_L, train_R, test_L, test_R):
     train_L = build_subset(train_L, sid="0", split="train")
     train_R = build_subset(train_R, sid="1", split="train")
     test_L = build_subset(test_L, sid="0", split="test")
-    test_R = build_subset(test_R, sid="1", split="train")
+    test_R = build_subset(test_R, sid="1", split="test")
 
     # Combine all corpora and shuffle it
     data = pd.concat([train_L, train_R, test_L, test_R])
@@ -77,7 +77,7 @@ def train(data, clf):
 
 if __name__ == "__main__":
     # Parse the datasets
-    small_dataset = False
+    small_dataset = True
 
     if small_dataset:
         left_wing_train = base.read_csv('../data/train/left_wing_train_short.csv')
