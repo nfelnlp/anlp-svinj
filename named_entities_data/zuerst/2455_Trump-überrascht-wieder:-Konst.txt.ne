@@ -1,0 +1,1 @@
+{'Washington/Peking': 1, 'Die': 1, 'immer': 1, 'einen': 1, 'an seinen': 1, 'der versöhnliche': 1, 'Außen-': 1, 'und': 2, 'ihrerseits': 1, 'teilte': 1, 'Erklärung mit': 1, 'Brief': 1, 'Neujahrsfest': 2, 'Glückwunschschreiben': 1, '„sehr': 1, 'kommentierte': 1, 'Fudan': 1, 'Shanghai': 1, '.': 1, 'auf eine': 1, 'Botschaft': 1, 'US-Präsidenten gewartet': 1}

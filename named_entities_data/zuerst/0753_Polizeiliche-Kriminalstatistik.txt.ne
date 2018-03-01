@@ -1,0 +1,1 @@
+{'Berlin': 1, 'Bundeskriminalamt': 1, 'BKA': 1, 'erlaubter Aufenthalt “': 1, 'für': 1, 'Internetblogs': 1, 'lautete': 1, 'entsprechender': 1}

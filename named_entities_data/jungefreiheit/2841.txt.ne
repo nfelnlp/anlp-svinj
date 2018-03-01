@@ -1,0 +1,1 @@
+{'und anderen Symptomen': 1, 'des freien': 1, '.': 1, 'und': 1, 'den': 1, ',': 4, 'aber': 1, 'gelehrten': 1, 'ist': 1, 'Leiden': 1, 'war': 1, 'ausgelegt': 1, 'Nietzsche': 1, 'Kategorien': 1, 'die': 1, 'Im': 1, 'ihrer': 1, 'In-der-Welt-sein': 1, 'Physik': 1, 'einer': 1, 'gerade': 1, 'Neues': 1, 'vertreten': 1, 'die inhaltliche': 1, 'die einzelnen': 1, 'Willen': 1}

@@ -1,0 +1,1 @@
+{'. Es': 1, 'Guterres': 1, 'kolumbianische Regierung': 1, 'fünfte': 1, 'zwischen': 1, 'Dringlichkeit': 1, 'um': 1, 'hatten im Februar': 1, 'will': 1, 'auch': 1, 'Seit': 1, 'Jahrzehnten': 1, 'bereiten': 1, 'Sogenannte': 1, 'Die': 1, 'von': 1, 'geht': 1, 'weiter': 1, 'ml': 1}

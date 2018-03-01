@@ -1,0 +1,1 @@
+{'Deutschland': 3, 'Union Coop': 3, 'Kollektivbetrieben': 1, 'Marseille': 1, 'Unilever Konzern': 1, 'Hansi Oostinga': 1, 'auf': 1, 'stattfand': 1, 'coop will': 1, 'und': 1, 'angeboten': 1, 'hofft': 1, 'auch': 1, ',': 1, 'eine': 1, 'Hat': 1}

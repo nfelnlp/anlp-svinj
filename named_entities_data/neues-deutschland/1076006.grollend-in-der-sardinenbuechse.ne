@@ -1,0 +1,1 @@
+{'Da': 1, 'Jahresbeginn': 1, 'wieder in': 1, 'fährt man lieber': 1, 'dauert': 1, 'im Regionalexpress der': 1, 'Busse und Bahnen im südlichen': 1, 'gehenden': 1, 'Wartungsarbeitern': 1, 'eine': 1, 'permanent': 1, 'Sie sank von': 1, 'im': 1, 'einen': 1, 'solcher': 1, 'seien': 1, '.': 1, 'und': 1, 'Report': 1, '« fordern': 1, 'Angebote': 1}

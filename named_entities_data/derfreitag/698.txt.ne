@@ -1,0 +1,1 @@
+{'Berlin': 1, 'Christopher': 1, 'Christopher Street': 1, 'Christopher Street Day': 1, 'und': 2, '.': 1, ',': 1, 'lesen': 1, 'ein': 1, 'zum': 1, 'die weltweit': 1, '30': 1, 'verfügten': 1, 'eine': 1, 'siebziger Jahre': 1, 'sind heute': 1, 'Männern': 1, 'Hinterzimmern': 1, 'haucht dem': 1, 'Image der Neuköllner': 1, 'Gäste': 1, 'wäre': 1}

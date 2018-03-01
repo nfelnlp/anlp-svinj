@@ -1,0 +1,1 @@
+{'Cara Delevingne': 1, 'für': 1, '„DO': 1, '“': 2, 'das Model': 1, 'ihrem': 1, 'Erfahrungen': 1, 'weltweit': 1, 'Kampfkunst-Lehrerin': 1, 'Der Film': 1, 'beim': 1, ',': 2, 'geht nicht': 1, 'geht': 1, 'muslimischen': 1, 'zu etablieren': 1, '.': 1, 'LinkedIn': 1, 'So': 1, 'ist': 1, 'Herzogenaurach': 1, '@': 1, 'York': 1, 'Tel': 1}

@@ -1,0 +1,1 @@
+{'Rom/Tunis': 1, 'Vor': 1, 'die': 1, 'Das': 1, 'eine': 1, 'auch': 1, 'nur': 1, 'liegt': 1, 'werden': 1, 'tunesische': 1, '700': 1, 'am Mittwoch': 1, '. Dieser hatte': 1, 'einen': 1, '.': 1, 'Tunesier': 1, 'auf': 1, 'mü': 1}

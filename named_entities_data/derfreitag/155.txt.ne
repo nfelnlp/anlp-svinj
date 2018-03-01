@@ -1,0 +1,1 @@
+{'Gouliamaki/AFP/Getty': 1, '„Aufruf': 1, 'Leseperformance': 1, 'Die Schutzbefohlenen': 1, 'unserer': 1, 'Sebastian': 1, 'von Aischylos plant': 1, 'man': 1, 'mit': 1, 'Flüchtlinge': 1, 'Denken': 1, 'ist': 1, 'Erfahrung ihrer': 1, 'du': 1, 'Flüchtlinge .': 1, '“': 1, 'nach': 1, 'zögert ,': 1, 'und': 2, 'Volk': 1, 'verdrängen': 1}

@@ -1,0 +1,1 @@
+{'Images Die': 1, 'bei': 1, 'vergangenen': 1, 'an der': 1, 'dahinter –': 1, 'die': 1, 'nämlich': 1, 'Augen einer': 1, 'und': 1, 'wähnen': 1, 'wieder': 1, 'Störfällen': 1, 'direkt': 1, 'Hybris': 1, 'ist': 1, 'eigentlich': 1, 'Carl von': 1, 'The': 1, 'The Organization of': 1, 'The Organization of Hypocrisy :': 1, ', and': 1, ':': 1}

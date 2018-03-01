@@ -1,0 +1,1 @@
+{'.': 1, '. Kurz': 1, 'die': 2, 'Berlin': 1, 'Verweis': 1, 'Suisse sowie des': 1, 'für': 1, 'aus': 1, 'Indien': 1, ',': 1, 'es': 1, 'Prozents': 1, 'deutschen': 1, 'das': 1, 'Weltwirtschaftsforum': 1, 'Konzernen': 1}

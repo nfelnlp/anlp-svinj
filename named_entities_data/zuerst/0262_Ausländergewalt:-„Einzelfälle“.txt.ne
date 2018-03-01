@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Deutschland': 1, '20': 1, 'in': 1, 'er': 1, 'Mutter': 1, 'deutsche': 1, 'Afrika': 1, 'ersichtlichen': 1, 'Dort': 1, 'konnten': 1}

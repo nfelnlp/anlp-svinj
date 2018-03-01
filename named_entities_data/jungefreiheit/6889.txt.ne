@@ -1,0 +1,1 @@
+{'Baden-Württemberg das \x84Gesetz': 1, '\x93': 1, 'einen': 1, 'allem': 1, 'Alkohol': 1, 'die': 2, 'des': 1, 'mit': 1, 'und': 1, 'den': 1, 'dem': 1, 'jedoch': 1, 'Warum': 1, 'man': 1, 'eine': 2, '?': 1, 'der': 1, 'Der': 1, 'Umweltzone': 1, 'Umsatzrückgang befürchtet . Ein höchst': 1, ',': 1, 'Diskussion steht .': 1, 'begrüßen ist': 1, 'Klaus': 1, 'zu': 1}

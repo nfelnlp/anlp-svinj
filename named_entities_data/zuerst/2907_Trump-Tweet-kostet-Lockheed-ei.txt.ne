@@ -1,0 +1,1 @@
+{'Washington': 1, 'hat sich': 1, 'angelegt': 1, 'Twitter': 1, ',': 1, 'mit': 1, 'Gericht': 1, 'jetzt': 1, 'und seine': 1, 'aus': 1, 'feindlichen': 1, 'Das': 1, 'ist': 1, 'den': 1, 'verlor': 1, '(': 1}

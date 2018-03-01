@@ -1,0 +1,1 @@
+{'und heimlich': 1, 'ihrer': 1, 'Tagen lediglich eine': 1, 'Wirtschaft': 1, 'hatten': 1, 'in': 1, ',': 1, 'Zusammenschluss': 1, 'BIP': 1, '200': 1, 'die': 1, 'sind': 1, 'Zyklus': 1, 'eine scharfe Rezession der Weltwirtschaft': 1, 'Trumps': 1, '. Eine': 1, 'USA nach': 1, 'Japan': 1, 'Blick': 1, '.': 1, 'das': 1, 'für': 1, 'Leitzinsen': 1}

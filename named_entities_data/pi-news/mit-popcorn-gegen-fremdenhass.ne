@@ -1,0 +1,1 @@
+{'Hanna': 1, 'des': 1, 'Territorium': 1, '„deutsche': 1, 'für eine': 1, 'sich': 1, 'Die': 1, 'her . „Dieses': 1, 'hat': 1, 'aufschrieb': 1, 'den': 1, 'gab': 1, 'gut': 1, 'das': 1, 'Lebenshaltungskosten': 1, 'in': 1, 'Euro': 1, 'fließen': 1, 'was': 1, 'sagt er': 1, 'geschwommen': 1, ',': 3, 'es': 1, 'schön': 1, '.': 1, 'er': 1, 'lange': 1, 'mit': 1}

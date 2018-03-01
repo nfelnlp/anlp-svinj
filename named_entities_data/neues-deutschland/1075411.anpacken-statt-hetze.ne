@@ -1,0 +1,1 @@
+{'.': 1, '. SPD-Landeschefin': 1, 'Kohnen': 2, 'und ihre': 1, 'Markus': 1, 'in Stil': 1, 'in': 1, 'und betonte : »': 1, 'Ansage': 1, ',': 2, 'die': 3, '»': 3, 'Willen': 1, 'Bayern': 1, 'haben': 1, 'der': 1, 'mit': 1, 'von': 1, ':': 1, 'wird': 1, 'Wahljahr': 1}

@@ -1,0 +1,1 @@
+{'. Arbeit': 1, '.': 1, 'vergangenen': 1}

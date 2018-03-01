@@ -1,0 +1,1 @@
+{'beim versuchten': 1, 'Foto :': 1, 'Getty Images': 1, 'unwahrscheinlich': 1, 'Eines': 1, ',': 2, 'Rightous Mind': 1, 'stärker': 1, 'in': 1, '.': 1, 'der weißen': 1, 'den vergangenen 30': 1, 'den': 1, 'geprägt': 1, 'In': 1, 'und': 2, 'der': 1, 'des Instituts darin , dass': 1, 'Der': 1, 'Recht hätten': 1, 'bestünde': 1, 'richtige': 1}

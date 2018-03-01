@@ -1,0 +1,1 @@
+{'Widerständler von damals': 1, 'beginnt seinen': 1, ',': 4, 'und Rosa Parks': 1, 'Die US-amerikanische': 1, 'Vorträgen': 1, 'Über die Pflicht': 1, 'Parks macht jedoch': 1, ', dass': 1, 'betonte ,': 1, 'Methoden »': 1, 'Methoden » rocken': 1, 'aber auch': 1, 'sind': 1, '»': 1, 'Als': 1, '«': 1, 'bis': 1, 'Artikel': 1, 'teilen': 1}

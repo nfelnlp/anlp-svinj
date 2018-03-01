@@ -1,0 +1,1 @@
+{'Innsbruck': 1, 'auch': 1, '( ÖVP': 1, 'für': 1, 'Italien': 1, 'durchzuwinken': 1, 'um': 1, 'aus': 1, '.': 2, ',': 1, 'führe man': 1, 'mit': 1, 'Polizei': 1, 'Außenminister': 1, 'Er': 1, 'zwar ,': 1, 'man': 1, ':': 1, 'wird': 1, ')': 1}

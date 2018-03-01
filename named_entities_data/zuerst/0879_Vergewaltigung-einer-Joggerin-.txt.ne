@@ -1,0 +1,1 @@
+{'Gesellschaft 6': 1, 'Gesellschaft 6 Leipzig': 1, 'Burkhard Jung': 1, 'SPD': 1, 'Polizei': 1, 'Überholen': 1, 'der': 1, '“ -Zeitung': 1, '[': 1, 'Partei': 1, ': „Daß': 1, 'inneren': 1, 'gar': 1}

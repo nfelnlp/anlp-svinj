@@ -1,0 +1,1 @@
+{'mexikanische': 1, 'Emmanuel Guillén Lozano': 1, 'Ayotzinapa klafft': 1, 'Iguala': 1, 'Mexiko-Stadt .': 1, 'reisen': 1, 'so': 1, 'neue': 1, 'sofort': 1, 'kaufte': 1, 'Als': 1, ',': 1}

@@ -1,0 +1,1 @@
+{'erzählt': 1, 'der': 1, '»': 1, 'einer': 1, ':': 1, 'erstmals': 1, ', dem': 1, 'Zeiten': 1, 'vom': 1, '.': 1, 'und': 2, 'den': 1, 'Tatort': 1, 'des': 1, 'Von': 1, ',': 2, 'künstlerischen': 1, 'Wie': 1, 'Mai dieses': 1, 'Juni': 1, 'sind': 1, 'junge': 1, 'uns': 1, 'Gesellschaft': 1, 'wir': 1, 'Wir hoffen': 1, 'etwas': 1, 'als': 1}

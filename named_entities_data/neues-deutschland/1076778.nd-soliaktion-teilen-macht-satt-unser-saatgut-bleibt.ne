@@ -1,0 +1,1 @@
+{'Junho': 1, 'Gondola': 1, 'Mosambik': 1, 'Bartolomeu Antonio': 1, 'Programmleiter': 1, 'gespendet haben': 1, 'wo': 1, 'José': 1, ', Vorsitzender': 1, 'möchte': 1, 'Mit': 1, 'eine Bäuerin': 1, 'dankbar': 1, 'sind': 1, 'diese': 1}

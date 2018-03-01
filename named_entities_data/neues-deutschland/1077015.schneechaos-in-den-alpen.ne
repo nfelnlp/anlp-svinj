@@ -1,0 +1,1 @@
+{'. Während': 1, 'der': 1, 'Schneemassen': 1, 'Gefahr': 1, 'Zermatt': 1, 'am': 1, 'die': 2, 'bereits': 1, '.': 1, 'Österreich': 1, 'Anton und': 1, 'Paznauntal': 1, 'Touristen': 1, 'Sonntag': 1, 'Geigelsteingebiet': 1, 'angespannt': 1, 'von': 1, 'Schweizer': 1, 'eine': 2, 'im Skiort': 1, 'wurde': 1, 'Verkehr mit': 1, 'dolina': 1, 'einem Lawinenunglück': 1}

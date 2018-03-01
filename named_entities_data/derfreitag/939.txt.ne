@@ -1,0 +1,1 @@
+{'?': 1, 'im Juni': 1, 'Gemach': 1, 'wurde': 1, 'erdacht': 1, 'Dort': 1, 'Verlag': 1, 'China “': 1, 'lassen': 1, 'werden nur': 1, 'Chinesisch': 1, 'während': 1, 'hat': 1, 'Trainings': 1, 'ersten': 1, 'Juli 2014': 1, 'Jahren': 1, 'ein': 1, 'Zumindest': 1, '“': 1, 'Wirklichkeit': 1, 'Wert': 1, ',': 1, 'auf': 1, 'ist': 1}

@@ -1,0 +1,1 @@
+{'Syrien': 1, 'Deutschland': 1, 'ab': 1, 'in': 1, 'und': 2, 'der': 1, 'alle': 1, 'haben': 1, 'Anm': 1, 'zu': 1, 'die ermittelnden': 1, 'Deshalb': 1}

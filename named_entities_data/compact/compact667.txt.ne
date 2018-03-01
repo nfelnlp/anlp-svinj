@@ -1,0 +1,1 @@
+{'Weizen also': 1, 'Profi- und': 1, 'ist': 1, 'es': 1, 'dem': 1, ',': 1, 'Schwarze': 1, 'diese': 1, 'trotzdem': 1, 'Unverträglichkeiten': 1, 'so': 1, 'mit': 1, 'beschreiben': 1, 'Verarbeitungsverfahren': 1}

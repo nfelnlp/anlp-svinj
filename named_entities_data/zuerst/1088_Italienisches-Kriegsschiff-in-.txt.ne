@@ -1,0 +1,1 @@
+{'Rom/Tripolis': 1, 'In': 1, 'Flucht': 1, 'Hoheitsgewässern': 1, 'grünes': 1, 'ein': 1, '.': 1, 'der': 2, 'die': 1, 'den Weg': 1, 'Operation': 1, 'möglichen': 1, ',': 1, 'sollen': 1, ')': 1}

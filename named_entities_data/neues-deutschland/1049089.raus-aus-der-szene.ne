@@ -1,0 +1,1 @@
+{'Würgegriff': 1, 'Fotoausstellung': 1, 'Organisiert': 1, 'und': 1, 'beispielsweise': 1, 'über': 1, 'berichten': 1, 'in denen trotz': 1}

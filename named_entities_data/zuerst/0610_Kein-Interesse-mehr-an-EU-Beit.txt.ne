@@ -1,0 +1,1 @@
+{'Ankara': 1, 'Türkei': 1, 'EU-Beitrittskurs': 1, '.': 2, 'Ehen': 1, 'Erdem mit': 1, 'gesetzmäßig.': 1}

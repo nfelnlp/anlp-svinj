@@ -1,0 +1,1 @@
+{') soll': 1, 'mehr': 1, 'Mittwoch': 1, 'kodex-check.de': 1, '.': 1, ',': 1, 'GEW-Vorsitzender': 1, 'bei der': 1, 'Vorstellung': 1, 'hat .': 1}

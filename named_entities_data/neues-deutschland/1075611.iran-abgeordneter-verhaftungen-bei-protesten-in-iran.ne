@@ -1,0 +1,1 @@
+{'.': 1, '. Bei': 1, 'nach': 1, 'Innenministerium': 1, 'am Dienstag': 1, 'die Unruhen als': 1, 'Volk': 1, 'Islam': 1, 'ist': 1, '«': 1, 'das': 1, 'die': 2, 'verantwortlich . »': 1, ',': 1, 'stinkreichen': 1, 'sagte': 1, 'der': 1}

@@ -1,0 +1,1 @@
+{'Washington': 1, 'amerikanischen': 1, 'Donald Trump': 1, 'Rußland jetzt überraschend': 1, 'Der': 1, 'Sean': 1, 'Die Regierung': 1, 'noch keine': 1, 'israelische': 1, 'äußerte': 1, ': „Ich': 1, 'ist sicher': 1, 'Regierungschef': 1, 'Thema werde': 1, 'sagte Danon': 1, 'immer': 1, 'sein.': 1, 'für': 1, 'der': 1, 'Mal': 1}

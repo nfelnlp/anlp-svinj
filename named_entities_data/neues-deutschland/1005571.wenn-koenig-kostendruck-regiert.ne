@@ -1,0 +1,1 @@
+{', Sicherheits-': 1, 'das': 1, 'ein': 2, 'Leitung des': 1, 'auf Teufel': 1, 'der': 1, 'Der Dienstleister': 1, 'den': 1, 'Art Putzwedel': 1, 'unterhält': 1, 'anderen Städten': 1, 'man': 1, 'von': 1, 'paar': 1, 'und': 1, 'Gewerkschaft': 1, 'Stunden eine': 1, '.': 2, ',': 1, 'outgesourct worden': 1}

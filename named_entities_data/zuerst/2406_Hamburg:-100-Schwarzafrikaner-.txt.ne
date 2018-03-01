@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Hamburg': 2, 'St. Georg': 1, 'St. Georg am': 1, 'riefen': 1, 'gegenüber der Polizei': 1, 'aggressiv': 1, '33jährige': 1, 'aktuell': 1, 'Polizeipräsident': 1, 'den Linken-Bürgerschaftsabgeordneten Martin': 1, 'Polizisten von': 1}

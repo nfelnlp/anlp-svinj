@@ -1,0 +1,1 @@
+{'Lange': 1, 'Goldmann )': 1, 'Um': 1, 'dagegen': 1, 'von': 1, 'Alice Weidels': 1, 'Korrektheit': 2, 'Leser': 1, 'geehrter Herr': 1, '„politische Korrektheit': 1, 'folgendermaßen': 1, 'die Nazi-Schlampe': 1, 'politische Korrektheit die': 1, 'sei': 1, 'die': 1, 'Wir': 1, 'Fernsehen .': 1, 'Frage': 1, 'wann': 1, 'jener': 1, 'Vorgänger': 1, 'den': 1, ',': 1}

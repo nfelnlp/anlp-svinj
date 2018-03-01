@@ -1,0 +1,1 @@
+{'aufmerksam': 1, '.': 2, 'Verstoß': 1, 'nicht': 1, 'die': 1, 'Punkt': 1, 'Dialog': 1, 'der': 1, 'Staat': 1, 'schönt': 1, 'des': 1, 'Sie': 1, ',': 1, 'deswegen': 1, 'Begründung': 1, 'zahlen': 1, '14': 1, 'kann': 1}

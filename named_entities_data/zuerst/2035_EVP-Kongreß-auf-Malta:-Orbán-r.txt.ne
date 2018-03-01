@@ -1,0 +1,1 @@
+{'Valletta': 1, 'ungarische': 1, 'Orbán': 1, 'Europäischen Volkspartei EVP': 1, 'Christdemokraten': 1, ',': 2, '.': 1, 'ein': 1, 'das': 1, 'in': 1, 'Ohrfeigen': 1, 'EU': 1, 'allerdings': 1, 'sei': 1, 'Gesellschaft': 1, 'Staats-': 1, 'correctness': 1, 'läßt für': 1, 'verändern.': 1, 'allerdings der': 1, 'auf': 1, 'Regierungschef kein': 1}

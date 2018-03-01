@@ -1,0 +1,1 @@
+{'Rheine': 2, 'Kreis Steinfurt': 1, 'mehrere': 1, 'Möglicherweise': 1, 'die': 2, 'der': 1, 'Männer': 1, 'Alter': 1, '20': 1, 'Zeugen': 1, '.': 2, 'Uhr': 1, 'dem': 1, ',': 1, 'Iraner': 1, 'Mehrere': 1, 'es': 1, 'wurde': 1, 'vom': 1, 'gewesen': 1, 'gewesen .': 1, 'Sohn': 1, 'in': 1, 'mit': 1, 'sein . Mit': 1, 'verübt': 1, 'noch nicht': 1, '( Anmerkung': 1}

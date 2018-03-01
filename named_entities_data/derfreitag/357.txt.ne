@@ -1,0 +1,1 @@
+{'AFP/ Getty': 1, 'Auslöser': 1, 'sog': 1, '``': 1, 'Rösler würde ich allerdings': 1, 'ob unsere': 1, 'verteidigte die': 1, 'Frage :': 1, 'Matussek': 1, 'Aussage': 1, 'mit': 1, 'fühlen': 1, 'Aussage nicht': 1}

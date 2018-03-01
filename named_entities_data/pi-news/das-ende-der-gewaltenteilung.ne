@@ -1,0 +1,1 @@
+{',': 3, 'und': 1, 'unternahm': 1, 'in': 1, 'gegen': 1, 'verweigerte': 1, 'ohne': 1, 'gewünscht': 1, 'aus': 1, 'getan': 1, 'mit': 1, '.': 4, '(': 1, ')': 1, 'Oberleutnanten': 1, 'Straftat': 1, 'er': 1, 'des': 1, 'mehr': 1}

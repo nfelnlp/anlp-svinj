@@ -1,0 +1,1 @@
+{'Pristina': 1, 'Kosovo': 3, 'NATO': 1, 'gebombt': 1, 'serbische': 1, 'Ramush Haradinaj': 1, '.': 1, 'vom einstigen': 1, 'auf': 1, 'kommt .': 1, 'die': 1, 'Regierungsbildung': 1, ':': 1, 'wollen keinesfalls': 1, 'dem': 1, 'und': 1, 'Auslieferung': 2, 'sorgte': 1, 'Normalisierungsgespräche': 1, 'vereinbarten': 1, 'der': 1, 'er': 1}

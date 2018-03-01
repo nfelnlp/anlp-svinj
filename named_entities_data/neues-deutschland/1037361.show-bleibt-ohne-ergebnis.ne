@@ -1,0 +1,1 @@
+{'nach einem': 1, 'die Umstände': 1, 'die': 2, ', Sprecher': 1, 'auf': 1, 'an': 2, 'war in': 1, 'des': 1, '« hielt': 1, 'wird': 1, 'im': 1, 'unabhängig': 1, 'beteuert': 1}

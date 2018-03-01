@@ -1,0 +1,1 @@
+{'Budapest/Washington': 1, 'In': 1, 'ist jetzt': 1, '.': 1, 'Tatsache ist': 1, 'Foreign': 1, 'schon': 1, 'den Umgang mit vom': 1, 'Zudem': 1, 'Personen': 1, 'sind': 1, 'eine Beeinflussung der': 1, 'aus': 1, 'Ausland': 1}

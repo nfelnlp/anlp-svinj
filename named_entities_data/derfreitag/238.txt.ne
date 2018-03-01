@@ -1,0 +1,1 @@
+{'Marius': 1, 'Lekfeldt/': 1, 'Getty': 1, 'Warum': 1, '?': 1, 'und': 2, 'ist': 2, ',': 1, '.': 1, 'die Giraffe': 1, 'weil': 1, 'Euro': 1, 'nun': 1, 'sollte': 1, 'Netz': 1, 'Tod': 1, 'manchmal': 1, 'die Bild-Zeitung': 1, 'Volk': 1, 'Grundlage': 1, 'zu': 1, 'Blutend': 1, 'Ob': 1, 'Das': 1, ', eben': 1, ', sie': 1, 'in denen': 1}

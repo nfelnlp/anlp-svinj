@@ -1,0 +1,1 @@
+{'Grünen-Mitglied': 1, '( Foto': 1, 'ver.di': 1, ',': 1, '‘': 1, 'gewalttätigen': 1, '„Handlungshilfe': 1, 'um': 1, 'Mitglieder darauf zu trainieren': 1, '„Zeckenmentalität': 1, 'Beginn': 1, '„Friendly': 1, 'sammeln': 1, 'bzw': 1, 'Gruppen': 1, 'einem': 1, 'eigene': 1, 'AfDlern': 1, 'Öffentlichkeit': 1, 'ächten': 1, '–': 1}

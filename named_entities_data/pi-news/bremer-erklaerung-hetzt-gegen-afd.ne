@@ -1,0 +1,1 @@
+{'weltweit': 1, 'Während': 1, 'es': 1, ', Professorin ,': 1, 'Prof. Dr.': 1, ', Prof.': 1, 'Oberliesen ,': 1, 'Jörg Sandkühler': 1, 'Dr. Anne': 1, 'Dr. Erhard': 1, 'Zerbes ,': 1, 'Meinung zu verteidigen': 1, 'Sie': 1, 'Auseinandersetzung einzutreten': 1, 'selbst ,': 1, 'Sie öffentlich': 1}

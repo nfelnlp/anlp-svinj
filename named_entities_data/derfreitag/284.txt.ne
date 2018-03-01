@@ -1,0 +1,1 @@
+{'Lenz für': 1, 'altbekannte und neue': 1, 'sieht': 1, 'man als': 1, '.': 3, 'die Angst': 1, 'als': 1, 'solche Modelle': 1, ',': 2, 'bei': 1, 'auf': 1, 'der Berliner': 1, 'sie eine Vertretungsprofessur an': 1, '2015': 1, 'und Kreativwirtschaft': 1, 'München': 1, 'nicht': 1, 'Bürojob “': 1, 'ich': 1, 'der': 1}

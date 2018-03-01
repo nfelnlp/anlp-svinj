@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Osnabrück': 1, 'Staatsanwaltschaft': 1, 'Staatsanwaltschaft Osnabrück': 1, 'Ihm': 1, 'durch': 1, '. Von': 1, 'vorfand': 1, 'vorfand .': 1, 'Opfer': 1, 'der': 1, '„es wurde': 1, 'sie': 1, 'darauf': 1, 'seit': 1, 'konnte keinerlei': 1}

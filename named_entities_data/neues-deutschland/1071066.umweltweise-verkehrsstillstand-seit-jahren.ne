@@ -1,0 +1,1 @@
+{'Das': 1, 'von der': 1, 'Berlin': 1, 'von': 1, 'Gewerbe': 1, 'Verkehrssektor .': 1, 'belaufen': 1, 'auf immerhin': 1, 'Besteuerung': 1}

@@ -1,0 +1,1 @@
+{'.': 1, '. Im': 1, '( CDU': 1, 'auch': 1, 'Frank': 1, '( parteilos': 1, 'vereinbart': 1, 'Im': 1, 'aufgefordert': 1, 'Jahre': 1, 'Sachsen Ex-Finanzminister Georg': 1, 'unveränderter': 1, 'Euro für': 1, 'Generationenfonds': 1, 'ernsthaften Dialog': 1, 'den': 1, 'dem Tollhaus': 1, '. » Was': 1, 'Februar': 1, 'vor': 1}

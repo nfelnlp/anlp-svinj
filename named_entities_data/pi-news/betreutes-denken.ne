@@ -1,0 +1,1 @@
+{'Reflektierens': 1, 'verankertes': 1, 'sie': 2, 'die': 1, ',': 3, 'aufgeklärt': 1, 'ein ruhiges Leben': 1, 'reichlich': 1, 'und': 2, '–': 1, 'eigenen': 1, 'viel': 1, 'mündigen': 1}

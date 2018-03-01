@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Hamburg': 1, 'übernachten': 1, ',': 1, 'ein': 1, '„Solidarität': 1, 'mit': 1, 'von': 1, 'Polizei': 1, 'Berlin': 1, 'Randalierer': 1, 'Pyrotechnik': 1, 'weitere': 1, 'und': 1, 'neben': 1}

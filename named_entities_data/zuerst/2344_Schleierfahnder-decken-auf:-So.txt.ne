@@ -1,0 +1,1 @@
+{'Lindau': 1, 'Deutschland': 2, 'Italien': 2, 'als auch': 1, 'abzukassieren': 1, 'wo': 1, 'Leistungen': 1, 'verzichten': 1, 'konnten': 1, 'Norwegen': 1, 'Asylgesuche': 1, 'zur': 1, 'Neben': 1}

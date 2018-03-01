@@ -1,0 +1,1 @@
+{'Gesellschaft 11 Berlin/Ankara': 1, 'Politiker': 1, 'EU-Kommission fordert': 1, 'rechtsstaatlicher': 1, 'auf': 1, 'Yücel': 1, 'Paß': 1, 'am': 1, 'Untersuchungshaft': 1, 'sich': 1, '.': 1, 'bezeichnete ihn': 1, 'als': 1, '“': 2}

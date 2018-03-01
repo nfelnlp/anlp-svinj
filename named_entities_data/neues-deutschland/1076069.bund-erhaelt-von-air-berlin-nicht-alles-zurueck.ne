@@ -1,0 +1,1 @@
+{'. Der': 1, 'nicht wiedersehen': 1, 'Wie': 1, 'an': 3, 'Easyjet verkauft .': 1, 'in Österreich': 1, 'zweites': 1, '.': 1, 'auf': 1, 'teilte': 1, 'widerspricht': 1, 'die zur': 1, 'stehenden': 1}

@@ -1,0 +1,1 @@
+{'SELBERDENKER': 1, 'Merkel': 1, 'Bundesrepublik': 1, 'Bundesrepublik Deutschland': 1, ',': 4, 'in': 1, '“': 3, 'länger hier': 1, 'richtig': 1, 'Protest auf': 1, 'Wahlveranstaltungen': 1, 'Teil': 1, 'mögen': 1, 'wichtig ,': 1, 'was': 1, 'das': 2, 'Leute': 1, '„friedlichen': 1, 'Machtgeilheit': 1, 'gegen': 2, 'oder': 1, 'wurden': 1, 'Das': 1, 'umgehen': 1}

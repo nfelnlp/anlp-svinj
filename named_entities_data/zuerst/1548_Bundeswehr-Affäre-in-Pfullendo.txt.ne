@@ -1,0 +1,1 @@
+{'Pfullendorf': 1, '„Ich': 1, 'Schmidt gegenüber': 1, ',': 1, 'mit': 1, 'von': 1, 'hart ins': 1, ':': 1, 'Ministerin': 1, 'der': 1, 'der Kaserne': 1}

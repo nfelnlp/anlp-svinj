@@ -1,0 +1,1 @@
+{'ein': 1, 'neue': 1, 'geschickte': 1, 'Das Kunstwort': 1, '.': 3, 'Deutschen': 1, 'durchsetzte': 1, 'englischen': 1, 'Länder': 1, 'Wort': 1, 'keine': 1, 'anarchischen': 1, 'einer': 1, ',': 2, 'Begrifflichkeiten zu': 1, 'und': 1, 'mitschwingt': 1, 'der': 1, 'dieser': 1, 'freundliche': 1, 'wie': 1, 'des': 1}

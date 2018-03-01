@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Schwerin': 1, 'Haftbefehl': 1, 'Mädchen': 1, 'Kurze Zeit': 1, 'festnehmen': 1, 'ist': 1, 'Besuch': 1, '.': 1, 'zeige dieser Fall': 1, 'daß': 1, 'in seinem': 1, 'über': 1}

@@ -1,0 +1,1 @@
+{'Nun': 1, 'deren': 1, 'Bemerkenswert': 1, 'es': 2, 'Übergriff': 1, 'eine': 1, 'für': 1, '»': 1, ',': 1, 'ist': 1, '. Deutschlands': 1, 'Betrieb': 1, 'Das': 1, '›Mieten rauf ,': 1, 'werde': 1, 'Offene': 1, 'am': 1, '.': 1, 'Jahren wieder': 1, 'Prozent': 1}

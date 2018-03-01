@@ -1,0 +1,1 @@
+{': Das': 1, ': „ Backnstage , Gib deinem': 1, 'diesen': 1, 'ihnen der': 1, '.': 2, 'wenig': 1, 'wenig wie': 1, '“ –': 1, 'juristischen Abteilung . Komm': 1, 'Bankenwunderland': 1, 'fahren': 1, 'von Fürth': 1, 'in': 1, ',': 1, 'jede': 1, 'Interesse': 1, 'Gefallen': 1, 'tun': 1, 'tun und': 1, 'tun und das': 1}

@@ -1,0 +1,1 @@
+{'Tel Aviv': 2, 'Netanjahu': 1, 'Ma': 1, 'gegen Regierungschef': 1, 'im': 1, 'Avivit Cohen': 1}

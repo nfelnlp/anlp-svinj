@@ -1,0 +1,1 @@
+{'. Die': 1, 'im': 1, 'der in': 1, '»': 1, 'Zeitung': 1, 'Vorschlag': 1, 'des': 1, 'Schmeltzer': 1, 'mahnte ,': 1, 'dürfte': 1, 'HDE': 1}

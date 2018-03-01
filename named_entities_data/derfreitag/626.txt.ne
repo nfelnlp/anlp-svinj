@@ -1,0 +1,1 @@
+{'Neulich auf': 1, 'Ich': 1, 'als': 1, 'mich': 1, '!': 1, 'die': 1, 'der': 1, 'wohl zur': 1, 'Überhaupt': 1, 'das': 1, 'Sohn': 1, 'Suri': 1, 'nicht': 1, '?': 1, 'Frage': 1, 'im': 1, 'auch': 1, 'in': 1, 'heißen': 1, 'hat': 1, 'anhand': 1, 'nicht nur': 1, 'Behandlung': 1, 'dem': 1, 'sind': 1, 'meiner': 1, 'Dante': 1, 'Odysseus': 1, '.': 1, ':': 1}

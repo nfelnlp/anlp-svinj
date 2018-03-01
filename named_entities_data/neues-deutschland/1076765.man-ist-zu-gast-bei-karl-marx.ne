@@ -1,0 +1,1 @@
+{'werden künftig': 1, 'Rheinland-Pfalz': 1, ', in dem': 1, 'eine': 1, 'Denker': 1, 'Werk und Wirkung von': 1, 'werden': 1, 'ohne': 1, '« ,': 1, 'die': 2, 'Familie': 1, 'Exponat': 1, '« Um': 1, 'wenn man in': 1, '.': 2, 'wird': 1, 'Vermutlich': 1, 'Wallfahrtsort sein ,': 1, 'Besucher': 1, 'aus dem Ausland': 1, 'Jahre': 1, 'Jahre seines Lebens in dem': 1}

@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Hamburg': 1, '“': 1, '( „Allah': 1, 'Die': 1, 'einen': 1, 'der islamistische Attentäter': 1, 'hatte': 1, 'die Salafisten-Szene': 1, 'Ausländer ,': 1, 'ausreisepflichtig': 1, ',': 2, 'Täter': 1, '‚bösartigen': 1, 'aus': 1}

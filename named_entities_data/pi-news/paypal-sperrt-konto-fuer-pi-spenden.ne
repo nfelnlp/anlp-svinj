@@ -1,0 +1,1 @@
+{'wird': 1, ',': 2, 'bekämpft': 1, 'derzeit': 1, 'PayPal': 1, 'die': 1, 'nur eine': 1, 'betreibt': 1, 'auch': 1, 'auch immer': 1, 'erhielt ein': 1, 'gegen die': 1, 'dabei': 1, ', die von George': 1, 'zu klassifizieren': 1, 'neues': 1, 'für': 1}

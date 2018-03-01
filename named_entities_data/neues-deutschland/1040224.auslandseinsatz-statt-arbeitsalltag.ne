@@ -1,0 +1,1 @@
+{'Sie hatten': 1, 'sich': 1, '.': 1, 'SES': 1, 'in': 1, 'entsendet': 1, 'Mitinhaberin einer': 1, ':': 1, 'Berufstätige': 1, 'in Schwellen-': 1}

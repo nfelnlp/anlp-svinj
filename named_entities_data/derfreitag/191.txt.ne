@@ -1,0 +1,1 @@
+{'Franziskus': 1, 'Filippo Monteforte/AFP/Getty': 1, 'Das': 1, 'hat': 1, 'dazu': 1, 'ehe': 1, 'berufen': 1, '. Von': 1, 'sich': 1, 'Pflichten der': 1, 'über Politik': 1}

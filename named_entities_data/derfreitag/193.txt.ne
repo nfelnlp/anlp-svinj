@@ -1,0 +1,1 @@
+{'Guardian': 1, 'einer': 1, 'eine': 1, 'hat': 1, 'einfach nur deshalb': 1, 'gegen': 1, ',': 1, ', es': 1, 'aber': 1}

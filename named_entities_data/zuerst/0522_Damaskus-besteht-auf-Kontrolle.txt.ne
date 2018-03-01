@@ -1,0 +1,1 @@
+{'verletzt.': 1, 'Kontrolle': 1, 'Kontrolle über': 1, '„Wir': 1, 'und': 1, 'Damaskus': 1, 'Stadt': 1, 'die': 1, 'zu': 1, 'sei': 1}

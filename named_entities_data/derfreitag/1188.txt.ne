@@ -1,0 +1,1 @@
+{'Asia': 1, 'Italien': 1, 'Rentz/Getty': 1, 'Asia Argento muss': 1, '.': 2, 'sexuell missbraucht': 1, 'auf Rai': 1, ', der': 1, ') von': 1, '?': 1, 'weil': 1, '– im': 1, 'von': 1, 'seit': 1, 'Victim': 1, 'Sie': 1, 'La': 1, 'an': 1, 'drittmächtigste': 1, 'Erfahrungen': 1, ',': 2, 'erklärt': 1, 'gleich': 1, 'das': 2, 'sagen': 1, 'Diese': 1}

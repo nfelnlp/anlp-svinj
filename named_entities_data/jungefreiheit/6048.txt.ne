@@ -1,0 +1,1 @@
+{'Regina': 1, 'Frank Schirrmacher': 2, 'FAZ': 1, 'türkischen': 1, 'Schirrmacher': 1, 'Regina Mönch': 1, 'hinaus': 1, 'Vermeidungsaufwand': 1, 'Binnenvertreibung': 1, ',': 1, 'Folge der ``': 1, '01': 1}

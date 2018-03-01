@@ -1,0 +1,1 @@
+{'Aki Kaurismäki': 1, 'sympathischer Eigenbrötelei': 1, 'Khaled': 2, 'Helsinki': 1, 'Aleppo': 1, 'den': 1, 'Kurz': 1, 'ein': 1, '»': 1, 'immer': 1, 'Die': 1, ',': 1, 'dem': 1, 'Dass': 1, 'Gäste': 1, 'kann': 1, 'geht': 1, 'französische Hafenstadt': 1, 'er': 1, 'zu': 1, '.': 2, ', setzt': 1, 'Ode': 1, 'die': 1, 'wurde': 1, '\xadKuosmanen .': 1, '. März': 1}

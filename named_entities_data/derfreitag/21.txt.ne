@@ -1,0 +1,1 @@
+{'Telepolis': 1, 'der': 2, 'nach': 1, 'geraten': 1, 'von': 1, 'bis freitags': 1, 'weiteren': 1, 'verloren .': 1, 'Berichterstattung': 1, 'Aufmerksamkeit': 1, 'und die': 1, 'Themen': 1, 'da': 1, 'Online Award': 1, 'Verdient gemacht': 1}

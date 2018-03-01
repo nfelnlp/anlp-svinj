@@ -1,0 +1,1 @@
+{'Griechenland': 2, 'EU-Land': 1, 'Als': 1, 'Ende': 1, 'sechziger': 1, 'wie man Krisen überwindet': 1, 'ein Land': 1, 'die': 1, 'Leistungskraft': 1, 'der': 2, 'des': 1, '2008': 1, 'während': 1, ',': 1, 'ist': 1, '?': 1, 'Veränderungen': 1, 'Das': 1, 'ab': 1, 'Was': 1, 'Reformen': 1, 'will .': 1, 'gefeierten': 1, 'Wirtschaftspolitik': 1, '.': 2, 'sechs': 1, 'wird': 1}

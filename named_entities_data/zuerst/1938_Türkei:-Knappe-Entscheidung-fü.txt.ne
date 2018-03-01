@@ -1,0 +1,1 @@
+{'Ankara': 2, 'türkische': 1, 'Erdogan': 1, '„Das': 1, ',': 1, 'am': 1, '.': 1, 'die': 2, 'bei': 2, '69': 1, '( 68': 1, 'ist': 2, 'einem': 1, 'Osteuropa': 1, 'Nein': 1, '-Lager': 1, '73 Prozent': 1, 'Türken': 1, 'es': 1, 'F.A.Z': 1, 'nahm': 1, 'der in': 1, 'Schariastaat': 1}

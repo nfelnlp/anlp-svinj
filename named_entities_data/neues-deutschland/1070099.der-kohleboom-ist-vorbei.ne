@@ -1,0 +1,1 @@
+{'28 Prozent': 1, 'Energieagentur': 1, 'könnte': 1, 'und': 1, 'werden': 1, ',': 1, 'Energy': 1, ', den': 1, 'Birol': 1, 'Erneuerbare-Energien-Gesetzes': 1, '» Ich': 1, 'IEA': 1, 'Erdgas': 1}

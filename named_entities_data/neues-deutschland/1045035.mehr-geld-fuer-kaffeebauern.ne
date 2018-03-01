@@ -1,0 +1,1 @@
+{'wo': 1, 'Kaffee': 1, ',': 1, ', laut': 1, 'zumindest': 1, 'sind': 1, 'in': 2, 'eine': 1, 'das': 1, 'Lage': 1, 'ständig': 1, 'zum': 1, 'auch': 1, 'Das Land': 1, 'wird': 1, 'harten': 1, 'dagegen': 1, 'und Tadesse': 1, 'sie': 1, 'dabei auch': 1, 'genaue': 1, 'vor': 1, 'Caféhausketten': 1, 'aus etwas': 1, 'pro': 1, '«': 1, '» Es': 1}

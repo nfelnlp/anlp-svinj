@@ -1,0 +1,1 @@
+{'Herthas': 1, 'Private-Equity-Firma': 1, 'Hertha': 1, 'finanzschwachen Arme': 1, 'Investor ,': 1, 'nicht': 1, ', doch': 1, 'in': 1, '? Herthas': 1, 'treffen': 1, 'Rationalitäten': 1, 'sind': 1, '? Für': 1, 'zu': 1, 'hohen': 1, 'hätten': 1, 'bezeichnend': 1, ',': 1, 'dass': 1, 'groß': 1, 'der New': 1, 'überlebte ,': 1, '. Auch': 1, 'Ob': 1, 'bloggt': 1}

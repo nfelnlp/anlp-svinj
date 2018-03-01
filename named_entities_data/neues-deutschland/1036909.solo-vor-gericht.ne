@@ -1,0 +1,1 @@
+{'könnte mit': 1, 'und': 2, '.': 2, 'vor': 1, 'auch': 1, 'in': 1, 'Wer': 1, ',': 1, 'die': 1, 'Rosołowska': 1, 'der': 2, 'für die': 1, 'Bewegungen': 1, 'Polen': 1, 'Polen zuständig': 1, 'solidarischen': 1, 'Am': 1, 'wird das': 1, 'polnischer': 1}

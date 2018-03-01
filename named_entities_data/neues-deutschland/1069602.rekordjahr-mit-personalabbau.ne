@@ -1,0 +1,1 @@
+{'steht': 1, 'steht so': 1, ', Joe': 1, ', auf': 1, 'mehrfach': 1, 'entwickeln': 1, 'Vor allem in': 1, 'besonders': 1, 'München': 1, ',': 1, '-': 1, 'Letzterer': 1, 'neun': 1, '.': 1, 'weiteres': 1, '40': 1, 'drei': 1, 'ebenfalls': 1, 'selbst': 1, 'schlechte Preise': 1, 'in': 1, 'die': 1, 'das': 1}

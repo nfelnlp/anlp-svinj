@@ -1,0 +1,1 @@
+{'Berlin': 1, '„Das': 1, 'stimmten': 1, ',': 1, 'und': 1, 'für': 1, '.': 2, 'Mittwoch': 1, 'aber abstimmen': 1, 'sich': 1, 'erforderliche': 1, 'im': 1, '320': 1, 'Die': 1, 'Gewissensfrage': 1, 'Abgeordneten': 1, 'es': 1, 'beim': 1, 'Abstimmung': 1, 'also verfassungswidrig': 1, 'einer': 1, 'deswegen': 1, 'weiter': 1}

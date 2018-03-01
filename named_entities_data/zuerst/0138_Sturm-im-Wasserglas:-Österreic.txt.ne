@@ -1,0 +1,1 @@
+{'Gesellschaft 1 Wien/Graz': 1, 'Nach': 1, 'linke': 1, 'bei': 2, 'sich': 1, ', der': 1, '´Stop': 1, ',': 1, 'dem': 1, 'finden': 1, 'des': 1, 'den': 1, 'Doch wer': 1, 'und': 1, 'untragbar “ , schimpft': 1, '(': 1}

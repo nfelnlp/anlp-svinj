@@ -1,0 +1,1 @@
+{'im': 1, ', Bundestagsabgeordneter': 1, 'am': 1, 'trotz': 1, 'einem': 1, 'die': 1, 'Auseinandersetzungen': 1, ',': 2, 'von': 1, 'Der': 1, 'Satz ,': 1, 'anzusehen': 1, 'LINKEN': 1, 'das': 1, 'nun': 1, 'im Niedriglohnsegment': 1, 'explodierende': 1, 'Schwachen .': 1, 'und': 1, 'der': 2, 'Wahl': 1, 'Im': 1, 'steht die': 1, '.': 1, 'will man': 1, 'Hessen': 1, 'junger': 1, 'Dach': 1}

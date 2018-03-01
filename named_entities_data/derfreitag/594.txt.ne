@@ -1,0 +1,1 @@
+{'Mobile': 1, 'JASPER KOSOK': 1, 'wird': 1, 'voranzutreiben': 1, 'von': 1}

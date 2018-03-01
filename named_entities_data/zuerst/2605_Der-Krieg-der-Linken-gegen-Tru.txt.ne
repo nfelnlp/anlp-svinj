@@ -1,0 +1,1 @@
+{'Washington': 1, '. Die': 1, 'nach der': 1, 'Proteste': 1, 'Washingtoner': 1, '“': 3, 'Es': 1, 'Blick': 1, ', daß': 1, 'in': 1, 'daß': 1}

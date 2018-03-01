@@ -1,0 +1,1 @@
+{'schnellstens': 1, 'damit': 1, 'könnte': 1, 'Teile': 1, ', die': 1, 'um': 1, ',': 2, 'Geschichten': 1, 'die': 1, 'mal': 1, 'als': 1, 'ist': 2, 'es': 1, 'Asyl': 1, 'befindet': 1}

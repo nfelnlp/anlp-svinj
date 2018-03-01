@@ -1,0 +1,1 @@
+{'. Die': 1, 'größer': 1, 'fest . Die': 1, 'fest . Die IAQ-Forscher': 1, 'EU-weit den': 1, 'Zusammenhang zwischen': 1, 'Daten': 1, 'in': 1, 'Lohnunterschiede': 1, ',': 1, 'USA': 1, 'der': 2, 'ein': 1, 'aus': 1, '.': 3, 'Niedriglohnbeschäftigte': 1, 'gegen': 1, 'dieser': 1}

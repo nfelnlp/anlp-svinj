@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Pilz': 1, 'Grünen': 1, 'ab': 1, 'Kapitelüberschriften': 1, 'etwa': 1, 'den': 1, 'ehedem': 1, 'Grünen-Fraktionschef': 1, 'der österreichischen': 1, 'ihnen': 1, 'Menschen': 1, 'denken': 1, 'bisherigen': 1, 'mit': 1, '„Die': 1, ': Macht': 1}

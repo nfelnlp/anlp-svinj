@@ -1,0 +1,1 @@
+{'Michel Houellebecq': 1, 'auf': 1, 'geschildert': 1, 'betrachtet': 1, 'einem von': 1, ',': 2, 'und': 1, 'den': 1, 'mit': 1, 'freiheitlich-demokratischen': 1, 'die': 2, 'in Deutschland': 1, 'der': 2, 'Religionsfrieden': 1, 'ihre': 1, 'sonst': 1, 'für': 1, 'können': 1, 'politischer': 1, 'ausgetragen': 1, 'als': 1, 'Der': 1, 'für Frankfurt': 1}

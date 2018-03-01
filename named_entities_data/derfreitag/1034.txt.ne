@@ -1,0 +1,1 @@
+{'AFP/': 1, 'Images': 1, 'Nübling mit': 1, ',': 1, 'und': 2, 'in': 1, 'das': 1, '.': 1, '. Sue zu': 1, 'sie ans': 1, 'Karin Beier': 1, 'sie in': 1, 'weiter ,': 1, 'der Berliner': 1, 'so ,': 1, 'Spieler': 1}

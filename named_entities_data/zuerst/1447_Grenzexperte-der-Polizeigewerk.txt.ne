@@ -1,0 +1,1 @@
+{'Düsseldorf': 1, 'der Polizei': 1, 'GdP': 1, 'Arnd Krummen': 1, 'wegen': 1, 'Niederlanden': 1, 'und': 1, '.': 1, 'Deutschlands und seit': 1, 'zwei': 1, '11.972': 1}

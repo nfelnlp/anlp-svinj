@@ -1,0 +1,1 @@
+{'Mooresche Gesetz': 1, 'Moore': 1, 'aus': 1, 'Wissens': 1, 'die': 2, 'daß': 2, 'können': 1, 'Man': 1, 'vergessen': 1, 'ihrer': 1, 'kommen': 1, 'wäre': 1, '.': 2, 'das': 1, 'Die Fortschritte bei': 1, 'Gen-Sequenzierung etwa steigern': 1, 'dort': 1, 'ebenso': 1, 'haben': 1, 'gezüchtet': 1, '?': 1, 'nicht': 1, 'daß uns': 1, 'zur': 1, 'wir vom Öl': 1}

@@ -1,0 +1,1 @@
+{'aus Somalia': 1, 'der': 2, 'einem': 1, 'bekommen': 1, 'bekommen .': 1, 'nur eine': 1, 'die': 1, 'aus dem': 1, 'Wer': 1, 'sich': 1, 'die Regierung': 1, 'mit': 1}

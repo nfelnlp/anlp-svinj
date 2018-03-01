@@ -1,0 +1,1 @@
+{'Kajsa': 1, 'Kajsa Ekis Ekman': 2, 'Hayden Verry': 1, 'World': 1, 'Ekis': 1, 'Bordellbetreibern': 1, 'Schweden': 1, 'spricht von': 1, 'Befürworter': 1, 'Freier': 1, '» Die': 1, 'es': 1, 'Gesetzgebung': 1, ',': 1, 'mittlerweile auch': 1, 'Problem': 1, 'geradezu erzieherischen': 1, 'Aus': 1, 'Seiten': 1, '17,99 Euro': 1}

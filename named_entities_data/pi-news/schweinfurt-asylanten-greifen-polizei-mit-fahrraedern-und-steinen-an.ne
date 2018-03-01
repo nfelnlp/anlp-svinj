@@ -1,0 +1,1 @@
+{'Schweinfurt': 1, 'im': 1, 'gegen': 1, 'zu': 1, 'Eintreffen': 1, 'in': 1, 'die': 1, 'dass': 1, 'aus': 1, 'einer': 1, ')': 1, 'Auseinandersetzung': 1, 'ersten': 1, ',': 2, 'und': 1, 'Syrer': 1, 'immer': 1, 'Eskalation': 1, 'verhindert': 1, 'Drängler': 1, 'ein': 1, 'Einsatzkräfte': 1, 'auftretenden': 1, 'Streitigkeiten': 1, '15': 1}

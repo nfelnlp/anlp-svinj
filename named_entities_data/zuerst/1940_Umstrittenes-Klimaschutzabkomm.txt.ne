@@ -1,0 +1,1 @@
+{'Washington': 1, 'nicht bricht': 1, 'Pruitt': 1, 'den Austritt': 1, ',': 2, '„Meiner': 1, 'sagte': 1, 'USA': 1, 'großen': 1, 'an': 1, 'umfassende': 1, 'als': 1, 'noch': 1, 'Bannon': 1, ', Trumps': 1, 'dem Abkommen': 1, 'bleibt': 1, 'die sogenannten': 1}

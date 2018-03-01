@@ -1,0 +1,1 @@
+{'Luca Di Maio': 2, 'Gianroberto Casaleggio': 1, 'Beppe Grillo': 1, 'Grillo': 2, 'Casaleggios': 1, 'Davide': 1, 'M5S': 1, '» Grillo': 1, 'Maio in': 1, 'und': 1, 'hatte': 1, 'ins': 1, 'sich': 2, 'immer': 1, 'Maio ,': 1, 'Grillo auf': 1, 'Stiglitz und': 1, 'Fo auf': 1, 'neuen Webseite': 1, '»': 1, 'auf': 1, 'um': 1, 'Vorbestraften': 1, ', die Wähler': 1, 'ob': 1, 'Bewegung': 1}

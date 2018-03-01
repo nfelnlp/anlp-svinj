@@ -1,0 +1,1 @@
+{'ihr': 1, 'Ein Zitat': 1, ',': 3, 'gezielte Form': 1, ': Stadtratsmitglied': 1, 'Warum': 1, '?': 1, 'nicht': 1, 'Das': 1, 'die': 1, 'auch': 1, 'wundern': 1, '. Nein , das': 1, ', wie': 1, 'auf Emotionen': 1, 'nur': 1, 'Fake': 1, 'von': 1, '.': 1, 'Mitte': 1, 'zu': 1, 'dann': 1}

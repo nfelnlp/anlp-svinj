@@ -1,0 +1,1 @@
+{'CANTALOOP': 1, 'hat': 1, 'Frau': 1, ', als': 1, 'ihr wahrer': 1, 'Brüssel': 1, ',': 2, 'zum': 1, 'Merkels': 1, 'und': 1, 'Partizipation der': 1, 'topinformierte': 1, 'waren': 1, 'wie': 1, 'unheilvolle': 1, '–': 1, 'für': 1, 'späte': 1}

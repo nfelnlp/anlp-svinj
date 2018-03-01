@@ -1,0 +1,1 @@
+{'Kohl': 1, 'Otto': 1, 'mit': 2, 'seine': 1, 'Funès spielte die': 1, 'ehemaligen rheinland-pfälzischen': 1, 'an . Also': 1, 'ist': 1, 'schon': 1, ',': 2, 'Garten': 1, 'Stück': 1, 'Alien das Raumschiff': 1, 'also': 1, ', in': 1, 'rauskommt': 1, 'In': 1, 'meist': 1}

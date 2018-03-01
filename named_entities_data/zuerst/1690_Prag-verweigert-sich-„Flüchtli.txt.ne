@@ -1,0 +1,1 @@
+{'Brüssel': 2, 'Ungarn': 1, 'Tschechische': 1, 'Tschechische Republik': 1, 'EU-Sanktionen': 1, 'Milan': 1, 'vor Beginn': 1, 'Vision': 1, 'vor': 1, 'und': 1, 'EU-Kommission': 1, 'EU-Kommission vor': 1, '. „Dieses System': 1, 'Quoten': 1, 'Solidarität': 1, 'werde': 1, '.': 2, '. Statistisch': 1, '„Flüchtlinge': 1, 'wenn': 1, 'von': 1, 'Strafzahlungen': 1, 'mü': 1}

@@ -1,0 +1,1 @@
+{'QMP': 1, 'ab': 1, '(': 1, 'da': 1, 'Lügen': 1, 'Freddy': 1, 'Mutter': 1, 'Rentenbezug': 1, 'Rente': 1, 'usw': 1, 'in': 1, 'oder 83': 1, 'ein': 1, 'oft': 1}

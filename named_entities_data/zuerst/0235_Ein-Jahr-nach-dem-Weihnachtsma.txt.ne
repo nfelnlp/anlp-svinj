@@ -1,0 +1,1 @@
+{'Gesellschaft 3 Berlin': 1, 'Tor': 1, 'Bis': 1, 'Besitz': 1, '.': 1, 'und': 1}

@@ -1,0 +1,1 @@
+{'kenianischen': 1, 'Bettina Rühl': 1, 'Mogadischu': 1, 'Mohamed Shiekuna': 1, 'war': 1, 'Kenia': 1, 'zwölf': 1, 'seine': 1, 'Abdi auf dem': 1, 'und fühlen': 1, 'nebenan': 1, ',': 1, 'Ort': 1}

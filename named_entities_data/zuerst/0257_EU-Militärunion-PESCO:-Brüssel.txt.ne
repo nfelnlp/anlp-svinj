@@ -1,0 +1,1 @@
+{'EU': 1, 'EU-Gipfels': 1, 'gleich': 1, 'zur': 1, 'diesbezügliche': 1, '32-Punkte-Plan': 1, 'der': 1, 'für': 1, 'Jahre': 1, 'Dänemark': 1, 'Großbritannien': 1, 'regelmäßigen': 1, 'ihrer': 1, '.': 1}

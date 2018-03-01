@@ -1,0 +1,1 @@
+{'Brüssel': 1, 'über': 1, 'Personalmangel': 1, 'Feststellung': 1, 'wir die Verantwortlichen': 1, 'diesem': 1, 'der': 1, 'drei': 1, '.': 1}

@@ -1,0 +1,1 @@
+{'Parteien vermieden': 1, 'eingeführt': 1, '.': 2, '21 Absatz': 1, 'und': 1, 'ein': 1, 'bei': 2, 'Bundestages': 1, 'den': 1, 'recht': 1, '19': 1, 'die': 1, '``': 1, 'von': 1, 'Spenden': 1, ',': 3, 'als': 1, 'der': 2, 'Grundgesetzes': 1, 'das': 1, 'Flugaffäre': 1, 'handelt': 1, 'Erwartung': 1, 'wirtschaftlichen': 1, 'Man': 1, 'noch': 1, ', deren': 1}

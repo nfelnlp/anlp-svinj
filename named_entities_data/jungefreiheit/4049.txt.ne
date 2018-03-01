@@ -1,0 +1,1 @@
+{'JF': 1, 'eine': 1, 'Prozent': 1, '(': 1, 'weshalb man': 1, 'freut': 1, 'und': 1, '63': 1, '90,1': 1, 'informiert': 1, 'Südosteuropäische': 1, '48,9': 1, 'Arbeitslose': 1}

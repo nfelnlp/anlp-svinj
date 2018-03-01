@@ -1,0 +1,1 @@
+{'Hansi': 2, 'Stahlhelmen': 1, 'Ukraine': 1, 'Deutschland': 1, 'Schweinsteiger': 2, 'Heinz Rudolf Kunze': 1, 'Kühe': 1, 'nicht': 1, 'nun': 1, ',': 2, 'meisten': 1, 'und Philipp': 1, 'beim Abendessen': 1, 'höchstens': 1, 'Y': 1, '.': 1, 'schöner machen': 1, 'den Kopf': 1, 'morgen': 1, 'Völler': 1, 'gibt keine': 1, 'Europameister zu': 1, 'sich deshalb': 1}

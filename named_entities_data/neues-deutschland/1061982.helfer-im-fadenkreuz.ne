@@ -1,0 +1,1 @@
+{'Aktivisten': 1, 'beschossen .': 1, 'sagt über': 1, 'Garantie': 1, 'der das': 1, 'leitet': 1, ',': 3, 'war': 1, 'wo': 1, 'Oppositionshochburgen': 1, 'Angriffe': 1, 'weisen . Tatsächlich seien': 1, '. Zahl': 1, 'der': 1, 'hätten zugenommen': 1, '»': 1, 'neue': 1, 'Eine': 1, '- womöglich': 1, ':': 1}

@@ -1,0 +1,1 @@
+{'Jacker': 1, 'türkischer': 1, 'Das': 1, 'kann': 1, 'die fünffache Mutter': 1, 'lebt': 1, '.': 2, 'das': 2, 'integriert': 1, '»': 2, 'verweigerte': 1, 'unsere': 1, 'Seit': 1, 'Abgehörte': 1, 'im': 1, 'wie einen': 1, 'und': 1, 'Halbstarker': 1, 'Clubs': 1, 'Corrinas Söhnen': 1, 'viel': 1, ':': 1, 'Komm': 1}

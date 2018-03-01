@@ -1,0 +1,1 @@
+{'Gesellschaft 1 Berlin': 1, 'Heiko Maas': 1, 'SPD': 1, 'und': 1, 'eigenen': 1, 'vor': 1, 'weitreichenden': 1, 'an': 1, 'bedauert sie Forderungen': 1, 'Verantwortlichkeit': 1}

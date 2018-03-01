@@ -1,0 +1,1 @@
+{'Frank ,': 1, ')': 1, 'unter': 1, 'sich': 1, 'muss': 1, 'zum': 1, 'seine': 1, 'angeblich': 1, 'Richtung': 1, 'von': 1}

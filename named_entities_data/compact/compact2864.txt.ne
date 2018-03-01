@@ -1,0 +1,1 @@
+{'Angela Merkel': 2, 'COMPACT': 1, 'Clemens Am 4': 1, 'auf': 1, 'ihre': 1, ',': 2, 'festsitzende': 1, '.': 2, 'damit': 1, 'unterstellt': 1, 'entnehmen': 1, 'oder': 1, 'Ordnung zu': 1, 'online': 1, 'sicheren': 1, 'Recht': 1, 'gilt': 1, 'Gewalt': 1, 'abschließen': 1, 'danach': 1, 'nicht Einhalt': 1, 'Anne': 1, 'Worten bekräftigte': 1, 'man': 1}

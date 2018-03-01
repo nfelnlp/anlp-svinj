@@ -1,0 +1,1 @@
+{'61': 1, '( DGB': 1, 'stand': 1, '2007': 1, 'Hoffmann': 1, 'den Report': 1, 'Donnerstag': 1, 'präsentierte .': 1, ',': 1, '«': 1, 'Bereich Information': 1, 'das': 1, '100': 1}

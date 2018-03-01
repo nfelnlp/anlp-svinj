@@ -1,0 +1,1 @@
+{'. Der': 1, '.': 2, 'in einem': 1, 'Morgenpost': 1, 'Drogenfälle': 1, 'sich': 1, 'an': 1, ',': 1, 'lizenzierten Läden an': 1, 'nicht': 1}

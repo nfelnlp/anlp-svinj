@@ -1,0 +1,1 @@
+{'. Mit': 1, 'das': 1, 'in': 1, 'wurden nach Polizeiangaben': 1, '80': 1, 'die': 1, 'mehr': 1, 'Unwettereinsätze': 1, 'am Donnerstagmorgen Schäden': 1, 'Vor': 1, 'Bereich': 1, 'Der': 1, 'mit': 1, '40': 1, 'und': 1, 'der Münchner': 1, 'Gerüst einstürzen': 1, 'Bahn': 1, 'Fernverkehr auf': 1, 'waren': 1, ',': 1, 'beheben': 1}

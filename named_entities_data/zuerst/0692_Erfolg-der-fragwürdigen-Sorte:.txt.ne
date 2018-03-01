@@ -1,0 +1,1 @@
+{'Wien': 1, 'zugezogen': 1, '.': 1, 'zu-': 1, 'hoch': 1, 'dann': 1, 'der': 1, 'muß': 1}

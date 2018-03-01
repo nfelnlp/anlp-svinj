@@ -1,0 +1,1 @@
+{'sein': 1, 'Partei': 1, 'möglich': 1, 'Soros mag': 1, 'Friedman usw': 1, 'Dieses': 1, 'der': 1, ',': 1, 'Es': 1, 'sehr': 1, 'Dienlich': 1, 'deutsch-israelische': 1, 'behagen': 1, 'Menge': 1, 'nicht': 1, 'in Deutschland': 1, 'eine': 1, 'sowie': 1, 'Juden': 1, 'sich': 1, 'Was': 1}

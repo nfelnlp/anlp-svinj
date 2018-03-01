@@ -1,0 +1,1 @@
+{'Sie': 1, 'unter': 1, 'SPD )': 1, 'wurde': 1, 'der': 4, ',': 1, 'zeigt das': 1, 'der NS-Zeit': 1, 'dargestellt': 1, 'wegen seiner': 1, 'Leiter des Landesamtes': 1, 'entlassen': 1, 'linken': 2, 'oder': 1, 'Zweifel an der': 1, 'vom Dezember': 1, 'war das': 1, '. Auf': 1, 'Anregung': 1, 'hervorgegangene': 1, 'Initiative': 1, 'sehen': 1}

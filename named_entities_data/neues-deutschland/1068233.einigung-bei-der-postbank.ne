@@ -1,0 +1,1 @@
+{'.': 1, '. Die': 1, 'mit': 1, 'Unternehmen': 1, 'wurde': 1, 'Integration': 1, 'und': 1, 'Ende 2022': 1, 'stellen .': 1}

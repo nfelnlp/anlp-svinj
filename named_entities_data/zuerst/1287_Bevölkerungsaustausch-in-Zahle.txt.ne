@@ -1,0 +1,1 @@
+{'Wien': 1, 'Österreich': 3, 'für': 1, 'Prozent': 3, 'noch': 1, 'hat': 1}

@@ -1,0 +1,1 @@
+{'Kopenhagen': 1, 'Dänemark': 1, 'Anti-IS-Militärmission': 1, 'Das': 1, 'dänische': 1, 'mit': 1, 'Der Einsatz': 1, 'bei': 1, 'Oktober': 1, 'sieben': 1, 'eine': 1, 'Ausweitung': 1, ',': 1, 'verlängern': 1, 'unlängst erklärt': 1, 'seien': 1, '(': 1}

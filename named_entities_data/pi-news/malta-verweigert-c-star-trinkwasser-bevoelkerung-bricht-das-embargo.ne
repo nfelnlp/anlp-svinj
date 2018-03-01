@@ -1,0 +1,1 @@
+{'INXI': 1, 'Defend Europe': 1, ':': 2, 'Kurs': 1, 'in': 1, 'EU-Staat': 1, 'Schiff': 1, 'Landes': 1, 'um': 1, 'zu': 1, 'aus': 1, 'mit': 1, '.': 1, 'government in order': 1, '. People': 1, '?': 1, 'haben': 1, 'versorgen': 1, 'I popoli': 1, 'loro': 1, '!': 2, 'der': 1, 'wert': 1, 'aufnehmen': 1, 'Der': 1, 'hierfür war': 1, 'angebliche': 1, 'Gerichten': 1}

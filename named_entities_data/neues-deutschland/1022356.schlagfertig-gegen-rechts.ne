@@ -1,0 +1,1 @@
+{'Ein Stuhlkreis': 1, 'nur': 1, 'stapelt noch ein': 1, 'Stammtischkämpfer_innen': 1, 'Stammtischkämpfer_innen ausbilden': 1, ', der': 1, 'Wannsee': 1, '.': 1, 'noch': 1, 'Max': 1, 'vom Linke.SDS': 1, 'einige': 1}

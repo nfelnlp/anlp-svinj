@@ -1,0 +1,1 @@
+{'Brüssel': 1, 'EU-Kommissionspräsident': 1, 'sich': 1, 'zwar Fortschritte': 1, 'zwar Fortschritte ,': 1, '”': 1, 'sagte': 1, 'diese': 1, 'sei': 1, ',': 1, 'Allerdings müsse': 1, 'ebenso': 1, '–': 1, 'habe': 1, 'europäischen': 1, 'in': 1, 'Vertrauensverlust': 1}

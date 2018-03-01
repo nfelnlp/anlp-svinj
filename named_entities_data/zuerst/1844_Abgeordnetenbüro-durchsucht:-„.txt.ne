@@ -1,0 +1,1 @@
+{'Preßburg/Bratislava': 1, 'Auch': 1, 'der': 1, 'Naka': 1, 'Parlamentarier der': 1, '(': 1, ')': 1, '.': 1, 'hatte im': 1, 'die': 1, 'jüdischer Herkunft': 1, 'Orden': 1, 'dauernden': 1, 'unmittelbar nach': 1, 'politischen': 1, 'März 2016': 1, 'zusätzliche': 1}

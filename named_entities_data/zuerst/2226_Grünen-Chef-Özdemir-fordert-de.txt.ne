@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'hat': 1, 'Cem': 1, 'Gründung eines': 1, ',': 2, 'Özdemir': 1, 'versäumt': 1, 'zwar': 1, 'politisch': 1, 'Deutschland': 1, 'allen': 1, 'kulturell': 1, 'gegen': 1, 'sei': 1, 'geben': 1, 'meint': 1, 'um': 1, 'zu': 1, 'er': 1, 'die': 1}

@@ -1,0 +1,1 @@
+{'Mitte': 1, ', die': 1, ',': 2, 'Tatsächlich': 1, 'Vertrag': 1, 'um': 1, 'über': 1, '.': 1, 'der': 1, 'die': 1, 'ist': 1}

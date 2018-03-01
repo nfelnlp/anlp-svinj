@@ -1,0 +1,1 @@
+{'Berlin': 1, 'sich': 1, 'um': 1, 'die': 1, 'Verhältnissen': 1, 'Polizei': 1, '(': 1, 'Innenausschuß des': 1, 'Abgeordnetenhauses': 1, 'Verbindungen': 1, 'und': 1, 'Einzelfall ist': 1, 'soll': 1, 'dass': 1, 'nicht': 1, 'im': 1, 'Berlins': 1, 'Polizeischüler': 1, 'sp': 1}

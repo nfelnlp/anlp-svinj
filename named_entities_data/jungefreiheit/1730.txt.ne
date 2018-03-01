@@ -1,0 +1,1 @@
+{'UN-Konferenz': 1, 'Umwelt': 1, 'Janeiro als umweltpolitischer': 1, 'Privatbereich': 1, 'Nachhaltigkeit': 1, '.': 2, 'eher': 1, 'Gestanks': 1, 'verführt': 1, 'entlassen': 1, 'Medieninteresse': 1, 'materielle': 1, 'qualitative': 1, 'das': 1, 'ist': 2, 'keine': 1, 'deutlich': 1, 'dem': 1}

@@ -1,0 +1,1 @@
+{'Trump': 1, 'positiven': 1, 'kürzt': 1, '– toll': 1, '.': 1, 'ist': 1, 'Mainstream-Linie': 1, 'Er': 1, 'jetzt': 1, ')': 1, 'seine ursprünglichen': 1, 'sind': 1, 'bemerkt , dass': 1, 'etwas': 1, 'kam': 1}

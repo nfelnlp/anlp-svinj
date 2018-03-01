@@ -1,0 +1,1 @@
+{'feindlicher': 1, 'bestätigte': 1, 'Salvin .': 1, 'von': 1, 'Opfern ausgegangen': 1, 'sie': 1, 'eine': 1, 'unterstützt': 1, 'sich': 1, 'wir': 1, '.': 1, 'bekannt': 1, 'der': 1, 'Mittel': 1, 'Die': 1, 'Zivilisten in': 1, 'und': 1}

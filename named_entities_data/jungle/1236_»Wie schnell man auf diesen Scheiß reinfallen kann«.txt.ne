@@ -1,0 +1,1 @@
+{'Manuel Karasek': 1, 'Venezuela': 2, 'zitiert': 1, 'Chávez Bild :': 1, 'Karasek – war': 1, 'Karasek (': 1, ',': 2, 'und': 1, 'als': 2, 'Karasek und': 1, 'Ines Mejia-Perez auf': 1, 'Er': 1, 'Bild :': 1, 'Diehl': 1, 'dass': 1, 'ich': 1, 'zu': 1, 'in': 1, '.': 1, 'auf': 1, 'Auch Teile': 1, 'das Land': 1, '»': 1, 'man': 1, 'auseinandersetzt': 1, 'geprägt': 1, 'anruft': 1}

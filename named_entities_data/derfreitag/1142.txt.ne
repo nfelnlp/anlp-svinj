@@ -1,0 +1,1 @@
+{'JOSH EDELSON/AFP/Getty': 1, 'Die': 1, 'Regeln und': 1, 'der Seite': 1, 'und': 2, 'schafft es': 1, 'haben': 1, 'mehr': 1, 'angehört': 1, 'um': 1, 'auf': 1, 'wie': 2, 'Inhalte': 1, 'Dokumenten': 1, 'einem': 1, 'gegenüber': 1, ',': 3, 'weltweite Gemeinschaft und': 1, 'in': 1, 'von': 1, 'überhaupt': 1, 'Regularien': 1}

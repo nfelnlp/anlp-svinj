@@ -1,0 +1,1 @@
+{'die jeweilige Wählerschaft': 1, 'schickt': 1, 'März': 1, 'Aktivisten': 1, 'der schwierigen Aufgabe': 1, 'der drohenden Fortsetzung': 1, 'rechten Siegesgefühls etwas': 1, 'man sich auch': 1, 'Koordinierungskreises in Hannover': 1, 'ein': 1, 'Train-the-trainer': 1, 'werden': 1, 'die': 1, 'legen': 1, 'doch': 1, 'anderen': 1}

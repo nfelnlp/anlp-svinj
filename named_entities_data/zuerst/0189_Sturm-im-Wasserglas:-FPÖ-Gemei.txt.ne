@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Wien': 1, 'FPÖ-Gemeinderat': 1, 'jetzt': 1, 'postete': 1, 'Facebook-Profil einen': 1, ',': 1, 'Hakenkreuz': 1, 'einem': 1, 'Blochberger': 1, '”': 2, 'Spitze der': 1, 'fehlt': 1, 'der': 1, 'aber': 1, 'aber fest': 1, 'Vernehmen': 1, 'um': 1, 'mit': 1}

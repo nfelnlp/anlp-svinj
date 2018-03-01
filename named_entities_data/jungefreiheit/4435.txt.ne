@@ -1,0 +1,1 @@
+{'Reformschreibung': 1, 'Schüleraufsätzen': 1, 'sondern': 1, '.': 1, 'Stadtbibliotheken': 1, 'Mann den': 1, 'ist': 1}

@@ -1,0 +1,1 @@
+{'Linz': 2, ',': 2, 'kommen': 1, '( ÖVP': 1, 'übermittelt': 1, 'Hattmannsdorfer': 1, '„Sobald diese': 1, 'Demokratische': 1, 'auch': 1}

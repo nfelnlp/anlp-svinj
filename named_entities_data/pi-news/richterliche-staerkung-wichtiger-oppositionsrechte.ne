@@ -1,0 +1,1 @@
+{'Wuppertal': 1, 'Nordrhein-Westfalen eingehandelt :': 1, 'auch': 1, 'in': 1, 'die': 1, 'Claudia Bötte': 1, 'Oppositionspolitikerin hatte': 1, 'undemokratische': 1, 'taub': 1, 'Einer': 1, 'inhaltliche': 1, 'nicht': 2, 'als': 1, 'Antifa-Szene': 1, 'Fraktionschef': 1, ':': 1, 'Kühn': 1, 'einmal': 1, 'und': 1, '“': 1, '2713/16': 1, 'für': 1, 'der gelernte': 1}

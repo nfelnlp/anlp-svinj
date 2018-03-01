@@ -1,0 +1,1 @@
+{'SPD-Chef': 1, 'ein': 1, '25 Teilen': 1, ':': 1, 'In': 1, 'Europa gibt': 1, ',': 2, 'Begrenzung': 1, 'Stundenkilometer gefordert': 1, 'eins auf die': 1, 'ohnehin': 1, 'gefundenes': 1, 'davon': 1, 'orientierte': 1, 'ohne': 1, 'Wäre': 1, 'an die': 1, 'beschlossen': 1, 'damit': 1}

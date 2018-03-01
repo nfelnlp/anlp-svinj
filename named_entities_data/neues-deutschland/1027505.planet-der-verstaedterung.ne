@@ -1,0 +1,1 @@
+{'und': 1, 'einem': 1, 'jeder': 1, 'denn': 1, 'Millionen': 1, 'die': 1, 'nachhaltigen Entwicklungsziele (': 1}

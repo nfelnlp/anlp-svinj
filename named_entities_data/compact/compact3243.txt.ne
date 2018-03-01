@@ -1,0 +1,1 @@
+{'”': 1, 'Rom': 1, 'Deutschland': 1, 'Ellis': 1, 'Ellis Island': 1, 'Xenia': 1, 'bspw . K. Lorenz “ Die': 1, '“ Der': 1, 'Modell': 1, 'vor allem': 1, '.': 1, 'weil': 1, 'als': 1, 'in': 1, 'ist': 1, 'hat es': 1, 'Welt': 1, 'seiner': 1, 'unsichtbaren': 1, 'gestorben .': 1, 'des': 1}

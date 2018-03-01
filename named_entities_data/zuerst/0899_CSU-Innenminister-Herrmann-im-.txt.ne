@@ -1,0 +1,1 @@
+{'München': 1, 'Joachim Herrmann': 1, 'CSU-Politiker': 1, ',': 1, 'der': 1, ':': 1, 'einer': 1}

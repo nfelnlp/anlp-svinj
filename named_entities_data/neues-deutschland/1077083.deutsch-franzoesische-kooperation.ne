@@ -1,0 +1,1 @@
+{'( 1949-1963': 1, '1959-1969 ) unterzeichneten': 1, 'Estain (': 1, 'Europäischen Rates': 1, 'des': 1, 'Mitterrand': 1, 'ergänzten': 1, 'um einen': 1, 'Verteidigungs- und': 1, '40-jährige': 1, 'gemeinsamen Sitzung': 1, 'Bundeskanzler auch': 1, '2007-2012': 1, '.': 1, 'Nachfolger François': 1, 'eng mit': 1}

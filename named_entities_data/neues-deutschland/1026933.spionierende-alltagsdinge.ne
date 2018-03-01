@@ -1,0 +1,1 @@
+{'García ist wohl': 1, ':': 2, 'kapitulieren': 1, '.': 1, ', wenn': 1, 'mal': 1, 'Konzerne': 1, 'Das': 1, 'meisten Menschen': 1, 'Thermostate': 1}

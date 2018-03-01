@@ -1,0 +1,1 @@
+{'ja': 2, 'gesamtgesellschaftlichen': 1, 'und': 1, 'haben': 1, 'ihre': 1, 'Professoren': 1, 'ähnliche': 1, 'für das': 1, 'die': 1, '“': 1, 'ohnehin': 1, 'Normalität': 1}

@@ -1,0 +1,1 @@
+{'Angela Merkel': 1, 'Bundestag': 1, 'anderen': 1, 'war mit': 1, ', Alexander': 1, 'und Jörg': 1, 'bei der': 1, 'wir': 1, 'Linke': 1, 'Opposition ist': 1, 'Ende': 1, 'AfD': 1, 'Rechtsstaates': 1, 'gemacht': 1, 'und': 1, 'Opposition .': 1, 'und ihre': 1, 'einmal „ausmisten': 1, 'Man': 1}

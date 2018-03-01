@@ -1,0 +1,1 @@
+{'Griechenland': 1, 'Deutschland': 1, 'Max Zeising': 1, 'Athen': 1, 'So': 1, 'wollen': 1, ':': 1, 'es': 1, 'Bewohnern': 1}

@@ -1,0 +1,1 @@
+{'Deggendorf': 1, 'Niederbayern': 1, 'Wald': 1, 'und': 1, 'Partei': 1, ',': 1, 'Bundestagswahl': 1, 'im': 1, '%': 3, 'in': 3, '38jährige': 1, 'Vorsitzende des': 1, 'der': 1, '–': 1, 'und ihren': 1, 'kein': 1, 'angemeldete': 1, 'folglich': 1, '„fortbewegenden': 1, 'nicht': 1, 'zu': 1, '. Wenn': 1, 'der Aufschrift': 1, 'die': 1, 'AfD gar': 1, 'Teilnahme': 1, 'von': 1, '.': 1}

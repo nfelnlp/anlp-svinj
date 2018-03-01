@@ -1,0 +1,1 @@
+{'AG ( DB': 1, 'kommt': 1, 'S21': 2, 'aktuellem': 1, 'Fahrplanumstellung': 1, 'Tagesordnung': 1, '.': 2, 'und': 1, 'Aufsehern': 1, 'Berliner': 1, '. Schließlich': 1, 'ein': 1, 'allen': 1, 'Landeshauptstadt': 1, '. Beobachter befürchten': 1, 'die': 1, 'wollen': 1, 'sofortigen': 1, ', die': 1, 'in': 1, 'Rastatt': 1, ',': 1, 'Baden-Württemberg': 1}

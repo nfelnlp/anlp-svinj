@@ -1,0 +1,1 @@
+{'«': 1, 'gesorgt': 1, 'nicht': 1, 'Wasser': 1, 'rechtskonservativen serbischen': 1, 'April': 1, 'Novi Sad': 1, ', Kragujevac': 1, 'Zaječar': 1, 'Kruševac': 1, 'in': 2, 'Tagen': 1, 'Transparente': 1, '.': 3, 'serbischen Präsidentschaftswahlen': 1, 'die': 1, 'gleich': 1, 'Supermarkt': 1, 'Geflüchteten': 1, 'leben': 1, ',': 1, 'hatten': 1, 'Für': 1, 'Parteien': 1}

@@ -1,0 +1,1 @@
+{'Washington': 1, 'Assange': 1, 'Er sagte': 1, 'daß': 1, 'daß die': 1, 'des Vorsitzenden von': 1, 'Quelle stammten': 1, 'ergriffen': 1, '„dem': 1, '1.000 Prozent': 1, 'versichern': 1, ':': 1, ',': 1, 'vergangenen': 1, 'Donald': 1, 'die Trump-Regierung ,': 1, 'zu vereiteln': 1, 'sagen ,': 1, 'Trump': 1, 'hartnäckig': 1, 'vergangene': 1, 'die': 1, 'nicht': 1}

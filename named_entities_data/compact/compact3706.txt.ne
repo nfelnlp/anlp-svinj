@@ -1,0 +1,1 @@
+{'ARD': 1, 'Korrespondentin des': 1, 'Tribune , Melissa': 1, ', wie': 1, 'direkt': 1, 'Afghanistan': 1, 'die': 2, 'vor': 1, 'wenn': 1, 'und': 2, 'Waffe': 1, 'frei': 1, '.': 1, 'vorweg': 1, 'in': 1, 'bereitstellen': 1, 'für': 1, 'unmittelbar militärische': 1, 'Sonderbehandlung': 1, 'Auftragsfolterern': 1, 'Falle': 1, 'mit': 1, 'es': 1, 'im': 1}

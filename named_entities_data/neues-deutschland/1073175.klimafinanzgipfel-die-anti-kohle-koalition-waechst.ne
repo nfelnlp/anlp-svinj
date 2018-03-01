@@ -1,0 +1,1 @@
+{'Präsident': 1, 'hat mehr': 1, 'Auf': 1, '4000': 1, 'war': 1, 'zweite': 1, 'Abkommen aussteigen': 1, '13': 1, 'Städten ,': 1, 'und': 1, 'eigenen': 1, 'erreichen': 1, 'als': 1, 'Aber auch': 1, 'noch unzureichenden': 1, 'in': 1, 'nutzten': 1, 'der auf': 1, 'Regionen': 1, '.': 1, 'im Rahmen ihrer': 1, 'mit': 1, 'Euro': 1, 'wird': 1, 'Mit': 1}

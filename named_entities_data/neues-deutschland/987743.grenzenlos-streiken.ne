@@ -1,0 +1,1 @@
+{'150': 1, 'IL': 1, 'die': 1, '.': 2, 'Initiative': 1, 'Treffens in Poznan': 1, 'Kämpfe': 1, 'Isabella': 1, 'Precarious Dis-connections': 1, 'zu': 1, 'in': 1, 'Treffens': 1, 'den': 1, 'Solidarität': 1, 'Die': 1, 'auf eine': 1, 'entlang': 1, 'transnationalen': 1, 'Am': 1, 'ihre': 1}

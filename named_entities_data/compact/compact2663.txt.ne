@@ -1,0 +1,1 @@
+{'–': 1, 'Feist Es': 1, 'der': 1, 'und': 1, 'hier': 1, ',': 2, 'Abgeordnetenrechte': 1, 'Abschaffung': 1, 'Die': 1, 'haben den': 1, 'parlamentarischen': 1, 'Anstatt': 1, 'zu': 1, 'zu fallen': 1, 'Despotien war': 1, 'überbringen': 1, '3': 1, 'Aber': 1, 'hat ,': 1}

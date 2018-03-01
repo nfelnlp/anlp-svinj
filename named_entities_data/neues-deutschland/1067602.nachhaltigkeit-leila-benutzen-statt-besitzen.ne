@@ -1,0 +1,1 @@
+{'( 39': 1, 'von Lars': 1, 'Jahren .': 1, 'hin': 1, 'noch': 1, ',': 1, 'eröffneten': 1, 'in': 1, '« Obwohl': 1, 'bei': 1, 'sie': 1, 'bringen. «': 1, 'gibt': 1, 'Anfängen': 1, 'Leuten': 1, ', Naumburger': 1}

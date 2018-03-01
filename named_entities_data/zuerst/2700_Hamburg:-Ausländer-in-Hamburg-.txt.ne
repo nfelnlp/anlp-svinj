@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Hamburg': 1, 'CDU-Bürgerschaftsfraktion': 1, 'Dennis': 1, ', sind': 1, 'häufig': 1, 'gemeldet': 1, 'Überdurchschnittlich': 1, 'Prozent': 1}

@@ -1,0 +1,1 @@
+{'_von': 1, 'Klaus': 1, '.': 1, 'Politikern': 1, 'und': 1, 'Zentralisierung': 1}

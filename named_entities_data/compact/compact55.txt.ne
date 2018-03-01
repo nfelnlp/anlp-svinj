@@ -1,0 +1,1 @@
+{'Was': 1, 'betritt die': 1, 'Orson Welles': 1, ', das': 1, 'ehemaligen Nachrichtenmagazins': 1, 'fragen .': 1, 'auf': 1, 'ja': 1, ',': 4, 'ermutigt': 1, 'gegen': 1, 'das': 1, 'Frau': 1, 'Sie': 1, '–': 1, 'hat': 1, 'ohne': 1, 'Bannon': 1, '? Ist': 1, 'Spiegel-Auflage abstürzt .': 1, 'hätten im': 1, 'ungestört': 1, 'Jetzt': 1, 'bequem': 1}

@@ -1,0 +1,1 @@
+{'. Berlin': 1, 'Linkenchefin': 1, 'Kipping hat sich': 1, 'politischen': 1, 'Sonnabend': 1, 'der': 1, '.': 2, 'eine Absage': 1, 'SPD': 1, 'Auch': 1, 'die Idee': 1, 'angesichts': 1, 'Führungsstreits': 1, 'zerstritten': 1, 'Wagenknecht und': 1, 'neben': 1, 'Rivalitäten': 1, '»': 1, 'was': 1, '-': 1, 'neuen': 1, 'unter': 1, 'verabschiedet': 1, 'davor': 1, 'die': 1, 'Reichtum': 1}

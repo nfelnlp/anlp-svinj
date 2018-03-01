@@ -1,0 +1,1 @@
+{'Paris': 1, 'Front National': 1, 'Jean-Marie Le Pen , von': 1, 'einer': 1, 'Pen': 1, 'die': 1, 'erringen': 1, 'senior kam': 1, 'dem': 1, 'Geburtstagsgeschenk': 1, 'Gelegenheit Medienvertretern gegenüber das schwache': 1, 'Frage ,': 1, 'der Partei': 1, 'ihres Vaters': 1, 'ihres Vaters zur': 1}

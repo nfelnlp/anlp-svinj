@@ -1,0 +1,1 @@
+{'Cape': 1, 'Cape Canaveral': 1, 'dem': 2, 'seien dann': 1, 'zum Verlust des': 1, 'gekostet': 1, '.': 1, 'US-Rüstungsunternehmen': 1, 'Northrop Grumman': 1, ')': 1, ') Foto': 1}

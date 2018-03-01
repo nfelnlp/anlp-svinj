@@ -1,0 +1,1 @@
+{'kommt an': 1, 'Getty Images': 1, ',': 2, 'Trend': 1, '.': 1, 'musikalisch': 1, 'zumuten': 1, 'in': 1, 'Sound': 1, 'als': 1, 'Marketinggag': 1, 'dort': 1, 'im': 1, 'Is Dead “': 1, 'das': 1, 'das eine durchaus': 1, 'Rockgitarrensample': 1, 'und': 1, 'eine': 3, 'einen': 1, 'Bandmate': 1, 'zum': 1, 'wird wieder überall': 1, 'Chemistry deutschen': 1, 'Erweiterung': 1, 'nicht .': 1}

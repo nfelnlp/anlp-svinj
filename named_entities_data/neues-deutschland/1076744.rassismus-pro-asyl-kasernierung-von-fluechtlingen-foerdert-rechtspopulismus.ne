@@ -1,0 +1,1 @@
+{'. Die': 1, 'Unterbringung': 1, 'Die liberalen': 1, 'werteorientierten Mitglieder der': 1, 'gedrängt': 1, 'Ankunfts-': 1, 'Entscheidungszentren': 1, '.': 1, 'dem': 1, '»': 1, 'werde': 1, 'eine': 1, 'große': 1, 'Rückführungseinrichtungen': 1, ', Asylsuchende': 1, 'in': 1}

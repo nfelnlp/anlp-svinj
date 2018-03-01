@@ -1,0 +1,1 @@
+{'im': 2, 'für': 1, 'Weder': 1, 'Judentum': 1, 'gegenseitigen staatsgewordenen': 1, 'Regierungen das Drama': 1, 'ist': 3, 'hat': 1, 'damalige': 1, 'Fakten geschaffen': 1, 'Gaza': 1, 'die': 3, 'aber kamen': 1, 'drei': 1, 'Israel': 1, ',': 3, 'bei einem': 1, 'u.a': 1, 'Palästinenser': 1, 'keinen': 1, 'das': 1}

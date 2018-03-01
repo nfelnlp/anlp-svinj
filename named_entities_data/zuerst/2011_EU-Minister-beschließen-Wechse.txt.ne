@@ -1,0 +1,1 @@
+{'Luxemburg': 1, 'EU': 1, 'amerikanischen Syrien-Politik': 1, 'Assad': 1, 'Das': 1, 'Strategiepapier': 1, '.': 2, 'der': 1, 'ein': 1, '„Er': 1, 'bei': 1, 'Vertreter': 1, ',': 1, 'einen': 1, 'Regierung': 1, 'Idlib': 1, 'Position': 1, 'am Mittwoch': 1, 'nicht': 1, 'nicht um': 1, 'Munitionslager': 1, 'Chemiewaffenfabrik': 1, 'Chemiewaffenfabrik getroffen': 1, '. (': 1}

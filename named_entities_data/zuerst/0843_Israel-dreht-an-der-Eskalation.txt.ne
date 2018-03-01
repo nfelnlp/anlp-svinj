@@ -1,0 +1,1 @@
+{'Damaskus/Tel': 1, '. Israel': 1, 'einmal': 1, 'abhalten': 1, 'angegriffen': 1, 'Konvoi der': 1, 'die in Syrien': 1, 'Assad-Regierung': 1, 'Terrormiliz': 1, 'Luftschlag': 1, 'Angriff einer': 1, 'Chemiewaffen': 1, 'herstellte , die': 1, 'syrischer': 1, '(': 1, 'Bei': 1, 'syrische Soldaten': 1, 'Die': 1, 'den': 1, 'israelische': 1, 'daß': 1, 'mü': 1}

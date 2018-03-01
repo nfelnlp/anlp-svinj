@@ -1,0 +1,1 @@
+{'. Der': 1, 'Niki , Lucas': 1, ', sieht': 1, 'Österreich': 1, 'ein': 1, 'Montag': 1, ', dem': 1, 'die Bieter': 1, 'ehemalige': 1, 'hatte': 1, 'hatte am': 1, ',': 1, 'berge': 1, '»': 1, 'Dezember': 1, 'Sitz': 1, 'Als Insolvenzverwalter': 1, 'legte': 1, '.': 1, 'Woche': 1, '. Flöther': 1, 'das': 1, 'bleibe': 1, 'stünden': 1, 'nicht': 1}

@@ -1,0 +1,1 @@
+{'Brügelmann': 1, 'Bremen': 1, 'Armutsfamilien': 1, 'Grundschullehrer': 1, 'den': 1, 'auch': 1, 'erlebt': 1, 'sind': 1, 'übergegangen': 1, 'müssen': 1, 'der': 1, 'Bundesländer': 1, 'stemmten': 1, 'gegen die Gesamtschule': 1}

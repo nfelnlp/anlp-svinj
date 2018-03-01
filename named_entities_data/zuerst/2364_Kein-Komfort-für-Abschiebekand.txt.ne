@@ -1,0 +1,1 @@
+{'Zürich': 1, 'Schweiz': 1, 'Kanton Zürich': 1, 'freiwillig': 1, 'wieder': 1, 'das': 1, 'bleiben': 1, 'im': 2, 'kontrolliert': 1, 'wurden im': 1, 'mittlerweile alle': 1, 'geschlossen': 1, 'beantragt': 1, 'beantragt ,': 1}

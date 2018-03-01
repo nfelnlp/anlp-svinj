@@ -1,0 +1,1 @@
+{'. Die': 1, 'DGB': 1, 'ist': 1, 'knapp': 1, ', ver.di': 1, 'IG': 1, 'hatten': 1, '2017': 1, 'dem': 1, '243 Mitgliedern': 1, 'Zulegen': 1, 'GdP': 1, 'und kommt': 1, 'auf': 1, 'zu': 1, 'schrieb': 1}

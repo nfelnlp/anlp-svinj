@@ -1,0 +1,1 @@
+{'machen krank': 1, ', dessen': 1, 'in': 2, 'Attacken': 1, 'der': 1, 'dem': 1, '»': 1, '« .': 1, 'rechten': 1, 'rechten Vorfälle': 1, 'Doch': 1, 'habe er': 1, 'Nach': 1, 'seine': 1, '. Die': 1, 'einem': 1}

@@ -1,0 +1,1 @@
+{'Tel Aviv': 2, 'Israel': 2, 'Afrika': 1, 'israelischen': 1, 'Regierungschef': 1, ',': 1, 'halten': 1, 'derzeit': 1, ')': 1}

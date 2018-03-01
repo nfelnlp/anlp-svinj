@@ -1,0 +1,1 @@
+{'Washington': 1, 'US-Präsident': 1, 'will jetzt': 1, 'Haus': 1, 'zwei': 1, 'Handelsdekrete': 1, '(': 1, '„Schummelei “': 1, ', die': 1, 'wie': 1, 'von': 1, 'Regierungen': 1, 'sagte': 1, 'werden': 1, 'werden unsere': 1, '“ Zudem': 1, 'Bedingungen': 1, 'Jahrzehnt': 1, 'Fabriken': 1}

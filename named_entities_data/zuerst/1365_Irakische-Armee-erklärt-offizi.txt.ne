@@ -1,0 +1,1 @@
+{'irakische': 1, '(': 2, 'für': 1, 'Militärsprecher': 1, 'sowie': 1, 'den Befehl': 1, 'Schlacht': 1, 'zu bringen': 1, '.': 1, ',': 1, 'gesprengt': 1, 'wehte': 1}

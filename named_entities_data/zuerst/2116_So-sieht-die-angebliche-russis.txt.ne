@@ -1,0 +1,1 @@
+{'Moskau': 1, 'Rubel': 1, ',': 1, '600': 1, 'zurück und': 1, 'wie': 1, 'und': 1, 'Medien': 1, 'russischen': 1}

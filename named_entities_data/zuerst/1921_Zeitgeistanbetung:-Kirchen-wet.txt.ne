@@ -1,0 +1,1 @@
+{'Gesellschaft 6 Köln': 1, 'nicht': 1, '( ACK': 1, '“': 1, 'Nähe des Maritim-Hotels': 1, 'dem': 1, 'Zustimmung in': 1, 'ungebrochene ehrenamtliche': 1, 'bis': 1, 'laut': 1, 'tw )': 1}

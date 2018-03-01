@@ -1,0 +1,1 @@
+{'Teheran/Brüssel': 1, 'Darüber': 1, 'Today': 1, 'Ausmaßes': 1, 'der': 1, 'Konkret': 1, 'und': 1, 'mangelnder': 1, 'kritisiert': 1, 'Postverpackungen': 1, 'Drogenhandel': 1, 'iranischen': 1, 'reagiert hat': 1}

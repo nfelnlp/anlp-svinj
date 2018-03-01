@@ -1,0 +1,1 @@
+{'Moskau': 1, 'Rußland': 1, 'Türkei': 1, 'Syrien-Engagement': 1, 'Jetzt': 1, 'und Außenpolitikberater': 1, ',': 1, 'einschlägige Bemühungen': 1, 'ein Treffen': 1, 'dem es': 1, 'die': 1, 'Juli': 1, 'sagte': 1, 'auch': 1, 'Schamanow': 1, 'Kontingente als': 1, 'sind': 1, 'im': 1, 'Verhandlungen': 1, 'auf': 1, '(': 1, ')': 1}

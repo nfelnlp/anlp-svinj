@@ -1,0 +1,1 @@
+{'Cumhuriyet': 1, 'Was': 1, 'der': 1, 'schlimm': 1, 'Zeit auf die': 1, 'die Voraussetzung des': 1, 'nicht': 1, 'EU': 1, 'kann': 1, 'könnten': 1, 'Weil': 1, 'genauso': 1, 'Die Türkei war': 1, 'Modell': 1, 'islamischen': 1, 'werden': 4, 'Asyl beantragen': 1, 'sich': 1, 'Vorstellung': 1, 'Sie': 1, 'aus': 1, 'Das': 1, 'könnte': 1, 'gegen': 1}

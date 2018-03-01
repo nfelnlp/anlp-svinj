@@ -1,0 +1,1 @@
+{'CANTALOOP': 1, 'und': 3, 'vergangenen': 1, 'nämlich': 1, 'weit': 1, 'begreifen': 1, 'endlich': 1, 'Kultur': 1, 'wieder geistig': 1, 'Allgemeinbildung': 1, 'Juvenal': 1, ', uns': 1, 'immer': 1, 'gesonnenen': 1, 'leicht mit': 1, ',': 2, 'unserem': 1, 'know-how': 1, 'auch als': 1, 'Kontrollinstanz': 1, 'um einer': 1, 'sind': 1, 'eigenen': 1, 'zuletzt': 1, 'verachten': 1}

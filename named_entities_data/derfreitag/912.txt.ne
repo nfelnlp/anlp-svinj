@@ -1,0 +1,1 @@
+{'ungeheuer': 1, 'ausdrucksstark und': 1, 'aus .': 1, ') durch ein': 1, 'Bühne und': 1, 'der Bühnendecke fallen': 1, 'das': 1, 'Brüdern Jean': 1, 'Christian Schneeweiß': 1, 'Czeremnych': 1, 'zu ihrem': 1, 'Arbeit': 1, 'Geschäft': 1, 'der Krise': 1, 'ihres': 1, 'sie später': 1, 'Arbeitsbedingungen': 1, 'lassen .': 1, '43.000': 1, ',': 1, 'Rechte': 1}

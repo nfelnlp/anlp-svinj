@@ -1,0 +1,1 @@
+{'Wien/Brenner': 1, 'Der': 1, 'und': 1, 'Wahlen': 1, 'sind': 1, 'die Grenzkontrollen': 1, '.': 2, 'wird': 1, 'Grenzer': 1}

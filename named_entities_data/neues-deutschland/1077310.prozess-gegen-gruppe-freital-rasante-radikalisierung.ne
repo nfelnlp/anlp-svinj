@@ -1,0 +1,1 @@
+{'Freital': 2, 'Hendrik Lasch': 1, 'Dresden': 3, 'Kristin Pietrzyk': 1, 'Jena': 1, 'Sachsen': 1}

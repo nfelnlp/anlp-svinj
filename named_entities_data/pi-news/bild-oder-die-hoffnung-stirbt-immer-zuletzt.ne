@@ -1,0 +1,1 @@
+{'Israel': 1, '…': 2, 'Reichelt ,': 1, 'herzlos': 1, 'und': 1, 'vertauscht .': 1, 'den Terroristen': 1, 'TAGESSCHAU': 1, 'der': 1, 'jüdische Familie': 1, 'Gefahr': 1, '“': 3, 'Rosenheim': 1, 'bei': 2, 'l': 1, 'immer': 1, 'Backen auf': 1, 'statt': 1, 'mal': 1, 'ums': 1, ':': 1, '170': 1, ', dunklerer': 1, '–': 1, 'sich': 1, 'die': 1, 'genau': 1, ',': 1, 'ist': 1, 'vereidigt': 1}

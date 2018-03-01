@@ -1,0 +1,1 @@
+{'Wien': 1, 'österreichische ÖVP': 1, 'angeführte': 1, 'der': 3, 'schon': 1, 'von der': 1, '.': 1, 'sind': 1, 'nun': 1, 'über': 1, 'von den Plänen': 1, 'und': 1, ', mit': 1, 'einen': 1, 'mü': 1}

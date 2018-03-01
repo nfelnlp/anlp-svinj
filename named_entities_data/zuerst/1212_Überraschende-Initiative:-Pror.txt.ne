@@ -1,0 +1,1 @@
+{'Ukraine': 1, 'in': 1, 'in der': 1, 'einen': 1, 'Vorstoß': 1, '.': 1, 'hätten die': 1, 'Gründung': 1, 'neuen': 1, 'neuen Staates': 2, 'neue': 1, '1917': 1, '„Malorossia': 1, 'ukrainische': 1, 'Status': 1, '„historischen': 1, 'handle': 1, 'aus': 1, '”': 1, 'hinzu': 1, 'hinzu .': 1, 'Er': 1}

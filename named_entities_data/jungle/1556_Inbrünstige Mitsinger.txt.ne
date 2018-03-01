@@ -1,0 +1,1 @@
+{'DFL': 1, 'Tack': 1, 'Darmstadt': 1, '–': 1, 'Bundesliga': 1, 'gestellt': 1, 'Verständnis': 1, ')': 1, 'Exklusiven ,': 1, 'die': 2, 'sind': 1, 'Rahmen': 1, 'was veröffentlicht': 1, 'die heile': 1, 'würden': 1, 'richtig': 1, 'eben die': 1, 'damit': 1, 'Journalisten': 2, ',': 3, 'der': 1, 'Aufgabe': 1, 'vor': 1, 'kann': 1, 'bloße': 1, '.': 1, 'weniger': 1}

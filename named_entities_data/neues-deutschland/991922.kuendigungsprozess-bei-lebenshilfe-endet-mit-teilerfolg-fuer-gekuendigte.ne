@@ -1,0 +1,1 @@
+{'Frankfurt am Main': 1, 'Basisgewerkschafter': 1, 'Joel Schmidt': 1, 'Der': 1, 'Main': 1, 'Prozess': 1, 'e.V . endete': 1}

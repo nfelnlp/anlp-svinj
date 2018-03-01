@@ -1,0 +1,1 @@
+{'Sonntagabend': 1, '.': 1, 'einer': 1, 'gekommen': 1, 'seine': 1, 'Prozent': 1, 'trudeln': 1, 'eine': 1, 'Landesverband doch als': 1, 'ihnen': 1, 'Treffen': 1, 'schwer': 1, 'in': 1, 'unterschiedliche Meinungen': 1, 'bei': 1, 'erzählt': 1, 'Basis missfällt': 1, '»': 1, 'den': 1, 'Meinung sich': 1, 'Gegenteil': 1, 'Gegenteil ändern': 1, 'von': 1, 'worden ,': 1, 'lieb': 1}

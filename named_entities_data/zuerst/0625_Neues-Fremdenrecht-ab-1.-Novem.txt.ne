@@ -1,0 +1,1 @@
+{'Wien': 1, 'Österreich': 1, 'neben': 1, 'Sobotka kündigte': 1, 'zu': 1, ',': 1, 'So': 1, 'Nigerianern': 1, 'Afghanen': 1, 'bei': 1, 'Dementsprechend': 1, 'veröffentlichten': 1}

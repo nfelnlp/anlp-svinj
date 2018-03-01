@@ -1,0 +1,1 @@
+{'Deutschland': 1, 'sagte , dass psychische': 1, 'seinem': 1, 'einer': 1, 'Kinder': 1, 'das': 1, 'jeweils': 1}

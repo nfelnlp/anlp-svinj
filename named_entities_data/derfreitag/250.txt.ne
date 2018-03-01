@@ -1,0 +1,1 @@
+{'Max Mannheimer': 1, 'Prager/imago Fünf blassblaue Ziffern': 1, '. Sie': 1, 'war': 1, 'Ehefrau': 1, 'im': 1, '37': 1, 'und': 2, 'veröffentlicht': 1, 'bekannte Stimme': 1, 'sind ,': 1, 'dünn': 1, 'was': 1}

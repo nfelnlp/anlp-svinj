@@ -1,0 +1,1 @@
+{'Bowie': 1, 'Images': 1, 'mit': 1, 'Nichts': 1, 'im': 1, 'feinsinnigen': 1, 'zurückhaltenden': 1, 'Dieser': 1, 'vom': 1, 'auch Bowies neues': 1, 'The': 1, 'liegt allerdings': 1, 'gerieren': 1, '.': 1, 'erinnern': 1, 'das': 1, 'Day ebenso wenig': 1, '. Stattdessen': 1, 'Itunes': 1}

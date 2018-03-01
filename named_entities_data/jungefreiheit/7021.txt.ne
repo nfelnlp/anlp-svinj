@@ -1,0 +1,1 @@
+{'der': 1, '.': 1, 'das': 1, 'einen radikalen': 1, 'Denn der': 1, 'richtete sich': 1, 'erster Linie': 1, '\x84historische': 1, 'er': 1, 'Parallelen': 1, 'Ideenwechsel nahe': 1, 'wie': 1, 'durch': 1, ',': 2, '\x84nationalen': 1, 'seiner': 1, 'des': 1, 'Christentums': 1, 'Carl': 1, ': \x84Sallust': 1, 'unsicher :': 1, 'von': 1, 'habe': 1, 'Tendenz': 1}

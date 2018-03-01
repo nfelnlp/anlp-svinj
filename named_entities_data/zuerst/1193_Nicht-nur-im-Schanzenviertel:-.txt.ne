@@ -1,0 +1,1 @@
+{'Athen': 1, 'Hauptstadt': 1, 'hat': 1, 'zu': 2, 'Innenstadt': 1, 'hatte': 1, 'und': 1, 'ein parteiloser': 1, ',': 1, 'bevorzugte': 1}

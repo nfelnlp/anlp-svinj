@@ -1,0 +1,1 @@
+{'DDR': 1, 'sowjetischen': 1, 'EU-Bürger': 1, 'ja frei': 1, 'sind': 1, ',': 2, 'Dann': 1, 'waren': 1, 'gerechnet': 1, 'fangen': 1, 'würde': 1, 'Gesetzesregelung': 1, 'es': 1, 'mich': 2, 'wir': 1, 'deutsche': 1, 'nicht möglich': 1, '.': 1, 'das': 1, 'lieben': 1, 'den Rechtsextremen': 1, 'zuletzt': 1, '1982': 1, 'die': 1, 'Landkreis': 1}

@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Ludwigshafen': 1, 'Polizei': 2, 'Postbank': 1, 'Wuppertal': 1, 'Problembereich': 1, 'Woche': 1, 'ausländischen': 1}

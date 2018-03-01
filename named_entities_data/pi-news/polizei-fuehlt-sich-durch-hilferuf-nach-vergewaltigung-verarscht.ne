@@ -1,0 +1,1 @@
+{'Mitternacht': 1, 'Andam X. , einer': 1, 'PI': 1, 'mit': 1, 'ernst . Anstatt': 1, 'zu': 1, 'sollte eigentlich schon': 1, 'darüber': 1, 'der Polizei': 1, 'Nacht ,': 1, '.': 1}

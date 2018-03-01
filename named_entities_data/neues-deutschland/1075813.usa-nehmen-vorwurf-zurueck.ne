@@ -1,0 +1,1 @@
+{'. Das': 1, 'von': 1, 'laut der': 1, 'Miami': 1, 'Demnach habe': 1, 'akustischen': 1, 'nach Kuba': 1, 'Menschen': 1, 'Übelkeit': 1, 'der': 1, 'ausgesetzt': 1, '»': 1, '«': 1}

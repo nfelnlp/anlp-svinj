@@ -1,0 +1,1 @@
+{'Yoko Ono': 2, 'Otto Man': 1, ',': 1, 'viele': 1, 'weil': 1, '? War es': 1, 'die alles': 1, 'Dass': 1, 'die': 1, '–': 1, 'wöchentliche': 1}

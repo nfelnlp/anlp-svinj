@@ -1,0 +1,1 @@
+{'Berlin': 1, 'Christoph Gröner': 1, 'Michael Müller': 1, 'SPD': 1, 'Gröner': 1, 'Linksextremisten': 1, 'Rundfunk Berlin Brandenburg': 1, 'Vermummten': 1, 'schreibt': 1, '„Wenn': 1, 'erst': 1, '.': 1}

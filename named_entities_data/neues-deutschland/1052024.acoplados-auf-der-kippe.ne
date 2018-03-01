@@ -1,0 +1,1 @@
+{'Zuvor': 1, 'Entscheidung': 1, 'Enteignung der ehemaligen': 1}

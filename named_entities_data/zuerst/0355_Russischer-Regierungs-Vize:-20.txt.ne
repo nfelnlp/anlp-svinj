@@ -1,0 +1,1 @@
+{'auf': 1, 'als': 1, 'zwischen': 1, 'N': 1, 'dem': 1, 'zu': 1, 'Rußland': 1, 'die': 2, '–': 1, '.': 1, 'ist': 1}

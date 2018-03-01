@@ -1,0 +1,1 @@
+{'Brüssel/Belgrad': 1, 'Ein': 1, ',': 2, 'errichten': 1, 'Uzice': 1, 'Südwestserbien': 1, 'Wie': 1, 'will': 1, 'den': 1, 'Zentrum': 1, 'daß': 1, 'für': 2, 'Projektes': 1, 'Idee als': 1, 'bezeichnet': 1, 'Jugoslawien': 1, 'völlig': 1, 'bei': 1, 'Boot': 1, 'bedeutsame': 1, 'der': 1, 'könnte': 1, ')': 1}

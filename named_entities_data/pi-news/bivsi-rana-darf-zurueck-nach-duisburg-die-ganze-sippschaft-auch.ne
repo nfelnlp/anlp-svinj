@@ -1,0 +1,1 @@
+{'CHEVROLET': 1, 'Bivsi': 2, 'und': 1, 'ihrem': 1, 'Gejammer': 1, 'die': 2, 'Himalaya-Gebirge': 1, 'Touristen': 1, 'was': 1, 'wo': 1, 'trotzdem': 1, 'in': 1, 'mit': 1, 'Deutschland': 1, 'Abitur': 1, 'man': 1, '.': 1, 'natürlich': 1, ',': 2, 'Felix': 1, 'Sprecher': 1, '? )': 1, 'um der': 1, 'das': 1, 'schnell': 1, 'bereit': 1}

@@ -1,0 +1,1 @@
+{'. Frankreich schiebt': 1, '. Frankreich schiebt die': 1, 'sagte am': 1, 'seien': 1, 'Kabinettssitzung in': 1, 'Gegenzug': 1, 'ein': 1, ',': 1, 'Grenze': 1, 'Kritik': 1, 'schweren': 1, 'Macron mangele': 1, 'an Entschlossenheit': 1, 'mache': 1, '» ausgelatschten': 1, 'Atomindustrie': 1}

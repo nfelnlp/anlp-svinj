@@ -1,0 +1,1 @@
+{'CANTALOOP': 1, 'SPD-Funktionärin': 1, 'ihres': 1, ',': 1, 'Einsicht': 1, 'ist die': 1, 'Volke': 1, 'ihre': 1, 'Die': 1, 'entfernt': 1, '?': 1, 'Führung': 1, 'die': 1}

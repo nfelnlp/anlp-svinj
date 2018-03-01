@@ -1,0 +1,1 @@
+{'Washington': 1, 'vor den': 1, 'im Frühjahr': 1, 'damals': 1, ',': 3, 'Entmachtung Saddam': 1, 'Jetzt': 1, 'Präsidenten Assad': 1, 'einer': 1, 'in': 1, 'wo': 1, 'Häftlinge': 1, '2016': 1, 'der': 1, 'der in': 1, 'Greuel': 1, 'Stützpunkt': 1, 'syrischen': 1, 'beschießen': 1, 'als': 1, 'keinerlei': 1, '.': 1}

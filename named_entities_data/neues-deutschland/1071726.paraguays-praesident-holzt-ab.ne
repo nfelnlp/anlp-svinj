@@ -1,0 +1,1 @@
+{'die': 1, 'Staatspräsident': 1, '. In': 1, 'zwei': 1, 'Chaco': 1, 'dem': 2, 'Argentinien': 1, 'Bolivien': 1, '.': 1, 'den': 2, 'auch': 1, 'Verwüstung': 1, 'jeder': 1, ',': 2, 'Rinderbaronen': 1, 'Platz': 1, 'der': 1, 'Rodungen': 1, 'im': 1, 'eine Verfassungsklage': 1, 'und': 1, 'so': 1, 'Earthsight': 1}

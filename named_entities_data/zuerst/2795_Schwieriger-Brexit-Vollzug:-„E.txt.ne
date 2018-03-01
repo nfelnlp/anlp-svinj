@@ -1,0 +1,1 @@
+{'London/Brüssel': 1, 'Um': 1, 'ist': 2, 'ungeordneten': 1, 'hinauslaufen': 1, 'werden': 1, 'schaffen': 1, 'ein': 1, 'geht': 1, 'Summe': 1, 'die': 2, 'hat': 1, 'Großbritannien': 1, 'Artikel': 1, 'würde': 1, 'britische': 1, '.': 1, '“ ( mü': 1}

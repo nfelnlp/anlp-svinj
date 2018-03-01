@@ -1,0 +1,1 @@
+{'Detroit': 1, 'hat': 1, 'Auto': 1, 'dänischen Exil': 1, '.': 1, 'er': 2, 'Detroiter Werken': 1, ',': 2, 'T-Modell von': 1, 'würde': 1, 'ein Vorbild': 1, 'noch niemand ,': 1, '. Gemeint': 1, 'vor': 1, 'zum': 1, '“': 1, 'Schwere': 1, 'permanenter Selbstverschwendung': 1, 'stehen': 1, 'gelte': 1, 'das': 1, 'Zeitalter': 1}

@@ -1,0 +1,1 @@
+{'Brüssel/Kiew': 1, 'Seit': 1, 'Tropf': 1, 'des': 1, '. Doch': 1, 'der': 1, 'jetzt': 1, 'weitere': 1, 'daß': 1, 'Land': 1, 'weil': 1, 'Strafverfolgungseinrichtungen': 1, 'für': 1, ',': 1, 'dem': 1, 'Befund': 1}

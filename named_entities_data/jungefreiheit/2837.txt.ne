@@ -1,0 +1,1 @@
+{'überführen': 1, 'Verwandlung': 1, 'ewig': 1, 'ins': 1, 'Das': 1, 'werden ;': 1, 'von': 2, 'gibt': 1, 'macht': 1, 'weil': 1, 'unsere Maschinen': 1, ',': 2, 'den': 1, 'Tapferen': 1, 'Herrschaftssicherung': 1, ':': 2, 'alle , ästhetischen': 1, 'diese': 1, 'sein': 1, 'Karat': 1, 'Die': 1, 'nicht': 1, 'der': 1, 'das': 1, '.': 1, 'sagt': 1, 'sich selber': 1}

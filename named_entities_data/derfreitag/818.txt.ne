@@ -1,0 +1,1 @@
+{'Foto': 1, 'geschafft': 1, 'Auch „übermäßig': 1, 'dem': 1, 'Schreiben': 1, 'weist': 1, 'die': 1, 'verbietet': 1}

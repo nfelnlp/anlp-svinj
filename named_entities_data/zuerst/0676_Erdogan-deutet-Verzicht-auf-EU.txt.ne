@@ -1,0 +1,1 @@
+{'Ankara': 1, 'EU-Beitritt': 1, 'jetzt': 1, 'der': 1, ':': 1, '“': 1, 'machen': 1, 'kann': 1, 'Positionsbestimmung': 1, ',': 2, 'ermöglichen': 1, 'Türkei': 1, 'dagegen': 1, 'halt': 1}

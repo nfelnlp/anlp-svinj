@@ -1,0 +1,1 @@
+{'noch': 1, 'Comicszene': 1, 'bislang': 1, 'letzten': 1, 'Teil': 1, 'traf ich': 1, 'den': 1, 'Comiczeitung Penguen': 1, 'mich': 1, 'um zu': 1, 'Penguen': 1, 'ist': 1, '–': 1, 'ersten Blick': 1, 'türkische': 1, 'Punkt': 1, 'machen ,': 1, 'dass die': 1, 'nicht': 1, 'Frau': 1, 'die': 3, 'lösen': 1, 'immer': 1, 'viele': 1, 'Zensur': 1, 'zermürben': 1, 'Auflagen': 1, '.': 1}

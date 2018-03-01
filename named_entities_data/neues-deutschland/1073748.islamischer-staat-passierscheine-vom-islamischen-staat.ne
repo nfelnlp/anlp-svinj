@@ -1,0 +1,1 @@
+{'des': 1, 'Unternehmen': 1, 'geriet': 1, 'Al-Nusra-Front und': 1, 'mit': 1, 'mit 200.000': 1, 'es sich': 1, 'bei den': 1, 'später': 1, 'fort': 1, 'räumte': 1, 'von': 1, 'Außenministerium zur Sicherheitslage vor': 1, 'Präsenz': 1, 'uns': 1, 'Das': 1, 'sogar': 1, 'und': 2, 'den': 1, 'Organisation': 1, 'Ermittlungsrichter': 1, 'jetzt ,': 1, '.': 1, 'die Spitzenmanager': 1}

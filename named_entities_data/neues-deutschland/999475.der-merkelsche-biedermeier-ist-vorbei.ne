@@ -1,0 +1,1 @@
+{'ist aktiv': 1, 'Ausgangspunkt für': 1, 'als': 1, 'in': 1, '.': 1, 'sind': 1, 'und': 1, 'Europa': 1, 'Die': 1, 'hat': 1, 'dagegen': 1, 'Polarisierung': 1, 'in Ordnung war .': 1, 'nichts': 1, 'finden': 1}

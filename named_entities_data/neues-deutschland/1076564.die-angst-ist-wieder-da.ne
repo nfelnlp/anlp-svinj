@@ -1,0 +1,1 @@
+{'Ziguinchor': 1, 'rund': 1, '.': 1, 'es': 1, 'der': 1, 'übernommen': 1, 'seit': 1, 'Nach': 1}

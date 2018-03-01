@@ -1,0 +1,1 @@
+{'am': 1, 'am Main . Im Steuerskandal': 1, 'vergangene Woche': 1, 'in': 1, 'die': 1, 'war von der': 1, 'weil': 1}

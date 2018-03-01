@@ -1,0 +1,1 @@
+{'. Die': 1, 'waren ,': 1, 'nur etwa': 1, 'Kilometer .': 1, 'privaten Naturschutzreservats': 1, 'über einer': 1, 'Bisons': 1, 'Dort': 1, 'Sioux-Stämme': 1, 'wieder neu': 1, 'Unsere Tiere': 1, ':': 1, ': Langzeit-Empfängnisverhütung': 1}

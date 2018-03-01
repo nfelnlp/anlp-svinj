@@ -1,0 +1,1 @@
+{'“': 1, 'von': 1, 'verramscht': 1, 'nur': 1, 'ich': 1, 'Diesmal': 1, 'Diese': 1, 'sich': 1, 'Kalkutta': 1, 'ihren': 1, '.': 1, ',': 1}

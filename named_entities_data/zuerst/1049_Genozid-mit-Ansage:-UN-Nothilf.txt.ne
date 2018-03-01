@@ -1,0 +1,1 @@
+{'Schwarzafrika': 1, 'Vereinten Nationen': 1, 'Zentralafrikanischen Republik': 1, 'Stephen': 1, 'Brien in': 1, 'York .': 1, 'sagte': 1, '. In': 1, 'des christlichen': 1, 'der Afrikanischen': 1, 'zu': 1, 'Kolonialmacht': 1, 'in': 1, 'der': 1, 'Hauptstadt': 1, 'Der': 1, '.': 1}

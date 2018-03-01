@@ -1,0 +1,1 @@
+{'Pax Europa': 1, 'Islam': 1, ',': 3, 'und': 2, 'waren': 1, 'Landeshauptstadt': 1, 'zu': 1, 'faktisch': 1, '“': 1, ':': 1, 'Kundgebung': 1, 'mit': 1, 'der St.': 1, 'Viele': 1, '.': 1, 'Live-Videos': 1, ', die auf seiner': 1, 'den': 1, 'RTL und': 1, '. 2003/2004 war er': 1, 'der CSU-München': 1, 'Josef Strauß-Tochter': 1, 'Youtube haben': 1, 'Facebookseite': 1}

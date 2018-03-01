@@ -1,0 +1,1 @@
+{'Südafrikanerin': 1, 'vor': 1, 'sie': 1, 'zwei': 1, 'Geschlecht': 1, 'nichts': 1, 'weiblich': 1, 'fundamental': 1, 'und': 2, 'nicht': 1, 'des': 1, '“ Er': 1, 'dabei auf': 1, ',': 2, '„männlich': 1, 'oder': 1, 'es': 1, 'Frage': 1}

@@ -1,0 +1,1 @@
+{'für die': 1, 'und': 2, 'wird': 2, ',': 1, 'gilt': 1, 'USA': 1, 'Nachsorgeprinzip': 1, 'Signalwirkung': 1, 'den': 1, 'Sojaplantagen': 1, 'von': 1, 'die Welt': 1}

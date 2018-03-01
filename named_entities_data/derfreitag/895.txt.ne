@@ -1,0 +1,1 @@
+{'Weinstein': 1, 'Spencer Platt/Getty': 1, 'Die': 1, ': Die': 1, 'gefeuert': 1, 'gefeuert ,': 1, 'Guild': 1, 'angekündigt – vorher soll': 1, ',': 2, 'weil': 1, 'der Dinge': 1, 'womöglich': 1, 'geahndet': 1, '.': 2, 'spielen': 1}

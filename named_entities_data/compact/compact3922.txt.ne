@@ -1,0 +1,1 @@
+{'_von Josefine Barthel': 1, 'Krieg': 1, 'Wer': 1, 'und': 1, 'wenn': 1, 'sie in': 1, ',': 3, 'Menschen': 1, 'Kind': 1, 'ist': 1}

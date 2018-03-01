@@ -1,0 +1,1 @@
+{'Washington': 1, 'US-Präsident': 1, 'seine': 1, 'zu': 1, ',': 1, 'im Fernsehsender': 1, 'Obama-Regierung': 1, 'stark': 1, 'aber': 1, 'Arbeit': 1, 'wiederholt': 1, 'ein': 1}

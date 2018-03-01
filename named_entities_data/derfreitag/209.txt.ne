@@ -1,0 +1,1 @@
+{'AFP/ Getty': 1, 'Laut': 1, 'Internetseiten': 1, 'derer': 1, 'wir': 1, 'so': 1, 'lassen ,': 1, 'Millionen Schritte': 1, 'weniger': 1, 'von': 1, 'ist': 1}

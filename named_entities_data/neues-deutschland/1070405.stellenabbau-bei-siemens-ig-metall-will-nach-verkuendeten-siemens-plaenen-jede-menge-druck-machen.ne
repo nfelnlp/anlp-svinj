@@ -1,0 +1,1 @@
+{'. Der': 1, 'Stellenstreichungen': 1, 'Berlin ,': 1, 'Berlin , Klaus': 1, ', warf': 1, 'kündigte': 1, 'jede': 1, 'Donnerstag': 1, 'Standorte': 1, 'Freitagvormittag': 1, 'Der': 1, 'Florian': 1, 'SPD': 1, ',': 1, 'im Bayerischen': 1, 'von': 1, 'am Standort': 1, '120': 1, 'habe': 1, 'der': 1, 'AFP/nd': 1}

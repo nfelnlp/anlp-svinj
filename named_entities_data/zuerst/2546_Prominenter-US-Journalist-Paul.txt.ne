@@ -1,0 +1,1 @@
+{'Washington': 1, 'USA': 1, 'Donald Trump': 1, ',': 2, 'Bannon ,': 1, 'der': 1, 'hatte sein Amt': 1, 'dem': 1, 'zeitweise Mitherausgeber': 1, 'jetzt': 1, 'den': 1, '–': 1, 'zu': 1, 'Kriegsverbrechern der': 1, 'stellen “': 1, 'schreibt': 1, 'Was': 1, 'ehrlicher': 1, 'bräuchte': 1, 'Wahrheit': 1, 'oder': 1, 'die': 1}

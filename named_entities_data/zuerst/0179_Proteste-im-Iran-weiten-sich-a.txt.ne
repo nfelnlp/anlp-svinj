@@ -1,0 +1,1 @@
+{'Teheran': 1, 'Iran': 1, 'Ayatollah Khamenei': 1, '„Die': 1, 'treffen': 1, 'treffen ”': 1, 'konkreter': 1, 'von einem': 1, 'die': 2, 'kommen': 1, '”': 1, '.': 2, 'kommentierte': 1, 'Trump auf Twitter': 1, 'für': 1, 'organisierten': 1, 'Personalien': 1, 'die Proteste': 1, 'organisieren': 1, 'organisieren .': 1, 'Blatt': 1, 'pro-amerikanischen': 1, '(': 1}

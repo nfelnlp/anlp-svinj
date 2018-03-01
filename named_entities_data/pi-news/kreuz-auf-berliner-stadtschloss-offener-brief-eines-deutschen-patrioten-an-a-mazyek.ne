@@ -1,0 +1,1 @@
+{'“': 1, 'stets': 1, 'Obermuslim': 1, 'auf': 2, 'Ebene': 1, 'auch': 1, ',': 1, 'unterstehenden': 1, 'Schwestern': 1, 'Meinung': 1, 'die': 3, 'ich Ihnen auch': 1, 'aus': 1, 'der': 1, 'besondere': 1, 'in': 1, '.': 1, 'man': 2, 'wie „Deutschland': 1, 'es': 1, '„unser': 1, 'tatsächlich': 1, 'ja': 1, 'werden': 1, 'würde': 1, 'soweit': 1, 'Nun': 1}

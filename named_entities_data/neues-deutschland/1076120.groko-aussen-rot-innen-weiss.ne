@@ -1,0 +1,1 @@
+{'Seehofer': 1, 'Merkel': 1, 'Schulz': 1, 'Kurt Tucholsky': 1, 'SPD': 3, 'Weimarer Republik': 1, 'Union': 1, 'Willy-Brandt-Haus': 1, 'wurden ,': 1, '.': 3, 'soll': 1, 'CETA': 1, 'der': 2, 'und der': 1, 'Die': 2, ',': 2, '40 Prozent': 1, ', die': 1, 'sind': 2, 'Anträge': 1, 'Sozialdemokraten': 1, 'reiben': 1, 'Denn': 1, 'in': 1, 'und': 2, 'haben': 1}

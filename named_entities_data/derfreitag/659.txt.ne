@@ -1,0 +1,1 @@
+{'Bei': 1, 'historische Ereignisse': 1, 'Hauptstadt': 1, 'Algorithmus programmiert': 1, 'der die': 1, 'der Ämter': 1, 'Kolonisierung öffentlicher': 1, ',': 1}

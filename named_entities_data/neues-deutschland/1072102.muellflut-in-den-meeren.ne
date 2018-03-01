@@ -1,0 +1,1 @@
+{'Jangtse': 1, ',': 2, 'der': 4, 'ins': 1, 'Indien': 1, 'Abstand': 1, 'Umweltforschung': 1, 'für': 1, 'Weihenstephan-Triesdorf zusammengetragen haben , liegen': 1, '88': 1, '.': 3, 'Tonnen': 1, 'sichtbar': 1, 'am': 1, 'aus': 1, 'Euro': 1, 'an . Der': 1, 'einsetzt .': 1, 'um': 1, 'sollte mehr': 1, 'würde': 1, 'fundamental': 1}

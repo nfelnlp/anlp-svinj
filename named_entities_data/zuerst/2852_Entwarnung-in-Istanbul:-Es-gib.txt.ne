@@ -1,0 +1,1 @@
+{'Istanbul': 1, 'deutsch-türkischen': 1, 'kann': 1, 'eine': 1, ':': 1, 'dem': 1, 'dem Thema': 1, 'Weihnachtsverbot habe': 1}

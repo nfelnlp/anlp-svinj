@@ -1,0 +1,1 @@
+{'wollen': 1, 'im': 1, 'gleich': 1, 'Wann': 1, '.': 2, '. Ein': 1, 'ihre': 1, '»': 1, '. »': 1, 'künftig': 1, 'innenpolitisch': 1, ',': 4, 'auf': 1, 'Poroschenko-Konkurrenten': 1, 'der': 1, 'biometrischer': 1, 'ist': 2, 'das': 1, 'jedoch': 1, 'jedoch bisher': 1, 'Ukraine': 2, 'Grenze': 1, 'weniger': 1, 'Fingerabdrücke': 1, 'haben': 1, 'Zeichen': 1, 'einführt': 1}

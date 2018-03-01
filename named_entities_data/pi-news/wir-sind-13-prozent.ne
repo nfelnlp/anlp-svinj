@@ -1,0 +1,1 @@
+{'Prozent': 1, 'wir': 1, '. Unangenehme': 1}

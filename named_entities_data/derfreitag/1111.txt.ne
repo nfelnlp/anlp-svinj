@@ -1,0 +1,1 @@
+{'AFP': 1, 'Getty': 1, 'Indischen Volkspartei': 1, 'Indischen Volkspartei BJP': 1, 'erkaufte': 1, 'dort': 1, 'auf': 1, '.': 1, 'ist': 1, 'dass': 1, 'alle': 1, 'Anhänger ,': 1, 'diese': 1, 'in': 1, 'drohte': 1, 'hat': 1, 'dem': 1}

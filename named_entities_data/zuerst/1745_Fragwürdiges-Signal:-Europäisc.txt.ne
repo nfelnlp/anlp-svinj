@@ -1,0 +1,1 @@
+{'Brüssel': 1, 'EU': 1, 'verabschiedet': 1, 'Der': 1, 'auf': 1, 'Migration': 1, 'Tagen': 1, 'Straßburg reisen': 1, '.': 1, 'und': 1}

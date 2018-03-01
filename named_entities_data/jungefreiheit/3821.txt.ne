@@ -1,0 +1,1 @@
+{'SPD': 1, '52 auf': 1, 'großer': 1, 'sind': 1, 'Volk': 1, 'im': 1, ', aber': 1, 'angeführt': 1, 'Clement': 1, 'Mark .': 1, '. Hinzu': 1, 'Sonderregelungen': 1, '.': 1, 'gelten': 1, 'die': 2, 'Milliarden': 1, 'nicht': 1, 'auf dieses': 1, 'auf': 1, 'Strom-': 1, 'pro': 1, ',': 1, 'noch': 1, 'der': 1, 'größerer': 1, 'ihre': 1, 'Politiker': 1}

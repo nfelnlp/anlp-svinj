@@ -1,0 +1,1 @@
+{'Arabische': 2, 'Getty': 1, ',': 1, 'nur': 1, 'Euro': 1, 'derzeit': 1, 'Tunesien und dem': 1, 'Indien': 1, 'Pakistan': 1, 'während': 1, 'hoch': 1, 'Privatökonomie': 1, 'die': 1, '40': 1, 'auf': 1, 'schärferer': 1, 'einen mäßig': 1, 'Frauen': 1}

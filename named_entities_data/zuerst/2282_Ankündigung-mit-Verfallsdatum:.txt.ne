@@ -1,0 +1,1 @@
+{'Brüssel': 1, 'EU-Kommission': 1, 'Avramopoulos': 1, ',': 2, 'Maßnahmen': 1, 'im': 1, 'verwies': 1, 'daß': 1, 'in Malta': 1, 'von Rückkehrflügen': 1, 'kürzlich': 1, 'von': 1, 'würden': 1, 'hat': 1}

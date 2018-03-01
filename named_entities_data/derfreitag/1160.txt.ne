@@ -1,0 +1,1 @@
+{'Images Nie': 1, 'der': 1, '. So': 1, 'Egal': 1, 'Egal wie': 1, '-': 2, ',': 2, 'erster Linie': 1}

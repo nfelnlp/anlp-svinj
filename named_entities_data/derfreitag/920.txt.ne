@@ -1,0 +1,1 @@
+{'Dobrindt': 1, 'Wöllk/Imago': 1, 'erweist sich': 1, 'CSU': 2, 'sich': 2, 'Linken': 1, 'Der': 1, 'Wahlvolk': 1, 'Umweltbundesamt': 1}

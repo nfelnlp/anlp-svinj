@@ -1,0 +1,1 @@
+{'.': 1, '. Die': 1, 'gegen': 1, 'Gegen ein': 1, 'Atomwaffengegner': 1, 'mit .': 1, 'Cochem': 1, 'anhängig': 1, 'verteilt': 1, 'wirft': 1, 'vor': 1, 'aufgerufen': 1}

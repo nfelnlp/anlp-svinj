@@ -1,0 +1,1 @@
+{'Unsere imperiale': 1, 'Professor an': 2, 'und Markus': 1, 'und Recht Berlin': 1, 'für': 1, 'für die': 1, 'in': 1, ',': 1, 'dem': 1, 'Das': 1, 'von massiven': 1, 'die A': 1, ', linke': 1, 'überbrücken': 1, '1600 Stunden': 1, 'aus': 1, 'der': 1, 'Autos': 1, 'Diskussion .': 1, 'musste': 1, 'genannte': 1, 'führen würde': 1, 'Aber': 1}

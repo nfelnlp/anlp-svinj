@@ -1,0 +1,1 @@
+{'Moskau/Berlin': 1, 'Laut': 1, '(': 1, ')': 1, 'AHK': 1, 'über': 1, '. Die': 1, '2014': 1, 'beteiligt': 1, 'Kritiker': 1, '.': 1, 'mich': 1, 'Nord': 1, 'werden': 1}

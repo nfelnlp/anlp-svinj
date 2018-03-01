@@ -1,0 +1,1 @@
+{'Washington': 1, 'Transgender-Menschen': 1, 'macht auch dieser': 1, 'der': 1, 'Entscheidung': 1, 'Verabschiedung von': 1, 'Washington stoppte seine': 1, 'einstweiliger': 1, 'die': 1, 'weitere': 1}

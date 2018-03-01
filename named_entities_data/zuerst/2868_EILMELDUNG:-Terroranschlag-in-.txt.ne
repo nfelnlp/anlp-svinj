@@ -1,0 +1,1 @@
+{'Gesellschaft 12 Berlin': 1, 'Charlottenbrug': 1, 'Polizei': 1, 'räumt': 1, ',': 1, 'Interview mit dem': 1, 'den': 1, 'Mal mit': 1, 'gibt': 1, 'unmittelbar nach dem': 1, 'Vorfall': 1, '22.00': 1, 'via': 1, 'eine verdächtige': 1, 'in': 1, 'Siegessäule': 1, 'Verletzte': 1, 'zu verzeichnen': 1, 'Personen': 1}

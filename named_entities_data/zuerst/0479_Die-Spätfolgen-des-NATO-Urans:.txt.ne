@@ -1,0 +1,1 @@
+{'Belgrad': 1, 'NATO-Überfall': 1, 'der': 3, 'will': 1, 'Rechenschaft': 1, 'bzw': 1, 'Dokumente': 1, 'Menschen': 1, 'Stoffe': 1, ',': 1, 'Plan': 1, 'daß': 1, '.': 2, 'ihnen': 1}

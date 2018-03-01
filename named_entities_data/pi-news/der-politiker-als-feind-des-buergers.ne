@@ -1,0 +1,1 @@
+{'CANTALOOP': 1, 'Kandel': 1, 'Malu Dreyer': 1, 'zwischenzeitlich': 1, 'bei': 1, 'Verursacher': 1, 'den': 1, 'unlauteren Methoden': 1, ',': 1, 'eifrig': 1, '“': 1, 'der': 1, 'bis': 1, 'und': 1, '„Schonung “': 1, 'auf': 1, 'auf die': 1, 'auf die unterstützenden': 1, 'Ganz': 1, 'affirmative': 1, 'es': 1}

@@ -1,0 +1,1 @@
+{'Fischer |': 2, 'dem': 1, 'sich': 1, ',': 1, '.': 1, 'seit': 1, 'das': 1, 'der': 2, 'pixelio.de': 1, 'Und': 1, 'Christian': 1, '2013er Bilderberger': 1, 'Die': 1, 'Vermassung der': 1, 'Metropolis': 1, 'Wächter': 1, 'sie': 1, 'Abweichler': 1}

@@ -1,0 +1,1 @@
+{'Wirbel': 1, '.': 1, 'führen': 1, 'Italiener': 1, 'als': 1, 'Seite': 1, 'unterschreiben': 1, 'an': 1, 'das': 2, 'das Feuer': 1, 'Der': 1, 'die': 1, 'Die': 1, 'MSF-Chef Loris': 1, 'noch': 1, 'der französische Hilfsorganisation': 1, 'Schon im': 1, 'der': 2, 'alle': 1, ', dass': 1, 'ist .': 1, ',': 1, 'zeigt': 1, 'Umtrieben': 1, 'und': 1, 'obige': 1, 'was': 1}

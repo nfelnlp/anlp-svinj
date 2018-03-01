@@ -1,0 +1,1 @@
+{'Berlin': 1, 'zufolge hat': 1, '( CDU': 1, 'der': 1, 'versprochen': 1, 'einem': 1, ', dem': 1, ',': 2, 'Mark': 1, 'verpflichtet .': 1, 'Asylkrise': 1, 'an': 1, 'konkreten Zahlen': 1, 'ebenfalls': 1, 'laut': 1, 'jährlich': 1, 'für': 1, 'Gesundheit': 1, 'Platz': 1}

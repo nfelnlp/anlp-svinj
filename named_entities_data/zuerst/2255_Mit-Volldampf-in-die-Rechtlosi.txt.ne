@@ -1,0 +1,1 @@
+{'Pretoria': 1, 'Südafrika': 1, 'und': 1, 'schlechtem': 1, 'angekündigt ,': 1, 'als': 1, 'In': 1, 'Teil': 1}

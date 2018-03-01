@@ -1,0 +1,1 @@
+{'musste': 1, 'nach': 2, 'Der': 1, 'Justizministerium': 2, 'sich zutiefst': 1, 'Justizvollzugs': 1, 'hing': 1, 'bereits': 1, 'dem': 1, 'kranke': 1, 'Kuchen': 1, 'wie': 1, 'nicht': 1, 'Im': 1, 'gibt': 1, 'irgendwelche': 1, 'Resozialisierungsprogramm': 1, 'Gefangenen': 1, 'Gefangenen .': 1, 'mit kognitiven': 1}

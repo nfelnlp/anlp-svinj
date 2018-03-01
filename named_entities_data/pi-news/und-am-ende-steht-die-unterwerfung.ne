@@ -1,0 +1,1 @@
+{'Cantaloop': 1, 'stattfindenden': 1, '“': 1, 'sich': 1, 'muslimische': 1, 'jüngeren': 1, '„zahnloser': 1, 'für': 1, 'ganz': 1, 'feinstem': 1, 'Asylantenheimes respektvoll': 1, 'In': 1, '.': 1, 'Entwicklung': 1}

@@ -1,0 +1,1 @@
+{'Schmitz': 1, 'Tschaikowskys Ballettklassiker . Demnächst': 1, 'Was ’': 1, 'selbst': 1, 'er': 1, ', er': 1, 'über': 1, 'kann man': 1, 'mit': 1, '.': 1, 'Nussknacker': 1, 'eine Zukunft': 1, 'gezeigt ,': 1, 'wer': 1, 'für': 1, 'sieben': 1, 'des Familienlebens': 1}

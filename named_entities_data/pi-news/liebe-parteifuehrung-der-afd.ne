@@ -1,0 +1,1 @@
+{'Deutschland': 1, 'Herrn Erdogan': 1, 'Herrn Schulz': 1, 'Afrika': 1, '. Man gewinnt': 1, 'Schmarotzer': 1, 'mehr': 1, 'auf': 1, 'hetzt': 1, 'bei': 2, 'Aufstand': 1, 'auch': 1, 'am': 1, 'weil': 1, 'der': 1, 'noch': 1, 'sein': 1, 'AfD': 1, 'AfD als absoluten': 1, 'ohne': 1, 'ohne jede Fairness': 1, 'sind': 2, 'wenn': 1, 'eure': 1, 'Partei': 1, 'Ergebnis': 1}

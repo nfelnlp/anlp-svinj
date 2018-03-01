@@ -1,0 +1,1 @@
+{'Gesellschaft 0': 1, 'Gesellschaft 0 Saarbrücken': 1, ',': 1, 'Jobcenters': 1, 'Kooperation': 1, '“': 1, '.': 1, 'Bereichen': 1, 'ihre': 1, 'Mail des Jobcenters': 1, 'Regionalverband': 1, 'eine interne': 1, 'Verfassungsschutz': 1, 'Gefährdungslage': 1, 'Bundesagentur': 1, 'Bei': 1, '. Wer ’': 1, 'glaubt…': 1, 'tw': 1}

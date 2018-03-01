@@ -1,0 +1,1 @@
+{'Parker': 1, '.': 1, 'wurde': 2, 'anfangs': 1, 'wie': 1, 'ließ': 1, 'sieht': 1, 'nach': 1}

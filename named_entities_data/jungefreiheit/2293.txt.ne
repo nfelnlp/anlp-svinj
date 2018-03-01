@@ -1,0 +1,1 @@
+{'wie': 1, '. Kein': 1, 'der': 2, '. Modischen': 1, 'dem': 1, ',': 1, 'den Brotkrumen Hänsel': 1, 'auch daran': 1, 'den': 1, 'der erste': 1, '`` Love': 1, 'für uns sein ganzes': 1, 'lang ein': 1, ', der': 1, 'überhaupt': 1, 'kann ,': 1, 'Ismael .': 1, 'Kurz': 1, 'Leser': 1, 'weitab von': 1, 'man sich': 1, 'es sich': 1, 'erster Satz': 1, 'so souverän': 1}

@@ -1,0 +1,1 @@
+{'. US-Präsident': 1, 'Gemüter': 1, 'Vorgehen': 1, 'Sicherheitskräfte sollten „bitte': 1, 'von': 1, 'Einwohnern': 1, 'Jugendbande': 1, 'mutmaßliche': 1, 'den': 1, '?': 1, 'Dabei': 1, 'Verbrechern': 1, 'davon': 1, 'geschehen': 1, '„Mara': 1, 'Einwanderern gegründet .': 1, 'Sie': 1, 'ruhige': 1}

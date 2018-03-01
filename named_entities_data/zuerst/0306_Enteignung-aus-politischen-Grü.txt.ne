@@ -1,0 +1,1 @@
+{'Braunau/Ried': 1, 'Inn . In': 1, 'ein': 1, 'in': 2, 'Inn , das': 1, 'für Menschenrechte ( EGMR': 1, '.': 1, 'Antrag': 1, 'zu wenig': 1, 'die': 1, 'im': 1, ',': 1}

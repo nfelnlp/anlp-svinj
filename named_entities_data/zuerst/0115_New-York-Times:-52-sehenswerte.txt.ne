@@ -1,0 +1,1 @@
+{'New York': 1, 'amerikanischen': 1, 'New York Times': 1, ',': 1, 'das': 1, 'den': 1, 'Niedersachsen': 1, 'zwar': 1, 'gewonnen .': 1, 'bringen': 1}

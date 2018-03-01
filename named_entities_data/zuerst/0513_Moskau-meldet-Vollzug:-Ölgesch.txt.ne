@@ -1,0 +1,1 @@
+{'Moskau': 1, '(': 1, 'konnte': 1, 'durch': 1, 'jetzt': 1, 'einer': 1, 'ASEAN )': 1, 'ihrer': 1, 'ihrer Partner': 1, 'zum': 1, 'auf': 1, ',': 1, 'zerschlagen': 1, 'Ortschaften': 1, 'verwickelt': 1, 'Öl': 1, 'systematische Bombardierung': 1, 'systematische Bombardierung von': 1, 'Belastbare': 1, '–': 1, 'erfolgreichen': 1}

@@ -1,0 +1,1 @@
+{'Washington': 1, 'keinen Widerstand': 1, 'Gesetz': 1, 'Wahlkampf': 1, 'Ziele': 1, 'Bereitstellung': 1, '.': 2, 'der': 1, ',': 1, 'durch': 1, '(': 1}

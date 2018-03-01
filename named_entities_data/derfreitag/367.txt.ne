@@ -1,0 +1,1 @@
+{'ers-ter': 1, 'der': 1, 'das': 1, 'erläutert': 1, 'Befehle': 1, 'sich': 1, 'des Beraters': 1, 'Überzeugung': 1}

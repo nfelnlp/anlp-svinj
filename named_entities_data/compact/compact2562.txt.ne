@@ -1,0 +1,1 @@
+{'Lydia': 1, 'vor der': 1, 'Familie .': 1, ',': 2, ', Platz 6': 1, 'kommenden': 1, 'in': 2, 'Ja': 1, 'so dar ,': 1, 'Verhältnis zur Entwicklung': 1, 'C : Ist': 1, 'das': 1, 'Umfeldes': 1, 'Zeitung': 1, 'DDR': 1, 'anderem': 1, 'der': 1, 'Eltern': 1, 'zu': 1, 'minderjährigen': 1, 'Könnte': 1, '?': 1, 'welche': 1, 'Eheschließungen': 1, 'Arbeit': 1}

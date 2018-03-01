@@ -1,0 +1,1 @@
+{'.': 1, '. Das': 1, 'Oberbayern': 1, 'herausfinden': 1, 'bei': 1, 'Altötting im': 1, 'Stoff': 1, 'Untersuchungen': 1}

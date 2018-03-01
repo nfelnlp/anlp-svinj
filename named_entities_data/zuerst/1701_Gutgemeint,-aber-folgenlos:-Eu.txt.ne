@@ -1,0 +1,1 @@
+{'Straßburg': 2, 'Osten': 1, 'zu': 2, 'Zwangsumsiedlung': 1, 'im': 1, 'wird': 1, 'in': 1, 'Israel': 1, 'und': 1, 'schwelt': 1, 'sich': 1, 'Palästinenserstaat': 1, 'aber bis heute': 1}

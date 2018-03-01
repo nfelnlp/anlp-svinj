@@ -1,0 +1,1 @@
+{'MacDougall/AFP/Getty': 1, 'Der': 1, 'Bundestagsabgeordnete': 1, 'Angeklagter in': 1, 'Sache': 1, 'sogenannten': 1, 'der': 1, 'Saal auf': 1, 'plaudernd': 1, 'hoch': 1, 'stehen': 1, 'nicht': 1, ', die': 1, 'nicht zur': 1, 'wolle': 1, 'Woche “': 1}

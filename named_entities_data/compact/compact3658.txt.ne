@@ -1,0 +1,1 @@
+{'erklären': 1, 'der': 1, 'werden': 1, 'dein': 1, 'Aufnahme': 1, 'nun': 1, ', so': 1, 'gemeinsam': 1, 'war': 1, 'wurde': 1, 'so': 1, 'daß': 1, 'Bank': 1, 'gezwungen': 1, ',': 1, 'wie': 1}

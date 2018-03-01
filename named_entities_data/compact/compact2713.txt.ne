@@ -1,0 +1,1 @@
+{'Pegida': 1, 'unerträglicher': 1, 'unerträglicher Spießrutenlauf': 1, 'die': 1, 'raus': 1, 'Als': 1, 'los': 1, 'den': 1, 'alle': 1, '„Volksverräter': 1, '“': 1, 'vorne': 1, 'vorstellen': 1, 'von': 2, 'paar': 1, 'Veranstaltungsteilnehmer': 1, 'dass': 1, 'Es': 1, 'an': 1, 'Wir': 1, 'Polizisten': 1, 'ganzen': 1, 'einen': 1, 'mal': 1, 'jüngeren': 1, 'Mit': 1, 'klären': 1}

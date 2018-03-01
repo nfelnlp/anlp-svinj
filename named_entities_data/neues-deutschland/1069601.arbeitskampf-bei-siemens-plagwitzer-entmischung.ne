@@ -1,0 +1,1 @@
+{'Siemens': 1, 'Leipziger': 1, 'Hendrik Lasch': 1, 'Leipzig': 1, 'Plagwitz': 1, 'Karl-Heine-Kanal in': 1, 'Karl-Heine-Kanal in seinem': 1, 'über': 1, '1890': 1, 'Heute': 1, ',': 1, '-': 1}

@@ -1,0 +1,1 @@
+{'Arbeitszeitverlängerung': 1, 'Christa Hourani': 1, 'Betriebsrätin': 1, 'Daimler-Zentrale in Stuttgart': 1, 'Sie': 1, 'IG': 1, 'DGB': 1, 'engagiert': 1, 'sowie': 1, ',': 2, '35-Stunden-Woche': 1, 'denke': 1, 'im Osten allein in': 1, 'Kampf': 1}

@@ -1,0 +1,1 @@
+{'New': 1, 'New York .': 1, 'den': 1, 'die': 2, 'auf den Plan': 1, 'York gegen': 1, 'Präsidenten protestiert': 1, 'im': 1, '” ,': 1, '” , wurde': 1, ',': 2, 'keine': 1, 'Amtsenthebungsverfahren': 1, 'abperlen': 1, 'Dienstag': 1, 'Trump': 1, '.': 1, 'als eine': 1, '„Er': 1, 'Rassist': 1, 'stehe': 1}

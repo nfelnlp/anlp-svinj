@@ -1,0 +1,1 @@
+{'. Die': 1, 'Pronold ( SPD': 1, 'am': 1, 'Auftakt': 1, 'Europäischen': 1, 'Wege': 1, 'von': 1, 'würden wertvolle': 1, 'gesetzlich verpflichtet werden': 1, 'ökologischen': 1, 'Abfall': 1, 'doppelt': 1, '?': 1, 'teilen': 1, 'doch': 1, 'anderen': 1}

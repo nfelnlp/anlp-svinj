@@ -1,0 +1,1 @@
+{'Philipp Rösler': 1, 'Ende': 1, 'der': 2, 'Frage ,': 1, 'Diskussion': 1, 'aus Zeitgründen': 1, 'als': 1, 'keiner staatlichen': 1, 'suchen': 1, 'ankämpfen': 1, 'Bei': 1, '“ bezeichnete ,': 1, 'Branche': 1, 'Am': 1, 'November': 1, 'präsentierte': 1, '„Xbox': 2, '.': 1, 'überschritten': 1, 'Konsole': 1, 'Im': 1, 'The': 1, 'im': 1, 'Politik': 1, 'Zwar gibt': 1, 'hat': 1, 'Gamer': 1}

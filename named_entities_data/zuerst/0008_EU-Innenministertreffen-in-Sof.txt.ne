@@ -1,0 +1,1 @@
+{'0 Sofia': 1, 'EU-Innenministertreffen': 1, 'sich': 1, 'dürfte': 1, 'einig': 1, 'Asylpolitik': 1, '.': 1, 'diesem': 1, 'soll': 1, 'besser': 1, 'Asylaufnahme-': 1, 'auf': 1, 'Brüsseler': 1}

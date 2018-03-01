@@ -1,0 +1,1 @@
+{'Polizei': 1, '–': 1, 'und': 1, 'Maas': 1, 'genau': 1, 'Demo mitmacht': 1, 'im': 1, 'und dieser': 1, 'die „Rechten': 1, '!': 2, 'kranke': 1, 'lustig': 1, 'mir': 1, 'Wahrnehmung': 1, 'Medien': 1, 'Ihr': 1, 'a': 1, 'nur': 1, 'krudes': 1, 'von': 1, ', b': 1, 'es': 1, 'also': 1, 'habe': 1, 'Millionen': 1, 'ich wünsche': 1, ', gesundes': 1, 'Jahr 2016': 1, 'da ich': 1, 'dem': 1}

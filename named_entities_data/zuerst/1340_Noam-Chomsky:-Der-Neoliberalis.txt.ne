@@ -1,0 +1,1 @@
+{'Noam Chomsky': 1, 'Chomsky': 1, 'Wörtlich': 1, 'Ideologie': 1, 'angeblich': 1, 'fragwürdigen': 1, 'von': 1}

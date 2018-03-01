@@ -1,0 +1,1 @@
+{', durch': 1, 'Arbeit': 1, ',': 1, 'in': 1, 'WAZ': 1, 'vor': 1, 'Essener': 1, 'Der': 1, 'davon': 1, 'die': 1, 'ein': 1, 'eröffnen': 1}

@@ -1,0 +1,1 @@
+{'Afrika': 2, '– obwohl': 1, 'der Bundesrepublik': 1, 'ist': 1, '„ausländischen Mitbürgern': 1, 'hier': 1, 'Jahren': 1, 'selbst': 1, 'sich': 1, 'Wort': 1, 'Wahrheit': 1, 'vollendete': 1, 'Strategie': 1, 'seinen': 1, ',': 1, 'eine': 1, 'braucht': 1, 'Deutschland': 2, 'mit': 1, 'staatlichen': 1, 'hingeben': 1, 'die': 1, '.': 1, '„Flüchtlinge': 1, 'nach': 1}

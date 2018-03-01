@@ -1,0 +1,1 @@
+{'Budapest': 1, 'Orbán': 1, 'die': 1, 'unter': 1, 'auch': 1, 'daran ,': 1, 'Er': 1, 'im': 2, 'Regierungschef': 1, 'in': 1, ',': 1, 'sichersten Länder': 1, 'Gesetzen': 1, 'Bräuche': 1}

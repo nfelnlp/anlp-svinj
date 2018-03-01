@@ -1,0 +1,1 @@
+{'? “': 1, 'nach': 1, 'wird dafür': 1, 'seiner Ehefrau': 1, '– im': 1, 'Pretzell': 1, 'als': 1, 'nur': 1, 'gesteuerten': 1, 'die': 3, 'und': 1, 'der': 1, ',': 4, '„Meister': 1, 'immer': 1, 'deshalb': 1, 'sieben Thesen': 1, 'NRW-AfD nach': 1, 'die Glaubwürdigkeit': 1, 'von': 1, 'kommende': 1, 'Partei': 1, 'Handeln': 1, 'Fraktionsvorsitzenden': 1}

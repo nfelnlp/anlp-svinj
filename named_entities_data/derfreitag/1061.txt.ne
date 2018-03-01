@@ -1,0 +1,1 @@
+{'Koall/Getty': 1, 'Unter Denkmalschutz': 1, 'mit': 1, '.': 1, 'Warum': 1, ', kann man': 1, 'Füße stellen': 1, 'Musealisierung des': 1}

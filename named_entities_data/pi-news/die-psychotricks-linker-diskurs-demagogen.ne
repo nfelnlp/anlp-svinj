@@ -1,0 +1,1 @@
+{'STRESEMANN': 1, 'lange': 1, '?': 1, 'Axiom': 1, 'man': 1, 'nämlich': 1, 'Ihre': 1, 'zeigen': 1, 'geistige': 1, 'Welche': 1, 'oder': 1, 'bereits': 1, 'irgendeiner': 1, ',': 1}

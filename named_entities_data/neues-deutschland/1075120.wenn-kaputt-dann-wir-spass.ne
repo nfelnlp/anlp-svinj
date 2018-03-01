@@ -1,0 +1,1 @@
+{'. »': 1, 'sein': 1, 'ruhigen': 1, 'klaren': 1, 'der': 2, 'Gewalttaten': 1, 'Roten': 1, 'Straftaten': 1, 'Presse': 1, 'in': 1, 'und offenbar': 1, '.': 1, 'Großen': 1, 'werden': 1, 'nächsten': 1}

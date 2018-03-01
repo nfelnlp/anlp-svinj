@@ -1,0 +1,1 @@
+{'Daniel Behruzi': 2, 'Ver.di': 1, 'Jenaer': 1, 'Klaus Dörre': 1, 'Großindustrie': 1, 'ver.di': 1, '...': 1}

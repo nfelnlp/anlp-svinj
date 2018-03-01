@@ -1,0 +1,1 @@
+{'. Gute': 1, 'der': 1, 'oder': 1, 'von': 1, 'politische': 1, 'für Exportgenehmigungen': 1, 'es': 1, 'das Großprojekt': 1, 'Kampfpanzern': 1, 'Euro': 1, 'Rheinmetall stelle': 1, 'Frieden': 1, 'in': 1}

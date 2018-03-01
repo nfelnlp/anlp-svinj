@@ -1,0 +1,1 @@
+{'sorgte': 1, 'paar Tagen eine': 1, 'freigelassen': 1, 'Gefängnis-Look': 1, 'produzieren': 1, 'Das': 1, 'hat natürlich nix': 1, 'Taler': 1, '!': 1, 'erwähnte „neue': 1, 'doch ,': 1, 'Mode aus dem': 1, '’ se': 1, 'der': 1, 'Konvertieren': 1, 'muslimischen Mädchen': 1, 'vorher )': 1, 'würde': 1, 'Kopftücher': 1, 'gleich': 1}

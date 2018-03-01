@@ -1,0 +1,1 @@
+{'Hygge': 1, 'Schweden': 1, 'Ikea': 2, 'un\xadbegreifliche': 1, 'Norwegen': 2, 'Hyggelig': 1, 'sig': 1, 'kos': 1, 'Jeppe': 1, 'Linnet ,': 1, 'dafür': 1, 'nicht': 1, 'trösten': 1, 'und': 2, 'ist': 1, 'Anstehen': 1, 'schwedischen': 1, 'darüber klagt': 1, 'Immer': 1, 'neues': 1, 'Grunde': 1, 'Ahnung': 1, 'die Sache': 1, 'Erklärung': 1}

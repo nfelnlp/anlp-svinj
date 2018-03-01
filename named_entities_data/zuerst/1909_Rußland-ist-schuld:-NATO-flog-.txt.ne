@@ -1,0 +1,1 @@
+{'Ramstein .': 1, 'NATO': 1, 'Rußland': 1, 'NATO-Stützpunkts': 1, 'Nachrichtenagentur': 1, 'mit ,': 1, 'selten': 1, '.': 1, 'zurückzuführen': 1, 'vermehrt unter': 1, 'gilt': 1, 'dagegen': 1, 'des': 1, 'Jahr': 1, 'Angst': 1, 'fliegen': 1}

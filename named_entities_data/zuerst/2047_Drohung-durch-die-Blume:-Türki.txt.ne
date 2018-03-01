@@ -1,0 +1,1 @@
+{'Ankara': 1, 'türkische': 1, 'Veysi Kaynak': 1, 'Türkei': 1, 'Europa': 1, 'Iran': 1, 'zu': 2, 'Flüchtlinge': 1, 'den': 1, ',': 1, '„Wir fürchten': 1, 'Migration': 1, 'Kenntnis': 1, 'die Adresse': 1, '.': 1, 'der': 1, 'aber': 1, 'Ganz': 1, 'daß': 1, 'sofort': 1, 'Mitteleuropa': 1}

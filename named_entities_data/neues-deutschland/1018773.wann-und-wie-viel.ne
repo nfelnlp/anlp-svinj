@@ -1,0 +1,1 @@
+{'Jahr': 1, 'beziehungsweise': 1, 'DGB )': 1, 'auf': 1, '150': 1, 'Jahr 1904': 1, 'der': 1, 'vor': 1, 'zuletzt': 1, 'und': 2, ': Ja , in': 1, 'Darin': 1, 'ihre': 1, 'oder': 1}

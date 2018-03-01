@@ -1,0 +1,1 @@
+{'Berlin': 1, 'Wagenknecht': 1, '.': 1, ',': 1, 'die': 1, 'verständlich': 1, 'argumentieren': 1, 'da': 1, 'ist': 1, '”': 1, 'dem': 1, 'eine': 1, 'ist da': 1, '( mü/sp': 1}

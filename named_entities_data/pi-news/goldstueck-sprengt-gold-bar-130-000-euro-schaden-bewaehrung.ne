@@ -1,0 +1,1 @@
+{'Inhaber': 1, 'Explosion die Gaststätte': 1, 'und': 2, 'Lebensgefahr': 1, '–': 1, 'wollen .': 1, 'sich': 1, 'über': 1, 'von': 1, 'verurteilte': 1, 'einer': 1, 'und Vortäuschens': 1, 'den': 1, 'die': 1, '“ Mit': 1, '.': 2, 'Gericht': 1, 'Es': 1, 'Der': 1, ',': 1, 'offenbaren': 1, 'hatte': 1, 'Autodafé zu': 1, 'Delinquenten': 1, 'bedank\xadte': 1, 'wird er auch': 1, 'neuen': 1}

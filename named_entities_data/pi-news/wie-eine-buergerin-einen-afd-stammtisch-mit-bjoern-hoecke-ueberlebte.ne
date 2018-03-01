@@ -1,0 +1,1 @@
+{'Kati Fortunato-Rambow': 1, 'persönlich anschauen': 1, '2017': 1, 'AfD-Stammtisch': 1, ')': 1, '„Antifa': 1, 'uns': 1, 'nach': 1, 'wurden': 1, 'Chance': 1, 'war': 1, 'haben': 1, 'unmöglich': 1}

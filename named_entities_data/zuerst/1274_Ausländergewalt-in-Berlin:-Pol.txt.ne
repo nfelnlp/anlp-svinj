@@ -1,0 +1,1 @@
+{'Gesellschaft 10 Berlin': 1, 'Polizei': 1, 'Weg': 1, '–': 1, 'von': 1, 'diesem': 1, 'zwei': 1, 'Treppen eines': 1, 'Haftstrafe': 1}

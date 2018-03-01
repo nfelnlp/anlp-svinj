@@ -1,0 +1,1 @@
+{'Irak': 2, 'Iraks': 1, 'Maliki': 1, 'Bagdad': 1, 'Saudi-Arabien und Iran': 1, 'bereit': 1, 'schon': 2, 'Ölfirmen': 1, 'Der': 1, 'selbst immer': 1, 'wenig mit den': 1, 'Geld': 1, 'zunehmend': 1, 'alte': 1, 'Nationalstaates': 1, 'der Soziologie': 1, 'diese Prinzipien': 1, 'Buch als': 1, 'radikalste': 1, ',': 2, 'dem': 1, 'und': 1, 'des': 1, '«': 1, 'Nomos': 1}

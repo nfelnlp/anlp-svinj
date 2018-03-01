@@ -1,0 +1,1 @@
+{',': 5, 'legt': 1, 'der': 2, 'vorgibt ,': 1, 'seinem ultradeepen Bass': 1, 'Teppich zu': 1, '2010': 1, 'von': 1, 'wird': 1, 'und': 1, 'keinen': 1, 'es': 1, '.': 1, 'so': 1, 'Kunst': 1, 'Automat spielen': 1, 'auch': 1, 'einem Rutsch': 1, 'die': 1}

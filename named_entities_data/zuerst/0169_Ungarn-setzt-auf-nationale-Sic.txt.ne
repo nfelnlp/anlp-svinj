@@ -1,0 +1,1 @@
+{'Budapest': 1, 'Ungarn': 1, 'Europa': 1, 'Károly': 1, 'gemeinsamen Pressekonferenz': 1, 'dabei ,': 1, 'Regierung': 1, 'neue': 1, 'Ein': 1, 'Geld ,': 1, ', außerdem': 1}

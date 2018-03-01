@@ -1,0 +1,1 @@
+{'Washington': 1, 'Charlottesville': 1, 'jetzt': 1, 'Bannon': 1, 'der Linken': 1, 'bezeichnet': 1, 'ihnen': 1, ',': 1, 'zu': 1, 'bis 2016': 1, 'Behauptung': 1, 'Mr.': 1, 'sagte': 1, '.': 1, 'habe': 1, 'Freitag unter': 1, '„New York': 1, 'Quellen': 1, 'Umfeld von Bannon ,': 1}

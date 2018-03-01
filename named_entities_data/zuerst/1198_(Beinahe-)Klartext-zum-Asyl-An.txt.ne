@@ -1,0 +1,1 @@
+{'Gesellschaft 0 Hagen': 1, 'Griff': 1, 'das': 2, 'der': 1, 'es': 1, 'nur': 1}

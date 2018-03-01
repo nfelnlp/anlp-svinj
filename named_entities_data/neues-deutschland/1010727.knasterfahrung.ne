@@ -1,0 +1,1 @@
+{'Belarus': 1, '.': 6, 'Darunter': 1, ', der': 1, 'hatte': 1, 'Die': 1, 'sehr': 1, 'Rolle': 2, 'der': 1, 'Dabei': 1, 'So wurde': 1, 'Tausender': 1, 'des': 1, 'des Hochhausturms »': 1, 'Johannes Spohr': 1, 'Valerie Waldow': 1, 'seit Jahren': 1, 'die': 1, 'hält die': 1, 'hält die AGRu': 1, 'zu': 1, 'Waldow .': 1, '128 Seiten': 1, 'Broschur ,': 1, 'Euro .': 1}

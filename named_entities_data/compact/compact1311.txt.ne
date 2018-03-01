@@ -1,0 +1,1 @@
+{'Petry': 2, 'Frauke Petry': 1, ',': 3, 'Partei': 1, 'sie': 1, 'zur': 1, 'Außenstehenden': 1, 'hier': 1, 'hier abschließen': 1}

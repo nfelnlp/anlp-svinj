@@ -1,0 +1,1 @@
+{'zähesten': 1, 'Dienstag': 1, ',': 2, 'einer Kommandozentrale': 1, 'endete am': 1, 'bei': 1, 'der': 2, 'Bestimmungen': 1, 'wegen': 1, 'aus dem': 1, '“ , das': 1, 'Braune Haus ,': 1, 'ein nationalsozialistischer Umsturz geplant': 1, 'Fragen': 1, 'nämlich': 1, 'Parole': 1, '.': 1, 'die': 1, 'Meinungsfreiheit ,': 1, 'ist': 1, 'unseren': 1, 'zur': 1}

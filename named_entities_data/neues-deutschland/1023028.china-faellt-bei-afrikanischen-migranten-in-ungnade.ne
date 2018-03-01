@@ -1,0 +1,1 @@
+{'China': 3, 'Anne Gonschorek': 1, 'Kapstadt Guangzhou': 1, 'Honkong': 1, 'Lamin Ceesay': 1, 'Quartz Africa': 1, 'sich': 1, 'nämlich': 1}

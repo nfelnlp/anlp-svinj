@@ -1,0 +1,1 @@
+{'PLUTO': 1, 'und': 1, 'sich': 1, 'mutmaßlich Afghanistan': 1, 'nun': 1, 'sind': 1, 'genannten Printausgaben von Freitag ,': 1, 'wichtigen': 1, 'die': 1, 'geneigte': 1, 'Altersangabe': 1, '-Zeitung': 1, 'falsch und': 1, 'daraus': 1, 'bekannt , dass': 1, 'Fällen ausschließlich auf': 1}

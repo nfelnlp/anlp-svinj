@@ -1,0 +1,1 @@
+{'Berlin': 1, 'Deutschland': 1, '–': 1, 'Afghanistan': 1, 'Alice': 1, 'zur „Bild-Zeitung': 1, ',': 1, 'das': 1}

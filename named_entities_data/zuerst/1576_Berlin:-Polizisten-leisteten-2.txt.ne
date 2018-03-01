@@ -1,0 +1,1 @@
+{'Berlin': 1, 'Polizei .': 1, ',': 1, 'Marathon': 1, 'Obama ,': 1, 'Berlin absteigt': 1, 'und': 1, 'Anschläge': 1, 'berichtet': 1, ') dürfte': 1, 'die': 1, 'nahezu': 1, 'GdP ,': 1, 'Polizeigewerkschaft': 1}

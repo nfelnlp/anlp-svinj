@@ -1,0 +1,1 @@
+{'war': 1, 'Schriftstellertum': 1, 'erschien .': 1, 'Zeit': 1, 'heilen können': 1, ',': 2, ') erhalten': 1, 'Dora': 1, 'seiner': 1, '3': 1, 'Urteil': 1, 'Bericht für': 1, 'ihm': 1, 'Beziehung zwischen': 1, 'nur': 1, 'offenbar ,': 1, 'geistigen': 1, 'spätjüdische Grundlagen': 1, 'für': 1, 'des': 1, '.': 1, 'Arbeit': 1, 'die': 1, 'Antlitz': 1, 'Jahrhunderts': 1}

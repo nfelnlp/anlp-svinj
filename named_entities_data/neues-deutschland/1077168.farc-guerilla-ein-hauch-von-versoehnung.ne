@@ -1,0 +1,1 @@
+{'Hart': 1, 'Nacional de Protección': 1, 'Nationalen': 1, 'Facatativá': 1, 'Gallego . Er': 1, '.': 1, 'Bevor er die': 1}

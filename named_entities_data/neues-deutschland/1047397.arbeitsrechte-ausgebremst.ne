@@ -1,0 +1,1 @@
+{'Kreuzes': 1, 'Kreuzes ( DRK': 1, 'gelten': 1, 'Nahles ( SPD': 1, 'und': 1, 'Seiters': 1, 'Sonderregelung soll': 1, 'Doch': 1, 'Tendenzbetrieb': 1, ',': 2, '90': 1, 'im': 1, 'von': 1, '.': 2, 'Deutschen': 1, 'Kreuz engagieren': 1, 'ehrenamtlich': 1, 'des Vereins': 1, 'hängen': 1, 'Arbeitnehmende': 1, 'Die': 1, 'die': 1, 'freiwillige': 1, 'ergeben': 1}

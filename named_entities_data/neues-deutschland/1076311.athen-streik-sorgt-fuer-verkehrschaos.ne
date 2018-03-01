@@ -1,0 +1,1 @@
+{'.': 1, '. In': 1, 'ein': 1, 'Nahverkehr': 1, 'Ende': 1, 'die': 2, 'Tsipras': 1, 'es seien': 1, '»': 1, 'Sparprogramm': 1}

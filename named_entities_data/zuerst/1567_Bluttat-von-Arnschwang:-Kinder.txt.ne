@@ -1,0 +1,1 @@
+{'Arnschwang': 1, 'Staatsanwaltschaft Regensburg': 1, 'Oberpfalz': 1, 'Messerstichen': 1, 'Rußland': 1}

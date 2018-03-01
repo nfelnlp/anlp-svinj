@@ -1,0 +1,1 @@
+{'Thomas D ! Maizière': 1, 'CDU-Mann': 1, 'Bundesinnenministerium gilt als': 1, 'dessen zu': 1, 'den': 1, 'werden': 1, 'Und natürlich : »': 1, 'Er': 1, 'Land': 1, 'Hand': 1, 'Bei Demonstrationen': 1, 'endlich': 1, 'ein': 1, 'der': 2, 'durch': 1, 'Appelle': 1, 'wir': 1, 'wären': 1, 'das hat': 1, 'is': 1, 'sagte': 1, 'was': 1, 'darstellt .': 1}

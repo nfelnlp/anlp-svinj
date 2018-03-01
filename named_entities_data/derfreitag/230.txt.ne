@@ -1,0 +1,1 @@
+{'Kairo': 1, 'Mahmoud Khaled/AFP/Getty': 1, 'Die': 1, 'bejubeln': 1, 'liegt': 1, 'unter': 1, 'bleibt ,': 1, 'zunächst': 1, ', dass': 1, 'die': 1, 'empfinden': 1, 'aber': 1, 'begreifen': 1, 'falschen': 1, 'morgen': 1, 'eine': 1, 'allein': 1, 'Anti-Mubarak-Revolte': 1, 'Umgestaltung': 1, 'der': 1}

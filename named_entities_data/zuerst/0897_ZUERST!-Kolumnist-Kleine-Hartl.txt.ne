@@ -1,0 +1,1 @@
+{'diesmal mit': 1, 'namens': 1, '.': 1, '. Lesen': 1, 'Ausgabe': 1, ', gehört': 1, 'SPD .': 1, 'sadistischen': 1, '. Zum': 1, ', irgend': 1, 'den': 1, 'Verzweiflung': 1, 'einem': 1, ',': 2, ': Unter': 1, 'sind': 1, 'uns': 1, 'So': 1, 'Mehrheit': 1, 'Etablierten täglich –': 1, 'Minderheit': 1, 'Deutschland': 1, 'aufgrund': 1, 'möglich': 1}

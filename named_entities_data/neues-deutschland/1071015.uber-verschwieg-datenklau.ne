@@ -1,0 +1,1 @@
+{'. Uber': 1, 'vor': 1, 'hätten': 1, 'Angreifer': 1, 'Behörden': 1, 'die': 1, 'Datenbank': 1, 'entlassen': 1, 'wie Uber weiter': 1, '9': 1, 'Artikel': 1}

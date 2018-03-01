@@ -1,0 +1,1 @@
+{'blutüberströmt': 1, 'Manjinder K.': 1, 'Die': 1, 'Eltern': 1, 'konnte der Mord': 1, 'auf': 1, 'ihn dem': 1, 'Einzelheiten': 1, 'K.': 1, 'Studentin nach . Der': 1, 'und': 4, 'beseitigen': 1, 'in': 1, 'er': 1, 'unter': 1, 'Soopika': 1, 'hat': 1, 'hat sie': 1, ',': 1, 'ein': 1, 'in Enschede': 1, 'Violine': 1, 'An': 1, 'beschenkte': 1, '30': 1, 'schwieg über': 1, 'im': 1, '“': 1}

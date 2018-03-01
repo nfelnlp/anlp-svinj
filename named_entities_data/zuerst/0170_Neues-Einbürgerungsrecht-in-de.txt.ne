@@ -1,0 +1,1 @@
+{'Bern': 1, 'Schweiz': 2, 'Schweizer': 1, 'Zürich': 1, 'Corine Mauch': 1, 'Schweizer Staatsbürgerschaft': 1, 'C-Bewilligung': 1}

@@ -1,0 +1,1 @@
+{'.': 1, '. Langsam': 1, 'in': 1, 'Bayern': 1, 'vor': 1, '( Freie': 1, 'für reibungsloses': 1, 'schon': 1, 'Und': 1, 'gut befunden und': 1, 'einstimmig': 1, 'den': 1, 'haben 5000': 1, 'und': 1, '« ,': 1, 'Es': 1, 'es weckt': 1, 'werden': 1, 'dauerparkende Anwohner': 1}

@@ -1,0 +1,1 @@
+{'EZB-Präsident': 1, 'lässt sich': 1, 'Draghi': 1, 'lassen ,': 1, 'bei': 2, 'Prozent': 1, 'Bankenpleiten': 1, 'um den': 1, ',': 5, 'sein': 1, 'wollen': 1, 'dem': 1, 'aufgeheizt': 1, 'Nur': 1, 'ernst': 1, 'die': 1, 'nicht': 1, 'eine allzu': 1, 'Kurswechsel': 1, 'von': 1, 'herrschenden': 1, 'diese': 1, 'Strukturreformen': 1, 'fehlende': 1, 'sie': 1, 'Absatz': 1, 'es': 1}

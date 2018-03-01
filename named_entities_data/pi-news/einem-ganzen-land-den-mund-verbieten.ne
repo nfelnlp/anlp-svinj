@@ -1,0 +1,1 @@
+{'Merkels': 1, 'dazu': 1, 'die': 1, 'die an dieser': 1, 'Anzeige': 1, 'eine linke': 1, 'affirmativer': 1, 'wird': 1, 'Förderung': 1, 'zahlreichen': 1, 'Erträglichen': 1, 'viele': 1, 'der': 2, 'rein': 1}

@@ -1,0 +1,1 @@
+{'Main die Konferenz': 1, 'ist Mitglied': 1, 'in Frankfurt': 1, 'mit': 1, '. nd': 1, 'Im': 1, 'Gewerkschaften': 1, ',': 1, '. Können': 1, '. Können sich': 1, 'Bundesvorstände': 1, 'die': 1, 'und': 1, 'Kämpfen': 1, 'spielen': 1, 'Zum': 1}

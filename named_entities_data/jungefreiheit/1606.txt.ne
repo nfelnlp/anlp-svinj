@@ -1,0 +1,1 @@
+{'Ende': 1, '.': 2, 'einem neuen': 1, 'der Romanerstling': 1, 'plus': 1, 'und': 1, 'Leser': 1, 'namhaftesten': 1, 'Tagträumerisch': 1, 'heiratet ein': 1, 'Romans': 1, 'entstehenden': 1, 'es des': 1, 'zur klemmen': 1, '. Wer': 1, 'die': 1, 'Gerhard Hacker': 1, 'der': 1, 'von Gogol herrührt .': 1, 'um': 1, 'solcher Klischees': 1, 'ist ganz': 1, ', läßt': 1, 'in': 1}

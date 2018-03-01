@@ -1,0 +1,1 @@
+{'Daniela Schmitter/Imago': 1, 'Internetplattform VroniPlag': 1, 'Drei': 1, 'weitere': 1, 'Ex-Bildungsministerin Annette Schavan': 1, 'ein': 1, '. Doch': 1, 'Problem': 1, 'Kramer': 1, 'zum Doktortitel': 1, 'verleihen': 1, 'Gebühr': 1, 'die': 1, 'Ignaz': 1, '.': 2, ',': 2, 'und': 1, 'Germanistik promoviert': 1, 'den': 1, 'aber Befremden': 1, 'bringe': 1, 'und durch': 1}

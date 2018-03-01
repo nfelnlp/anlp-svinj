@@ -1,0 +1,1 @@
+{'der': 1, 'und': 2, 'Telekom': 1, 'geführt': 1, 'Kommunen': 1, 'die': 2, 'bilden': 1, 'heftig': 1, 'für die': 1, '-': 1, 'Man': 1, 'ein': 1, 'Wenn': 1, '«': 1, ', was': 1}

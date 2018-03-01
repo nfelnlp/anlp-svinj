@@ -1,0 +1,1 @@
+{'Washington': 1, 'US-Administration und': 1, 'Bannon': 1, 'scharf an': 1, 'Fox News-Interview': 1, 'US-Medien': 1, 'York': 1, 'haben immer noch nicht': 1, 'warum': 1, 'halten': 1, 'politischen Gegner begreife': 1, 'politischen Gegner begreife .': 1, 'seid': 1, 'sagte': 1, '„Nicht': 1, 'Die': 1, 'sind': 1, 'wiesen': 1, 'empört': 1, 'kündigten unterdessen': 1, 'und': 1}

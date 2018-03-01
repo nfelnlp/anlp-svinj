@@ -1,0 +1,1 @@
+{'Kapitalismuskritik': 1, 'Ralf Hutter': 1, 'Universität Hamburg': 1}

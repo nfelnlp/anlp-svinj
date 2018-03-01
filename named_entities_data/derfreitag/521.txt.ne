@@ -1,0 +1,1 @@
+{'Brazzaville': 3, 'Kongo': 2, 'Demokratischen Republik Kongo': 1, '–': 1, 'Portugal': 1, 'Belgien': 1, 'Frankreich': 1, 'irgendwo': 1, 'ist': 1, 'auch': 1, 'viel': 1, 'gewandet': 1, 'darüber': 1, 'an': 1, 'ganze': 1, 'italienischen': 1, '„Sapologie “': 1, 'den': 1, 'bekannter': 1, 'des Konsums': 1, 'Eine': 1, 'Werkzeug und': 1, 'neue': 1, 'aber': 1}

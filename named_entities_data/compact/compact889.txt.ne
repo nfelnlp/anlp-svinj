@@ -1,0 +1,1 @@
+{'Klimawahn': 1, 'Titel :': 1, 'auf': 1, 'der': 1, ',': 1, 'in': 1, 'vom': 1, 'vom Forschungszentrum': 1, 'Weller': 1, 'ändern.': 1, 'Klimaheiligen': 1, ', denn': 1, 'unterschiedliche': 1, 'sinnlos': 1, '.': 1, 'Beispiel': 1}

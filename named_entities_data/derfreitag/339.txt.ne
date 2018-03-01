@@ -1,0 +1,1 @@
+{'der': 2, 'Basics': 1, '.': 1, 'welche': 1, 'und': 1, 'Chefetagen –': 1}

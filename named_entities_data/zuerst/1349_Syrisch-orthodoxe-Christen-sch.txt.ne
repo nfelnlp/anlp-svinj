@@ -1,0 +1,1 @@
+{'Ankara': 1, 'Türkei': 2, 'syrisch-orthodoxe': 1, 'im': 1, 'jetzt': 1, 'einer': 1, '.': 2, ':': 1, '50': 1, 'kirchlichen Gebäuden': 1, 'EU': 1}

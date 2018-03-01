@@ -1,0 +1,1 @@
+{'Esmiralda Sturm': 1, 'III': 1, 'Ab 2017': 1, 'Bundestages findet': 1, 'mit': 1, 'Mitglieder der': 1, 'Mehrausgaben': 1, 'Bereiche': 1, 'Qualitätsstandards': 1}

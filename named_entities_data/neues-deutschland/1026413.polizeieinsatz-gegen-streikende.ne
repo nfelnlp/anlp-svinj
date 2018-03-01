@@ -1,0 +1,1 @@
+{'organisierten Beschäftigten': 1, 'weiter zu .': 1, '.': 2, 'der': 2, 'in': 1, 'Schließung': 1, '. Erschienen waren': 1, 'Vertreter': 1, 'Zeitung »': 1, 'Solidaritätsflugblätter': 1, 'Geknechtet': 1, 'Unbeeindruckt': 1, 'Main ,': 1, '«': 1, 'dass der Konzern': 1, 'Fortführungskonzept als': 1, 'dass': 1, 'des': 1, 'das': 1, 'Lkw-Konvoi': 1}

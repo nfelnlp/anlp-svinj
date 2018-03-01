@@ -1,0 +1,1 @@
+{'.': 2, 'Start Ende': 1, 'anderes': 1, 'schicken': 1, 'NASA': 1, 'Dies': 1, 'für': 1, 'einen Durchmesser': 1, 'Meter': 1, 'Die': 1, 'um': 1, 'noch': 1, 'einem': 1, 'gegründet hat': 1, 'gelungen': 1}

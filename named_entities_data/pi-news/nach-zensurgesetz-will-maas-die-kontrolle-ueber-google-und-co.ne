@@ -1,0 +1,1 @@
+{'L.S.Gabriel': 1, 'gerne': 1, '.': 1, ', Grundlagen': 1, 'der': 1, 'einmal': 1, 'die': 1, 'ist': 1}

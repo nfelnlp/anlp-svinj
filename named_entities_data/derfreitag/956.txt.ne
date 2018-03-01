@@ -1,0 +1,1 @@
+{'am': 1, 'hat': 1, 'zum': 1, 'Mal': 1, 'nachmittags': 1, '.': 1}

@@ -1,0 +1,1 @@
+{'langsam': 1, ',': 3, 'zu': 1, 'Die': 1, 'der': 2, 'sich': 1, 'Ivoire': 1, 'Kenia': 1, 'Botswana': 1, 'Namibia': 1, 'Swasiland': 1, 'EU-Kommission': 1, 'Jahre': 1, 'Das': 1, 'weiter': 1, 'Staaten': 1}

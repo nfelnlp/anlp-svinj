@@ -1,0 +1,1 @@
+{'SPENCER': 1, 'GEZ-Medien': 1, 'zumindest': 1, ',': 1, 'einem': 1, 'von': 3, 'der mit': 1, 'und Broschüren': 1, '.': 1, 'schließt sich': 1, 'schließt sich dann auch': 1, 'Argumentationskreis': 1, 'der': 1, 'beigebracht': 1, 'Da': 1, 'und': 2, 'Kultur': 1, 'aus dem': 1, 'AfD-Anhänger gemeint': 1, 'Kontroversen': 1}

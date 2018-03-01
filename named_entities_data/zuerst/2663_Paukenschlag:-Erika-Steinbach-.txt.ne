@@ -1,0 +1,1 @@
+{'Frankfurt': 1, 'Erika Steinbach': 1, 'Bundestagsmitglied': 1, 'CDU': 1, 'Union': 1, 'dann': 1, 'verlasse': 1, 'veröffentlichte': 1, 'vielen': 1, 'und': 1, '?': 2, '(': 1, 'lassen': 1, 'demgemäß': 1, 'geltendem': 1, 'müssen': 1, 'widersprach': 1, 'zwar': 1, 'stigmatisieren': 1, 'marginalisieren': 1, 'geschadet hat': 1, 'der': 1, 'auch': 1}

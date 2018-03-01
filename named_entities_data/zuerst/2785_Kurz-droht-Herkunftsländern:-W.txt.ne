@@ -1,0 +1,1 @@
+{'Wien': 1, 'Österreich': 1, 'österreichische': 1, 'Sebastian Kurz': 1, 'erhalten': 1, 'Geldtransfers der': 1, 'dort': 1, '“': 1, 'in': 1, ',': 1}

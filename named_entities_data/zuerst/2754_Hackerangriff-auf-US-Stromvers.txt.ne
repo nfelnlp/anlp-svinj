@@ -1,0 +1,1 @@
+{'Washington': 1, 'Post': 1, 'von': 1, 'vergangenen Freitag': 1, '.': 1, 'keiner Zeit gefährdet': 1, 'Hacker-Angriffe': 1, 'Hacker-Angriffe nutzten . Anders': 1, 'erkennbar': 1, 'Behörden': 1, 'in': 1}

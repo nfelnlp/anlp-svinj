@@ -1,0 +1,1 @@
+{'.': 3, '. Ein': 1, 'Hürth': 1, 'Nordrhein-Westfalen': 1, '. Das Beben': 1, '«': 1, 'etwa': 1, 'Kilometern': 1, 'von': 1, 'besorgter Anwohner . Auch in': 1, 'gemeldet': 1, 'Schäden': 1, 'Alpen': 1, 'gemessen': 1, 'Eine': 1}

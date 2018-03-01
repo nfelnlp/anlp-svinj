@@ -1,0 +1,1 @@
+{'Rom/Brüssel': 1, 'Medien': 1, 'Experten': 1, 'die': 1, 'in': 1, ',': 5, 'und': 3, 'jetzt': 1, 'mit': 1, 'Ankunft': 1, 'Spezialisten': 1, 'gegeben': 1, 'Schweiz': 1, 'Weg': 1, 'haben': 1, 'gilt': 1, 'einer': 1, 'Eskalationsfall': 1}

@@ -1,0 +1,1 @@
+{'sagen': 1, 'werden': 1, 'das': 1, 'allem': 1, 'andersherum': 1, 'gewohnt': 1, 'der': 2, 'um': 1, 'unbeabsichtigt': 1, 'und': 1, 'von': 1, 'des , im': 1, 'er-': 1, 'Diese': 1, 'in Ägypten': 1, 'trägt': 1, 'staatlichen': 1, 'es': 1, 'dabei': 1, ',': 1}

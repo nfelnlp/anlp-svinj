@@ -1,0 +1,1 @@
+{'L.S.GABRIEL': 1, 'Frank Walter Steinmeier': 1, 'Steinmeier': 1, ',': 1, 'demokratisch': 1, ':': 1, '“': 1, 'der': 2, 'den': 1, 'zu': 1, 'all': 1, 'die': 1, 'Nationalisten': 1, 'erklärt': 1}

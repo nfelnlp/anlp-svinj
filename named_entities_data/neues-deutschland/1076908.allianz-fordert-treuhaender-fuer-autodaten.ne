@@ -1,0 +1,1 @@
+{'.': 2, '. Nach': 1, ', Chef': 1, 'Deutschland': 1, 'mit': 1, 'dass': 1, 'ist': 1}

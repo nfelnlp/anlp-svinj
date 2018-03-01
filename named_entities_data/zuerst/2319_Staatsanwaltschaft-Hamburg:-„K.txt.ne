@@ -1,0 +1,1 @@
+{'Hamburg': 2, 'von': 1, '!': 1, 'an': 1, 'Genozid': 1, 'das': 1, 'und': 1, ',': 1, 'was': 1, 'da': 1, 'da sich': 1}

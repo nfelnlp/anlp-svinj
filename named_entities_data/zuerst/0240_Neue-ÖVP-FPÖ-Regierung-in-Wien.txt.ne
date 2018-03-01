@@ -1,0 +1,1 @@
+{'Gesellschaft 2 Wien/Brüssel': 1, 'Anders': 1, 'im': 1, '.': 1, 'aus': 1, 'gehässige': 1, 'die': 1, 'und': 2, '”': 1, 'ENF-Fraktion': 1, '“': 1, 'des': 1, ',': 1, 'Le': 1, 'Die': 1, 'könnten zu': 1, '„wahrhaftigen': 1, '„wahrhaftigen Umbruch': 1, '„wahrhaftigen Umbruch ”': 1, 'Union': 1, 'ein': 1, 'Wien aber': 1, 'proeuropäische': 1, 'gleich': 1}

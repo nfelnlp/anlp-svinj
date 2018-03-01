@@ -1,0 +1,1 @@
+{'.': 3, '. Wikileaks-Gründer': 1, 'Assange': 2, 'Staatsbürger .': 1, '2017': 1, 'erklärte': 1, 'Dem Antrag sei': 1, 'geboren': 1, 'sitzt': 1, 'fest': 1, 'seiner': 1, 'der': 1, 'Schweden': 1, 'aus': 1, ',': 1, 'im Mai': 1, 'wurde': 1, ', Assange': 1, 'Botschaft': 1, 'vergangenen': 1, 'im Irak und': 1, 'zog': 1, 'Zorn': 1, 'US-Regierung': 1, 'Agenturen/nd': 1}

@@ -1,0 +1,1 @@
+{'Luxemburg': 1, 'Europa': 1, 'EuGH': 1, 'müssen': 1, '„Flüchtlinge': 1, 'Dies': 1, 'im': 1, 'jetzt anstehenden': 1, 'juristischer': 1, 'für': 1, 'Fall': 1, '„60 Millionen': 1, 'Afghanen': 1, '68': 1, 'Nigerianer': 1, 'ihre': 1}

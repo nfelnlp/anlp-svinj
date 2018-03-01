@@ -1,0 +1,1 @@
+{'P. belastet': 1, 'auf': 1, 'Kirsche ,': 1, 'In': 1, 'bei': 1, 'enthüllte': 1, 'Schneider um': 1, ')': 1, 'P. alias Iris': 1, 'forschte von': 1, 'im': 1, ',': 1, ') aktiv': 1, 'Während': 1, 'mehr': 1, 'veröffentlichte': 1}

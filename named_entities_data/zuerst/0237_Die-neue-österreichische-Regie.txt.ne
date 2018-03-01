@@ -1,0 +1,1 @@
+{'Bozen/Wien': 1, 'Der': 1, 'besonderes': 1, 'hatten': 1, 'im': 1, 'in': 1, 'Pariser': 1, 'nachfolgenden': 1, 'ab': 1, 'Süd-Tirol öffnet': 1, 'Wert.': 1, 'weisen': 1, 'hin': 1, 'die': 1, '“': 1}

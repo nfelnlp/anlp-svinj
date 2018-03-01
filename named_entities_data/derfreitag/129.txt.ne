@@ -1,0 +1,1 @@
+{'Nicolas Asfouri': 1, 'AFP': 1, 'Getty': 1, 'Bangkok': 1, 'Zwillinge': 1, 'australische': 1, 'Befruchtung': 1, 'ein': 1, 'in': 1, 'von': 1, 'besonders': 1, '.': 1, 'Konsum-Entscheid': 1, 'ebenso eine Leihmutter': 1, 'wie Nicole': 1, 'bedankte sich': 1, 'bizarrem Promi-Sprech öffentlich „ganz': 1, 'ihren': 1, 'angeboten': 1}

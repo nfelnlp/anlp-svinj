@@ -1,0 +1,1 @@
+{'.': 3, '. Bei': 1, 'und': 1, '21': 1, 'acht': 1, 'Menschen': 1, 'ihre': 1, 'zwei': 1, 'Die': 1, 'Aleppo': 1, 'die': 3, 'Provinz': 1, 'Provinz im August': 1, 'Flüchtlinge': 1, 'an der': 1, 'Lieferung': 1, 'so': 1, 'Nähe': 1, 'Grenzübergangs': 1, 'Armee': 1, 'und erklärte': 1, 'Zone': 1, 'Land': 1, 'des': 1, 'leben': 1, 'über': 1}

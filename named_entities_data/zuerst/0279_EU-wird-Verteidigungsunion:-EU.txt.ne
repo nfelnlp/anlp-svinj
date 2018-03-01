@@ -1,0 +1,1 @@
+{'Brüssel': 2, 'EU': 1, '.': 1, 'sind': 1, 'November': 1, 'Verpflichtungen': 1, 'Einsätze': 1, 'nicht': 1, 'der': 1, 'europäischen': 1, 'Verteidigungspolitik': 1, 'offensichtlich': 1, 'die': 1, 'regelmäßige': 1}

@@ -1,0 +1,1 @@
+{'über die': 1, 'Wochen wird': 1, 'die': 3, 'im': 1, '.': 2, 'Jahr': 1, 'mehr': 1, 'Verschlüsselung': 1, ',': 1, 'seine': 1, 'Schloss': 1, 'Kästchen': 1, 'reden': 1, 'zwei': 1, 'veröffentlichen': 1, 'zu lesen': 1, 'einer': 1, 'Deren': 1, 'nicht': 1, 'Das': 1, '?': 2, 'Wenn Minister Friedrich schon zum': 1, 'neunziger': 1}

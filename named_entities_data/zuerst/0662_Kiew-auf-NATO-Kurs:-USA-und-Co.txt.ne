@@ -1,0 +1,1 @@
+{'Kiew': 1, 'Ukraine': 1, 'NATO-Kurs': 1, 'Viktor': 1, 'mitgeteilt ,': 1, 'mit NATO-Standards': 1, 'seien': 1, 'zeigt': 1, ',': 1, 'ihre': 1, 'der': 1, 'sein': 1, 'zu': 1, 'vernichtet worden': 1, 'in den': 1, 'das': 1, 'durchaus': 1, 'durchaus auch': 1, 'Behörden': 1, 'haben': 1, 'diesem': 1, 'die': 1, '”': 1, 'Präsident': 1, 'Erlaß': 1, 'hatte ,': 1, 'Dafür': 1}

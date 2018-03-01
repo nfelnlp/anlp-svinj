@@ -1,0 +1,1 @@
+{'Las Vegas': 3, 'Consumer Electronics Show': 1, 'Kazuo': 1, 'langanhaltende Krise': 1, 'in': 2, 'haben': 1, 'Tasche': 1, 'Sony': 1, 'der': 1, 'positive': 1, 'Krise': 1, 'einen': 1, 'Im': 1, 'derweil': 1, 'Messegelände reinwaschen': 1, 'versicherte': 1, 'Datenverlusten': 1, '90': 1, 'Ende': 1, 'verwundbare': 1, 'Umlauf': 1}

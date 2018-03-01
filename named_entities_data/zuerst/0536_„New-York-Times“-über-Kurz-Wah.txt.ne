@@ -1,0 +1,1 @@
+{'New': 1, 'New York': 1, 'Sebastian Kurz': 1, 'York Times “': 1, 'es': 1, 'wird': 1, 'Volkspartei': 1, 'Ängsten': 1, 'einer': 1, 'müssen': 1, 'die': 1, 'mü': 1, ':': 1, '13.06.2016': 1, 'Sebastian': 1}

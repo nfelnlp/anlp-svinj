@@ -1,0 +1,1 @@
+{'Paris': 1, 'EU-Parlamentsmitarbeitern': 1, 'National , Marine': 1, 'Pen': 1, 'Pen ,': 1, 'Pen , zum': 1, 'auch': 1, 'einer': 1, 'im': 1, 'nach den Europawahlen': 1, 'des Europaparlaments': 1, 'Affäre': 1, 'Wahrheit': 1, 'den': 1, 'habe': 1, 'einen': 1, 'in': 1, 'ein allzu durchsichtiges': 1, 'Manöver': 1}

@@ -1,0 +1,1 @@
+{'Paris': 1, 'Frankreich': 1, 'Marine Le Pen': 1, 'werden somit': 1, ',': 1, 'die': 1, '24,38': 1, 'Prozent .': 1, 'Prozent und': 1, '( F.A.Z . )': 1, 'verkündete': 1, 'Tages': 1, 'Tages :': 1, 'zwei': 1, 'einer Befragung': 1, 'vom': 1, 'lag': 1, 'Pen bei': 1, 'Das': 1, 'zur Wahl gehen': 1, 'Macron setzte': 1, 'nach': 1, 'dem': 1, 'gut 78': 1}

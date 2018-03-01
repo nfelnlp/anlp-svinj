@@ -1,0 +1,1 @@
+{'. Die': 1, 'stellt': 1, 'mit': 1, 'Auseinandersetzungen um': 1, 'fünf': 1, 'wie': 1, 'FDP': 1, 'zwei': 1, 'Anfang': 1}

@@ -1,0 +1,1 @@
+{'Gesellschaft 0 Wien/Budapest': 1, 'Ein': 1, 'der jetzt komplett': 1, 'Das': 1, 'um': 1, 'Anfang 2016': 1, ', bei': 1, 'sich': 1, 'soll': 1, 'Otto-Habsburg-Archiv': 1, 'wie es': 1, 'wie es jetzt': 1, 'Regierung': 1, 'eigenes Gesetz': 1, 'eigenes Gesetz erließ': 1, 'eigenes Gesetz erließ . Damit': 1, 'wissenschaftlich': 1}

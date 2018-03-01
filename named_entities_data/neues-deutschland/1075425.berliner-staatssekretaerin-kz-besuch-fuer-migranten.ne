@@ -1,0 +1,1 @@
+{'. Die': 1, '( SPD': 1, 'hat': 1, 'Pflicht': 1, '«': 1, 'palästinensischer': 1}

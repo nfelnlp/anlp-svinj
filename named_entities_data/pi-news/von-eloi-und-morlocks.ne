@@ -1,0 +1,1 @@
+{'SELBERDENKER': 1, 'Schweden': 1, ',': 4, 'wurde': 1, 'hinter': 1, 'weltweite': 1, 'übrigens': 1, 'in': 2, 'könnte': 1, 'witzeln': 1, 'sogar': 1, 'was': 1, 'Machine': 1, 'alleine . In der politisch': 1, '.': 1, 'Es': 1, 'unseren': 1, 'Globalisten': 1, 'Fackel': 1, 'wenigstens': 1}

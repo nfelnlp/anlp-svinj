@@ -1,0 +1,1 @@
+{'an der Weser': 1, 'China': 2, 'Asien': 1, 'A. Cäcilie Bachmann ,': 1, 'Schien': 1, 'Wirtschafts-': 1, 'so': 1, 'Der': 1, 'wieder': 1, '.': 1, 'Deutschland': 1, 'Europa': 1, 'auch': 1, 'den': 1, 'es': 1, '...': 1}

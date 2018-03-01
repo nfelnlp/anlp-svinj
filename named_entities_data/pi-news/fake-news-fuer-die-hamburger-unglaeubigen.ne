@@ -1,0 +1,1 @@
+{'ALSTER': 1, 'bis': 1, 'Deutsche tötete': 1, 'Männer': 1, 'Laudationen über': 1, '„Ungläubigen': 1, 'wollen': 1, 'tapfere Eingreifen': 1, 'den Hintergrund': 1, 'von': 1, 'die': 1, ',': 2, 'Ehrung': 1, 'auseinander und verwies': 1, 'eine Religion der Barmherzigkeit': 1, 'und': 1, 'friedliche Prediger': 1, 'Meter': 1, 'Sure': 1, 'Fake-Aussagen': 1, 'in der': 1}

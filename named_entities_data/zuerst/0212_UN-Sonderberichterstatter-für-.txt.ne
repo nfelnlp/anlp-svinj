@@ -1,0 +1,1 @@
+{'Gesellschaft 0': 1, 'Gesellschaft 0 Genf': 1, 'Europa': 2, 'UN-Sonderberichterstatter': 1, 'im Rahmen': 1, 'Governance Forums': 1, 'Die': 1, 'zum': 1, ',': 1, 'Kaye': 1, 'nach': 1, 'Verhandlungen': 1, '„Code of': 1, 'Gesetzgeber': 1, 'die': 1, 'Licht dastehen': 1, 'UN-Berichterstatter': 1, 'Expression': 1, 'mit einem Bericht': 1, 'Wort': 1, 'bezeichnete es': 1}

@@ -1,0 +1,1 @@
+{'Vlad Tepes': 1, 'zu seinem': 1, ',': 3, 'belegen': 1, 'der': 1, '86': 1, 'Monaten': 1, 'eigenen': 1, 'Oberlandesgericht': 1, ')': 1, 'des': 1, 'Fotos': 1, 'unabhängige': 1, '.': 1, 'Kriterien einen': 1, 'Rechtsbruch': 1, 'unfassbaren': 1, '3': 1, 'eine „Invasion': 1, 'die': 1, 'sich zeigen': 1, 'nachdem die erste': 1}

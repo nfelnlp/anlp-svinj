@@ -1,0 +1,1 @@
+{'Rom': 1, 'Italien': 1, 'des': 1, 'denen': 1, 'dem Kampf gegen': 1, 'Schlepper': 1, '.': 1, 'verfolge': 1, 'an Bord': 1}

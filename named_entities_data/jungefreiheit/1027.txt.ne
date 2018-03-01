@@ -1,0 +1,1 @@
+{'Beschäftigte': 1, 'oder': 1, 'von': 1, 'eigenen': 1}

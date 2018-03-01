@@ -1,0 +1,1 @@
+{'Zimmermann . Sie': 1, 'der': 2, 'ablehnend': 1, 'ein': 1, 'es sich': 1, 'Nach': 1, 'einer': 1, '.': 1, 'positive': 1, 'eine Qualitätsverbesserung': 1, 'in': 1, 'Krankenhäusern': 1, '162': 1, 'Überstunden würden': 1, 'Personalbemessung': 1, 'einen Tarifvertrag': 1}

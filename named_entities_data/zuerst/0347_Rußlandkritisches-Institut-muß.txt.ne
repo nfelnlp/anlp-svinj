@@ -1,0 +1,1 @@
+{'Berlin/Moskau': 1, 'Seit': 1, 'im': 1, 'Krim': 1, '“ .': 1, 'diese': 1, 'Westen': 1, 'Studien': 1, 'und': 1, 'sorgt': 1, 'Dem Bericht': 1, 'Frappierende': 1, '“': 1, 'ob': 1, 'ob sie': 1, ',': 1, 'sagten': 1, 'als': 1, 'Ukraine': 1, 'in': 1, 'Krim-Bürger': 1, 'außerdem': 1, 'zufrieden': 1, 'friedlich': 1, 'Putin': 1, '(': 1}

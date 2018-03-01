@@ -1,0 +1,1 @@
+{'Roger Behrens': 1, 'Charlie Hebdo': 1, '–': 1, 'Ägypten': 1, '.': 2, 'und': 1, 'Bruno auf': 1, 'verbrannt': 1, 'ins': 1, 'Feuerbach weiß': 1, 'Marx ) .': 1, ':': 2, 'der Rest': 1, 'der Richter': 1, 'eine': 1, 'braucht': 1, 'Gotteslästerung': 1, 'Gotteslästerung zum': 1, 'verurteilt': 1, ',': 1, 'den wahren': 1}

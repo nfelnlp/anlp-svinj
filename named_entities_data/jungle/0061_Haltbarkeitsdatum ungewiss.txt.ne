@@ -1,0 +1,1 @@
+{'slowenischen Ljubljana': 1, 'slowenischen': 1, 'Ljubljana': 1, 'Dewitz': 1, 'In': 1, 'sowohl': 1, 'sowie': 1, 'der': 1, 'Nutzerinnen': 1, 'Militärgefängnis': 1, 'zu': 1, '. Er': 1, 'ist': 1, '»': 2, ',': 1, 'war in': 1, 'junge': 1, 'Vertreter': 1, 'erhalten ,': 1, 'uns': 1, 'erst': 1, 'Iluminirana': 1, '( 1964': 1, 'ist schon': 1, 'Rog aktiv': 1, '» Ohranimo': 1, 'Ort.': 1}

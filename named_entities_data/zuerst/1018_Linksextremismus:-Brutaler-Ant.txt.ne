@@ -1,0 +1,1 @@
+{'Gesellschaft 1 Düsseldorf/Bochum': 1, 'In': 1, 'Bochumer': 1, 'Jugendorganisation': 1, 'ein': 1, 'nach': 1, 'zusammen': 1, 'Verein der Hilfe': 1, ': „Das': 1, 'ergänzt :': 1, 'den bürgerkriegsartigen': 1, '600': 1}

@@ -1,0 +1,1 @@
+{'Damaskus': 1, 'Aleppo': 1, 'syrische': 1, 'Assad': 1, 'USA': 1, 'Frankreich': 1, 'Großbritannien': 1, 'Syrien': 1, '.': 1, 'die': 2, 'ihre': 1, 'andere': 1, 'zu': 1, 'einem': 1, 'dem russischen Nachrichtenportal „RT': 1, 'sieht die': 1, 'sieht die Einmischungspolitik': 1, 'auf': 1, '” In den': 1, 'es den': 1, 'mit': 1, 'Rußlands': 1, 'schiitischer': 1, 'zurückzuerobern': 1}

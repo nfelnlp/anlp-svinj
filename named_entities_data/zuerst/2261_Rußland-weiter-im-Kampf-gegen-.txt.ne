@@ -1,0 +1,1 @@
+{'Moskau/Damaskus': 1, 'Die': 1, 'setzt in': 1, 'Kampf': 1, ')': 1, 'Generalstab': 1, 'jetzt mitteilte': 1, 'innerhalb des': 1, 'dabei': 1, 'daß': 1, 'Kampf gegen': 1, 'Al-Nusra-Front': 1, '.': 3, 'durch': 1, 'unsere Luftwaffe': 1, 'Terroristen': 1, 'konnte': 1, 'hinaus am': 1, 'hinaus am 28': 1, 'Kilometer': 1, 'aus': 1, 'Syrien': 1, '2015': 1, 'im Kampf': 1}

@@ -1,0 +1,1 @@
+{'Unterstützen': 1, 'Die Medienmaschine': 1, 'von der': 1, '.': 1, 'höre': 1, 'Muslim bin': 1, 'die': 1, 'auch': 1, 'will den': 1, 'Wenn': 1, 'elektrisierend': 1, '! Sie': 1, 'Frage : Haben Sie': 1, 'gehört': 1, ',': 2, 'Im': 1, '‚Abendzeitung ‘': 1, 'hieß es': 1, 'es sei': 1, 'Video': 1, 'über': 1, 'klar': 1, 'hier': 1}

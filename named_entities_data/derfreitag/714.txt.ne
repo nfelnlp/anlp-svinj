@@ -1,0 +1,1 @@
+{'bittet': 1, 'Junge': 1, 'sich': 1, 'auf': 1, 'besseren': 1, 'Tage': 1, 'Weise': 1, 'werden .': 1, 'von': 1, 'haben': 1, 'sind': 1, 'Geschichte': 1, 'erzählt': 1, 'ist': 1, 'über die': 1, 'gezeigt wurde .': 1, 'in': 1, 'Premiere': 1, '2012 ;': 1, 'Éric': 1, ',': 1, 'Maigne ;': 1, 'FSK 12': 1, ', 2': 1, 'Juni 2013': 1}

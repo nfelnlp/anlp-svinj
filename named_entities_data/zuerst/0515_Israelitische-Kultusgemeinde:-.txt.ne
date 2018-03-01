@@ -1,0 +1,1 @@
+{'Wien': 1, 'Österreich': 1, 'Israelitischen Kultusgemeinde': 1, 'Oskar Deutsch': 1, 'ÖVP': 1, 'SPÖ': 2, 'FPÖ': 2, 'appelliert': 1, 'der Bellen': 1, 'Partei': 1, '“': 1, 'Deutsch': 1, 'einer': 1, ',': 2, 'machten': 1, 'Sündenböcken': 1, 'Verschwörungstheorien': 1, 'können den': 1, 'Israel': 1, 'an der Klagemauer ihr': 1, 'wissen': 1, '(': 1}

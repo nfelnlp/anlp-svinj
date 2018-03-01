@@ -1,0 +1,1 @@
+{'in Washington lehrende Historiker': 1, 'eine': 1, 'gewählte': 1, ',': 1, 'fremde': 1, 'das': 1, 'den': 1, 'schildert': 1, 'dem': 1, 'Zusammenbruch': 1, 'bei': 1, 'Veranlagung': 1, 'amerikanischer': 1, 'vielbeschwatzten': 1, 'mehr': 1, 'abhanden': 1, 'auch': 1, 'Hand': 1, 'muß': 1, 'Generation': 1, 'halber Kenntnis': 1, 'Instytut Pamięci': 1, 'oberste': 1, 'genetischer': 1}

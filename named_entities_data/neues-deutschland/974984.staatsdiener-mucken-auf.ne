@@ -1,0 +1,1 @@
+{'Hessen': 1, 'streiken': 1, 'Richard Färber': 1, 'Wiesbaden': 2, 'Andreas Grün': 1, 'Polizeigewerkschaft GdP': 1, 'DGB-Kundgebung': 1, 'Sicht-': 1, '»': 1, ',': 1, 'an': 1, 'hatte': 1, 'gehört derzeit': 1, 'schärfsten': 1, 'Beamten': 1}

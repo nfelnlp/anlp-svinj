@@ -1,0 +1,1 @@
+{'Hamburg': 1, 'Syrien': 1, 'Irak': 1, '“ (': 1, ')': 1, 'in einem Interview': 1, 'Würde der': 1, 'Würde der Überlebenden': 1, 'und': 1, 'im': 1, '.': 1, 'Lagern': 1, 'wieder': 1, 'wurde': 1}

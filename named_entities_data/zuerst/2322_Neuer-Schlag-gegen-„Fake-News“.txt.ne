@@ -1,0 +1,1 @@
+{'Washington': 1, 'Dieser': 1, 'CNN und': 1, 'York': 1, 'diesmal „Politico ”': 1, 'diesmal „Politico ” ,': 1, 'die': 2, 'nicht dabei . Sie': 1, 'CBS': 1, 'dagegen': 1, ',': 1, 'auch': 1, 'des': 1, '– die': 1, 'Pressekonferenz': 1, 'Fragemöglichkeit für': 1, 'der „New': 1, ': „In': 1, 'dem Weißen Haus ist': 1, 'an': 1, ', andere': 1}

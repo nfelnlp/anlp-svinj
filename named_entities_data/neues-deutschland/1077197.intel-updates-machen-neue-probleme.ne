@@ -1,0 +1,1 @@
+{'. Der': 1, 'unvorhersehbaren': 1, 'Montag': 1, 'riet Herstellern': 1, 'Nutzern': 1, 'nicht': 1, 'der': 1, 'von': 1, '.': 1, 'es': 1, 'ARM': 1, 'und': 1, 'dass es zu': 1, 'Zeit': 1}

@@ -1,0 +1,1 @@
+{'Guido Reil': 2, 'Reil': 2, 'München': 1, 'SPD': 2, 'Großen': 1, 'den': 1, 'von': 1, 'hätten': 1, 'durch Kanzlerin': 1, 'Beruf Steiger im Bergbau': 1, 'in': 1, 'Alice': 1, 'bewiesen ,': 1, 'Frauen im': 1, 'der AfD keinesfalls': 1, 'auf': 1, 'kalte': 1, 'die': 1, 'in den': 1, 'den ländlichen Gebieten': 1, 'es': 1, 'bis': 1}

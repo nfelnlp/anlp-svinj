@@ -1,0 +1,1 @@
+{'Tom Cruise': 1, 'für': 2, 'von Stauffenberg , die zentrale': 1, '.': 1, 'nebenbei': 1, 'Gott': 1, 'Adolf': 1, 'Adolf Hitler': 1, 'Befehlshaber der': 1, 'und': 1, 'kann': 1, 'leisten': 1, 'Bundeswehr': 1, ',': 4, 'und das': 1, 'beschützen': 1, 'also': 1, 'nicht': 1, 'etwas ganz anderes': 1, 'lediglich': 1, 'Anlass': 1, 'dass es merkwürdig': 1, 'schreiben würde ,': 1, 'ganz': 1}

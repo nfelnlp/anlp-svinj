@@ -1,0 +1,1 @@
+{'München': 2, 'SPD': 1, 'Rudolf Stumberger': 1, 'CSU': 1, '» Bayern': 1, 'Freistaat': 1, 'Kurt Eisner': 1, 'Eisner': 1, 'erste': 1, 'der': 1, '.': 1, 'seine': 1}

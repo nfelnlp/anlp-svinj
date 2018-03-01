@@ -1,0 +1,1 @@
+{'Istanbul': 1, 'Jerusalem': 1, 'Hauptstadt': 2, ',': 1, 'in': 3, 'Ostjerusalem': 1, 'Islamische': 1, 'Und': 1, 'Sondergipfel': 1, 'Auftakt': 1, 'Staates': 1, 'Kritik': 1, 'Präsident': 1, 'Verlauf des': 1, 'die USA': 1, 'brauchen': 1, 'internationale': 1, 'forderte': 1, 'für die': 1, 'zu': 1, 'Anders': 1, 'der Region': 1, '. Trump': 1, 'an': 1, 'eine': 1, 'USA': 1}

@@ -1,0 +1,1 @@
+{'Alternative': 1, 'Herr-': 1, 'Frauenzeitschrift für die': 1, 'die': 1, 'hat': 1, '„Für die': 1, 'Nicht schlecht': 1, 'BRIGITTE': 1, 'BRIGITTE-Abo': 1, 'man': 1, 'schicken lassen': 1, 'erlesenen ,': 1, 'alle': 1}

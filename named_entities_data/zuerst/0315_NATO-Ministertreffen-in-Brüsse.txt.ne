@@ -1,0 +1,1 @@
+{'Brüssel': 2, 'NATO': 1, 'EU': 1, 'Vorstoß': 1, 'und': 1, 'je zuvor.': 1, 'der': 1, 'sich': 1, 'daß die': 1, 'können': 1, 'Nicht-Weiterverbreitung': 1, 'Nuklearwaffen': 1, 'Rußland': 1, 'in': 1, 'Militärbündnisses': 1, 'vor': 1, 'wurde': 1, '.': 1, 'ihr': 1, ',': 1, 'ohne': 1, 'mü': 1}

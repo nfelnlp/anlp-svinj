@@ -1,0 +1,1 @@
+{'Budapest': 1, 'Brüssel': 2, 'ungarische': 1, 'János Lázár': 1, 'die': 1, 'ihrer': 1, 'sich': 1, 'Vorbereitungen': 1, 'der': 1, 'in': 1, '.': 1, '„verbindliche': 1, 'sondern': 1, 'den': 1, 'habe': 2}

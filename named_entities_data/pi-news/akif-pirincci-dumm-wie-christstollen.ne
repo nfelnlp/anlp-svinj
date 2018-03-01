@@ -1,0 +1,1 @@
+{'auseinandergenommen': 1, 'fremde': 1, 'bleibt': 1, 'übrig': 1, '“': 1, 'weltbewegende': 1, 'zu': 1, 'unten': 1, 'aufgeschnittener': 1, 'Brot': 1, 'Schön': 1, 'gut': 1, 'sind die': 1, '.': 1, 'seit': 1, 'zwischen': 1, 'Kulturen völlig unterschiedlichen': 1, 'aufgeladenen': 1, ', daß': 1, 'Getreu': 1}

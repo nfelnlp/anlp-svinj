@@ -1,0 +1,1 @@
+{'Washington': 1, 'Leyen': 2, 'CDU': 1, 'James Mattis signalisierten': 1, 'US-Präsident': 1, 'Äußerungen': 1, 'Spekulationen': 1, 'und': 1, 'zur': 1, 'Deutschland': 1, 'regelmäßig': 1, 'Stimme': 1, 'mit': 1, 'Haltung': 1, 'aus': 1, 'zu': 1, 'Entgegenkommen': 1}

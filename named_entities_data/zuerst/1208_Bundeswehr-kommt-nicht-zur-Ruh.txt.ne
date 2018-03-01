@@ -1,0 +1,1 @@
+{'Sigmaringen': 2, 'ihre': 1, 'mit': 1, 'belegt': 1, ',': 2, '„Darf': 1, 'im': 1, ', nannte': 1, '„schlechteste': 1, 'Pfullendorf-Affäre': 1, 'Pfullendorf-Affäre aufgebauscht zu': 1, 'Alarmismus': 1, 'Pannen': 1, 'G36': 1, '.': 1}

@@ -1,0 +1,1 @@
+{'Wien': 1, 'ÖVP-FPÖ-Regierung': 1, 'rund': 1, 'fordert': 1, 'eine': 1, 'zur': 1, 'kostet': 1, 'aus': 1, 'Gesetz': 1, 'Österreich': 1, 'vor': 1, 'in Sachen': 1, 'geltender': 1, 'Richtung sehen': 1, 'Ist': 1, 'fair': 1}

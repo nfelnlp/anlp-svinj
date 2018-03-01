@@ -1,0 +1,1 @@
+{'Suzn Fahmi': 1, 'Dohuk': 1, 'Jinda': 1, '(': 1, 'entkommen': 1, 'wünschen': 1, '.': 1, 'hat': 1, 'zu': 1, 'Schreckliches': 1, 'haben': 2, 'Frauen': 1, 'Familien': 1, 'Geld da': 1, 'immer gesagt': 1, 'Familie': 1, 'ist': 1, 'Muslime': 1, 'und': 1}

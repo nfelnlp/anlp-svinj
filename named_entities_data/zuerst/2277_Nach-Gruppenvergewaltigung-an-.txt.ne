@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Wien': 1, 'wegen': 1, 'Dem': 1, 'feiern': 1, 'vier': 1, 'Männer': 1, 'Betroffene': 1, 'ins Gefängnis und': 1, 'Kronzeugen Nael': 1, '. Clan-Oberhaupt Sabah': 1, ',': 1, '.': 1, '. und': 1, 'Nazar Al-J .': 1, 'Jahre.': 1, 'als': 1, 'als auch': 1, 'forderte die Höchststrafe': 1, 'die': 1, 'Täter': 1}

@@ -1,0 +1,1 @@
+{'“': 1, '.': 2, '„seiner': 1, 'Wohnung': 1, 'der': 4, 'geplanten': 1, 'kamen dem': 1, 'München bestätigte jetzt': 1, 'Der': 1, 'ihn': 1, 'nun': 1, '?': 1, 'floh': 1, 'Polizei': 1, 'sie': 2, 'den': 1, 'es': 1, ',': 1, 'auf': 1, 'sich': 1, '„jugendliche': 1, 'betreut': 1, 'zweimal': 1, 'von': 1, 'dabei': 1, 'Höchststrafe': 1, '18-Jährigen': 1, 'Prozess': 1, 'laut dem': 1}

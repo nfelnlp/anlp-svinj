@@ -1,0 +1,1 @@
+{'Teheran': 1, '“': 1, 'zusammen': 1, 'dem': 1, 'Großbritannien': 1, 'Israel': 1, 'Saudi-Arabien': 1, '„Heuchler “ und': 1, 'iranische': 1, 'change': 1, 'hatte': 1, 'UN-Sicherheitsrates': 1, 'kritisiert': 1, 'für': 1, 'zu nutzen': 1, 'besorgniserregend': 1, 'Frieden': 1, 'im Iran': 1, 'der USA': 1, 'die': 1, 'nicht': 1, 'zu': 1, 'still': 1, '22': 1, 'Rädelsführer': 1}

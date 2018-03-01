@@ -1,0 +1,1 @@
+{'Welt': 1, 'VIVA': 1, 'Karriere': 1, 'geplante': 1, 'erste Etappe einer': 1, 'DISS )': 1, 'bei': 1, 'Klumb': 1, 'Im': 1, 'SONY': 1, ':': 1, '.': 3, 'stumpfer': 1, ',': 3, 'das': 1, '68er': 1, 'Härte falsch': 1, 'Mentalität': 1, 'Erfolg': 1, 'greifen denn': 1, 'halt': 1, 'wurde': 1, 'über': 1, 'der': 1, 'keine': 1, 'Ich': 1, 'Interesse': 1, ': Wer': 1}

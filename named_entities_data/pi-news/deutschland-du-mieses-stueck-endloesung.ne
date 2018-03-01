@@ -1,0 +1,1 @@
+{'BENTO': 1, 'SPIEGEL': 1, 'sich': 1, 'demnächst einen': 1, 'er sich': 1, 'einer': 1, 'einer Hanna': 1, 'es zu wissen': 1, ', denn': 1, '„Überfremdung': 1, 'bestimmt': 1, 'die': 3, ',': 1, 'noch': 2, 'nicht': 1, 'nennen': 1, 'es': 1, 'Definition': 1, 'sehr': 1, 'wie': 1, 'wegen': 1, 'läuft': 1, 'kalt': 1, 'das': 1, 'wehren': 1, 'unsere': 1}

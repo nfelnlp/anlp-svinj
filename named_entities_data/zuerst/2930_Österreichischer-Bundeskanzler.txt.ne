@@ -1,0 +1,1 @@
+{'Wien': 2, 'Christian Kern': 1, 'SPÖ': 1, 'oder': 1, '.': 1, 'das': 1, 'Kern': 1, 'viele': 1, 'aber': 1, '„inhaltlichen': 1, 'Menschen': 1}

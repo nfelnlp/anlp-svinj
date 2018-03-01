@@ -1,0 +1,1 @@
+{'titelte': 1, 'ein': 3, 'zwischen einer Gruppe': 1, 'am helllichten': 1, 'der': 1, 'Dachau': 1, 'wollte': 1, 'ist': 1, 'Iraker': 1, 'Lokalzeitung': 1, 'Glocke “': 1, 'Letzt': 1, 'Imbiß': 1, 'einem': 2, 'ZUERST': 1}

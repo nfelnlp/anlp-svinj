@@ -1,0 +1,1 @@
+{'Fortsetzung': 1, ',': 2, 'kein': 1, 'hat': 1, 'Union': 1, 'Ergebnis': 1, 'mehr': 1, 'Stabilisierung': 1, 'Parität': 1, '»': 1, 'allerdings': 1, 'zur': 1, 'der': 1, 'die': 1, 'gesetzlichen': 1, 'und': 1}

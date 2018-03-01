@@ -1,0 +1,1 @@
+{'Die': 1, 'Mossul , Boutros': 1, 'in': 1, 'Interview der': 1, 'sagte der': 1, '„Wir': 1, 'sehen': 1, 'der': 1, 'aber': 1, ',': 1, '.': 1, 'Geschichte': 1, ', ihre': 1, 'zu': 1}

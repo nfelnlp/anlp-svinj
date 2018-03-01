@@ -1,0 +1,1 @@
+{'verdankte ich': 1, 'war': 1, 'Unter einer': 1, 'einschrieb': 1, 'darf sein Wirken': 1, 'Publizist': 1, 'und': 3, 'verlangt': 1, 'eher': 1, '.': 1, 'zu': 1, 'konnte .': 1, 'selbstverständlich war .': 1, 'wurde': 1, 'mit': 1, '3b eine': 1, ', die': 1, 'uns eine': 1, 'eigentlich': 1, 'hätte': 1, 'Die': 1, '. Der': 1, 'Teilen :': 1}

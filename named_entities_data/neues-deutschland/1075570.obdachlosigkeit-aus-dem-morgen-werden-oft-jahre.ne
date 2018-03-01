@@ -1,0 +1,1 @@
+{'Nach': 1, 'altem': 1, 'ist': 1, 'polnischen': 1, 'lächelt': 1, '. Die': 1, 'Flughafen': 1, 'die': 1, 'von': 1, 'manchmal': 1, 'gelebt': 1, 'beleidigend': 1, 'auf': 1, 'Airports': 1, 'Jahr': 1, 'Privatsphäre im': 1, 'sich': 1, 'immerhin.': 1, 'vergleichsweise': 1, 'zu': 1, 'erklärt': 1, 'gut': 1, 'darauf': 1, '. Hinzu': 1, 'Ohne': 1, 'Absprung nicht': 1, 'Wohnung': 1}

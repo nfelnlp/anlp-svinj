@@ -1,0 +1,1 @@
+{'Damaskus': 1, 'Syrien ist': 1, 'Darstellung': 1, 'syrischen': 1, 'Der': 1, 'habe': 1, 'syrische': 1, 'Sonntagnachmittag': 1, 'damit': 1, 'daß': 1, 'hat': 1, 'Abschuß': 1, 'gedroht': 1, 'Ziel betrachten': 1, 'Ministerium': 1, 'dieser': 1, '“ ,': 1}

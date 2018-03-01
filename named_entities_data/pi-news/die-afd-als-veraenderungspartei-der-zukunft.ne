@@ -1,0 +1,1 @@
+{'CDU-Meinungsbeeinflussungsinstitut': 1, 'AfD': 1, '–': 1, '.': 1, 'Grüne': 1, 'Linke': 1, 'zunehmend': 1, 'sind': 1, ',': 1, 'Nur': 1, 'als': 1, 'Denn': 1, 'Beziehung': 1, 'Bestand': 1, 'Tatsächlich': 1, 'nicht': 1, 'es': 1, 'diesen': 1, 'weitgehend': 1, 'Verruf': 1, 'kapitalismuskritischer': 1, 'Wahlkampfs hat': 1, 'verzichtet': 1}

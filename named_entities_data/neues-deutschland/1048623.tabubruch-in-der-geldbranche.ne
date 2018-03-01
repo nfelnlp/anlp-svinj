@@ -1,0 +1,1 @@
+{'. Das': 1, '- zumindest': 1, '.': 2, 'wenn »': 1, 'Markt «': 1, 'einem': 1, 'System': 1, 'Gehaltstarifvertrag': 1, 'Forderungen': 1, ',': 1, 'für die': 1, 'So': 1, 'Samstag': 1, 'mehr': 1}

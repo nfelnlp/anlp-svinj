@@ -1,0 +1,1 @@
+{'. Erst': 1, 'mindestens': 1, '.': 1, 'hatten bis': 1, 'Boden': 1, 'ein': 1, 'Mädchen': 1, 'weggerissen': 1, 'in': 1, 'NBC': 1, 'ich': 1, ',': 1, '. Mehrere': 1, 'Dutzend Menschen': 1, 'Dutzend Menschen würden': 1, 'gerannt und': 1, 'Bett': 1, 'quasi': 1, 'Regenfälle waren': 1, 'Bundesstaats': 1, 'mehr .': 1, 'überschwemmten': 1, 'überschwemmten Region': 1, 'kein Fluss .': 1}

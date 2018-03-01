@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'beschäftigt sich': 1, 'Menschen': 1, '„Mit Trauer und': 1, 'fröhliches': 1, ',': 1, 'einmal': 1, 'Nizza': 1, 'so': 1, 'und': 1, 'fort': 1, 'eine': 1, '.': 1, 'der': 2, 'uns': 1, 'Terrorismus': 1, 'zugegeben': 1, 'Denkfiguren': 1, 'Terroristen': 1, 'politischen': 1}

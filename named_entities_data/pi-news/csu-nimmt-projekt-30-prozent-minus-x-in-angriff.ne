@@ -1,0 +1,1 @@
+{'CSU': 1, 'Horst Seehofer': 1, 'Herrmann .': 1, 'Emilia Müller und': 1, 'Mayer ,': 1, ',': 7, 'als': 1, 'kommt': 1, 'Damit': 1, 'Ausmaß': 1, 'beim': 1, 'der gegenüber': 1, 'deutschen Behörden': 1, 'der': 1, 'Tagen in Kandel': 1, 'bei': 1, 'Viertel': 1, 'Ende': 1, 'wahren Landplage': 1, '.': 1, 'Somit': 1, 'nur': 1, 'dieser': 1, 'sind': 1}

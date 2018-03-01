@@ -1,0 +1,1 @@
+{'Zuwanderer soll': 1, 'Hilfe': 1, 'bevor': 1, 'jedoch': 1, 'Berliner': 1, 'gegen den': 1, 'großen': 1, 'nachgewiesen': 1, '“': 1, 'ist': 1, 'des': 2, 'Scharia-Recht': 1, 'Monate': 1, 'besorgen': 1, 'Richter Jürgen': 1, 'unverzüglich': 1, 'Strafverhandlung fest': 1, 'ganzen': 1, 'ganzen Völkergruppe': 1, 'Urteil :': 1, '.': 1, 'Dorf': 1, 'Tahrirolvasyleh': 1}

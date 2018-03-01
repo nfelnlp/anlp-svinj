@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Augsburg': 1, 'Linus': 1, ', droht': 1, 'vorgeworfen': 1, 'die': 1, 'daraufhin': 1, 'Prozeßtermin': 1}

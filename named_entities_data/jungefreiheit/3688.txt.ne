@@ -1,0 +1,1 @@
+{'das': 1, 'des': 2, 'Kurve blinkt': 1, 'Auge': 1, 'lachen': 1, 'Sie': 1, '!': 1, 'Zusammen': 1, 'Deutschkanadier': 1, 'National': 1, 'Gletscher': 1, 'im Raum': 1, 'Hier': 1, "stark ''": 1, ',': 1, 'Geschirre': 1, 'nichts': 1, 'Formen': 1, 'Hüften im': 1, 'Streß': 1, 'einem Mann': 1, 'einen': 1, 'Ochsen': 1, 'keine': 1, 'keine Wahl': 1, 'der': 2, '.': 1, ', drei': 1}

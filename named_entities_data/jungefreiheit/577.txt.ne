@@ -1,0 +1,1 @@
+{'Hause': 1, 'in': 1, 'bevor': 1, 'geworden': 1, 'schnell': 1, 'wußten': 1, 'etwas macht ,': 1, 'Ausländer': 1, 'Ausländerbeauftragtem': 1, 'mit': 1, ',': 1, 'auf': 1, 'viel': 1, 'Mehrheit': 1}

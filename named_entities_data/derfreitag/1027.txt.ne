@@ -1,0 +1,1 @@
+{'Boniface Mwangi': 2, 'Nairobi': 1, 'stößt': 1, 'den': 1, 'Jugendlichen Michael': 1, 'in Ferguson': 1, 'Times steht ,': 1, 'die': 1, '“': 1, '. Eine': 1, 'mit schwarzer': 1, 'Sie': 1, 'Gegenfrage': 1, '.': 1, 'USA': 1, 'Die': 1, 'sich': 1, 'in': 2, 'Ungerechtigkeit': 1, 'Afrikas': 1, 'selbsterklärte': 1, ',': 1, 'Heimat': 1, 'Jugendlichen': 1, 'fragt': 1}

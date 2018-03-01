@@ -1,0 +1,1 @@
+{'Lactalis': 1, 'Laval': 2, 'Ralf Klingsieck': 1, 'Paris': 1, 'Paris Lactalis': 1, 'Bretagne': 1, 'Frankreich': 2, 'Spanien': 1, 'Griechenland': 1, 'Europa': 1, 'Bruno Le Maire Lactal-Chef': 1, 'am Freitagnachmittag': 1, 'wurden': 1, 'alle': 1, 'gewesen sein': 1, 'im': 1, 'zurückzurufen': 1, 'Kontrollen': 1, 'die': 1, 'auf': 1, 'drei': 1, '47 )': 1, 'der': 1, 'ist': 1}

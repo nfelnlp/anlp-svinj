@@ -1,0 +1,1 @@
+{'NSU-Prozess': 1, 'selbst in': 1, 'COMPACT-Edition': 1, '–': 1, 'vor dem': 1, 'Widersprüche': 1, 'die': 2, 'einer': 1, 'mitverfasst hat': 1, 'ihre': 1, 'Tathintergründen': 1, 'hatten': 1, 'einzelne in': 1, 'Anklageschrift aufgeführte': 1, 'Mundlos und': 1, 'gewesen': 1, 'Papiere': 1, 'aber': 1, ',': 1, 'in demjenigen': 1, '2011': 1, 'elf': 1, 'Teil der': 1, 'große': 1}

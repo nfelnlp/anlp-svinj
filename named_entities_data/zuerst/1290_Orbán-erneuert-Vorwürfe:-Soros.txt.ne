@@ -1,0 +1,1 @@
+{'Budapest': 1, 'ungarische': 1, 'Viktor Orbán': 1, 'EU-Kommission': 1, 'einen': 1, 'jedes Jahr': 1, 'Den': 1, 'die': 2, 'es': 1, 'der': 1, 'soll': 1, 'derzeit vonseiten der': 1, 'daß': 1, 'EU-Regierungschef': 1, 'sei': 1, 'Orbán': 1, 'Soros': 1, 'mit der': 1, 'Rundfunk': 1}

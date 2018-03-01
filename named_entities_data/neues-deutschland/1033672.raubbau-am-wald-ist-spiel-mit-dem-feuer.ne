@@ -1,0 +1,1 @@
+{'Ghana': 2, 'Felix Riedel': 1, 'gesättigtes': 1}

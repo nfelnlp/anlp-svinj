@@ -1,0 +1,1 @@
+{'Thema': 1, 'Islam-': 1, 'dieses Thema zu': 1, 'Töchter': 1, 'einem Gastbeitrag': 1, 'schon': 1, 'soll etwa die': 1, 'muss': 1, 'in': 1, '“': 3, '– und': 1, ', ist': 1, 'Beispiel AfD-Funktionäre': 1, 'ihrer': 1, 'Leitkultur': 1, 'Sawsan Chebli ,': 1, 'die': 1, 'Schariageneigte': 1, 'es sich bei': 1, 'Auch er': 1, 'offenbar im': 1}

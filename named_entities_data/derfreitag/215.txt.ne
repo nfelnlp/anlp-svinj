@@ -1,0 +1,1 @@
+{'Peking': 1, 'Mike Clarke/AFP/Getty': 1, 'Noch': 1, 'wenigen': 1, 'Ausgehviertel': 1, 'weiß': 1, 'welchen': 1, 'dem': 1, 'schon': 1, 'Rauchverbot': 1, 'beigebracht ,': 1, 'viel': 1, 'Tobacco': 1, 'dem auch die Zentralregierung': 1}

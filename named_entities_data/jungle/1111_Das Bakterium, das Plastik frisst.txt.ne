@@ -1,0 +1,1 @@
+{'Chris Jordan': 1, 'CC': 1, 'hatte man': 1, 'schafft es': 1, 'von der': 1, 'Kyoto die Ergebnisse': 1, 'Die': 1, 'formulierte ,': 1, 'filtrierenden': 1, 'Haum in': 1, 'erschienenen Sammelband': 1, ',': 1, 'es als': 1, 'unkontrolliert ,': 1, 'Fischerei': 1, 'als': 1, 'nicht': 2, 'ab': 1, 'indem sie': 1, 'an': 1, 'entwickeln': 1, 'er': 1}

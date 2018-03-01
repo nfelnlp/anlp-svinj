@@ -1,0 +1,1 @@
+{'Bevölkerungen': 1, 'übersichtlichen': 1, 'auch': 1, 'Millionen': 1, 'lernen': 1, 'Preisen': 1, 'sicherlich': 1, 'in die': 1, 'erhalten': 1}

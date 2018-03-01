@@ -1,0 +1,1 @@
+{'Widerstand': 1, 'Schlagzeilen': 1, 'Sprecher': 1, 'ihrerseits von «': 1, 'Orten': 1, 'Verein': 1, 'Befreite': 1, 'Bure': 1, 'war': 1, 'den': 1, 'Tagen': 1, 'spontanen': 1, 'Menschen': 1, 'Auch': 1, 'sprachen': 1, 'gefährlichen Polizeigewalt': 1, 'als': 1, 'von Blendgranaten': 1, 'von': 1, 'Umweltminister': 1, '»': 1, '«': 1, '.': 1, 'verschleiert': 1, '(': 1, 'nun': 1}

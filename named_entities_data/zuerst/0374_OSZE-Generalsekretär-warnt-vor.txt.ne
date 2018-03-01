@@ -1,0 +1,1 @@
+{'Wien': 1, 'OSZE-Generalsekretär': 1, 'hat angesichts': 1, 'dem': 1, '.': 1, 'unter Hinweis': 1, 'und': 1, 'Hier': 1, 'ein': 1, 'Dokument': 1, 'vertrauensbildende': 1, '„dringend': 1, 'werden': 2, 'Landkriege': 1}

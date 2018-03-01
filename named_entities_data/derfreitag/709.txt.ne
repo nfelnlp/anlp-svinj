@@ -1,0 +1,1 @@
+{'Volker': 1, 'das': 1, 'sich': 1, ',': 1, 'zugespitztes dokumentarisches': 1, ':': 1, 'Ausgabe': 1, '.': 2, 'mit': 1, 'und': 1, 'fetter': 1, 'wildem': 1, 'griechische': 1, ';': 1, 'Augen': 1, 'teilhaben': 1}

@@ -1,0 +1,1 @@
+{'Washington/Damaskus': 1, 'Beobachter': 1, '. Am': 1, 'der vor wenigen': 1, 'hieß': 1, 'kleine': 1, 'verhindern': 1, 'geheimen Operationen': 1, 'Nun': 1, 'kooperieren': 1, 'als': 1, 'den': 1, '„Wall': 1, 'in': 1, 'Donald': 1, 'Inzwischen': 1, ', und': 1, 'während': 1, 'Rolle': 1, ')': 1}

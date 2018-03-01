@@ -1,0 +1,1 @@
+{'. Der': 1, 'vergleichbare': 1, 'als 6,5': 1}

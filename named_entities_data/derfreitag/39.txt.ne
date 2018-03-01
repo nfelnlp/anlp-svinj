@@ -1,0 +1,1 @@
+{'die veränderte': 1, 'die Piraten': 1, 'Die': 1, 'Artikel erschien': 1, 'sprachlos': 1, 'hat': 1, 'die Spitzenkandidaten': 1, ',': 2, 'ihrem': 1, 'Regierungsbeteiligung': 1, 'grundsätzlicher': 1, 'Software': 1, 'wird': 1, 'für': 1, '?': 1, 'Auch': 1, 'schützen': 1, 'sagen': 1, 'Bedienstete': 1, 'Piraten': 1, 'einem': 1, 'im selben': 1, 'noch Bundesschatzmeister': 1}

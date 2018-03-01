@@ -1,0 +1,1 @@
+{'March': 2, 'Freedom': 2, 'Fabio Angelelli': 1, 'Luxemburg': 1, 'ihre': 1, 'werfe ihnen': 1, 'zu': 1, 'protestieren': 1, 'von': 1, '.': 1, '2014': 1, 'tagten': 1, '...': 1}

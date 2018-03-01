@@ -1,0 +1,1 @@
+{'New': 1, 'New York': 1, 'hat im': 1, 'geben .': 1, 'sei': 1, 'jeder kluge und': 1, ',': 1, 'inzwischen': 1, 'Entwicklung': 1, 'Entwicklung von': 1, 'ein': 1, '„Es': 1, 'um': 1, 'nicht so unanfällig': 1, 'wenn nur': 1, 'vermutlich': 1}

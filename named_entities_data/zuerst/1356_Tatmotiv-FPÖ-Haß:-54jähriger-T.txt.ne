@@ -1,0 +1,1 @@
+{'Linz': 2, 'Österreich': 1, 'Polizei': 2, 'Tunesien': 1, '.': 2, 'gemacht': 1, 'und': 2, 'wegen': 1, 'negativen': 1, 'Die': 1, 'mit .': 1}

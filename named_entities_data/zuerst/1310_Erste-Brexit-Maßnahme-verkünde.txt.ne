@@ -1,0 +1,1 @@
+{'London': 1, 'EU': 1, 'britische': 1, 'Michael Gove': 1, 'Großbritannien': 1, 'als': 1, 'seit': 1, 'Barnier': 1, 'auf': 1, 'britischen': 1, 'der': 3, 'für': 1, 'kann': 1, '200-Seemeilen-Zone': 1, 'selbst': 1, 'kontrolliert damit': 1}

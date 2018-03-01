@@ -1,0 +1,1 @@
+{'Porsche': 1, 'das': 1, 'selbsternannte': 1, 'unseren Interviewpartner': 1, 'Gespräch mit Oliver': 1, 'des Vereins': 1, 'hat': 1, 'und Fernsehmoderator': 1, 'und Schadstoffausstoß ausgelegt': 1, '–': 1, 'in': 2, 'Gesundheit': 1, 'Gesellschaft': 1, 'COMPACT': 1, 'hohem': 1, '.': 1, 'Jahren': 1, 'zu Konservativen': 1, 'Gewissen': 1, ',': 1, 'würde': 1, 'eines': 1, 'billigere': 1}

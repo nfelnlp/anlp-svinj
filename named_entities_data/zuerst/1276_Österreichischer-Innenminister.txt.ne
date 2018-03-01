@@ -1,0 +1,1 @@
+{'Wien': 1, 'Österreich': 1, '.': 1, 'längst': 1, 'vergleichbar': 1, ') hält': 1, 'für': 1, 'in': 1, 'belastet': 1, 'grundsätzlich': 1, 'Jugendarbeitslosigkeit': 1, 'über': 1}

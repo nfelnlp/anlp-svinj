@@ -1,0 +1,1 @@
+{'es im': 1, 'schon': 1, 'und': 1, 'Unterschied': 1, 'der': 2, '.': 2, 'Völkern': 1, 'Vorstandsetagen': 1, '? Dabei': 1, 'zu': 1, 'Tage': 1, 'zum': 1}

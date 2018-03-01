@@ -1,0 +1,1 @@
+{'Wien': 1, 'Europa': 1, 'Luif': 1, 'Verteidigungsministerium': 1, 'befänden': 1, 'etwa': 1, '.': 1, 'Osten': 1, 'werde ,': 1, 'in': 1, 'Hauptprobleme': 1, 'nur': 1, 'Gefahr': 1}

@@ -1,0 +1,1 @@
+{'Mitch McConnell': 1, 'Yellowstone Park': 1, 'Portrait': 1, 'Washington schließen sollten': 1, '2013': 1, 'Washington': 1, 'bis': 1, 'Wahlversprechen ,': 1, 'mögliches': 1, 'Obama initiierte': 1, ', die': 1, 'Gegenstand': 1, 'selbst': 1, '«': 1, 'Schuhe': 1, 'einem': 1, 'schon': 1}

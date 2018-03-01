@@ -1,0 +1,1 @@
+{'Berlin': 1, 'Polizei': 1, 'Sicherheitskreisen': 1, 'die': 1, ',': 4, 'und': 1, 'Bevensen in': 1, 'sowie': 1, '.': 1, 'Linksextremisten': 1, 'Aktionen': 1, 'so': 1, '“': 1, 'Deutschen': 1, 'Die Taten': 1, '„Die': 1, 'mit': 1, '(': 1}

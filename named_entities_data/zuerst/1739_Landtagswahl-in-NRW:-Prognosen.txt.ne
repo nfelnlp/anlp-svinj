@@ -1,0 +1,1 @@
+{'Infratest Dimap': 3, '( SPD': 1, 'tritt': 1, 'von': 1, 'Hochrechnung der': 1, 'Forschungsgruppe Wahlen': 1}

@@ -1,0 +1,1 @@
+{'Gesellschaft 6': 1, 'Gesellschaft 6 Chemnitz': 1, 'Chemnitz': 1, 'Laura G. (': 1, 'Stadtpark': 1, '(': 1, 'sie': 1, 'entschuldigte sich vor': 1, 'bei': 1}

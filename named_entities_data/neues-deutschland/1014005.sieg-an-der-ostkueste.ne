@@ -1,0 +1,1 @@
+{', Vorsitzender': 1, ',': 1, 'Einigung im': 1, 'und': 1, 'in Massachusetts': 1, 'Es': 1, 'spekuliert': 1, 'Dies': 1, 'Arbeitsplätze in': 1, 'schon': 1, 'umso': 1}

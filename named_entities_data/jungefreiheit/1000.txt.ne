@@ -1,0 +1,1 @@
+{'Pier Paolo Pasolini': 1, 'Polizei': 1, 'auf .': 1, 'konservativen Corriere': 1, '( E. H.': 1, 'es': 1, '(': 1, 'sie': 1, "Rechts ''": 1, '``': 1, 'gleichermaßen erfaßt': 1, '.': 1, 'als Produkt': 1, 'links-rechten': 1, 'Verse': 1, 'Primat': 1, 'körperlich-mimetische': 1, 'der Mut': 1, 'Primäres Ziel': 1, 'eines erneuten': 1}

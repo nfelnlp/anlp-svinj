@@ -1,0 +1,1 @@
+{'Grenze': 1, '.': 1, 'Streitkräfte': 1, 'der': 3, 'deutsche': 1, 'Montag': 2, 'Bundestag ,': 1, 'von': 2, 'die': 2, 'sich': 1, 'Erdogan': 1, 'von ihrer': 1, 'in': 1, 'und': 1, 'deutlich': 1, 'Die': 1, 'Wochenende': 1, 'YPG': 1, '(': 1, 'mit': 1, 'Nachrichtenagentur': 1, 'Operation': 1, 'Angaben ,': 1, 'Miliz': 1, 'Terrorpropaganda': 1}

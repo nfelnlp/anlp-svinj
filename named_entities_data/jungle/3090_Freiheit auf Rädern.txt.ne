@@ -1,0 +1,1 @@
+{'Berlin': 2, 'alliance': 1, 'dpa': 1, 'Der': 1, 'Überall': 1, 'des': 1, 'Mecklenburg-Vorpommern im Straßenverkehr': 1, 'Leben zu kommen': 1, 'stellt': 1, 'Freiheit': 2, '.': 4, ',': 2, 'so': 1, 'mal': 1, 'Selbst': 1, 'Rad': 1, 'anbietet .': 1, 'auch': 1, '– dort allerdings': 1, 'es': 1, 'verwechseln': 1, 'Die': 1, 'die': 1, 'ist': 1, 'Millionen –': 1, 'Es': 1}

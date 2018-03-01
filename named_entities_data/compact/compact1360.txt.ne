@@ -1,0 +1,1 @@
+{'Islam': 1, 'Mann': 1, 'innerhalb': 1, 'ist .': 1, ':': 1, 'Kosovo-Albaner': 1, 'Axt': 1, '.': 2, 'mehr': 1, 'hundert': 1, 'wie': 1, 'der': 2, 'Nationalität': 1, 'steuert': 1, 'dem': 1, 'den': 1, 'loszugehen': 1, 'ist': 1, 'des': 1, ',': 2, 'sein': 1, 'die': 1, 'abschließen': 1, 'auf': 1, 'und den Wirt ein': 1, 'Bereicherung': 1, 'Leben': 1}

@@ -1,0 +1,1 @@
+{'Cantaloop': 1, 'Goebbels': 1, 'Friedrich': 1, 'Großen': 1, 'einer': 1, 'wird': 1, 'Schulunterricht größtenteils auf': 1, 'kann': 1, 'dezidiert': 1, 'namentlich': 1, 'wie sie': 1, 'sondern ihren': 1, 'sondern ihren polit-korrekten': 1, 'dazu': 1, 'ganz': 1, ',': 1, 'werden': 1, 'sein': 1, 'Noch': 1, 'ihrer': 1}

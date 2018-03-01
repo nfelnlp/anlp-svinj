@@ -1,0 +1,1 @@
+{'von': 2, 'hat': 1, 'eine': 1, 'Wortführerin': 1, 'Lobby': 1, '« zu Felde': 1, 'durch': 1, 'pour': 1, 'für': 1, 'unterzog man': 1, ', Argumente und': 1, 'der »': 1, 'Vielfalt « einer kritischen Prüfung .': 1}

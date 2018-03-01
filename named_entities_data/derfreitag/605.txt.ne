@@ -1,0 +1,1 @@
+{'man': 1, 'Friseur': 1, 'ich': 1, 'Blickes': 1, 'stark': 1, 'und': 1, ',': 1, "''": 1, 'irren/': 1, 'auch': 1, 'manchen': 1, 'Gewesenen': 1, 'Sensation': 1}

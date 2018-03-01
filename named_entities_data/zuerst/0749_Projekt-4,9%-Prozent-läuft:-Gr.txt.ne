@@ -1,0 +1,1 @@
+{'Osnabrück': 1, 'Grünen-Europapolitiker': 1, 'schließt sich': 1, ':': 1, 'eigen': 1, 'internationale Koalition': 1, 'Nationen': 1, ',': 1, ', solle': 1, 'Verwaltungsreform': 1, 'UN': 1, 'da': 1, 'wichtiger': 1, '“': 1, 'zustande ,': 1, '.': 1, 'und': 1, 'uns das': 1}

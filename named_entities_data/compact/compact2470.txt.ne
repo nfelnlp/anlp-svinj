@@ -1,0 +1,1 @@
+{'ungarische': 1, 'Viktor Orbán': 1, 'hereingelassen': 1, 'Europäischen Parlament': 1, 'Mag': 1, 'Brüssel': 1, 'Europa': 1, 'ein': 1, 'dies': 1, 'für': 1, ',': 1, 'auch': 1, 'wird': 1, 'in': 1, 'im': 1, 'George': 1, 'Soros': 1, 'nur': 1, 'werden': 1, 'während': 1, 'sitzen': 1, 'der': 1}

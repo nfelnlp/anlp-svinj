@@ -1,0 +1,1 @@
+{'NSU': 2, 'Beweismitteln': 1, 'anderem': 1, 'Böhnhard am': 1, '. November': 1, 'um': 2, '.': 3, '21': 1, 'dass': 1, 'der Lunge': 1, 'Rußpartikel vom': 1, 'dagegen': 1, 'daraufhin': 1, 'danach': 1, 'etwas': 1, 'nicht .': 1, ':': 1, 'seit': 1, 'zwei': 1, 'Mittätern': 1, 'die': 1, 'Kanzleramt': 1, 'globale': 1, 'Fördern': 1, 'COMPACT': 1}

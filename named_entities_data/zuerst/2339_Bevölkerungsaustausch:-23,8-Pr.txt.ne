@@ -1,0 +1,1 @@
+{'Wien': 1, '–': 1, 'gaben': 1, 'mit': 1, '(': 2, 'und': 1, ')': 1, 'Umgangssprache': 1, 'es': 1}

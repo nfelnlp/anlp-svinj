@@ -1,0 +1,1 @@
+{',': 3, 'machen': 1, 'oft': 1, 'und': 1, 'bis': 1, 'Gera': 1, 'Auf': 1, 'Verkehrsverbund': 2, 'Auto': 1, 'noch': 1, 'Thüringischen': 1, ', einen': 1, 'des': 1, 'sei man': 1, 'Auffassung': 1, 'immerhin': 1, 'das': 1, ', im': 1, '2018': 1, 'Wochen': 1, 'dieses': 1}

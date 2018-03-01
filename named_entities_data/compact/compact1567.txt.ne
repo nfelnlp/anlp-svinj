@@ -1,0 +1,1 @@
+{'COMPACT': 1, 'das II': 1, 'eine': 1, '.': 1, 'So wie das Gesetz jetzt': 1, 'Beratungsinstitutionen': 1, 'gebildet ,': 1, 'der Pflegebedürftigen': 1, 'diese Rücklagen': 1, ',': 1}

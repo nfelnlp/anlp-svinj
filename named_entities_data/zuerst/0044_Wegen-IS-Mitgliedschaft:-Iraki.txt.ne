@@ -1,0 +1,1 @@
+{'Bagdad': 1, '(': 1, 'mit': 1, 'gefangengenommen': 1, 'gegen eine': 1, 'den': 1, 'haben': 1, 'beiden': 1, 'das': 1, 'sei': 1}

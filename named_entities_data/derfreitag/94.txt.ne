@@ -1,0 +1,1 @@
+{'Berlin': 1, ',': 2, 'dieser': 1, 'die': 1, 'Arbeitslose': 1, ':': 1, '.': 2, 'den': 1, 'Raum': 1, 'genutzt': 1, 'Ganz': 1, 'raus. “': 1, 'Räumung': 1, 'Dort': 1, 'Zuvor sei dort': 1, 'endlich richtige': 1, 'werden': 1, 'über dem Kopf': 1}

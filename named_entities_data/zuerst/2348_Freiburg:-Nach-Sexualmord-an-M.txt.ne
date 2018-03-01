@@ -1,0 +1,1 @@
+{'Gesellschaft': 1, 'Freiburg': 1, 'Maria L. in': 1, 'machte': 1, 'K. , dessen': 1, 'Von': 1, 'legt': 1, '„daß der': 1, 'das': 1, '17 Jahren nach': 1, 'verurteilt , damals': 1, '.': 1, 'zu': 1}

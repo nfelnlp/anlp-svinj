@@ -1,0 +1,1 @@
+{'.': 1, 'dem': 1, 'gegen': 1, 'des': 1, 'Das': 1, 'Das Verfahren': 1, 'Unterstützerkreis nennt': 1, 'die': 1, 'Unterstützung': 1}

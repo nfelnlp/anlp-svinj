@@ -1,0 +1,1 @@
+{'Becker Anzeige': 1, 'mit Marie': 1, 'in der': 1, 'in': 1, 'der': 1, 'der Störenfriedas': 1, 'den': 2, 'bei': 2, 'fanden': 1, '.': 1, 'die er': 1, 'in Anführungs\xadzeichen schreibt )': 1, 'Deutschen': 1, 'Themen': 1, 'Motivation': 1}

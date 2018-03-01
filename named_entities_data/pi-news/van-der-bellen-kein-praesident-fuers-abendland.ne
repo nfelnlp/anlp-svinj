@@ -1,0 +1,1 @@
+{'Alexander Van der': 1, 'Franz ,': 1, ')': 1, 'gemeint': 1, 'Kopftuch': 1, 'ablegen': 1, 'der': 1, 'Houellebecq': 1, 'seinem berühmten': 1, 'EU-Politikers': 1, 'mit': 1, 'akribisch': 1, '.': 1, 'Kritiker der': 1, 'Frankreich': 1, 'werden': 1, 'zurück': 1, 'jetzt': 1, ',': 1, 'dass': 1, 'Überfluss': 1, 'viel Leid': 1, 'solche': 1, 'dem': 1, 'einen': 1, 'die': 1, 'Die': 1}

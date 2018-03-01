@@ -1,0 +1,1 @@
+{'Images Was': 1, 'er': 1, 'das': 1, 'nach': 1, 'ähnlich': 1, 'was': 1, 'einem': 1, 'Aromen': 1, '.': 2, ',': 1, 'seinem': 1, 'Mindestens': 1, 'ich viel': 1, ', niemand': 1, 'die chinesische': 1, 'Und selbstverständlich': 1, ':': 1}

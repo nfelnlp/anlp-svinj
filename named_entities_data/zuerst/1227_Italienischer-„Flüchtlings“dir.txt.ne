@@ -1,0 +1,1 @@
+{'Wien/Rom': 1, 'Der': 2, ', hat': 1, 'die': 1, 'förmlich': 1, '„Wir': 1, 'erreicht': 1, 'will': 1, 'auch': 2, 'Spannungen': 1, 'Äußerungen': 1, 'Bundesheer': 1, '2017': 1, ',': 2, 'Hunderte': 1, 'leer': 1, '”': 1, 'Grenzsicherung': 1, 'scharf': 1, 'aus': 1, 'auf': 1, '.': 1, 'fallen': 1, 'nicht': 1, 'mit': 1, 'Forderung': 1}

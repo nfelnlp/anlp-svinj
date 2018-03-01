@@ -1,0 +1,1 @@
+{'Washington': 1, 'In': 1, 'In Afghanistan': 1, 'USA': 1, '. Mehrere': 1, '”': 1, 'einer': 1, 'Trump selbst': 1, 'in': 1, 'den': 1, 'ihn aber': 1, ',': 1, 'Regierung': 1, 'wieder': 1, '.': 2, 'die': 1, 'Mujahid': 1, 'Medien': 1, 'US-Soldat im': 1, 'Angst': 1, 'Realitäten': 1}

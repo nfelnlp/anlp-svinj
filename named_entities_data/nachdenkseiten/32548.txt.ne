@@ -1,0 +1,1 @@
+{'Sahra Wagenknecht': 1, 'Interview': 1, 'Veröffentlicht in': 1, 'Buch': 1, 'auch als': 1, 'AM )': 1, 'in': 1, 'Buchautorin': 1, 'und': 2, 'Was sie brauchen , ist': 1, 'möglichst': 1, 'diese': 1, 'auch': 1, 'bloße': 1, 'den Nagel auf': 1, 'wie': 1, 'bei': 1, '?': 1, ':': 1, 'Im': 1, 'Bereich': 1, 'verzichten': 1, '€': 1}

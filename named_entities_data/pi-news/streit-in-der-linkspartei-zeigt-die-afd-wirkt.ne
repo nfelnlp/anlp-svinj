@@ -1,0 +1,1 @@
+{'Oskar Lafontaine': 1, '„DIE LINKE “': 1, 'die': 1, 'für': 2, 'verdanken': 1, 'abtrünnigen': 1, 'enttäuschend': 1, ',': 3, 'macht': 1, 'heutige': 1, 'Eine': 1, 'Lafontaine': 1, 'Arbeitslosen': 1, 'DIE': 1, 'Parteien': 1, 'haben': 1, 'wenn': 1, 'Lasten': 1, 'richtig': 1, 'bei': 1, 'Richtung': 1, 'Asylpolitik': 1, 'zu': 1, 'der': 1, 'sorgt': 1, 'des': 1}

@@ -1,0 +1,1 @@
+{'Anita Sarkessian/Feminist': 1, 'auch eine': 1, 'Videospielcharakteren': 1, 'Ganz': 1, 'Raider zwar': 1, 'dafür statt': 1, 'dafür eine': 1, 'Jezebel.com beweisen': 1, 'in den': 1, 'mehr': 1, 'Geek': 1, "''": 1, 'einer': 1, 'in einer': 1, 'The': 1, 'zur Kritik an': 1, 'und': 1}

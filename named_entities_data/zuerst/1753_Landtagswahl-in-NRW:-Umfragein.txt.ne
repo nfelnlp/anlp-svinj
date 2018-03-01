@@ -1,0 +1,1 @@
+{'Düsseldorf': 1, 'Nordrhein-Westfalen ins Haus': 1, 'aktuellen': 1, 'mit': 2, '31': 2, 'Auftrag': 2, '30': 1, '9': 1, 'auf': 1, 'Die': 1, 'Prozent': 1}

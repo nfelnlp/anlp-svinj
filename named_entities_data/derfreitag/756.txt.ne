@@ -1,0 +1,1 @@
+{'Images Wer': 1, 'Vorgang': 1, 'gemeinhin': 1, 'ehemaligen': 1, 'Karikaturen zur': 1, 'Mai 2014': 1, 'Az': 1, 'spanischen': 2, 'sowie von Google': 1, 'darauf': 1, 'entsprechende Löschungsanweisung': 1, 'mit': 1, 'und': 1, 'Personen': 1, ',': 1, 'aus': 2}

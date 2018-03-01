@@ -1,0 +1,1 @@
+{'Paris': 1, ',': 2, 'und': 1, 'haben': 1, 'einem': 1, 'von': 1, 'Flüchtlingsfragen (': 1, 'anderen': 1, 'für': 1, 'europäischen': 1, 'in': 1, 'ihrem': 1, 'zukunftsweisendes': 1, 'geht ,': 1, 'offenherzig': 1}

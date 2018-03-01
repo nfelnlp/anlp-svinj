@@ -1,0 +1,1 @@
+{'.': 1, '. Die': 1, 'Grüne': 1, 'sich': 1, ') am': 1, 'erklärt': 1, 'hatte': 1, 'Bau': 1, 'das': 2, 'an': 1, 'bieten': 1, 'ohne': 1, '«': 1, 'weitere': 1, 'Investitionsoffensive in': 1, 'den': 1, 'Arbeit': 1, 'ausgeglichen Etat': 1, 'neue': 1, ')': 1, 'innerdeutschen Grenzstreifens': 1}

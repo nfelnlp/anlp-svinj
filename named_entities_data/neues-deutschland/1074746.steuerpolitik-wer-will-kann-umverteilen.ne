@@ -1,0 +1,1 @@
+{'senken': 1, 'der': 1, 'öffentlichen': 1, 'ob': 1, 'Umsatz': 1, 'einer': 1, ',': 2, 'diese': 1, '.': 1, 'verwunderlich': 1, 'wenn': 1, 'uns': 1, ', die': 1}

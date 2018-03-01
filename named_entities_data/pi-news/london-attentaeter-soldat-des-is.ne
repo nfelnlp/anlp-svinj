@@ -1,0 +1,1 @@
+{'Mittwochnachtmittag': 1, 'London': 1, 'britischen Polizei': 1, 'Yard': 1, 'Yard (': 1, 'geboren': 1, 'May bekannt': 1, '(': 1, 'Intelligence ,': 1, ', Massod': 1, 'und': 1, 'sich': 2, 'Ein 75-Jähriger ist': 1, 'handelt': 1, 'und illegalen': 1, 'Täter': 1, 'Tote namentlich': 1, 'hat': 1, ',': 3, 'Terror sprachen': 1, 'kommen': 1, 'pic.twitter.com/BYAd4HO3ks': 1}

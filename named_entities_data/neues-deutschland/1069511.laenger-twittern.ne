@@ -1,0 +1,1 @@
+{'.': 2, '. Twitter': 1, 'der': 1, 'dem': 1, 'Dorsey': 1, 'Deutsch speziell': 1, '216 Zeichen': 1, 'zu': 1, 'Es': 1, 'auf': 1, 'Raum': 1, 'unter': 1}

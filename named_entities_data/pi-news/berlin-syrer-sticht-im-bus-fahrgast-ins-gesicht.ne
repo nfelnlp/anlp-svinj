@@ -1,0 +1,1 @@
+{'im': 1, 'Akbar “ -Rufen mit': 1, ')': 1, 'offensichtliche Lügenstory': 1, 'immer einen': 1, ':': 1, 'den': 1, ',': 1, 'erfahren': 1, 'sehr': 1, 'ein Deutschkurs angeboten': 1, 'habe': 1, 'mit': 2, '„Islamischer “ Hintergrund': 1, 'der Wahrheit': 1, 'verhandelt': 1, 'Betäubungsmittelgesetz': 1, 'die linksideologisch verseuchte': 1, 'Land wieder': 1}

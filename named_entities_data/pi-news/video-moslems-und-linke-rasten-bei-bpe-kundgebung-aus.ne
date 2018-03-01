@@ -1,0 +1,1 @@
+{'( BPE': 1, ',': 1, 'das': 1, 'nur': 1, 'zu': 1, 'führt': 1, 'kleiner': 1, 'kaum': 1, 'Die Zeiten': 1, 'absolut befürwortet': 1, 'mit': 1, 'Pressesprecher': 1, 'Strauß-Tochter Monika': 1, 'Partei': 1, '.': 1, 'bisher': 1, 'über seine Facebookseite': 1}

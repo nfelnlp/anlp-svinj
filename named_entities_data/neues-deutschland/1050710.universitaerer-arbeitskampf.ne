@@ -1,0 +1,1 @@
+{'die': 1, 'Gewerkschaft': 1, 'und': 1, ')': 1, 'von der': 1, 'der': 1, 'Die Veranstaltung war': 1}

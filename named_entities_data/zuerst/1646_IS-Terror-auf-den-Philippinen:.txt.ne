@@ -1,0 +1,1 @@
+{'Manila': 1, 'Philippinen': 1, 'sondern': 1, ')': 1, '.': 2, ',': 2, 'der': 1, 'hatten die': 1, 'Polizisten': 1, 'ganze': 1, 'der Beziehungen': 1, 'Waffen': 1, 'Terrormiliz': 1}

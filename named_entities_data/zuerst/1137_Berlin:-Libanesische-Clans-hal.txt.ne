@@ -1,0 +1,1 @@
+{'Berlin': 2, 'wegen': 1, 'worden': 1, 'worden .': 1, 'im': 1, 'Ermittlungsgrenze': 1, 'mit dem': 1, '„Es ist': 1, 'erhebliches': 1, ',': 1, 'ist': 1, 'Sie': 1, '. Aber': 1}

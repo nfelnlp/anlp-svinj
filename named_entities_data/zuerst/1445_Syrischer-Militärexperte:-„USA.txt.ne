@@ -1,0 +1,1 @@
+{'Damaskus': 1, 'USA': 1, 'Syrien': 3, 'syrische': 1, 'Hasan Hasan': 1, 'seit': 1, '„Wo Terroristen': 1, 'Natürlich': 1, 'voran': 1, 'US-Pläne zunichte': 1, 'werden': 1, ',': 1, 'Al': 1, 'der': 1, 'wurde .': 1, 'Hasan': 1, 'geopolitischen': 1, '( mü': 1}

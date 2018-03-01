@@ -1,0 +1,1 @@
+{'folgen würden': 1, ',': 2, 'und': 1, 'Druck': 1, 'die': 1, '15': 1, 'Bundesvorstand von': 1, 'Wisst': 1, 'Programms :': 1, 'zu ,': 1, 'Er': 1, ', wie': 1, '.': 1, 'dem': 1, 'der': 1, 'teile': 1}

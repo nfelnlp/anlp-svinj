@@ -1,0 +1,1 @@
+{'Europa': 1, 'Blockupy': 1, 'Brigitte Forßbohm': 1, 'in Frankfurt': 1, 'Main die Show': 1, 'März': 1, 'maßgeblich': 1, 'autonomen': 1, 'getragen': 1, ',': 1, 'Krisenpolitik': 1}

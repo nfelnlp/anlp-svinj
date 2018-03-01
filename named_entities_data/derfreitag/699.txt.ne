@@ -1,0 +1,1 @@
+{'Eines': 1, 'Ende': 1, 'den': 2, 'des': 2, 'Valley Indiens': 1, '“': 1, 'Ursache für das Großfeuer': 1, 'könnte': 1, 'Gewässer': 1, 'Gewässerforschung des': 1, 'seit über zwei Jahrzehnten': 1, 'im': 2, 'Urbanisierung': 1, 'nötigen': 1, 'ernsthafte': 1, 'die': 1, 'werden': 1, 'sein. “': 1, 'Zilla': 1}

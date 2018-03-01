@@ -1,0 +1,1 @@
+{'Jürgen Elsässer': 1, 'Der unerwartete Einzug eines': 1, 'Höcke die': 1, 'erobern ?': 1, 'der Political': 1, 'gesagt': 1, 'sich': 1, 'Amerikaner': 1, 'the': 1, 'war': 1, ',': 3, 'wir': 1, 'er': 1, 'noch': 1, 'wählt': 1, 'das': 1, 'sind': 1, 'Ihr': 1, 'etwas': 1, 'gemacht': 1, 'verzichtet': 1, 'seine': 1, 'ein Mandat': 1}

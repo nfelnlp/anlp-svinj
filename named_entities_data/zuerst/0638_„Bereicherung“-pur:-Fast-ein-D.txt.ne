@@ -1,0 +1,1 @@
+{'Wien': 1, 'Österreich': 1, '-Fortbildungsmaßnahmen': 1, 'sind': 1, '.': 1}
