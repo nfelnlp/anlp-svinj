@@ -1,1 +1,1 @@
-{'Carlos Martín Beristain': 1, 'Martin Reischke': 1, 'CIDH': 1}
+['Carlos Martín Beristain', 'Martin Reischke', 'CIDH']

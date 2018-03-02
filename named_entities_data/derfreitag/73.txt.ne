@@ -1,1 +1,1 @@
-{'Images Dass': 1, 'Flüchtende': 1, 'Mittelmeer': 1, 'Dass': 1, 'Seit': 1, 'geben': 1, 'Iraner': 1, '. Am': 1, 'führt die': 1, ',': 2, 'die durch': 1, 'sich der': 1, 'er': 1, 'Tod': 1, 'kleine': 1, 'Misshandlungen': 1, 'griechische': 1, 'versucht': 1, 'zu': 1, 'Zeiten': 1, 'wie': 1}
+['Images Dass', 'Flüchtende', 'Mittelmeer', 'Dass', 'Seit', 'geben', 'Iraner', '. Am', 'führt die', ',', 'die durch', ',', 'sich der', 'er', 'Tod', 'kleine', 'Misshandlungen', 'griechische', 'versucht', 'zu', 'Zeiten', 'wie']

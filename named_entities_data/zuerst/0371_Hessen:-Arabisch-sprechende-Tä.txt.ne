@@ -1,1 +1,1 @@
-{'Polizei': 1, 'Gießen': 2, 'Gonterkirchen': 1, 'Jürgen Reinemer': 1, 'noch nach': 1}
+['Polizei', 'Gießen', 'Gonterkirchen', 'Gießen', 'Jürgen Reinemer', 'noch nach']

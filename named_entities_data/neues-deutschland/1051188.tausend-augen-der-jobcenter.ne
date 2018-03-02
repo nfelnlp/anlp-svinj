@@ -1,1 +1,1 @@
-{'aus': 1, 'Main an die': 1, 'die': 1, 'ist': 1, 'besonderen': 1, 'Jahren': 1}
+['aus', 'Main an die', 'die', 'ist', 'besonderen', 'Jahren']

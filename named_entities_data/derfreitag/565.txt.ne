@@ -1,1 +1,1 @@
-{'und': 1, 'Unterschrift': 1, 'Doch': 1, 'von': 1, 'ist': 1, 'man': 1, '. Auch': 1, 'und mafiös': 1, 'ein': 1, 'Zwangsräumung verhindern': 1, 'dem': 1, 'eine': 1, 'Beim': 1, 'offensichtlich': 1, 'Oberbaumbrücke': 1, 'sich': 1, 'Problem .': 1, '„Allein': 1, '„Allein dieser unsinnige': 1}
+['und', 'Unterschrift', 'Doch', 'von', 'ist', 'man', '. Auch', 'und mafiös', 'ein', 'Zwangsräumung verhindern', 'dem', 'eine', 'Beim', 'offensichtlich', 'Oberbaumbrücke', 'sich', 'Problem .', '„Allein', '„Allein dieser unsinnige']

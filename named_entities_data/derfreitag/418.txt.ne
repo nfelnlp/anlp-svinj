@@ -1,1 +1,1 @@
-{'Tag': 1, 'Für': 1, 'No-go-Thema': 1, '.': 1, 'und': 1}
+['Tag', 'Für', 'No-go-Thema', '.', 'und']

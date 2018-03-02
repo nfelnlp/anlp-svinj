@@ -1,1 +1,1 @@
-{'CANTALOOP': 1, 'deren': 1, 'die': 3, 'Hybriden-Brei': 1, 'ja': 1, 'ihrem Chef': 1, 'betreiben': 1, 'genauso': 1, '„Apparatschicks “': 1, 'nur': 1, '–': 1, 'nicht': 1, ',': 2, 'lieber': 1, 'ebenfalls': 1, 'Eine': 1, 'Gelben': 1}
+['CANTALOOP', 'deren', 'die', 'Hybriden-Brei', 'die', 'ja', 'die', 'ihrem Chef', 'betreiben', 'genauso', '„Apparatschicks “', 'nur', '–', 'nicht', ',', 'lieber', 'ebenfalls', 'Eine', 'Gelben', ',']

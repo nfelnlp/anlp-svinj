@@ -1,1 +1,1 @@
-{'zehn': 1, 'es': 1, 'kiffenden': 1, 'die': 1, 'zu': 2, 'viel': 1, 'zur': 1}
+['zehn', 'es', 'kiffenden', 'die', 'zu', 'viel', 'zur', 'zu']

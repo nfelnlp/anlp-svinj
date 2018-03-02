@@ -1,1 +1,1 @@
-{'Niger': 2, 'westafrikanischen Niger': 1, 'Frankreich': 1, 'aktive': 1, 'Unternehmen': 1, 'und': 1, 'wurde': 1, 'erst': 1}
+['Niger', 'westafrikanischen Niger', 'Frankreich', 'Niger', 'aktive', 'Unternehmen', 'und', 'wurde', 'erst']

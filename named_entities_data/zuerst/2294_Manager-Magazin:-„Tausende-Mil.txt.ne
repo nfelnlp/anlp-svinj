@@ -1,1 +1,1 @@
-{'Wealth “ vermeldet': 1, 'ausgewandert sind': 1, ',': 3, 'binnen Kurzem': 1, 'Kanada': 1, 'Über': 1, 'Ansicht': 1, 'mit zunehmenden Spannungen': 1, 'Niederlanden': 1, 'und': 1, 'erwarten': 1, 'Fachleute': 1, ')': 1}
+['Wealth “ vermeldet', 'ausgewandert sind', ',', 'binnen Kurzem', ',', 'Kanada', 'Über', 'Ansicht', 'mit zunehmenden Spannungen', 'Niederlanden', ',', 'und', 'erwarten', 'Fachleute', ')']

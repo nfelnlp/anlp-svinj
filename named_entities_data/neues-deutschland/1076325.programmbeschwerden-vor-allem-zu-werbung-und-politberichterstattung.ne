@@ -1,1 +1,1 @@
-{'.': 2, '. Das': 1, 'denken geben': 1}
+['.', '. Das', '.', 'denken geben']

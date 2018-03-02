@@ -1,1 +1,1 @@
-{'Sarrazin im': 1, 'hatte': 1, 'dann': 1, '.': 3, ',': 1, 'und': 1, 'sind': 1, 'entweder': 1, 'der': 1, 'beteiligt': 1, 'haben': 1, 'Einfluss': 1, 'kulturelle': 1, 'Aber selbst': 1, 'nach der': 1, 'etablierten': 1, 'für': 1, 'Denkers sorgte für': 1, 'letzten': 1, '„Die': 1, 'neuen': 1, 'ist über': 1}
+['Sarrazin im', 'hatte', 'dann', '.', ',', 'und', 'sind', 'entweder', 'der', 'beteiligt', 'haben', 'Einfluss', 'kulturelle', 'Aber selbst', 'nach der', 'etablierten', 'für', '.', 'Denkers sorgte für', 'letzten', '.', '„Die', 'neuen', 'ist über']

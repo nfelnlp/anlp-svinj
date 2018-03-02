@@ -1,1 +1,1 @@
-{'Gesellschaft 1': 1, 'Gesellschaft 1 Tel': 1, 'Gesellschaft 1 Tel Aviv': 1, 'ist die': 1, 'auch': 1, 'der': 1, ':': 1, 'gab': 1, 'als': 2, 'um 45': 1, 'Deutschland': 1, 'die': 1}
+['Gesellschaft 1', 'Gesellschaft 1 Tel', 'Gesellschaft 1 Tel Aviv', 'ist die', 'auch', 'der', ':', 'gab', 'als', 'um 45', 'als', 'Deutschland', 'die']

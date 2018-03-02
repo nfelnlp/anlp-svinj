@@ -1,1 +1,1 @@
-{'. Dutzende': 1, 'mehrere Stunden lang': 1, 'Sprecher der': 1, 'sich': 1, 'der': 1, 'Taktische': 1, 'Aachener': 1, 'ausgezeichnet': 1}
+['. Dutzende', 'mehrere Stunden lang', 'Sprecher der', 'sich', 'der', 'Taktische', 'Aachener', 'ausgezeichnet']

@@ -1,1 +1,1 @@
-{'Düsseldorf': 1, 'Nordrhein-Westfalen , bis': 1, 'einen': 1, 'Vorsprung': 1, '.': 1, 'am': 1, 'fünf': 1, 'gehen könne': 1, 'in': 1, 'Prozent': 1, '36': 1, ',': 1, 'Kraft': 1, 'Linken': 1, '“': 1, 'und': 1, 'Linke': 1}
+['Düsseldorf', 'Nordrhein-Westfalen , bis', 'einen', 'Vorsprung', '.', 'am', 'fünf', 'gehen könne', 'in', 'Prozent', '36', ',', 'Kraft', 'Linken', '“', 'und', 'Linke']

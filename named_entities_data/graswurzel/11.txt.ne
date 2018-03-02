@@ -1,0 +1,1 @@
+['Joris Kern', 'GWR', '( GWR', 'in ihrem', 'las ,', 'womφglich', 'Katja', 'befόrchtet , als', 'mφglich', 'jedoch eine', 'zwar', 'den', 'um', 'die', 'sogar', 'Kontext', 'grundlegend', 'ist', 'Bedόrfnissen', 'Wohl', 'ganz']

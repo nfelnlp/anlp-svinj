@@ -1,0 +1,1 @@
+['Düsseldorf', 'hatte', 'Wehrhahn', 'Zehn', '„Rechtsextremisten', 'dann', 'Anständigen “', 'heraus', 'Täterschaft', 'die „rechte Szene', 'schmutzigen', '„Polizei', 'Quelle', 'den', 'Rolle', 'am']

@@ -1,1 +1,1 @@
-{'Jean Gebser': 1, 'Ken Wilber': 1, 'vermeiden': 1, 'wie-': 1, 'Dienstleistungen als': 1, 'Kosten ) .': 1, 'kümmern': 1, 'das': 1, 'wird': 1}
+['Jean Gebser', 'Ken Wilber', 'vermeiden', 'wie-', 'Dienstleistungen als', 'Kosten ) .', 'kümmern', 'das', 'wird']

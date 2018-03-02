@@ -1,1 +1,1 @@
-{'Washington': 1, 'Syrien': 1, 'Weltbank': 1, 'zerreißt': 1, '.': 1, 'worden': 1, 'syrischen': 1, 'und': 1, ',': 1, 'beruht': 1, 'langsam': 1, '41': 1, 'erreichen': 1, '. Mehr': 1, 'die': 1, 'der': 1}
+['Washington', 'Syrien', 'Weltbank', 'zerreißt', '.', 'worden', 'syrischen', 'und', ',', 'beruht', 'langsam', '41', 'erreichen', '. Mehr', 'die', 'der']

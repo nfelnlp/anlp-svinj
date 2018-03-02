@@ -1,1 +1,1 @@
-{'Washington': 1, 'US-Regierung': 1, 'verschiedene': 1, 'Einsatz': 1, '(': 1}
+['Washington', 'US-Regierung', 'verschiedene', 'Einsatz', '(']

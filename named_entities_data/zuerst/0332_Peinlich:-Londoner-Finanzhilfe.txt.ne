@@ -1,1 +1,1 @@
-{'London': 1, 'Peinlicher': 1, 'Polizei': 1, 'eingestellt': 1, '.': 3, 'die': 1, 'International ( ASI': 1, 'sei in': 1, 'und': 1, 'Laut': 1, 'auch': 1, 'der terroristischen': 1, 'Botschaft': 1, 'darauf': 1, 'gemacht': 1, 'wurde': 1}
+['London', 'Peinlicher', 'Polizei', 'eingestellt', '.', 'die', 'International ( ASI', 'sei in', 'und', '.', '.', 'Laut', 'auch', 'der terroristischen', 'Botschaft', 'darauf', 'gemacht', 'wurde']

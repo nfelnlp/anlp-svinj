@@ -1,1 +1,1 @@
-{'London': 1, 'dichtzumachen': 1, 'Außenminister': 1, 'Kurz (': 1, ')': 1, 'Paul Collier in': 1, 'für': 1, '.': 2, 'legale': 1, 'Europa': 1, 'geben': 1, 'Staaten': 1, 'bereits': 1, 'sowohl': 1, 'Orte': 1, ',': 1, 'Investitionen': 1}
+['London', 'dichtzumachen', 'Außenminister', 'Kurz (', ')', 'Paul Collier in', 'für', '.', 'legale', 'Europa', 'geben', '.', 'Staaten', 'bereits', 'sowohl', 'Orte', ',', 'Investitionen']

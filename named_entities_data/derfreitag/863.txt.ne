@@ -1,1 +1,1 @@
-{'Mitgehört': 1, "''": 1, 'Kind': 1, ':': 1, 'stehen': 1, ',': 1, 'Papa .': 1, 'Ort': 1}
+['Mitgehört', "''", 'Kind', ':', 'stehen', ',', 'Papa .', 'Ort']

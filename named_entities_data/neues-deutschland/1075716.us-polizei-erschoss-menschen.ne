@@ -1,1 +1,1 @@
-{'. In': 1, 'im': 1, '« am': 1, 'sechs': 1, '« 35 unbewaffnete': 1, '.': 1}
+['. In', 'im', '« am', 'sechs', '« 35 unbewaffnete', '.']

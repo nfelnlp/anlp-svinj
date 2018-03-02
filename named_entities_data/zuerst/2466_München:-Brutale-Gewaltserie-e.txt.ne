@@ -1,1 +1,1 @@
-{'Gesellschaft 1 München': 1, 'gegen': 1, 'Landeshauptstadt': 1, '“ ,': 1, 'Männer': 1, 'Gewalttäter': 1, 'bitteren': 1, 'Wiederholungstäter': 1}
+['Gesellschaft 1 München', 'gegen', 'Landeshauptstadt', '“ ,', 'Männer', 'Gewalttäter', 'bitteren', 'Wiederholungstäter']

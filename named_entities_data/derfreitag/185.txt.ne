@@ -1,1 +1,1 @@
-{'Universität Maryland': 1, 'Sonny Kumbelaka/': 1, 'Getty': 1, 'Laut Roland': 1, 'und dem': 1, 'vertagt die': 1, 'alte': 1, 'ähnlichen Apokalypse': 1, 'die': 1, 'naive': 1, 'des Öls': 1, 'konnte': 1, 'wird': 1, 'hat': 1, 'dienen': 1, 'Ohne': 1, '.': 1}
+['Universität Maryland', 'Sonny Kumbelaka/', 'Getty', 'Laut Roland', 'und dem', 'vertagt die', 'alte', 'ähnlichen Apokalypse', 'die', 'naive', 'des Öls', 'konnte', 'wird', 'hat', 'dienen', 'Ohne', '.']

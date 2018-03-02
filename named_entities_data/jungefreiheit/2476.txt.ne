@@ -1,1 +1,1 @@
-{',': 3, ', die': 1, 'meinen': 1, 'an Venter': 1, 'reduzieren': 1, 'ich': 1, 'Deutschland': 2, 'war': 1, 'Ich': 1, 'wider': 1, 'allem': 1, 'durchaus': 1, 'durchaus den': 1, 'Die': 1, 'sagten': 1, 'in': 1, 'auch': 1, 'Das': 1, 'der großen Drei \x96': 1, 'die Rolle': 1, 'ist': 1, 'wird': 1, 'eng': 1}
+[',', ', die', 'meinen', 'an Venter', 'reduzieren', 'ich', 'Deutschland', 'war', 'Ich', 'wider', 'Deutschland', 'allem', 'durchaus', 'durchaus den', 'Die', ',', 'sagten', 'in', 'auch', 'Das', 'der großen Drei \x96', ',', 'die Rolle', 'ist', 'wird', 'eng']

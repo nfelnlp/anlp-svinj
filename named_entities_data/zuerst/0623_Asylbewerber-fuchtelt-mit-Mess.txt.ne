@@ -1,1 +1,1 @@
-{'In': 1, 'Tessiner': 1, 'war mit': 1, ', stellte': 1, 'mit Cocchi': 1, '2': 1, 'Gebäude ,': 1, 'mit zwei': 1, 'verletzte den': 1, '. (': 1}
+['In', 'Tessiner', 'war mit', ', stellte', 'mit Cocchi', '2', 'Gebäude ,', 'mit zwei', 'verletzte den', '. (']

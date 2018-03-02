@@ -1,1 +1,1 @@
-{'. Mangelnde': 1, 'hervor .': 1, 'Zuzug': 1, 'Sören': 1, 'vom Kriminologischen': 1, 'sowie': 1, 'sowie Dirk': 1, 'von der': 1, 'für Angewandte Wissenschaften wurde': 1, 'zehn': 1, 'seine': 1, 'Kollegen': 1, 'SPD )': 1, ',': 1}
+['. Mangelnde', 'hervor .', 'Zuzug', 'Sören', 'vom Kriminologischen', 'sowie', 'sowie Dirk', 'von der', 'für Angewandte Wissenschaften wurde', 'zehn', 'seine', 'Kollegen', 'SPD )', ',']

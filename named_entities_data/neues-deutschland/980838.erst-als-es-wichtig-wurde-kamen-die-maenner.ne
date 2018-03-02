@@ -1,1 +1,1 @@
-{'Benjamin Ruß': 1, 'Schweiz': 1, 'Berlin': 1, 'Hattet': 1}
+['Benjamin Ruß', 'Schweiz', 'Berlin', 'Hattet']

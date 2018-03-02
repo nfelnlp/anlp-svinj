@@ -1,1 +1,1 @@
-{'Gesellschaft 3 Berlin': 1, 'Berlin': 1, 'und': 1, 'N. , die': 1, 'den Jeep des': 1, 'Ampel grün war': 1, '. ( tw': 1}
+['Gesellschaft 3 Berlin', 'Berlin', 'und', 'N. , die', 'den Jeep des', 'Ampel grün war', '. ( tw']

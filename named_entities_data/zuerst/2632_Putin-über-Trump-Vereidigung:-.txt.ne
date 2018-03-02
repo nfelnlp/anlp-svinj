@@ -1,1 +1,1 @@
-{'Moskau': 1, 'In': 1, 'In Moskau': 1, 'aufmerksam .': 1, 'warnte jetzt': 1, 'es': 1, 'von': 1, 'damalige': 1, 'massiver': 1, 'Unterstützung aus': 1, 'Kiew': 1, 'und': 1, 'zum': 1, 'in': 1, 'daß': 1, 'Maidan': 1, 'ins': 1, 'Die': 1, 'Fast': 1, 'Keiner': 1, 'Vorwürfen': 1, 'Fälschungen dieser': 1, 'gewählten': 1}
+['Moskau', 'In', 'In Moskau', 'aufmerksam .', 'warnte jetzt', 'es', 'von', 'damalige', 'massiver', 'Unterstützung aus', 'Kiew', 'und', 'zum', 'in', 'daß', 'Maidan', 'ins', 'Die', 'Fast', 'Keiner', 'Vorwürfen', 'Fälschungen dieser', 'gewählten']

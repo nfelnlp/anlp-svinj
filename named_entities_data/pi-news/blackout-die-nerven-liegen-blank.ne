@@ -1,1 +1,1 @@
-{'British-Airways-Kunden am letzten': 1, 'ihren': 1, '.': 2, 'jedoch nicht': 1, 'Mitmenschen': 1, 'nicht': 1, 'verantwortlich .': 1, 'Bevölkerung im August': 1, 'in die': 1, 'schuld': 1, ', ihrerseits': 1, 'wirft seit': 1, 'aus': 1, 'Sie': 1, 'und': 1}
+['British-Airways-Kunden am letzten', 'ihren', '.', 'jedoch nicht', 'Mitmenschen', 'nicht', 'verantwortlich .', 'Bevölkerung im August', 'in die', 'schuld', ', ihrerseits', 'wirft seit', 'aus', '.', 'Sie', 'und']

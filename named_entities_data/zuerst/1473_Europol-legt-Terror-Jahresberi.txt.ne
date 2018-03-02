@@ -1,1 +1,1 @@
-{'Haag': 1, 'Europol': 1, '“': 1, 'den': 2, 'durchgeführte': 1, 'Hälfte': 1, 'Frankreich gab': 1, ',': 2, 'Griechenland': 1, 'Deutschland': 1, 'Belgien': 1}
+['Haag', 'Europol', '“', 'den', 'durchgeführte', 'Hälfte', 'Frankreich gab', ',', 'Griechenland', 'Deutschland', 'Belgien', 'den', ',']

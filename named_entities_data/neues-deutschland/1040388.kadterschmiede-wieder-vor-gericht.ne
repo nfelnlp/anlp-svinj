@@ -1,1 +1,1 @@
-{'Räumungstitel': 1, 'Eigentümer - geschützt': 1}
+['Räumungstitel', 'Eigentümer - geschützt']

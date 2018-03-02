@@ -1,1 +1,1 @@
-{'Paris': 1, 'FN-Kandidatin': 1, 'Pen einmal': 1, '. Zwar': 1, 'die': 1, 'Dinge deutlich': 1, 'ab': 1, ',': 2, ':': 1, 'Migranten': 1, 'isoliert sei': 1, 'Politik': 1, 'gemacht': 1, 'daß': 1, 'Globalisierung': 1, 'zu': 1}
+['Paris', 'FN-Kandidatin', 'Pen einmal', '. Zwar', 'die', 'Dinge deutlich', 'ab', ',', ':', 'Migranten', 'isoliert sei', 'Politik', 'gemacht', 'daß', 'Globalisierung', 'zu', ',']

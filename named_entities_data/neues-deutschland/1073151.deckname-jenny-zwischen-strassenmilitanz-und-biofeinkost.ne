@@ -1,1 +1,1 @@
-{'den': 1, 'Frau': 1, 'sie': 1, 'erleben': 1, 'er': 1, 'In': 1, 'existierende Linke': 1, 'damaligen': 1, 'seine grüne': 1, 'Fansa': 1, 'Fansa einst': 1, 'Transperson': 1, 'schon': 1, 'auch': 1}
+['den', 'Frau', 'sie', 'erleben', 'er', 'In', 'existierende Linke', 'damaligen', 'seine grüne', 'Fansa', 'Fansa einst', 'Transperson', 'schon', 'auch']

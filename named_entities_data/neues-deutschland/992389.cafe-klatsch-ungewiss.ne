@@ -1,1 +1,1 @@
-{'Café': 1, 'ältesten': 1, 'Anfang': 1, 'den': 1, 'den Vorbereitungen': 1, 'entstand': 1, 'mieten': 1, 'Jahren': 1, ',': 1, 'heftigen': 1, 'beteiligten': 1, 'beteiligten sich': 1, 'Anti-Atom-Bewegung': 1, 'dem': 1, 'Konsens': 1, 'Unterstützung': 1, 'Die': 1, 'Nerv': 1}
+['Café', 'ältesten', 'Anfang', 'den', 'den Vorbereitungen', 'entstand', 'mieten', 'Jahren', ',', 'heftigen', 'beteiligten', 'beteiligten sich', 'Anti-Atom-Bewegung', 'dem', 'Konsens', 'Unterstützung', 'Die', 'Nerv']

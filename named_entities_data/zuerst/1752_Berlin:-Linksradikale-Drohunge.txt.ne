@@ -1,1 +1,1 @@
-{'Gesellschaft 2 Berlin': 1, 'von': 1, 'bin völlig': 1, 'sich Antifaschisten wie Faschisten.': 1, '„Kiez': 1, 'Bundestagswahl': 1, 'seien bedroht': 1, '„Ein': 1, 'Begründung': 1, 'Veranstaltungsreihe': 1, ', kommentierte': 1}
+['Gesellschaft 2 Berlin', 'von', 'bin völlig', 'sich Antifaschisten wie Faschisten.', '„Kiez', 'Bundestagswahl', 'seien bedroht', '„Ein', 'Begründung', 'Veranstaltungsreihe', ', kommentierte']

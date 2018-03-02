@@ -1,1 +1,1 @@
-{'. Kein': 1, 'Rahmen . Gleichgeschlechtliche': 1, 'Januar': 1, 'zwei': 1, 'eine Eheschließung und': 1, 'Ehe': 1, 'eine': 1, 'war': 1, 'CDU in': 1, 'Bei': 1, 'Seit': 1, 'von': 1, 'im': 1, 'nicht alles perfekt': 1, 'der': 1}
+['. Kein', 'Rahmen . Gleichgeschlechtliche', 'Januar', 'zwei', 'eine Eheschließung und', 'Ehe', 'eine', 'war', 'CDU in', 'Bei', 'Seit', 'von', 'im', 'nicht alles perfekt', 'der']

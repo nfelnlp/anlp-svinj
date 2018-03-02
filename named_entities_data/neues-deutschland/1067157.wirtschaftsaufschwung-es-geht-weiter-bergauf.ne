@@ -1,1 +1,1 @@
-{'nicht abschätzen': 1, 'seine': 1, 'der': 1, 'bedeutet': 1, 'in': 2, 'Unternehmen': 1, 'ist': 1, 'massive': 1, 'Loch': 1}
+['nicht abschätzen', 'seine', 'der', 'bedeutet', 'in', 'Unternehmen', 'ist', 'massive', 'in', 'Loch']

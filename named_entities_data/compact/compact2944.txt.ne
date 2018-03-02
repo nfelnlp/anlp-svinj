@@ -1,1 +1,1 @@
-{'einem': 1, 'hat eine': 1, 'entwickelt': 1, 'Dauer': 1, ',': 2, 'Bewegung': 1, '„Freiheit': 1, 'beschädigt': 1, 'Sprache': 1, 'ein': 1, 'nicht': 1, 'fairen': 1, 'wenn': 1, 'des Staates': 1, 'noch': 1, 'und': 1}
+['einem', 'hat eine', 'entwickelt', 'Dauer', ',', 'Bewegung', '„Freiheit', 'beschädigt', 'Sprache', 'ein', ',', 'nicht', 'fairen', 'wenn', 'des Staates', 'noch', 'und']

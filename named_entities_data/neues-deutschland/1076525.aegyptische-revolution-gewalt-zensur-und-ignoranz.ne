@@ -1,1 +1,1 @@
-{'Burgmer': 1, 'Michael Briefs': 1, 'mehr': 1, 'vor': 1, 'interviewt .': 1, 'Sie': 1, '2006': 1, 'Gleichzeitig repräsentiert': 1, 'der': 1}
+['Burgmer', 'Michael Briefs', 'mehr', 'vor', 'interviewt .', 'Sie', '2006', 'Gleichzeitig repräsentiert', 'der']

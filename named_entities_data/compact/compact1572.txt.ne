@@ -1,1 +1,1 @@
-{'die': 2, 'aus': 1, 'gegen': 1, 'drohen': 1, 'Idee': 1}
+['die', 'aus', 'gegen', 'drohen', 'die', 'Idee']

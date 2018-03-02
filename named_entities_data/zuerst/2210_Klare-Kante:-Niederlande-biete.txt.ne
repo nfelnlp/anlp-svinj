@@ -1,1 +1,1 @@
-{'und': 1, 'um': 1, 'türkischer': 1, 'türkischer Politiker': 1, 'ist': 1, ',': 1, 'angereist': 1, 'in': 1, 'eskortiert': 1, 'Regierung': 2, 'Cavusoglu ,': 1, 'ungeachtet': 1, 'F.A.Z': 1, 'löste': 1, 'ein': 1, 'Bürgermeister Ahmed': 1, 'die türkische': 1, 'Bundesrepublik': 1, 'Protesten von': 1}
+['und', 'um', 'türkischer', 'türkischer Politiker', 'ist', ',', 'angereist', 'in', 'eskortiert', 'Regierung', 'Cavusoglu ,', 'ungeachtet', 'Regierung', 'F.A.Z', 'löste', 'ein', 'Bürgermeister Ahmed', 'die türkische', 'Bundesrepublik', 'Protesten von']

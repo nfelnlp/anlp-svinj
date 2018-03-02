@@ -1,1 +1,1 @@
-{'Stockholm': 1, 'Schweden': 1, 'mit': 1, 'Einwanderungsbehörde': 1, 'Behörde für forensische': 1, 'minderjährige': 1, 'nach': 1, '„Flüchtlings': 1, 'den': 1}
+['Stockholm', 'Schweden', 'mit', 'Einwanderungsbehörde', 'Behörde für forensische', 'minderjährige', 'nach', '„Flüchtlings', 'den']

@@ -1,1 +1,1 @@
-{'Armstrong Roberts/Retrofile/Getty Images': 1, 'Menschen': 1, 'faul': 1, 'schreiben': 1, 'Erkenntnisse ist': 1, 'nun': 1, 'ganz': 1, 'wird': 1, 'daher': 1}
+['Armstrong Roberts/Retrofile/Getty Images', 'Menschen', 'faul', 'schreiben', 'Erkenntnisse ist', 'nun', 'ganz', 'wird', 'daher']

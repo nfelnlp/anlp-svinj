@@ -1,1 +1,1 @@
-{', Chefredakteur': 1, 'kritisch betrachtenden': 1, 'sich mit': 1, 'nun voll\xadends': 1, 'dreifach': 1, 'ziehen': 1, 'für': 1, 'geschwächt': 1, 'zeigt': 1, '„Die Botschaft': 1}
+[', Chefredakteur', 'kritisch betrachtenden', 'sich mit', 'nun voll\xadends', 'dreifach', 'ziehen', 'für', 'geschwächt', 'zeigt', '„Die Botschaft']

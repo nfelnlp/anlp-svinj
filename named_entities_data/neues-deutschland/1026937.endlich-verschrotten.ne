@@ -1,1 +1,1 @@
-{'Syrien': 1, 'Anfangs': 1, 'und in': 1, 'internationalen': 1, 'später': 1, 'spielt die': 1, 'spielt': 1, 'von ver.di und': 1, '(': 1, 'denke ,': 1, 'der': 1, 'sind': 1, 'die zivile Konfliktbearbeitung': 1, 'und': 1, 'im': 1, 'ist': 1}
+['Syrien', 'Anfangs', 'und in', 'internationalen', 'später', 'spielt die', 'spielt', 'von ver.di und', '(', 'denke ,', 'der', 'sind', 'die zivile Konfliktbearbeitung', 'und', 'im', 'ist']

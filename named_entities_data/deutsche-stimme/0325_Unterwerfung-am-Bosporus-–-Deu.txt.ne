@@ -1,0 +1,1 @@
+['Bosporus', 'Erdogan', 'Merkel', 'warten', 'anzubieten', 'werde', 'jeden', 'Leistung', 'der', '.', 'Besitz', 'allen', 'werden.', 'Mehr', 'anzubringen versuchte', 'haben', 'türkische', 'Islam', 'Statt', 'dass', 'die', 'von', 'Abschaffung', 'planmäßig']

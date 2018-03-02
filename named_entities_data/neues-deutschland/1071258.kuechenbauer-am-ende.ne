@@ -1,1 +1,1 @@
-{'.': 2, '. Nach': 1, 'am Freitag': 1, 'schon': 1, '»': 1}
+['.', '. Nach', 'am Freitag', '.', 'schon', '»']

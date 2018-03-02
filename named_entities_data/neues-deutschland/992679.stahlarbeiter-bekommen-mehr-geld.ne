@@ -1,1 +1,1 @@
-{'.': 1, '. Rund': 1, 'wie': 1, '» akzeptablen': 1, 'die Quote': 1, '«': 1}
+['.', '. Rund', 'wie', '» akzeptablen', 'die Quote', '«']

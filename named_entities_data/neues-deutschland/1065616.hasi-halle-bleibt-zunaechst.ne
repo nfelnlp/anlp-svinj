@@ -1,1 +1,1 @@
-{'Sachsen-Anhalt': 1, 'Ankauf des Hauses': 1, 'paar': 1, '. Sie vermutet': 1, 'ablehnende': 1, 'gegen': 1, ',': 1, 'sich': 1, 'dem': 1, 'solidarisiert': 1, 'es': 1, 'gibt': 1, 'für Schulungen': 1}
+['Sachsen-Anhalt', 'Ankauf des Hauses', 'paar', '. Sie vermutet', 'ablehnende', 'gegen', ',', 'sich', 'dem', 'solidarisiert', 'es', 'gibt', 'für Schulungen']

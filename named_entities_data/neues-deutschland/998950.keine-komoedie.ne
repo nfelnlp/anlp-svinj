@@ -1,1 +1,1 @@
-{'Meyer': 1, 'Jörg Meyer': 1, 'Wolkenkuckucksheim': 1, 'IT-Dienstleister': 1, 'Eckensteher': 1}
+['Meyer', 'Jörg Meyer', 'Wolkenkuckucksheim', 'IT-Dienstleister', 'Eckensteher']

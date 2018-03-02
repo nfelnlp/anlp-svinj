@@ -1,1 +1,1 @@
-{'Warschau': 1, 'Polen': 1, 'Warschau-Praga': 1, 'Henryk': 1, ', ließ': 1, 'Volksinitiative': 1, 'der': 1, 'auch': 1, 'ist': 1, 'rief': 1, 'Pfarren': 1, 'Bürgerkomitee': 1, 'bis': 1, 'registriert': 1}
+['Warschau', 'Polen', 'Warschau-Praga', 'Henryk', ', ließ', 'Volksinitiative', 'der', 'auch', 'ist', 'rief', 'Pfarren', 'Bürgerkomitee', 'bis', 'registriert']

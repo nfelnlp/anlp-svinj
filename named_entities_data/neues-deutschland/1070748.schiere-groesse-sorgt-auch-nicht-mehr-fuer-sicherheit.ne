@@ -1,1 +1,1 @@
-{'Siemens-Generatorenwerk': 1, 'von': 1, ', Erfurt': 1, ',': 1, 'dem': 2, 'wird': 1, 'Kaeser': 1, 'vor nicht': 1, 'Aken': 1, '( Sachsen-Anhalt ) ,': 1, 'er auf ein': 1, 'ist': 1, 'Transport': 1, '...': 1}
+['Siemens-Generatorenwerk', 'von', ', Erfurt', ',', 'dem', 'wird', 'Kaeser', 'vor nicht', 'Aken', '( Sachsen-Anhalt ) ,', 'er auf ein', 'ist', 'dem', 'Transport', '...']

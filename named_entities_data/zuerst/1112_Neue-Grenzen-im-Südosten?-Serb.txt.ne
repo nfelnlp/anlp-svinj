@@ -1,1 +1,1 @@
-{'Belgrad': 1, 'serbische': 2, 'Ivica Dacic': 1, 'Kosovo': 1, 'serbische Provinz': 1, 'Staatspräsident': 1, 'Vucic hatte': 1, 'neun': 1, 'Andererseits': 1, 'und': 1, 'wurde': 1, 'massiven': 1, 'kompakte': 1, 'serbischen': 2, 'diesem': 1, 'Den': 1, 'der': 1, ')': 1}
+['Belgrad', 'serbische', 'Ivica Dacic', 'Kosovo', 'serbische Provinz', 'serbische', 'Staatspräsident', 'Vucic hatte', 'neun', 'Andererseits', 'und', 'wurde', 'massiven', 'kompakte', 'serbischen', 'diesem', 'Den', 'serbischen', 'der', ')']

@@ -1,1 +1,1 @@
-{'Der Tatbestand': 1, 'wegen': 1, 'als': 1, 'als miefiges': 1, 'als miefiges ,': 1, 'man': 1, 'gegen': 1, 'Abs': 1, 'Beleidigung': 1, ', mir': 1}
+['Der Tatbestand', 'wegen', 'als', 'als miefiges', 'als miefiges ,', 'man', 'gegen', 'Abs', 'Beleidigung', ', mir']

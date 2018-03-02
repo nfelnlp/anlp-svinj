@@ -1,1 +1,1 @@
-{'Gesellschaft 7 Washington/Berlin': 1, 'Im': 1, 'die': 2, 'und': 1, 'aktiv': 1, 'aktiv werden': 1, 'Medienhoheit': 1, '„Toleranten': 1, 'jetzt': 1, 'Rahmen': 1, 'Personen': 1, 'entwickelte': 1, 'der sogenannten': 1, 'des neuen': 1}
+['Gesellschaft 7 Washington/Berlin', 'Im', 'die', 'und', 'aktiv', 'aktiv werden', 'Medienhoheit', '„Toleranten', 'die', 'jetzt', 'Rahmen', 'Personen', 'entwickelte', 'der sogenannten', 'des neuen']

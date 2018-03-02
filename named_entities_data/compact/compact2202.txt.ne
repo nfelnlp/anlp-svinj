@@ -1,1 +1,1 @@
-{'man': 1, 'Fischer Das': 1, ')': 2, ':': 2, 'würde': 1, 'No-Go': 1, 'des': 1, 'of': 1, 'on the New Frontiers': 1, '(': 1, 'Komplex': 1, 'die': 1, '.': 1, 'einen falschen': 1, 'über': 1, 'immer': 1, 'dann': 1, 'rufen': 1, 'Erntehelfer': 1, 'Land': 1, 'Aber': 1, 'Der': 1, 'ihren': 1, 'Hoffnungslosigkeit': 1}
+['man', 'Fischer Das', ')', ':', 'würde', 'No-Go', 'des', 'of', ':', 'on the New Frontiers', '(', ')', 'Komplex', 'die', '.', 'einen falschen', 'über', 'immer', 'dann', 'rufen', 'Erntehelfer', 'Land', 'Aber', 'Der', 'ihren', 'Hoffnungslosigkeit']

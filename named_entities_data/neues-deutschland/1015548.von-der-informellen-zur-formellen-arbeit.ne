@@ -1,1 +1,1 @@
-{'Jörg Meyer': 1, 'Internationale': 1, 'eine Empfehlung': 1, 'mehr': 1, 'Taxifahrer': 1, 'Haushaltshilfen': 1}
+['Jörg Meyer', 'Internationale', 'eine Empfehlung', 'mehr', 'Taxifahrer', 'Haushaltshilfen']

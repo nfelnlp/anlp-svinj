@@ -1,1 +1,1 @@
-{'Gesellschaft 9 München': 1, 'Bundespolizei': 1}
+['Gesellschaft 9 München', 'Bundespolizei']

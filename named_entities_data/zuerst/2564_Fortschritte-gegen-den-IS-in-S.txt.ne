@@ -1,1 +1,1 @@
-{'Moskau/Damaskus': 1, 'Im': 1, '.': 1, 'weitere Geländegewinne': 1, 'nach Angaben': 1, 'Angriffe': 1, ')': 1, 'Idlib ,': 1, 'und': 1, 'bombardiert': 1, 'Dabei': 1, ',': 1, 'Funkverkehr deutet nach': 1, '“': 1, 'IS wegen': 1, 'syrische': 1, 'al-Ghab-Ebene': 1, 'der': 1, 'benachbarte': 1, 'Bildformat bearbeitet': 1}
+['Moskau/Damaskus', 'Im', '.', 'weitere Geländegewinne', 'nach Angaben', 'Angriffe', ')', 'Idlib ,', 'und', 'bombardiert', 'Dabei', ',', 'Funkverkehr deutet nach', '“', 'IS wegen', 'syrische', 'al-Ghab-Ebene', 'der', 'benachbarte', 'Bildformat bearbeitet']

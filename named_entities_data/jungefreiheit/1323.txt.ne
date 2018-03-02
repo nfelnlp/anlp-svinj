@@ -1,1 +1,1 @@
-{'diversen': 1, 'siebziger Jahre': 1, 'nicht': 1, '``': 2, 'Menschenrechtler': 1, 'müssen': 1, 'rassistisch': 1, '.': 1, 'Beispiel rassistische': 1}
+['diversen', 'siebziger Jahre', 'nicht', '``', '``', 'Menschenrechtler', 'müssen', 'rassistisch', '.', 'Beispiel rassistische']

@@ -1,1 +1,1 @@
-{'Ines Wallrodt': 1, 'US': 1, 'Ramstein': 1, 'Berlin': 1}
+['Ines Wallrodt', 'US', 'Ramstein', 'Berlin']

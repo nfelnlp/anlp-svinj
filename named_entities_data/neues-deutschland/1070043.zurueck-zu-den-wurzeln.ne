@@ -1,1 +1,1 @@
-{'weltweit': 1, 'immer': 1, 'den': 1, '.': 1, 'eine': 1, 'tödlichen': 1, 'mit': 1}
+['weltweit', 'immer', 'den', '.', 'eine', 'tödlichen', 'mit']

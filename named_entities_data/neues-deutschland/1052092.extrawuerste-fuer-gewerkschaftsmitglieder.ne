@@ -1,1 +1,1 @@
-{'gleichen': 1, ', Chef': 1, '.': 1, 'im rheinischen': 1, 'oder': 1, '»': 1, '» Die': 1, ') .': 1, 'ja': 1, 'dem »': 1, 'die': 1, 'des': 1, 'CD-Hersteller Cinram': 1, 'für die eigenen': 1, 'Artikel': 1, '?': 1}
+['gleichen', ', Chef', '.', 'im rheinischen', 'oder', '»', '» Die', ') .', 'ja', 'dem »', 'die', 'des', 'CD-Hersteller Cinram', 'für die eigenen', 'Artikel', '?']

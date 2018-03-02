@@ -1,1 +1,1 @@
-{'Ankara': 1, 'FPÖ': 1, 'Österreich': 1, 'kritisiert': 1, 'jetzt': 1, 'die': 1, 'als': 1, 'getroffen': 1, ', beweist': 1, '“': 1, '”': 1, 'EU': 1, ':': 1, 'gegen': 1, 'Türkei': 1, 'sollte': 1, 'beantwortet': 1, 'halluzinierten türkische': 1, 'in': 1}
+['Ankara', 'FPÖ', 'Österreich', 'kritisiert', 'jetzt', 'die', 'als', 'getroffen', ', beweist', '“', '”', 'EU', ':', 'gegen', 'Türkei', 'sollte', 'beantwortet', 'halluzinierten türkische', 'in']

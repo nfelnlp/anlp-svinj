@@ -1,1 +1,1 @@
-{'Brüssel/Budapest': 1, 'Wegen': 1, 'Es ist': 1, 'jedoch': 1, 'und': 1, 'erklärte': 1, ':': 2, 'neue Gesetz': 1, 'Organisationen': 2, 'gegen': 1, 'das': 1, 'ihrer': 1, 'werden': 1, 'nach': 2}
+['Brüssel/Budapest', 'Wegen', 'Es ist', 'jedoch', 'und', 'erklärte', ':', 'neue Gesetz', 'Organisationen', 'gegen', 'das', 'Organisationen', 'ihrer', 'werden', ':', 'nach', 'nach']

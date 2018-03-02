@@ -1,1 +1,1 @@
-{'Wien': 1, 'Österreich': 2, 'lieferte': 1, 'Januar': 1, 'aktuellen': 1, ',': 1, 'Einreise nach': 1, '.': 1, 'Niveau': 1, 'Schweden': 1, 'Der': 1, 'österreichische': 1, 'Sobotka': 1, ')': 2, 'der': 1, ':': 1}
+['Wien', 'Österreich', 'Österreich', 'lieferte', 'Januar', 'aktuellen', ',', 'Einreise nach', '.', 'Niveau', 'Schweden', 'Der', 'österreichische', 'Sobotka', ')', 'der', ':', ')']

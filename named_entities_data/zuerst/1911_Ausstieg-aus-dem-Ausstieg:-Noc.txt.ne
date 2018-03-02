@@ -1,1 +1,1 @@
-{'Washington': 1, 'US-Präsident': 1, 'drei Monate': 1, ', der': 1, ',': 1, 'einen Ausstieg': 1, 'Mann': 1, 'Jared': 1, 'wichtigen Öl-': 1, 'Kohleproduzenten für': 1, 'bis': 1, 'treffen': 1, 'Spätestens': 1, 'Spicer': 1, 'bezeichnet': 1, 'seiner Wahl angekündigt ,': 1, 'weisen': 1, 'Jahr': 1}
+['Washington', 'US-Präsident', 'drei Monate', ', der', ',', 'einen Ausstieg', 'Mann', 'Jared', 'wichtigen Öl-', 'Kohleproduzenten für', 'bis', 'treffen', 'Spätestens', 'Spicer', 'bezeichnet', 'seiner Wahl angekündigt ,', 'weisen', 'Jahr']

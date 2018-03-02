@@ -1,1 +1,1 @@
-{'Galai': 1, 'Getty': 1, 'Régime': 1, 'Régime .': 1, 'von': 1, ',': 1, 'lesen': 1, 'Fitnessmodel und': 1, 'aber nicht': 1, 'im': 1, '.': 1, 'Man': 1, 'immer': 1, 'sich': 1, 'beginnt': 1, 'Freitag regelmäßig': 1}
+['Galai', 'Getty', 'Régime', 'Régime .', 'von', ',', 'lesen', 'Fitnessmodel und', 'aber nicht', 'im', '.', 'Man', 'immer', 'sich', 'beginnt', 'Freitag regelmäßig']

@@ -1,1 +1,1 @@
-{'Moskau': 1, 'NATO': 1, 'Konstantin Siwkow': 1, 'Akademie': 1, ':': 1, 'Nachrichtenagentur': 1, 'Segodnya': 1, 'wies': 1, 'Regionen': 1, 'hin': 1, 'Manövern': 1, 'des': 1, 'Einsatzraum': 1, 'sich': 1, 'daß': 1, 'ausgerüstet': 1, 'sind': 1}
+['Moskau', 'NATO', 'Konstantin Siwkow', 'Akademie', ':', 'Nachrichtenagentur', 'Segodnya', 'wies', 'Regionen', 'hin', 'Manövern', 'des', 'Einsatzraum', 'sich', 'daß', 'ausgerüstet', 'sind']

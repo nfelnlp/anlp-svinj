@@ -1,1 +1,1 @@
-{'York/Budapest': 1, 'Getroffene': 1, 'George': 1, 'der sich': 1, 'seiner': 1, 'den': 1, ') ursprünglich auch den': 1, 'die': 1, 'jedoch': 1, 'ersetzt': 1, 'Mafia-Regime': 1, 'sich': 1, 'der sowjetischen': 1, 'ihm': 1, 'es': 1, 'zu drängen . ( mü': 1}
+['York/Budapest', 'Getroffene', 'George', 'der sich', 'seiner', 'den', ') ursprünglich auch den', 'die', 'jedoch', 'ersetzt', 'Mafia-Regime', 'sich', 'der sowjetischen', 'ihm', 'es', 'zu drängen . ( mü']

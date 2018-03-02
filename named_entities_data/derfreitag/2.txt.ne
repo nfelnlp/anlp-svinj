@@ -1,1 +1,1 @@
-{'Wegwerfgesellschaft': 1, ':': 1, 'Woche': 1}
+['Wegwerfgesellschaft', ':', 'Woche']

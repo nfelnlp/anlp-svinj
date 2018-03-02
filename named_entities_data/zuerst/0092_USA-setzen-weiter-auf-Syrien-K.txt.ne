@@ -1,1 +1,1 @@
-{'„Grenzsicherheitszonen': 1, 'jetzt': 1, 'die': 1, 'die Entscheidung': 1, 'von': 1, 'stelle': 1, 'vernichtenden': 1, 'Krise': 1, 'den': 1, 'Nationen': 1, 'daß': 1, 'zeugten': 1, 'keineswegs': 1, 'der': 1, 'seien': 1, '„Demokratischen': 1, 'einer': 1, 'kontrollierten': 1, 'sei eine Truppengröße': 1}
+['„Grenzsicherheitszonen', 'jetzt', 'die', 'die Entscheidung', 'von', 'stelle', 'vernichtenden', 'Krise', 'den', 'Nationen', 'daß', 'zeugten', 'keineswegs', 'der', 'seien', '„Demokratischen', 'einer', 'kontrollierten', 'sei eine Truppengröße']

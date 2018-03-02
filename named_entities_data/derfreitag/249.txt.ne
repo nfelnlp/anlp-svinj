@@ -1,1 +1,1 @@
-{'der': 1, '.': 1, 'Bundestags': 1, 'gestärkt': 1, 'Regierung': 1, 'hatte': 1, 'ESM': 1, 'Parlamentariern': 1, 'das': 1, 'effektive': 1, 'sicher': 1, 'das noch': 1}
+['der', '.', 'Bundestags', 'gestärkt', 'Regierung', 'hatte', 'ESM', 'Parlamentariern', 'das', 'effektive', 'sicher', 'das noch']

@@ -1,1 +1,1 @@
-{'Anne Allex': 1, 'Peter Nowak': 1, 'NS': 1, 'Arbeiterbewegung': 1, 'Weimarer Republik': 1, 'welcher': 1, 'Gefährdung': 1}
+['Anne Allex', 'Peter Nowak', 'NS', 'Arbeiterbewegung', 'Weimarer Republik', 'welcher', 'Gefährdung']

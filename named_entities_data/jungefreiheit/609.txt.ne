@@ -1,1 +1,1 @@
-{'am': 1, 'nach Baden': 1, 'schlanker': 1, 'hüpfte': 1, 'bin': 1, 'ist so': 1, '``': 1, '(': 1, 'B 14': 1, 'konnte': 1, 'einzig': 1, ',': 1, 'in': 1, 'täglich': 1, 'das': 1, 'hatte': 1, 'Schere': 1, 'die': 1, 'Hoho': 1}
+['am', 'nach Baden', 'schlanker', 'hüpfte', 'bin', 'ist so', '``', '(', 'B 14', 'konnte', 'einzig', ',', 'in', 'täglich', 'das', 'hatte', 'Schere', 'die', 'Hoho']

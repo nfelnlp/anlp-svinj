@@ -1,1 +1,1 @@
-{'INXI': 1, 'Verkehrschaos': 1, 'Trump': 1, 'Putin': 1, 'gepäppelt': 1, '2018': 1, '.': 2, 'deutsch-demokratische': 1, 'sowieso': 1, 'also': 1, 'und dann': 1, 'der': 1, 'Konferenz': 1, 'vorbereitet': 1, 'Lebensmitteln': 1, 'mehrere': 1, 'des': 1, 'das nicht': 1, 'das nicht .': 1, 'Protagonisten': 1, 'Gesellschaft': 1}
+['INXI', 'Verkehrschaos', 'Trump', 'Putin', 'gepäppelt', '2018', '.', 'deutsch-demokratische', 'sowieso', 'also', 'und dann', 'der', 'Konferenz', 'vorbereitet', 'Lebensmitteln', 'mehrere', 'des', 'das nicht', 'das nicht .', '.', 'Protagonisten', 'Gesellschaft']

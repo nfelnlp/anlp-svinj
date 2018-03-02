@@ -1,1 +1,1 @@
-{'Washington': 1, 'US-Präsident': 1, 'hat sich': 1, 'zeigte': 1, '„Es ist': 1, 'Videos': 1, 'Bedrohung “': 1, 'Daraufhin': 1, 'Premierministerin': 1, 'um': 1}
+['Washington', 'US-Präsident', 'hat sich', 'zeigte', '„Es ist', 'Videos', 'Bedrohung “', 'Daraufhin', 'Premierministerin', 'um']

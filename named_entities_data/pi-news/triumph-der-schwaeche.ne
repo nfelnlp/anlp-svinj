@@ -1,1 +1,1 @@
-{'Schweden': 1, 'zugeht': 1, 'Deutschland': 2, 'Kretschmann': 1, 'Grünen': 1, 'SPD': 1, 'Schulz ?': 1, 'wie': 1, 'nicht einmal': 1, '.': 2, 'mittels': 1, 'nur': 1, 'dargestellt .': 1, 'konservativen': 1, 'dieser Schicksals-Wahl 2017': 1, 'ersichtlichen': 1, 'noch': 1, 'und': 1, 'destruktives': 1}
+['Schweden', 'zugeht', 'Deutschland', 'Kretschmann', 'Grünen', 'SPD', 'Deutschland', 'Schulz ?', 'wie', 'nicht einmal', '.', 'mittels', 'nur', 'dargestellt .', 'konservativen', '.', 'dieser Schicksals-Wahl 2017', 'ersichtlichen', 'noch', 'und', 'destruktives']

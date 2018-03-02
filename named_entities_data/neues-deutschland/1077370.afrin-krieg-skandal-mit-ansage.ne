@@ -1,1 +1,1 @@
-{'türkischen': 1, 'mitgeteilt ,': 1, 'Krieg': 1, 'sich': 1, 'Zusagen': 1, 'eben': 1}
+['türkischen', 'mitgeteilt ,', 'Krieg', 'sich', 'Zusagen', 'eben']

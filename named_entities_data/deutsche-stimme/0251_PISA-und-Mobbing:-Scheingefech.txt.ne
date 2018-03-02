@@ -1,0 +1,1 @@
+['der Organisation', 'die', '„Demokratiebildung “ und', 'mehr', 'Rechts', 'möchte angesichts', '„fester', 'von schulischer', 'Ursache weitgehend', 'überhaupt in Zeitungen', 'Prozent', 'die', 'Bildungswesen', 'Schulhof', ',', 'auf', 'Unterbesetzung', 'daran']

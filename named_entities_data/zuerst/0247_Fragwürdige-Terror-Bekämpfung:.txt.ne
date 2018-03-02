@@ -1,1 +1,1 @@
-{'London': 1, 'Staat': 1, '(': 1, 'geführte': 1, 'angeblich': 1, 'das': 1, 'auf': 1, 'auffällig rasch in': 1, '.': 1, 'die': 1, 'Waffen': 2, 'Auslieferung': 1, 'CAR-Sprecher Damien': 1, 'Schlußfolgerung , die': 1, 'Washingtons beim': 1, 'es': 1}
+['London', 'Staat', '(', 'geführte', 'angeblich', 'das', 'auf', 'auffällig rasch in', '.', 'die', 'Waffen', 'Auslieferung', 'CAR-Sprecher Damien', 'Schlußfolgerung , die', 'Washingtons beim', 'es', 'Waffen']

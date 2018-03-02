@@ -1,1 +1,1 @@
-{'deutlich': 1, 'Bedarf': 1, 'der': 2, 'Ähnlich': 1, 'Ähnlich sieht': 1, 'aus': 1, 'auch': 1, 'hatten': 1, 'Zustände': 1, 'in': 1, 'hat': 1, 'kein': 1, 'linker Krimineller .': 1, ', schmierten': 1, 'Familie': 1, 'Migrationshintergrund': 1, 'wohl': 1, 'zurückschrecken': 1, 'mit kleinen': 1, 'zu': 1, 'diese': 1}
+['deutlich', 'Bedarf', 'der', 'Ähnlich', 'Ähnlich sieht', 'aus', 'auch', 'hatten', 'Zustände', 'in', 'hat', 'kein', 'linker Krimineller .', ', schmierten', 'der', 'Familie', 'Migrationshintergrund', 'wohl', 'zurückschrecken', 'mit kleinen', 'zu', 'diese']

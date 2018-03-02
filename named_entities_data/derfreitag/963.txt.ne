@@ -1,1 +1,1 @@
-{'Piketty': 1, 'Justin Sullivan': 1, 'Getty': 1, '„Besser': 1, 'Steinbrück (': 1, ')': 1, 'erklärt': 1, ',': 1, 'die Ungleichbehandlung': 1, 'genau': 1}
+['Piketty', 'Justin Sullivan', 'Getty', '„Besser', 'Steinbrück (', ')', 'erklärt', ',', 'die Ungleichbehandlung', 'genau']

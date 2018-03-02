@@ -1,1 +1,1 @@
-{'Amerika': 1, 'Naskrecki': 1, 'Naskrecki Anzeige': 1, 'bis in': 1, 'auf': 1, '.': 2, '20 Jahre': 1, ',': 1, 'bezüglich': 1, 'die': 1, 'werden': 1, 'den': 1}
+['Amerika', 'Naskrecki', 'Naskrecki Anzeige', 'bis in', 'auf', '.', '20 Jahre', ',', 'bezüglich', 'die', '.', 'werden', 'den']

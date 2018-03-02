@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Segeberg': 1, 'gut': 1, 'zehn': 1, 'Millionen werden': 1, 'an': 1, 'die Anstalt': 1, 'ohne daß Menschen': 1, 'die gemeinsam': 1, 'man': 1, 'vermuten . (': 1}
+['Gesellschaft', 'Segeberg', 'gut', 'zehn', 'Millionen werden', 'an', 'die Anstalt', 'ohne daß Menschen', 'die gemeinsam', 'man', 'vermuten . (']

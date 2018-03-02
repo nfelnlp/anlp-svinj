@@ -1,1 +1,1 @@
-{'der': 2, '. Bis': 1, '. Ob': 1, 'Frage': 1, 'Vieles': 1, ',': 1}
+['der', '. Bis', '. Ob', 'Frage', 'Vieles', 'der', ',']

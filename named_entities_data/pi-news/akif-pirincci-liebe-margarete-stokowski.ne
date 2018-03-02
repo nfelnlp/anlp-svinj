@@ -1,1 +1,1 @@
-{'warum': 1, ',': 5, 'spezielle': 1, 'bauen': 1, 'es': 1, 'tun': 1, 'denen': 1, 'du': 1, 'wie': 1, 'LKWs': 1, 'Ficklinge': 1, 'kleiner': 1, 'die': 1, 'Regung': 1, '“': 1, 'Doofscheiße vor': 1, 'ihnen gesagt ,': 1, 'Gesicht': 1, 'wieder': 1, 'Gegensatz': 1, 'einmal': 1, 'Verwirrte': 1, 'von': 1}
+['warum', ',', 'spezielle', 'bauen', 'es', 'tun', ',', 'denen', 'du', 'wie', 'LKWs', 'Ficklinge', 'kleiner', 'die', ',', 'Regung', '“', ',', 'Doofscheiße vor', 'ihnen gesagt ,', 'Gesicht', 'wieder', 'Gegensatz', 'einmal', 'Verwirrte', ',', 'von']

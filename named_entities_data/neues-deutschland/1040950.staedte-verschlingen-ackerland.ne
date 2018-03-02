@@ -1,1 +1,1 @@
-{'Elke Bunge': 1, 'Mercator Research': 1, 'Global Commons': 1, 'MCC': 1, 'Berlin': 1, 'Asien': 2, 'Afrika': 2}
+['Elke Bunge', 'Mercator Research', 'Global Commons', 'MCC', 'Berlin', 'Asien', 'Afrika', 'Asien', 'Afrika']

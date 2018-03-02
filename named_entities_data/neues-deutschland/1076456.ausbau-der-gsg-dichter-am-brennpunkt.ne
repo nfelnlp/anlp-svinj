@@ -1,1 +1,1 @@
-{'ein': 1, 'Die Spezialeinheit': 1, 'Bundespolizei': 1, 'Bekämpfung': 1, '.': 1, ',': 1, ', zu': 1, 'rbb-Inforadio': 1}
+['ein', 'Die Spezialeinheit', 'Bundespolizei', 'Bekämpfung', '.', ',', ', zu', 'rbb-Inforadio']

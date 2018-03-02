@@ -1,1 +1,1 @@
-{'Moskau': 1, 'Rußland': 1, 'Wladimir Putin': 1, 'Rußland-Infoportal': 1, 'nicht': 1, 'Zentrums für': 1, ',': 1, 'sich': 1, 'einer': 1, '%': 1, 'der': 1}
+['Moskau', 'Rußland', 'Wladimir Putin', 'Rußland-Infoportal', 'nicht', 'Zentrums für', ',', 'sich', 'einer', '%', 'der']

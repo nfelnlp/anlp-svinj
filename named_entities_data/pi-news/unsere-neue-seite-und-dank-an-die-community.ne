@@ -1,1 +1,1 @@
-{'Aussehen': 1, 'Webseite': 1, 'Kommentarspalte .': 1}
+['Aussehen', 'Webseite', 'Kommentarspalte .']

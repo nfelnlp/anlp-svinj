@@ -1,1 +1,1 @@
-{'Armstrong Roberts/Retrofile/Getty Images': 1, 'die': 1, 'kann': 1, 'Geschmacksurteilen recht': 1, '. Dieses': 1, '. Wäre': 1, 'Dirk': 1, 'Helge': 1, ', dass': 1, 'ohne Lesung': 1, 'bald': 1, 'Ja': 1, 'Genau so muss': 1, 'zu': 1, 'gar': 1}
+['Armstrong Roberts/Retrofile/Getty Images', 'die', 'kann', 'Geschmacksurteilen recht', '. Dieses', '. Wäre', 'Dirk', 'Helge', ', dass', 'ohne Lesung', 'bald', 'Ja', 'Genau so muss', 'zu', 'gar']

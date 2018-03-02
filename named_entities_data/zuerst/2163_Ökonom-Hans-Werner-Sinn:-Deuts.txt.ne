@@ -1,1 +1,1 @@
-{'Hans-Werner Sinn ,': 1, 'Plänen': 1, 'der': 1, 'sei': 1, 'Brexit': 1, 'nicht': 1, 'den': 1, 'Europäischen': 1, 'viel': 1, 'Immigration': 1, 'meint': 1, 'übrig': 1, 'wichtigere': 1, 'ein': 1, 'Abhängigkeitsverhältnis': 1, 'Großbritannien': 1, 'und': 1, '„lateinischen': 1, '“': 1}
+['Hans-Werner Sinn ,', 'Plänen', 'der', 'sei', 'Brexit', 'nicht', 'den', 'Europäischen', 'viel', 'Immigration', 'meint', 'übrig', 'wichtigere', 'ein', 'Abhängigkeitsverhältnis', 'Großbritannien', 'und', '„lateinischen', '“']

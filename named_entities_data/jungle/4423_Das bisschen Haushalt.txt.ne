@@ -1,1 +1,1 @@
-{'Putzkräfte': 1, 'Von Lisa': 1, 'Lieferdienste': 1, 'via': 1, 'Die': 1, 'direkt': 1, ':': 1, 'Putzen': 1}
+['Putzkräfte', 'Von Lisa', 'Lieferdienste', 'via', 'Die', 'direkt', ':', 'Putzen']

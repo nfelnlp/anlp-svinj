@@ -1,1 +1,1 @@
-{'. Die': 1, 'Frank': 1, ', der': 1, '. » Wir dürfen': 1, 'der': 1, '.': 2, 'Mitarbeiter müssen': 1, 'viel': 1, 'zum': 1, 'Bund': 1, ',': 1, 'analog': 1, 'automatisiert': 1}
+['. Die', 'Frank', ', der', '. » Wir dürfen', 'der', '.', 'Mitarbeiter müssen', 'viel', 'zum', '.', 'Bund', ',', 'analog', 'automatisiert']

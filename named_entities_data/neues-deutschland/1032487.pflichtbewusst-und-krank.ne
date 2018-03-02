@@ -1,1 +1,1 @@
-{'die': 1, 'dieser Tage eingeladen .': 1, ',': 1, 'Fragen': 1}
+['die', 'dieser Tage eingeladen .', ',', 'Fragen']

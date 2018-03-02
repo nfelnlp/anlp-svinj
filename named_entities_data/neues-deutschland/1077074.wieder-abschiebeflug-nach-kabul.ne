@@ -1,1 +1,1 @@
-{'. Trotz': 1, 'am': 1, 'wieder': 1, '.': 1, ',': 2, 'Flüchtlingsinitiativen wollen vor': 1, 'Flug': 1, 'Abschiebungen protestieren': 1, 'erwartet': 1, 'angesichts': 1, 'Sicherheitslage in': 1, 'verzichten': 1, 'Abschiebung': 1, 'auch': 1, 'Tod': 1, 'Regierungsstellen': 1, 'nicht': 1}
+['. Trotz', 'am', 'wieder', '.', ',', ',', 'Flüchtlingsinitiativen wollen vor', 'Flug', 'Abschiebungen protestieren', 'erwartet', 'angesichts', 'Sicherheitslage in', 'verzichten', 'Abschiebung', 'auch', 'Tod', 'Regierungsstellen', 'nicht']

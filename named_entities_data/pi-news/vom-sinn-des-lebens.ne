@@ -1,1 +1,1 @@
-{'DDR': 1, 'werden': 1, 'auf': 1}
+['DDR', 'werden', 'auf']

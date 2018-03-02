@@ -1,1 +1,1 @@
-{'Gilles-Eric Séralini eine Studie': 1, ') . Nun': 1, 'Universität': 1, 'darauf ,': 1, 'Gentechnologie-Industrie': 1, 'wegen übler': 1, 'gewann den': 1, 'Toxicology': 1, 'Ratten': 1, 'zwei Jahre lang': 1, 'führt': 1, 'veröffentlicht': 1, 'die': 1, 'Dieser': 1, 'transgenen': 1, 'ihren': 1, ',': 1}
+['Gilles-Eric Séralini eine Studie', ') . Nun', 'Universität', 'darauf ,', 'Gentechnologie-Industrie', 'wegen übler', 'gewann den', 'Toxicology', 'Ratten', 'zwei Jahre lang', 'führt', 'veröffentlicht', 'die', 'Dieser', 'transgenen', 'ihren', ',']

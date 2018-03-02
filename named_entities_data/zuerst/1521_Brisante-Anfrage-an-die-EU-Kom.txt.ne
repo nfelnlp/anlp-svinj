@@ -1,1 +1,1 @@
-{'Gesellschaft 11 Brüssel/Berlin': 1, 'Der': 1, 'Udo': 1, ', hat': 1, '.': 2, 'der': 1, 'von der': 1, 'Souveränitätsstatus´': 1, 'und': 1, 'Verträgen': 1, 'zum Europäischen': 1, 'Wirtschaftsforum': 1, 'St.': 1, 'Souveränitätsdefizit': 1, 'hatte . Der': 1, 'Brüssel': 1, 'Falle': 1, 'von': 1, 'Lesart': 1, 'wurden': 1}
+['Gesellschaft 11 Brüssel/Berlin', 'Der', 'Udo', ', hat', '.', 'der', 'von der', 'Souveränitätsstatus´', 'und', 'Verträgen', 'zum Europäischen', '.', 'Wirtschaftsforum', 'St.', 'Souveränitätsdefizit', 'hatte . Der', 'Brüssel', 'Falle', 'von', 'Lesart', 'wurden']

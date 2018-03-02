@@ -1,1 +1,1 @@
-{'Böke': 1, 'zu ; prügelt': 1, 'sind': 1, 'sich': 1, 'unter': 1, 'diversen': 1, 'Das': 1, 'Augsburg': 1}
+['Böke', 'zu ; prügelt', 'sind', 'sich', 'unter', 'diversen', 'Das', 'Augsburg']

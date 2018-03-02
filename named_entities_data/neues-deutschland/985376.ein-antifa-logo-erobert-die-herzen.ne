@@ -1,1 +1,1 @@
-{'hinter sich': 1, 'kennt es': 1, 'früher': 1, 'an': 1, 'allgegenwärtig': 1, 'München': 1, 'in': 1, 'wie': 1, 'wie Hermsdorf .': 1, 'gemalt': 1, 'Erfinder': 1, 'finden das': 1, '»': 1, 'die': 1, 'der': 1, 'allen': 1, 'wichtigen': 1}
+['hinter sich', 'kennt es', 'früher', 'an', 'allgegenwärtig', 'München', 'in', 'wie', 'wie Hermsdorf .', 'gemalt', 'Erfinder', 'finden das', '»', 'die', 'der', 'allen', 'wichtigen']

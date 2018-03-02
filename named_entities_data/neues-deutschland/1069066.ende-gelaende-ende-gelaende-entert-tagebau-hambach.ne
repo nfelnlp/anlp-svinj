@@ -1,1 +1,1 @@
-{', kalt': 1, 'Wohngemeinschaften': 1, 'Bahnhof': 1, 'es': 1, 'Demonstrationen und Kundgebungen': 1, 'Köln': 1, 'losfahren': 1, 'sich für die': 1, 'angeblich': 1, 'Zäune': 1, 'wichen': 1, 'betreten': 1, 'die': 1, '.': 1}
+[', kalt', 'Wohngemeinschaften', 'Bahnhof', 'es', 'Demonstrationen und Kundgebungen', 'Köln', 'losfahren', 'sich für die', 'angeblich', 'Zäune', 'wichen', 'betreten', 'die', '.']

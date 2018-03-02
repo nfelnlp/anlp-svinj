@@ -1,1 +1,1 @@
-{'. Die': 1, 'die': 1, 'Haschemi Schahrudi nach einer': 1, 'kritisiert': 1, 'am': 1, 'Es': 1, 'in': 1, 'den': 1, 'Iraner': 1, '1999': 1, 'viele Todesurteile abgesegnet': 1}
+['. Die', 'die', 'Haschemi Schahrudi nach einer', 'kritisiert', 'am', 'Es', 'in', 'den', 'Iraner', '1999', 'viele Todesurteile abgesegnet']

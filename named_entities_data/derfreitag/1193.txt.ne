@@ -1,1 +1,1 @@
-{'Real': 1, '–': 1, 'zu': 1, 'progammiert ,': 1, 'es': 1, 'Walden': 1, 'die': 1}
+['Real', '–', 'zu', 'progammiert ,', 'es', 'Walden', 'die']

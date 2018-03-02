@@ -1,1 +1,1 @@
-{'Berlin': 1}
+['Berlin']

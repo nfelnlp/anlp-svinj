@@ -1,1 +1,1 @@
-{'Rom': 1, 'Virginia Raggi': 1, 'italienischen': 1, 'Basilone schrieb': 1, 'nicht': 1, 'Auch': 1, 'ihren': 1, 'Angesichts': 1, 'mü': 1}
+['Rom', 'Virginia Raggi', 'italienischen', 'Basilone schrieb', 'nicht', 'Auch', 'ihren', 'Angesichts', 'mü']

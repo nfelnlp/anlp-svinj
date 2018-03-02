@@ -1,1 +1,1 @@
-{'wirft dem': 1, 'vor': 1, 'und': 1, 'in': 1, 'bayerischen': 1, 'der derzeit': 1, 'den': 2, 'Fahrenschon vor': 1, 'die': 1, 'der': 1, '2011': 1, 'Nachfolger': 1, 'der sich': 1, 'Falle': 1, ':': 1, 'zum Bundespräsidenten': 1, 'früherer': 1, 'zweier': 1}
+['wirft dem', 'vor', 'und', 'in', 'bayerischen', 'der derzeit', 'den', 'Fahrenschon vor', 'die', 'den', 'der', '2011', 'Nachfolger', 'der sich', 'Falle', ':', 'zum Bundespräsidenten', 'früherer', 'zweier']

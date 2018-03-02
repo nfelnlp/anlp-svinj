@@ -1,1 +1,1 @@
-{'Otto': 1, 'wird': 1, 'und': 1, 'der aber': 1, 'besten': 1, 'ist': 1, 'stellen': 1}
+['Otto', 'wird', 'und', 'der aber', 'besten', 'ist', 'stellen']

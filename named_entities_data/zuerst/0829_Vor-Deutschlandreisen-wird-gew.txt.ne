@@ -1,1 +1,1 @@
-{'Ankara': 1, 'Retourkutsche': 1, 'Deutschland': 2, '” betitelt': 1, 'von': 1, 'und': 1, 'die': 1, 'Gülen-Bewegung in': 1, 'türkische': 1, 'politische': 1, 'politische Atmosphäre': 1, 'Diskurs': 1, 'zu': 1, 'daß': 1, 'der': 1, 'Flughäfen': 1}
+['Ankara', 'Retourkutsche', 'Deutschland', 'Deutschland', '” betitelt', 'von', 'und', 'die', 'Gülen-Bewegung in', 'türkische', 'politische', 'politische Atmosphäre', 'Diskurs', 'zu', 'daß', 'der', 'Flughäfen']

@@ -1,1 +1,1 @@
-{', dem': 1, 'Osterloh': 2, 'auch': 1, 'dessen Aufsichtsrat': 1, ':': 1, 'zugute': 1, 'Wolfsburger Kernmarke': 1, 'Schließlich': 1, 'nur': 1}
+[', dem', 'Osterloh', 'Osterloh', 'auch', 'dessen Aufsichtsrat', ':', 'zugute', 'Wolfsburger Kernmarke', 'Schließlich', 'nur']

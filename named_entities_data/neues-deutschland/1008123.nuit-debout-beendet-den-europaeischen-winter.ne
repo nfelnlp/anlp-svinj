@@ -1,1 +1,1 @@
-{':': 2, 'waren vor': 1, 'und den': 1, '»': 1, 'selbst': 1, 'in': 2, 'errichteten': 1, 'ihre': 1, 'der': 1, 'Die': 1, '.': 3, '\u202a #': 1, 'Straßen': 1, 'versammeln': 1, 'wird': 1, 'mit diskutierten': 1, 'Jahrestag': 1, 'wecken': 1}
+[':', 'waren vor', 'und den', '»', 'selbst', 'in', 'errichteten', 'ihre', 'der', 'Die', '.', '.', '\u202a #', 'Straßen', 'versammeln', 'wird', 'in', 'mit diskutierten', '.', ':', 'Jahrestag', 'wecken']

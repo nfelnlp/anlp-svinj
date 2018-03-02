@@ -1,1 +1,1 @@
-{'Eggert Es': 1, 'Denn': 1, 'Polizei': 1, 'staunenden': 1, 'man das': 1, 'macht': 1, 'sie': 1, '.': 2, 'noch': 1, 'wie': 1, 'ihnen': 1, 'Wasser': 1, 'Gesicht': 1, 'nur': 1, ',': 1, 'Jörg': 1, 'eine –': 1, '“': 1, 'hoher': 1, 'Aufzeichnungslücken': 1, 'uns': 1, 'den': 1}
+['Eggert Es', 'Denn', 'Polizei', 'staunenden', 'man das', 'macht', 'sie', '.', 'noch', 'wie', 'ihnen', 'Wasser', 'Gesicht', '.', 'nur', ',', 'Jörg', 'eine –', '“', 'hoher', 'Aufzeichnungslücken', 'uns', 'den']

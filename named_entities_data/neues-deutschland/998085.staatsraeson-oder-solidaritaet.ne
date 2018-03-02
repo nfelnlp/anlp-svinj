@@ -1,1 +1,1 @@
-{'Von': 1, 'mit': 1, 'Radiosendung': 1, ',': 2, 'die Frage': 1, 'sind': 1, 'Bewusstsein': 1, 'vor .': 1, 'der': 1, 'Äußerungen nicht': 1, 'gebe': 1, 'Beschluss': 1, 'ver.di zur': 1, 'beschäftigt': 1, 'erklärt': 1, 'und': 1, 'Verbände': 1}
+['Von', 'mit', 'Radiosendung', ',', 'die Frage', 'sind', 'Bewusstsein', 'vor .', 'der', 'Äußerungen nicht', 'gebe', 'Beschluss', 'ver.di zur', 'beschäftigt', 'erklärt', ',', 'und', 'Verbände']

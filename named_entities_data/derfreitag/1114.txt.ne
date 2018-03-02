@@ -1,1 +1,1 @@
-{'Reif': 1, 'Susanne Fischer': 1, 'ist mit': 1, 'Atomstrom': 1, 'ich': 1, ',': 1, 'Erst-': 1, 'sind': 1, 'nach der Geburt ,': 1, '.': 2, 'leitet .': 1, 'Mutter': 1, 'erschienen': 1, '14,99': 1}
+['Reif', 'Susanne Fischer', 'ist mit', 'Atomstrom', 'ich', ',', 'Erst-', 'sind', 'nach der Geburt ,', '.', 'leitet .', 'Mutter', 'erschienen', '14,99', '.']

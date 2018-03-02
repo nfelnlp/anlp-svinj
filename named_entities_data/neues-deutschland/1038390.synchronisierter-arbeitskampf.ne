@@ -1,1 +1,1 @@
-{'Ver.di': 1, 'Amazon': 2, 'Jörn Perske': 1, 'Bad Hersfeld': 1, 'ver.di': 1, 'lange': 1, '. » Wir': 1, 'im': 1, 'früher': 1, 'Das ist': 1, 'Gewerkschaften': 1, 'werden': 1}
+['Ver.di', 'Amazon', 'Jörn Perske', 'Bad Hersfeld', 'ver.di', 'Amazon', 'lange', '. » Wir', 'im', 'früher', 'Das ist', 'Gewerkschaften', 'werden']

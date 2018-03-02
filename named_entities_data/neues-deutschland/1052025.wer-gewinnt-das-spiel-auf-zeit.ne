@@ -1,1 +1,1 @@
-{'Buenos Aires': 1}
+['Buenos Aires']

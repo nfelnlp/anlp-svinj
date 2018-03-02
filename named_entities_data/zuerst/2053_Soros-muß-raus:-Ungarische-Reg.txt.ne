@@ -1,1 +1,1 @@
-{'Budapest': 1, 'ungarische': 1, 'Orbán': 1, 'die': 1, 'University ( CEU': 1, 'Die': 1, 'finanziert wurde': 1, 'brachte jüngst': 1, 'Gesetzentwurf': 1, '.': 1, 'zudem': 1, ',': 2, 'unter': 1, 'außereuropäischen': 1, 'einer': 1, 'ohne': 1, 'in': 1, 'Hehl': 1, 'vertreiben will': 1, 'Er': 1, 'und': 1, 'Landes': 1}
+['Budapest', 'ungarische', 'Orbán', 'die', 'University ( CEU', 'Die', 'finanziert wurde', 'brachte jüngst', 'Gesetzentwurf', '.', 'zudem', ',', 'unter', 'außereuropäischen', 'einer', ',', 'ohne', 'in', 'Hehl', 'vertreiben will', 'Er', 'und', 'Landes']

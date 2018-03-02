@@ -1,1 +1,1 @@
-{'Washington': 1, 'US-Präsident': 1, 'arbeitet sein': 1, 'Environmental': 1, 'Agency': 1, 'auf': 1, 'hält': 1, 'hält die': 1, 'Leben': 1, 'Umweltminister': 1, 'zuvor Generalstaatsanwalt': 1, ',': 1, 'frischgekürter': 1, 'Worte für': 1, 'könne': 1, ':': 1, 'satte': 1, '29': 1, 'in': 1}
+['Washington', 'US-Präsident', 'arbeitet sein', 'Environmental', 'Agency', 'auf', 'hält', 'hält die', 'Leben', 'Umweltminister', 'zuvor Generalstaatsanwalt', ',', 'frischgekürter', 'Worte für', 'könne', ':', 'satte', '29', 'in']

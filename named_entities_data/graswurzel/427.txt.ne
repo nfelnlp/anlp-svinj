@@ -1,0 +1,1 @@
+['Thьringen', 'reaktionдrer', 'Schoя', 'ihre', ',', ',', 'Nach', 'Revolution', '``', 'der', 'Demokraten doch', 'des Berliner', 'ohne', 'Gefahrendiagnose', 'hochjubelte', 'ein', 'liberaler Demokratie', 'hдtte ,', 'die Schilys , Schдubles', 'Rettung', 'kцnnte', 'selbstbewusste']

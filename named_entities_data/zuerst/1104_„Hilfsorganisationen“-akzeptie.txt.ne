@@ -1,1 +1,1 @@
-{'Rom': 1, ',': 1, 'stellte': 1, 'daß': 1, 'umzugehen .': 1, 'ermutigt': 1, 'Unter': 1, 'Schiffe jener': 1, 'die den': 1}
+['Rom', ',', 'stellte', 'daß', 'umzugehen .', 'ermutigt', 'Unter', 'Schiffe jener', 'die den']

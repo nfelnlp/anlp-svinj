@@ -1,1 +1,1 @@
-{'imago Wien': 1, 'BZÖ': 1, 'an': 1, 'Dessen Klubchef': 1, 'hat bereits': 1, 'die': 4, 'hinausgeworfenes': 1, 'ihre': 1, 'sich': 1, 'stabil': 1, '?': 1, 'informeller': 1, 'auch': 1, 'ebenfalls': 1, '%': 1, 'Enorm': 1}
+['imago Wien', 'BZÖ', 'an', 'Dessen Klubchef', 'hat bereits', 'die', 'hinausgeworfenes', 'ihre', 'sich', 'die', 'die', 'stabil', '?', 'informeller', 'auch', 'ebenfalls', '%', 'Enorm', 'die']

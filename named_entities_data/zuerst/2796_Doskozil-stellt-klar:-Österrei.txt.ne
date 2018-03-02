@@ -1,1 +1,1 @@
-{'Wien': 1, 'Österreich': 1, ', sollen die': 1, 'einem': 1, '.': 1, ',': 1, 'vorgeschlagen': 1, 'künftig': 1, 'werden': 1, 'und': 1}
+['Wien', 'Österreich', ', sollen die', 'einem', '.', ',', 'vorgeschlagen', 'künftig', 'werden', 'und']

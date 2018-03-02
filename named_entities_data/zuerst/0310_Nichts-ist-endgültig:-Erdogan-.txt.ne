@@ -1,1 +1,1 @@
-{'Athen': 2, 'türkische': 1, 'Erdogan': 2, 'Griechenland': 2, 'Lausanne': 1, 'Prokopis Pavlopoulos': 1, 'Pavlopoulos': 1, 'Europäischen Union': 1, 'forderte eine': 1, 'in': 2, 'Für': 1, 'zudem': 1, 'hohen': 1, 'Freiheiten': 1, 'gerecht': 1, 'hatte': 1, 'der': 1, 'dicht vor': 1, 'türkischen': 1}
+['Athen', 'türkische', 'Erdogan', 'Griechenland', 'Lausanne', 'Erdogan', 'Athen', 'Prokopis Pavlopoulos', 'Griechenland', 'Pavlopoulos', 'Europäischen Union', 'forderte eine', 'in', 'Für', 'zudem', 'hohen', 'Freiheiten', 'gerecht', 'in', 'hatte', 'der', 'dicht vor', 'türkischen']

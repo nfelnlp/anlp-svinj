@@ -1,1 +1,1 @@
-{'vor .': 1, 'nach': 1, 'Jana « vor': 1, 'Die': 1, 'das': 1, '»': 3, 'vom ver.di-Fachbereich': 1, 'und': 1, 'schafft': 1, ',': 2, '2013': 1, 'weist': 1, 'bestehenden': 1, 'Kliniken .': 1, 'Sommer für': 1}
+['vor .', 'nach', 'Jana « vor', 'Die', 'das', '»', 'vom ver.di-Fachbereich', 'und', '»', 'schafft', ',', '2013', 'weist', ',', '»', 'bestehenden', 'Kliniken .', 'Sommer für']

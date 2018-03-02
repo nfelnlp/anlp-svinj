@@ -1,1 +1,1 @@
-{'( CDU': 1, 'im': 1, 'Schlupp ( CDU': 1, 'unterbrach': 1, 'und': 1}
+['( CDU', 'im', 'Schlupp ( CDU', 'unterbrach', 'und']

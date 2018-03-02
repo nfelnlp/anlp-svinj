@@ -1,1 +1,1 @@
-{'Gesellschaft 1 Kiel': 1, 'Schleswig-Holstein gekommen .': 1, 'das': 1, 'Onnasch': 1, 'viele Asylbewerber': 1, 'darum': 1, 'die Imame eine': 1, 'arabischen': 1}
+['Gesellschaft 1 Kiel', 'Schleswig-Holstein gekommen .', 'das', 'Onnasch', 'viele Asylbewerber', 'darum', 'die Imame eine', 'arabischen']

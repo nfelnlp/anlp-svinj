@@ -1,1 +1,1 @@
-{'Marc Jongen': 1, 'Karlsruhe': 1, ',': 3, 'der einzige': 1, 'ungeachtet': 1, 'an': 1, 'der': 1, 'auf': 1, 'wollten': 1, ')': 1, 'Menschen': 1, 'ohnehin': 1, 'unbefristete': 1, 'mit ,': 1, 'mal ,': 1, 'helfen': 1, 'Als': 1, 'fragwόrdiger': 1, 'So ist': 1, 'unter dem': 1}
+['Marc Jongen', 'Karlsruhe', ',', 'der einzige', 'ungeachtet', 'an', 'der', 'auf', ',', 'wollten', ')', 'Menschen', 'ohnehin', 'unbefristete', 'mit ,', 'mal ,', ',', 'helfen', 'Als', 'fragwόrdiger', 'So ist', 'unter dem']

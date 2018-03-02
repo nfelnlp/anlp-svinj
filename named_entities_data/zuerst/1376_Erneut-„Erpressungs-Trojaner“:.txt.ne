@@ -1,1 +1,1 @@
-{'Berlin': 1, 'hat': 1, 'und': 2, 'lahmgelegt': 1, 'Radioakvität': 1, ', der': 1, 'sein': 1, 'sein .': 1, 'sein . Bei': 1, 'eine Sprecherin am': 1, 'analysiere': 1, 'Angriff': 1, 'Sicherheitsforschung': 1, 'es': 1, 'osteuropäischen Ländern': 1, '. Nun': 1, 'sorgte': 1, 'Windows': 1, '(': 1}
+['Berlin', 'hat', 'und', 'lahmgelegt', 'Radioakvität', ', der', 'und', 'sein', 'sein .', 'sein . Bei', 'eine Sprecherin am', 'analysiere', 'Angriff', 'Sicherheitsforschung', 'es', 'osteuropäischen Ländern', '. Nun', 'sorgte', 'Windows', '(']

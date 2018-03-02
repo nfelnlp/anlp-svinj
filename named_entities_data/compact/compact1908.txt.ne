@@ -1,1 +1,1 @@
-{'August 2016': 1, '«': 1, '« Aquana': 1, 'der': 1, '.': 2, 'neu': 1, 'auf': 1, 'Hinterhalt': 1, 'diplomatischen': 1, 'verboten': 1, 'Bezug': 1, 'Befürchtet': 1, ',': 1, 'damit': 1, 'wenn': 1, 'den neuen Auflauf': 1, 'Klientel beschwert… Letztlich': 1}
+['August 2016', '«', '« Aquana', 'der', '.', 'neu', 'auf', 'Hinterhalt', 'diplomatischen', 'verboten', 'Bezug', 'Befürchtet', ',', 'damit', '.', 'wenn', 'den neuen Auflauf', 'Klientel beschwert… Letztlich']

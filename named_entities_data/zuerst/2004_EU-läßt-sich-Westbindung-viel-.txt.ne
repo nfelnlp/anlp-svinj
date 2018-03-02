@@ -1,1 +1,1 @@
-{'Brüssel/Cisinau': 1, ',': 2, '.': 1, 'der EU': 1, 'bei': 1, '2007 und': 1, 'mit': 2, 'Regierungen': 1, 'hätten': 1, 'in': 1, 'für': 1, 'dazu': 1, 'eines': 1, 'Regierung': 1, 'rückte': 1, '2016': 1, 'Dodon': 1, 'ist': 1}
+['Brüssel/Cisinau', ',', '.', 'der EU', 'bei', '2007 und', 'mit', 'Regierungen', 'hätten', 'in', 'für', ',', 'dazu', 'mit', 'eines', 'Regierung', 'rückte', '2016', 'Dodon', 'ist']

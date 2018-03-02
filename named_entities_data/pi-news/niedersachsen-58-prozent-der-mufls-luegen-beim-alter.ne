@@ -1,1 +1,1 @@
-{'DAISY': 1, 'Landkreises Hildesheim': 1, 'hat': 1, 'er wirklich': 1, 'habe zunächst': 1, 'Die': 1, 'mehreren Monaten': 1, 'mit höchster': 1, 'alt': 1, 'wohl': 1, 'bekannt': 1, 'Recht': 1, 'Tests in': 1, 'örtliche': 1, 'der': 1}
+['DAISY', 'Landkreises Hildesheim', 'hat', 'er wirklich', 'habe zunächst', 'Die', 'mehreren Monaten', 'mit höchster', 'alt', 'wohl', 'bekannt', 'Recht', 'Tests in', 'örtliche', 'der']

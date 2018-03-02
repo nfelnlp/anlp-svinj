@@ -1,1 +1,1 @@
-{'Mithu Melanie Sanyal': 1, 'Melanie Sanyal': 1, 'Deutschland': 3, 'Großbritannien': 2, 'USA': 1, 'Gesetzgebung': 1, ', hat': 1, 'Winkelmeier-Becker': 1, 'CDU': 1, 'Samantha Geimer': 2, 'Roman Polanski': 1, 'Gina-Lisa Lohfink : Es': 1, 'das': 1, 'möchte': 1}
+['Mithu Melanie Sanyal', 'Melanie Sanyal', 'Deutschland', 'Großbritannien', 'USA', 'Gesetzgebung', ', hat', 'Winkelmeier-Becker', 'CDU', 'Deutschland', 'Deutschland', 'Großbritannien', 'Samantha Geimer', 'Roman Polanski', 'Samantha Geimer', 'Gina-Lisa Lohfink : Es', 'das', 'möchte']

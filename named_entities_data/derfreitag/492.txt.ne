@@ -1,1 +1,1 @@
-{'/ AFP': 1, 'Getty': 1, 'Steht': 1, ', Songtext': 1, "Cäsar '' Gläser": 1, 'Gegenstand und': 1, 'und': 1, 'Kühne knüpft': 1, 'Modell des': 1, 'Wohlstand der Nationen': 1, '.': 2, 'Stelle': 1, 'den Mund gelegt': 1, 'Schneid': 1, 'des': 1, 'hier': 1, 'kritischer': 1, 'wieder genug': 1}
+['/ AFP', 'Getty', 'Steht', ', Songtext', "Cäsar '' Gläser", 'Gegenstand und', 'und', 'Kühne knüpft', 'Modell des', 'Wohlstand der Nationen', '.', 'Stelle', 'den Mund gelegt', 'Schneid', 'des', '.', 'hier', 'kritischer', 'wieder genug']

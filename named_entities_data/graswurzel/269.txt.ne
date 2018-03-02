@@ -1,0 +1,1 @@
+['Tschernobyl', 'bringen', 'eher', 'sind', 'organisierte', 'Vorhaben', 'in', '(', 'Hetze ist leicht', 'AtomgegnerInnen', 'Nachdenken gebracht', 'Widerstand rόttelt', 'Feindbildern', ',', 'Wendland', 'Veranstaltungen und', 'mit', '.', 'unrecht']

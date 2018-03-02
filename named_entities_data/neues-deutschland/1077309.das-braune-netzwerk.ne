@@ -1,1 +1,1 @@
-{'wurde': 1, '»': 2, '(': 1, 'pirschte': 1, 'im': 1, 'FKD': 1, 'bei': 1, 'worden': 1, '-': 1, 'verbündete': 1, 'überregionales': 1, 'die »': 1, 'Nicht': 1, 'Gericht': 1}
+['wurde', '»', '(', 'pirschte', 'im', 'FKD', 'bei', 'worden', '-', 'verbündete', 'überregionales', 'die »', 'Nicht', '»', 'Gericht']

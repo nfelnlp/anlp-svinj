@@ -1,1 +1,1 @@
-{'Velten': 1, 'Ernst Jandl': 1, '.': 1, 'Tendenzen': 1, 'vor .': 1, 'Untersuchung': 1, 'Untersuchung sich': 1, 'Untersuchung sich auf': 1, 'sich Storz': 1}
+['Velten', 'Ernst Jandl', '.', 'Tendenzen', 'vor .', 'Untersuchung', 'Untersuchung sich', 'Untersuchung sich auf', 'sich Storz']

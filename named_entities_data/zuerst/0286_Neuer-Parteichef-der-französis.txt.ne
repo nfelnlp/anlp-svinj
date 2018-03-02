@@ -1,1 +1,1 @@
-{'Paris': 1, 'Wauquiez zum': 1, '.': 1, 'stellen': 1, 'Nationalversammlung ,': 1, 'Fillon und': 1, 'hat': 1, ',': 1, 'Jahren': 1, 'Einwanderungspolitik': 1, 'sprach': 1, ', die EU': 1, 'Staaten': 1}
+['Paris', 'Wauquiez zum', '.', 'stellen', 'Nationalversammlung ,', 'Fillon und', 'hat', ',', 'Jahren', 'Einwanderungspolitik', 'sprach', ', die EU', 'Staaten']

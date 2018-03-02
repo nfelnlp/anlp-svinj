@@ -1,1 +1,1 @@
-{'in einem': 1, 'Dorthin war er': 1, 'Heimsheim': 1, 'er': 1, 'wolle': 1, 'verfasste': 1, '2013': 1, 'dem': 1, 'das bundesweit': 1, 'Gefangeneninfo «': 1, 'und': 1, 'Juni': 1, 'Meins': 1, 'seines': 1, 'Tode kam': 1, 'die': 1}
+['in einem', 'Dorthin war er', 'Heimsheim', 'er', 'wolle', 'verfasste', '2013', 'dem', 'das bundesweit', 'Gefangeneninfo «', 'und', 'Juni', 'Meins', 'seines', 'Tode kam', 'die']

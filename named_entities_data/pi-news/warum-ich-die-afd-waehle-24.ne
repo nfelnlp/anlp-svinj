@@ -1,1 +1,1 @@
-{'ARMIN': 1, 'Merkel': 1, 'SPD': 1, 'unter': 1, 'von Atomkraftwerken': 1, 'die': 1, 'der': 1, 'diesem': 1, '.': 1, 'werde': 1, 'aus': 1, 'denunziert': 1, 'Person': 1}
+['ARMIN', 'Merkel', 'SPD', 'unter', 'von Atomkraftwerken', 'die', 'der', 'diesem', '.', 'werde', 'aus', 'denunziert', 'Person']

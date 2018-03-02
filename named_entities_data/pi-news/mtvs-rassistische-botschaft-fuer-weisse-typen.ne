@@ -1,1 +1,1 @@
-{'MTV': 1, '„Hey': 1, 'mit': 1, 'Ich': 1, 'Oh': 1, 'Du': 1, 'zuvor': 1, 'selbst': 1, 'nicht': 1, 'männlichen ,': 1, 'Amerikanern': 1, 'macht': 1, 'ein': 1, 'Ostblock galt dieser': 1, 'der Freiheit': 1, 'in': 1, 'lebten in den USA': 1, 'Und': 1, ',': 1}
+['MTV', '„Hey', 'mit', 'Ich', 'Oh', 'Du', 'zuvor', 'selbst', 'nicht', 'männlichen ,', 'Amerikanern', 'macht', 'ein', 'Ostblock galt dieser', 'der Freiheit', 'in', 'lebten in den USA', 'Und', ',']

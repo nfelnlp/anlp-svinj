@@ -1,1 +1,1 @@
-{'Revolutionären': 1, 'wurde': 1, 'der': 1, '2013 bei rund neun Prozent': 1, 'Neben': 1, 'den »': 1, '«': 1, 'Arbeitsunfällen': 1, 'ein .': 1, 'dem': 1, 'durch': 1, 'des': 1}
+['Revolutionären', 'wurde', 'der', '2013 bei rund neun Prozent', 'Neben', 'den »', '«', 'Arbeitsunfällen', 'ein .', 'dem', 'durch', 'des']

@@ -1,1 +1,1 @@
-{'die': 1, 'für': 1, '. Nun könnte': 1, '. Nun könnte 2018/19': 1, 'sollte': 1, 'der': 1, '- für': 1, 'gekündigt': 1, 'Gründe': 1, 'Eindruck ,': 1, '«': 1, 'Stellungnahme': 1, 'das': 1, '.': 1, 'Schließlich': 1, 'einmal': 1}
+['die', 'für', '. Nun könnte', '. Nun könnte 2018/19', 'sollte', 'der', '- für', 'gekündigt', 'Gründe', 'Eindruck ,', '«', 'Stellungnahme', 'das', '.', 'Schließlich', 'einmal']

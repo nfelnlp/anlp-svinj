@@ -1,1 +1,1 @@
-{'Belgrad': 1, 'Ungarn': 1, 'Kroatien': 1, 'Serbien': 1, 'Volksdeutschen': 1, 'Aleksandar Vucic': 1, 'Jarek': 1, 'Novi Sad': 1, 'Kurswechsel': 1, 'Donauschwaben': 1, 'zusammen mit': 1, '“': 1, 'den': 1, 'nach': 1, ',': 1, 'jedoch': 1, 'auf': 1, 'noch': 1}
+['Belgrad', 'Ungarn', 'Kroatien', 'Serbien', 'Volksdeutschen', 'Aleksandar Vucic', 'Jarek', 'Novi Sad', 'Kurswechsel', 'Donauschwaben', 'zusammen mit', '“', 'den', 'nach', ',', 'jedoch', 'auf', 'noch']

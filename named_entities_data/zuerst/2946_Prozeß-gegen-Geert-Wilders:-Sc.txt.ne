@@ -1,1 +1,1 @@
-{'Amsterdam': 1, 'Geerd Wilders': 1, 'Wilders': 3, 'angestachelt': 1, '.': 2, 'geforderte': 1, 'zu': 1, '”': 1, '-Rufen': 1, 'werden': 1, 'gegen das': 1, 'PVV': 1}
+['Amsterdam', 'Geerd Wilders', 'Wilders', 'angestachelt', 'Wilders', 'Wilders', '.', 'geforderte', 'zu', '”', '-Rufen', 'werden', 'gegen das', 'PVV', '.']

@@ -1,1 +1,1 @@
-{'Bundesrepublik Deutschland': 1, 'bayerischen': 1, 'und': 1, 'Das geht': 1, 'Jobs': 1, 'die': 1, '“': 1, '620': 1, 'Industriegüter': 1, 'Ungarn und': 1, 'ein': 1, 'der': 1, 'in': 1, 'Berliner': 1, 'deutsche': 1, 'deutsche Wirtschaft': 1, 'hier': 1, 'Prozent der': 1}
+['Bundesrepublik Deutschland', 'bayerischen', 'und', 'Das geht', 'Jobs', 'die', '“', '620', 'Industriegüter', 'Ungarn und', 'ein', 'der', 'in', 'Berliner', 'deutsche', 'deutsche Wirtschaft', 'hier', 'Prozent der']

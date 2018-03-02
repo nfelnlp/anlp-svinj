@@ -1,1 +1,1 @@
-{'war 30': 1, '2016': 1, 'Auszug aus der': 1, '. Als': 1, 'kontinuierlich abgesenkt': 1, ', Grundlagen': 1, 'die Fläche': 1, 'gelernt und': 1, 'werden': 1, 'spärlich zum': 1, 'Routinegewinnung': 1, 'der Lage': 1, 'gewollt .': 1}
+['war 30', '2016', 'Auszug aus der', '. Als', 'kontinuierlich abgesenkt', ', Grundlagen', 'die Fläche', 'gelernt und', 'werden', 'spärlich zum', 'Routinegewinnung', 'der Lage', 'gewollt .']

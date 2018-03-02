@@ -1,1 +1,1 @@
-{'. Für': 1, 'soll 2018': 1, '.': 2, 'Neben': 1, 'an': 1, 'Kooperationen': 1, 'mehr': 1, 'Bad': 1, 'gebe es': 1, 'Eisenach': 1, 'Suhl': 1, 'Oberhof': 1, 'In der Verwaltung': 1, 'er': 1, 'die': 1}
+['. Für', 'soll 2018', '.', 'Neben', 'an', 'Kooperationen', 'mehr', 'Bad', '.', 'gebe es', 'Eisenach', 'Suhl', 'Oberhof', 'In der Verwaltung', 'er', 'die']

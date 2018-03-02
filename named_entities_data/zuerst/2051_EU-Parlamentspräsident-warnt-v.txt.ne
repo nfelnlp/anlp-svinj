@@ -1,1 +1,1 @@
-{'Brüssel': 1, 'EU-Parlamentspräsident': 1, 'hat die': 1, ',': 2, 'Im': 1, 'Europa': 1, 'Terrorgefahr .': 1, 'sagte': 1, 'Krieg': 1, 'die': 1, 'zu': 2, 'Hunger': 1, 'Bürgerkrieg': 1, 'afrikanischen': 1, 'übrigen gelte': 1, '“': 1, 'geht am': 1, '(': 1}
+['Brüssel', 'EU-Parlamentspräsident', 'hat die', ',', 'Im', 'Europa', 'Terrorgefahr .', 'sagte', 'Krieg', 'die', 'zu', 'Hunger', 'Bürgerkrieg', 'afrikanischen', 'übrigen gelte', ',', '“', 'zu', 'geht am', '(']

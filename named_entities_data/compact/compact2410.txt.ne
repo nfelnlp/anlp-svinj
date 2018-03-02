@@ -1,1 +1,1 @@
-{'Rico Albrecht': 1, 'Merkels Einwanderungspolitik zusammenfassen': 1, 'und': 2, 'schlagartig': 1, '113': 1, 'die': 1, '.': 2, 'Gesellschaft': 1, 'in': 1, 'demokratischen Zustimmung des': 1, 'Verwerfungen': 1, 'damit': 1, 'Ein': 1, 'Umsiedlung': 1, 'hätten': 1, 'Krieg': 1, 'Frauen': 1, '„Wer illegal': 1}
+['Rico Albrecht', 'Merkels Einwanderungspolitik zusammenfassen', 'und', 'schlagartig', '113', 'die', '.', 'und', 'Gesellschaft', '.', 'in', 'demokratischen Zustimmung des', 'Verwerfungen', 'damit', 'Ein', 'Umsiedlung', 'hätten', 'Krieg', 'Frauen', '„Wer illegal']

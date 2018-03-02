@@ -1,1 +1,1 @@
-{'Macri': 1, 'Jürgen Vogt': 1, 'Buenos Aires': 2, 'argentinischen': 1, 'López mit': 1, 'Ollas': 1, ',': 1, 'Barrios de': 1, 'López und': 1}
+['Macri', 'Jürgen Vogt', 'Buenos Aires', 'argentinischen', 'Buenos Aires', 'López mit', 'Ollas', ',', 'Barrios de', 'López und']

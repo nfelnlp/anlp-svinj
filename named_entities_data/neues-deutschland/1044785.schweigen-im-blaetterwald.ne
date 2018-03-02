@@ -1,1 +1,1 @@
-{'pädagogischen': 1, 'schlossen laut der': 1, 'Tageszeitung': 1, 'guardian': 1, 'Kinderkrippen': 1, 'Posten': 1, 'Soweit': 1, 'spärlichen': 1, 'Streiks': 1, 'hatten': 1, 'Warum': 2, 'im': 1, 'weiter': 1, ',': 1, 'In': 3, '78': 1, 'Frauenbewegung': 1, 'und': 1, 'für': 1, 'durften , wurde': 1}
+['pädagogischen', 'schlossen laut der', 'Tageszeitung', 'guardian', 'Kinderkrippen', 'Posten', 'Soweit', 'spärlichen', 'Streiks', 'hatten', 'Warum', 'im', 'weiter', ',', 'In', 'In', '78', 'In', 'Frauenbewegung', 'und', 'für', 'durften , wurde', 'Warum']

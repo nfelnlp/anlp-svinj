@@ -1,1 +1,1 @@
-{'Die': 1, 'schrieb vergangene': 1, 'in': 1, 'dem': 1, 'Einblick «': 1, '»': 1, 'sich ›Opfer‹': 1, 'der Zeit': 1, 'metoo sogar': 1, ',': 2, ', queere': 1, ')': 1, 'ist ,': 1, 'größeres Problem': 1, 'machen': 1, 'Gruppen': 1, 'von': 1, ') ,': 1, ', »': 1, '« der': 1, 'größeren': 1}
+['Die', 'schrieb vergangene', 'in', 'dem', 'Einblick «', '»', 'sich ›Opfer‹', 'der Zeit', 'metoo sogar', ',', ', queere', ')', 'ist ,', 'größeres Problem', 'machen', ',', 'Gruppen', 'von', ') ,', ', »', '« der', 'größeren']

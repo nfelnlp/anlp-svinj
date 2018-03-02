@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Uppsala': 2, 'wurde': 1, 'wenig': 1, 'viele': 1, 'sich': 1, 'Beweismaterial zur': 1}
+['Gesellschaft', 'Uppsala', 'wurde', 'wenig', 'Uppsala', 'viele', 'sich', 'Beweismaterial zur']

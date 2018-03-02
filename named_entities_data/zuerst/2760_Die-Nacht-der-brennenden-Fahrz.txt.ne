@@ -1,1 +1,1 @@
-{'Paris': 1, 'Frankreich': 1, 'französische': 1, 'Bruno Le Roux': 1, 'Roux´ Feststellung': 1, 'als': 1, 'auf': 1, 'auch': 1, 'Orte': 1, 'am': 1, 'Feuerwehrmann': 1}
+['Paris', 'Frankreich', 'französische', 'Bruno Le Roux', 'Roux´ Feststellung', 'als', 'auf', 'auch', 'Orte', 'am', 'Feuerwehrmann']

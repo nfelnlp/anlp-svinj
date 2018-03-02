@@ -1,1 +1,1 @@
-{'Gütersloh': 2, 'Facebook-Zensur-Dienstleisters': 1, '€': 1, ')': 1, 'in': 1, 'an': 1, 'die': 3, 'Wohnung': 1, 'strafunmündigen': 1, 'Geflüchteten': 1, '„akzentfreiem': 1, 'werden': 1, '„mehr': 1, 'stolz': 1, 'der': 1, ',': 1, 'für': 1, 'NRWs': 1, 'Nachwuchskräften': 1, 'mit': 1}
+['Gütersloh', 'Facebook-Zensur-Dienstleisters', '€', ')', 'in', 'an', 'die', 'Wohnung', 'strafunmündigen', 'Geflüchteten', '„akzentfreiem', 'werden', '„mehr', 'stolz', 'der', ',', 'für', 'Gütersloh', 'NRWs', 'Nachwuchskräften', 'die', 'die', 'mit']

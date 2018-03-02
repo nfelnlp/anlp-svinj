@@ -1,1 +1,1 @@
-{'COMPACT': 1, '–': 1, 'Johann Wolfgang von Goethe': 1, 'Goethe': 1, 'Bretten': 1, 'Bretten Woods': 1, 'eines': 1, 'nationale': 1, 'verfügen': 1, 'sie': 1, 'erster': 1}
+['COMPACT', '–', 'Johann Wolfgang von Goethe', 'Goethe', 'Bretten', 'Bretten Woods', 'eines', 'nationale', 'verfügen', 'sie', 'erster']

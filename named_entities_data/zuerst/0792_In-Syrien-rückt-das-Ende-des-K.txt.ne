@@ -1,1 +1,1 @@
-{'Damaskus': 1, '(': 1, 'ihrer': 1, '.': 2, 'und': 1, 'der den': 1, 'ebenso': 1, 'sei': 1, 'die': 1, 'allerdings': 1, 'tief': 1}
+['Damaskus', '(', 'ihrer', '.', 'und', '.', 'der den', 'ebenso', 'sei', 'die', 'allerdings', 'tief']

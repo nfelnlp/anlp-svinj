@@ -1,1 +1,1 @@
-{'Wien': 1, 'Österreich': 3, 'Peter Hajek': 1, 'Österreichischen': 1, '2050': 1}
+['Wien', 'Österreich', 'Peter Hajek', 'Österreichischen', 'Österreich', 'Österreich', '2050']

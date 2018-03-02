@@ -1,1 +1,1 @@
-{'Gesellschaft 8 Berlin': 1, 'einstellen': 1, 'polizeilichen': 1, 'des': 1}
+['Gesellschaft 8 Berlin', 'einstellen', 'polizeilichen', 'des']

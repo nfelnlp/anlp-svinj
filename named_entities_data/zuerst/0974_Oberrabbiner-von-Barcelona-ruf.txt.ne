@@ -1,1 +1,1 @@
-{'Barcelona': 1, 'Europa': 1, 'in': 2, ',': 1, 'Bar-Hen , hat': 1, 'kehren': 1, 'sagte': 1, 'Interview für die': 1, 'sage meiner': 1, ':': 1, ': ‚Glaubt': 1, 'der': 1, '”': 1, '.': 1, 'eine': 1, '‚Wir': 1, 'nicht': 1}
+['Barcelona', 'Europa', 'in', ',', 'Bar-Hen , hat', 'kehren', 'sagte', 'Interview für die', 'sage meiner', ':', ': ‚Glaubt', 'der', '”', '.', 'eine', '‚Wir', 'nicht', 'in']

@@ -1,1 +1,1 @@
-{'Kullmann': 1, 'nur noch': 1, 'bespamt': 1, 'und': 1, 'Werbewut': 1, 'brummte': 1, 'hier etwa': 1, 'eine': 1, ',': 1, 'Stasi-Land': 1, 'ein': 1, 'ein neues': 1, 'es': 1, 'zugehen': 1, 'ich': 2, ':': 1, 'in': 1, 'denken Algorithmen': 1, 'Und vor': 1, 'Schwachmaten soll': 1}
+['Kullmann', 'nur noch', 'bespamt', 'und', 'Werbewut', 'brummte', 'hier etwa', 'eine', ',', 'Stasi-Land', 'ein', 'ein neues', 'es', 'zugehen', 'ich', 'ich', ':', 'in', 'denken Algorithmen', 'Und vor', 'Schwachmaten soll']

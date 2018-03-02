@@ -1,1 +1,1 @@
-{'Saarbrücken': 1, 'Martin Schulz ‘': 1, 'SPD-Höhenflug': 1, '. Eine': 1, 'wäre': 1, 'für': 1, 'teilweise': 1, 'Prozent': 1, 'der': 1, 'Ministerpräsidentin': 1, 'die mit': 1, 'beliebteste': 1, '.': 1, 'Stellvertreterin': 1, 'Rehlinger': 1, 'heute': 1, '„Saarländischer Rundfunk': 1, 'sehen': 1, 'Auftrag': 1}
+['Saarbrücken', 'Martin Schulz ‘', 'SPD-Höhenflug', '. Eine', 'wäre', 'für', 'teilweise', 'Prozent', 'der', 'Ministerpräsidentin', 'die mit', 'beliebteste', '.', 'Stellvertreterin', 'Rehlinger', 'heute', '„Saarländischer Rundfunk', 'sehen', 'Auftrag']

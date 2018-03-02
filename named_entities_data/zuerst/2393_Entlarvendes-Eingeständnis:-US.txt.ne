@@ -1,1 +1,1 @@
-{'Washington': 1, 'Kampf': 1, ')': 1, 'umstrittene': 1, 'da': 1, 'auf': 1, 'November': 1, 'der Großstadt': 1, 'der Großstadt Deir': 1, '. Ein': 1, 'Protokoll ,': 1, 'die': 1, 'Kosovokrieg': 1, 'Aufgrund': 1, 'heute': 1, 'erwiesen': 1}
+['Washington', 'Kampf', ')', 'umstrittene', 'da', 'auf', 'November', 'der Großstadt', 'der Großstadt Deir', '. Ein', 'Protokoll ,', 'die', 'Kosovokrieg', 'Aufgrund', 'heute', 'erwiesen']

@@ -1,1 +1,1 @@
-{'Peking': 1, 'Trump und': 1, 'Anderes': 1, 'dauerhaften': 1}
+['Peking', 'Trump und', 'Anderes', 'dauerhaften']

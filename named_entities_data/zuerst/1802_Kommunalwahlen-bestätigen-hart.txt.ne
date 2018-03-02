@@ -1,1 +1,1 @@
-{'London': 1, 'Tories': 2, '–': 1, 'haben': 1, 'Sitze': 1, 'dagegen schwere': 1, 'sehen': 1, 'für': 1, '28': 1, 'an': 1, 'kam': 1, '320': 1, 'erreichten': 1, 'den': 1, 'Beobachter': 1, 'Nationalpartei': 1, 'hinzu und': 1, 'Schottland': 1}
+['London', 'Tories', '–', 'haben', 'Sitze', 'dagegen schwere', 'sehen', 'für', '28', 'an', 'Tories', 'kam', '320', 'erreichten', 'den', 'Beobachter', 'Nationalpartei', 'hinzu und', 'Schottland']

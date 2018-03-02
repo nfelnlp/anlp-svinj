@@ -1,1 +1,1 @@
-{', der': 1, 'Zwischen diesen': 1, 'Belästigung mancher': 1, 'geht': 1}
+[', der', 'Zwischen diesen', 'Belästigung mancher', 'geht']

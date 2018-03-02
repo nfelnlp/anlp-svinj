@@ -1,1 +1,1 @@
-{'Wien': 1, 'Österreich': 1, 'ÖVP-/FPÖ-Regierung': 1, 'auf': 1, 'eigenen': 1, 'Polizei': 1, 'Sperren': 1, 'die': 1}
+['Wien', 'Österreich', 'ÖVP-/FPÖ-Regierung', 'auf', 'eigenen', 'Polizei', 'Sperren', 'die']

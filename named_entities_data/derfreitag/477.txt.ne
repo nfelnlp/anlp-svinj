@@ -1,1 +1,1 @@
-{'Ice Bucket Challenge': 2, 'überschüttet': 1, 'zu': 1, '/ Getty Es': 1, '/ Getty Es ist': 1, '.': 1, 'Zumal': 1, '–': 1, 'der Vereinigung . Das': 1, 'bekannt': 1, 'Jahren bekannt': 1, 'Probleme': 1, 'Jetzt': 1, 'das': 1, 'Tuberkulose': 1, '``': 1}
+['Ice Bucket Challenge', 'Ice Bucket Challenge', 'überschüttet', 'zu', '/ Getty Es', '/ Getty Es ist', '.', 'Zumal', '–', 'der Vereinigung . Das', 'bekannt', 'Jahren bekannt', 'Probleme', 'Jetzt', 'das', 'Tuberkulose', '``']

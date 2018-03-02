@@ -1,1 +1,1 @@
-{'Guttenberg Bild :': 1, 'Karmann/dpa': 1, 'eine Figur': 1, 'wenn': 1, 'International': 1, 'abhängiger': 1, 'den': 2, 'aller': 1, 'Betrugsrisiken': 1, 'in Bausch': 1, 'einer': 1, 'Petitessen': 1, 'jedem neuen': 1}
+['Guttenberg Bild :', 'Karmann/dpa', 'eine Figur', 'wenn', 'International', 'abhängiger', 'den', 'aller', 'Betrugsrisiken', 'in Bausch', 'einer', 'den', 'Petitessen', 'jedem neuen']

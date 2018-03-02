@@ -1,1 +1,1 @@
-{'PETER M. MESSER': 1, 'fühlt': 1, 'für ihren': 1, 'das': 1, 'Tett hat': 1, ', die': 1, 'untersucht': 1, 'auf': 1, 'zu': 1, 'Homoehe ein': 1, 'vorgestellt': 1, 'der persönlichen': 1}
+['PETER M. MESSER', 'fühlt', 'für ihren', 'das', 'Tett hat', ', die', 'untersucht', 'auf', 'zu', 'Homoehe ein', 'vorgestellt', 'der persönlichen']

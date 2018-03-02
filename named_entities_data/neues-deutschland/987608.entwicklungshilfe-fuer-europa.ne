@@ -1,1 +1,1 @@
-{'Bolivien': 1, 'Luis Trunk de': 1, 'Luis Trunk de Flores': 1, 'El Alto': 1, 'La Paz': 1, 'Iván Nogales': 1, 'Arbeit': 1, ',': 1, '. Mehr': 1}
+['Bolivien', 'Luis Trunk de', 'Luis Trunk de Flores', 'El Alto', 'La Paz', 'Iván Nogales', 'Arbeit', ',', '. Mehr']

@@ -1,1 +1,1 @@
-{'.': 2, '. Am': 1, 'Prozess': 1, 'Doğan begonnen .': 1, '«': 1, 'solcher': 1, 'Sicherheitsaufwand': 1, 'Verhandlungsstunden': 1, 'vor': 1, 'eine': 1}
+['.', '. Am', 'Prozess', 'Doğan begonnen .', '«', '.', 'solcher', 'Sicherheitsaufwand', 'Verhandlungsstunden', 'vor', 'eine']

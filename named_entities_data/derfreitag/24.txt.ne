@@ -1,1 +1,1 @@
-{'Teil': 1, 'der': 1, 'Meeresbodennähe': 1, 'sei': 1, 'zum': 1, 'dem': 1, 'als': 1, 'einem': 1, 'Außenhandels per': 1, 'der Gemeinsamen': 1}
+['Teil', 'der', 'Meeresbodennähe', 'sei', 'zum', 'dem', 'als', 'einem', 'Außenhandels per', 'der Gemeinsamen']

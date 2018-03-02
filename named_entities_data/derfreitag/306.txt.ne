@@ -1,1 +1,1 @@
-{'Jonathan Crarys': 1, 'Philippe Lopez': 1, 'AFP': 1, 'Getty': 1, 'neuen Buch': 1, 'Themenwahl': 1, 'in seinem': 1, 'zeigt .': 1, 'riesigen': 1, '’ Don': 1, 'Diese': 1, 'er mit Verweisen zu': 1, '„sich': 1, 'Verwertbares': 1, 'deshalb': 1, 'Crary ,': 1, '2014': 1, '14,90': 1, ':': 1}
+['Jonathan Crarys', 'Philippe Lopez', 'AFP', 'Getty', 'neuen Buch', 'Themenwahl', 'in seinem', 'zeigt .', 'riesigen', '’ Don', 'Diese', 'er mit Verweisen zu', '„sich', 'Verwertbares', 'deshalb', 'Crary ,', '2014', '14,90', ':']

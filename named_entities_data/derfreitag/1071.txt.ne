@@ -1,1 +1,1 @@
-{'immer wieder': 1, 'es': 1, 'kleinlaut': 1, 'Generationen': 1, 'Vorstellungen': 1, 'die': 1, ':': 1}
+['immer wieder', 'es', 'kleinlaut', 'Generationen', 'Vorstellungen', 'die', ':']

@@ -1,1 +1,1 @@
-{'Gesellschaft 0': 1, 'Gesellschaft 0 Brüssel/Sofia': 1, 'Das': 1, 'EU': 1, 'angebliche': 1, 'dazu': 1, 'Sofia ,': 1, 'Mitgliedstaaten': 1, 'YouTube': 1, 'in': 1, 'Inhalte': 1, '.': 1, 'daß': 1, 'kritisiert': 1, 'Vorwurf': 1}
+['Gesellschaft 0', 'Gesellschaft 0 Brüssel/Sofia', 'Das', 'EU', 'angebliche', 'dazu', 'Sofia ,', 'Mitgliedstaaten', 'YouTube', 'in', 'Inhalte', '.', 'daß', 'kritisiert', 'Vorwurf']

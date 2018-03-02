@@ -1,1 +1,1 @@
-{'Sean Gallup': 1, 'Getty': 1, 'Grünen': 1, 'hat': 1, 'Bundesregierung': 1, 'mehr laut': 1, 'überzeugend zu': 1, 'Fiskalpakt': 2, 'Südländer in': 1, 'Ja': 1, 'in der': 1, 'Renate': 1, '. Und': 1, 'muss': 1}
+['Sean Gallup', 'Getty', 'Grünen', 'hat', 'Bundesregierung', 'mehr laut', 'überzeugend zu', 'Fiskalpakt', 'Südländer in', 'Ja', 'Fiskalpakt', 'in der', 'Renate', '. Und', 'muss']

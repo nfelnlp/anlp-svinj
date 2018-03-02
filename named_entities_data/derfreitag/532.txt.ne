@@ -1,1 +1,1 @@
-{'Images': 1, 'Herr': 2, 'de': 1, 'diese Zeilen': 1, 'der': 1, 'bei': 1, 'Rolle des': 1, 'vorerst': 1, 'genug': 1, 'nicht': 1, 'Bürgern': 1, ',': 2, 'Damals': 1, 'ernst': 1, 'sicher': 1, 'Sie': 1, 'ich': 1}
+['Images', 'Herr', 'de', 'diese Zeilen', 'der', 'bei', 'Rolle des', 'vorerst', 'genug', 'nicht', 'Bürgern', ',', ',', 'Damals', 'ernst', 'sicher', 'Herr', 'Sie', 'ich']

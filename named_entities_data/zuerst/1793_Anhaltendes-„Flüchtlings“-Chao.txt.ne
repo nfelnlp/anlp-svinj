@@ -1,1 +1,1 @@
-{'Rom': 1, '.': 1, 'Küstenwache': 1, 'EU-Grenzschutzbehörde': 1, 'von': 1, 'ist': 1, 'ihrer': 1, 'Schleppern': 1, 'einen': 1, 'Machthabers': 1, 'mü )': 1}
+['Rom', '.', 'Küstenwache', 'EU-Grenzschutzbehörde', 'von', 'ist', 'ihrer', 'Schleppern', 'einen', 'Machthabers', 'mü )']

@@ -1,1 +1,1 @@
-{'Harrison/Getty Images': 1, 'Facebook-Seite': 1, 'sozialen': 1, 'nun': 1, 'US-Magazin': 1, 'ersten': 1, 'als': 1, '„zu': 1, 'die': 1, 'York': 1, 'Ronda Rouseys Haltung': 1, 'und': 1}
+['Harrison/Getty Images', 'Facebook-Seite', 'sozialen', 'nun', 'US-Magazin', 'ersten', 'als', '„zu', 'die', 'York', 'Ronda Rouseys Haltung', 'und']

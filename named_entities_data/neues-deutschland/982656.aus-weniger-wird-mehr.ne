@@ -1,1 +1,1 @@
-{'Manuela Schwesig': 1, 'Regina Stötzel': 1, ') ,': 1, 'erst': 1, 'NGG )': 1}
+['Manuela Schwesig', 'Regina Stötzel', ') ,', 'erst', 'NGG )']

@@ -1,1 +1,1 @@
-{'ist': 1, '.': 1, 'und': 1, 'Höhepunkt': 1, 'Nuschler': 1, 'kann nur': 1, 'Das': 1, 'gibt': 1, 'es': 1, 'Aus': 1, 'der': 1, 'nun als': 1, 'Der Spot': 1}
+['ist', '.', 'und', 'Höhepunkt', 'Nuschler', 'kann nur', 'Das', 'gibt', 'es', 'Aus', 'der', 'nun als', 'Der Spot']

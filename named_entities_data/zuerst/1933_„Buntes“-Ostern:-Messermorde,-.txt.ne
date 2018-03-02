@@ -1,1 +1,1 @@
-{'Hannover': 1, 'und': 1, 'Wochenende': 1, 'zu': 2, ':': 2, 'kam': 1, 'lieferten': 1, 'bewußtlos': 1, 'Berlin': 1, 'ein': 1, 'Nicht': 1, ',': 1, '20': 1, 'die': 1, 'Autobahn': 1, 'das': 1, 'auf': 1}
+['Hannover', 'und', 'Wochenende', 'zu', ':', 'kam', 'zu', 'lieferten', 'bewußtlos', ':', 'Berlin', 'ein', 'Nicht', ',', '20', 'die', 'Autobahn', 'das', 'auf']

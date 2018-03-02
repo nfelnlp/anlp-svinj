@@ -1,1 +1,1 @@
-{'rechtswidrig': 1, 'zu': 1, 'Kosten des': 1, 'Alevitischen Jugend': 1, 'frühen': 1, 'zur': 1, 'der': 1, ') erklärte': 1, 'im': 1, 'vor': 1}
+['rechtswidrig', 'zu', 'Kosten des', 'Alevitischen Jugend', 'frühen', 'zur', 'der', ') erklärte', 'im', 'vor']

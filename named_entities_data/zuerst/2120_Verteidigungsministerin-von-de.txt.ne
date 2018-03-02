@@ -1,1 +1,1 @@
-{'Gesellschaft 1 Berlin': 1, 'Ursula von': 1, 'Leyen': 1, 'CDU': 1, 'Bundeswehr': 1, 'Verhalten': 1, 'das': 1, 'Kritik': 1, 'die': 1, 'dem': 1, 'zum': 1, ',': 1}
+['Gesellschaft 1 Berlin', 'Ursula von', 'Leyen', 'CDU', 'Bundeswehr', 'Verhalten', 'das', 'Kritik', 'die', 'dem', 'zum', ',']

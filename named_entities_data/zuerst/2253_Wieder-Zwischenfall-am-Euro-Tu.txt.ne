@@ -1,1 +1,1 @@
-{'Calais': 1, ',': 1, '.': 1, 'mehreren „Flüchtlingen': 1, 'Mittwoch': 1, 'dem': 1, 'werden': 1, 'heftigen': 1, 'auf': 1}
+['Calais', ',', '.', 'mehreren „Flüchtlingen', 'Mittwoch', 'dem', 'werden', 'heftigen', 'auf']

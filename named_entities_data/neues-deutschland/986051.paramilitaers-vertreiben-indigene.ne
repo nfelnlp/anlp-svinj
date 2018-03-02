@@ -1,1 +1,1 @@
-{'sich': 1, 'Norte': 1, 'seit letztem Jahr': 1, 'Angriffe': 1, 'Save': 1, 'Mehrzahl': 1, 'jede': 1, 'drei': 1, 'später zwei der': 1, 'Landraub': 1, 'aus': 1, 'worden . Die': 1, 'zur': 1, 'Bergbaus « erklärt': 1}
+['sich', 'Norte', 'seit letztem Jahr', 'Angriffe', 'Save', 'Mehrzahl', 'jede', 'drei', 'später zwei der', 'Landraub', 'aus', 'worden . Die', 'zur', 'Bergbaus « erklärt']

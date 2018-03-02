@@ -1,1 +1,1 @@
-{':': 1, 'Die': 1, 'hohe': 1, 'von': 1, 'Land anscheinend': 1, 'Probleme verantwortlich': 1, 'eben': 1, 'Dienstleistung': 1, 'zu': 1, 'vielerorts': 1, 'Dummheit': 1}
+[':', 'Die', 'hohe', 'von', 'Land anscheinend', 'Probleme verantwortlich', 'eben', 'Dienstleistung', 'zu', 'vielerorts', 'Dummheit']

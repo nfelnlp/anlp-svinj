@@ -1,1 +1,1 @@
-{'Paris/Moskau': 1, 'Bundesdeutsche': 1, 'Angeblich': 1, 'der': 1, 'beeinflussen': 1, 'vor': 1, 'von Macrons': 1, 'worden': 1, 'unter': 1, 'die': 1, 'haben': 1, 'Globalisierungsbefürworter': 1, 'mit': 1, 'Macron': 1, 'haben .': 1, 'Nach dem jüngsten': 1}
+['Paris/Moskau', 'Bundesdeutsche', 'Angeblich', 'der', 'beeinflussen', 'vor', 'von Macrons', 'worden', 'unter', 'die', 'haben', 'Globalisierungsbefürworter', 'mit', 'Macron', 'haben .', 'Nach dem jüngsten']

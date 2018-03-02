@@ -1,1 +1,1 @@
-{'dagegen': 1}
+['dagegen']

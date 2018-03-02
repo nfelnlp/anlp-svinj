@@ -1,1 +1,1 @@
-{'Gesellschaft 6 München': 1, 'Münchener': 1, 'den': 1, 'Er': 1, 'sich': 1, 'aufgehalten': 1, 'Zeugen': 1, 'war': 1, 'Offizielle Verlautbarungen': 1, 'und': 1}
+['Gesellschaft 6 München', 'Münchener', 'den', 'Er', 'sich', 'aufgehalten', 'Zeugen', 'war', 'Offizielle Verlautbarungen', 'und']

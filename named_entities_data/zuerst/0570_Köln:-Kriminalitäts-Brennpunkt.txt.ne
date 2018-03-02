@@ -1,1 +1,1 @@
-{'Gesellschaft 9 Köln': 1, 'Dies mußte nun': 1, 'die bei': 1, 'den': 2, 'Während der': 1, 'Sony in': 1, ', erklärte': 1, '„Bei': 1, 'Nachtdreh': 1, 'aber': 1, ':': 1}
+['Gesellschaft 9 Köln', 'Dies mußte nun', 'die bei', 'den', 'Während der', 'Sony in', ', erklärte', '„Bei', 'Nachtdreh', 'aber', 'den', ':']

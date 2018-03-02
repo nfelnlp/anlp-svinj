@@ -1,1 +1,1 @@
-{'Peter Nowak': 1, 'weshalb': 1}
+['Peter Nowak', 'weshalb']

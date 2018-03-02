@@ -1,1 +1,1 @@
-{'Mark Terkessidis': 1, 'Images Ich': 1, 'die': 1, 'Aufregung': 1, 'zu': 1, ', den': 1, 'Rand': 1, 'zuletzt': 1, 'den Kindern': 1, 'Zumal': 1, '.': 1, 'Frage “': 1, 'Die': 1, '“': 1, 'derzeitigen': 1, 'das': 1, 'ist': 1}
+['Mark Terkessidis', 'Images Ich', 'die', 'Aufregung', 'zu', ', den', 'Rand', 'zuletzt', 'den Kindern', 'Zumal', '.', 'Frage “', 'Die', '“', 'derzeitigen', 'das', 'ist']

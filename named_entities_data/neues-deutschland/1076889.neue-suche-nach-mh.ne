@@ -1,1 +1,1 @@
-{'Rätsel der': 1, '239': 1, 'Bord auf': 1, ',': 1, 'Meer': 1, 'Trümmerteile': 1, 'jüngste': 1, 'Aktion': 1, 'niederländischen': 1, 'Ozeans': 1, 'Gruppe von Ingenieuren': 1, 'mehr Meeresboden': 1, 'äußerte': 1, ', die': 1}
+['Rätsel der', '239', 'Bord auf', ',', 'Meer', 'Trümmerteile', 'jüngste', 'Aktion', 'niederländischen', 'Ozeans', 'Gruppe von Ingenieuren', 'mehr Meeresboden', 'äußerte', ', die']

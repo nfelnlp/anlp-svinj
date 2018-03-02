@@ -1,1 +1,1 @@
-{'Wien': 1, 'Sebastian Kurz': 1, 'Nachrichtenagentur': 1, 'sagte': 1, 'und': 1, 'gebracht': 1, '.': 4, 'Angebot': 1, 'bisher': 1, 'nach': 1, 'für': 1, '”': 2, 'so': 1, 'vor': 1, 'sei': 1, 'sucht': 1, 'setzt': 1, 'einen': 1, 'sich': 1, 'inzwischen': 1}
+['Wien', 'Sebastian Kurz', 'Nachrichtenagentur', 'sagte', 'und', 'gebracht', '.', 'Angebot', 'bisher', '.', 'nach', 'für', '”', 'so', '.', 'vor', 'sei', 'sucht', '”', 'setzt', 'einen', 'sich', 'inzwischen', '.']

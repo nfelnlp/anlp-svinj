@@ -1,1 +1,1 @@
-{'Ursula von': 1, 'Leyen': 1, 'Sean Gallup/': 1, 'Getty': 1, '„Dann': 1, 'ihrer Parteikollegin': 1, 'von': 1, 'Sonntagabend zukommen': 1, ',': 2, 'Frauenquote': 1, '. Dieser': 1, 'liefert': 1, ', gehört': 1, 'mit der': 1, 'die': 1, 'dem': 1, 'wie': 1, '„wech “': 1, 'wird , steht dahin': 1}
+['Ursula von', 'Leyen', 'Sean Gallup/', 'Getty', '„Dann', 'ihrer Parteikollegin', 'von', 'Sonntagabend zukommen', ',', 'Frauenquote', '. Dieser', 'liefert', ', gehört', 'mit der', ',', 'die', 'dem', 'wie', '„wech “', 'wird , steht dahin']

@@ -1,1 +1,1 @@
-{'sowie': 1, 'bereits': 1, '( CDU )': 1, 'im': 1, 'Berlin-Südkreuz': 1, 'Im': 1, 'Deutsche': 1, 'zu': 1, 'Fernverkehr': 1, 'des': 1}
+['sowie', 'bereits', '( CDU )', 'im', 'Berlin-Südkreuz', 'Im', 'Deutsche', 'zu', 'Fernverkehr', 'des']

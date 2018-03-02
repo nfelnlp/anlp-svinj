@@ -1,1 +1,1 @@
-{'Ben Hur': 1, 'Pensionär': 1, 'pro': 1, 'und': 2, 'sein': 1, 'macht': 1, 'Herberts': 1, 'Tagen': 1, 'Arbeit': 1, 'langsam': 1, 'aus': 1, 'etwa': 1, 'großen': 1, 'Schlupflöcher': 1, 'die': 1, 'ob': 1, 'Einschätzungen': 1, 'um weitere': 1, 'oder halbherzige': 1, ',': 1, '.': 1, 'überfordert ,': 1}
+['Ben Hur', 'Pensionär', 'pro', 'und', 'sein', 'macht', 'Herberts', 'Tagen', 'Arbeit', 'langsam', 'aus', 'etwa', 'großen', 'Schlupflöcher', 'die', 'und', 'ob', 'Einschätzungen', 'um weitere', 'oder halbherzige', ',', '.', 'überfordert ,']

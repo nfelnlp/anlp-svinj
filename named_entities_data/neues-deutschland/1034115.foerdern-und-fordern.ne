@@ -1,1 +1,1 @@
-{'Das': 1, 'lang': 1, 'Arbeiten': 1, 'der': 1}
+['Das', 'lang', 'Arbeiten', 'der']

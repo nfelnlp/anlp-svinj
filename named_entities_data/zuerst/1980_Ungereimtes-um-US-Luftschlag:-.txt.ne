@@ -1,1 +1,1 @@
-{'Damaskus/Moskiau': 1, 'immer': 1, '.': 1, 'weil': 1, 'aus': 1, '“': 1, 'hätten': 1, 'informiert': 1, 'genannte': 1, ':': 1, 'amerikanischen Bedrohung': 1}
+['Damaskus/Moskiau', 'immer', '.', 'weil', 'aus', '“', 'hätten', 'informiert', 'genannte', ':', 'amerikanischen Bedrohung']

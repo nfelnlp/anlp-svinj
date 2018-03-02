@@ -1,0 +1,1 @@
+['den', 'Bundespräsidenten', 'Pfaffe', 'de Maizières', 'leben zu können', ',', 'mit', 'inklusive', 'gepackten', 'sie nicht', 'Reise', 'in', 'zwei', 'Sprache auf', 'der', 'werden', 'ist allerhöchste Zeit', 'damit']

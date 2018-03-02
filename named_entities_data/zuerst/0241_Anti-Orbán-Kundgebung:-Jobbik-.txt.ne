@@ -1,1 +1,1 @@
-{'Budapest': 2, 'Rekord-Geldstrafe': 1, 'wird': 1, ',': 2, ', der Jobbik': 1, 'zu Verfügung': 1, 'Aktion': 1, 'die': 1, 'wolle': 1, 'Parlamentswahlen': 1, 'Schlagabtausch': 1, '(': 1, ')': 1}
+['Budapest', 'Budapest', 'Rekord-Geldstrafe', 'wird', ',', ', der Jobbik', 'zu Verfügung', 'Aktion', 'die', ',', 'wolle', 'Parlamentswahlen', 'Schlagabtausch', '(', ')']

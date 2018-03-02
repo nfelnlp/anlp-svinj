@@ -1,1 +1,1 @@
-{'Warschau/Madrid': 1, 'Auch': 1, 'registriert': 1, 'der': 1, 'deshalb': 1, '.': 2, 'Regierungsvertretern': 1, 'zitiert': 1, 'Vorjahr': 1, 'als': 1, 'während': 1, 'auf': 1, 'zentralen': 1, 'vor': 1, 'setzt': 1, 'in': 1, 'nötigen': 1, ',': 1, 'Entscheidend': 1, 'Frontex-Chef': 1}
+['Warschau/Madrid', 'Auch', 'registriert', 'der', 'deshalb', '.', 'Regierungsvertretern', 'zitiert', 'Vorjahr', 'als', 'während', 'auf', 'zentralen', 'vor', '.', 'setzt', 'in', 'nötigen', ',', 'Entscheidend', 'Frontex-Chef']

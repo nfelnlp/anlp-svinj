@@ -1,1 +1,1 @@
-{'lebenden': 1, 'Der': 1, ')': 1, 'vorsehen': 1, 'der': 2, 'hierzulande': 1, 'stammt von': 1, 'Bevölkerung „Abendland': 1, 'Millionen': 1, '2005': 1, '2015': 1, 'Bezogen': 1, '%': 1, '3,9': 1, 'offiziellen': 1, ',': 1, 'dass': 1, 'Anteil': 1}
+['lebenden', 'Der', ')', 'vorsehen', 'der', 'hierzulande', 'stammt von', 'Bevölkerung „Abendland', 'Millionen', '2005', '2015', 'Bezogen', '%', '3,9', 'offiziellen', ',', 'der', 'dass', 'Anteil']

@@ -1,1 +1,1 @@
-{'am': 1, 'am Main . Neun': 1, 'das': 1, 'AG werden vollständig entschädigt': 1, 'mit der': 1, 'allem': 1, ',': 2, 'bei': 1, 'gespielt': 1, 'Zeitschrift': 1, 'über': 1, 'nach Institut führten': 1}
+['am', 'am Main . Neun', 'das', 'AG werden vollständig entschädigt', 'mit der', 'allem', ',', ',', 'bei', 'gespielt', 'Zeitschrift', 'über', 'nach Institut führten']

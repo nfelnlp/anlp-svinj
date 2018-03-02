@@ -1,1 +1,1 @@
-{'Peking': 1, 'setzt': 1, 'Kurzstrecken': 1, '„fliegende': 1, '–': 1, 'man': 1, 'Rekordgeschwindigkeiten von': 1, ',': 1, 'schon': 1, 'die': 1, 'Städte': 1, 'den': 1, 'und': 1}
+['Peking', 'setzt', 'Kurzstrecken', '„fliegende', '–', 'man', 'Rekordgeschwindigkeiten von', ',', 'schon', 'die', 'Städte', 'den', 'und']

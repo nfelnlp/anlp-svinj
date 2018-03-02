@@ -1,1 +1,1 @@
-{',': 2, 'nach': 1, 'weiter': 1, 'unterstützte': 1, 'offen': 1}
+[',', 'nach', 'weiter', ',', 'unterstützte', 'offen']

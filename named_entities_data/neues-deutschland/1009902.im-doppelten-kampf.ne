@@ -1,1 +1,1 @@
-{'Vera Bianchi': 1, 'Vera Bianchi Soziale': 1, 'Spanischen': 1, 'Lucía Sánchez Saornil': 1, 'Mercedes': 2, 'Mercedes Comaposada': 2, 'CNT-Mitglieder': 1, 'Saornil kommt aus': 1}
+['Vera Bianchi', 'Vera Bianchi Soziale', 'Spanischen', 'Lucía Sánchez Saornil', 'Mercedes', 'Mercedes Comaposada', 'Mercedes', 'Mercedes Comaposada', 'CNT-Mitglieder', 'Saornil kommt aus']

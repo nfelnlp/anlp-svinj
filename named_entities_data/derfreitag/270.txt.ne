@@ -1,1 +1,1 @@
-{'Boston-Attentat': 1, 'twitterte am': 1, ', sie': 1, ',': 2, 'die': 1, '.': 1, 'Twitter': 1, 'was': 1, 'und Notrufnummern': 1, '24 Minuten': 1, 'seit': 1, 'trennen': 1}
+['Boston-Attentat', 'twitterte am', ', sie', ',', 'die', '.', 'Twitter', 'was', 'und Notrufnummern', '24 Minuten', 'seit', ',', 'trennen']

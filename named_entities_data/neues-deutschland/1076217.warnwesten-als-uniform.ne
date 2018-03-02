@@ -1,1 +1,1 @@
-{', der': 1, 'durch': 1, 'zogen': 1, 'Salafisten': 1, ',': 1, '»': 1, 'Polizeistreife': 1, 'die': 2, '.': 3, 'Patrouille': 1, 'Mal': 1, 'den': 2, 'Uniformierungsverbot': 1, 'Vorgaben': 1, '§': 1, 'waren': 1, 'sich': 1, 'Rechtsradikale': 1, 'dürften': 1}
+[', der', 'durch', 'zogen', 'Salafisten', ',', '»', 'Polizeistreife', 'die', '.', 'die', 'Patrouille', 'Mal', 'den', '.', '.', 'Uniformierungsverbot', 'Vorgaben', '§', 'waren', 'sich', 'Rechtsradikale', 'dürften', 'den']

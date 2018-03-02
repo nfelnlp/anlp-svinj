@@ -1,1 +1,1 @@
-{'Berlin/Peking': 1, 'Erstmals': 1, 'der': 1, 'den': 1, 'Das': 1, 'wichtigster Partner': 1, 'noch': 1, 'ausgebaut': 1, '.': 2, 'wie': 1, 'war': 1, 'Staaten Währungsmanipulationen': 1, 'Gegenmaßnahmen': 1, 'gebracht': 1, '(': 1}
+['Berlin/Peking', 'Erstmals', 'der', 'den', 'Das', 'wichtigster Partner', 'noch', 'ausgebaut', '.', 'wie', '.', 'war', 'Staaten Währungsmanipulationen', 'Gegenmaßnahmen', 'gebracht', '(']

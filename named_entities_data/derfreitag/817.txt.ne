@@ -1,1 +1,1 @@
-{'mit Geert': 1, 'Giulia Baccosi / transmediale': 1, 'ShareMeNot': 1, ', Medientheoretiker': 1, 'Network Cultures und Autor': 1, 'Networks': 1, 'a': 1, ', rief': 1, '.': 1, 'seinem': 1, ',': 1, 'dar .': 1, 'können': 1, 'und': 1, 'außerdem': 1}
+['mit Geert', 'Giulia Baccosi / transmediale', 'ShareMeNot', ', Medientheoretiker', 'Network Cultures und Autor', 'Networks', 'a', ', rief', '.', 'seinem', ',', 'dar .', 'können', 'und', 'außerdem']

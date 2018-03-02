@@ -1,1 +1,1 @@
-{'sind': 1, '.': 2, 'dokumentiert . Der': 1, 'aus einer': 1, 'darf': 1}
+['sind', '.', 'dokumentiert . Der', 'aus einer', 'darf', '.']

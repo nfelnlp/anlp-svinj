@@ -1,1 +1,1 @@
-{'eine': 1, 'das': 1, ',': 1, 'in': 1, 'Parlament': 1, 'Ministerrat': 1, 'Kompromiss': 1, 'worden': 1, 'der': 1, 'Der': 1, '11': 1, '2005': 1, 'oder': 1, '. Dadurch': 1, 'für': 1, 'lange': 1, 'Zertifikate-Mindestpreis': 1, 'bleibe das Emissionshandelssystem': 1}
+['eine', 'das', ',', 'in', 'Parlament', 'Ministerrat', 'Kompromiss', 'worden', 'der', 'Der', '11', '2005', 'oder', '. Dadurch', 'für', 'lange', 'Zertifikate-Mindestpreis', 'bleibe das Emissionshandelssystem']

@@ -1,1 +1,1 @@
-{'der Arbeitswelt': 1, 'freitags': 1, 'hoffen ,': 1, 'Beruf': 1, 'Privatleben b': 1}
+['der Arbeitswelt', 'freitags', 'hoffen ,', 'Beruf', 'Privatleben b']

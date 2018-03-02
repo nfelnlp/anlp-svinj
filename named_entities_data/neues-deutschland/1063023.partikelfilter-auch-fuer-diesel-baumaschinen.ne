@@ -1,1 +1,1 @@
-{'am': 1, 'am Main . Neben': 1, 'im Arbeitsschutz': 1, 'Baustellen': 1, '.': 1}
+['am', 'am Main . Neben', 'im Arbeitsschutz', 'Baustellen', '.']

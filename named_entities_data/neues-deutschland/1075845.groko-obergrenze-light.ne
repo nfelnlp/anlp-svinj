@@ -1,1 +1,1 @@
-{'und': 2, 'bleiben': 1, 'Sie': 1, 'entgegensetzen': 1, 'dem': 1, 'Union': 1, 'Und': 1, 'sondern': 1}
+['und', 'bleiben', 'Sie', 'entgegensetzen', 'dem', 'Union', 'Und', 'und', 'sondern']

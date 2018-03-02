@@ -1,1 +1,1 @@
-{'von': 1, 'Rutte liegt': 1, 'Red. ] . Danach': 1, 'mit 13,1': 1, 'Knapp': 1, 'kommen': 1, 'für Freiheit': 1, 'Demokratie ( VVD': 1, '.': 2, 'Partei': 1, 'die': 1, 'Initiative': 1, ')': 1, 'Parlament': 1, 'den': 1}
+['von', 'Rutte liegt', 'Red. ] . Danach', 'mit 13,1', 'Knapp', 'kommen', 'für Freiheit', 'Demokratie ( VVD', '.', 'Partei', 'die', '.', 'Initiative', ')', 'Parlament', 'den']

@@ -1,1 +1,1 @@
-{'Parow': 1, 'Mecklenburg-Vorpommern ) .': 1, '18': 1, 'Rheinischen': 1, '170.214': 1, 'Wehrdienstleistende': 1, 'nehmen': 1, 'zwei Jahren die': 1, 'Trendwende': 1, '«': 1, 'spricht': 1, 'an': 1, 'Daily': 1, 'mit Szenen': 1, 'Das': 1, 'MINUSMA-Blauhelm-Einsatz in': 1, '.': 1, 'Plakaten': 1}
+['Parow', 'Mecklenburg-Vorpommern ) .', '18', 'Rheinischen', '170.214', 'Wehrdienstleistende', 'nehmen', 'zwei Jahren die', 'Trendwende', '«', 'spricht', 'an', 'Daily', 'mit Szenen', 'Das', 'MINUSMA-Blauhelm-Einsatz in', '.', 'Plakaten']

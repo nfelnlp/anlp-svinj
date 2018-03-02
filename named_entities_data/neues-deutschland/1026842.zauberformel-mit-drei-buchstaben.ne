@@ -1,1 +1,1 @@
-{'Allianz': 1, 'Zentralamerika': 3, 'USA': 4, 'Martin Reischke': 1, 'Donald Trump': 1, 'Mexiko': 1, 'Republikaner': 1, 'Trump medienwirksam': 1, 'Obama': 1, 'PAP': 1, 'Alianza para': 1, 'Honduras': 1, 'Guatemala': 1, 'El Salvador': 1}
+['Allianz', 'Zentralamerika', 'USA', 'Martin Reischke', 'Donald Trump', 'USA', 'Mexiko', 'Republikaner', 'Trump medienwirksam', 'Obama', 'PAP', 'Zentralamerika', 'USA', 'Alianza para', 'USA', 'Honduras', 'Guatemala', 'El Salvador', 'Zentralamerika']

@@ -1,1 +1,1 @@
-{'Brüssel/Moskau': 1, 'Zwar': 1, 'Kräften': 1, 'dem': 1, 'Tages-Ausfuhrrekord': 1, 'dafür': 1, 'EU': 1, 'von': 1, 'äußerst': 1, 'Gasprodukte': 1, 'machen': 1, 'amerikanische': 1, 'das': 1, 'Gazprom-Gas': 1, 'künftigen': 1, 'künftigen Konkurrenzkampf': 1}
+['Brüssel/Moskau', 'Zwar', 'Kräften', 'dem', 'Tages-Ausfuhrrekord', 'dafür', 'EU', 'von', 'äußerst', 'Gasprodukte', 'machen', 'amerikanische', 'das', 'Gazprom-Gas', 'künftigen', 'künftigen Konkurrenzkampf']

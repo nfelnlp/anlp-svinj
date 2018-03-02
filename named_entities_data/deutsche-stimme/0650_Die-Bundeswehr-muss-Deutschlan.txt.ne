@@ -1,0 +1,1 @@
+['Bundeswehr', 'Bundeswehr', 'deutschen', 'die', 'ist', 'So', 'Spiel', 'sich', ', sprach', 'diesem', 'wichtigere', 'groß', 'IS )', 'bereits', 'die', 'sagen', 'Dazu', ': „Alle', 'Innenminister', 'DPolG ) ,', 'sieht das anders', 'dass die', 'wirksame', 'mit', 'auch', 'zu', 'dies mit', 'und']

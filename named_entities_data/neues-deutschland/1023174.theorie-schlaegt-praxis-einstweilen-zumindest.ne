@@ -1,1 +1,1 @@
-{'Leipzig': 1, 'Stadtpolitik': 1, 'Peter Nowak': 1, 'Leipziger': 1, 'Lindenau': 1, 'sollte': 1, 'die': 1, 'gegenüber': 1, 'nd': 1, 'und': 1, '.': 1, 'stand': 1}
+['Leipzig', 'Stadtpolitik', 'Peter Nowak', 'Leipziger', 'Lindenau', 'sollte', 'die', 'gegenüber', 'nd', 'und', '.', 'stand']

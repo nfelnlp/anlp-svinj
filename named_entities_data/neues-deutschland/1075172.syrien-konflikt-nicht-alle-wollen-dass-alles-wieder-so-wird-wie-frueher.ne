@@ -1,1 +1,1 @@
-{'Syrien-Konflikt': 1, 'Die': 1, ', Aleppo': 1, 'Fahrt': 1, 'Aleppo': 1, 'an': 1, '.': 1, 'immer': 1, 'Teil': 1, '«': 1, 'seinen': 1, 'Brot': 1, 'zu': 1, 'er': 1, 'zu denen': 1, 'Er': 1, 'seine': 1}
+['Syrien-Konflikt', 'Die', ', Aleppo', 'Fahrt', 'Aleppo', 'an', '.', 'immer', 'Teil', '«', 'seinen', 'Brot', 'zu', 'er', 'zu denen', 'Er', 'seine']

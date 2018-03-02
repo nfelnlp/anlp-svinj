@@ -1,1 +1,1 @@
-{'Valletta': 1, 'Volkspartei (': 1, ')': 1, 'der': 1, 'Christdemokraten': 1, 'der auf': 1, 'verabschiedet': 1, 'zunehmenden': 1, 'Osten': 1, 'die': 1, 'zu': 1, 'im': 1, ',': 2, 'gibt.': 1, 'instabilen': 1, 'Ukraine': 1, 'den': 1, 'gegenüber': 1, 'aber': 1, 'Politik': 1, 'gemacht haben': 1, 'ist': 1}
+['Valletta', 'Volkspartei (', ')', 'der', 'Christdemokraten', 'der auf', 'verabschiedet', 'zunehmenden', 'Osten', 'die', 'zu', 'im', ',', 'gibt.', ',', 'instabilen', 'Ukraine', 'den', 'gegenüber', 'aber', 'Politik', 'gemacht haben', 'ist']

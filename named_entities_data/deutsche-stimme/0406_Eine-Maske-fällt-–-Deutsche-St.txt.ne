@@ -1,0 +1,1 @@
+[',', 'Umfragen', 'Bild.de ,', 'treibt', ',', 'die', 'Außenminister', 'Linie abrückten', 'nun', 'Probleme', 'er', 'Grünen', 'rot-rot-grünen', 'in', 'Kollegen', '„Nichts hat', 'und', 'seiner', 'das damals „Linientreue “', 'man']

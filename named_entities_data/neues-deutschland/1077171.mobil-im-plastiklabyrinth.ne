@@ -1,1 +1,1 @@
-{'der': 1, 'Rumänien': 1, 'den': 1, '.': 1, 'der Provinz': 1, ', regelmäßig': 1, ',': 1, 'Lieferketten und': 1, 'und': 1, 'internationalen': 1, 'auf': 1, 'Unterstützung': 1, 'dem': 1, '. Viele': 1, 'einem': 1}
+['der', 'Rumänien', 'den', '.', 'der Provinz', ', regelmäßig', ',', 'Lieferketten und', 'und', 'internationalen', 'auf', 'Unterstützung', 'dem', '. Viele', 'einem']

@@ -1,1 +1,1 @@
-{'München': 1, 'seinen': 1, ',': 1, 'Kassel': 1, 'die': 2, 'den': 1, 'König sollen': 1, ', was': 1, 'NSU-Watch «': 1, 'Schorlau': 1, 'Die schützende': 1, 'Laabs werden': 1, 'Aspekte des': 1, 'Veranstaltung': 1, 'Februar': 1}
+['München', 'seinen', ',', 'Kassel', 'die', 'den', 'König sollen', ', was', 'NSU-Watch «', 'die', 'Schorlau', 'Die schützende', 'Laabs werden', 'Aspekte des', 'Veranstaltung', 'Februar']

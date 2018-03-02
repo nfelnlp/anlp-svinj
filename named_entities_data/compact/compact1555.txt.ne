@@ -1,1 +1,1 @@
-{',': 1, 'gelöscht': 1, '(': 1, 'voller': 1, 'ich': 1, 'der': 1, 'geistig': 1, 'und Ethik': 1, 'seine': 1, 'seine philosophische': 1, 'seine philosophische Abschlussarbeit': 1, 'als': 1}
+[',', 'gelöscht', '(', 'voller', 'ich', 'der', 'geistig', 'und Ethik', 'seine', 'seine philosophische', 'seine philosophische Abschlussarbeit', 'als']

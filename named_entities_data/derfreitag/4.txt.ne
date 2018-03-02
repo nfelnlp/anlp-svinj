@@ -1,1 +1,1 @@
-{'Ronald Pofalla': 1, 'Dinge': 1, 'den': 1, 'Herrn': 1, 'sehr': 1, 'am': 1, 'perfekte': 1, 'Tumblr': 1, 'beliebt': 1, 'sich': 1, 'Jugendlichen schon': 1, 'neue politische': 1, 'Wahlkampf noch': 1, 'Monat': 1, 'und': 1, 'Werbeagentur': 1, 'bei': 1, 'diesem': 1, 'mit': 1, 'viele': 1, 'Aussage': 1, 'war': 1}
+['Ronald Pofalla', 'Dinge', 'den', 'Herrn', 'sehr', 'am', 'perfekte', 'Tumblr', 'beliebt', 'sich', 'Jugendlichen schon', 'neue politische', 'Wahlkampf noch', 'Monat', 'und', 'Werbeagentur', 'bei', 'diesem', 'mit', 'viele', 'Aussage', 'war']

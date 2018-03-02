@@ -1,1 +1,1 @@
-{'. Ein': 1, 'Jahr': 1, 'SED-Propaganda': 1, 'Und': 1, 'jenem Jahr wurde': 1, 'Todestag': 1, '.': 1, 'Alltag der': 1, 'sehr': 1, 'bestimmter': 1, '. Zumindest': 1, 'den': 1, 'dass': 1, 'ausschließlich': 1, 'Rückblick': 1, 'Rückblick auf die': 1, 'Klischees': 1, 'hastig': 1, 'Strausberger': 1}
+['. Ein', 'Jahr', 'SED-Propaganda', 'Und', 'jenem Jahr wurde', 'Todestag', '.', 'Alltag der', 'sehr', 'bestimmter', '. Zumindest', 'den', 'dass', 'ausschließlich', 'Rückblick', 'Rückblick auf die', 'Klischees', 'hastig', 'Strausberger']

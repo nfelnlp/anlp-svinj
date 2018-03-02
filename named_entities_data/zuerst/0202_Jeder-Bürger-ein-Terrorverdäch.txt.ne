@@ -1,1 +1,1 @@
-{'Brüssel': 1, 'EU': 1, 'demnächst': 1, 'EU-Parlamentsausschüsse': 1, 'und': 1, 'haben': 1, 'setzt .': 1, 'vorkommt ,': 1}
+['Brüssel', 'EU', 'demnächst', 'EU-Parlamentsausschüsse', 'und', 'haben', 'setzt .', 'vorkommt ,']

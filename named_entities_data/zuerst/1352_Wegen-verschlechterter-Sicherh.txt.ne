@@ -1,1 +1,1 @@
-{'Prag': 1, 'Europa': 1, '.': 1, 'und': 2, 'und Munition': 1, 'mit': 1, 'er': 1, 'für': 1, 'weiter': 1, 'sollen 300.000': 1, 'Bürger': 1, 'Bürger einen': 1, 'vielmehr': 1, 'wolle': 1}
+['Prag', 'Europa', '.', 'und', 'und Munition', 'mit', 'er', 'für', 'weiter', 'sollen 300.000', 'Bürger', 'Bürger einen', 'vielmehr', 'wolle', 'und']

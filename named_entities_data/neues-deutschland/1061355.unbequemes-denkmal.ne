@@ -1,1 +1,1 @@
-{'die': 2, 'deshalb': 1, 'hatten': 1, 'auf': 1, 'deswegen': 1, 'Union Deutschland « .': 1, 'Michail': 1, '. Dieser': 1, ', der': 1, '.': 1, 'Mitstreiter': 1, 'Zeitpunkt': 1, 'Hütte': 1, 'gehörte': 1, 'Vorsitzende des': 1, ', leitet': 1, 'Vereinsmitglied daraus auch einen': 1, 'demokratischen': 1}
+['die', 'deshalb', 'hatten', 'auf', 'deswegen', 'Union Deutschland « .', 'Michail', '. Dieser', ', der', '.', 'Mitstreiter', 'Zeitpunkt', 'Hütte', 'gehörte', 'Vorsitzende des', ', leitet', 'Vereinsmitglied daraus auch einen', 'demokratischen', 'die']

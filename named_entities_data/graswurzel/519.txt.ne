@@ -1,0 +1,1 @@
+['Polizei', 'Land', 'Bund', 'CDU', ', freier', 'das', 'in', 'in dem', 'in dem brennenden', 'verurteilt', '`` Politische', 'Hinweise', 'ein', '.', 'sie']

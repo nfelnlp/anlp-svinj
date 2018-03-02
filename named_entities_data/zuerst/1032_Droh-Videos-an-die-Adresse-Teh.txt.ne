@@ -1,1 +1,1 @@
-{'Teheran': 1, '(': 1, 'und': 1, 'jetzt': 2, 'ins': 1, 'der': 1, 'androht': 1, 'Beim': 1, 'Drohungen': 1, 'Eine': 1, 'gegeben': 1, 'Forschungszentrums': 1, 'alle': 1, 'nehme die': 1, 'schaffen': 1, '“': 1, 'im': 1, '.': 1, 'mü': 1}
+['Teheran', '(', 'und', 'jetzt', 'ins', 'der', 'androht', 'Beim', 'Drohungen', 'Eine', 'gegeben', 'Forschungszentrums', 'jetzt', 'alle', 'nehme die', 'schaffen', '“', 'im', '.', 'mü']

@@ -1,1 +1,1 @@
-{'stehen': 1, 'Rechtsradikale': 1, 'es': 1, 'Westdeutsche': 1}
+['stehen', 'Rechtsradikale', 'es', 'Westdeutsche']

@@ -1,1 +1,1 @@
-{'Warschau': 1, 'Szydlo rief': 1, 'dazu': 1, '“ Und': 1, '?': 1, 'Schlaf': 1, 'Präsidentin': 1, ', Ungarn und': 1, 'Sanktionen': 1, 'sollten': 1, 'Länder': 1, '„Flüchtlings': 1, 'die': 1}
+['Warschau', 'Szydlo rief', 'dazu', '“ Und', '?', 'Schlaf', 'Präsidentin', ', Ungarn und', 'Sanktionen', 'sollten', 'Länder', '„Flüchtlings', 'die']

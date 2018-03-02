@@ -1,1 +1,1 @@
-{'Berlin': 1, 'Jérôme Lombard': 1, 'Berlin-Schöneberg füllt sich': 1, '.': 1, 'der': 1}
+['Berlin', 'Jérôme Lombard', 'Berlin-Schöneberg füllt sich', '.', 'der']

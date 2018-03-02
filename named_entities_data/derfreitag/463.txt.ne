@@ -1,1 +1,1 @@
-{'Images Ihr': 1, 'unsere': 1, 'ihre': 1, 'Denn': 1, 'Weil': 1, 'Online-Medien': 1, 'begriffen': 1, ',': 1, 'nach Klickzahlen': 1, 'Buzzfeed': 1, 'Rankinglisten und': 1, 'Einfache': 1, 'das': 1, 'mit': 1, 'Seite': 1, '.': 1, ', alle': 1, 'können .': 1, 'ihm schuldig': 1}
+['Images Ihr', 'unsere', 'ihre', 'Denn', 'Weil', 'Online-Medien', 'begriffen', ',', 'nach Klickzahlen', 'Buzzfeed', 'Rankinglisten und', 'Einfache', 'das', 'mit', 'Seite', '.', ', alle', 'können .', 'ihm schuldig']

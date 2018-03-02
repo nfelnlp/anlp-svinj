@@ -1,1 +1,1 @@
-{'einhegen': 1, 'Barthold Heinrich Brockes': 1, 'unverbesserliche': 1, 'Bösen': 1, 'Lange': 1, 'Francis Bacon': 1, 'René Descartes': 1, 'machtvoll': 1, 'Sturm': 1, 'Rousseaus': 1}
+['einhegen', 'Barthold Heinrich Brockes', 'unverbesserliche', 'Bösen', 'Lange', 'Francis Bacon', 'René Descartes', 'machtvoll', 'Sturm', 'Rousseaus']

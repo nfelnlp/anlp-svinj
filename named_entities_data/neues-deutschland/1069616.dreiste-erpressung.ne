@@ -1,1 +1,1 @@
-{'Berlin ist allmählich': 1, 'übernommen hat': 1, 'versucht': 1, 'vergessen werden ,': 1, 'über den 1,8': 1, 'unter Anrechnung': 1, 'Vereinbarungen': 1, 'Konzerns': 1, 'der Politik': 1, 'haben ,': 1, 'offeriert .': 1}
+['Berlin ist allmählich', 'übernommen hat', 'versucht', 'vergessen werden ,', 'über den 1,8', 'unter Anrechnung', 'Vereinbarungen', 'Konzerns', 'der Politik', 'haben ,', 'offeriert .']

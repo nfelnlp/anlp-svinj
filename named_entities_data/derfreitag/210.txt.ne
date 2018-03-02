@@ -1,1 +1,1 @@
-{'ist': 1, 'wird': 1, 'Frauen': 1, 'Generation': 1, 'zahlt': 1}
+['ist', 'wird', 'Frauen', 'Generation', 'zahlt']

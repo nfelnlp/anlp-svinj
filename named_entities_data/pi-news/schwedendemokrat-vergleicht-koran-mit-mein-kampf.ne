@@ -1,1 +1,1 @@
-{'ALSTER': 1, 'SD': 1, ',': 3, ', auf': 1, 'Am': 1, 'Imame': 1, 'dieses': 1, 'weit': 1, 'zu': 1, 'den': 1, 'für': 1, '.': 2, 'immer': 1, 'aktuelle': 1, 'kurz zuvor': 1, 'einem': 1, 'es': 1, '– „Allahu': 1, 'von 1912': 1, 'Daran': 1, 'aus': 1}
+['ALSTER', 'SD', ',', ', auf', 'Am', ',', 'Imame', 'dieses', 'weit', 'zu', 'den', 'für', '.', '.', 'immer', 'aktuelle', 'kurz zuvor', 'einem', ',', 'es', '– „Allahu', 'von 1912', 'Daran', 'aus']

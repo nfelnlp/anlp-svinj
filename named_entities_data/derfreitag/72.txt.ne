@@ -1,1 +1,1 @@
-{'Diamond': 1, 'Keiner': 1, 'Band The': 1, 'Denitza': 1, ',': 2, 'in': 1, 'nur': 1, 'sie': 1, 'US-amerikanischen': 1, '.': 1, 'alten Hip-Hop-Klischees': 1, 'Luxus': 1, 'Reichtum': 1, 'durch': 1, 'im': 1, ':': 1}
+['Diamond', 'Keiner', 'Band The', 'Denitza', ',', 'in', 'nur', ',', 'sie', 'US-amerikanischen', '.', 'alten Hip-Hop-Klischees', 'Luxus', 'Reichtum', 'durch', 'im', ':']

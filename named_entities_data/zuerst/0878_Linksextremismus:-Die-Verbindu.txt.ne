@@ -1,1 +1,1 @@
-{'Gesellschaft 1': 1, 'Gesellschaft 1 Potsdam': 1, '.': 2, 'Landesverfassungsschutz': 1, 'für die': 1, 'der': 1, ': „Auch wenn der': 1}
+['Gesellschaft 1', 'Gesellschaft 1 Potsdam', '.', '.', 'Landesverfassungsschutz', 'für die', 'der', ': „Auch wenn der']

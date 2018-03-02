@@ -1,1 +1,1 @@
-{'Gesellschaft 5': 1, 'Gesellschaft 5 Berlin': 1, 'Linksextremisten': 1, '„Wir': 1, 'Kreuzberg': 1, 'Steinen': 1}
+['Gesellschaft 5', 'Gesellschaft 5 Berlin', 'Linksextremisten', '„Wir', 'Kreuzberg', 'Steinen']

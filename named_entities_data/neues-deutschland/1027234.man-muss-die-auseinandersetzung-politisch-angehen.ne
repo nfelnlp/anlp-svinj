@@ -1,1 +1,1 @@
-{'Rosa-Luxemburg-Stiftung .': 1, 'Rosa-Luxemburg-Stiftung . Fanny': 1, 'hat': 1, 'organisiert Am': 1, '» Gemeinsam': 1, '» Gemeinsam gewinnen': 1, '» Gemeinsam gewinnen « .': 1, 'Die': 1}
+['Rosa-Luxemburg-Stiftung .', 'Rosa-Luxemburg-Stiftung . Fanny', 'hat', 'organisiert Am', '» Gemeinsam', '» Gemeinsam gewinnen', '» Gemeinsam gewinnen « .', 'Die']

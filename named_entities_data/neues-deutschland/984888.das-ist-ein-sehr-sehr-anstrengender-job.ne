@@ -1,1 +1,1 @@
-{'ver.di-Bundeskongress': 1, 'die': 1, 'überhaupt': 1, 'Klasse ?': 1}
+['ver.di-Bundeskongress', 'die', 'überhaupt', 'Klasse ?']

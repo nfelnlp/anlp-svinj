@@ -1,1 +1,1 @@
-{'nach': 1, '–': 1, 'aus': 1, 'und': 1, 'so': 1, 'wie': 1, 'per': 1, 'wird': 1, 'denen': 1}
+['nach', '–', 'aus', 'und', 'so', 'wie', 'per', 'wird', 'denen']

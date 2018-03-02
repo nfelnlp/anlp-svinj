@@ -1,1 +1,1 @@
-{'Stephan Lessenich': 1, 'Tobias Lambert Kaffeekapseln': 1, 'Schweizer Nestlé-Tochter': 1, '.': 1, 'anderen': 1}
+['Stephan Lessenich', 'Tobias Lambert Kaffeekapseln', 'Schweizer Nestlé-Tochter', '.', 'anderen']

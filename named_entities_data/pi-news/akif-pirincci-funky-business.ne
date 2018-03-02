@@ -1,1 +1,1 @@
-{'des': 1, 'Jugendliche': 1, ',': 1, 'iPad': 1, 'und': 1, 'grün-linken': 1, 'medial-psychiatrischer': 1, 'der': 1, 'tun': 1, 'Akt die Giftstengel': 1, 'würde': 1, 'Haus': 1, 'ist': 2, 'ist nicht': 1, 'eine glatte': 1, 'in': 1, 'mit anschließendem Analverkehr': 1, 'dem': 1}
+['des', 'Jugendliche', ',', 'iPad', 'und', 'grün-linken', 'medial-psychiatrischer', 'der', 'tun', 'Akt die Giftstengel', 'würde', 'Haus', 'ist', 'ist nicht', 'eine glatte', 'ist', 'in', 'mit anschließendem Analverkehr', 'dem']

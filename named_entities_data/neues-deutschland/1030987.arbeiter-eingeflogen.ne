@@ -1,1 +1,1 @@
-{'Selbecke': 1, 'der': 1, 'Automotive Systems zu': 1, 'und Geschäftsleitung': 1, 'Werkverträgen': 1, ')': 1, 'Beim': 1, 'Dura . Arbeitsminister': 1, '(': 1, 'berichtete den': 1, 'den': 1, ',': 2, 'Rahmen': 1, ') gegenüber »': 1, '«': 1}
+['Selbecke', 'der', 'Automotive Systems zu', 'und Geschäftsleitung', 'Werkverträgen', ')', 'Beim', 'Dura . Arbeitsminister', '(', 'berichtete den', 'den', ',', 'Rahmen', ') gegenüber »', '«', ',']

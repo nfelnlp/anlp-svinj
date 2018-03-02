@@ -1,1 +1,1 @@
-{'Schwangerschaftsabbrüche/': 1, 'Ewald Abtreibung': 1, 'und': 1, 'Teilnehmende': 1, 'der': 1}
+['Schwangerschaftsabbrüche/', 'Ewald Abtreibung', 'und', 'Teilnehmende', 'der']

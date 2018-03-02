@@ -1,1 +1,1 @@
-{'Paula Segal': 1, 'New': 1, 'New York': 2, 'Bedford Stuyvesant': 1, 'Brooklyn': 1, 'Gemeinschaftsgärten': 1}
+['Paula Segal', 'New', 'New York', 'Bedford Stuyvesant', 'Brooklyn', 'New York', 'Gemeinschaftsgärten']

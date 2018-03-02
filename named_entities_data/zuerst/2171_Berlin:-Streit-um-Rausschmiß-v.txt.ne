@@ -1,1 +1,1 @@
-{'Berlin': 1, 'Diskussionsanlaß': 1, 'spricht': 1, 'behauptet': 1, ', der': 1, ') ,': 1, 'in': 1, 'hätten': 1, 'Asylsuchenden in': 1, 'abgelehnt': 1, 'ein Asylbewerber': 1, 'hier': 1, 'wurden .': 1}
+['Berlin', 'Diskussionsanlaß', 'spricht', 'behauptet', ', der', ') ,', 'in', 'hätten', 'Asylsuchenden in', 'abgelehnt', 'ein Asylbewerber', 'hier', 'wurden .']

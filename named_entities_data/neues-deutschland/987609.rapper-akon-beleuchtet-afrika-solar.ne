@@ -1,1 +1,1 @@
-{'Akon nachts durch': 1, 'erleuchtete': 1, 'der': 3, 'er': 1, 'grundsätzlich': 1, 'Viele': 1, ',': 1, 'Schiffbruch': 1, 'der Malier': 1, 'des': 1, '«': 2, 'Nigeria': 1, 'Niger': 1, 'Projekte': 1, '» Akon Lighting': 1, 'Cotonou': 1, 'Geschäft': 1, 'Geschäft gekommen': 1, '.': 1, '. Die Arbeitskräfte sind': 1}
+['Akon nachts durch', 'erleuchtete', 'der', 'er', 'grundsätzlich', 'Viele', ',', 'Schiffbruch', 'der Malier', 'des', '«', 'der', 'Nigeria', 'Niger', 'Projekte', '» Akon Lighting', '«', 'der', 'Cotonou', 'Geschäft', 'Geschäft gekommen', '.', '. Die Arbeitskräfte sind']

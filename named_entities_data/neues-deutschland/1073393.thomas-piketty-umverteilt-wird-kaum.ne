@@ -1,1 +1,1 @@
-{'Simon Poelchau': 1, 'Zeitung .': 1, 'auf': 1}
+['Simon Poelchau', 'Zeitung .', 'auf']

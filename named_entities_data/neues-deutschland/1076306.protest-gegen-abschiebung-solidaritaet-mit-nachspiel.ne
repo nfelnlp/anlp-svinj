@@ -1,1 +1,1 @@
-{'knöpft': 1, 'Afghanen': 1, 'Nürnberg': 1, 'Johannes Hartl': 1, 'Polizei': 1, 'Protestierer': 1, 'Nürnberger Polizei': 1}
+['knöpft', 'Afghanen', 'Nürnberg', 'Johannes Hartl', 'Polizei', 'Protestierer', 'Nürnberger Polizei']

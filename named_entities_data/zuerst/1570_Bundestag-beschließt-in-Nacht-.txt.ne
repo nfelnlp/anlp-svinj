@@ -1,1 +1,1 @@
-{'Gesellschaft 4 Berlin': 1, 'nicht': 1, 'Etwa': 1, '.': 1, 'findet': 1, 'erst': 1, 'etwa': 1, 'dies': 1}
+['Gesellschaft 4 Berlin', 'nicht', 'Etwa', '.', 'findet', 'erst', 'etwa', 'dies']

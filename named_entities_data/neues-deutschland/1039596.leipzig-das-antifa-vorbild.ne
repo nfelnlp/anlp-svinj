@@ -1,1 +1,1 @@
-{'Max Zeising': 1, 'Leipzig': 1, 'unter': 1, ':': 1}
+['Max Zeising', 'Leipzig', 'unter', ':']

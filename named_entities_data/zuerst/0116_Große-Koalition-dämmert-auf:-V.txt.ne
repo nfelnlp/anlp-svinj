@@ -1,1 +1,1 @@
-{'Berlin': 1, 'Union': 1, 'SPD': 2, 'Angela Merkel': 1, 'CDU': 1, 'Horst Seehofer': 1, 'CSU': 1, 'Martin Schulz': 1, 'bei': 1, 'einreisen': 1, 'von': 1, 'einer': 1, 'erreichen': 1, 'Außerdem': 1, 'zusätzlich': 1}
+['Berlin', 'Union', 'SPD', 'Angela Merkel', 'CDU', 'Horst Seehofer', 'CSU', 'Martin Schulz', 'SPD', 'bei', 'einreisen', 'von', 'einer', 'erreichen', 'Außerdem', 'zusätzlich']

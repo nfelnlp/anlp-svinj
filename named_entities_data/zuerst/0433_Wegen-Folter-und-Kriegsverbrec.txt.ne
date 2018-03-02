@@ -1,1 +1,1 @@
-{'Haag': 1, 'Es': 1, ',': 2, 'die': 1, 'auch': 1, '.': 1, '2016': 1, 'Soldaten': 1, 'Einzelpersonen': 1, '. Diese Taktik sei': 1}
+['Haag', 'Es', ',', 'die', 'auch', '.', '2016', ',', 'Soldaten', 'Einzelpersonen', '. Diese Taktik sei']

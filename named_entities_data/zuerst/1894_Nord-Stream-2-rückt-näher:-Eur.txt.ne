@@ -1,1 +1,1 @@
-{'Moskau/Berlin': 1, 'Der': 1, 'unterzeichnet': 1, 'die': 1, 'Wie': 1, ',': 1, 'und': 1, 'jeweils': 1, 'Durch': 1, 'Pipeline': 1, 'ab': 1, 'direkt': 1, 'strömen': 1, 'Baubeginn': 1, 'geplant': 1, 'Unternehmen': 1, 'den': 1, 'zur Bau': 1, '2': 1, 'davor': 1}
+['Moskau/Berlin', 'Der', 'unterzeichnet', 'die', 'Wie', ',', 'und', 'jeweils', 'Durch', 'Pipeline', 'ab', 'direkt', 'strömen', 'Baubeginn', 'geplant', 'Unternehmen', 'den', 'zur Bau', '2', 'davor']

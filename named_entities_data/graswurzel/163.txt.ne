@@ -1,0 +1,1 @@
+['Karin Kramer', 'Berlin', 'die', 'Riemann ,', 'Antje Schrupp', 'Luz Kerkeling', 'Wolf-Dieter Narr', 'Kletteraktivistin Cécile', 'Anarchismusforscher', 'Damier ,', 'Umweltblätter-Redakteur Wolfgang', 'Jochen Schmück', 'und', 'Franziska Wittig', 'ehemaligen', "A ''", 'österreichischen Anarchisten', 'Sebastian Kalicha', 'ihr Leben', 'Sie nicht', "den `` Siegern ''", 'viel bewegt']

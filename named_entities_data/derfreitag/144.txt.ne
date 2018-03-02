@@ -1,1 +1,1 @@
-{'Bilder': 1, 'Terror': 1, 'Krieg': 1, ',': 3, 'entpuppen': 1, 'Zeitungen': 1, 'nichts': 1, 'Gewalt .': 1, 'Menschen': 1, 'durch die': 1, 'in': 1, 'lassen ,': 1, 'Partei und dem': 1, 'es': 2, ', wenn': 1, 'Gewalt': 1, 'leben': 1, 'älter': 1}
+['Bilder', 'Terror', 'Krieg', ',', 'entpuppen', 'Zeitungen', 'nichts', 'Gewalt .', 'Menschen', 'durch die', ',', ',', 'in', 'lassen ,', 'Partei und dem', 'es', ', wenn', 'Gewalt', 'es', 'leben', 'älter']

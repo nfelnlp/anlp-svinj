@@ -1,1 +1,1 @@
-{'. Tausende': 1, 'die': 1, '.': 2, 'an': 1, 'rund': 1, '. Die': 1, 'zu': 1, 'in': 3, 'wollen': 1, 'Ceuta und Melilla': 1, 'gelangen': 1, 'das': 1, 'kamen': 1, '1': 1}
+['. Tausende', 'die', '.', 'an', 'rund', '. Die', 'zu', 'in', 'wollen', 'in', '.', 'in', 'Ceuta und Melilla', 'gelangen', 'das', 'kamen', '1']

@@ -1,1 +1,1 @@
-{'Bariatti soll': 1, 'dei Paschi di': 1, '( MPS': 1, 'an': 1, 'Mailand ist': 1, 'Mailand ist Kandidatin': 1, 'wenigen Tagen': 1, 'und': 1, 'Pier': 1, 'so seinen Favoriten': 1, 'seit': 1, 'auf': 1, ',': 1, 'aktiv': 1, 'Beratertätigkeit': 1, '. Hat Ihnen': 1}
+['Bariatti soll', 'dei Paschi di', '( MPS', 'an', 'Mailand ist', 'Mailand ist Kandidatin', 'wenigen Tagen', 'und', 'Pier', 'so seinen Favoriten', 'seit', 'auf', ',', 'aktiv', 'Beratertätigkeit', '. Hat Ihnen']

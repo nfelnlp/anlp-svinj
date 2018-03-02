@@ -1,1 +1,1 @@
-{'Der': 1, 'Wer': 1, 'Tasse oder Schüssel': 1, 'Halle in Essen': 1, 'Besitzer': 1, 'bei einer': 1, 'bestätigt .': 1, 'noch etwas mehr': 1, ', die': 1, 'an': 1, 'buntes': 1, 'gibt ja': 1, 'oder': 1, 'Sachen': 1, 'Schokolade': 1, 'Schweizer': 1, 'sitzengeblieben': 1, 'in Lindt-Shops': 1, 'Souvenirs': 1, '.': 1, 'ein': 1}
+['Der', 'Wer', 'Tasse oder Schüssel', 'Halle in Essen', 'Besitzer', 'bei einer', 'bestätigt .', 'noch etwas mehr', ', die', 'an', 'buntes', 'gibt ja', 'oder', 'Sachen', 'Schokolade', 'Schweizer', 'sitzengeblieben', 'in Lindt-Shops', 'Souvenirs', '.', 'ein']

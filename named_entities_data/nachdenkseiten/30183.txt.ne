@@ -1,1 +1,1 @@
-{'Wider die': 1, 'Wernicke': 1, 'allerorten zu': 1, 'boomenden': 1, 'Ideologie': 1, ', ich zitiere': 1, 'dabei': 1, 'nach': 1, 'Sau': 1, 'um': 1, '„Gesetz': 1, 'Zusammenhang': 1, 'Geschmack': 1, 'erzählt': 1, 'nicht wirklich hilft ,': 1, 'politisch': 1}
+['Wider die', 'Wernicke', 'allerorten zu', 'boomenden', 'Ideologie', ', ich zitiere', 'dabei', 'nach', 'Sau', 'um', '„Gesetz', 'Zusammenhang', 'Geschmack', 'erzählt', 'nicht wirklich hilft ,', 'politisch']

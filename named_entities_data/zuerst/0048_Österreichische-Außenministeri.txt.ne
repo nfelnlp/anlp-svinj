@@ -1,1 +1,1 @@
-{'Wien': 1, 'Kneissl': 1, 'FPÖ': 1, 'Österreich': 1, 'Ausbildungsverhältnis': 1, 'der': 1, 'aber': 1, 'wir': 1, 'oberösterreichischen': 1, ', „Flüchtlingen': 1, 'Abschluß': 1}
+['Wien', 'Kneissl', 'FPÖ', 'Österreich', 'Ausbildungsverhältnis', 'der', 'aber', 'wir', 'oberösterreichischen', ', „Flüchtlingen', 'Abschluß']

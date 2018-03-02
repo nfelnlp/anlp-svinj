@@ -1,1 +1,1 @@
-{'Bertelsmann-Stiftung zufolge wurden': 1, 'sich': 1, 'Anteil': 1, 'Ausländern': 1, 'Bevölkerung': 1, ',': 1, 'Hessens , beträgt': 1, 'Millionen': 1, 'kostet': 1, 'der': 1, 'Mainmetropole': 1, 'Stadt': 1, '2017': 1, 'mehr': 1, 'in': 1}
+['Bertelsmann-Stiftung zufolge wurden', 'sich', 'Anteil', 'Ausländern', 'Bevölkerung', ',', 'Hessens , beträgt', 'Millionen', 'kostet', 'der', 'Mainmetropole', 'Stadt', '2017', 'mehr', 'in']

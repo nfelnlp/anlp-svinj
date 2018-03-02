@@ -1,1 +1,1 @@
-{'Washington': 1, 'hat unmittelbar': 1, '. Trump unterzeichnete noch': 1, 'sollen': 1, 'sieht': 1, 'und schädigend “ seien': 1, 'ursprünglichen': 1, 'er': 1, 'beide': 1, 'heißt': 1, 'zu': 1, 'das': 1, ',': 1, 'auf': 1}
+['Washington', 'hat unmittelbar', '. Trump unterzeichnete noch', 'sollen', 'sieht', 'und schädigend “ seien', 'ursprünglichen', 'er', 'beide', 'heißt', 'zu', 'das', ',', 'auf']

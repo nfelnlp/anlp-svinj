@@ -1,1 +1,1 @@
-{'von': 1, 'Tragödien': 1, 'gibt': 1, 'zur': 1, 'Manche': 1, 'als eine': 1, 'haben': 1, 'Aufmotzen': 1, 'antidemokratischen': 1, '(': 1, ')': 1, 'extremistischen Teilen': 1, 'sich': 1, "Volk ''": 1, 'Konservativen': 1, '``': 1, 'aber': 1, 'daß': 1, 'ersetzt': 1, 'Fall daran': 1}
+['von', 'Tragödien', 'gibt', 'zur', 'Manche', 'als eine', 'haben', 'Aufmotzen', 'antidemokratischen', '(', ')', 'extremistischen Teilen', 'sich', "Volk ''", 'Konservativen', '``', 'aber', 'daß', 'ersetzt', 'Fall daran']

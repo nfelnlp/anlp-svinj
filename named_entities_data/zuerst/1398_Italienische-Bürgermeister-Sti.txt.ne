@@ -1,1 +1,1 @@
-{'Rom': 1, 'behauptete sich': 1, 'größten': 1, 'größten am Urnengang': 1, '’': 1, '.': 1, 'Wind des': 1, 'weht': 1, 'Renato': 1, 'Städten Allianzen': 1, 'der Lega': 1, 'Matteo': 1, 'ein': 1, 'PD )': 1, 'Ex-Premier Matteo': 1, 'Enttäuschung nicht': 1, '” ,': 1, 'Juni': 1}
+['Rom', 'behauptete sich', 'größten', 'größten am Urnengang', '’', '.', 'Wind des', 'weht', 'Renato', 'Städten Allianzen', 'der Lega', 'Matteo', 'ein', 'PD )', 'Ex-Premier Matteo', 'Enttäuschung nicht', '” ,', 'Juni']

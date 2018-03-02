@@ -1,1 +1,1 @@
-{'Stache/AFP/Getty': 1, 'In': 1, 'Teilen der': 1, 'bereits': 1, 'eine': 1, 'gut': 1}
+['Stache/AFP/Getty', 'In', 'Teilen der', 'bereits', 'eine', 'gut']

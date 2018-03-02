@@ -1,1 +1,1 @@
-{'Hamburg': 1, 'Syrien': 1, 'Irak': 1, '“ (': 1, ')': 1, 'in einem Interview': 1, 'Würde der': 1, 'Würde der Überlebenden': 1, 'und': 1, 'im': 1, '.': 1, 'Lagern': 1, 'wieder': 1, 'wurde': 1}
+['Hamburg', 'Syrien', 'Irak', '“ (', ')', 'in einem Interview', 'Würde der', 'Würde der Überlebenden', 'und', 'im', '.', 'Lagern', 'wieder', 'wurde']

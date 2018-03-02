@@ -1,1 +1,1 @@
-{'Budapest': 1, 'Soros unterstützten': 1, 'Regierungspartei': 1, 'vorsehen': 1, ':': 1, 'Umfeld': 1, '. In': 1, '. Dies': 1, 'die': 1, 'die Transparenz': 1, 'Kolumnist': 1}
+['Budapest', 'Soros unterstützten', 'Regierungspartei', 'vorsehen', ':', 'Umfeld', '. In', '. Dies', 'die', 'die Transparenz', 'Kolumnist']

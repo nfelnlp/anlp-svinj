@@ -1,1 +1,1 @@
-{'New': 1, 'New York': 1, 'EU-Kommission': 1, 'Verfahren': 1, 'Ergebnis': 1, 'fordert eine': 1, 'schlägt vor': 1, 'setzen': 1, 'Polen in': 1, 'Jahren': 1, 'geblieben': 1, 'voll': 1, ',': 1, 'des': 1, 'bedeuten ,': 1, 'die': 1, 'Kurs': 1, 'Bereits': 1, 'auch': 1, 'einem': 1, 'tatsächlich seine': 1}
+['New', 'New York', 'EU-Kommission', 'Verfahren', 'Ergebnis', 'fordert eine', 'schlägt vor', 'setzen', 'Polen in', 'Jahren', 'geblieben', 'voll', ',', 'des', 'bedeuten ,', 'die', 'Kurs', 'Bereits', 'auch', 'einem', 'tatsächlich seine']

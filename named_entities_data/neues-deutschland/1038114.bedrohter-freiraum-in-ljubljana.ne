@@ -1,1 +1,1 @@
-{'slowenische': 1, 'Peter Nowak': 1, 'ROG': 1, 'slowenischen': 1, 'Ljubljana': 1, 'geräumig': 1, 'Hauptabnehmer': 1, 'Marine': 1}
+['slowenische', 'Peter Nowak', 'ROG', 'slowenischen', 'Ljubljana', 'geräumig', 'Hauptabnehmer', 'Marine']

@@ -1,1 +1,1 @@
-{'mit': 1, 'der': 1, 'Kündigungsklagen': 1, 'wird': 1, 'kein': 1, 'Im': 1, 'eine': 1, 'des': 1, 'November': 1, 'erstinstanzlich': 1, 'keine Stellungnahme': 1, 'Kündigungsbegehren scheint': 1, 'den': 1, ',': 1, 'mitorganisiert': 1, '»': 1, '.': 1, 'Kündigungsversuche': 1}
+['mit', 'der', 'Kündigungsklagen', 'wird', 'kein', 'Im', 'eine', 'des', 'November', 'erstinstanzlich', 'keine Stellungnahme', 'Kündigungsbegehren scheint', 'den', ',', 'mitorganisiert', '»', '.', 'Kündigungsversuche']

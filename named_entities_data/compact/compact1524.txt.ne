@@ -1,1 +1,1 @@
-{'viel': 1, 'Sinnbild': 1, 'Manipulation': 1, 'unkontrollierten': 1, 'Wenn': 1, ',': 2, 'und': 1, 'keine': 1, '. Aber': 1, 'daß': 1, 'Komplex inzwischen': 1, 'Komplex inzwischen –': 1, 'den Spiegel vorhalten': 1, 'retten': 1, '.': 1}
+['viel', 'Sinnbild', 'Manipulation', 'unkontrollierten', 'Wenn', ',', 'und', ',', 'keine', '. Aber', 'daß', 'Komplex inzwischen', 'Komplex inzwischen –', 'den Spiegel vorhalten', 'retten', '.']

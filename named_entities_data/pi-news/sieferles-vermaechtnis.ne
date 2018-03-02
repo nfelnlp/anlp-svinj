@@ -1,1 +1,1 @@
-{'Deutschland': 2, 'Rolf Peter Sieferle': 1, 'und ist': 1, ',': 3, 'Verantwortung': 1, 'Buße': 1, 'Verstärker': 1, 'alle': 2, 'Einbruch': 1, '.': 1, '»': 1, 'Peter': 1, 'Migrationsproblem': 1, 'Sozialstaat': 1, 'Masseneinwanderung': 1, ')': 1}
+['Deutschland', 'Rolf Peter Sieferle', 'und ist', ',', ',', 'Verantwortung', 'Buße', 'Verstärker', 'alle', ',', 'Einbruch', 'alle', '.', 'Deutschland', '»', 'Peter', 'Migrationsproblem', 'Sozialstaat', 'Masseneinwanderung', ')']

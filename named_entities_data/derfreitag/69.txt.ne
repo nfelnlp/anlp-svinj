@@ -1,1 +1,1 @@
-{'NDR-Reporter': 1, 'Foto :': 1, ':': 1, '.': 1, 'soll': 1, ',': 1, 'war': 1, 'PR-Automaten': 1, 'die wundersame': 1, 'und Berufsleben': 1}
+['NDR-Reporter', 'Foto :', ':', '.', 'soll', ',', 'war', 'PR-Automaten', 'die wundersame', 'und Berufsleben']

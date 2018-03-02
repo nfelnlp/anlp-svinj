@@ -1,1 +1,1 @@
-{'Fritz Güde': 3, 'Christian Baron 68er': 1, 'daherkommen': 1}
+['Fritz Güde', 'Christian Baron 68er', 'Fritz Güde', 'daherkommen', 'Fritz Güde']

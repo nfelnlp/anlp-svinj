@@ -1,1 +1,1 @@
-{'Panama-Stadt . Im': 1, 'Er litt seit': 1, 'den USA gefördert': 1, 'und': 1, 'von': 1, 'In': 1, 'fiel': 1, 'viele': 1, 'lateinamerikanischen': 1, 'in': 1, 'sein': 1, 'saß': 1, 'büßte': 1, 'Haftstrafen': 1, 'wegen': 1}
+['Panama-Stadt . Im', 'Er litt seit', 'den USA gefördert', 'und', 'von', 'In', 'fiel', 'viele', 'lateinamerikanischen', 'in', 'sein', 'saß', 'büßte', 'Haftstrafen', 'wegen']

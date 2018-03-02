@@ -1,1 +1,1 @@
-{'Angela Merkel': 1, 'Grenzöffnung': 1, 'kürzlich in': 1, 'in': 1, 'Optimisten': 1, 'einer intakten': 1, 'Jubel': 1, 'ist': 1, 'wird': 1, 'Das': 1, 'große': 1, 'auch': 1, 'auf': 1, 'eine': 1, 'einmal': 1, 'Linksfaschismus': 1, 'und Fraktionsvorsitzende der': 1, ') legte': 1}
+['Angela Merkel', 'Grenzöffnung', 'kürzlich in', 'in', 'Optimisten', 'einer intakten', 'Jubel', 'ist', 'wird', 'Das', 'große', 'auch', 'auf', 'eine', 'einmal', 'Linksfaschismus', 'und Fraktionsvorsitzende der', ') legte']

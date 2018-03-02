@@ -1,1 +1,1 @@
-{'Uppsala': 2, 'Schweden': 1, 'schwedischen': 1, ',': 2, '.': 1, 'Sein': 1, 'der': 1, 'die': 1, ', was': 1, 'seit': 1, 'Zeit': 1}
+['Uppsala', 'Schweden', 'Uppsala', 'schwedischen', ',', '.', 'Sein', 'der', 'die', ',', ', was', 'seit', 'Zeit']

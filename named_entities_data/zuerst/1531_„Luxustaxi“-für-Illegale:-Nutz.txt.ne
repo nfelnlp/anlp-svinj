@@ -1,1 +1,1 @@
-{'Palermo': 1, 'Jetzt': 1, 'hob': 1, 'eine': 1, 'Weiterreise': 1, 'Deutschland': 1, 'oder': 1, '.': 1, 'Steuermänner': 1, 'die': 1, 'zehn': 1, 'Voi': 1, 'äußerte nach der': 1, 'Deshalb': 1}
+['Palermo', 'Jetzt', 'hob', 'eine', 'Weiterreise', 'Deutschland', 'oder', '.', 'Steuermänner', 'die', 'zehn', 'Voi', 'äußerte nach der', 'Deshalb']

@@ -1,1 +1,1 @@
-{'Norbert Bolz': 1, 'ZDF-Moderator': 1, ', jetzt': 1, 'die Politik': 1, 'kritisieren': 1, 'als': 1, '.': 1, '. Wie': 1, 'der': 1, ',': 1, 'Partei': 1, 'hat .': 1, 'und': 1, 'anderen': 1, 'weil': 1, 'von': 1, 'dumm': 1, 'die': 1}
+['Norbert Bolz', 'ZDF-Moderator', ', jetzt', 'die Politik', 'kritisieren', 'als', '.', '. Wie', 'der', ',', 'Partei', 'hat .', 'und', 'anderen', 'weil', 'von', 'dumm', 'die']

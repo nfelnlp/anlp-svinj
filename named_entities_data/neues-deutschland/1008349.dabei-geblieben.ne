@@ -1,1 +1,1 @@
-{'hinterlassen': 1, 'ihre': 1, 'AktivistInnen': 1, 'Hut': 1, 'Jahre': 1, 'ihrer': 1, 'politischen': 1, 'ihr': 1, 'Die': 1, 'die': 2, 'aber': 1, ',': 1, 'hat': 1, 'vom Älterwerden': 1, '16': 1}
+['hinterlassen', 'ihre', 'AktivistInnen', 'Hut', 'Jahre', 'ihrer', 'politischen', 'ihr', 'Die', 'die', 'die', 'aber', ',', 'hat', 'vom Älterwerden', '16']

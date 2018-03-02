@@ -1,1 +1,1 @@
-{'bei': 1, 'wissen': 1, 'ihrer': 1, 'ihr': 1, 'es': 2, 'es drucken wollte , kann': 1, 'sich': 1, ',': 4, 'Fotos': 1, 'Logik': 1, 'Fotografin': 1, 'verhüllten': 1, 'mit ihren': 1, 'überdurchschnittlicher': 1, 'Oder': 1, 'ekelhafte': 1, 'solcherweise': 1, 'solcherweise agieren': 1, 'dich': 1, 'Mit': 1}
+['bei', 'wissen', 'ihrer', 'ihr', 'es', 'es drucken wollte , kann', 'sich', ',', 'Fotos', 'Logik', 'Fotografin', 'verhüllten', 'mit ihren', 'überdurchschnittlicher', ',', 'es', ',', ',', 'Oder', 'ekelhafte', 'solcherweise', 'solcherweise agieren', 'dich', 'Mit']

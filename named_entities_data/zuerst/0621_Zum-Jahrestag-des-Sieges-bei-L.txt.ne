@@ -1,1 +1,1 @@
-{'Warschau': 1, 'Westliche': 1, '“': 1, 'Uhren': 1, 'Landesgrenzen': 1, 'Deutsch :': 1, 'beteiligt': 1, 'auf': 1, 'und': 1, 'der ungewöhnlichen': 1, 'diverse Medien': 1, 'Weigerung': 1, 'zum': 1, 'der': 1, 'in': 1, 'Bergen': 1, '.': 1, 'diesem': 1, 'mü': 1}
+['Warschau', 'Westliche', '“', 'Uhren', 'Landesgrenzen', 'Deutsch :', 'beteiligt', 'auf', 'und', 'der ungewöhnlichen', 'diverse Medien', 'Weigerung', 'zum', 'der', 'in', 'Bergen', '.', 'diesem', 'mü']

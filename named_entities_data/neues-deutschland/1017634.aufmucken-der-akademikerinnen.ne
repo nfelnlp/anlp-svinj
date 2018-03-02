@@ -1,1 +1,1 @@
-{'Potsdam': 1, 'Berlin': 1, 'School': 1, 'Eine Berliner': 1, 'nicht': 1, 'Duden ,': 1, '1977 .': 1}
+['Potsdam', 'Berlin', 'School', 'Eine Berliner', 'nicht', 'Duden ,', '1977 .']

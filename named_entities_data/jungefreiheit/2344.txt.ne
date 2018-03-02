@@ -1,1 +1,1 @@
-{'und Absonderliche': 1, 'letztmögliche Steigerungsform': 1, 'Buches': 2, 'vor': 1, '(': 1, 'geschlagen': 1, "''": 1, 'ohne zeitliches': 1, 'hat': 1, ',': 1, 'der': 1, 'von': 1, '``': 1, 'war das': 1, 'ihres': 1}
+['und Absonderliche', 'letztmögliche Steigerungsform', 'Buches', 'vor', '(', 'geschlagen', "''", 'ohne zeitliches', 'hat', ',', 'der', 'Buches', 'von', '``', 'war das', 'ihres']

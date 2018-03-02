@@ -1,1 +1,1 @@
-{'Südafrika': 2, 'südafrikanische': 1, 'National Union of Metalworkers of': 1, 'National Union of Metalworkers of South': 1, 'National Union of Metalworkers of South Afrika': 1, 'NUMSA-Generalsekretär': 1, 'am Rande': 1, 'breite Studierendenproteste weit über': 1, 'der': 1, 'abgeführt': 1}
+['Südafrika', 'südafrikanische', 'National Union of Metalworkers of', 'National Union of Metalworkers of South', 'National Union of Metalworkers of South Afrika', 'Südafrika', 'NUMSA-Generalsekretär', 'am Rande', 'breite Studierendenproteste weit über', 'der', 'abgeführt']

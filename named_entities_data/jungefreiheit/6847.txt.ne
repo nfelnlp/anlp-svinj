@@ -1,1 +1,1 @@
-{',': 1, '; der': 1, 'allgemeiner': 1, 'Stolz': 1, 'schon obszöne': 1, 'sein': 1, 'Welt': 1, 'Sprache': 1, 'in der': 1, 'Anders\x92 nur': 1, 'Kultur und': 1, 'zu erlösen :': 1, 'Jahre': 1, 'Stichwort': 1, '.': 1, 'hundert': 1, 'auf': 1, 'an andere als': 1, 'lebt ja': 1, 'bewirken als der': 1, '. Auch sie': 1}
+[',', '; der', 'allgemeiner', 'Stolz', 'schon obszöne', 'sein', 'Welt', 'Sprache', 'in der', 'Anders\x92 nur', 'Kultur und', 'zu erlösen :', 'Jahre', 'Stichwort', '.', 'hundert', 'auf', 'an andere als', 'lebt ja', 'bewirken als der', '. Auch sie']

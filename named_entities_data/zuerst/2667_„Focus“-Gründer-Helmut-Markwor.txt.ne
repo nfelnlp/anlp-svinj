@@ -1,1 +1,1 @@
-{'Gesellschaft 8 Frankfurt': 1, 'Markwort ,': 1, ',': 2, 'zwar': 1, 'ebenso': 1, 'Wahlkampf und': 1, 'veröffentlichten': 1}
+['Gesellschaft 8 Frankfurt', 'Markwort ,', ',', 'zwar', ',', 'ebenso', 'Wahlkampf und', 'veröffentlichten']

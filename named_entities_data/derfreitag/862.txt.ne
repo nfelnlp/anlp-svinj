@@ -1,1 +1,1 @@
-{'Facebook': 1, 'sich': 1, '.': 1, 'kein': 1, 'gut': 1, 'Slogans': 1, 'vom': 1, 'an': 1, 'Ein': 1, 'die': 1, "AfD ''": 1, 'der': 1, '12.00': 1, 'dem': 1}
+['Facebook', 'sich', '.', 'kein', 'gut', 'Slogans', 'vom', 'an', 'Ein', 'die', "AfD ''", 'der', '12.00', 'dem']

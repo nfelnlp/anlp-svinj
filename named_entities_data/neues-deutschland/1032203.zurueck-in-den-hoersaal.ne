@@ -1,1 +1,1 @@
-{'auf': 1, '« zeigt ,': 1, 'Lokale Protestgruppen und': 1, 'Lokale Protestgruppen und einzelne': 1, 'über': 1, 'ein': 1, 'Zentrum': 1}
+['auf', '« zeigt ,', 'Lokale Protestgruppen und', 'Lokale Protestgruppen und einzelne', 'über', 'ein', 'Zentrum']

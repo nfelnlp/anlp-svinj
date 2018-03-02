@@ -1,1 +1,1 @@
-{'suchend': 1, 'Kundin': 1}
+['suchend', 'Kundin']

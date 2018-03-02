@@ -1,1 +1,1 @@
-{'.': 1, '. Der': 1, 'im': 1, 'der »': 1, 'diesem': 1, 'trotz': 1, 'haben': 1}
+['.', '. Der', 'im', 'der »', 'diesem', 'trotz', 'haben']

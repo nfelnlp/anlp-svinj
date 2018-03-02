@@ -1,1 +1,1 @@
-{',': 1, 'Mit': 1, '.': 4, 'Erfahrungsaustausch': 1, 'war': 1, 'weitere': 1, 'und': 1, 'Längerem': 1, 'als': 1, 'die': 1, 'wo': 1, 'stellte': 1, 'auch': 1, 'Make': 1, 'inzwischen': 1, 'Friday': 1, 'an': 1}
+[',', 'Mit', '.', 'Erfahrungsaustausch', 'war', '.', 'weitere', 'und', '.', 'Längerem', 'als', 'die', '.', 'wo', 'stellte', 'auch', 'Make', 'inzwischen', 'Friday', 'an']

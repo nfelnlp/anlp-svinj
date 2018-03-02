@@ -1,1 +1,1 @@
-{'Wien': 1, 'Österreich': 1, 'Alpenrepublik': 1, 'in': 1, 'Vorgänge': 1, 'wiederholen ,': 1, ',': 1, 'seien': 1, 'möglichen': 1, 'vom': 1, 'sozialistischen Angstmache': 1, 'zu': 1, 'die': 3, 'Äußerungen': 1, 'offenbar': 1, 'gegen die': 1, 'So': 1, 'Rande': 1, 'sei': 1, 'und': 1, '„Europa': 1, 'Kickl': 1, 'einer': 1}
+['Wien', 'Österreich', 'Alpenrepublik', 'in', 'Vorgänge', 'wiederholen ,', ',', 'seien', 'möglichen', 'vom', 'sozialistischen Angstmache', 'zu', 'die', 'Äußerungen', 'offenbar', 'gegen die', 'So', 'Rande', 'die', 'sei', 'und', '„Europa', 'Kickl', 'einer', 'die']

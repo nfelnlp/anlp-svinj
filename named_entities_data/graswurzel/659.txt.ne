@@ -1,0 +1,1 @@
+[',', 'IDK', 'Alljдhrlich', '1', 'Dezember', 'dem', 'Sьdkorea', 'der', ',', 'Zeugen', 'Armenien', 'im', 'In', 'nennt', 'Verweigerer', '2010 bei', 'Militдrgefдngnis gewesen', 'Friedensaktivitдten', ':', 'die', 'von vier', 'fьr', 'Gefдngnis', 'Manning', 'zu haben', 'Ehrenliste der Gefangenen fьr den']

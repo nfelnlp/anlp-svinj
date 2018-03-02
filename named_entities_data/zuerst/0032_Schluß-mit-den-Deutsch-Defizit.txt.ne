@@ -1,1 +1,1 @@
-{'Wien': 1, 'Österreich': 1, 'ÖVP-/FPÖ-Bundesregierung': 1, 'der': 1, 'und sagte': 1, '„Die': 1, '.': 1}
+['Wien', 'Österreich', 'ÖVP-/FPÖ-Bundesregierung', 'der', 'und sagte', '„Die', '.']

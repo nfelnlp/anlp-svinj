@@ -1,1 +1,1 @@
-{'Prag': 1, 'rechtspopulistischen Partei SPD': 1, 'jetzt': 1, 'Arbeit': 1, 'dessen': 1, 'der': 1, 'konservativen': 1, 'ODS )': 1, 'Es': 1, 'Zeman zeigten': 1, 'zweiten Parlamentskammer': 1}
+['Prag', 'rechtspopulistischen Partei SPD', 'jetzt', 'Arbeit', 'dessen', 'der', 'konservativen', 'ODS )', 'Es', 'Zeman zeigten', 'zweiten Parlamentskammer']

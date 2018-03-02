@@ -1,1 +1,1 @@
-{'SELBERDENKER': 1, 'Frauke Petry': 1, 'zu': 1, 'nicht': 2, 'in': 1, 'oder': 1, 'besser': 1, 'dieser': 1, 'Differenzen': 1, 'Rolle': 1, 'Petry': 1, 'einem': 1, 'meiner': 1, 'immer': 1, 'doch': 1, ',': 1, 'bereit': 1, 'sich': 1}
+['SELBERDENKER', 'Frauke Petry', 'zu', 'nicht', 'in', 'oder', 'besser', 'dieser', 'Differenzen', 'Rolle', 'Petry', 'einem', 'meiner', 'immer', 'doch', ',', 'bereit', 'nicht', 'sich']

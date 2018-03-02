@@ -1,1 +1,1 @@
-{'und': 1, 'erschienen': 1, 'in': 1, 'gibt': 1, 'ganz alltäglichen': 1}
+['und', 'erschienen', 'in', 'gibt', 'ganz alltäglichen']

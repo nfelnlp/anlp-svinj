@@ -1,1 +1,1 @@
-{'in': 1, 'und': 1, '. all diesen Gummibärchen': 1}
+['in', 'und', '. all diesen Gummibärchen']

@@ -1,1 +1,1 @@
-{'Pforzheim': 1, 'Gauland ,': 1, 'Saal eingeheizt': 1, 'die': 1, 'im derzeitigen': 1, 'gehe': 1, 'um': 1, 'über': 1, 'jetzt': 1, 'AfD-Wahlkampf': 1, 'ist': 1, 'sagt': 1, 'linker': 1, 'aus der': 1, 'beschleunigten': 1, 'der': 1}
+['Pforzheim', 'Gauland ,', 'Saal eingeheizt', 'die', 'im derzeitigen', 'gehe', 'um', 'über', 'jetzt', 'AfD-Wahlkampf', 'ist', 'sagt', 'linker', 'aus der', 'beschleunigten', 'der']

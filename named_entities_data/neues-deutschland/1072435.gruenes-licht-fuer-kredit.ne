@@ -1,1 +1,1 @@
-{'. Die': 1, 'den': 1, 'Einigung': 1, 'Finanzminister': 1, 'EU-Kommission hatten': 1, 'bereits': 1, 'Die': 1, 'Euro': 1, 'Kapital': 1, 'Jeroen': 1, '. Damit': 1, 'eines ehemaligen': 1, 'Wahl auch': 1, 'Anerkennung': 1, 'Reformanstrengungen': 1, ',': 1, 'der': 1, 'aus': 1, 'Agenturen/nd': 1, '4': 1}
+['. Die', 'den', 'Einigung', 'Finanzminister', 'EU-Kommission hatten', 'bereits', 'Die', 'Euro', 'Kapital', 'Jeroen', '. Damit', 'eines ehemaligen', 'Wahl auch', 'Anerkennung', 'Reformanstrengungen', ',', 'der', 'aus', 'Agenturen/nd', '4']

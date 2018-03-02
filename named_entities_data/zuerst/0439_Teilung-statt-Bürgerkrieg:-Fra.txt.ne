@@ -1,1 +1,1 @@
-{'Paris': 1, 'Frankreich': 1, 'Christian de Moliner': 1, '?': 1, 'de': 1, 'anders nicht': 1, ': ein': 1, 'eine': 1, 'anderen': 1, ':': 1, '„Soumission “': 1, '.': 1}
+['Paris', 'Frankreich', 'Christian de Moliner', '?', 'de', 'anders nicht', ': ein', 'eine', 'anderen', ':', '„Soumission “', '.']

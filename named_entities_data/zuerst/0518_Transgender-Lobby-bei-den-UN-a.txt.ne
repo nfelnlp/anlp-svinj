@@ -1,1 +1,1 @@
-{'London': 1, 'Wie': 1, '“ berichtet': 1, 'den': 1, 'ein ,': 1, '.': 2, 'umfasse': 1, ', nunmehr': 1, 'muß “': 1, '’': 1, 'Transgender': 1}
+['London', 'Wie', '“ berichtet', 'den', 'ein ,', '.', 'umfasse', ', nunmehr', 'muß “', '’', '.', 'Transgender']

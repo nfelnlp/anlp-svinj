@@ -1,1 +1,1 @@
-{'Panya': 1, 'Magdeburg': 1, 'Sachsen-Anhalt haben im': 1, 'bis': 1, 'sagte .': 1, 'sich': 1, 'hätten schließen': 1, 'Anlagen wie': 1, 'über': 1, 'Im Vorjahr wurden': 1, 'allem': 1, 'besonders': 1, 'die': 2, 'Vogelvoliere': 1}
+['Panya', 'Magdeburg', 'Sachsen-Anhalt haben im', 'bis', 'sagte .', 'sich', 'hätten schließen', 'Anlagen wie', 'über', 'Im Vorjahr wurden', 'allem', 'besonders', 'die', 'Vogelvoliere', 'die']

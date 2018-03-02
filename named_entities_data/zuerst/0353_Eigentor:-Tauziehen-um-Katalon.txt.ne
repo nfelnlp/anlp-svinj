@@ -1,1 +1,1 @@
-{'Madrid': 2, 'Spanien': 3, 'Katalonien': 4, 'spanische': 1, 'Luis de Guindos': 1}
+['Madrid', 'Spanien', 'Katalonien', 'Spanien', 'spanische', 'Luis de Guindos', 'Katalonien', 'Madrid', 'Spanien', 'Katalonien', 'Katalonien']

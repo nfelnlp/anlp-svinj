@@ -1,1 +1,1 @@
-{'abgeschlossen': 1, 'des': 1}
+['abgeschlossen', 'des']

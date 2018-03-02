@@ -1,1 +1,1 @@
-{'Straßburg': 1, 'Theaterdonner': 1, 'polnische': 1, 'Janusz Korwin-Mikke': 1, 'für eine': 1, '„Natürlich': 1, 'seit': 1, 'Wochen': 1, 'ist ,': 1, 'keinen': 1, 'Polen': 1, 'mit den': 1, 'Korwin-Mikke': 1, 'Applaus': 1}
+['Straßburg', 'Theaterdonner', 'polnische', 'Janusz Korwin-Mikke', 'für eine', '„Natürlich', 'seit', 'Wochen', 'ist ,', 'keinen', 'Polen', 'mit den', 'Korwin-Mikke', 'Applaus']

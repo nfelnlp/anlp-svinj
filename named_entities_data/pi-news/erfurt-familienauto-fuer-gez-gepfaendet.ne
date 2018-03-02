@@ -1,1 +1,1 @@
-{'INXI': 1, 'Daniel Thielemann': 1, 'Erfurt': 1, 'Mazda': 1, 'GEZ': 1, 'das': 1, 'in': 1, 'Mio': 1, ',': 1, 'aller': 1, 'weiterhin ihr': 1, 'treiben und': 1, 'geht': 1, 'Anstalten des': 1, 'bezahlen': 1, 'transportieren': 1, 'Wahrheiten': 1, 'so': 1, 'Slogan': 1, 'wie': 1, '.': 1, 'darum': 1, '!': 1, 'soll': 1, 'muß': 1}
+['INXI', 'Daniel Thielemann', 'Erfurt', 'Mazda', 'GEZ', 'das', 'in', 'Mio', ',', 'aller', 'weiterhin ihr', 'treiben und', 'geht', 'Anstalten des', 'bezahlen', 'transportieren', 'Wahrheiten', 'so', 'Slogan', 'wie', '.', 'darum', '!', 'soll', 'muß']

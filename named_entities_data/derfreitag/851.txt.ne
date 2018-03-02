@@ -1,1 +1,1 @@
-{'Immer': 1, 'tauchen': 1, 'der': 1, 'Auch': 1, 'des': 1, 'dem': 1, 'Analyse': 1, ',': 1}
+['Immer', 'tauchen', 'der', 'Auch', 'des', 'dem', 'Analyse', ',']

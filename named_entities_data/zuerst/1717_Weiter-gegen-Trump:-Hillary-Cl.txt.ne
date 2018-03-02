@@ -1,1 +1,1 @@
-{'Washington': 1, 'Macron': 1, 'ÖVP-Spitzenkandidaten': 1, 'hat': 1, 'Hillary': 1, 'eigene Bewegung aus': 1, 'politischen': 1, 'konkret': 1, 'Botschaft': 1, 'Zeit': 1, 'in': 1, 'George': 1, 'kämpfen oder Demokraten': 1, 'Left ,': 1, 'was': 1, ',': 1}
+['Washington', 'Macron', 'ÖVP-Spitzenkandidaten', 'hat', 'Hillary', 'eigene Bewegung aus', 'politischen', 'konkret', 'Botschaft', 'Zeit', 'in', 'George', 'kämpfen oder Demokraten', 'Left ,', 'was', ',']

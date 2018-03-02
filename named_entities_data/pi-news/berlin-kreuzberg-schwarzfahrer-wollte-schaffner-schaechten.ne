@@ -1,1 +1,1 @@
-{'voneinander': 1, '1': 1, '„mutmaßlicher Schwarzfahrender “': 1, 'Regionalexpress': 1, 'Mittwoch': 1, '27 ) in': 1, '.': 2, 'Beteiligten': 1, 'und': 2, 'das': 1, 'weiteren': 1, 'Top-Spitzenreiter': 1, 'Berlin': 1, 'der': 1, 'kostenlos': 1, 'Hände': 1, 'an , dass': 1, ',': 1, 'entkommen': 1, 'Schlägerei': 1}
+['voneinander', '1', '„mutmaßlicher Schwarzfahrender “', 'Regionalexpress', 'Mittwoch', '27 ) in', '.', 'Beteiligten', 'und', 'das', 'weiteren', 'Top-Spitzenreiter', 'Berlin', 'der', '.', 'kostenlos', 'Hände', 'an , dass', ',', 'entkommen', 'und', 'Schlägerei']

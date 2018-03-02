@@ -1,1 +1,1 @@
-{'über die': 1, 'vor': 1, 'keine': 1, 'die': 1, 'bezweifle': 1, 'Einflußnahme': 1, 'daß': 2, 'angezeigt': 1, 'den Vergewaltigungsfällen': 1, 'Berliner': 1, 'festhält': 1, '. September 2015': 1, 'AfD': 1, 'Kotré': 1, 'Wirtschaft': 1, 'dem': 1, 'ab': 1, 'er': 2, 'bei': 1, '2013': 1, 'Länger im': 1, '(': 1, 'immer': 1}
+['über die', 'vor', 'keine', 'die', 'bezweifle', 'Einflußnahme', 'daß', 'daß', 'angezeigt', 'den Vergewaltigungsfällen', 'Berliner', 'festhält', '. September 2015', 'AfD', 'Kotré', 'Wirtschaft', 'dem', 'ab', 'er', 'bei', '2013', 'er', 'Länger im', '(', 'immer']

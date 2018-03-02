@@ -1,1 +1,1 @@
-{'. 2017': 1, '(': 1, 'für': 2, 'schwieriges Jahr .': 1, 'es': 1, 'im': 1, 'Ernte-': 1, 'die': 2, 'Milchviehhalter seit 2014': 1, 'in': 1, 'zum': 1, 'der Hälfte der': 1, '.': 1, 'Herde': 1}
+['. 2017', '(', 'für', 'schwieriges Jahr .', 'es', 'im', 'Ernte-', 'die', 'Milchviehhalter seit 2014', 'die', 'in', 'zum', 'der Hälfte der', '.', 'für', 'Herde']

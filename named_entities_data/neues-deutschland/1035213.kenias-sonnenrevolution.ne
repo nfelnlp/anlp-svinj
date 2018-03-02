@@ -1,1 +1,1 @@
-{'Annan': 1, 'dass die': 1, 'gegenüber dem': 1, '.': 2, '» Die': 1, 'bei': 1, 'einmal': 1, 'Afrika': 1, 'für': 1, 'scheint': 1, 'Eine': 1, 'neue': 1, 'gekoppelt': 1, 'Adnan Z.': 1, 'Kenianer alles über ihr': 1, 'die': 1, 'Haushalte': 1, 'der Energiemärkte': 1, 'African Business': 1}
+['Annan', 'dass die', 'gegenüber dem', '.', '» Die', 'bei', 'einmal', 'Afrika', 'für', '.', 'scheint', 'Eine', 'neue', 'gekoppelt', 'Adnan Z.', 'Kenianer alles über ihr', 'die', 'Haushalte', 'der Energiemärkte', 'African Business']

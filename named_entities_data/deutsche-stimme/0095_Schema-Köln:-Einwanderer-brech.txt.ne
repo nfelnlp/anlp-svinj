@@ -1,0 +1,1 @@
+['Köln', 'Bundespolizei', 'Volker Stall', 'Bundespolizei', 'NRW', '„Kleingruppen', 'Stunde', 'ein', 'wegen']

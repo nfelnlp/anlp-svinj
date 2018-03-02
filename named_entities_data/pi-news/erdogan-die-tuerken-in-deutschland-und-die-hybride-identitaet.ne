@@ -1,1 +1,1 @@
-{'Deutschland': 1, 'Europa': 1, 'Türkei': 1, 'Peter M. Messer': 1, 'lebenden': 1, 'von': 1, 'Italy': 1, 'Das': 1, '„Diversity': 1, 'hier': 1, 'kommen': 1, 'nicht': 1, ',': 1, 'Ursprungsland zurück': 1, 'klar': 1, 'die': 1, 'zu': 1, 'werden': 1, '.': 1, 'nur': 1, 'einer': 1, 'Identität': 1, 'München dafür': 1}
+['Deutschland', 'Europa', 'Türkei', 'Peter M. Messer', 'lebenden', 'von', 'Italy', 'Das', '„Diversity', 'hier', 'kommen', 'nicht', ',', 'Ursprungsland zurück', 'klar', 'die', 'zu', 'werden', '.', 'nur', 'einer', 'Identität', 'München dafür']

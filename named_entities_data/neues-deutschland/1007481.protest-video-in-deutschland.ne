@@ -1,1 +1,1 @@
-{'gab es': 1, '2004': 1, '»': 3, '» Freundeskreis': 1, 'eine': 1, 'und': 1, 'aus': 2, '«': 1, 'Die': 1, '.': 1, 'Leftvision «': 1}
+['gab es', '2004', '»', '» Freundeskreis', 'eine', '»', 'und', 'aus', '»', '«', 'Die', 'aus', '.', 'Leftvision «']

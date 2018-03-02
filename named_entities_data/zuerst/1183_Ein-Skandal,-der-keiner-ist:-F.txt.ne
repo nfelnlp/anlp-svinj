@@ -1,1 +1,1 @@
-{'Wien': 1, 'FPÖ-Nationalrats-': 1, 'der nach': 1, 'sorgt': 1, 'Situation': 1, 'zu': 1, '“': 1, 'jene': 1, '”': 1, 'kommen .': 1, 'früheren': 1, ':': 1, 'immerhin': 1}
+['Wien', 'FPÖ-Nationalrats-', 'der nach', 'sorgt', 'Situation', 'zu', '“', 'jene', '”', 'kommen .', 'früheren', ':', 'immerhin']

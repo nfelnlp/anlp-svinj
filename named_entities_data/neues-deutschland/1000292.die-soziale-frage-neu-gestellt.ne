@@ -1,1 +1,1 @@
-{'Sebastian Bähr': 1, 'März': 1, 'das': 1, 'Botschaft :': 1, 'Herz': 1, 'und': 1, 'Die Aufbruchsstimmun': 1}
+['Sebastian Bähr', 'März', 'das', 'Botschaft :', 'Herz', 'und', 'Die Aufbruchsstimmun']

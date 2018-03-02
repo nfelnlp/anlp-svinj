@@ -1,1 +1,1 @@
-{'Stefan': 1, ',': 4, '–': 1, '.': 2, 'Clark 1914': 1, 'er': 1, 'an': 1, 'Brecht in': 1, 'über': 1, 'am': 1, 'Luther war': 1, 'sitzt': 1, 'Ist': 1, 'Houellebecq in': 1, 'also': 1}
+['Stefan', ',', '–', ',', '.', 'Clark 1914', 'er', '.', 'an', ',', 'Brecht in', ',', 'über', 'am', 'Luther war', 'sitzt', 'Ist', 'Houellebecq in', 'also']

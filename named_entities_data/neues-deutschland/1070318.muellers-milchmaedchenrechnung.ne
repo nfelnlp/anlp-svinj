@@ -1,1 +1,1 @@
-{'die': 2, '( CSU': 1, 'beim': 1, ',': 1, 'Medienpulk': 1, '.': 1, 'zugerufen': 1}
+['die', '( CSU', 'beim', ',', 'Medienpulk', '.', 'die', 'zugerufen']

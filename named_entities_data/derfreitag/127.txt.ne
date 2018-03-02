@@ -1,1 +1,1 @@
-{'It': 1, 'von Angel': 1, 'Angel Haze': 1, 'Eminems': 1, 'zur': 1, '. Die': 1, ',': 1, 'sie': 1, 'wer': 1, 'für': 1, 'auszublenden': 1, 'So geht': 1, 'Haze': 1, 'Haze „Dirty': 1}
+['It', 'von Angel', 'Angel Haze', 'Eminems', 'zur', '. Die', ',', 'sie', 'wer', 'für', 'auszublenden', 'So geht', 'Haze', 'Haze „Dirty']

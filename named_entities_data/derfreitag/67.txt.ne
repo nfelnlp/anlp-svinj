@@ -1,1 +1,1 @@
-{'Hörproben': 1, 'Martin Tingvall': 1}
+['Hörproben', 'Martin Tingvall']

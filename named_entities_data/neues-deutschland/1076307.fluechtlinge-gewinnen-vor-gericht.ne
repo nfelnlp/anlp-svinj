@@ -1,1 +1,1 @@
-{'.': 1, '. Flüchtlinge': 1, 'der': 1, '( LINKE': 1, ',': 1}
+['.', '. Flüchtlinge', 'der', '( LINKE', ',']

@@ -1,1 +1,1 @@
-{'Chips': 1, 'und': 1}
+['Chips', 'und']

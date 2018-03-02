@@ -1,1 +1,1 @@
-{'Ole Spitzer': 1, 'ver.di': 1, 'Die': 1, 'Beobachter': 1, 'offizieller': 1, 'wir': 1}
+['Ole Spitzer', 'ver.di', 'Die', 'Beobachter', 'offizieller', 'wir']

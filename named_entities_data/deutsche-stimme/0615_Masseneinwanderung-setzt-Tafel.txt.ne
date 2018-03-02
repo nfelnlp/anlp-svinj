@@ -1,0 +1,1 @@
+['es', 'Bedürftigen', 'Aufnahmestopps', '.', 'wird', 'Tafeln Steppuhn „Asylbewerber', 'und', 'zunehmend', 'dieser Situation .', 'der', 'weiß', 'so', ')', 'Platz', '5', 'üppigen']

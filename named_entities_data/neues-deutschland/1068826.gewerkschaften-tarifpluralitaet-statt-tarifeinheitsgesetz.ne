@@ -1,1 +1,1 @@
-{'Dienstleistungsgewerkschaft': 1, 'die': 3, '(': 1, 'gegeneinander': 1, '. Hintergrund': 1, 'angestrebten': 1, 'Marburger': 1, 'Verfassungsbeschwerde': 1, 'Juli': 1, 'in': 2, 'so': 1, 'sei': 1, 'ver.di den': 1, '.': 1, 'Freitag': 1, 'eine': 1, 'auch': 1, 'gemacht': 1, 'Einführung': 1}
+['Dienstleistungsgewerkschaft', 'die', '(', 'gegeneinander', '. Hintergrund', 'angestrebten', 'Marburger', 'Verfassungsbeschwerde', 'Juli', 'in', 'so', 'sei', 'ver.di den', '.', 'die', 'Freitag', 'eine', 'auch', 'gemacht', 'Einführung', 'die', 'in']

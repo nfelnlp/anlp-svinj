@@ -1,1 +1,1 @@
-{'(': 2, 'Strukturen': 1, 'Research': 1, 'rund um': 1, 'Laut': 1, 'Bevan': 1, 'CAR ,': 1, 'die': 1, 'in': 2, 'Zuliefererkette': 1, 'heißt': 1, 'Standards': 1}
+['(', 'Strukturen', 'Research', '(', 'rund um', 'Laut', 'Bevan', 'CAR ,', 'die', 'in', 'Zuliefererkette', 'heißt', 'in', 'Standards']

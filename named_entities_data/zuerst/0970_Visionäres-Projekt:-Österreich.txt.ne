@@ -1,1 +1,1 @@
-{'Wien': 1, 'Jörg Leichtfried': 1, 'SPD': 1, 'Österreich': 2, 'Kaschau': 1, 'China': 1, 'Slowakei': 2, 'Preßburg': 1, '–': 1, 'Leichtfried': 1, 'für': 1, 'gelte': 1, 'erklärte': 1, 'Minister': 1, 'ob': 1}
+['Wien', 'Jörg Leichtfried', 'SPD', 'Österreich', 'Kaschau', 'China', 'Slowakei', 'Österreich', 'Preßburg', '–', 'Slowakei', 'Leichtfried', 'für', 'gelte', 'erklärte', 'Minister', 'ob']

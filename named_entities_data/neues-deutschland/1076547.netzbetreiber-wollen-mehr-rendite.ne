@@ -1,1 +1,1 @@
-{'Wesel': 1, 'Nordrhein-Westfalen ) Vor': 1, 'seit': 1, 'Zahlen': 1, 'am': 1, 'Kürzungen für': 1, 'Verhandlung': 1, ') .': 1, 'mehr': 1, 'Zum': 1, 'Die Zinssätze': 1, 'kam zu': 1, '.': 1, 'Entscheidung': 1, 'Netzentgelte den': 1}
+['Wesel', 'Nordrhein-Westfalen ) Vor', 'seit', 'Zahlen', 'am', 'Kürzungen für', 'Verhandlung', ') .', 'mehr', 'Zum', 'Die Zinssätze', 'kam zu', '.', 'Entscheidung', 'Netzentgelte den']

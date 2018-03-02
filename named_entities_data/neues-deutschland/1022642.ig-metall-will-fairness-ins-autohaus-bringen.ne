@@ -1,1 +1,1 @@
-{'Schleswig-Holsteins Kfz-Betrieben arbeiten': 1, 'Schleswig-Holsteins Kfz-Betrieben arbeiten tarifgebunden': 1, 'Fair Trade': 1, 'in': 1, 'Mittlerweile': 1, ',': 1, 'Partner': 1, 'Leben gerufen': 1, 'nun': 1, 'zunehmend bewussteren Kauf-': 1, ', dass': 1}
+['Schleswig-Holsteins Kfz-Betrieben arbeiten', 'Schleswig-Holsteins Kfz-Betrieben arbeiten tarifgebunden', 'Fair Trade', 'in', 'Mittlerweile', ',', 'Partner', 'Leben gerufen', 'nun', 'zunehmend bewussteren Kauf-', ', dass']

@@ -1,1 +1,1 @@
-{'.': 1, '. Hochwasser': 1, 'nach': 1, 'Pegel': 1, 'St.': 1, '120 Menschen mussten': 1, 'Hochwassers': 1, 'am': 1, 'Maxau': 1, 'nordrhein-westfälischen': 1, 'trieben': 1, 'Behörden am Freitag ihre': 1}
+['.', '. Hochwasser', 'nach', 'Pegel', 'St.', '120 Menschen mussten', 'Hochwassers', 'am', 'Maxau', 'nordrhein-westfälischen', 'trieben', 'Behörden am Freitag ihre']

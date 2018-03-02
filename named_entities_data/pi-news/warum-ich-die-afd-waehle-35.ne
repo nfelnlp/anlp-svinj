@@ -1,1 +1,1 @@
-{'DIPL.PÄD': 1, 'Vulnerabilität': 1, 'Bindungsforschung': 1, 'lernwillig': 1, 'unverzichtbar zur': 1, 'eben diesen': 1, ',': 3, 'leidet': 1, 'eher': 1, 'dies': 1, 'der': 1, ', ohne': 1}
+['DIPL.PÄD', 'Vulnerabilität', 'Bindungsforschung', 'lernwillig', 'unverzichtbar zur', 'eben diesen', ',', 'leidet', 'eher', ',', ',', 'dies', 'der', ', ohne']

@@ -1,1 +1,1 @@
-{'London': 1, 'Duke hat jetzt': 1, 'die Ministerin': 1, ',': 1, 'vor': 1, 'daß': 1, '.': 1, 'britischen': 1, 'für': 1, 'Bedrohung': 1, 'ein': 1, 'Luft': 1}
+['London', 'Duke hat jetzt', 'die Ministerin', ',', 'vor', 'daß', '.', 'britischen', 'für', 'Bedrohung', 'ein', 'Luft']

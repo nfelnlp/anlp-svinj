@@ -1,1 +1,1 @@
-{'C. JAHN |': 1, '–': 1, 'durch': 1, 'ekelhafte': 1, 'mit': 1, 'Szene': 1, 'die': 1, ', Hunderttausende': 1, 'zu': 1, 'Gewaltexzessen in': 1, 'seinem': 1, 'wie die': 1, 'sich keine': 1, 'waren': 1, 'muss nicht': 1, 'auf': 1, 'sieht': 1}
+['C. JAHN |', '–', 'durch', 'ekelhafte', 'mit', 'Szene', 'die', ', Hunderttausende', 'zu', 'Gewaltexzessen in', 'seinem', 'wie die', 'sich keine', 'waren', 'muss nicht', 'auf', 'sieht']

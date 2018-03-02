@@ -1,1 +1,1 @@
-{'Berlin': 1, 'schlägt': 1, 'jetzt': 1, 'Müller (': 1, ')': 1, 'Flüchtlinge.': 1, 'in diesem': 1, 'die': 2, 'Fällen': 1, 'Mehrfachregistrierung': 1, '“': 1, 'Auch': 1, 'und': 2, '„Die': 1}
+['Berlin', 'schlägt', 'jetzt', 'Müller (', ')', 'Flüchtlinge.', 'in diesem', 'die', 'Fällen', 'Mehrfachregistrierung', '“', 'Auch', 'die', 'und', '„Die', 'und']

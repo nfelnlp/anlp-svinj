@@ -1,1 +1,1 @@
-{'Spezialität .': 1, 'Oma': 1, 'Nun': 1, 'Punk war immer': 1, 'Go': 1, '“': 1, 'dass': 1, 'dessen': 1, 'Dieser Artikel': 1, 'Beat': 1, 'Mense': 1, 'Zäune': 1, 'wissen': 1, ',': 1, ':': 1, 'Osaka': 1, 'sie': 1, 'Tage': 1}
+['Spezialität .', 'Oma', 'Nun', 'Punk war immer', 'Go', '“', 'dass', 'dessen', 'Dieser Artikel', 'Beat', 'Mense', 'Zäune', 'wissen', ',', ':', 'Osaka', 'sie', 'Tage']

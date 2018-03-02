@@ -1,1 +1,1 @@
-{'Ergo': 1, 'Allianz': 1, 'Hochwasser': 1, 'in': 2, 'jedes': 1, 'ab': 1, 'entfernt': 1, 'die': 1, 'Baustein': 1, 'beim Gipfel': 1, '-': 1, '. Im': 1, 'böten': 1, 'Axa': 1, 'soll': 1, 'Dadurch': 1, '.': 1, '«': 1, 'Ostafrika': 1, 'Versicherungsauszahlungen': 1, 'unterstützt': 1, 'gerettet': 1}
+['Ergo', 'Allianz', 'Hochwasser', 'in', 'jedes', 'ab', 'entfernt', 'die', 'Baustein', 'beim Gipfel', '-', '. Im', 'böten', 'Axa', 'in', 'soll', 'Dadurch', '.', '«', 'Ostafrika', 'Versicherungsauszahlungen', 'unterstützt', 'gerettet']

@@ -1,1 +1,1 @@
-{'USA': 1, 'Barack Obama': 1, 'US-Army aktiv waren': 1, 'Österreich': 1, 'der': 1, 'sie': 1, 'Command . Demnach': 1, 'Schweden': 1, 'Brisant': 1, 'auch': 1, 'daß': 1, 'das': 1, 'Provinz': 1, 'Karte': 1, 'US-Spezialkräfte': 1, 'aufbereitet': 1, '„kill': 1, 'neue US-Präsident': 1, 'angekündigt': 1, '(': 1}
+['USA', 'Barack Obama', 'US-Army aktiv waren', 'Österreich', 'der', 'sie', 'Command . Demnach', 'Schweden', 'Brisant', 'auch', 'daß', 'das', 'Provinz', 'Karte', 'US-Spezialkräfte', 'aufbereitet', '„kill', 'neue US-Präsident', 'angekündigt', '(']

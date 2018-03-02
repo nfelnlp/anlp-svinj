@@ -1,1 +1,1 @@
-{'New': 1, 'New York': 1, 'macht auf': 1, 'kritisierte': 1, '“': 1, 'im': 1, 'Diese': 1, 'die Demokratische': 1, 'Hillary': 1, 'nicht und': 1, 'dem': 1, 'im Weißen': 1, 'Trump': 1, 'mit': 1}
+['New', 'New York', 'macht auf', 'kritisierte', '“', 'im', 'Diese', 'die Demokratische', 'Hillary', 'nicht und', 'dem', 'im Weißen', 'Trump', 'mit']

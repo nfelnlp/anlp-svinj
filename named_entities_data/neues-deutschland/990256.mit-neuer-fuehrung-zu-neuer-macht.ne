@@ -1,1 +1,1 @@
-{'Ryanair': 1, 'Andreas Knudsen': 1, 'Kopenhagen': 1, 'Rahmentarifverträgen': 1, 'wurde erstmals': 1}
+['Ryanair', 'Andreas Knudsen', 'Kopenhagen', 'Rahmentarifverträgen', 'wurde erstmals']

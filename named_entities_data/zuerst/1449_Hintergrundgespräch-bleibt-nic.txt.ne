@@ -1,1 +1,1 @@
-{'Wien': 1, 'Österreich': 1, '-Debatte': 1, '( SPÖ': 1, 'hatte': 1, 'zahlreichen': 1, 'sagte': 1, 'selbst': 1, '„Sterben': 1}
+['Wien', 'Österreich', '-Debatte', '( SPÖ', 'hatte', 'zahlreichen', 'sagte', 'selbst', '„Sterben']

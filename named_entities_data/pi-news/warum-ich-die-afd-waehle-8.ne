@@ -1,1 +1,1 @@
-{'Viele': 1, 'von': 1, 'die': 1, 'Wie': 1, 'verraten': 1, 'Nettosteuerzahler': 1, 'ich': 2, 'verteilen': 1, '.': 1, 'einer': 1, 'und': 1, 'eine': 1, 'gibt': 1, 'Amt': 1}
+['Viele', 'von', 'die', 'Wie', 'verraten', 'Nettosteuerzahler', 'ich', 'ich', 'verteilen', '.', 'einer', 'und', 'eine', 'gibt', 'Amt']

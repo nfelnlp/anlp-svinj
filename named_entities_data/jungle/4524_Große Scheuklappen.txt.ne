@@ -1,1 +1,1 @@
-{'moritz hoffmann': 1, 'Jonas Fedders': 1, 'auf': 1, 'einem': 1, 'Hund « belegen will': 1, 'Lothar Baier': 1, 'Eike Geisel': 1, 'in den': 1, 'Religion': 1, 'zurückzunehmen': 1, 'Ebendies': 1, 'Fedders': 1, 'von Heidenau': 1, '.': 1, 'ist': 1, 'der': 1, 'deutschen': 1, 'hinweisen': 1, 'zu': 1, '. Dabei geht es': 1}
+['moritz hoffmann', 'Jonas Fedders', 'auf', 'einem', 'Hund « belegen will', 'Lothar Baier', 'Eike Geisel', 'in den', 'Religion', 'zurückzunehmen', 'Ebendies', 'Fedders', 'von Heidenau', '.', 'ist', 'der', 'deutschen', 'hinweisen', 'zu', '. Dabei geht es']

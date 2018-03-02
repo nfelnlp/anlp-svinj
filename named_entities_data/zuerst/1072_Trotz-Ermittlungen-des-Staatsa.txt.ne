@@ -1,1 +1,1 @@
-{'Trapani': 1, 'Rettet': 2, 'ermittelt': 1, 'Italien': 1, '.': 1, 'Vorwurfs': 1, 'Begünstigung': 1, 'aus': 1, 'daß': 1, 'der 40': 1, 'Matteo': 1, 'denen eine': 1}
+['Trapani', 'Rettet', 'ermittelt', 'Italien', '.', 'Rettet', 'Vorwurfs', 'Begünstigung', 'aus', 'daß', 'der 40', 'Matteo', 'denen eine']

@@ -1,1 +1,1 @@
-{'Washington': 1, 'weiter': 1, 'abhängig': 1, 'würde': 1, 'prompt': 1, 'verstärkte': 1, 'außerdem': 1, 'El': 1, 'und Honduras': 1, 'Trumps': 1, 'worden': 1, 'hatte dieser': 1, 'per': 1, 'hingegen': 1, 'in den': 1}
+['Washington', 'weiter', 'abhängig', 'würde', 'prompt', 'verstärkte', 'außerdem', 'El', 'und Honduras', 'Trumps', 'worden', 'hatte dieser', 'per', 'hingegen', 'in den']

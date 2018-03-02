@@ -1,1 +1,1 @@
-{'Gesellschaft 2': 1, 'Gesellschaft 2 Potsdam': 1, '„Wunderschön': 1, 'Thomas': 1, 'wenn einer': 1, 'twitterte Goede': 1, 'einer': 1, 'geschossen': 1, 'kandidiert': 1, 'Ersatzrichter': 1, 'er': 1, 'Ein': 1, 'einem': 1, '“': 1, '„Viele': 1}
+['Gesellschaft 2', 'Gesellschaft 2 Potsdam', '„Wunderschön', 'Thomas', 'wenn einer', 'twitterte Goede', 'einer', 'geschossen', 'kandidiert', 'Ersatzrichter', 'er', 'Ein', 'einem', '“', '„Viele']

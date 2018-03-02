@@ -1,1 +1,1 @@
-{'Ankara': 2, 'kehrt': 1, 'endgültig': 1, 'in': 1, 'die er': 1, 'sei': 1, 'Lakai': 1, 'solange': 1, 'mit': 1, 'und': 1, 'Juli': 1, 'Jahrhundert': 1, 'auf': 1, '(': 1}
+['Ankara', 'Ankara', 'kehrt', 'endgültig', 'in', 'die er', 'sei', 'Lakai', 'solange', 'mit', 'und', 'Juli', 'Jahrhundert', 'auf', '(']

@@ -1,1 +1,1 @@
-{'erhielt als': 1, 'Der': 1, 'im': 1, 'Reusch': 1, 'Rennen zu': 1, 'Wenn': 1, 'Unions-Abgeordneten': 1, 'und': 1, '( beide': 1, ') sowie': 1, 'SPD-Parlamentarier Uli': 1, 'und Burkhard': 1, 'das': 1, 'Stephan': 1, 'FDP )': 1, 'André Hahn': 1, 'von Notz': 1, 'Grüne': 1, 'die erforderliche': 1, '.': 1}
+['erhielt als', 'Der', 'im', 'Reusch', 'Rennen zu', 'Wenn', 'Unions-Abgeordneten', 'und', '( beide', ') sowie', 'SPD-Parlamentarier Uli', 'und Burkhard', 'das', 'Stephan', 'FDP )', 'André Hahn', 'von Notz', 'Grüne', 'die erforderliche', '.']

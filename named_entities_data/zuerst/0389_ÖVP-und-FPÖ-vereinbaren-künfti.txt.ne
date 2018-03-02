@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Wien': 1, 'Österreich': 1, 'FPÖ': 1, 'im': 1, 'gefeiert': 1, 'in': 1, 'Volksschulen': 1, 'Erlässe': 1}
+['Gesellschaft', 'Wien', 'Österreich', 'FPÖ', 'im', 'gefeiert', 'in', 'Volksschulen', 'Erlässe']

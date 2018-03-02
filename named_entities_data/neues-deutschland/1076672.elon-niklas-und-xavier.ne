@@ -1,1 +1,1 @@
-{',': 2, 'fordert': 1, 'Österreich': 1, 'der': 2, 'Meteorologen': 1, 'von': 1, 'richten im': 1, '»': 1, '«': 1, 'Bilanz : Schäden': 1, '.': 2, 'Dezember': 1, 'über': 2, 'ohne': 1, 'im Oktober': 1, 'Mindestens': 1, 'Menschen': 1, 'Europa': 1, 'bundesweit': 1, 'im': 2, 'knapp': 1}
+[',', 'fordert', 'Österreich', 'der', 'Meteorologen', 'von', 'richten im', '»', '«', 'Bilanz : Schäden', '.', 'Dezember', 'über', 'ohne', 'im Oktober', 'über', 'Mindestens', 'Menschen', '.', 'Europa', 'bundesweit', 'im', 'knapp', ',', 'im', 'der']

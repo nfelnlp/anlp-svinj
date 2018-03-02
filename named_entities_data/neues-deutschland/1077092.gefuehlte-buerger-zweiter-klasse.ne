@@ -1,1 +1,1 @@
-{'. Zwei': 1, 'die': 1, 'Jahrzehnte': 1, 'in': 1, 'heute': 1, 'Bürger': 1, 'Hochschul-': 1, 'der Universität': 1, 'in den': 1, 'anderen': 1, 'der': 1}
+['. Zwei', 'die', 'Jahrzehnte', 'in', 'heute', 'Bürger', 'Hochschul-', 'der Universität', 'in den', 'anderen', 'der']

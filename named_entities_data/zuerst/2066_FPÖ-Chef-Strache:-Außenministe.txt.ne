@@ -1,1 +1,1 @@
-{'Wien': 1, 'FPÖ': 1, 'Außenminister': 1, 'wurde ,': 1, 'überraschend –': 1, 'ging': 1, 'Kernanliegen': 1, 'Jahren': 1, 'der': 4, '“': 1, 'offenbar': 1, 'erklären': 1, 'ablehnte': 1, 'und': 1, ',': 1, 'Koalition': 1, 'dumm': 1, 'sich': 1, 'sich aufmerksam': 1, 'inhaltlich': 1, 'durch seine': 1, '(': 1}
+['Wien', 'FPÖ', 'Außenminister', 'wurde ,', 'überraschend –', 'ging', 'Kernanliegen', 'Jahren', 'der', '“', 'offenbar', 'erklären', 'ablehnte', 'der', 'und', ',', 'Koalition', 'dumm', 'der', 'sich', 'sich aufmerksam', 'inhaltlich', 'der', 'durch seine', '(']

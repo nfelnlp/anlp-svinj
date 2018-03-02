@@ -1,1 +1,1 @@
-{'Selbstredend': 1, 'Zerstörung': 1, 'Volkspartei': 1, 'als auch': 1, 'OB': 1, 'nicht': 1, 'zeigt': 1, 'oft': 1, 'müssen': 1, 'alte': 1, '–': 1, '.': 1}
+['Selbstredend', 'Zerstörung', 'Volkspartei', 'als auch', 'OB', 'nicht', 'zeigt', 'oft', 'müssen', 'alte', '–', '.']

@@ -1,1 +1,1 @@
-{'Wien': 2, 'Bundesrepublik Deutschland': 1, 'Österreich': 2, 'österreichischen': 1, 'Brüssel': 1}
+['Wien', 'Bundesrepublik Deutschland', 'Österreich', 'Wien', 'österreichischen', 'Brüssel', 'Österreich']

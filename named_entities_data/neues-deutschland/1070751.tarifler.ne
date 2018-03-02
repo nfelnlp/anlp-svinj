@@ -1,1 +1,1 @@
-{'Vorstandsmitglieder': 1, 'am': 1, 'Dann': 1, 'Ulrich': 1, 'verloren auf': 1, 'der': 2, 'in': 1, '1979': 1, 'er seit 2003': 1, 'hatte': 1, 'Ein Ende': 1, 'seiner': 1, 'Tarifler «': 1, 'die': 1}
+['Vorstandsmitglieder', 'am', 'Dann', 'Ulrich', 'verloren auf', 'der', 'der', 'in', '1979', 'er seit 2003', 'hatte', 'Ein Ende', 'seiner', 'Tarifler «', 'die']

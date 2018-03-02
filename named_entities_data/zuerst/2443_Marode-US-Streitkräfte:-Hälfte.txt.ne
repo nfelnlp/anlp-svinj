@@ -1,1 +1,1 @@
-{'Washington': 1, 'amerikanischen': 1, 'viel Geld': 1, '“ zufolge': 1, 'Boden': 1, 'die F/A-18 . Das': 1, 'Willam': 1, ', überbeansprucht': 1, 'besetzt': 1, ', die': 1, 'es': 1, 'wieder 355 Schiffseinheiten': 1, '. Auch': 1}
+['Washington', 'amerikanischen', 'viel Geld', '“ zufolge', 'Boden', 'die F/A-18 . Das', 'Willam', ', überbeansprucht', 'besetzt', ', die', 'es', 'wieder 355 Schiffseinheiten', '. Auch']

@@ -1,1 +1,1 @@
-{':': 1, 'Montanmitbestimmungsgesetz': 1, 'und': 1}
+[':', 'Montanmitbestimmungsgesetz', 'und']

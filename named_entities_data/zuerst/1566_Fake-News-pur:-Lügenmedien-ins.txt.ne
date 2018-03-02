@@ -1,1 +1,1 @@
-{'–': 1, 'glatte': 1, 'schon': 1, 'der': 1, 'eine': 1, ',': 2, 'noch': 1, 'US-Sender': 1}
+['–', 'glatte', 'schon', 'der', 'eine', ',', ',', 'noch', 'US-Sender']

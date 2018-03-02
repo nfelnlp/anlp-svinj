@@ -1,1 +1,1 @@
-{'Kreis': 1, 'Seenplatte ) kommt': 1, 'von der': 1, 'der': 1, 'Auf': 1, 'sollen': 1, 'Verfügung': 1, '.': 2, 'zwei': 1, 'hier': 1, 'ein': 1, 'getroffen': 1, 'werde': 1, 'zum': 1, 'Bau': 1, '155': 1, 'Groß Warnow .': 1, 'mit': 1, 'Bau eines': 1, 'bei Colbitz begonnen': 1, 'Teilstück': 1, 'hatte': 1}
+['Kreis', 'Seenplatte ) kommt', 'von der', 'der', 'Auf', 'sollen', 'Verfügung', '.', 'zwei', 'hier', 'ein', 'getroffen', '.', 'werde', 'zum', 'Bau', '155', 'Groß Warnow .', 'mit', 'Bau eines', 'bei Colbitz begonnen', 'Teilstück', 'hatte']

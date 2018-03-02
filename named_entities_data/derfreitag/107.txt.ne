@@ -1,1 +1,1 @@
-{'Linksextremisten sind gewalttätiger': 1, 'der': 1}
+['Linksextremisten sind gewalttätiger', 'der']

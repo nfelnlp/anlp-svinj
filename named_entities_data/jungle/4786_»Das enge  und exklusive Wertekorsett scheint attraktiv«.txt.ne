@@ -1,1 +1,1 @@
-{'Berna': 1, 'Kurnaz': 1, 'Bremen': 2, 'Till Schmidt': 1, 'Deutschland': 2, 'Beratungsfälle': 1, 'Kitab': 1, '–': 1, 'die': 1, 'Attraktivität': 1, 'begründete Haltungen': 1, 'Islamismusprävention': 1, 'Fälle': 1, 'Bremen erstreckt ,': 1, 'alle': 1, 'reagiert': 1, 'zu': 1, 'ist': 1, 'Interview': 1}
+['Berna', 'Kurnaz', 'Bremen', 'Till Schmidt', 'Deutschland', 'Beratungsfälle', 'Kitab', 'Deutschland', '–', 'die', 'Attraktivität', 'begründete Haltungen', 'Islamismusprävention', 'Fälle', 'Bremen erstreckt ,', 'alle', 'reagiert', 'Bremen', 'zu', 'ist', 'Interview']

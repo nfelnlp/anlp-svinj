@@ -1,1 +1,1 @@
-{'kein Zufall': 1, 'Generalsekretär der': 1, 'die Verhandlungen': 1, 'an': 1, 'Übereinkunft': 1, 'Betreibergesellschaften': 1, 'genau': 1, 'die Wasser- und': 1, ', um': 1, ',': 1, '400': 1, 'die': 1}
+['kein Zufall', 'Generalsekretär der', 'die Verhandlungen', 'an', 'Übereinkunft', 'Betreibergesellschaften', 'genau', 'die Wasser- und', ', um', ',', '400', 'die']

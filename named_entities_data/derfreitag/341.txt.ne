@@ -1,1 +1,1 @@
-{'Images In': 1, 'Zeiten': 1, 'die Menschen': 1, 'Nicht-Liken': 1}
+['Images In', 'Zeiten', 'die Menschen', 'Nicht-Liken']

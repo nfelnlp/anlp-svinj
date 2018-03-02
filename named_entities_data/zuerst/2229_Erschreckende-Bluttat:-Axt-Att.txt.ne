@@ -1,1 +1,1 @@
-{'Düsseldorf': 1, '„Der': 1, ',': 1, 'Alles': 1, 'Züge fielen aus': 1, 'Bahnhof': 1, 'aus': 1, 'wieder': 1, 'zu': 1, 'Polizeisprecher': 1}
+['Düsseldorf', '„Der', ',', 'Alles', 'Züge fielen aus', 'Bahnhof', 'aus', 'wieder', 'zu', 'Polizeisprecher']

@@ -1,1 +1,1 @@
-{'USA': 1, 'werden': 1, 'und': 1, ',': 1, 'heftig': 1, 'sieht': 1, 'erklärte': 1, '.': 1, 'Kooperation': 1, 'beschießen': 1, 'hoffentlich': 1, 'angebliche': 1, 'Euphrat': 1, 'IS-Terroristen': 1, 'illegaler': 1}
+['USA', 'werden', 'und', ',', 'heftig', 'sieht', 'erklärte', '.', 'Kooperation', 'beschießen', 'hoffentlich', 'angebliche', 'Euphrat', 'IS-Terroristen', 'illegaler']

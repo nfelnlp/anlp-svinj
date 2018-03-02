@@ -1,1 +1,1 @@
-{'New': 1, 'New York': 1, 'einen': 1, 'erklärte jetzt': 1, 'daß die': 1, 'wenn': 1, 'die': 3, 'Iran': 1, 'am': 2, 'Streitkräften': 1, '„Regime': 1, 'erst zufrieden': 1, '2011': 1, 'Zusammenarbeit': 1, 'anderen': 1, 'Libyen': 1, 'sechs': 1, 'währenden': 1, 'Regimeswechsels': 1, 'inzwischen wieder': 1, ')': 1}
+['New', 'New York', 'einen', 'erklärte jetzt', 'daß die', 'wenn', 'die', 'Iran', 'am', 'die', 'Streitkräften', '„Regime', 'am', 'erst zufrieden', 'die', '2011', 'Zusammenarbeit', 'anderen', 'Libyen', 'sechs', 'währenden', 'Regimeswechsels', 'inzwischen wieder', ')']

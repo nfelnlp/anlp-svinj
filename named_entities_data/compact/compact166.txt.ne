@@ -1,1 +1,1 @@
-{'Am': 1, '?': 1, 'wird ,': 1, 'zehn': 1, 'ein': 1, 'wurde': 1, '“': 1, 'Nachbarn': 1, 'Siedlung': 1, 'Klonovsky ! )': 1, 'und auch': 1, 'mich': 2, 'fürchterlicher': 1, 'mit': 1, 'Antreiber dieses': 1, 'Ihr in': 1}
+['Am', '?', 'wird ,', 'zehn', 'ein', 'wurde', '“', 'Nachbarn', 'Siedlung', 'Klonovsky ! )', 'und auch', 'mich', 'mich', 'fürchterlicher', 'mit', 'Antreiber dieses', 'Ihr in']

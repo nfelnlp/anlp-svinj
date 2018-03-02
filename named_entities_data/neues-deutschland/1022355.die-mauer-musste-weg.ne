@@ -1,1 +1,1 @@
-{'am': 1, 'mobilen': 1, '(': 1, 'des déchets radioactifs': 1, 'wurden': 1, 'Andra die Rodungen für den': 1, 'Agentur ,': 1, 'veröffentlicht': 1, 'Wasser gehalten': 1, 'eine': 1, 'Standorte': 1}
+['am', 'mobilen', '(', 'des déchets radioactifs', 'wurden', 'Andra die Rodungen für den', 'Agentur ,', 'veröffentlicht', 'Wasser gehalten', 'eine', 'Standorte']

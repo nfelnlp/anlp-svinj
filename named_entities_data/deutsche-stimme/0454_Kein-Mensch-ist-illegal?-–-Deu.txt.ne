@@ -1,0 +1,1 @@
+['Angela Merkel', 'befindliche', 'einreisen', 'Zasowk Viele', 'über', 'sind', 'aus', 'Jahren', 'Zunahme', 'Grenzkontrollen nicht', 'Nacht vom', 'ohne', 'hat', 'der Bundesregierung', 'zu', 'Nationaldemokraten', 'bisherige Asylrecht', 'Eingewanderten', 'der']

@@ -1,1 +1,1 @@
-{'“ ,': 1, 'über': 1, 'gebaute': 1, 'war': 1, 'mitgeführt werden': 1}
+['“ ,', 'über', 'gebaute', 'war', 'mitgeführt werden']

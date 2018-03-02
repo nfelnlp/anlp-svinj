@@ -1,1 +1,1 @@
-{'Marcelo Vásquez': 2, 'Feliza Ramos': 2, 'Bolivien': 1, 'Thomas Guthmann': 1, 'La Paz': 3, 'Vásquez': 1}
+['Marcelo Vásquez', 'Feliza Ramos', 'Bolivien', 'Thomas Guthmann', 'La Paz', 'Vásquez', 'La Paz', 'Marcelo Vásquez', 'Feliza Ramos', 'La Paz']

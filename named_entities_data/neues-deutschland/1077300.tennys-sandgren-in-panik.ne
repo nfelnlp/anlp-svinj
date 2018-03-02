@@ -1,1 +1,1 @@
-{'Nadal': 1, 'alt': 1, 'sind': 1, 'Vornamen habe': 1, 'kannte': 1, 'er im': 1, 'den': 1, 'dennoch für': 1, 'er': 2, 'entbrannte': 1, 'der': 2, 'man': 1, 'Rolle': 1, 'sie zu': 1}
+['Nadal', 'alt', 'sind', 'Vornamen habe', 'kannte', 'er im', 'den', 'dennoch für', 'er', 'entbrannte', 'er', 'der', 'man', 'Rolle', 'sie zu', 'der']

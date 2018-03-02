@@ -1,1 +1,1 @@
-{'Washington': 1, 'für': 1, '.': 1, ',': 2, 'zufolge': 1, 'neuen': 1, 'Sanktionen': 1, 'Iran': 1, 'Zeitung': 1, 'Ein': 1, 'wäre aber wahrscheinlich': 1, 'Es räumt': 1, 'die': 1, 'solchen': 1, 'des': 1}
+['Washington', 'für', '.', ',', 'zufolge', 'neuen', 'Sanktionen', 'Iran', 'Zeitung', ',', 'Ein', 'wäre aber wahrscheinlich', 'Es räumt', 'die', 'solchen', 'des']

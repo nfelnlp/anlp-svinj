@@ -1,1 +1,1 @@
-{'durchpflügten': 1, 'wüster': 1, 'wüster Ersatzreligion': 1, 'Arne Fischer': 1, 'Club of Rome': 1, 'alsbald': 1, 'machte': 1, '| 2014': 1, 'glücklich': 1, 'eiseskalt': 1, 'und Krisen': 1, 'gelockt': 1, 'vor': 1}
+['durchpflügten', 'wüster', 'wüster Ersatzreligion', 'Arne Fischer', 'Club of Rome', 'alsbald', 'machte', '| 2014', 'glücklich', 'eiseskalt', 'und Krisen', 'gelockt', 'vor']

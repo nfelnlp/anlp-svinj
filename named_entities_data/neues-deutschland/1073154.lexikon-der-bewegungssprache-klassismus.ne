@@ -1,1 +1,1 @@
-{'«': 1, ', in': 1, 'einem': 1, 'Anfang': 1, 'benutzte 2000': 1, 'Didier': 1, '» Rückkehr': 1, 'brachte': 1, 'die': 1}
+['«', ', in', 'einem', 'Anfang', 'benutzte 2000', 'Didier', '» Rückkehr', 'brachte', 'die']

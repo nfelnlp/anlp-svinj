@@ -1,1 +1,1 @@
-{'Wien': 1, 'Heinz-Christian': 1, 'den Parlamentswahlen am Sonntag': 1, 'trägt': 1, 'des': 1, 'weil': 1, ',': 1, 'Religionsfreiheit': 1, 'diese': 1, '.': 1, 'Parteien': 1, 'nur': 1}
+['Wien', 'Heinz-Christian', 'den Parlamentswahlen am Sonntag', 'trägt', 'des', 'weil', ',', 'Religionsfreiheit', 'diese', '.', 'Parteien', 'nur']

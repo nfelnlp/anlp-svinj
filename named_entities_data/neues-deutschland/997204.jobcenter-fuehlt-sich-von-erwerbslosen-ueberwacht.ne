@@ -1,1 +1,1 @@
-{'Jobcenter': 1, 'ver.di': 1, 'Herne': 1, 'Marcus Meier': 1, 'Jobcenter-Watch aus': 1, 'bei': 1, 'Doch': 1, 'anprangert': 1, 'der': 1, 'Initiative': 1, 'sich': 1, 'kein': 1, 'kein Gewerkschaftsrechter': 1, 'auf die': 1, 'die': 1, 'die »': 1, 'ob': 1, 'Gewerkschaft': 1, 'die Mitarbei': 1}
+['Jobcenter', 'ver.di', 'Herne', 'Marcus Meier', 'Jobcenter-Watch aus', 'bei', 'Doch', 'anprangert', 'der', 'Initiative', 'sich', 'kein', 'kein Gewerkschaftsrechter', 'auf die', 'die', 'die »', 'ob', 'Gewerkschaft', 'die Mitarbei']

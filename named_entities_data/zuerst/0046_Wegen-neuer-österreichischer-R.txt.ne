@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Wien': 1, 'Drozda (': 1, ')': 1, 'Mailath-Pokorny (': 1, 'in': 1, 'und': 1, 'der Geschichte': 1, 'Demokratie': 1, '.': 2, 'Platzes': 1, 'eine': 1, 'Areal des': 1, 'Stadt': 1, 'Benennung': 1}
+['Gesellschaft', 'Wien', 'Drozda (', ')', 'Mailath-Pokorny (', 'in', 'und', 'der Geschichte', 'Demokratie', '.', 'Platzes', 'eine', 'Areal des', 'Stadt', 'Benennung', '.']

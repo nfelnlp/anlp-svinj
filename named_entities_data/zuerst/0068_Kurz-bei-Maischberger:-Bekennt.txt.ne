@@ -1,1 +1,1 @@
-{'Köln/Wien': 1, 'Bei': 1, 'Sandra': 1, 'österreichische Bundeskanzler': 1, 'und die': 1, 'Er verteidigte': 1, ',': 1, 'im': 1, '„ständig': 1, 'werde': 1, 'anderen': 1, 'habe': 1, 'der': 1}
+['Köln/Wien', 'Bei', 'Sandra', 'österreichische Bundeskanzler', 'und die', 'Er verteidigte', ',', 'im', '„ständig', 'werde', 'anderen', 'habe', 'der']

@@ -1,1 +1,1 @@
-{'Berlin': 1, 'Dublin-Regelungen': 1, 'Deutschland': 1, 'diese': 1, 'dem „Tagesspiegel': 1, 'einer': 1, 'des': 1, 'für': 1, 'mehr': 1, '.': 1, '„die': 1}
+['Berlin', 'Dublin-Regelungen', 'Deutschland', 'diese', 'dem „Tagesspiegel', 'einer', 'des', 'für', 'mehr', '.', '„die']

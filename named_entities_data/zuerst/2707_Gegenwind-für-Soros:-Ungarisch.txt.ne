@@ -1,1 +1,1 @@
-{'Budapest': 2, 'schwerer': 1, 'Regierungspartei': 1, ',': 2, 'vor': 1, 'Der': 1, 'George': 1, 'Diese „Pseudo-Zivilen': 1, 'und': 1, 'sich': 1, '2017': 1, 'wird': 1, '.': 1, 'November': 1}
+['Budapest', 'schwerer', 'Regierungspartei', ',', 'vor', 'Budapest', 'Der', 'George', 'Diese „Pseudo-Zivilen', ',', 'und', 'sich', '2017', 'wird', '.', 'November']

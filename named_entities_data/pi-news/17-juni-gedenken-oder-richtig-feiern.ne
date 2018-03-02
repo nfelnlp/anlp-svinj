@@ -1,1 +1,1 @@
-{'Deutschen': 1, 'Linke': 1, ')': 1, 'ist unmissverständlich': 1, 'Ist': 1, 'Stubenhocker': 1, 'als': 1, '–': 1, 'auch': 1, 'unserer': 1, ',': 1, 'der': 1, 'eigenes': 1}
+['Deutschen', 'Linke', ')', 'ist unmissverständlich', 'Ist', 'Stubenhocker', 'als', '–', 'auch', 'unserer', ',', 'der', 'eigenes']

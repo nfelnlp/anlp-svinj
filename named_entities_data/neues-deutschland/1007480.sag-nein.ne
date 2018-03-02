@@ -1,1 +1,1 @@
-{'Friedensorganisationen': 1, 'Bundeswehr': 3, 'Ines Wallrodt': 1, 'Facebook': 1, 'ihrer': 1, '168': 1}
+['Friedensorganisationen', 'Bundeswehr', 'Ines Wallrodt', 'Bundeswehr', 'Bundeswehr', 'Facebook', 'ihrer', '168']

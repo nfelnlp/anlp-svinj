@@ -1,1 +1,1 @@
-{'Sarah Rice/Getty': 1, 'Homosexualität': 1, 'Seit': 1, 'Pseudotherapien': 1, 'Kreisen': 1, 'hetero': 1, 'bezüglich': 1, 'damals': 1, 'verboten': 1, '.': 1, 'noch': 1, 'als': 1}
+['Sarah Rice/Getty', 'Homosexualität', 'Seit', 'Pseudotherapien', 'Kreisen', 'hetero', 'bezüglich', 'damals', 'verboten', '.', 'noch', 'als']

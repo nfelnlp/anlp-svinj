@@ -1,1 +1,1 @@
-{'Siegmund Freud': 1, 'Freud': 1, 'Jahrhundert': 1, 'gestellt': 1, 'Psychologe': 1, 'der zweiten': 1, 'der ersten': 1, 'aber': 1, 'Blick': 1, 'ist': 1, 'den unbewältigten': 1, 'in': 1, 'Mitte': 1, 'daß': 1, 'Jung': 1, 'dafür': 1, 'uns': 1, 'Religionen': 1, 'die': 1}
+['Siegmund Freud', 'Freud', 'Jahrhundert', 'gestellt', 'Psychologe', 'der zweiten', 'der ersten', 'aber', 'Blick', 'ist', 'den unbewältigten', 'in', 'Mitte', 'daß', 'Jung', 'dafür', 'uns', 'Religionen', 'die']

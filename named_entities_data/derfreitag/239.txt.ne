@@ -1,1 +1,1 @@
-{'Otto': 1, 'gefaucht': 1, 'Pawlow-Power ,': 1, 'da': 1, 'Aufschwung': 1, 'local': 1, 'sehen': 1, ',': 1, 'Viertelprozent': 1, 'bleiben': 1}
+['Otto', 'gefaucht', 'Pawlow-Power ,', 'da', 'Aufschwung', 'local', 'sehen', ',', 'Viertelprozent', 'bleiben']

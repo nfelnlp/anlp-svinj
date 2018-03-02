@@ -1,1 +1,1 @@
-{'Kohalmi/AFP/Getty': 1, 'Worum': 1, "'s": 1, '17 Jahre': 1, '`` LinguBox basiert': 1}
+['Kohalmi/AFP/Getty', 'Worum', "'s", '17 Jahre', '`` LinguBox basiert']

@@ -1,1 +1,1 @@
-{'Liv Strömquist': 1, 'Strömquist': 1, '. In': 1, 'vom': 1, 'launig': 1, 'Gespräch': 1, '. Für': 1, 'oder': 1, 'vergangenen': 1, 'das': 1, 'abzählen': 1, 'Ich': 1, 'als': 1, ',': 1, 'ihre': 1, '.': 1, '«': 1, 'weg': 1, 'Kapitel ist dem weiblichen': 1, 'inneren': 1, '?': 1}
+['Liv Strömquist', 'Strömquist', '. In', 'vom', 'launig', 'Gespräch', '. Für', 'oder', 'vergangenen', 'das', 'abzählen', 'Ich', 'als', ',', 'ihre', '.', '«', 'weg', 'Kapitel ist dem weiblichen', 'inneren', '?']

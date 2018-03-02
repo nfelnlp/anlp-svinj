@@ -1,1 +1,1 @@
-{'Brüssel': 1, 'EU-Außengrenzen': 1, '.': 1, '. Demzufolge': 1, 'zur': 1, 'nicht': 1, 'Europäischen': 1, 'in Libyen gestrandet': 1, 'des': 1, 'Flüchtlingskommissar': 1, 'lassen': 1, 'versuchen': 1, 'Grenz-': 1, 'Malta': 1, 'Im': 1, 'mehr': 1, '180.000 Menschen': 1}
+['Brüssel', 'EU-Außengrenzen', '.', '. Demzufolge', 'zur', 'nicht', 'Europäischen', 'in Libyen gestrandet', 'des', 'Flüchtlingskommissar', 'lassen', 'versuchen', 'Grenz-', 'Malta', 'Im', 'mehr', '180.000 Menschen']

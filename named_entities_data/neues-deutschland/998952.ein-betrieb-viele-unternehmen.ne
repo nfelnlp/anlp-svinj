@@ -1,1 +1,1 @@
-{'DGB': 1, 'Jörg Meyer': 1, 'und': 1, 'es': 1, '- seinem': 1}
+['DGB', 'Jörg Meyer', 'und', 'es', '- seinem']

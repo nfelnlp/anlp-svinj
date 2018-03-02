@@ -1,1 +1,1 @@
-{'Sachsen-Anhalts': 1, '( r.': 1, 'Grünen': 2, 'Sachsen-Anhalt': 1, 'Sonntag': 1, 'die Zukunft der': 1, 'CDU-Regierungschef': 1, 'Haseloff': 1, 'mit einem': 1, 'im Harz': 1, 'macht': 1, 'Vorfall': 1, 'Abgeordneten': 1, 'immer': 1}
+['Sachsen-Anhalts', '( r.', 'Grünen', 'Sachsen-Anhalt', 'Sonntag', 'die Zukunft der', 'CDU-Regierungschef', 'Haseloff', 'Grünen', 'mit einem', 'im Harz', 'macht', 'Vorfall', 'Abgeordneten', 'immer']

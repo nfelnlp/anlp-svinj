@@ -1,1 +1,1 @@
-{'Preßburg': 1, 'Slowakei': 1, 'EU': 1, 'Richard Sulík': 1, 'einschlägigen EU-Programme': 1, 'den': 1, 'zutiefst': 1, '.': 1, 'aufzunehmen': 1, 'schreibt': 1, 'verlören': 1, 'Tschechischen': 1, 'seien': 1, 'und': 1, 'Regierungen': 1, 'die': 2, 'war': 1, 'eine': 1, ',': 1, 'keine': 1, 'klareres': 1, '(': 1}
+['Preßburg', 'Slowakei', 'EU', 'Richard Sulík', 'einschlägigen EU-Programme', 'den', 'zutiefst', '.', 'aufzunehmen', 'schreibt', 'verlören', 'Tschechischen', 'seien', 'und', 'Regierungen', 'die', 'war', 'eine', 'die', ',', 'keine', 'klareres', '(']

@@ -1,1 +1,1 @@
-{'Matthew Eisman/Getty': 1, 'Jazz': 1, 'wurde auf': 1, 'ein': 1, 'Chicago': 1, ',': 2, 'von': 1, 'aufzeichnete': 1, 'das': 1, 'beschrieb': 1, 'hingab': 1, 'Metapher für': 1, 'durch': 1, 'eines Sklavenschiffkapitäns': 1, ', geführt': 1, 'wellenartigen': 1, 'Fluten': 1, 'man': 1}
+['Matthew Eisman/Getty', 'Jazz', 'wurde auf', 'ein', 'Chicago', ',', 'von', 'aufzeichnete', 'das', 'beschrieb', 'hingab', 'Metapher für', 'durch', 'eines Sklavenschiffkapitäns', ', geführt', 'wellenartigen', ',', 'Fluten', 'man']

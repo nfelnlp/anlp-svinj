@@ -1,1 +1,1 @@
-{'Begleiter .': 1, 'gewachsenen': 1, 'einen': 1, 'diese': 1, 'Wild': 1, 'unnütz': 1, 'nicht': 1, 'Jagd': 1, 'Fichtelgebirge': 1, 'die': 1, ',': 1}
+['Begleiter .', 'gewachsenen', 'einen', 'diese', 'Wild', 'unnütz', 'nicht', 'Jagd', 'Fichtelgebirge', 'die', ',']

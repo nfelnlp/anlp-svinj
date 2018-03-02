@@ -1,1 +1,1 @@
-{'Gesellschaft 10 Mainz': 1, 'Hessen': 2, 'herbeieilenden': 1, 'Achim Zahn': 1, '„Das': 1, '.': 1, 'entgegenschlägt': 1, 'nur': 1}
+['Gesellschaft 10 Mainz', 'Hessen', 'herbeieilenden', 'Achim Zahn', 'Hessen', '„Das', '.', 'entgegenschlägt', 'nur']

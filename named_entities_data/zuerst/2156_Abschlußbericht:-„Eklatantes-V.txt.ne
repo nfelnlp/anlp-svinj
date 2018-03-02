@@ -1,1 +1,1 @@
-{'Gesellschaft 5': 1, 'Gesellschaft 5 Düsseldorf': 1, 'nordrhein-westfälischen Landtag zur': 1, 'und': 1, 'der': 1, 'Insgesamt': 1, 'tw )': 1}
+['Gesellschaft 5', 'Gesellschaft 5 Düsseldorf', 'nordrhein-westfälischen Landtag zur', 'und', 'der', 'Insgesamt', 'tw )']

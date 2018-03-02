@@ -1,1 +1,1 @@
-{'CSU-Landesgruppenchefin': 1, 'Foto': 1, 'Die': 1, 'will': 1, 'Anfang Juni': 1, 'sondern': 1, 'aberkannt': 1, 'mit': 1, 'oder': 1, ',': 1, 'die': 1, 'So': 1, 'werden': 1, 'Stephan': 1, 'der Maßnahmen': 1, 'Kritiker': 1, 'Gesetz jetzt': 1, 'lagen': 1, 'gesetzgeberische': 1}
+['CSU-Landesgruppenchefin', 'Foto', 'Die', 'will', 'Anfang Juni', 'sondern', 'aberkannt', 'mit', 'oder', ',', 'die', 'So', 'werden', 'Stephan', 'der Maßnahmen', 'Kritiker', 'Gesetz jetzt', 'lagen', 'gesetzgeberische']

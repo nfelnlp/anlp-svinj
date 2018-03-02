@@ -1,1 +1,1 @@
-{'doch': 1, 'seit': 1, 'erläuterte der': 1, 'SPD )': 1, 'Arbeitsweise': 1, '»': 1, 'werden': 1, 'diese': 1, 'koste': 2, 'wiederholen': 1, 'der Bremer': 1, 'und Sozialplanung': 1, 'bei': 1, 'mittlerweile': 1, 'für': 1, 'viel': 1}
+['doch', 'seit', 'erläuterte der', 'SPD )', 'Arbeitsweise', '»', 'werden', 'diese', 'koste', 'koste', 'wiederholen', 'der Bremer', 'und Sozialplanung', 'bei', 'mittlerweile', 'für', 'viel']

@@ -1,1 +1,1 @@
-{'AFP/ Getty': 1, 'Die': 1, 'hat': 1, 'und': 1, 'Politik ungefähr': 1, 'Verbürgerlichung': 1, ',': 1, 'die für': 1, 'die': 1, 'der': 1, 'im': 1, 'Gemeinsamkeit': 1, 'Zwar': 1, 'grundlegende': 1, 'allen': 1}
+['AFP/ Getty', 'Die', 'hat', 'und', 'Politik ungefähr', 'Verbürgerlichung', ',', 'die für', 'die', 'der', 'im', 'Gemeinsamkeit', 'Zwar', 'grundlegende', 'allen']

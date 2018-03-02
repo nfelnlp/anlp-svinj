@@ -1,1 +1,1 @@
-{', die': 1, 'dennoch ist': 1, '»': 1, ',': 1, 'des': 1, 'auf': 1, 'Dienstleistungen ,': 1, '2017 ,': 1, 'Seiten ,': 1, 'Euro': 1}
+[', die', 'dennoch ist', '»', ',', 'des', 'auf', 'Dienstleistungen ,', '2017 ,', 'Seiten ,', 'Euro']

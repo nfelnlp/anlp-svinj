@@ -1,1 +1,1 @@
-{'Elisabeth Tuider': 2, 'seit': 1, 'der': 2, 'in': 1, 'Familia ,': 1, 'begleitet': 1, 'sollten': 1, 'Trans-': 1, 'Bisexualität sowie Gender-Fragen': 1, 'monolithische': 1, 'organisieren': 1, 'Unabhängig': 1, 'Bildungsforschung': 1, ',': 1, 'die': 1, 'befähigt': 1, 'Umgang': 1, 'mithin': 1}
+['Elisabeth Tuider', 'Elisabeth Tuider', 'seit', 'der', 'in', 'Familia ,', 'begleitet', 'sollten', 'Trans-', 'Bisexualität sowie Gender-Fragen', 'monolithische', 'der', 'organisieren', 'Unabhängig', 'Bildungsforschung', ',', 'die', 'befähigt', 'Umgang', 'mithin']

@@ -1,1 +1,1 @@
-{'Wien': 1, 'Lange': 1, 'Schüssel': 1, 'ÖVP': 1, 'US-Lobby': 1, 'führt': 1, 'auf ihrer': 1, 'Mitgliedern': 1, 'übt weltweit': 1, 'oder weniger': 1, 'Unternehmen': 1, 'von Geschäften': 1, ',': 1, '.': 1, 'der': 1, 'sind': 1, 'USA': 1, 'Drohungen': 1, 'UANI': 1, 'von': 1, 'von der': 1, 'in': 1, 'in Stellungnahmen': 1}
+['Wien', 'Lange', 'Schüssel', 'ÖVP', 'US-Lobby', 'führt', 'auf ihrer', 'Mitgliedern', 'übt weltweit', 'oder weniger', 'Unternehmen', 'von Geschäften', ',', '.', 'der', 'sind', 'USA', 'Drohungen', 'UANI', 'von', 'von der', 'in', 'in Stellungnahmen']

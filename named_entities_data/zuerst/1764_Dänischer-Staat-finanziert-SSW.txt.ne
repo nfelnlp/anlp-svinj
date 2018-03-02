@@ -1,1 +1,1 @@
-{'Kiel': 1, 'Schleswig-Holstein von der': 1, ')': 1, 'im': 2, 'gemäß': 1, 'Spenden': 1, 'Unterrichtsministerium': 1, '2017 dann': 1, 'auch': 1, 'Jahr': 1, 'Deutschland': 1, 'SSW': 1, 'die Befreiung': 1, 'Fünf-Prozent-Hürde': 1, 'Dänemark fließen .': 1, '.': 1, 'spielte': 1}
+['Kiel', 'Schleswig-Holstein von der', ')', 'im', 'gemäß', 'Spenden', 'Unterrichtsministerium', 'im', '2017 dann', 'auch', 'Jahr', 'Deutschland', 'SSW', 'die Befreiung', 'Fünf-Prozent-Hürde', 'Dänemark fließen .', '.', 'spielte']

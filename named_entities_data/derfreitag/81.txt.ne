@@ -1,1 +1,1 @@
-{'der': 2, 'beim': 1, 'immer': 1, ', noch': 1, '?': 1, 'Zahlen': 1, '&': 2, 'dann': 1, 'Job . Dafür': 1, 'in': 1, 'Umfang': 1, 'der Aufgabe': 1, 'der Aufgabe betraut': 1, 'Nr': 1, '.': 1}
+['der', 'beim', 'immer', ', noch', 'der', '?', 'Zahlen', '&', 'dann', '&', 'Job . Dafür', 'in', 'Umfang', 'der Aufgabe', 'der Aufgabe betraut', 'Nr', '.']

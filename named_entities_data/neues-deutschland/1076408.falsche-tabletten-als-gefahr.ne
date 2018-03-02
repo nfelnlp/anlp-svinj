@@ -1,1 +1,1 @@
-{'Erfurt': 1, 'Thüringen': 1, 'mitteilte': 1, ',': 2, 'und Mecklenburg-Vorpommern seien': 1, '139': 1, 'bearbeitet worden ,': 1, 'Fälle': 1, 'seit': 1, 'seit einigen': 1, 'werden deutschlandweit': 1, 'Auch': 1, 'Auch die': 1, 'wir': 1, 'und': 1}
+['Erfurt', 'Thüringen', 'mitteilte', ',', 'und Mecklenburg-Vorpommern seien', '139', 'bearbeitet worden ,', 'Fälle', 'seit', 'seit einigen', 'werden deutschlandweit', 'Auch', 'Auch die', ',', 'wir', 'und']

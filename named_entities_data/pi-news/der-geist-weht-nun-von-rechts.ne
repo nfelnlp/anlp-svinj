@@ -1,1 +1,1 @@
-{'Linkspsychopathen': 1, 'Direktor der': 1, 'und Alexander': 1, 'Hauptgeschäftsführer des': 1, 'zu den': 1, 'der': 1, 'die': 1, 'Verlage': 1, ', die': 1, 'aufzumischen': 1, 'des': 1, 'darf .': 1, 'von rechts zu': 1, ', weil': 1, 'nicht': 1, 'Stadtverordnete und': 1, 'seine': 1}
+['Linkspsychopathen', 'Direktor der', 'und Alexander', 'Hauptgeschäftsführer des', 'zu den', 'der', 'die', 'Verlage', ', die', 'aufzumischen', 'des', 'darf .', 'von rechts zu', ', weil', 'nicht', 'Stadtverordnete und', 'seine']

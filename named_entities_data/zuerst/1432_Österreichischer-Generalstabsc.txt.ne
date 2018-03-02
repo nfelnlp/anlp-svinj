@@ -1,1 +1,1 @@
-{'Wien': 1, 'hat': 1, 'Commenda ,': 1, 'jetzt': 1, '.': 2, ',': 1}
+['Wien', 'hat', 'Commenda ,', 'jetzt', '.', ',', '.']

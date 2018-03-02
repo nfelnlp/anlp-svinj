@@ -1,1 +1,1 @@
-{'den Wahlsieg': 1, 'als Rebellion': 1, '. Was': 1, 'Anzeige Nach': 1, 'bei den': 1, 'vielbeachteten Aufsatz': 1, 'eine': 1, 'Text gipfelt': 1, 'Intellektuellen-Idiot': 1, '\xadDenken': 1, '.': 1, 'das für': 1}
+['den Wahlsieg', 'als Rebellion', '. Was', 'Anzeige Nach', 'bei den', 'vielbeachteten Aufsatz', 'eine', 'Text gipfelt', 'Intellektuellen-Idiot', '\xadDenken', '.', 'das für']

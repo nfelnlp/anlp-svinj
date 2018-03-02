@@ -1,1 +1,1 @@
-{'Marc Dassen „Do': 1, '1875-1947 )': 1, 'Urväter dieser': 1, 'Homo-Ehe': 1, ',': 1, 'Mehrheit der': 1, 'einem': 1, 'stellen': 1, ', wer': 1, 'das': 1, '.': 1, 'tatsächlich': 1, 'ihre': 1, 'man ihnen': 1, 'sein': 1, 'und': 1, 'zu': 1}
+['Marc Dassen „Do', '1875-1947 )', 'Urväter dieser', 'Homo-Ehe', ',', 'Mehrheit der', 'einem', 'stellen', ', wer', 'das', '.', 'tatsächlich', 'ihre', 'man ihnen', 'sein', 'und', 'zu']

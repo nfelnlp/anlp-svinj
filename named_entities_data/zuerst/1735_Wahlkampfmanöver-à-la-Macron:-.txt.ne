@@ -1,1 +1,1 @@
-{'Wien': 1, 'Österreichische Volkspartei': 1, 'ÖVP': 1, 'CDU': 1, 'Kurz': 1, 'Partei gestellt': 1, '.': 1, 'soll': 1, 'wandelt': 1, 'für': 1, 'wird': 1, 'hat': 1, 'österreichische': 1, '–': 2}
+['Wien', 'Österreichische Volkspartei', 'ÖVP', 'CDU', 'Kurz', 'Partei gestellt', '.', 'soll', 'wandelt', 'für', 'wird', 'hat', 'österreichische', '–', '–']

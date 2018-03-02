@@ -1,1 +1,1 @@
-{'Pristina': 1, 'NATO': 1, 'auch': 2, '.': 1, 'Zusammenarbeit': 1, 'eigenständige': 1, 'bewaffnete': 1, 'bisherige Anläufe': 1, 'EU': 1, 'sich': 1, 'überzeugt': 1, 'in': 1, 'Man': 1, 'eine': 1, 'unter': 1, ',': 2, 'die': 1, 'Schritt': 1, 'der die': 1}
+['Pristina', 'NATO', 'auch', '.', 'Zusammenarbeit', 'eigenständige', 'bewaffnete', 'bisherige Anläufe', 'EU', 'sich', 'überzeugt', 'in', 'Man', 'eine', 'unter', ',', 'auch', ',', 'die', 'Schritt', 'der die']

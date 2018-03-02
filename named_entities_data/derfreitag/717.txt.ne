@@ -1,1 +1,1 @@
-{'wieder': 1, 'ihrerseits': 1, 'Berlin': 1, 'der': 1, 'ankündigte': 1, '.': 1, 'Einsicht': 1, 'auf die': 1, 'getriebene': 1}
+['wieder', 'ihrerseits', 'Berlin', 'der', 'ankündigte', '.', 'Einsicht', 'auf die', 'getriebene']

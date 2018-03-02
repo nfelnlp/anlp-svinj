@@ -1,1 +1,1 @@
-{'Marx': 1, 'DDR': 1, 'Karl Marx': 1, 'Tom Strohschneider I.': 1, 'zurückzuschauen': 1, 'Marx in': 1, 'und': 1, ',': 1, 'Realität': 1}
+['Marx', 'DDR', 'Karl Marx', 'Tom Strohschneider I.', 'zurückzuschauen', 'Marx in', 'und', ',', 'Realität']

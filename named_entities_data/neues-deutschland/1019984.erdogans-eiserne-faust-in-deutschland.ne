@@ -1,1 +1,1 @@
-{'Türkischen Kommunistischen Partei': 1, 'München': 3, 'Rudolf Stumberger': 1, 'Türkei': 1, 'Oberlandesgericht München': 1, 'NSU-Prozess': 1}
+['Türkischen Kommunistischen Partei', 'München', 'Rudolf Stumberger', 'München', 'Türkei', 'München', 'Oberlandesgericht München', 'NSU-Prozess']

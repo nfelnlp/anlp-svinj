@@ -1,1 +1,1 @@
-{'Gesellschaft 7 Berlin': 1, 'Beratungsfirma': 1, 'Beratungsfirma McKinsey': 1, 'damit': 1, 'Problem': 1, 'Cordt': 1, 'neue BAMF-Chefin': 1, 'Gerd': 1, 'einem Interview von': 1, 'in': 1, 'durch': 1}
+['Gesellschaft 7 Berlin', 'Beratungsfirma', 'Beratungsfirma McKinsey', 'damit', 'Problem', 'Cordt', 'neue BAMF-Chefin', 'Gerd', 'einem Interview von', 'in', 'durch']

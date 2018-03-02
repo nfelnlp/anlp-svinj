@@ -1,1 +1,1 @@
-{'DAGOBERT': 1, 'Attitüde': 1, 'Gedanken': 1, 'vor': 1, 'menschlich': 1, 'beherrschten': 1, '2015': 1, 'ist': 1, 'den': 1, 'nicht': 2, 'gesehen': 1, 'Sommer': 1, 'Streit': 1, 'mehreren': 1, 'Opfer': 1, ',': 1}
+['DAGOBERT', 'Attitüde', 'Gedanken', 'vor', 'menschlich', 'beherrschten', '2015', 'ist', 'den', 'nicht', 'gesehen', 'Sommer', 'Streit', 'mehreren', 'Opfer', 'nicht', ',']

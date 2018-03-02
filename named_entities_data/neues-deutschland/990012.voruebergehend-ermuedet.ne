@@ -1,1 +1,1 @@
-{'Hendrik Lasch': 1, 'Dresden': 3, 'Pegida': 2, 'MDR': 1, 'dennoch': 1, 'Unseriös': 1}
+['Hendrik Lasch', 'Dresden', 'Pegida', 'Dresden', 'Pegida', 'Dresden', 'MDR', 'dennoch', 'Unseriös']

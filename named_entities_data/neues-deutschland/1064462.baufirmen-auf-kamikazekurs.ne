@@ -1,1 +1,1 @@
-{'Sie': 1, 'IG': 1, 'fordert': 1, '80': 1, 'für': 1, 'nach': 1, '.': 1, 'Arbeitgeber jetzt': 1, 'Wenn': 1, 'die': 2, 'auskömmliche': 1, 'setzen': 1, ',': 1, 'vor': 1, 'zweiten': 1, 'nicht': 1, 'Verstöße gegen': 1, '«': 1, 'ein': 1, 'als': 1, 'ihre eigenen': 1, 'Branchenmindestlohn': 1}
+['Sie', 'IG', 'fordert', '80', 'für', 'nach', '.', 'Arbeitgeber jetzt', 'Wenn', 'die', 'auskömmliche', 'die', 'setzen', ',', 'vor', 'zweiten', 'nicht', 'Verstöße gegen', '«', 'ein', 'als', 'ihre eigenen', 'Branchenmindestlohn']

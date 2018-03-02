@@ -1,1 +1,1 @@
-{'Washington': 1, 'USA': 1, 'Rußland': 1, 'und': 2, 'Trump ins': 1, 'legt': 1, 'die Wahl': 1, 'im': 1, 'Amerikas ”': 1, 'fiel sein': 1, 'knapp': 1, '.': 1, 'Muster': 1, ',': 2, 'zum': 1, 'mit': 1, 'Irak (': 1, 'scharf': 1, 'den': 2, 'war': 1, 'Mit': 1, 'Trump gerade': 1, 'so': 1, 'Empfehlung': 1, 'gewinnen': 1}
+['Washington', 'USA', 'Rußland', 'und', 'Trump ins', 'und', 'legt', 'die Wahl', 'im', 'Amerikas ”', 'fiel sein', 'knapp', '.', 'Muster', ',', 'zum', 'mit', 'Irak (', 'scharf', 'den', 'war', 'Mit', 'Trump gerade', 'so', 'den', 'Empfehlung', 'gewinnen', ',']

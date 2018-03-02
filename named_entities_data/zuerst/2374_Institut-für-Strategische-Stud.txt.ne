@@ -1,1 +1,1 @@
-{'London': 1, 'Londoner': 1, 'Internationalen Instituts': 1, 'Bereich': 1, 'diesem': 1, 'anderem': 1, 'den': 1, 'Alles': 1, 'Rußland': 1, 'bleibt': 1, 'aktuellen': 1, 'folgen': 1}
+['London', 'Londoner', 'Internationalen Instituts', 'Bereich', 'diesem', 'anderem', 'den', 'Alles', 'Rußland', 'bleibt', 'aktuellen', 'folgen']

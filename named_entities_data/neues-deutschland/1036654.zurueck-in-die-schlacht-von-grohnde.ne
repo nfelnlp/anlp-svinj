@@ -1,1 +1,1 @@
-{'Grohnde': 1, 'Reimar Paul': 1, 'niedersächsischen Landkreis Hameln-Pyrmont zu besetzen': 1, 'Hunderte': 1, 'versucht': 1}
+['Grohnde', 'Reimar Paul', 'niedersächsischen Landkreis Hameln-Pyrmont zu besetzen', 'Hunderte', 'versucht']

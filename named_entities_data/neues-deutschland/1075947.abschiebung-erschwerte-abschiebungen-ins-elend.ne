@@ -1,1 +1,1 @@
-{'Häftlinge': 1, ':': 1, 'ernsthafte': 1, 'verlangt': 1, 'ihnen': 1}
+['Häftlinge', ':', 'ernsthafte', 'verlangt', 'ihnen']

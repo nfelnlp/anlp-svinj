@@ -1,1 +1,1 @@
-{'am': 1, 'am Main . In': 1, 'Main in Hessen': 1, 'Leichenschau': 1, '. Gerade': 1, 'internationaler': 1, 'mit': 1, 'Jahr': 1, '.': 2, 'Tötungsdelikte ermittelt': 1, '1000': 1, 'sei': 1, ',': 1, 'die Beamten': 1, 'die Polizei ,': 1, '000': 1, 'lässt': 1, 'genauer , gründlicher': 1}
+['am', 'am Main . In', 'Main in Hessen', 'Leichenschau', '. Gerade', 'internationaler', 'mit', 'Jahr', '.', 'Tötungsdelikte ermittelt', '.', '1000', 'sei', ',', 'die Beamten', 'die Polizei ,', '000', 'lässt', 'genauer , gründlicher']

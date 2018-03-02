@@ -1,1 +1,1 @@
-{'Brüssel': 1, 'EU': 1, 'EU-Länder': 1, 'Europaparlament': 1, '.': 1, 'Verschärfung': 1, 'wichtigsten': 1, 'Juncker': 1, ',': 1, 'die': 1, 'noch strenger ausfielen .': 1, 'Finnland': 1, 'vergleichsweise': 1, 'ist': 1, 'ist .': 1}
+['Brüssel', 'EU', 'EU-Länder', 'Europaparlament', '.', 'Verschärfung', 'wichtigsten', 'Juncker', ',', 'die', 'noch strenger ausfielen .', 'Finnland', 'vergleichsweise', 'ist', 'ist .']

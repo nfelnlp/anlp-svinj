@@ -1,1 +1,1 @@
-{'rausfliegt': 1, '25': 1, 'bei': 1, '. Modellhaft': 1, 'diesen': 1, 'auch': 1, 'der': 1, 'im Rahmen': 1, 'Ausbildung': 1, '.': 1, ', welche': 1, 'schon': 1, 'Vorstellungen': 1, 'Berufen': 1, 'läßt': 1, 'wird zum': 1, 'JAW': 1, 'Erfolg Gearbeitet': 1, 'eine': 1, 'Lebens': 1, 'von': 1, 'sich': 1, 'allem': 1}
+['rausfliegt', '25', 'bei', '. Modellhaft', 'diesen', 'auch', 'der', 'im Rahmen', 'Ausbildung', '.', ', welche', 'schon', 'Vorstellungen', 'Berufen', 'läßt', 'wird zum', 'JAW', 'Erfolg Gearbeitet', 'eine', 'Lebens', 'von', 'sich', 'allem']

@@ -1,1 +1,1 @@
-{'Rida': 1, 'Sekundenlang': 1, 'jubelt': 1, 'Hassan': 1, 'Gefesselt': 1, 'die': 1, 'anderen': 1}
+['Rida', 'Sekundenlang', 'jubelt', 'Hassan', 'Gefesselt', 'die', 'anderen']

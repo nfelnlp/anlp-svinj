@@ -1,1 +1,1 @@
-{'Deutschen': 1, 'der Ende': 1, 'in': 1, 'am 29': 1, 'nationale': 1, 'Buch': 1, 'Generalstreik !': 1, 'mit': 1, 'anarchosyndikalistische': 1, 'Syfo': 1}
+['Deutschen', 'der Ende', 'in', 'am 29', 'nationale', 'Buch', 'Generalstreik !', 'mit', 'anarchosyndikalistische', 'Syfo']

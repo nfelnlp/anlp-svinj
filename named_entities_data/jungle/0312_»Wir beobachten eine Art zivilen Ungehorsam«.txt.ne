@@ -1,1 +1,1 @@
-{'Judith Levine': 1, 'Schriftstellerin ,': 1, 'sexuelle': 1, 'wollte': 1, ',': 1, 'einen': 1, 'und': 1, 'Gewalt': 1, 'Violence Against': 1, 'einen riesigen Gesetzeskorpus': 1, 'dieses': 1, '»': 1, 'Das Prinzip': 1, 'hat ,': 1, 'sie': 1, 'gegeben': 1, 'Anzahl': 1}
+['Judith Levine', 'Schriftstellerin ,', 'sexuelle', 'wollte', ',', 'einen', 'und', 'Gewalt', 'Violence Against', 'einen riesigen Gesetzeskorpus', 'dieses', '»', 'Das Prinzip', 'hat ,', 'sie', 'gegeben', 'Anzahl']

@@ -1,1 +1,1 @@
-{'für': 1, 'Orange': 1, 'gekauftes': 1}
+['für', 'Orange', 'gekauftes']

@@ -1,1 +1,1 @@
-{'sich': 1, ',': 1, 'das': 1, 'zurzeit': 1, 'East-Side-Gallery': 1, 'Provinzschick': 1, 'der': 1, 'der Berliner': 1, 'liegt': 1, 'Understatement': 1, 'doch': 1}
+['sich', ',', 'das', 'zurzeit', 'East-Side-Gallery', 'Provinzschick', 'der', 'der Berliner', 'liegt', 'Understatement', 'doch']

@@ -1,1 +1,1 @@
-{'Zentrum': 1, '»': 1, 'schon': 1, 'es': 1}
+['Zentrum', '»', 'schon', 'es']

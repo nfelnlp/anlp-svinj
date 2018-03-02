@@ -1,1 +1,1 @@
-{'die': 1, 'Communications Commission': 1, ', Ajit Pai': 1, 'Bisher': 1, 'dass alle': 1, 'freien': 1, 'dass': 1, 'gegen': 1, 'es darum': 1, '»': 1, 'es': 1}
+['die', 'Communications Commission', ', Ajit Pai', 'Bisher', 'dass alle', 'freien', 'dass', 'gegen', 'es darum', '»', 'es']

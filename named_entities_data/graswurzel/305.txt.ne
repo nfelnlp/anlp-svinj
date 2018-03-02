@@ -1,0 +1,1 @@
+['Campverboten', 'Mφglichkeiten', 'Polizei', ',', ',', 'haben sie', 'sich', 'Transportstrecke', '.', ',', 'den', 'einer', ',']

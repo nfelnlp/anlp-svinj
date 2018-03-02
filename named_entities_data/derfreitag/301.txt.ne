@@ -1,1 +1,1 @@
-{'Images Überschüsse': 1, 'Begehrlichkeiten': 1, 'schon im': 1, 'kann sich': 1, '.': 1, 'man': 1, 'schon in': 1}
+['Images Überschüsse', 'Begehrlichkeiten', 'schon im', 'kann sich', '.', 'man', 'schon in']

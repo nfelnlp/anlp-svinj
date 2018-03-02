@@ -1,1 +1,1 @@
-{'lese': 1, 'Trennkost habe ich': 1, ',': 1, 'nix': 1, 'was': 1, 'zusammen': 1, 'dass': 1, 'da ich': 1, 'Medien': 1, 'Auto': 1, 'mehr': 1, 'erwischt': 1, 'zu': 1, '.': 2, 'Lebens': 1, 'fragte mich': 1, 'entdecken': 1, '. Kann': 1, 'die': 1, 'morgens': 1, 'hatte': 1, 'Teilen': 1}
+['lese', 'Trennkost habe ich', ',', 'nix', 'was', 'zusammen', 'dass', 'da ich', 'Medien', 'Auto', 'mehr', 'erwischt', 'zu', '.', 'Lebens', 'fragte mich', 'entdecken', '. Kann', '.', 'die', 'morgens', 'hatte', 'Teilen']

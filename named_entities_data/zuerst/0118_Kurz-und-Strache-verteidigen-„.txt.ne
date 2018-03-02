@@ -1,1 +1,1 @@
-{'Wien': 1, 'österreichische': 1, 'Heinz-Christian': 1, 'FPÖ ) mitteilte ,': 1, 'bereits': 1, '.': 1, 'mitgeteilt': 1, 'für': 1, '„Flüchtlingen': 1, 'Strache erklärten': 1, 'der': 1, 'man': 1, 'Tatverdächtigen': 1, ',': 1, '„restriktive': 1}
+['Wien', 'österreichische', 'Heinz-Christian', 'FPÖ ) mitteilte ,', 'bereits', '.', 'mitgeteilt', 'für', '„Flüchtlingen', 'Strache erklärten', 'der', 'man', 'Tatverdächtigen', ',', '„restriktive']

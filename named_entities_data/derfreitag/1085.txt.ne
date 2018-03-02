@@ -1,1 +1,1 @@
-{'gerade': 1, 'seinem neuen': 1, ',': 1, 'indem sie': 1, 'die': 1, 'ohne': 1, 'was man': 1, 'Realität': 1, 'sich in': 1, '.': 1, 'letzte Bewusstseins-Anker': 1, 'Drop': 1}
+['gerade', 'seinem neuen', ',', 'indem sie', 'die', 'ohne', 'was man', 'Realität', 'sich in', '.', 'letzte Bewusstseins-Anker', 'Drop']

@@ -1,1 +1,1 @@
-{'.': 2, '. Die': 1, 'bereits': 1, 'sollen': 1, 'Ermittler auf': 1, 'mitteilte .': 1, '. Eine Festnahme': 1, 'die': 1, 'Erfolg verbuchen': 1, 'am': 1, 'am Dienstag': 1, 'einer Woche': 1, 'Thomas-Feuer ist': 1, 'Westküstenstaates': 1, 'betroffenen': 1, 'Woche tobten ,': 1}
+['.', '. Die', 'bereits', 'sollen', 'Ermittler auf', 'mitteilte .', '. Eine Festnahme', 'die', 'Erfolg verbuchen', 'am', 'am Dienstag', '.', 'einer Woche', 'Thomas-Feuer ist', 'Westküstenstaates', 'betroffenen', 'Woche tobten ,']

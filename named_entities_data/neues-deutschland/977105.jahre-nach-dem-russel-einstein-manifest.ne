@@ -1,1 +1,1 @@
-{'. Anlässlich': 1, 'Massenvernichtungswaffen': 1, 'kritische': 1, 'der': 1, 'formuliert haben': 1, 'Dieses beginnt': 1, 'und der': 1, 'Gottstein über': 1, 'wird eine': 1}
+['. Anlässlich', 'Massenvernichtungswaffen', 'kritische', 'der', 'formuliert haben', 'Dieses beginnt', 'und der', 'Gottstein über', 'wird eine']

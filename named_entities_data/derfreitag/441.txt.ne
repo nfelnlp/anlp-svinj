@@ -1,1 +1,1 @@
-{'das': 1, 'als': 1, 'Ausgabe': 1, 'der lesbischen': 1, 'dosiert': 1, 'Versicherungen': 1, 'kaufkräftigen': 1, '“': 1, 'alte': 1, 'sie': 1, 'Gefühle': 1, '.': 1, 'die': 1, 'selbst': 1, 'wollte': 1, 'Lesben dürfen': 1, 'ihre': 1, ', wie': 1}
+['das', 'als', 'Ausgabe', 'der lesbischen', 'dosiert', 'Versicherungen', 'kaufkräftigen', '“', 'alte', 'sie', 'Gefühle', '.', 'die', 'selbst', 'wollte', 'Lesben dürfen', 'ihre', ', wie']

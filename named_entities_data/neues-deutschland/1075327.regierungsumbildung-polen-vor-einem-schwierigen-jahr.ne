@@ -1,1 +1,1 @@
-{'Polen': 2, 'Wojciech Osinski': 1, 'Warschau': 2, 'Kaczynski': 1, 'Mateusz Morawiecki': 1, 'Morawiecki': 1, 'Budapest': 1, 'Viktor Orbán': 1, 'Brüssel': 1, 'EU': 1, 'Duda': 1, 'EU-Kommission': 1, ',': 1, 'Weg': 1}
+['Polen', 'Wojciech Osinski', 'Warschau', 'Kaczynski', 'Polen', 'Mateusz Morawiecki', 'Morawiecki', 'Budapest', 'Viktor Orbán', 'Warschau', 'Brüssel', 'EU', 'Duda', 'EU-Kommission', ',', 'Weg']

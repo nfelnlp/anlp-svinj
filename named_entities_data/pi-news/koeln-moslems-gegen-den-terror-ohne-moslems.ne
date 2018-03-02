@@ -1,1 +1,1 @@
-{'L.S.Gabriel': 1, 'Köln': 1, 'tausend': 1, 'bei': 1, 'vorsichtshalber': 1, 'in': 1, 'Die': 1, ',': 2, 'nicht „unverschämt': 1, 'schon': 1, 'waren': 1, 'wollen': 1, 'nicht': 1, 'genauso': 1}
+['L.S.Gabriel', 'Köln', 'tausend', 'bei', 'vorsichtshalber', 'in', 'Die', ',', 'nicht „unverschämt', 'schon', 'waren', 'wollen', 'nicht', ',', 'genauso']

@@ -1,1 +1,1 @@
-{'Shopping': 1, ',': 1, '.': 1, 'das': 1, 'unter anderem': 1, 'dass': 1}
+['Shopping', ',', '.', 'das', 'unter anderem', 'dass']

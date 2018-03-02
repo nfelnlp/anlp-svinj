@@ -1,1 +1,1 @@
-{'Maribor': 1, 'serbische': 1, 'Ivica Dačić': 1, 'EU': 1, 'Dačić': 1, '–': 1, '.': 1, ',': 2, 'sich': 1, 'bei': 1, '„keine': 1, 'kaum': 1, 'haben': 1, 'Bedingungen': 1, 'das': 1, 'dann': 1, 'USA': 1}
+['Maribor', 'serbische', 'Ivica Dačić', 'EU', 'Dačić', '–', '.', ',', 'sich', 'bei', ',', '„keine', 'kaum', 'haben', 'Bedingungen', 'das', 'dann', 'USA']

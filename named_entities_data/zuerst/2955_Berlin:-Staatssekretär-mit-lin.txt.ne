@@ -1,1 +1,1 @@
-{'Gesellschaft 0 Berlin': 1, 'die': 2, ', zuständig': 1, '“': 1, 'nach': 1, 'blieb er': 1, 'Monat': 1, 'runden': 1, 'linksextremen': 1, ', liiert': 1, 'der': 2, '(': 1}
+['Gesellschaft 0 Berlin', 'die', ', zuständig', '“', 'nach', 'blieb er', 'Monat', 'die', 'runden', 'linksextremen', ', liiert', 'der', 'der', '(']

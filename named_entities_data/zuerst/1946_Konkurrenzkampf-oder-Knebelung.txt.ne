@@ -1,1 +1,1 @@
-{'Wien': 1, 'Herausgeber': 1, 'Andreas': 1, 'sieht': 1, 'erheblichen Schadenersatzforderungen': 1, ',': 1, 'Zeit': 1, 'lassen': 1, 'macht': 1, ', weshalb': 1, 'erklärte darüber': 1, 'Rechts.': 1, 'sei': 1}
+['Wien', 'Herausgeber', 'Andreas', 'sieht', 'erheblichen Schadenersatzforderungen', ',', 'Zeit', 'lassen', 'macht', ', weshalb', 'erklärte darüber', 'Rechts.', 'sei']

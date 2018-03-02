@@ -1,1 +1,1 @@
-{'Johnnie': 1, 'auf DVD': 1, 'einem': 1, 'in': 1, 'melancholisch': 1, ', als': 1, 'War': 1, 'Gesetzes': 1, 'steinernen wie': 1, 'Visage gesegnete': 1, 'stellt': 1, 'oder Todesstrafe': 1, ',': 1, 'er': 1, 'Weiteres': 1, 'dessen': 1, 'Gesten': 1, 'Wagen': 1, 'jetzt ein ebenbürtiger Nachfolger': 1}
+['Johnnie', 'auf DVD', 'einem', 'in', 'melancholisch', ', als', 'War', 'Gesetzes', 'steinernen wie', 'Visage gesegnete', 'stellt', 'oder Todesstrafe', ',', 'er', 'Weiteres', 'dessen', 'Gesten', 'Wagen', 'jetzt ein ebenbürtiger Nachfolger']

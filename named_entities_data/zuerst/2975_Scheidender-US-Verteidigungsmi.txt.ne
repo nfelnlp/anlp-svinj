@@ -1,1 +1,1 @@
-{'Washington': 1, 'versucht offenbar': 1, 'Carter': 1, 'Carter jetzt': 1, 'der': 1, ',': 1, 'Der': 1, 'Carters': 1, '.': 1, ':': 1, 'notwendig': 1, 'ihre': 1, 'sei': 1, 'könnten': 1, 'Territorien': 1, 'hat': 1, 'zur Stunde': 1, 'Präsidenten bekannt': 1, 'andere': 1}
+['Washington', 'versucht offenbar', 'Carter', 'Carter jetzt', 'der', ',', 'Der', 'Carters', '.', ':', 'notwendig', 'ihre', 'sei', 'könnten', 'Territorien', 'hat', 'zur Stunde', 'Präsidenten bekannt', 'andere']

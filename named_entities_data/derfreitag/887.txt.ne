@@ -1,1 +1,1 @@
-{'Matt Cardy/Getty': 1, 'wenn': 1, 'Privatrecht': 1, 'vor Kurzem': 1, 'spricht': 1, 'Rauscher': 1, 'nicht': 1, 'die Positionen': 1, 'gehörten': 1}
+['Matt Cardy/Getty', 'wenn', 'Privatrecht', 'vor Kurzem', 'spricht', 'Rauscher', 'nicht', 'die Positionen', 'gehörten']

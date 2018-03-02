@@ -1,1 +1,1 @@
-{'Washington': 1, 'Grenze': 1, 'illegale': 1, 'Illegale': 1, 'registriert': 1, ',': 2, 'Im Gegenzug': 1, 'für': 1, '. Diese': 1, 'von': 1, '„Dreamer': 1, 'leben': 1, 'rund': 1, 'im': 1, 'schützen. ”': 1}
+['Washington', 'Grenze', 'illegale', 'Illegale', 'registriert', ',', 'Im Gegenzug', 'für', '. Diese', 'von', '„Dreamer', 'leben', ',', 'rund', 'im', 'schützen. ”']

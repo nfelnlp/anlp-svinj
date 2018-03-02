@@ -1,1 +1,1 @@
-{':': 1, 'Images Als': 1, 'von': 1, 'dachte': 1, 'zu': 1, 'Eine': 1, 'Jahr 2005': 1, 'Juni 2002 erschienen': 1, 'standortgerechten': 1, 'Flurbereinigung': 1, 'bekannten': 1, 'fest': 1, 'Der': 1, 'dafür': 1, 'acht': 1, 'werden': 1, 'der': 1}
+[':', 'Images Als', 'von', 'dachte', 'zu', 'Eine', 'Jahr 2005', 'Juni 2002 erschienen', 'standortgerechten', 'Flurbereinigung', 'bekannten', 'fest', 'Der', 'dafür', 'acht', 'werden', 'der']

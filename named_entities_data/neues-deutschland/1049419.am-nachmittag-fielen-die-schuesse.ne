@@ -1,1 +1,1 @@
-{'Nelli': 1, 'Journalist': 1, 'hat in': 1, 'die': 1, 'der': 1, 'der türkische': 1, 'AKP )': 1, 'alle': 1, 'schon': 1}
+['Nelli', 'Journalist', 'hat in', 'die', 'der', 'der türkische', 'AKP )', 'alle', 'schon']

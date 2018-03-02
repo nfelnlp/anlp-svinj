@@ -1,1 +1,1 @@
-{'SPD': 1, 'Martin Schulz': 1, 'CDU-Arbeitnehmerflügel': 1, 'und SPD': 1, 'die': 1, 'eingeschränktem': 1, 'rütteln': 1, 'lange': 1, 'sich': 1, ',': 1, 'richtige': 1}
+['SPD', 'Martin Schulz', 'CDU-Arbeitnehmerflügel', 'und SPD', 'die', 'eingeschränktem', 'rütteln', 'lange', 'sich', ',', 'richtige']

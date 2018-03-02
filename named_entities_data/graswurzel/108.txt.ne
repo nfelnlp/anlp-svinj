@@ -1,0 +1,1 @@
+['άber', 'RWE', 'seit', ',', '.', 'wir', 'Medienprδsenz', '.', ',', 'setzen', 'Entscheidung', 'hatte', 'her', 'die', 'oder', 'Argumente', 'wόrden', 'Frage', 'Absicht', 'Doch hδtten', 'Mehrheit', 'kann', 'gute', '.', 'lokalen', ',', 'vom']

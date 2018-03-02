@@ -1,1 +1,1 @@
-{'Warschau/Küstrin': 1, 'Auch': 1, 'es': 1, '.': 1, 'polnische': 1, 'warnte': 1, 'einer erhöhten': 1, 'Minister': 1, 'Minister .': 1, 'der': 1, 'eine': 1, ')': 1, 'wirklich': 1, 'polnischem': 1, 'Screenshot': 1, 'Interview gesagt': 1, 'Die deutsche Grenzstadt': 1, 'Risiko': 1}
+['Warschau/Küstrin', 'Auch', 'es', '.', 'polnische', 'warnte', 'einer erhöhten', 'Minister', 'Minister .', 'der', 'eine', ')', 'wirklich', 'polnischem', 'Screenshot', 'Interview gesagt', 'Die deutsche Grenzstadt', 'Risiko']

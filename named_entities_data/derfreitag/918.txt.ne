@@ -1,1 +1,1 @@
-{'und': 2, 'Teilen': 1, 'auf': 1, 'Lore Richter': 1, 'Odine Johne': 1, '.': 1, 'roten': 1, 'familiäre Atmosphäre': 1, 'den charmant': 1, '“': 1, 'diesem feierlichen ,': 1, 'Pipelines': 1, ',': 1, 'berlin “': 1, 'Die Preisträger': 1}
+['und', 'Teilen', 'auf', 'Lore Richter', 'Odine Johne', 'und', '.', 'roten', 'familiäre Atmosphäre', 'den charmant', '“', 'diesem feierlichen ,', 'Pipelines', ',', 'berlin “', 'Die Preisträger']

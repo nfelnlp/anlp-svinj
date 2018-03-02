@@ -1,1 +1,1 @@
-{'Wien': 1, 'ÖVP': 1, 'islamischen': 1, 'Ihm zufolge': 1, 'in': 2, 'Islam-Kindergarten': 1, '.': 1, 'umstritten': 1, 'Antragsteller': 1, ',': 1}
+['Wien', 'ÖVP', 'islamischen', 'Ihm zufolge', 'in', 'Islam-Kindergarten', '.', 'in', 'umstritten', 'Antragsteller', ',']

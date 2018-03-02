@@ -1,1 +1,1 @@
-{'Washington': 1, 'Klartext . Vor': 1, 'einem': 1, 'Welt': 1, 'Twitter': 1, '„Heute': 1, 'Schweiz': 1, '–': 1, 'Gemeinden': 1, 'Botschafter': 1, 'Ankara': 1, 'Karlow': 1, 'ermordet worden': 1, 'Botschafters': 1}
+['Washington', 'Klartext . Vor', 'einem', 'Welt', 'Twitter', '„Heute', 'Schweiz', '–', 'Gemeinden', 'Botschafter', 'Ankara', 'Karlow', 'ermordet worden', 'Botschafters']

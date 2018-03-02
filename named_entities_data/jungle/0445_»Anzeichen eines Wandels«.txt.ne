@@ -1,1 +1,1 @@
-{'Rakha': 2, 'Kairo': 3, 'Youssef Rakha': 1, 'Catharina': 1, 'Jasmin St.': 1, '. Beide leben in': 1, 'man': 1, 'Islam': 1, 'bestehen': 1, 'vielleicht': 1, ',': 1, 'eine': 1, '.': 1, 'Gender': 1, ', Berlin 2017': 1}
+['Rakha', 'Kairo', 'Youssef Rakha', 'Rakha', 'Kairo', 'Catharina', 'Kairo', 'Jasmin St.', '. Beide leben in', 'man', 'Islam', 'bestehen', 'vielleicht', ',', 'eine', '.', 'Gender', ', Berlin 2017']

@@ -1,1 +1,1 @@
-{'Moskau': 1, 'Rußland': 1, 'Aleppos': 1, 'Ost-Aleppo angeblich begangenen': 1, 'in Genf': 1, ',': 1, 'mit .': 1, 'angeblich begangenen Verbrechen': 1, 'Diplomat': 1, 'ums': 1, 'die': 1, '200': 1, 'berichtet hatten .': 1}
+['Moskau', 'Rußland', 'Aleppos', 'Ost-Aleppo angeblich begangenen', 'in Genf', ',', 'mit .', 'angeblich begangenen Verbrechen', 'Diplomat', 'ums', 'die', '200', 'berichtet hatten .']

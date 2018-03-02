@@ -1,0 +1,1 @@
+['Jamaika', 'BRD-Komödienstadl', 'Mut', 'In der', 'Brocken', 'lassen', 'die', ',', 'sich', 'würden', 'noch', 'eine', 'wagen', 'Grundsätzlich', 'Ob', 'als Steigbügelhalter', ',', 'Papier', 'wert', ',', 'hat', 'dazu', 'muss', 'Zasowk']

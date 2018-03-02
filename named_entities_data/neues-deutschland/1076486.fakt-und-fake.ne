@@ -1,1 +1,1 @@
-{'.': 2, '? Am': 1, 'Amtseid': 1, 'zuvor das': 1, 'Beraterin': 1, 'dreisten Trump-Version': 1, 'perfiden': 1, 'perfiden Begriff': 1}
+['.', '? Am', 'Amtseid', 'zuvor das', '.', 'Beraterin', 'dreisten Trump-Version', 'perfiden', 'perfiden Begriff']

@@ -1,1 +1,1 @@
-{'. Mit': 1, '. 2016 nahmen': 1, 'Foerster': 1, 'SPD/CDU-Landesregierung warf': 1, ',': 2, 'wenig': 1, 'dass': 1, 'auf': 1, 'liegt': 1, 'in Hamburg gar': 1, 'Westen sind eben': 1, 'übersteigt': 1, 'Tarifbindung im Nordosten': 1, 'anderen': 1, 'und': 1}
+['. Mit', '. 2016 nahmen', 'Foerster', 'SPD/CDU-Landesregierung warf', ',', 'wenig', 'dass', 'auf', 'liegt', 'in Hamburg gar', 'Westen sind eben', ',', 'übersteigt', 'Tarifbindung im Nordosten', 'anderen', 'und']

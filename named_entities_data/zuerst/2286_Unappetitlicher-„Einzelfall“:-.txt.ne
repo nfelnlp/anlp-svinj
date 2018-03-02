@@ -1,1 +1,1 @@
-{'Gesellschaft 1': 1, 'Gesellschaft 1 Linz': 1, 'für': 1, 'Asylbewerber': 1, 'bei': 1, 'teils': 1, 'mit': 1, 'in': 2, 'zu': 1, '.': 1, 'Der': 1}
+['Gesellschaft 1', 'Gesellschaft 1 Linz', 'für', 'Asylbewerber', 'bei', 'teils', 'mit', 'in', 'zu', 'in', '.', 'Der']

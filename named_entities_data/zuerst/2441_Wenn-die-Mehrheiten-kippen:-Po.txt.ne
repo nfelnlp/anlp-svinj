@@ -1,1 +1,1 @@
-{'Malmö': 1, 'aufzeigen': 1, '.': 1, 'dem': 1, 'Prozent': 1, 'sogar': 1, 'über': 1, '2015': 1, ',': 1, 'als': 1, 'Die': 1, '55': 1, 'Der': 1, ', Verbrechen': 1, 'Besonders': 1, 'Unmengen': 1, 'konfiszierten': 1}
+['Malmö', 'aufzeigen', '.', 'dem', 'Prozent', 'sogar', 'über', '2015', ',', 'als', 'Die', '55', 'Der', ', Verbrechen', 'Besonders', 'Unmengen', 'konfiszierten']

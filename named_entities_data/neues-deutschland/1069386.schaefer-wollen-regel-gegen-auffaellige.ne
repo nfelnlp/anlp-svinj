@@ -1,1 +1,1 @@
-{'.': 1, '. Die': 1, 'Deutschland': 1, 'angesichts': 1, 'Thüringen': 1, 'Mecklenburg-Vorpommern': 1, ', dass Bundesländer': 1, 'in Karow': 1, ') . In Vorpommern fordert ein': 1, 'trotz': 1, 'bei': 1, 'aber': 1, 'Wölfin': 1, 'leben': 1, ',': 1}
+['.', '. Die', 'Deutschland', 'angesichts', 'Thüringen', 'Mecklenburg-Vorpommern', ', dass Bundesländer', 'in Karow', ') . In Vorpommern fordert ein', 'trotz', 'bei', 'aber', 'Wölfin', 'leben', ',']

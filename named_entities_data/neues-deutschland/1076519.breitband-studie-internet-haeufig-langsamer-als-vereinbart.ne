@@ -1,1 +1,1 @@
-{'.': 1, '. Schnelles': 1, 'Mittwoch': 1, 'Homann . Ausgewertet': 1, 'Netz': 1, 'Im': 1, 'mit': 1}
+['.', '. Schnelles', 'Mittwoch', 'Homann . Ausgewertet', 'Netz', 'Im', 'mit']

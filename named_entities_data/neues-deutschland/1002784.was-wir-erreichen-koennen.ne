@@ -1,1 +1,1 @@
-{'Europa': 1, 'Horst Stowasser': 2, 'Stowasser': 2, 'Neustadt an der': 1}
+['Europa', 'Horst Stowasser', 'Stowasser', 'Horst Stowasser', 'Stowasser', 'Neustadt an der']

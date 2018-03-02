@@ -1,1 +1,1 @@
-{'Archangelsk': 1, 'russische': 1, 'Putin': 1, ',': 1, 'am': 1, 'mit einem Beispiel': 1, '“': 1, 'Gelegenheiten': 1, 'Besuch': 1, 'Archangelsk viel': 1, 'Pruitt': 1, 'Donald': 1, 'Industrie': 1, 'für die': 1}
+['Archangelsk', 'russische', 'Putin', ',', 'am', 'mit einem Beispiel', '“', 'Gelegenheiten', 'Besuch', 'Archangelsk viel', 'Pruitt', 'Donald', 'Industrie', 'für die']

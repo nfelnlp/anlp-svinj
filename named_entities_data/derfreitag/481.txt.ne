@@ -1,1 +1,1 @@
-{'Springer-Presse': 1, 'Getty Images': 1, '“': 1, 'Jahr im': 1, 'ihre': 1, ',': 2, 'oder': 1}
+['Springer-Presse', 'Getty Images', '“', 'Jahr im', 'ihre', ',', 'oder', ',']

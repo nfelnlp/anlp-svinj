@@ -1,1 +1,1 @@
-{'ist': 1, 'geschweige': 1, 'bei': 1, 'und': 1, 'womöglich': 1, 'Über': 1, 'Stimme': 1, ',': 1, 'die': 1, 'unter 0,6': 1, 'ihr': 1, 'zehn': 1, '“': 1, 'der': 3, '.': 1, 'werden': 1, 'Doch': 1, 'dem': 1, 'sie': 1}
+['ist', 'geschweige', 'bei', 'und', 'womöglich', 'Über', 'Stimme', ',', 'die', 'unter 0,6', 'ihr', 'zehn', '“', 'der', '.', 'der', 'werden', 'Doch', 'dem', 'sie', 'der']

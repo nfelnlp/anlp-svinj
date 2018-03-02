@@ -1,1 +1,1 @@
-{'Washington': 1, 'US-Präsident': 1, 'im Wahlkampf': 1, 'einer': 1, 'der': 1, 'in': 1, 'Er': 1}
+['Washington', 'US-Präsident', 'im Wahlkampf', 'einer', 'der', 'in', 'Er']

@@ -1,1 +1,1 @@
-{'Ates Anlässlich': 1, ',': 2, 'Elsässer einen': 1, 'Soziologin': 1, 'Ates (': 1, ':': 1, 'beleidigt…Seyran': 1, 'Fall': 1, 'dem': 1, 'in COMPACT': 1, 'lesen': 1, '!': 1}
+['Ates Anlässlich', ',', 'Elsässer einen', 'Soziologin', 'Ates (', ':', 'beleidigt…Seyran', 'Fall', ',', 'dem', 'in COMPACT', 'lesen', '!']

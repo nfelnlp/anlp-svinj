@@ -1,1 +1,1 @@
-{'hafte': 1, 'Lutz': 1, 'Luis de Guindos': 1, 'Mario': 1, 'einem Treffen': 1, 'Geldhäuser mögen': 1, 'und': 1, 'handeln': 1, 'Treuhänder': 1, 'die': 1, 'Beschlüsse': 1, ',': 1, 'Interventionen': 1, 'nicht einmal ein': 1, 'bevor Hilfsgelder': 1, 'Bankbilanzen': 1, 'Managergehälter': 1, 'denn': 1}
+['hafte', 'Lutz', 'Luis de Guindos', 'Mario', 'einem Treffen', 'Geldhäuser mögen', 'und', 'handeln', 'Treuhänder', 'die', 'Beschlüsse', ',', 'Interventionen', 'nicht einmal ein', 'bevor Hilfsgelder', 'Bankbilanzen', 'Managergehälter', 'denn']

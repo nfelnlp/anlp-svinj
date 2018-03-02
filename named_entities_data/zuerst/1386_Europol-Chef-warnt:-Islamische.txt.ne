@@ -1,1 +1,1 @@
-{'Haag': 1, 'Europol': 1, 'Rob': 1, 'der „Neuen': 1, 'war': 1, 'Anstieg': 1, 'Terrormiliz': 1, 'Staat': 1, '(': 1, 'die': 2, 'Manchester': 1, '.': 2, 'London': 1, 'Anruf': 1, 'zudem': 1, 'wurden teils schwer': 1}
+['Haag', 'Europol', 'Rob', 'der „Neuen', 'war', 'Anstieg', 'Terrormiliz', 'Staat', '(', 'die', 'Manchester', '.', 'London', 'die', 'Anruf', 'zudem', 'wurden teils schwer', '.']

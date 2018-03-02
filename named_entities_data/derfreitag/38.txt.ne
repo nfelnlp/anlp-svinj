@@ -1,1 +1,1 @@
-{'Sean Gallup/Getty': 1, 'Wer': 1, 'George Lakoff entwickelt': 1, '. Sie': 1, ', jungenhafte': 1, 'Zustände beschrieben': 1, '.': 2, 'Sandra Maischberger': 1, 'Gabriels Absicht zitiert': 1, 'AfD hart': 1, 'ob': 1, 'Mut': 1, 'sich mit': 1, 'dieser': 1, 'den': 1, ',': 1, 'wir Populisten': 1, 'Er': 1}
+['Sean Gallup/Getty', 'Wer', 'George Lakoff entwickelt', '. Sie', ', jungenhafte', 'Zustände beschrieben', '.', 'Sandra Maischberger', 'Gabriels Absicht zitiert', 'AfD hart', 'ob', 'Mut', 'sich mit', 'dieser', '.', 'den', ',', 'wir Populisten', 'Er']

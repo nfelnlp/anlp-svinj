@@ -1,1 +1,1 @@
-{'Wien': 1, 'EU-Kommissionschef': 1, 'Durchhalteparolen': 1, 'zur': 1, 'liebsten': 1, 'jetzt': 1, 'der': 1, ',': 1, 'zu': 1, 'in': 1, 'den': 1, 'rund 25.000 Beamte': 1, 'einsehen': 1, 'der Versuch': 1, 'Angleichung': 1}
+['Wien', 'EU-Kommissionschef', 'Durchhalteparolen', 'zur', 'liebsten', 'jetzt', 'der', ',', 'zu', 'in', 'den', 'rund 25.000 Beamte', 'einsehen', 'der Versuch', 'Angleichung']

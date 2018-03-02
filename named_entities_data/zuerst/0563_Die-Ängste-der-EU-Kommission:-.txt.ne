@@ -1,1 +1,1 @@
-{'Gesellschaft 5': 1, 'Gesellschaft 5 Brüssel': 1, 'EU-Kommission': 1, ', in denen': 1, 'der': 1, 'Anschlagsziele': 1, 'häufiger': 1, 'In': 1, '.': 1, 'seien': 1, 'Hochrisikoziel': 1}
+['Gesellschaft 5', 'Gesellschaft 5 Brüssel', 'EU-Kommission', ', in denen', 'der', 'Anschlagsziele', 'häufiger', 'In', '.', 'seien', 'Hochrisikoziel']

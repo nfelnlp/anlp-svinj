@@ -1,1 +1,1 @@
-{'?': 1, 'bis': 1, 'hin': 1, ')': 1, 'einen': 1, 'erklärt Neuhöfer': 1, 'Betriebskostenvorausberechnung': 1, ',': 1, 'Euro': 1, 'durchgenässt.': 1, 'Sie': 1, 'orientalischen': 1, 'erneut': 1, 'zu': 1, 'der': 1, 'durch': 1, 'und': 1, 'das': 1, 'selbst': 1, 'aus': 1, '. Wie': 1, 'bitte': 1, '.': 1}
+['?', 'bis', 'hin', ')', 'einen', 'erklärt Neuhöfer', 'Betriebskostenvorausberechnung', ',', 'Euro', 'durchgenässt.', 'Sie', 'orientalischen', 'erneut', 'zu', 'der', 'durch', 'und', 'das', 'selbst', 'aus', '. Wie', 'bitte', '.']

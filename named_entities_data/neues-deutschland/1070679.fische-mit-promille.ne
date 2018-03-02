@@ -1,1 +1,1 @@
-{'.': 1, '. Der': 1, 'Kreis': 1, ') ist mit zwei': 1, 'Jahre': 1, 'sprach von': 1}
+['.', '. Der', 'Kreis', ') ist mit zwei', 'Jahre', 'sprach von']

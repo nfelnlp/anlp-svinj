@@ -1,1 +1,1 @@
-{'Wien': 1, 'der geplante': 1, '„Das': 1, 'der rot-schwarzen': 1, '.': 1, 'Kurz': 1}
+['Wien', 'der geplante', '„Das', 'der rot-schwarzen', '.', 'Kurz']

@@ -1,1 +1,1 @@
-{'Wien': 1, 'Doskozil': 1, 'SPÖ': 1, 'EU-Beauftragten': 1, 'seinen Vorschlag': 1, 'ausgleichend': 1, 'um Tausende': 1, 'in': 1, 'erworben': 1, 'Länder': 1, ',': 1, 'Asylbewerber': 1, 'EU-Ebene': 1, 'zu': 1, 'Systemwechsel': 1, 'und': 1}
+['Wien', 'Doskozil', 'SPÖ', 'EU-Beauftragten', 'seinen Vorschlag', 'ausgleichend', 'um Tausende', 'in', 'erworben', 'Länder', ',', 'Asylbewerber', 'EU-Ebene', 'zu', 'Systemwechsel', 'und']

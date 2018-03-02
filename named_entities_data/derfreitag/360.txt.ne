@@ -1,1 +1,1 @@
-{'Heike Fischer': 1, 'Binninger': 1, ':': 3, '?': 1, '.': 2, ',': 2, ', geb': 1, 'Bundestag': 1, '25 .': 1, 'sagen': 1, 'auch': 1, 'gesagt': 1, 'der': 1, 'es': 1, 'aber': 1, 'danach': 1, 'mit': 1, 'ich': 1, 'die': 1, 'mir': 1, 'Begriffen': 1, 'Mundlos': 1, 'abgeglichen': 1}
+['Heike Fischer', 'Binninger', ':', '?', '.', ',', ', geb', 'Bundestag', '.', '25 .', 'sagen', ':', 'auch', 'gesagt', ':', ',', 'der', 'es', 'aber', 'danach', 'mit', 'ich', 'die', 'mir', 'Begriffen', 'Mundlos', 'abgeglichen']

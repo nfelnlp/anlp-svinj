@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Plön': 1, 'schleswig-holsteinischen Landkreis Plön': 1, 'die': 1, 'gleich mehrere': 1, 'für Gesundheit': 1, 'Oftmals': 1, 'in': 1, 'Ende': 1, 'Schüler': 1, 'auch': 2, 'Kind': 1, 'verpflichtet': 1}
+['Gesellschaft', 'Plön', 'schleswig-holsteinischen Landkreis Plön', 'die', 'gleich mehrere', 'für Gesundheit', 'Oftmals', 'in', 'Ende', 'Schüler', 'auch', 'Kind', 'auch', 'verpflichtet']

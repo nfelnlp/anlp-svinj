@@ -1,1 +1,1 @@
-{'lernbar': 1, 'Auch': 1, 'Grafiken einzuhubern': 1, 'naatuerlich': 1, 'leicht': 1, ')': 1, '.': 1}
+['lernbar', 'Auch', 'Grafiken einzuhubern', 'naatuerlich', 'leicht', ')', '.']

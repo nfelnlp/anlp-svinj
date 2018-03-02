@@ -1,1 +1,1 @@
-{'Unsichtbare': 1, 'Buch': 1, 'Tausende': 1, 'Reformen': 1, 'keine': 1, 'die': 2, 'es )': 1, ',': 1, 'einer Art': 1, 'Machtlosigkeit': 1, 'schlüssige': 1, 'es vor': 1, 'Hamburg': 1, 'militante': 1, 'Blöcke': 1, 'medienwirksam': 1, 'Frankreich': 1, 'Macron': 1, '.': 1, 'jungen': 1}
+['Unsichtbare', 'Buch', 'Tausende', 'Reformen', 'keine', 'die', 'es )', 'die', ',', 'einer Art', 'Machtlosigkeit', 'schlüssige', 'es vor', 'Hamburg', 'militante', 'Blöcke', 'medienwirksam', 'Frankreich', 'Macron', '.', 'jungen']

@@ -1,1 +1,1 @@
-{'nicht': 2, 'unter': 1, 'aber': 1, 'das': 1, 'und': 1, 'immerhin 400': 1, 'uns': 1, 'Wasser': 1}
+['nicht', 'unter', 'aber', 'das', 'und', 'immerhin 400', 'nicht', 'uns', 'Wasser']

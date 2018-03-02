@@ -1,1 +1,1 @@
-{'ihre': 1, '.': 3, 'Sie': 1, 'und': 1, '«': 1, 'notwendig': 1, 'Gelände «': 1, 'haben': 1, 'mit': 1, 'derartige': 1, 'führen': 1, '. Seit': 1, 'Plattform': 1, 'es': 1, 'Zusammenarbeit': 1, 'Klinger': 1, 'Abzuwarten': 1, 'der': 1, 'jedoch': 1, 'nd': 1, ',': 2, 'konnten': 1, 'dort': 1, 'der lokalen': 1}
+['ihre', '.', 'Sie', '.', 'und', '«', 'notwendig', 'Gelände «', 'haben', 'mit', 'derartige', 'führen', '. Seit', 'Plattform', 'es', 'Zusammenarbeit', 'Klinger', 'Abzuwarten', 'der', '.', 'jedoch', 'nd', ',', 'konnten', ',', 'dort', 'der lokalen']

@@ -1,1 +1,1 @@
-{'die': 1, 'im': 1, 'Sekler-Grenzjäger-Bataillons': 1, 'offizielle': 1, 'der Katastrophe': 1, 'Bellö': 1, 'Festvortrag': 1, 'der': 1}
+['die', 'im', 'Sekler-Grenzjäger-Bataillons', 'offizielle', 'der Katastrophe', 'Bellö', 'Festvortrag', 'der']

@@ -1,1 +1,1 @@
-{'München': 1, 'Ischinger um': 1, 'macht mir Angst “': 1, '“': 1, ',': 1, 'nicht': 1, 'Bauunternehmer': 1, 'können.': 1, 'Februar': 1, 'Staats-': 1, 'und der': 1, '. (': 1, ')': 1}
+['München', 'Ischinger um', 'macht mir Angst “', '“', ',', 'nicht', 'Bauunternehmer', 'können.', 'Februar', 'Staats-', 'und der', '. (', ')']

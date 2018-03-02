@@ -1,1 +1,1 @@
-{'Brüssel': 1, 'EU-Gipfels': 1, 'Beinahe': 1, 'Widerstand': 1, 'der': 2, 'Sicht': 1, 'versuchte die': 1, 'abzuwälzen': 1, 'wegen': 1, 'kein': 1, 'habe': 1, 'habe ,': 1, 'Staatspräsidenten': 1, 'Pressekonferenz': 1, 'beiden Staaten': 1, 'den': 1, 'weigerten': 1, 'nicht': 1, 'nicht abrücken werde': 1}
+['Brüssel', 'EU-Gipfels', 'Beinahe', 'Widerstand', 'der', 'der', 'Sicht', 'versuchte die', 'abzuwälzen', 'wegen', 'kein', 'habe', 'habe ,', 'Staatspräsidenten', 'Pressekonferenz', 'beiden Staaten', 'den', 'weigerten', 'nicht', 'nicht abrücken werde']

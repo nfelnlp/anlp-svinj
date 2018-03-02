@@ -1,1 +1,1 @@
-{'den': 1, 'die': 1, 'der': 1, 'Woche für Aufregung sorgte .': 1}
+['den', 'die', 'der', 'Woche für Aufregung sorgte .']

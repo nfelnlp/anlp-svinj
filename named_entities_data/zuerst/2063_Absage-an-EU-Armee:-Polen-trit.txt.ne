@@ -1,1 +1,1 @@
-{'Warschau/Straßburg': 1, 'Ein': 2, 'können': 2, 'gilt': 1, 'zum': 1, 'nur': 1, 'Entscheidung': 1, 'erster': 1, 'Es': 1, 'aus': 1, 'Stab': 1, 'plante': 1, 'geht': 1, 'mehr': 1, 'Kurs': 1, 'der': 1, 'nationalkonservativen': 1, 'nationale': 1}
+['Warschau/Straßburg', 'Ein', 'können', 'gilt', 'zum', 'nur', 'Entscheidung', 'erster', 'können', 'Es', 'aus', 'Stab', 'plante', 'geht', 'mehr', 'Kurs', 'der', 'nationalkonservativen', 'nationale', 'Ein']

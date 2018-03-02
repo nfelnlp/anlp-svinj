@@ -1,1 +1,1 @@
-{'Rivero vom philippinischen': 1, 'Kreuz': 2, 'Vor': 1, 'etwa': 1, ',': 1, '360': 1, '. Rose': 1, 'vom philippinischen': 1, 'und': 1, 'an': 1, 'um': 1, 'bei': 1}
+['Rivero vom philippinischen', 'Kreuz', 'Vor', 'etwa', ',', '360', '. Rose', 'vom philippinischen', 'Kreuz', 'und', 'an', 'um', 'bei']

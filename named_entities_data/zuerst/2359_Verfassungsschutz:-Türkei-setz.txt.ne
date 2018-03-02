@@ -1,1 +1,1 @@
-{'Berlin': 1, 'türkische': 1, 'Düsseldorf': 1, 'Polizei': 1, 'Nordrhein-Westfalen mit dem': 1, 'geht': 1, ',': 2, 'Gruppierungen': 1, 'zu': 1, 'einheitliches': 1, '.': 1, 'zurück': 1, 'Hausdurchsuchungen': 1, 'seiner Sicht': 1, 'von': 1, 'Staat': 1, 'bezeichnet': 1}
+['Berlin', 'türkische', 'Düsseldorf', 'Polizei', 'Nordrhein-Westfalen mit dem', 'geht', ',', 'Gruppierungen', 'zu', 'einheitliches', '.', 'zurück', 'Hausdurchsuchungen', 'seiner Sicht', 'von', 'Staat', 'bezeichnet', ',']

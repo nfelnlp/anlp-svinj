@@ -1,1 +1,1 @@
-{'Unter': 1, 'die': 1, 'Unterdrückungsverhältnisse': 1, ', denen': 1, 'wolle': 1, 'Grundrechte': 1}
+['Unter', 'die', 'Unterdrückungsverhältnisse', ', denen', 'wolle', 'Grundrechte']

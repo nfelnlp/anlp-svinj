@@ -1,1 +1,1 @@
-{'Die': 1, 'sich': 1, 'Dabei': 1, '.': 1, 'Amtseinführung': 1, '18 Uhr': 1, ',': 1, 'in': 2, 'wollen': 1, 'der': 1, 'der Pressekonferenz': 1, 'Sanktionen gegen': 1, 'und': 1, '(': 1}
+['Die', 'sich', 'Dabei', '.', 'Amtseinführung', '18 Uhr', ',', 'in', 'wollen', 'in', 'der', 'der Pressekonferenz', 'Sanktionen gegen', 'und', '(']

@@ -1,1 +1,1 @@
-{'Washington': 1, 'Über eine': 1, 'der': 1, 'wird ,': 1, 'seinen Familienangehörigen': 1, 'haben': 1, ', bittet': 1, 'für': 1, 'Leute': 1, 'zerstören': 1, 'von': 1}
+['Washington', 'Über eine', 'der', 'wird ,', 'seinen Familienangehörigen', 'haben', ', bittet', 'für', 'Leute', 'zerstören', 'von']

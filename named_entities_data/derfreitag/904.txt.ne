@@ -1,1 +1,1 @@
-{'Arangua': 1, 'Getty': 1, 'Gewerkschaft': 1, ', wäre das': 1, ', wäre das der möglicherweise': 1, 'größere Nutzen': 1, 'während': 2, '2008': 1, ':': 1, 'CO2-Ausstoß': 1, 'einem': 1}
+['Arangua', 'Getty', 'Gewerkschaft', ', wäre das', ', wäre das der möglicherweise', 'größere Nutzen', 'während', '2008', ':', 'CO2-Ausstoß', 'während', 'einem']

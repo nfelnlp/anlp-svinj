@@ -1,1 +1,1 @@
-{'Budapest': 1, 'ungarische': 1, 'Orbán': 1, ',': 2, 'Stelldichein': 1, ', der': 1, '„Migration': 1, '“ ,': 1, 'beitrug .': 1, 'Bruckner ,': 1, 'Standpunkt aus': 1, 'nehmen versucht': 1, 'die': 1, 'Stiftung für': 1, 'ebenso': 1, '”': 1}
+['Budapest', 'ungarische', 'Orbán', ',', 'Stelldichein', ', der', '„Migration', '“ ,', 'beitrug .', 'Bruckner ,', 'Standpunkt aus', 'nehmen versucht', 'die', 'Stiftung für', ',', 'ebenso', '”']

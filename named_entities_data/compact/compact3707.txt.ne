@@ -1,1 +1,1 @@
-{'Wenn': 1, 'Auch': 1, 'Anonymitätstunnel': 1, 'sind': 1, 'meldet': 1, '‚glaubhaft': 1, 'zum': 1, 'verschlüsseln': 1, ', gibt es z.Zt': 1}
+['Wenn', 'Auch', 'Anonymitätstunnel', 'sind', 'meldet', '‚glaubhaft', 'zum', 'verschlüsseln', ', gibt es z.Zt']

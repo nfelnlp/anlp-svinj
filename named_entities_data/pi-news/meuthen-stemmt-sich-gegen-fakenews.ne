@@ -1,1 +1,1 @@
-{'in': 1, 'habe sich': 1, 'den': 1, 'Gauland eine': 1, 'Rolle im': 1, 'vorher': 1, 'fest': 1, 'gezielte': 1, 'nun bereits': 1, 'dass': 1, '– wie für': 1, 'Lassen': 1, 'nicht irritieren': 1, '.': 1, 'scherte': 1, 'und': 1, 'an': 1}
+['in', 'habe sich', 'den', 'Gauland eine', 'Rolle im', 'vorher', 'fest', 'gezielte', 'nun bereits', 'dass', '– wie für', 'Lassen', 'nicht irritieren', '.', 'scherte', 'und', 'an']

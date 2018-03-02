@@ -1,1 +1,1 @@
-{'Wien': 1, 'ÖVP': 1, 'FPÖ': 1, 'Sebastian Kurz': 1, 'der': 2, 'Hammerschmid': 1, 'SPÖ': 1, '„fassungslos ,': 1, 'wenig': 1, 'doch': 1}
+['Wien', 'ÖVP', 'FPÖ', 'Sebastian Kurz', 'der', 'Hammerschmid', 'SPÖ', '„fassungslos ,', 'wenig', 'doch', 'der']

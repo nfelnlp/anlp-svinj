@@ -1,1 +1,1 @@
-{'Basketball-EM': 1, 'besiegt Bild': 1, 'so': 3, 'wie': 2, 'sie': 1, 'hinter': 1, '.': 2, 'Halle und': 1, 'immer aufs Schneeschippen': 1, 'betreiben': 1, 'Sportarten gleichzeitig': 1, 'linker Arm': 1, 'war ,': 1, 'gar': 1, 'in': 1, 'Das': 1, 'dann': 1, 'für': 1, 'über sportives': 1}
+['Basketball-EM', 'besiegt Bild', 'so', 'wie', 'wie', 'sie', 'hinter', '.', 'Halle und', 'immer aufs Schneeschippen', 'betreiben', 'Sportarten gleichzeitig', 'linker Arm', '.', 'so', 'war ,', 'so', 'gar', 'in', 'Das', 'dann', 'für', 'über sportives']

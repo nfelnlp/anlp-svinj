@@ -1,1 +1,1 @@
-{'Luxemburg/Wien': 1, 'Der': 1, 'Jean': 1, ', ein': 1, 'geübt': 1, 'Dem „Spiegel': 1, 'die': 1, '„Wer so spricht': 1, '”': 1, 'ablehnt': 1, 'notfalls': 1, '.': 1, '„wenn': 1, 'daß': 1, 'wachse': 1, 'geäußert': 1, 'Staaten': 1, 'ÖVP': 1}
+['Luxemburg/Wien', 'Der', 'Jean', ', ein', 'geübt', 'Dem „Spiegel', 'die', '„Wer so spricht', '”', 'ablehnt', 'notfalls', '.', '„wenn', 'daß', 'wachse', 'geäußert', 'Staaten', 'ÖVP']

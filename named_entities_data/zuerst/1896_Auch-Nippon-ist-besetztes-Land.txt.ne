@@ -1,1 +1,1 @@
-{'Tokio/Kadena': 1, 'Okinawa': 1, 'Fallschirmjägern': 1, 'zwischen': 1, 'der': 1, 'solche': 1, 'vereinbart': 1, '.': 1, 'habe': 1, 'informiert': 1, ',': 2, 'Übungen': 1, 'sich': 1, 'das': 1, 'verlustreiche': 1}
+['Tokio/Kadena', 'Okinawa', 'Fallschirmjägern', 'zwischen', 'der', 'solche', 'vereinbart', '.', 'habe', 'informiert', ',', 'Übungen', 'sich', ',', 'das', 'verlustreiche']

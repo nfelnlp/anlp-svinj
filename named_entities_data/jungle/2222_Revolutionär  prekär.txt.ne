@@ -1,1 +1,1 @@
-{'prekär': 1, 'Anton': 1, 'Frankfurt': 1, 'World': 1, 'sowieso': 1, 'allem': 1, 'wenigen': 1, 'Arbeitsverhältnisse': 1, 'sogenannten': 1, ',': 1, 'Branchen': 1, 'Kommunikation und Medien': 1, 'den unzähligen': 1, ', die': 1, 'die': 1, 'ehemaliger Aktivistinnen': 1}
+['prekär', 'Anton', 'Frankfurt', 'World', 'sowieso', 'allem', 'wenigen', 'Arbeitsverhältnisse', 'sogenannten', ',', 'Branchen', 'Kommunikation und Medien', 'den unzähligen', ', die', 'die', 'ehemaliger Aktivistinnen']

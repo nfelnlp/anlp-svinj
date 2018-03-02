@@ -1,1 +1,1 @@
-{'Dominikus Böhm': 1, 'Rom': 1, '»': 1, 'Freilassung': 1, 'Seiner': 1, 'Dieser': 1, ': «': 1, 'Hieraus': 1}
+['Dominikus Böhm', 'Rom', '»', 'Freilassung', 'Seiner', 'Dieser', ': «', 'Hieraus']

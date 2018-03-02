@@ -1,1 +1,1 @@
-{'SELBERDENKER': 1, 'George Orwell': 1, 'Herbert George Wells': 1, 'Aldous Huxley': 1, 'Romanform': 1, 'Orwells': 1, '“': 2, 'ausdrücklich': 1, ',': 1, 'allein': 1, 'Spitzeltum': 1, ')': 1, '(': 1, 'dem': 1, 'Gegenteil von': 1, 'bestraft': 1, 'muss': 1, 'aufhören': 1, ', wie': 1, 'der': 1, 'auch': 1}
+['SELBERDENKER', 'George Orwell', 'Herbert George Wells', 'Aldous Huxley', 'Romanform', 'Orwells', '“', 'ausdrücklich', ',', 'allein', 'Spitzeltum', ')', '(', 'dem', 'Gegenteil von', 'bestraft', 'muss', 'aufhören', ', wie', 'der', '“', 'auch']

@@ -1,1 +1,1 @@
-{'Mario': 1, 'Daniel Roland/': 1, 'Getty': 1, 'Präsident Mario': 1, 'und der': 1, '( EZB': 1, 'haben': 1, 'Instrumentarium': 1, 'das': 1, 'verfehlten Krisenpolitik': 1, 'inzwischen': 1, 'mit': 1, 'minder': 1, 'täten': 1, 'Nur': 1, 'Deutschland': 1, ',': 1, 'Abstand': 1, 'arme': 1, 'Arbeitsmarkt': 1, 'indem': 1}
+['Mario', 'Daniel Roland/', 'Getty', 'Präsident Mario', 'und der', '( EZB', 'haben', 'Instrumentarium', 'das', 'verfehlten Krisenpolitik', 'inzwischen', 'mit', 'minder', 'täten', 'Nur', 'Deutschland', ',', 'Abstand', 'arme', 'Arbeitsmarkt', 'indem']

@@ -1,1 +1,1 @@
-{'Chocó': 1, 'Guerilla': 1, 'David Graaff': 1, 'Juntas': 1, 'Schleichtempo': 1, 'abgelegenen': 1, 'als': 1}
+['Chocó', 'Guerilla', 'David Graaff', 'Juntas', 'Schleichtempo', 'abgelegenen', 'als']

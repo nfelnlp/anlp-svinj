@@ -1,1 +1,1 @@
-{'Mughel (': 1, '.': 1, 'Praktikant': 1, 'in': 1, 'Grundschule': 1, 'Merkel-Gästen': 1, 'können': 1, 'Universitätsabschluss': 1, 'fällt': 1, ', Deutsch': 1, 'bemerkbar machen': 1, 'zeigen –': 1, 'Zukunft': 1, 'tun': 1, 'aufzuholen': 1}
+['Mughel (', '.', 'Praktikant', 'in', 'Grundschule', 'Merkel-Gästen', 'können', 'Universitätsabschluss', 'fällt', ', Deutsch', 'bemerkbar machen', 'zeigen –', 'Zukunft', 'tun', 'aufzuholen']

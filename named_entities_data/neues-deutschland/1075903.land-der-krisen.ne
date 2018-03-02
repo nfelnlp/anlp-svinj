@@ -1,1 +1,1 @@
-{'Ausgerechnet': 1, 'Sprung': 1, 'große': 1, ',': 1, 'die': 2, 'um': 1, ':': 1, 'macht': 1, 'Amerikas': 1, 'an': 1, 'das': 1, 'entwicklungspolitisches': 1, 'wird': 1, '.': 1}
+['Ausgerechnet', 'Sprung', 'große', ',', 'die', 'um', 'die', ':', 'macht', 'Amerikas', 'an', 'das', 'entwicklungspolitisches', 'wird', '.']

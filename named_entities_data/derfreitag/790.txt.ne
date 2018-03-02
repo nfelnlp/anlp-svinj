@@ -1,1 +1,1 @@
-{'Laura Lejeune': 3, 'Laura': 1, 'ein': 1, 'spielt in': 1, 'arbeitet': 1, 'blutet': 1, ',': 1, 'Wests': 1, 'Wests Themen sind': 1, 'Armut in': 1, 'Verflechtungen': 1, '. Doch West': 1, 'in': 1, 'dass': 1, 'Nazis und': 1, 'Faschisten': 1, 'heißt': 1, '. Ob': 1, 'Rotwein .': 1, '.': 1}
+['Laura Lejeune', 'Laura Lejeune', 'Laura Lejeune', 'Laura', 'ein', 'spielt in', 'arbeitet', 'blutet', ',', 'Wests', 'Wests Themen sind', 'Armut in', 'Verflechtungen', '. Doch West', 'in', 'dass', 'Nazis und', 'Faschisten', 'heißt', '. Ob', 'Rotwein .', '.']

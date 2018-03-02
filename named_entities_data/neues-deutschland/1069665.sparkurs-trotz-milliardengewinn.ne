@@ -1,1 +1,1 @@
-{'. Wenn': 1, 'Kaeser': 1, 'anzuhängen .': 1, '»': 1, 'Einschnitte': 1, '.': 1, 'ziert': 1, 'könnten': 1, 'sich': 1, 'die': 1, 'gefallen': 1, 'doch': 1}
+['. Wenn', 'Kaeser', 'anzuhängen .', '»', 'Einschnitte', '.', 'ziert', 'könnten', 'sich', 'die', 'gefallen', 'doch']

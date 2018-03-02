@@ -1,1 +1,1 @@
-{'Manila': 1, 'und': 2, 'Soros ist': 1, 'unbeliebt': 1, 'ist': 1, 'Boulevard-Nachrichtenportal': 1, '„humanitären': 1, 'nachdem': 1, 'auf': 1, 'für': 1, 'Zusammenbruch': 1, 'Währungsspekulationen': 1, 'verschärft': 1}
+['Manila', 'und', 'Soros ist', 'und', 'unbeliebt', 'ist', 'Boulevard-Nachrichtenportal', '„humanitären', 'nachdem', 'auf', 'für', 'Zusammenbruch', 'Währungsspekulationen', 'verschärft']

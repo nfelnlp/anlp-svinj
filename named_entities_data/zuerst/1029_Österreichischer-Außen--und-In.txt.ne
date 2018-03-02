@@ -1,1 +1,1 @@
-{'Wien': 1, 'Muslim-Studie': 1, 'hat die Politik erreicht': 1, 'forderte': 1, 'religiöse': 1, 'aus': 1, 'Ländern': 1, 'nach': 1, 'haben': 1, 'flickr/Österreichisches': 1, '–': 1}
+['Wien', 'Muslim-Studie', 'hat die Politik erreicht', 'forderte', 'religiöse', 'aus', 'Ländern', 'nach', 'haben', 'flickr/Österreichisches', '–']

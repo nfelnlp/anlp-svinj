@@ -1,1 +1,1 @@
-{'historisch an': 1, 'gleichberechtigte': 1, 'bedenklich': 1, '.': 1, 'also': 1, 'Kirche besucht': 1}
+['historisch an', 'gleichberechtigte', 'bedenklich', '.', 'also', 'Kirche besucht']

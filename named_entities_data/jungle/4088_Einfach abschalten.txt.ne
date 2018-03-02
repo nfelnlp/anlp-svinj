@@ -1,1 +1,1 @@
-{'Ergebnisse der': 1, ',': 2, 'an': 1, 'verordnet': 1, '\xadNaturgewalt': 1, 'darum': 1, 'Digitalisierung': 1, 'zu': 1, 'meisten': 1}
+['Ergebnisse der', ',', 'an', 'verordnet', '\xadNaturgewalt', ',', 'darum', 'Digitalisierung', 'zu', 'meisten']

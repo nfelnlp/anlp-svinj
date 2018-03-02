@@ -1,1 +1,1 @@
-{'Berlin': 1, 'nach': 1, 'gekommen': 1, 'für Migration': 1, 'und': 1, 'gelandet': 1, 'müßten': 1, 'ihre': 1, '„Flüchtlinge “': 1, 'rück-': 1, 'nach denen': 1, 'im': 1, 'Asylverfahren': 1, 'es': 1, 'zurückzuschicken': 1, 'noch': 1, 'Griechenland': 1, 'ähnlich': 1, 'deutschen': 1, 'nur': 1, 'Nach': 1}
+['Berlin', 'nach', 'gekommen', 'für Migration', 'und', 'gelandet', 'müßten', 'ihre', '„Flüchtlinge “', 'rück-', 'nach denen', 'im', 'Asylverfahren', 'es', 'zurückzuschicken', 'noch', 'Griechenland', 'ähnlich', 'deutschen', 'nur', 'Nach']

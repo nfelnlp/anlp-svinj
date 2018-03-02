@@ -1,1 +1,1 @@
-{',': 1, 'Swartz Sieht': 1, '.': 1, 'nicht': 1, 'Technology . Zwei Studenten': 1, 'Medizintechnik': 1, 'an': 1, ', seine alten': 1, 'in': 1, 'und': 1, 'Teilen': 1}
+[',', 'Swartz Sieht', '.', 'nicht', 'Technology . Zwei Studenten', 'Medizintechnik', 'an', ', seine alten', 'in', 'und', 'Teilen']

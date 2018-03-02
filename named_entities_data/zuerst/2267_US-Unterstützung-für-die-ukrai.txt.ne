@@ -1,1 +1,1 @@
-{'Washington': 2, 'zu': 1, 'neuen': 1, 'von': 1, 'und': 1, 'sind': 1, 'US-Vertreter': 1, 'dieser Gelegenheit': 1, 'ernsthafte Unterstützung': 1, 'Potentials der': 1, 'nach': 1, 'erst': 1, 'nicht': 1, 'nicht nach': 1, 'zu Rußland aus': 1}
+['Washington', 'zu', 'neuen', 'von', 'und', 'sind', 'US-Vertreter', 'dieser Gelegenheit', 'Washington', 'ernsthafte Unterstützung', 'Potentials der', 'nach', 'erst', 'nicht', 'nicht nach', 'zu Rußland aus']

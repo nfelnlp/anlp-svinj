@@ -1,1 +1,1 @@
-{'Groß-Enzersdorf . Schadenfreude': 1, 'auch': 1, 'verhehlen': 1, 'Wiener': 1, '. Der': 1, 'für': 2, '.': 1, 'ihrem Flyer ,': 1, '31': 1, 'Pikant': 1, 'dort': 1, 'seit': 1, 'Stadtregierung sitzen .': 1, 'örtliche': 1, 'So': 1, 'habe er': 1, 'nur': 1}
+['Groß-Enzersdorf . Schadenfreude', 'auch', 'verhehlen', 'Wiener', '. Der', 'für', '.', 'ihrem Flyer ,', '31', 'Pikant', 'dort', 'seit', 'Stadtregierung sitzen .', 'örtliche', 'So', 'habe er', 'nur', 'für']

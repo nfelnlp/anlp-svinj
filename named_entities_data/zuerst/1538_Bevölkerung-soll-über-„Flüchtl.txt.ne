@@ -1,1 +1,1 @@
-{'Warschau': 1, 'Polen': 1, 'ungarische': 1, 'Orbán': 1, 'polnische': 1, 'Andrzej Duda': 1, 'Parlament': 1, 'Duda': 1, 'laut': 1, 'ablehne': 1, 'Volksentscheid': 1, 'Referendum': 1, 'Ungarn': 1, 'die': 1, 'von': 1, 'erklärte': 1, ',': 1, 'Quoten': 1, 'irgendein': 1, 'Mehrheit': 1, 'ab': 1}
+['Warschau', 'Polen', 'ungarische', 'Orbán', 'polnische', 'Andrzej Duda', 'Parlament', 'Duda', 'laut', 'ablehne', 'Volksentscheid', 'Referendum', 'Ungarn', 'die', 'von', 'erklärte', ',', 'Quoten', 'irgendein', 'Mehrheit', 'ab']

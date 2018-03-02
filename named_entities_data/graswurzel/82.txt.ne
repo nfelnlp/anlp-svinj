@@ -1,0 +1,1 @@
+['anarchistisches', 'gestellten', ', Roots', 'Januar', 'jetzt', 'Bericht', 'Shitstorm', 'Tatsache', 'um', 'einer', 'zwei', 'Druck', 'je', 'auch', 'des anarchistischen', 'groίem Besucherinteresse', 'Daran', 'hatten', ': Duo', "''"]

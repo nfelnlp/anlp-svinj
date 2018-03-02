@@ -1,1 +1,1 @@
-{'.': 1, '. In': 1, 'Prüfer im vergangenen': 1, '(': 1, ', 2016': 1, 'Jahr': 1, 'Kontrolleure etwa': 1}
+['.', '. In', 'Prüfer im vergangenen', '(', ', 2016', 'Jahr', 'Kontrolleure etwa']

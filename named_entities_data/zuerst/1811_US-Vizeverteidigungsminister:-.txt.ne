@@ -1,1 +1,1 @@
-{'Washington': 1, 'seine Besorgnis': 1, 'Work': 1, '„Seit': 1, 'Einschätzung': 1, 'die': 2, 'Rußlands': 1, '.': 1, 'Niveau': 1, 'überragende': 1, 'Konkurrenten': 1, 'China': 1, 'noch überlegen seien': 1}
+['Washington', 'seine Besorgnis', 'Work', '„Seit', 'Einschätzung', 'die', 'Rußlands', '.', 'Niveau', 'überragende', 'die', 'Konkurrenten', 'China', 'noch überlegen seien']

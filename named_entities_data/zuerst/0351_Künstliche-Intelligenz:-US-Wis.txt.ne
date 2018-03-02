@@ -1,1 +1,1 @@
-{'Stanford/Kalifornien': 1, 'Nicht': 1, 'an der Stanford': 1, 'Studie vor': 1, 'Straßen': 1, 'werden': 1, 'Weiße': 1, 'Abstammung': 1, 'überwiegen': 1, ',': 1, 'lag bei': 1, 'digitale': 1}
+['Stanford/Kalifornien', 'Nicht', 'an der Stanford', 'Studie vor', 'Straßen', 'werden', 'Weiße', 'Abstammung', 'überwiegen', ',', 'lag bei', 'digitale']

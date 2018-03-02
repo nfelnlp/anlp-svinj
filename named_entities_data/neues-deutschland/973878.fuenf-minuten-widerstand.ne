@@ -1,1 +1,1 @@
-{'Robert D. Meyer Massive': 1, 'an': 1, 'nach': 1, '.': 1, 'als': 1, '200-Seelen-Dörfchen': 1, 'Ende': 1, 'verstanden': 1}
+['Robert D. Meyer Massive', 'an', 'nach', '.', 'als', '200-Seelen-Dörfchen', 'Ende', 'verstanden']

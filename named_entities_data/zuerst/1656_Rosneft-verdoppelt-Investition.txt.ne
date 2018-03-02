@@ -1,1 +1,1 @@
-{'Berlin': 1, '–': 1, 'Setschin': 1, 'der Eröffnung': 1, 'Euro': 1, 'nach': 1, 'aus': 1, '.': 1, 'die man durch den Bau der': 1, 'Verbindung': 1, 'möchte . Bisher': 1, 'Pipeline-Projekt „Nord': 1}
+['Berlin', '–', 'Setschin', 'der Eröffnung', 'Euro', 'nach', 'aus', '.', 'die man durch den Bau der', 'Verbindung', 'möchte . Bisher', 'Pipeline-Projekt „Nord']

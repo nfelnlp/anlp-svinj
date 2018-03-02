@@ -1,1 +1,1 @@
-{'Nama': 1, 'Merkel': 1, 'Martin Ling': 1, 'New York': 2, 'Sammelklage': 1, 'Herero': 1, 'Namibia': 1, 'platzten': 1, 'Bundesregierung': 1, 'aufzugehen': 1, 'Laura Swain': 1, 'Herero-Chief': 1, 'darin': 1, 'die': 1, 'sich': 1, 'immer': 1, 'akzeptiert ...': 1}
+['Nama', 'Merkel', 'Martin Ling', 'New York', 'New York', 'Sammelklage', 'Herero', 'Namibia', 'platzten', 'Bundesregierung', 'aufzugehen', 'Laura Swain', 'Herero-Chief', 'darin', 'die', 'sich', 'immer', 'akzeptiert ...']

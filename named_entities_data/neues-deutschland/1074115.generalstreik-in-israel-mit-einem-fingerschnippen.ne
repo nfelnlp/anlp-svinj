@@ -1,1 +1,1 @@
-{'Jerusalem': 1, 'Oliver Eberhardt': 1, 'Misrachi': 1, 'Nissenkorn': 1, 'Teva': 1}
+['Jerusalem', 'Oliver Eberhardt', 'Misrachi', 'Nissenkorn', 'Teva']

@@ -1,1 +1,1 @@
-{'Paris': 1, 'Front National': 1, 'Marine': 1, 'Pen': 1, 'im': 1, 'für': 1, 'Fall': 1, 'Arbeitsverhältnisse': 1, 'schon': 1, 'Zeit': 1, 'Le': 1, 'die französische': 1, 'die französische Nationalversammlung': 1, 'verlassen': 1, 'stets': 1, 'nach gegen': 1, 'entstanden': 1}
+['Paris', 'Front National', 'Marine', 'Pen', 'im', 'für', 'Fall', 'Arbeitsverhältnisse', 'schon', 'Zeit', 'Le', 'die französische', 'die französische Nationalversammlung', 'verlassen', 'stets', 'nach gegen', 'entstanden']

@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Windeck': 1, 'Die': 1, 'Köln': 1, 'wie': 1, 'darüber': 1, 'Schladern': 1, '.': 1, 'Zaun': 1, 'dem': 1, 'austauschen': 1, 'beschäftigen': 1}
+['Gesellschaft', 'Windeck', 'Die', 'Köln', 'wie', 'darüber', 'Schladern', '.', 'Zaun', 'dem', 'austauschen', 'beschäftigen']

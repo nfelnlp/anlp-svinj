@@ -1,1 +1,1 @@
-{'Wien': 1, 'ÖVP': 2, 'SPÖ': 1, 'FPÖ': 1, 'Freiheitlichen': 1, 'auf': 1, 'rund ein': 1, ')': 1, 'Tageszeitung': 1, 'Österreicher': 1, 'Regierungsabkommens': 1, '.': 1, '. Seitdem': 1, 'allen': 1, 'angesehen': 1, '(': 1}
+['Wien', 'ÖVP', 'SPÖ', 'FPÖ', 'ÖVP', 'Freiheitlichen', 'auf', 'rund ein', ')', 'Tageszeitung', 'Österreicher', 'Regierungsabkommens', '.', '. Seitdem', 'allen', 'angesehen', '(']

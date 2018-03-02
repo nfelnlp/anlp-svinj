@@ -1,1 +1,1 @@
-{'habe gestutzt als': 1, 'unlängst': 1, 'einem': 1, 'sagte': 1, ')': 1, 'man': 1, 'schwarzen': 1, 'schwarzen Kinder aus': 1, 'unterrichtete': 1}
+['habe gestutzt als', 'unlängst', 'einem', 'sagte', ')', 'man', 'schwarzen', 'schwarzen Kinder aus', 'unterrichtete']

@@ -1,1 +1,1 @@
-{'Melancholiker': 1, 'Das': 1, 'Whiskey': 1, ', wie': 1, 'glaube': 1, 'auch': 1, 'redlich mühte': 1, 'an': 1, 'das': 1, 'und': 1, 'mehr zum Zuhörer –': 1, 'lachten': 1, 'Eröffnungsrede als': 1, 'damals historische': 1, 'noch': 1, 'auch mal': 1, 'wie': 1, 'ihren Fähigkeiten in': 1, 'die Führung': 1, 'beehrt': 1}
+['Melancholiker', 'Das', 'Whiskey', ', wie', 'glaube', 'auch', 'redlich mühte', 'an', 'das', 'und', 'mehr zum Zuhörer –', 'lachten', 'Eröffnungsrede als', 'damals historische', 'noch', 'auch mal', 'wie', 'ihren Fähigkeiten in', 'die Führung', 'beehrt']

@@ -1,1 +1,1 @@
-{'nicht gerechnet': 1, 'gut': 1, 'der': 1, 'doppelten': 1, 'Empfehlungen': 1, 'organisiert': 1, 'vor erreichen des Schwellenwertes von': 1, 'es in': 1, 'wie': 1, '000': 1, '»': 1, 'Regionalgesellschaften': 1}
+['nicht gerechnet', 'gut', 'der', 'doppelten', 'Empfehlungen', 'organisiert', 'vor erreichen des Schwellenwertes von', 'es in', 'wie', '000', '»', 'Regionalgesellschaften']

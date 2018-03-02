@@ -1,1 +1,1 @@
-{'Brüssel': 1, 'Viktor Orbán': 1, 'SPD-Kanzlerkandidaten': 1, ', der': 1, '.': 2, 'der': 1, ':': 1, 'ihn': 1, 'ihn , er ist ein': 1, 'Kämpfer': 1, 'wir': 1, 'gegen': 1, '–': 1, 'einem': 1, '. Orbán :': 1, 'Europa': 1, 'sieht': 1, 'Regierungschef': 1, 'hat': 1, 'und': 1}
+['Brüssel', 'Viktor Orbán', 'SPD-Kanzlerkandidaten', ', der', '.', 'der', ':', 'ihn', 'ihn , er ist ein', 'Kämpfer', 'wir', 'gegen', '–', 'einem', '.', '. Orbán :', 'Europa', 'sieht', 'Regierungschef', 'hat', 'und']

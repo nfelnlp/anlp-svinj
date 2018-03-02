@@ -1,1 +1,1 @@
-{'Pascal': 1, 'Segretain/': 1, 'Getty': 1, 'Wie': 1, 'das': 1, 'Algorithmus': 2, 'landen daraufhin': 1, 'der Serie Die': 1, 'verkuppelt': 1, 'Die': 1, ',': 2, 'dafür': 1, 'hätte': 1, 'old': 1, '.': 1, 'Karikatur': 1, 'nicht': 1, 'Ende': 1, 'und': 1}
+['Pascal', 'Segretain/', 'Getty', 'Wie', 'das', 'Algorithmus', 'landen daraufhin', 'der Serie Die', 'verkuppelt', 'Die', ',', 'Algorithmus', 'dafür', 'hätte', 'old', '.', ',', 'Karikatur', 'nicht', 'Ende', 'und']

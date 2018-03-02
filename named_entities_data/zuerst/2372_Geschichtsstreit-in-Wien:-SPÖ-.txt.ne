@@ -1,1 +1,1 @@
-{'Wien': 2, 'österreichischen': 1, 'Drozda': 1, 'angeblich „historisch': 1, '„Platz': 1, ',': 1, '„Presse': 1, 'aber': 1, ': „Da': 1, 'das Bundesdenkmalamt': 1, 'Republik ”': 1, 'der Zeithistoriker Oliver': 1, 'für': 1, 'Heldenplatz heißt': 1, 'der Öffentlichkeit': 1, '9.400': 1}
+['Wien', 'österreichischen', 'Wien', 'Drozda', 'angeblich „historisch', '„Platz', ',', '„Presse', 'aber', ': „Da', 'das Bundesdenkmalamt', 'Republik ”', 'der Zeithistoriker Oliver', 'für', 'Heldenplatz heißt', 'der Öffentlichkeit', '9.400']

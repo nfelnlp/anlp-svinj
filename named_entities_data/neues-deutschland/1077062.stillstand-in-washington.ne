@@ -1,1 +1,1 @@
-{'Lindsey Graham': 1, ', »': 1, 'Gehalt': 1, 'Kosten für': 1, 'von': 1, 'von rund': 1, 'Um 12': 1, 'Mehrheitsführer in': 1, ', das': 1, 'vor': 1, 'im Herbst': 1, 'weitergegeben': 1, 'allem': 1, 'versprochenen': 1, 'Obwohl': 1, 'selbst der': 1, 'Weißen Haus': 1, 'am': 1}
+['Lindsey Graham', ', »', 'Gehalt', 'Kosten für', 'von', 'von rund', 'Um 12', 'Mehrheitsführer in', ', das', 'vor', 'im Herbst', 'weitergegeben', 'allem', 'versprochenen', 'Obwohl', 'selbst der', 'Weißen Haus', 'am']

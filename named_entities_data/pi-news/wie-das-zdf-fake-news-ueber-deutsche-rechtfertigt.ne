@@ -1,1 +1,1 @@
-{'zu': 1, '.': 2, 'nach': 1, 'Das': 1, 'der': 1, 'Zigeuner': 1, 'oder': 1, 'können': 2, 'Alles': 1, ',': 1, ':': 1, 'und': 1, 'Linken': 1, 'der taz': 1, 'Menschen': 1, 'stellt': 1, 'schlüpfen': 1, 'Bekämpfung': 1, '»': 1}
+['zu', '.', 'nach', 'Das', 'der', 'Zigeuner', 'oder', 'können', 'Alles', ',', ':', 'und', 'Linken', 'der taz', 'Menschen', 'stellt', 'schlüpfen', 'Bekämpfung', 'können', '.', '»']

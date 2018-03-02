@@ -1,1 +1,1 @@
-{',': 1, '.': 1, 'Es': 1, 'verpflichtet': 1, 'Die': 1, 'Mittel': 1, 'Geradezu': 1, 'linksextremen': 1, 'gehetzt und': 1, 'Rechts': 1, 'von': 1, 'wichtig': 1, 'Bevölkerung': 1, '. Die': 1, 'den': 1, 'versagt': 1, 'Kategorien': 1, 'dieser': 1, 'moralische': 1}
+[',', '.', 'Es', 'verpflichtet', 'Die', 'Mittel', 'Geradezu', 'linksextremen', 'gehetzt und', 'Rechts', 'von', 'wichtig', 'Bevölkerung', '. Die', 'den', 'versagt', 'Kategorien', 'dieser', 'moralische']

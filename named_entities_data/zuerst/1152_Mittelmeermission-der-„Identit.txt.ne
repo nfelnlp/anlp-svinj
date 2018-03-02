@@ -1,1 +1,1 @@
-{'Famagusta': 1, 'Mittelmeermission': 1, 'in': 1, 'wurde': 1, 'die': 2, 'auf': 1, '. Auch': 1, 'Sie': 1, 'Sie hätten': 1, 'möglich': 1, 'von': 1, 'der': 1, 'der Anfahrt': 1, ',': 1, 'Man': 1, 'aus ,': 1, 'Zwischenfall': 1, 'fünf': 1}
+['Famagusta', 'Mittelmeermission', 'in', 'wurde', 'die', 'auf', '. Auch', 'Sie', 'Sie hätten', 'möglich', 'von', 'der', 'der Anfahrt', ',', 'Man', 'aus ,', 'Zwischenfall', 'fünf', 'die']

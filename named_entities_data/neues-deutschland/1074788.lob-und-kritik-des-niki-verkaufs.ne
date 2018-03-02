@@ -1,1 +1,1 @@
-{'. Nur': 1, 'Käufer gefunden': 1, 'österreichische': 1, ', wie': 1, 'Landerechte': 1, '»': 1, 'Lösung': 1, 'Gläubiger und': 1, '.': 1, '«': 1, 'die bereit': 1, 'Niki': 1, 'Euro': 1}
+['. Nur', 'Käufer gefunden', 'österreichische', ', wie', 'Landerechte', '»', 'Lösung', 'Gläubiger und', '.', '«', 'die bereit', 'Niki', 'Euro']

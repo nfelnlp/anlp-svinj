@@ -1,1 +1,1 @@
-{'Ankara': 1, 'Türkei': 2, 'Europa': 1, '„Yeni Söz': 1, 'jetzt': 1, 'diesem': 1, 'in': 2, 'sich': 1, 'hatte': 1, ':': 1, ': „Deutschland': 1, 'Amtssitz': 1, 'Für die': 1, 'Aufmacher': 1, 'AKP-Blattes': 1, 'haben': 1, 'anhaltende': 1, 'der': 1}
+['Ankara', 'Türkei', 'Europa', '„Yeni Söz', 'jetzt', 'diesem', 'in', 'sich', 'hatte', ':', ': „Deutschland', 'Amtssitz', 'Für die', 'Aufmacher', 'AKP-Blattes', 'haben', 'anhaltende', 'Türkei', 'in', 'der']

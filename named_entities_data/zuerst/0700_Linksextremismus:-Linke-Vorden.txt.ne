@@ -1,1 +1,1 @@
-{'Linksextremisten': 1, 'Deutschland': 1, 'Laquer von': 1, 'des': 1, 'Telefonanrufen': 1, 'Dort heißt': 1, 'ließ': 1, '„Spiegel': 1}
+['Linksextremisten', 'Deutschland', 'Laquer von', 'des', 'Telefonanrufen', 'Dort heißt', 'ließ', '„Spiegel']

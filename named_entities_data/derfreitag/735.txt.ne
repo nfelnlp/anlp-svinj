@@ -1,1 +1,1 @@
-{'EZB-Präsident': 1, 'gibt das': 1, 'Erichsen': 1, 'AFP': 1, 'Getty': 1, 'Die': 1, '( EZB': 1, 'verschießt': 1, 'zeugt': 1, '489': 1, '800': 1, 'hinnehmen': 1, 'erhobenen': 1, 'aus': 1, ',': 2, 'her': 1, 'Staatsanleihen': 1, 'Staatsanleihen als': 1, 'sechs': 1, 'und': 1, 'kommt': 1}
+['EZB-Präsident', 'gibt das', 'Erichsen', 'AFP', 'Getty', 'Die', '( EZB', 'verschießt', 'zeugt', '489', '800', 'hinnehmen', 'erhobenen', 'aus', ',', 'her', 'Staatsanleihen', 'Staatsanleihen als', 'sechs', 'und', ',', 'kommt']

@@ -1,1 +1,1 @@
-{'viele': 1, 'Kreis': 1, ') . Der Fahrer': 1, 'Zollverwaltung in': 1, 'stellvertretender Leiter der': 1, 'Mitarbeiter': 1, 'so': 1, 'Tariflohn': 1, 'bezieht': 1, 'für': 1, 'Anklage': 1, 'Unregelmäßigkeiten und veranlassten': 1, 'Schwerin': 1, 'In': 1, 'Schwerpunktaktionen wie': 1}
+['viele', 'Kreis', ') . Der Fahrer', 'Zollverwaltung in', 'stellvertretender Leiter der', 'Mitarbeiter', 'so', 'Tariflohn', 'bezieht', 'für', 'Anklage', 'Unregelmäßigkeiten und veranlassten', 'Schwerin', 'In', 'Schwerpunktaktionen wie']

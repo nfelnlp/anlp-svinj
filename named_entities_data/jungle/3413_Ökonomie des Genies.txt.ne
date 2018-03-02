@@ -1,1 +1,1 @@
-{'Gregory Baldwin': 1, ',': 1, ', der': 1, '. Der': 1, 'des': 1, 'davon': 1, 'festangestellten Lektoren': 1, 'können': 1, 'Die anderen': 1, 'dem': 1, 'es': 1, 'lassen': 1, 'ein': 1, 'diese Schwierigkeiten': 1, 'besorgen': 1, 'diese nicht': 1, 'verwertet': 1, 'Rechtsstreits': 1, 'und dem': 1, '»': 1, 'Zeit': 1}
+['Gregory Baldwin', ',', ', der', '. Der', 'des', 'davon', 'festangestellten Lektoren', 'können', 'Die anderen', 'dem', 'es', 'lassen', 'ein', 'diese Schwierigkeiten', 'besorgen', 'diese nicht', 'verwertet', 'Rechtsstreits', 'und dem', '»', 'Zeit']

@@ -1,1 +1,1 @@
-{'anzuschaffen . Zu sehen': 1, 'Paris': 1, 'Loriot': 1, 'Julien David anzuschaffen .': 1, 'Week': 1, 'um': 1}
+['anzuschaffen . Zu sehen', 'Paris', 'Loriot', 'Julien David anzuschaffen .', 'Week', 'um']

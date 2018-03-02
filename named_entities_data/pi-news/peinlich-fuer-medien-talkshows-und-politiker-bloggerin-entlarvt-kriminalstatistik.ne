@@ -1,1 +1,1 @@
-{'Ines Laufer': 1, 'Ines': 1, 'Aufklärungsquote': 1, 'Gewalttätern': 1, 'wird': 1, 'Mio': 1, 'in': 1, 'Ausländer': 1, 'angestellten Vergleiche': 1, '455': 1, '2015': 1, '2015 111.125': 1, 'mit noch': 1}
+['Ines Laufer', 'Ines', 'Aufklärungsquote', 'Gewalttätern', 'wird', 'Mio', 'in', 'Ausländer', 'angestellten Vergleiche', '455', '2015', '2015 111.125', 'mit noch']

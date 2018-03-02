@@ -1,1 +1,1 @@
-{'Daten': 1, 'Südasien': 1, 'und': 1, 'in': 1, ',': 1, 'Grundbildung': 1, 'deklariert': 1}
+['Daten', 'Südasien', 'und', 'in', ',', 'Grundbildung', 'deklariert']

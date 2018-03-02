@@ -1,1 +1,1 @@
-{'. Die': 1, '( ÖBB': 1, 'betreiben': 1, 'ersten': 1, 'vor knapp': 1, 'Kurt': 1, 'Deutschen Presse-Agentur': 1, '. Damit sei die': 1, 'erfüllt': 1, 'aber': 1, 'bisherigen': 1, '10': 1, 'und': 1, 'im': 1}
+['. Die', '( ÖBB', 'betreiben', 'ersten', 'vor knapp', 'Kurt', 'Deutschen Presse-Agentur', '. Damit sei die', 'erfüllt', 'aber', 'bisherigen', '10', 'und', 'im']

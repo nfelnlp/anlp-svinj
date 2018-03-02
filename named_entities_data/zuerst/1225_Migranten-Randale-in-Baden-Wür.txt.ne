@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Schorndorf': 1, 'baden-württembergischen Schorndorf mit sexuellen': 1, 'Sachbeschädigungen': 1, '.': 1, 'Iraker': 1, '17Jährige': 1, 'mit': 1, 'zu': 1, 'einen': 1, 'Oberbürgermeister Tübingens': 1, 'kommentierte': 1, ': „Und wieder': 1, 'Asylbewerber': 1}
+['Gesellschaft', 'Schorndorf', 'baden-württembergischen Schorndorf mit sexuellen', 'Sachbeschädigungen', '.', 'Iraker', '17Jährige', 'mit', 'zu', 'einen', 'Oberbürgermeister Tübingens', 'kommentierte', ': „Und wieder', 'Asylbewerber']

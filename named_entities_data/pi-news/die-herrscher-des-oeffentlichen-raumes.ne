@@ -1,1 +1,1 @@
-{'CANTALOOP': 1, 'publico .': 1, ',': 1, 'fast': 1, 'vollkommen': 1, '–': 1, 'enorme': 1, 'trotz': 1, 'Diskurs': 1, 'zahlreichen': 1, 'seit': 1, 'innerhalb': 1, 'der': 1, 'von': 1, 'von sich': 1, 'dar': 1, 'und': 1, 'Deutschland': 1}
+['CANTALOOP', 'publico .', ',', 'fast', 'vollkommen', '–', 'enorme', 'trotz', 'Diskurs', 'zahlreichen', 'seit', 'innerhalb', 'der', 'von', 'von sich', 'dar', 'und', 'Deutschland']

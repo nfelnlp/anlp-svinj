@@ -1,1 +1,1 @@
-{'U.F': 1, 'habe': 1, 'du': 1, '.': 2, 'Parteien': 1, 'sagt :': 1, 'mehr': 1, 'Parlament': 1, 'anderen': 1, 'sind': 1, 'übersieht': 1, 'mir': 1}
+['U.F', 'habe', 'du', '.', 'Parteien', '.', 'sagt :', 'mehr', 'Parlament', 'anderen', 'sind', 'übersieht', 'mir']

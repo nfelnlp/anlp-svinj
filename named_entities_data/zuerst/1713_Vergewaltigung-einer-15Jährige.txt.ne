@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Tulln': 2, 'Niederösterreich': 1, 'Johann Baumschlager': 1, '„in': 1, '.': 2, 'der „Krone': 1, 'Schritt': 1, 'Wolfgang': 1, 'ÖVP )': 1, 'der brutalen': 1, ',': 1}
+['Gesellschaft', 'Tulln', 'Niederösterreich', 'Tulln', 'Johann Baumschlager', '„in', '.', 'der „Krone', '.', 'Schritt', 'Wolfgang', 'ÖVP )', 'der brutalen', ',']

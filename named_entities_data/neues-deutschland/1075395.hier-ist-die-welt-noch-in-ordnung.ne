@@ -1,1 +1,1 @@
-{'Calantzopoulos': 1, 'im': 1, 'der BBC': 1, 'Ende': 1, 'November': 1, 'Eindämmung': 1, 'Tabakindustrie': 1, '»': 1, '.': 1, 'hat 2005': 1, 'hat 2005 den': 1, ',': 1, ', BAT 2009': 1, 'und': 1, 'das': 1, 'startete': 1}
+['Calantzopoulos', 'im', 'der BBC', 'Ende', 'November', 'Eindämmung', 'Tabakindustrie', '»', '.', 'hat 2005', 'hat 2005 den', ',', ', BAT 2009', 'und', 'das', 'startete']

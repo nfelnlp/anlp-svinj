@@ -1,1 +1,1 @@
-{'Ankara': 1, 'türkische': 1, 'Erdogan': 1, 'Deutschland': 3, 'CDU': 1, 'SPD': 1, 'Grüne': 1, '”': 1, 'nach': 1, '.': 1, 'und': 3, 'machten': 1, ',': 3, 'die': 2, 'Und': 1, 'gesinnt': 1, '„der': 1, 'Linke': 1, 'erwähnte': 1, 'gibt': 1, 'Deutsch-Türken': 2, 'konservative': 1}
+['Ankara', 'türkische', 'Erdogan', 'Deutschland', 'CDU', 'SPD', 'Grüne', 'Deutschland', '”', 'nach', '.', 'und', 'machten', ',', ',', 'die', 'die', ',', 'Und', 'gesinnt', 'Deutschland', '„der', 'Linke', 'und', 'erwähnte', 'gibt', 'Deutsch-Türken', 'Deutsch-Türken', 'und', 'konservative']

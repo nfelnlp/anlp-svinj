@@ -1,1 +1,1 @@
-{'Barbara': 1, '( SPD': 1, 'noch': 1, ',': 4, 'Frank': 1, 'gemeinsamen Kava-Trunk': 1, 'kaum': 1, 'Ansehen': 1, 'so': 1, 'in': 1, '2020': 1, 'allerdings': 1, 'hatte': 1, 'mehr': 1, 'früherer': 1, 'folgen': 1, 'warum': 1, 'im': 1, 'schon': 1, 'Ergebnis': 1, 'der': 1, ': Eine': 1, 'bis 2020': 1}
+['Barbara', '( SPD', 'noch', ',', 'Frank', 'gemeinsamen Kava-Trunk', 'kaum', 'Ansehen', 'so', ',', 'in', '2020', 'allerdings', 'hatte', ',', 'mehr', 'früherer', 'folgen', 'warum', 'im', 'schon', 'Ergebnis', 'der', ': Eine', 'bis 2020', ',']

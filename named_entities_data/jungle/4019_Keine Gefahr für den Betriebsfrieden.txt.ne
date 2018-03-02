@@ -1,1 +1,1 @@
-{'Deutschland': 2, 'Anja Krüger': 1, 'EU': 1, 'Manuela Schwesig': 1, 'SPD': 1, 'Schwesig': 1, 'gegen': 1, 'als': 1, 'nutzen': 1, 'bekommen': 1, 'sind': 1, 'Wissenschaft (': 1, ')': 1, '.': 2, 'und Vertreter von': 1, 'dass': 1, '. Die Vereinigung': 1, 'gar': 1}
+['Deutschland', 'Anja Krüger', 'EU', 'Manuela Schwesig', 'SPD', 'Deutschland', 'Schwesig', 'gegen', 'als', 'nutzen', 'bekommen', 'sind', 'Wissenschaft (', ')', '.', 'und Vertreter von', '.', 'dass', '. Die Vereinigung', 'gar']

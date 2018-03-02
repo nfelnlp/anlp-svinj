@@ -1,0 +1,1 @@
+['russische', 'Pjotr Kropotkin', 'verheerenden', 'kapitalistische', 'gerufen', 'nun', 'Kritik', 'einem', 'Anfang', '-', '``', '.', 'wird', 'Außenpolitik', 'von', 'findet', 'Wahl', 'der', 'beleuchten']

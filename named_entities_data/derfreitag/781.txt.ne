@@ -1,1 +1,1 @@
-{'Kitwood/Getty': 1, 'nach Holland': 1, ',': 2, 'gehandelt': 1, 'Bitcoins': 2, 'heute': 1, 'einem': 1, 'Strom': 1, 'ungefähr': 1, 'mit': 1, 'völlig entgegenläuft': 1, 'aus dem': 1, 'Dollar': 1}
+['Kitwood/Getty', 'nach Holland', ',', 'gehandelt', 'Bitcoins', 'Bitcoins', 'heute', 'einem', 'Strom', 'ungefähr', 'mit', 'völlig entgegenläuft', ',', 'aus dem', 'Dollar']

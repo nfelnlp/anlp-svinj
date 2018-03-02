@@ -1,1 +1,1 @@
-{'Images Deutschland': 1, '.': 4, 'brennen . Asylunterkünfte': 1, 'Verlauf': 1, ',': 1, 'sanierte Gebäude wird': 1, 'mindestens': 1, 'Hinzu': 1, 'Diensten': 1, 'Mitteln': 1, 'des': 1, 'Jagdsaison': 1, 'Konsorten': 1, 'dementsprechendes': 1, 'bleiben': 1, 'unverfrorener': 1, 'V-Leute': 1, 'wird': 1, 'die': 1}
+['Images Deutschland', '.', 'brennen . Asylunterkünfte', '.', 'Verlauf', ',', 'sanierte Gebäude wird', '.', 'mindestens', 'Hinzu', 'Diensten', 'Mitteln', 'des', 'Jagdsaison', 'Konsorten', 'dementsprechendes', '.', 'bleiben', 'unverfrorener', 'V-Leute', 'wird', 'die']

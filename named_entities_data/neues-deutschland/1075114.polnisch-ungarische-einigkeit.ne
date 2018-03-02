@@ -1,1 +1,1 @@
-{'.': 1, '. Nicht': 1, 'Moskau': 1, 'Die': 1, 'führte an': 1, 'Budapest': 1, 'Der': 1, 'Amtskollegen': 1, 'seit Dezember': 1, 'Szydłos': 1, 'Treffen ,': 1, 'allerdings': 1, 'zwei': 1, 'EU-Kommission': 1, 'nicht': 1}
+['.', '. Nicht', 'Moskau', 'Die', 'führte an', 'Budapest', 'Der', 'Amtskollegen', 'seit Dezember', 'Szydłos', 'Treffen ,', 'allerdings', 'zwei', 'EU-Kommission', 'nicht']

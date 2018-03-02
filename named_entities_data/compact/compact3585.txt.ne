@@ -1,1 +1,1 @@
-{'Dr. Michael': 1, 'Vogt von www.quer-denken.tv': 1, 'Gespräch': 1, ', sogar': 1, 'die Armut': 1, 'auch ihre': 1, '(': 1, 'nun wird': 1, 'stellenweise': 1, '€-Krise': 1, 'besser': 1, 'des': 2}
+['Dr. Michael', 'Vogt von www.quer-denken.tv', 'Gespräch', ', sogar', 'die Armut', 'auch ihre', '(', 'nun wird', 'stellenweise', '€-Krise', 'besser', 'des', 'des']

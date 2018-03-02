@@ -1,1 +1,1 @@
-{'gab': 1, 'anders': 1, 'Weihnachten “': 1, 'fühlt': 1, 'für': 1, '.': 1, 'Die': 1, 'Bewohner des': 1, 'ersten': 1, 'seine': 1, 'Galiläa': 1, 'in': 1, 'Stadt': 1, 'die': 1, 'aus': 1, 'lassen': 1, 'ein': 1, 'und': 1, 'Krippe': 1, 'sehr': 1, 'der': 1, '“': 1, 'Herr': 1, 'lag': 1, 'Als': 1, 'Herzen': 1}
+['gab', 'anders', 'Weihnachten “', 'fühlt', 'für', '.', 'Die', 'Bewohner des', 'ersten', 'seine', 'Galiläa', 'in', 'Stadt', 'die', 'aus', 'lassen', 'ein', 'und', 'Krippe', 'sehr', 'der', '“', 'Herr', 'lag', 'Als', 'Herzen']

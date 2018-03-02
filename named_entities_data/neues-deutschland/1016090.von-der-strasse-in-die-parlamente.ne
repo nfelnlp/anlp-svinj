@@ -1,1 +1,1 @@
-{'Nikolai Huke': 2, 'spanischen': 1, 'Florian Schmid': 1, 'Missmut': 1, 'Spanien': 2, 'Madrid': 1, 'Krisenproteste': 1, 'Huke': 1}
+['Nikolai Huke', 'spanischen', 'Florian Schmid', 'Missmut', 'Spanien', 'Madrid', 'Krisenproteste', 'Spanien', 'Nikolai Huke', 'Huke']

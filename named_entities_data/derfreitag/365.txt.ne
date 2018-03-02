@@ -1,1 +1,1 @@
-{'………………………': 1, 'Esmeralda': 1, 'aber ich': 1, 'Weg': 1, 'NIE einen': 1, 'Weinsztein war': 1, 'Sprecht': 1}
+['………………………', 'Esmeralda', 'aber ich', 'Weg', 'NIE einen', 'Weinsztein war', 'Sprecht']

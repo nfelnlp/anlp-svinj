@@ -1,1 +1,1 @@
-{'Stefan': 1, ', richtet': 1, 'mit': 1, 'Juncker': 1, 'Dort soll die »': 1, 'Kategorien sind': 1, 'einem » Reflexionspapier': 1, '(': 1, 'Eingeladen': 1, 'zu': 1, 'die Staats-': 1}
+['Stefan', ', richtet', 'mit', 'Juncker', 'Dort soll die »', 'Kategorien sind', 'einem » Reflexionspapier', '(', 'Eingeladen', 'zu', 'die Staats-']

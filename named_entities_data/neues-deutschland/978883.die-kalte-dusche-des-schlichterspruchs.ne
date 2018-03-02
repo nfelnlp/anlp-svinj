@@ -1,1 +1,1 @@
-{'Vereinigung': 1, 'Da': 1, 'und': 2, 'Hauptamtliche': 1, 'voll zu': 1, 'lässt': 1, 'bleibt': 1, '.': 2, 'Ihr': 1, 'solidarische': 1, 'mit': 1, 'Ergebnis': 1, 'so': 1, 'Streik sei': 1, '« .': 1, 'hohe': 1, 'war': 1, 'tolle': 1, 'Schlichterspruchs.': 1, 'seien der Ansicht': 1}
+['Vereinigung', 'Da', 'und', 'Hauptamtliche', 'voll zu', 'lässt', 'bleibt', '.', 'Ihr', 'solidarische', 'mit', 'Ergebnis', 'so', 'Streik sei', '« .', 'hohe', '.', 'war', 'tolle', 'und', 'Schlichterspruchs.', 'seien der Ansicht']

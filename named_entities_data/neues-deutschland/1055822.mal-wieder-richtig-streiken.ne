@@ -1,1 +1,1 @@
-{'bereitet': 1, 'der': 1, 'kommen': 1, 'wir eine Feuerwehrübung': 1, 'es': 1}
+['bereitet', 'der', 'kommen', 'wir eine Feuerwehrübung', 'es']

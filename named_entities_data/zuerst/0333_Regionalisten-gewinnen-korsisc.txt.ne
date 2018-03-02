@@ -1,1 +1,1 @@
-{'Frankreich': 2, 'Korsika': 1, ')': 1, 'auf': 1, '( 3,3': 1, 'Gilles': 1, 'Hehl daraus': 1, 'Franzosen': 1, 'die': 1, 'verhandeln': 1, 'Jean-Guy': 1, 'starke': 1, 'Nation . Wir sind': 1, 'Demokraten': 1, 'Korsen': 1, 'oder': 1, '(': 1}
+['Frankreich', 'Korsika', 'Frankreich', ')', 'auf', '( 3,3', 'Gilles', 'Hehl daraus', 'Franzosen', 'die', 'verhandeln', 'Jean-Guy', 'starke', 'Nation . Wir sind', 'Demokraten', 'Korsen', 'oder', '(']

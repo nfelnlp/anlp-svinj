@@ -1,1 +1,1 @@
-{'.': 1, '. Der': 1, 'Schäden': 1, 'weggespült': 1, ',': 1, 'Lekkas .': 1, 'sprachen von': 1, 'sind': 1, 'alle Häuser': 1, 'waren': 1, 'Untersuchung an': 1, 'in': 1, 'vergangenen': 1, 'und': 1, 'Giannakouris': 1}
+['.', '. Der', 'Schäden', 'weggespült', ',', 'Lekkas .', 'sprachen von', 'sind', 'alle Häuser', 'waren', 'Untersuchung an', 'in', 'vergangenen', 'und', 'Giannakouris']

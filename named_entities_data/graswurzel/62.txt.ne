@@ -1,0 +1,1 @@
+['die eine', 'ca', 'weshalb die Solidaritätsbewegung', ', da der', '.', ',', ',', ',', ',', ',', 'Deutschland', '.', 'und', 'über', 'selbstverwalteter', 'im']

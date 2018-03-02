@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Österreich': 1, 'Augenzeugen': 1, 'Sie': 1, 'die': 1, 'ist': 1, 'der': 1, 'einmal': 1}
+['Gesellschaft', 'Österreich', 'Augenzeugen', 'Sie', 'die', 'ist', 'der', 'einmal']

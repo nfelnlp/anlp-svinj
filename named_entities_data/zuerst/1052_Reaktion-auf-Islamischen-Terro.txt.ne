@@ -1,1 +1,1 @@
-{'World Trade Center': 1, 'New York': 1, 'eine': 1, 'Hochschule .': 1, ',': 1, 'und': 1, '“': 1}
+['World Trade Center', 'New York', 'eine', 'Hochschule .', ',', 'und', '“']

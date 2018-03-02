@@ -1,0 +1,1 @@
+['Berlin', 'Baden-Württemberg , Rheinland-Pfalz', 'Sachsen-Anhalt . Die', 'der Wähler liegen', 'der Wähler liegen', 'und werden Auswirkungen', 'auf der Bundesebene', 'des Bundesinnenministers ist', ',', 'am', 'der', 'entstanden', 'sich', 'Insgesamt', 'ist', 'in', 'Europa', 'Europa überzusetzen', 'der', 'Innenministers', 'Großen', 'zerredet', 'Noch']

@@ -1,1 +1,1 @@
-{'Gesellschaft 34 Leipzig': 1, '. Den': 1, 'am': 1, 'privaten': 1, 'juristisch': 1, 'unterkriegen': 1, 'Geschichte': 1}
+['Gesellschaft 34 Leipzig', '. Den', 'am', 'privaten', 'juristisch', 'unterkriegen', 'Geschichte']

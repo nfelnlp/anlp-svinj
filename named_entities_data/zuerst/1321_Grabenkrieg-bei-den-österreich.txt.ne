@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Klagenfurt': 1, 'Österreich': 1, 'Grünen-Landeschefin': 1, 'Gegenspieler': 1, '. Der': 1, ', Thomas': 1, ', meldete': 1, 'Parlamentswahl im': 1, 'Pilz überlegt': 1, 'und den': 1}
+['Gesellschaft', 'Klagenfurt', 'Österreich', 'Grünen-Landeschefin', 'Gegenspieler', '. Der', ', Thomas', ', meldete', 'Parlamentswahl im', 'Pilz überlegt', 'und den']

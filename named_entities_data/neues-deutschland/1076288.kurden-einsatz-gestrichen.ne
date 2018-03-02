@@ -1,1 +1,1 @@
-{'SPD': 1, 'gelaufen': 1, 'gibt es': 1, 'Die': 1, 'diverser': 1, 'verbundenen': 1, 'kurdischen': 1, '»': 1, 'mehr': 1, 'nach': 1, 'so': 1, 'Bündnis': 1, 'Union': 1, 'bei': 1, 'Sondierungen': 1, 'die': 1}
+['SPD', 'gelaufen', 'gibt es', 'Die', 'diverser', 'verbundenen', 'kurdischen', '»', 'mehr', 'nach', 'so', 'Bündnis', 'Union', 'bei', 'Sondierungen', 'die']

@@ -1,1 +1,1 @@
-{'wie': 1, 'es': 1, 'Grenzen': 1, 'Rande': 1, 'entwickelt': 1, '. Zwischen': 1, 'Kernberg :': 1, 'auch die': 1, 'Lutolf 1988': 1, ', 1990': 1, 'und': 2, '1987 )': 1, 'durch': 1, 'für': 1, 'Ausdruck': 1, 'dem': 1}
+['wie', 'es', 'Grenzen', 'Rande', 'entwickelt', '. Zwischen', 'Kernberg :', 'auch die', 'Lutolf 1988', ', 1990', 'und', '1987 )', 'durch', 'für', 'und', 'Ausdruck', 'dem']

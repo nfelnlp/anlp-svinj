@@ -1,1 +1,1 @@
-{'Reichen': 1, 'Arno Blazer': 1, 'München': 1, 'Hamburg': 1, 'der': 2, 'Der Milliardär': 1, 'diese': 2, ',': 1, 'großen': 1, 'und': 1, 'das Imperium': 1, 'diejenige': 1, 'Reichenforschung': 1, 'die': 1, '»': 1, '«': 1, 'in': 1, 'gesehen': 1, 'Zusammenhang': 1, 'als': 1}
+['Reichen', 'Arno Blazer', 'München', 'Hamburg', 'der', 'Der Milliardär', 'diese', ',', 'großen', 'diese', 'und', 'das Imperium', 'der', 'diejenige', 'Reichenforschung', 'die', '»', '«', 'in', 'gesehen', 'Zusammenhang', 'als']

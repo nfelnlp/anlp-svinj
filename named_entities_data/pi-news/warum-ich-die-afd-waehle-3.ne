@@ -1,1 +1,1 @@
-{'CHEVROLET': 1, 'Deutschland': 3, 'Südafrika': 1, 'Argentinien': 1, 'Übersee': 1, 'war': 1, '“': 1, 'schneller in': 1, 'ja': 1, 'letzten': 1, 'noch': 1, 'EU': 1, 'Europa': 1, 'ein': 1, 'die': 1, 'Kern': 1, 'unter': 1, 'fühlen': 1, 'wird': 1, 'unmöglich': 1, '.': 1}
+['CHEVROLET', 'Deutschland', 'Deutschland', 'Südafrika', 'Argentinien', 'Deutschland', 'Übersee', 'war', '“', 'schneller in', 'ja', 'letzten', 'noch', 'EU', 'Europa', 'ein', 'die', 'Kern', 'unter', 'fühlen', 'wird', 'unmöglich', '.']

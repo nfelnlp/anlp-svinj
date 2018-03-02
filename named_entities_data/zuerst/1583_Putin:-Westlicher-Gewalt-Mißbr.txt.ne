@@ -1,1 +1,1 @@
-{'St. Petersburg': 1, 'St. Petersburg .': 1, 'St. Petersburg . Kremlchef Putin hat': 1, 'Petersburger': 1, 'kleine': 1, 'bewogen': 1, ':': 1, ',': 2, 'der': 1, 'Folgen': 1, 'zerstört': 1, 'Tunesien': 1, 'Äußerste': 1, '.': 1}
+['St. Petersburg', 'St. Petersburg .', 'St. Petersburg . Kremlchef Putin hat', 'Petersburger', 'kleine', 'bewogen', ':', ',', 'der', 'Folgen', ',', 'zerstört', 'Tunesien', 'Äußerste', '.']

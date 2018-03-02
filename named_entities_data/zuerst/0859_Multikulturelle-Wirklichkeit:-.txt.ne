@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Deutschland': 1, '32jähriger': 1, 'soll versucht haben': 1, '.': 1, 'Tat': 1, 'Mordes .': 1, 'Tunesier mit mehreren': 1, 'auf': 1, 'zwischen den Albanern': 1, 'eines kleinen Modegeschäfts': 1}
+['Gesellschaft', 'Deutschland', '32jähriger', 'soll versucht haben', '.', 'Tat', 'Mordes .', 'Tunesier mit mehreren', 'auf', 'zwischen den Albanern', 'eines kleinen Modegeschäfts']

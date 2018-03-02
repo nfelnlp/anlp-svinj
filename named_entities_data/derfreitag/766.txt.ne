@@ -1,1 +1,1 @@
-{'Moskau': 1, 'Russland': 1, 'Wladimir Putin': 1, 'ukrainischen': 2, 'Kiew': 1, 'ukrainische': 2, 'Zugzwang': 1, 'Assad-Armee': 1, 'Syrien': 1, 'diskreditiert': 1, 'kaum': 1, 'am 7': 1, 'fertigen': 1, 'die': 1, 'eine': 1, 'in': 1, 'nehmen': 1, 'unausweichlich': 1}
+['Moskau', 'Russland', 'Wladimir Putin', 'ukrainischen', 'Kiew', 'ukrainische', 'Zugzwang', 'ukrainischen', 'Assad-Armee', 'Syrien', 'diskreditiert', 'kaum', 'am 7', 'ukrainische', 'fertigen', 'die', 'eine', 'in', 'nehmen', 'unausweichlich']

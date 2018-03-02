@@ -1,1 +1,1 @@
-{'. Die': 1, 'Bundestag': 1, 'dabei': 1, 'Insbesondere bei': 1, 'Ausdruck': 1, 'Soloselbstständigkeit zu einer': 1, 'starke': 1, 'mit': 1}
+['. Die', 'Bundestag', 'dabei', 'Insbesondere bei', 'Ausdruck', 'Soloselbstständigkeit zu einer', 'starke', 'mit']

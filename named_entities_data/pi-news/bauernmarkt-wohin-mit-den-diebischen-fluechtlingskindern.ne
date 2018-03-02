@@ -1,1 +1,1 @@
-{',': 3, 'mit': 1, 'Der': 1, 'ein': 1, 'Bürgermeisterin': 1, 'erbost': 1, 'vogelwild': 1, ', wo': 1, 'Rede davon': 1, 'die': 1, '.': 1, 'zu': 1, 'das': 1, 'war': 1, 'Kinder': 1, 'vom': 1, 'hätten': 1, 'ist': 1, 'nichts': 1}
+[',', 'mit', 'Der', 'ein', 'Bürgermeisterin', 'erbost', 'vogelwild', ', wo', 'Rede davon', 'die', '.', 'zu', 'das', ',', 'war', 'Kinder', 'vom', ',', 'hätten', 'ist', 'nichts']

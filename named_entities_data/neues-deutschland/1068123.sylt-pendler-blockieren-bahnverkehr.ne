@@ -1,1 +1,1 @@
-{'.': 1, '. Drei': 1, 'dem': 1, ')': 1, 'den Bahnverkehr': 1, ',': 1, 'viele': 1, 'Waggons': 1, 'Nachsehen .': 1, 'bis September 2018': 1, 'Wirtschaftsminister': 1, 'eingreife': 1, 'Wochen war': 1, 'Fall': 1}
+['.', '. Drei', 'dem', ')', 'den Bahnverkehr', ',', 'viele', 'Waggons', 'Nachsehen .', 'bis September 2018', 'Wirtschaftsminister', 'eingreife', 'Wochen war', 'Fall']

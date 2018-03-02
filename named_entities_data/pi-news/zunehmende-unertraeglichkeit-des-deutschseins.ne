@@ -1,1 +1,1 @@
-{'vielmehr': 1, '. (': 1, 'in': 1, 'als': 1, 'die': 1, ',': 2, 'wissen': 1}
+['vielmehr', '. (', 'in', 'als', 'die', ',', ',', 'wissen']

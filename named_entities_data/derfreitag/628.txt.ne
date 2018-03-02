@@ -1,1 +1,1 @@
-{'Verkehrspolitik': 1, 'in': 2, 'Hinsicht': 1, 'zum': 1, 'ausgedacht': 1, 'so': 1, 'Spur für': 1, 'nur': 2, 'jetzt': 1, '4': 1, 'Fahrradverkehr': 1, 'ist': 1, '-weg': 1, 'Gedankenexperiment': 1, 'möchte': 1, 'entworfen': 1, 'Schönhauser': 1}
+['Verkehrspolitik', 'in', 'Hinsicht', 'in', 'zum', 'ausgedacht', 'so', 'Spur für', 'nur', 'jetzt', '4', 'Fahrradverkehr', 'ist', '-weg', 'nur', 'Gedankenexperiment', 'möchte', 'entworfen', 'Schönhauser']

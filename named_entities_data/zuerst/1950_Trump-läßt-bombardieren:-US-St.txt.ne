@@ -1,1 +1,1 @@
-{'Washington/Kabul': 1, 'Es': 1, '–': 1, 'hat': 1, 'und läßt die': 1, 'im': 1, 'Schlag': 1, 'Afghanistan': 1, 'die': 1, 'GBU-43/B': 1, '2003 entwickelte thermobarische Bombe': 1, 'Sprengkörper': 1, 'östlichen Provinz': 1, 'gegen': 1, 'das': 1, 'vor': 1}
+['Washington/Kabul', 'Es', '–', 'hat', 'und läßt die', 'im', 'Schlag', 'Afghanistan', 'die', 'GBU-43/B', '2003 entwickelte thermobarische Bombe', 'Sprengkörper', 'östlichen Provinz', 'gegen', 'das', 'vor']

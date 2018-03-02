@@ -1,1 +1,1 @@
-{'Gesellschaft 2 Berlin': 1, 'Berliner SPD-Abgeordnete': 1, 'hat nach': 1, 'in': 1, 'klare': 1, 'bei einer': 1, '“': 1, 'zum': 1, 'einer': 1, ':': 1, 'höchsten politischen': 1, 'warum': 1, 'warum diese': 1, 'Auftritt des': 1}
+['Gesellschaft 2 Berlin', 'Berliner SPD-Abgeordnete', 'hat nach', 'in', 'klare', 'bei einer', '“', 'zum', 'einer', ':', 'höchsten politischen', 'warum', 'warum diese', 'Auftritt des']

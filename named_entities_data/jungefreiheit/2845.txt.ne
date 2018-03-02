@@ -1,1 +1,1 @@
-{'kniehoch': 1, 'als ein': 1, 'eine': 1, 'Stadtpatrons': 1, 'Dominikanermönch': 1, 'dem': 1, 'reichen': 1, ',': 3, ', ein': 1, 'weltweit': 1, 'läßt': 1, 'trockene': 1, 'Ort': 1, 'wird der': 1, '.': 1, '``': 1, 'Plastikplanen': 1, 'staut': 1}
+['kniehoch', 'als ein', 'eine', 'Stadtpatrons', 'Dominikanermönch', 'dem', 'reichen', ',', ', ein', 'weltweit', 'läßt', ',', 'trockene', 'Ort', 'wird der', '.', '``', 'Plastikplanen', ',', 'staut']

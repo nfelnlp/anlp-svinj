@@ -1,1 +1,1 @@
-{'(': 1, 'Handlungsbedarf': 1}
+['(', 'Handlungsbedarf']

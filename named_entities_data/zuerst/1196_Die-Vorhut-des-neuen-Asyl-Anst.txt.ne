@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Bozen': 2, 'Südtirol': 1, 'in': 1, 'einquartiert': 1, 'erreicht': 1, 'zitierten': 1, 'Caramaschi mit': 1, 'Sicherheitsmitarbeiter': 1, 'Straße': 1, 'höhere': 1, 'pochte unterdessen': 1, 'Wien': 1, 'einem': 1, 'seinem': 1, 'in Italien': 1, 'nicht': 1}
+['Gesellschaft', 'Bozen', 'Südtirol', 'Bozen', 'in', 'einquartiert', 'erreicht', 'zitierten', 'Caramaschi mit', 'Sicherheitsmitarbeiter', 'Straße', 'höhere', 'pochte unterdessen', 'Wien', 'einem', 'seinem', 'in Italien', 'nicht']

@@ -1,1 +1,1 @@
-{'Gesellschaft 2 Berlin': 1, 'Bundespolizei': 1, 'Deutschland': 1, 'normalerweise': 1, 'Asylsuchende': 1, 'die': 1, 'es': 1, 'oder': 1, ',': 1, 'nur': 1, '! Der': 1, 'Jörg': 1, 'in erschreckendem': 1, 'Asylrecht': 1, '.': 1, 'glaubt anscheinend': 1, 'das': 1, 'setzt': 1}
+['Gesellschaft 2 Berlin', 'Bundespolizei', 'Deutschland', 'normalerweise', 'Asylsuchende', 'die', 'es', 'oder', ',', 'nur', '! Der', 'Jörg', 'in erschreckendem', 'Asylrecht', '.', 'glaubt anscheinend', 'das', 'setzt']

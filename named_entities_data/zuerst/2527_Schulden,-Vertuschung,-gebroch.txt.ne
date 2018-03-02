@@ -1,1 +1,1 @@
-{'Washington': 1, 'Internationale Währungsfonds': 1, 'IWF': 1, 'EU-Regeln': 1, 'einem': 1, 'veröffentlichten': 1, '.': 4, 'bereits': 1, 'ist': 1, 'gibt': 1}
+['Washington', 'Internationale Währungsfonds', 'IWF', 'EU-Regeln', 'einem', 'veröffentlichten', '.', 'bereits', '.', '.', 'ist', '.', 'gibt']

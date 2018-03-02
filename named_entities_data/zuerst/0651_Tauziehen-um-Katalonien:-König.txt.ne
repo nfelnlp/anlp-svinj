@@ -1,1 +1,1 @@
-{'Madrid': 1, 'Kataloniens': 1, 'Felipe IV .': 1, 'Barcelona': 2, 'Wort': 1, 'Spanien': 1, 'in': 2, 'sagte': 1, 'habe': 1, 'schwierige': 1, '„eine': 1, 'Ruhe und der Hoffnung': 1, 'der': 1, 'werde mit': 1, 'Einigkeit': 1, ',': 1, 'außer': 1, '„Eine': 1}
+['Madrid', 'Kataloniens', 'Felipe IV .', 'Barcelona', 'Wort', 'Spanien', 'Barcelona', 'in', 'sagte', 'habe', 'schwierige', '„eine', 'Ruhe und der Hoffnung', 'der', 'in', 'werde mit', 'Einigkeit', ',', 'außer', '„Eine']

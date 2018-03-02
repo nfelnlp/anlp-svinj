@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Deutschland': 1, ',': 2, 'am': 1, 'durch': 1, 'Breisgau': 1, 'aus der Schweiz': 1, 'Fahrschein': 1, 'Aliaspersonalien': 1, 'Mann': 1, 'seiner Durchsuchung': 1, 'einer': 1, 'sich': 2, 'es': 1, 'Gebrechen': 1, '16Jähriger': 1, '18jähriger': 1, 'Ketten': 1, '.': 1, 'etwa': 1, 'in Streit': 1}
+['Gesellschaft', 'Deutschland', ',', 'am', 'durch', 'Breisgau', 'aus der Schweiz', 'Fahrschein', 'Aliaspersonalien', 'Mann', 'seiner Durchsuchung', 'einer', 'sich', 'es', 'Gebrechen', '16Jähriger', ',', '18jähriger', 'Ketten', '.', 'etwa', 'in Streit', 'sich']

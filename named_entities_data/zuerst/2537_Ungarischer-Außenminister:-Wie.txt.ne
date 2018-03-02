@@ -1,1 +1,1 @@
-{'Budapest': 1, 'sorgt in': 1, 'Enthüllung': 1, 'Gesprächsstoff': 1, 'in': 1, 'vertraute der': 1, 'ein': 1, 'Papier': 1, 'ergreifen': 1, '.': 1, 'Minister': 1, '. Szijjártó': 1, 'kein Hehl': 1, 'er': 1, 'das': 1, 'mü': 1, 'World': 1, 'swiss-image.ch/Photo': 1, 'Sebastian': 1, 'Sebastian Derungs': 1}
+['Budapest', 'sorgt in', 'Enthüllung', 'Gesprächsstoff', 'in', 'vertraute der', 'ein', 'Papier', 'ergreifen', '.', 'Minister', '. Szijjártó', 'kein Hehl', 'er', 'das', 'mü', 'World', 'swiss-image.ch/Photo', 'Sebastian', 'Sebastian Derungs']

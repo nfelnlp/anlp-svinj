@@ -1,1 +1,1 @@
-{'EU': 1, 'Nordirland': 1, 'Provinz': 1, 'Vereinigten Königreiches': 1, 'Belgien': 1, 'Belfast': 1, 'Theresa Mays': 1, 'Brexit-Verhandlungen': 1, 'III. , also auf': 1}
+['EU', 'Nordirland', 'Provinz', 'Vereinigten Königreiches', 'Belgien', 'Belfast', 'Theresa Mays', 'Brexit-Verhandlungen', 'III. , also auf']

@@ -1,1 +1,1 @@
-{'willkürlich': 1, 'wir': 1, 'nennt das': 1, 'beginnt': 1, '“': 1, 'es eine': 1, 'es eine Korrelation zwischen': 1, 'bisweilen': 1, 'sie': 1, ',': 1}
+['willkürlich', 'wir', 'nennt das', 'beginnt', '“', 'es eine', 'es eine Korrelation zwischen', 'bisweilen', 'sie', ',']

@@ -1,1 +1,1 @@
-{'Washington': 1, 'Trump': 1, 'eine seinerzeit': 1, 'Toiletten-Wahl von': 1, 'Mai von': 1, 'dürften': 1, 'wie': 1, ',': 1, 'die': 1, 'Transgender-Schüler': 1, 'lassen': 1, 'habe': 1, 'hatten': 1}
+['Washington', 'Trump', 'eine seinerzeit', 'Toiletten-Wahl von', 'Mai von', 'dürften', 'wie', ',', 'die', 'Transgender-Schüler', 'lassen', 'habe', 'hatten']

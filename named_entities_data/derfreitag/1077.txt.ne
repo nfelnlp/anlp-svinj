@@ -1,1 +1,1 @@
-{'Platt': 1, 'heizen sie': 1, 'nur noch': 1, 'Libyen': 1, 'auch': 1, 'viel': 1, 'engagieren': 1, 'als': 1, 'eigenen': 1, 'in': 1, 'einzufordern': 1, 'denen': 1, '.': 1, 'ideologisches Konstrukt': 1, 'mit': 1, 'eines': 1, 'schnell': 1}
+['Platt', 'heizen sie', 'nur noch', 'Libyen', 'auch', 'viel', 'engagieren', 'als', 'eigenen', 'in', 'einzufordern', 'denen', '.', 'ideologisches Konstrukt', 'mit', 'eines', 'schnell']

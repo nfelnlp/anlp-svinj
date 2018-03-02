@@ -1,0 +1,1 @@
+['von', 'direkt', 'ausgeflogen', ',', ',', 'und', 'wurden', 'gebracht', 'Minniti Laut', 'Bassetti (', 'Bischofskonferenz )', 'Minniti die', 'sprach', 'eröffnet', 'Das', 'Libyen', 'vor', 'Auswahl', '.', 'Sogwirkung', '.']

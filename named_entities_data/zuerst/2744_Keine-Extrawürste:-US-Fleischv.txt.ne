@@ -1,1 +1,1 @@
-{'keine': 1, 'Morgan im': 1, 'wegen': 1, '.': 1, 'dem': 1, 'empört': 1}
+['keine', 'Morgan im', 'wegen', '.', 'dem', 'empört']

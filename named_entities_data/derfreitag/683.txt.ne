@@ -1,1 +1,1 @@
-{'Images In': 1, 'kontrollierten Stube': 1, 'dieser': 1, 'USA': 1, '.': 2, 'allen': 1, 'wie': 1, 'Verhandlungsrunden': 1, 'Vagen': 1, 'sind einer': 1, 'höchstens': 1, 'eine': 1}
+['Images In', 'kontrollierten Stube', 'dieser', 'USA', '.', 'allen', 'wie', 'Verhandlungsrunden', 'Vagen', 'sind einer', '.', 'höchstens', 'eine']

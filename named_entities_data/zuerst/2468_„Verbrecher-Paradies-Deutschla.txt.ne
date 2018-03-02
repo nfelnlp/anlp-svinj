@@ -1,1 +1,1 @@
-{'Gesellschaft 3 Berlin': 1, 'Bundesrepublik Deutschland': 1, 'die': 1, 'nach': 1, 'mit': 1, 'und': 1, 'überfallen': 1, 'latente': 1, 'Terrorgefahr –': 1, '„ungewöhnliche': 1}
+['Gesellschaft 3 Berlin', 'Bundesrepublik Deutschland', 'die', 'nach', 'mit', 'und', 'überfallen', 'latente', 'Terrorgefahr –', '„ungewöhnliche']

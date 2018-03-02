@@ -1,1 +1,1 @@
-{'. Die': 1, 'Donnerstag': 1, '.': 1, 'Scheele': 1, 'einem Überschuss': 1, 'Finanzkrise des': 1, 'für': 1, 'damit': 1}
+['. Die', 'Donnerstag', '.', 'Scheele', 'einem Überschuss', 'Finanzkrise des', 'für', 'damit']

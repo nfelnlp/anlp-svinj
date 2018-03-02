@@ -1,1 +1,1 @@
-{'kämpfen': 1, 'derzeit': 1, ') dabei zwischen': 1, 'beiden': 1, ',': 1, '. Doch': 1, 'den frühen': 1, 'er': 1, 'im': 1, 'Arbeitermacht': 1, '.': 2, 'angestiegen': 1, 'den': 1, 'Partei': 1}
+['kämpfen', 'derzeit', ') dabei zwischen', 'beiden', ',', '. Doch', 'den frühen', 'er', 'im', 'Arbeitermacht', '.', 'angestiegen', 'den', '.', 'Partei']

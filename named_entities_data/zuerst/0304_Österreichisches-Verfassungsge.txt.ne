@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Wien': 1, 'Österreich': 1, 'Freiheitlichen': 1, 'ÖVP': 1, 'FPÖ-Kreisen': 1, 'gleich': 1, 'Kickl': 1, '„Jetzt ist': 1, ',': 2, 'dieser': 1, 'nicht': 1, 'keine andere': 1}
+['Gesellschaft', 'Wien', 'Österreich', 'Freiheitlichen', 'ÖVP', 'FPÖ-Kreisen', 'gleich', 'Kickl', '„Jetzt ist', ',', 'dieser', ',', 'nicht', 'keine andere']

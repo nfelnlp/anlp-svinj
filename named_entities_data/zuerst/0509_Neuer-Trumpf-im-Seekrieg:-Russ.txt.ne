@@ -1,1 +1,1 @@
-{'Moskau': 1, 'Marine eingeführt': 1, 'Kampf gegen': 1, 'Rakete soll': 1, 'seegestützte': 1, 'Jahren': 1, 'Generation': 1, 'und': 1, '-Raketen bekommen': 1, '(': 1, '( mü )': 1}
+['Moskau', 'Marine eingeführt', 'Kampf gegen', 'Rakete soll', 'seegestützte', 'Jahren', 'Generation', 'und', '-Raketen bekommen', '(', '( mü )']

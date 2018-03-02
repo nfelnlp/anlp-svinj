@@ -1,1 +1,1 @@
-{'outgesourct': 1, 'Landes': 1, 'Landes Berlin': 1, 'IG': 1}
+['outgesourct', 'Landes', 'Landes Berlin', 'IG']

@@ -1,1 +1,1 @@
-{'Gesellschaft 8 Berlin': 1, 'Jens': 1, 'den urbanen': 1, '„Wir': 1, 'in': 1, 'Bereitschaft': 1, 'ab.': 1, 'dafür': 1, ': „Im': 1, 'Jahrhundert wurde': 1, 'Verwendung': 1, 'sp': 1}
+['Gesellschaft 8 Berlin', 'Jens', 'den urbanen', '„Wir', 'in', 'Bereitschaft', 'ab.', 'dafür', ': „Im', 'Jahrhundert wurde', 'Verwendung', 'sp']

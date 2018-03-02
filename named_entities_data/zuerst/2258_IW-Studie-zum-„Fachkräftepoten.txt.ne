@@ -1,1 +1,1 @@
-{'Köln': 1, 'deutschen': 1, '„ein': 1, 'noch': 1, 'über': 1, '17': 1, '19': 1, 'Asyl-Ansturm': 1, 'Ausländern': 1, '„Für': 1}
+['Köln', 'deutschen', '„ein', 'noch', 'über', '17', '19', 'Asyl-Ansturm', 'Ausländern', '„Für']

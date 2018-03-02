@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Dresden': 1, 'Neustadt': 1, '27-jähriegr': 1, 'alle': 1, '.': 2, 'und': 1, 'die': 1, 'Passanten': 1, 'Das Treiben': 1, 'Das Treiben der Gruppe sorgte bereits mehrmals': 1, ',': 1}
+['Gesellschaft', 'Dresden', 'Neustadt', '27-jähriegr', 'alle', '.', 'und', 'die', '.', 'Passanten', 'Das Treiben', 'Das Treiben der Gruppe sorgte bereits mehrmals', ',']

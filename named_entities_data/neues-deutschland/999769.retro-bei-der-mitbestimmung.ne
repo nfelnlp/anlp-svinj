@@ -1,1 +1,1 @@
-{'zu': 1, '.': 1, 'Betriebsrat wurde': 1, 'des Betriebsrates': 1, 'Man': 1, 'Betriebsrat': 1, 'Anweisung': 1, 'die': 1, 'bei': 1}
+['zu', '.', 'Betriebsrat wurde', 'des Betriebsrates', 'Man', 'Betriebsrat', 'Anweisung', 'die', 'bei']

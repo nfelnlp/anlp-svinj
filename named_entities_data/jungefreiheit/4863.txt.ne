@@ -1,1 +1,1 @@
-{'subkutan': 1, 'Luther': 1, 'Kaiser Maximilian I .': 1, 'Gesetzesfrieden': 1, 'Verleumder': 1, 'Und': 1, '``': 1, ',': 3, 'dann': 1, 'mit': 1, 'die': 1, 'zusammenschlagen': 1, 'ihn': 1, 'ihr': 1, 'begierig': 1, 'empfing die': 1, 'vom': 1, 'auch': 1, 'Sachen': 1, 'Augenblick': 1, 'Dennoch': 1}
+['subkutan', 'Luther', 'Kaiser Maximilian I .', 'Gesetzesfrieden', 'Verleumder', 'Und', '``', ',', 'dann', 'mit', 'die', 'zusammenschlagen', 'ihn', ',', 'ihr', ',', 'begierig', 'empfing die', 'vom', 'auch', 'Sachen', 'Augenblick', 'Dennoch']

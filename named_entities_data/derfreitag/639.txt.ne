@@ -1,1 +1,1 @@
-{'Images': 1, '2015': 1, 'ja': 1, 'noch': 1, ',': 1, '.': 1, '„denen': 1, 'im': 2, 'die': 2, 'Weg': 1, 'Wo': 1, 'allen': 1, 'viel': 1, 'wieder': 1, 'betont': 1, 'das': 1, 'gehen': 1, 'klangliche Qualität': 1, 'ziehen': 1, 'sich': 1}
+['Images', '2015', 'ja', 'noch', ',', '.', '„denen', 'im', 'die', 'im', 'Weg', 'Wo', 'allen', 'viel', 'wieder', 'betont', 'das', 'gehen', 'klangliche Qualität', 'die', 'ziehen', 'sich']

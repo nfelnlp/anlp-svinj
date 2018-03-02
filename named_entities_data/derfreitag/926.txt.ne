@@ -1,1 +1,1 @@
-{'Ich': 1, 'gern': 1, 'der': 1, 'Muskelpaket ?': 1, 'So': 1, 'nicht': 1, ',': 2, 'gibt': 1, 'tausende': 1, 'privat': 1, 'selten': 1, 'Tempo': 1, 'Marathonläufer': 1, 'offenbar': 1, 'regelmäßig über': 1}
+['Ich', 'gern', 'der', 'Muskelpaket ?', 'So', 'nicht', ',', ',', 'gibt', 'tausende', 'privat', 'selten', 'Tempo', 'Marathonläufer', 'offenbar', 'regelmäßig über']

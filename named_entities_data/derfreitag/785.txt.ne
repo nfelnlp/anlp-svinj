@@ -1,1 +1,1 @@
-{'SPD': 1, 'Sean Gallup/Getty': 1, 'Zu': 1, 'Mitglieder': 1, 'SPD-Chef': 1, 'ungeahnte Aufmerksamkeit': 1, '.': 2, 'die Argumentation schlicht': 1, 'und': 2, 'Abgeordneten': 1, 'könnten': 1, ':': 1, 'Inzwischen': 1, 'sich': 1, 'ihm': 1, 'darum geht': 1, 'habe .': 1, ': auch': 1, 'Regel': 1}
+['SPD', 'Sean Gallup/Getty', 'Zu', 'Mitglieder', 'SPD-Chef', 'ungeahnte Aufmerksamkeit', '.', 'die Argumentation schlicht', 'und', 'Abgeordneten', 'könnten', ':', 'Inzwischen', 'sich', 'ihm', 'darum geht', 'und', 'habe .', ': auch', '.', 'Regel']

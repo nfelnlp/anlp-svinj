@@ -1,1 +1,1 @@
-{'Wien': 1, 'Österreich': 1, 'Freiheitlichen': 1, 'ÖVP': 1, 'SPÖ': 1, 'FPÖ-Generalsekretär': 1, 'Die': 1, 'anschließend': 1, 'werden': 1, 'können': 1, 'den': 1, 'bei seinem': 1, 'Schengener': 1, ',': 1, 'mit': 1, '„Demensprechend': 1, 'setzen': 1}
+['Wien', 'Österreich', 'Freiheitlichen', 'ÖVP', 'SPÖ', 'FPÖ-Generalsekretär', 'Die', 'anschließend', 'werden', 'können', 'den', 'bei seinem', 'Schengener', ',', 'mit', '„Demensprechend', 'setzen']

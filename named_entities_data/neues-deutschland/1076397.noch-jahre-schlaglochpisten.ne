@@ -1,1 +1,1 @@
-{'es exakt 4251,3': 1, 'die Regierung': 1, 'zum': 1, 'vergangenen Jahr immerhin': 1, 'Magdeburg und': 1, 'Städte-': 1, 'Land': 1, 'die': 2, 'Millionen': 1, 'zusätzlich': 1, 'ihren': 1, 'an': 1, 'deshalb': 1, 'Es': 1, 'werden': 1, ',': 2, 'auf': 1}
+['es exakt 4251,3', 'die Regierung', 'zum', 'vergangenen Jahr immerhin', 'Magdeburg und', 'Städte-', 'Land', 'die', 'Millionen', 'die', 'zusätzlich', 'ihren', 'an', 'deshalb', 'Es', 'werden', ',', 'auf', ',']

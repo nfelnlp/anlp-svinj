@@ -1,1 +1,1 @@
-{'allen': 1, 'aus': 1, 'Machenschaften': 1, 'von': 1, 'im': 1, 'hier': 1}
+['allen', 'aus', 'Machenschaften', 'von', 'im', 'hier']

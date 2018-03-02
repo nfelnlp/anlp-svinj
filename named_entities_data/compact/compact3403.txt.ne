@@ -1,1 +1,1 @@
-{'sind zu': 1, 'im': 1, 'alsbald': 1, 'Systems': 1, 'Aufsässigkeit': 1, 'den': 1, '.': 3, 'Menschen': 1, 'wird': 1, 'die Tugendhaftigkeit': 1, 'vollstreckenden': 1, ',': 1, 'als': 1, 'sie': 1, 'verprügelten': 1, 'vom': 1, 'sahen': 1, 'mehr': 1, 'Umwelt': 1, 'Möglichkeiten Selbst': 1, 'Welt': 1}
+['sind zu', 'im', 'alsbald', 'Systems', 'Aufsässigkeit', 'den', '.', 'Menschen', 'wird', 'die Tugendhaftigkeit', 'vollstreckenden', ',', 'als', 'sie', 'verprügelten', 'vom', 'sahen', '.', '.', 'mehr', 'Umwelt', 'Möglichkeiten Selbst', 'Welt']

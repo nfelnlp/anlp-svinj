@@ -1,0 +1,1 @@
+['CDU', 'Alexander Gauland', 'ungeniert', 'Piraten', 'FDP', 'CDU/CSU', 'Als `` Mutter', '``', 'Freiheit', 'aufgemachtes', 'Schulden', 'für', "''", 'ohne', 'letztendlich über', 'hinweg', 'ebenfalls zum', 'Öffentlichkeit', 'einziehen']

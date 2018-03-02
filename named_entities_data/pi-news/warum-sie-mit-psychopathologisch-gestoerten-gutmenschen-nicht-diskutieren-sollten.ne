@@ -1,1 +1,1 @@
-{'Jürgen Fritz*': 1, 'weil': 1, 'lieber': 1}
+['Jürgen Fritz*', 'weil', 'lieber']

@@ -1,1 +1,1 @@
-{'Angela Merkel': 1, 'Gefühlskälte': 1, 'Merkel –': 1, 'die Frau': 1, 'nicht': 1, '.': 3, 'ziemlich': 1, 'Besonderheit': 1, 'verhöhnt': 1, 'die': 1, 'wieder': 1, 'wenn': 1, 'sehr': 1, 'verheerende': 1, 'und Meinungsfreiheit .': 1, 'und Meinungsfreiheit . Der': 1, 'der „Bürger': 1}
+['Angela Merkel', 'Gefühlskälte', 'Merkel –', 'die Frau', 'nicht', '.', 'ziemlich', '.', 'Besonderheit', 'verhöhnt', 'die', 'wieder', 'wenn', 'sehr', 'verheerende', 'und Meinungsfreiheit .', 'und Meinungsfreiheit . Der', 'der „Bürger', '.']

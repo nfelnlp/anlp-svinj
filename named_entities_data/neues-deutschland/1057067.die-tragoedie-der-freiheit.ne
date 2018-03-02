@@ -1,1 +1,1 @@
-{'?': 1, 'Einigkeit': 1, 'zwischen': 1, 'Kampf': 1, 'Die': 1, 'wollten': 1, 'telegraph': 1, 'würdigen': 1, '«': 1, 'So': 1, '« in': 1, 'Jagd': 1, 'Linke ,': 1, 'nicht': 1, 'Stemmann': 1, 'in': 1, ',': 1, 'Pseudonym Fritz': 1, 'kritischen Linken': 1, 'der': 2, 'diesem': 1, 'wie': 1, 'und': 1, '12': 1}
+['?', 'Einigkeit', 'zwischen', 'Kampf', 'Die', 'wollten', 'telegraph', 'würdigen', '«', 'So', '« in', 'Jagd', 'Linke ,', 'nicht', 'Stemmann', 'in', ',', 'Pseudonym Fritz', 'kritischen Linken', 'der', 'der', 'diesem', 'wie', 'und', '12']

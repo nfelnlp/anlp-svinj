@@ -1,1 +1,1 @@
-{'. »': 1, 'Volksinitiative': 1}
+['. »', 'Volksinitiative']

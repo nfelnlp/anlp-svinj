@@ -1,1 +1,1 @@
-{'Jutta Ditfurth': 1, 'Goethe': 1, 'Faust': 1, ')': 2, ',': 1, 'haß': 1, 'eilfertig und als': 1, 'Vollstrecker': 1, 'Brunnenvergifter… Jahrhundertelang': 1, 'weite': 1, 'europäischen Adels': 1, 'machen': 1, 'hätte': 1, ': Ihre': 1, 'der': 1, 'als': 1}
+['Jutta Ditfurth', 'Goethe', 'Faust', ')', ',', 'haß', ')', 'eilfertig und als', 'Vollstrecker', 'Brunnenvergifter… Jahrhundertelang', 'weite', 'europäischen Adels', 'machen', 'hätte', ': Ihre', 'der', 'als']

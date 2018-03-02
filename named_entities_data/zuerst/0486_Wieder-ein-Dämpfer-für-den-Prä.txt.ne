@@ -1,1 +1,1 @@
-{'Washington': 1, ': jetzt': 1, 'eine': 1, 'künftig': 1, 'begründet': 1, 'Trump bis': 1, ', zu': 1, ',': 1}
+['Washington', ': jetzt', 'eine', 'künftig', 'begründet', 'Trump bis', ', zu', ',']

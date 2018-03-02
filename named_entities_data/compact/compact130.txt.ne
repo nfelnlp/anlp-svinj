@@ -1,1 +1,1 @@
-{'Drei Handschriften': 1, 'Heroendichtung': 1, '„Mannen': 1, 'folgt': 1, 'und': 1, 'vor': 1, 'in': 2, 'Wolken': 1, 'sahen': 1, 'Gottes': 1, 'Frohlocken': 1, '|': 3, 'eilen': 1, 'das': 1, '–': 1}
+['Drei Handschriften', 'Heroendichtung', '„Mannen', 'folgt', 'und', 'vor', 'in', 'Wolken', 'sahen', 'Gottes', 'Frohlocken', '|', 'eilen', '|', '|', 'das', 'in', '–']

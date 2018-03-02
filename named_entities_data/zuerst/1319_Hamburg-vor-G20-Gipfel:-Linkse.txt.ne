@@ -1,1 +1,1 @@
-{'Hamburg': 2, '„Welcome': 1, 'werden': 1, 'rechnet': 1, '( SPD': 1, 'die': 1, 'hinnehmen': 1, 'Demonstration': 1, 'Linksextremisten': 1}
+['Hamburg', 'Hamburg', '„Welcome', 'werden', 'rechnet', '( SPD', 'die', 'hinnehmen', 'Demonstration', 'Linksextremisten']

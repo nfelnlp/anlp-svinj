@@ -1,1 +1,1 @@
-{'Gesellschaft 4 Berlin': 1, 'Akmann ,': 1, 'Geisel (': 1, ')': 1, 'von': 1, 'Zelle': 1, 'Gewalt': 1, ',': 1, 'der': 1, 'in': 1, '„Wir haben': 1}
+['Gesellschaft 4 Berlin', 'Akmann ,', 'Geisel (', ')', 'von', 'Zelle', 'Gewalt', ',', 'der', 'in', '„Wir haben']

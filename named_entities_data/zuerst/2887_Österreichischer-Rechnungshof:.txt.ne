@@ -1,1 +1,1 @@
-{'Wien': 1, 'Europa': 1, 'Asien': 1, 'eröffnete': 1, 'Euro': 1, 'pro': 1}
+['Wien', 'Europa', 'Asien', 'eröffnete', 'Euro', 'pro']

@@ -1,1 +1,1 @@
-{'FPÖ': 2, 'FPÖ Erfurt': 1, 'österreichische Partei FPÖ': 1, 'MDR Thüringen': 1, 'Erfurter': 1, 'Smendek dem': 1, 'zuvor': 1, 'S.': 1, 'Wien , dem': 1, 'Zuge': 1, 'SPD': 1, 'verlieh dem': 1, 'später': 1, 'in': 1, 'zunächst': 1, 'trotzdem': 1, 'die': 1, 'ziehe': 1, 'sagte': 1, 'Videojournalisten': 1, ',': 1, '.': 1}
+['FPÖ', 'FPÖ Erfurt', 'österreichische Partei FPÖ', 'MDR Thüringen', 'FPÖ', 'Erfurter', 'Smendek dem', 'zuvor', 'S.', 'Wien , dem', 'Zuge', 'SPD', 'verlieh dem', 'später', 'in', 'zunächst', 'trotzdem', 'die', 'ziehe', 'sagte', 'Videojournalisten', ',', '.']

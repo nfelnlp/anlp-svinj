@@ -1,1 +1,1 @@
-{'das': 1, ',': 2, 'Im April': 1, 'prorussisch': 1, 'Polyschtschuk tatsächlich': 1, 'dem Mord': 1, ', der': 1, 'der': 1, 'dem': 1, 'des ukrainischen': 1, 'haben': 1, 'Städte wie': 1, 'vorne': 1, 'nur': 1, 'Zeitung »': 1, 'im': 1, 'Täter': 1, '»': 1, 'In': 1, 'Maßnahmen': 1, 'verteidigt.': 1}
+['das', ',', 'Im April', 'prorussisch', 'Polyschtschuk tatsächlich', 'dem Mord', ', der', 'der', 'dem', ',', 'des ukrainischen', 'haben', 'Städte wie', 'vorne', 'nur', 'Zeitung »', 'im', 'Täter', '»', 'In', 'Maßnahmen', 'verteidigt.']

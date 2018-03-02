@@ -1,1 +1,1 @@
-{'Meyer Schultze': 1, 'Bundesrepublik Deutschland': 1, 'zum': 1, 'an': 1, 'Kishons Spaziergängen': 1}
+['Meyer Schultze', 'Bundesrepublik Deutschland', 'zum', 'an', 'Kishons Spaziergängen']

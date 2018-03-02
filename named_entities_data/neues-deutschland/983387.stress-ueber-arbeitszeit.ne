@@ -1,1 +1,1 @@
-{'SPD': 1, '.': 4, 'hat zurückhaltend': 1, 'diese': 1, 'und': 1, 'nicht': 1, 'Beschäftigten': 1, 'eine': 2, 'erster': 1, 'dass': 1, 'faire': 1, '. Danach': 1}
+['SPD', '.', 'hat zurückhaltend', 'diese', 'und', 'nicht', '.', 'Beschäftigten', 'eine', '.', '.', 'erster', 'dass', 'faire', 'eine', '. Danach']

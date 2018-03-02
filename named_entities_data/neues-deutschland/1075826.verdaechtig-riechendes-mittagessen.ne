@@ -1,1 +1,1 @@
-{'.': 1, '. Ein': 1, 'worden': 1, 'Gietzen . Bei': 1, 'zahlen .': 1, ', für': 1, 'Vertreter': 1, 'argumentierten laut': 1, 'Rauch': 1, '140 Alarme': 1, '. Insgesamt': 1, 'die': 1}
+['.', '. Ein', 'worden', 'Gietzen . Bei', 'zahlen .', ', für', 'Vertreter', 'argumentierten laut', 'Rauch', '140 Alarme', '. Insgesamt', 'die']

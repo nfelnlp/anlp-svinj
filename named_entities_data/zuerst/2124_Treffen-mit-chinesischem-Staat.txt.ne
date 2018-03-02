@@ -1,1 +1,1 @@
-{'Washington': 1, 'NATO': 1, 'US-Präsident': 1, 'das Bündnis': 1, 'nicht': 1, ':': 1, 'werde bei': 1, 'Sprecherin des': 1, 'Großteil': 1, 'gegen': 1, 'am': 1, 'nun': 1, 'mit': 1, 'auf Trumps': 1, 'USA': 1, 'Reuters': 1, 'die': 1, 'ihr': 1, 'Überschneidungen': 1, 'Xis': 1}
+['Washington', 'NATO', 'US-Präsident', 'das Bündnis', 'nicht', ':', 'werde bei', 'Sprecherin des', 'Großteil', 'gegen', 'am', 'nun', 'mit', 'auf Trumps', 'USA', 'Reuters', 'die', 'ihr', 'Überschneidungen', 'Xis']

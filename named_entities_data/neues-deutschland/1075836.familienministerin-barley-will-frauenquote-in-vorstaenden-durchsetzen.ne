@@ -1,1 +1,1 @@
-{'. Familienministerin': 1, 'Barley ( SPD': 1, 'hat': 1, '»': 1, 'eine': 1, 'Offen': 1, 'Pläne': 1, 'trotz': 1, 'für': 1}
+['. Familienministerin', 'Barley ( SPD', 'hat', '»', 'eine', 'Offen', 'Pläne', 'trotz', 'für']

@@ -1,1 +1,1 @@
-{'Berlin': 1, 'Berlin-Heiligensee , in': 1, 'Euro': 3, 'CDU )': 1, 'die': 1, ',': 1, 'verteidigt die': 1, ', meint': 1, 'es hätte': 1, '„Fehleinschätzung': 1, 'Suche': 1, 'und': 1, 'der': 1, 'gegründete': 1, 'kauft': 1, 'jetzt': 1}
+['Berlin', 'Berlin-Heiligensee , in', 'Euro', 'Euro', 'CDU )', 'die', ',', 'verteidigt die', ', meint', 'es hätte', '„Fehleinschätzung', 'Suche', 'und', 'der', 'gegründete', 'kauft', 'Euro', 'jetzt']

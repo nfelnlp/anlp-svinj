@@ -1,1 +1,1 @@
-{'Washington': 1, 'Weißen': 2, 'Steve Bannon': 1, 'Conservative': 1, 'Action': 1, ')': 1, 'gesprochen .': 1, 'Trump': 1, 'gegen': 1, 'vormalige': 1, 'unverhohlene': 1, 'nicht': 1, 'die': 1, 'die konservative': 1, 'Landes': 1, '–': 1, 'Amtsperioden': 1, 'Treffens ist .': 1, 'Mike': 1}
+['Washington', 'Weißen', 'Steve Bannon', 'Conservative', 'Action', ')', 'gesprochen .', 'Trump', 'gegen', 'vormalige', 'unverhohlene', 'nicht', 'die', 'die konservative', 'Landes', '–', 'Amtsperioden', 'Weißen', 'Treffens ist .', 'Mike']

@@ -1,1 +1,1 @@
-{'Amazon': 1, '. Ich': 1, '.': 1, 'bei': 1, 'Jahren': 1, 'zu': 1, 'ich': 1, 'ein': 1, 'noch': 1}
+['Amazon', '. Ich', '.', 'bei', 'Jahren', 'zu', 'ich', 'ein', 'noch']

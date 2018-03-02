@@ -1,1 +1,1 @@
-{'Brüssel/Athen': 1, 'Um': 1, 'war': 1, 'einem Bankrott': 1, 'warnt': 1, '”': 1, 'gerungen': 1, 'werden': 1, 'erklärte': 1, 'Woche gegenüber der': 1, 'Stimme': 1, 'aus': 1, '“': 1, 'Währung': 1, 'sagte': 1}
+['Brüssel/Athen', 'Um', 'war', 'einem Bankrott', 'warnt', '”', 'gerungen', 'werden', 'erklärte', 'Woche gegenüber der', 'Stimme', 'aus', '“', 'Währung', 'sagte']

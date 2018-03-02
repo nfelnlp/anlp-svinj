@@ -1,1 +1,1 @@
-{'Fühlingen': 1, '„Flüchtlinge': 1, 'nördliche': 1, 'Einwanderer': 1, 'bereits': 1, 'überrollt': 1, 'von': 1, 'die': 1, 'in': 1, 'hatte ,': 1, 'Flüchtlingen': 1, 'Wer': 1, 'Wer seine': 1, 'so': 1, '.': 1, 'kommen': 1, 'sie': 1, 'sagt': 1}
+['Fühlingen', '„Flüchtlinge', 'nördliche', 'Einwanderer', 'bereits', 'überrollt', 'von', 'die', 'in', 'hatte ,', 'Flüchtlingen', 'Wer', 'Wer seine', 'so', '.', 'kommen', 'sie', 'sagt']

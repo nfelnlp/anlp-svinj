@@ -1,1 +1,1 @@
-{'Berg': 1, 'kreist': 1, ',': 2, 'hinten': 1, 'vorne': 1, 'unverdrossen': 1, 'gar': 1, 'Automatisierungsgrad': 1, 'durch': 1, 'Tresor zu': 1, 'An': 1, 'Sie': 1, 'prominente': 1, 'daß': 1, 'volkswirtschaftlichen': 1, 'daß Spareinlagen': 1, 'sich trefflich': 1, 'Henry': 1, 'Bevölkerung': 1, 'Ohren': 1}
+['Berg', 'kreist', ',', 'hinten', 'vorne', 'unverdrossen', 'gar', 'Automatisierungsgrad', 'durch', 'Tresor zu', 'An', 'Sie', 'prominente', 'daß', 'volkswirtschaftlichen', 'daß Spareinlagen', 'sich trefflich', 'Henry', 'Bevölkerung', ',', 'Ohren']

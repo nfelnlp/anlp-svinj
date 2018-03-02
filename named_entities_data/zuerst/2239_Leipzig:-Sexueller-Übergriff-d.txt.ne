@@ -1,1 +1,1 @@
-{'Gesellschaft 5': 1, 'Gesellschaft 5 Leipzig': 1, 'Island': 1, 'Leipzig': 1, 'Linke': 1, 'machte': 1, 'randalierte': 1, 'Internetseiten': 1, '.': 1, ')': 1}
+['Gesellschaft 5', 'Gesellschaft 5 Leipzig', 'Island', 'Leipzig', 'Linke', 'machte', 'randalierte', 'Internetseiten', '.', ')']

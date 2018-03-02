@@ -1,1 +1,1 @@
-{'vor': 1, 'die': 1, 'oder': 1, 'Ruhrgebiet': 1, 'sind': 1, '“': 1, 'Wer als': 1, 'gegen seine': 1, 'Provenienz': 1, 'zynischer': 1, ',': 1, 'desaströsen': 1, 'treffen': 1, 'jedoch': 1, 'aus': 1, 'Tat': 1, 'von': 1, 'gar': 1, 'Kräfte': 1}
+['vor', 'die', 'oder', 'Ruhrgebiet', 'sind', '“', 'Wer als', 'gegen seine', 'Provenienz', 'zynischer', ',', 'desaströsen', 'treffen', 'jedoch', 'aus', 'Tat', 'von', 'gar', 'Kräfte']

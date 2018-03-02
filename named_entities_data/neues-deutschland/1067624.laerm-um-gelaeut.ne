@@ -1,1 +1,1 @@
-{'sich': 1, 'Der': 1, 'fühlt sich': 1, 'Die': 1, 'gepachtet': 1}
+['sich', 'Der', 'fühlt sich', 'Die', 'gepachtet']

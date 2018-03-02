@@ -1,1 +1,1 @@
-{'NSU': 2, 'Bundesrepublik': 1, 'NSU-Affäre': 1, 'drei': 1, 'früher': 1, 'waren': 1, 'als': 1}
+['NSU', 'Bundesrepublik', 'NSU', 'NSU-Affäre', 'drei', 'früher', 'waren', 'als']

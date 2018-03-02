@@ -1,1 +1,1 @@
-{'auch': 1, ')': 1, 'und': 3, ', sexuell': 1, 'den': 1, 'der': 1, 'erheblich': 1, 'Die': 1, 'in': 1, 'Senioren': 1, 'die': 1, 'ihm legitimierten ,': 1}
+['auch', ')', 'und', ', sexuell', 'den', 'der', 'erheblich', 'Die', 'in', 'und', 'Senioren', 'die', 'ihm legitimierten ,', 'und']

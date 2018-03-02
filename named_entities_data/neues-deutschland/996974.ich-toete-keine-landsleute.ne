@@ -1,1 +1,1 @@
-{'Ukraine': 2, 'Bernhard Clasen Ruslan Kotsaba': 1, 'ukrainischen': 1, 'Petro Poroschenko': 1, 'Ruslan Kotsaba': 1, 'Youtube': 1, 'Allen': 1, 'verhaftet': 1, 'in': 1, ',': 1}
+['Ukraine', 'Bernhard Clasen Ruslan Kotsaba', 'Ukraine', 'ukrainischen', 'Petro Poroschenko', 'Ruslan Kotsaba', 'Youtube', 'Allen', 'verhaftet', 'in', ',']

@@ -1,1 +1,1 @@
-{'Deutschland': 1, 'gesucht': 1, 'Einwohner': 1, 'Millionen': 1, 'Asylbewerberstatistiken': 1, 'überwältigende': 1, '.': 1, 'man': 1, 'Falls': 1}
+['Deutschland', 'gesucht', 'Einwohner', 'Millionen', 'Asylbewerberstatistiken', 'überwältigende', '.', 'man', 'Falls']

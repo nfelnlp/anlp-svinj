@@ -1,1 +1,1 @@
-{'Pete Doherty': 1, 'Rock': 1, 'den': 2, ',': 2, 'oder': 1, 'so': 1, 'erreicht': 1, 'bekannten': 1, 'Synergien und verbessert': 1, 'auch': 1, 'im': 1, 'man': 1, 'es auch': 1, '.': 1, 'leisten': 1, 'deutlich': 1, 'Die': 1, 'lange Zeit': 1}
+['Pete Doherty', 'Rock', 'den', ',', 'oder', 'so', 'erreicht', 'bekannten', 'Synergien und verbessert', 'auch', 'im', 'man', 'es auch', '.', 'leisten', 'deutlich', 'den', 'Die', 'lange Zeit', ',']

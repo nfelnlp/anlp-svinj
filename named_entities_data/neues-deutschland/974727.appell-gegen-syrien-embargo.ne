@@ -1,1 +1,1 @@
-{'.': 3, '. Friedensaktivisten': 1, 'an': 1, 'an Bundeskanzlerin': 1, 'und den': 1, 'vom Friedensverein': 1, '»': 1, '«': 2, 'der': 1, 'sowie der': 1, 'Ohne ein': 1, 'einsetzt.2011': 1, 'ein': 1, 'gegen': 2, ',': 1, 'Exporte': 1, 'Wirtschaft': 1, 'Appells': 1, 'können': 1, 'Hat Ihnen': 1}
+['.', '. Friedensaktivisten', 'an', 'an Bundeskanzlerin', 'und den', '.', 'vom Friedensverein', '»', '«', 'der', 'sowie der', '.', 'Ohne ein', 'einsetzt.2011', 'ein', 'gegen', ',', 'Exporte', 'Wirtschaft', 'gegen', 'Appells', 'können', '«', 'Hat Ihnen']

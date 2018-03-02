@@ -1,1 +1,1 @@
-{'Wochenende': 1, 'der': 1, 'wurde': 1, 'angereist': 1, 'Grenze': 1, 'mehr': 1, 'so': 1, 'bei': 1}
+['Wochenende', 'der', 'wurde', 'angereist', 'Grenze', 'mehr', 'so', 'bei']

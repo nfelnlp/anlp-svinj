@@ -1,1 +1,1 @@
-{'jährt': 1, 'Amri': 1, 'raste': 1, 'Amri-Untersuchungsausschusses': 1, 'Gedenkinschrift für': 1, '.': 2, 'für': 1, ', und': 1, '“': 1, 'und': 1, 'endlich': 1, 'wenn': 1, 'Daher': 1, 'nicht': 1}
+['jährt', 'Amri', 'raste', 'Amri-Untersuchungsausschusses', 'Gedenkinschrift für', '.', 'für', ', und', '“', 'und', 'endlich', 'wenn', '.', 'Daher', 'nicht']

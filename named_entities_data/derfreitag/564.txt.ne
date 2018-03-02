@@ -1,1 +1,1 @@
-{'machen': 1, 'Zahlen': 1, 'Zeichen für': 1, '. Unbequemer': 1, 'uns': 1, 'Sicht': 1, 'mit': 1, 'Merkel': 1, 'soll': 1, 'Erfolg': 1, 'war': 1, 'Hände': 1, 'und': 1, 'Sicher': 1, ', als ob': 1, 'fragen': 1, 'politischen': 1, 'Medien': 1, ',': 1, '.': 1}
+['machen', 'Zahlen', 'Zeichen für', '. Unbequemer', 'uns', 'Sicht', 'mit', 'Merkel', 'soll', 'Erfolg', 'war', 'Hände', 'und', 'Sicher', ', als ob', 'fragen', 'politischen', 'Medien', ',', '.']

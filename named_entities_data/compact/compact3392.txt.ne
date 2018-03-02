@@ -1,1 +1,1 @@
-{'humanitäre': 1, 'Mediziner': 1, 'bezeichnet': 1, 'Aufstandsbekämpfungen': 1, 'zunehmende Instrumentalisierung': 1, 'ohne Grenzen': 1, 'ohne Grenzen und': 1, 'Partner': 1, 'Militärs': 1, 'das eine absolute': 1, ',': 3, 'dass': 1, '.': 1, 'sogar': 1, 'Das geht': 1, 'auch': 1, 'worden': 1, 'Wir': 1, 'wir': 1}
+['humanitäre', 'Mediziner', 'bezeichnet', 'Aufstandsbekämpfungen', 'zunehmende Instrumentalisierung', 'ohne Grenzen', 'ohne Grenzen und', 'Partner', 'Militärs', 'das eine absolute', ',', 'dass', ',', '.', 'sogar', 'Das geht', ',', 'auch', 'worden', 'Wir', 'wir']

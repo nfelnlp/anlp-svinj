@@ -1,1 +1,1 @@
-{',': 2, ', wo': 1, 'Linux-Technik': 1, '- bitte': 1, 'KLICKEN': 1, '!': 1, 'so': 1, 'sind ,': 1, 'es': 1, 'ein nichtkommerzielles': 1, 'Linux': 1, 'Einsteiger ist': 1, 'Die': 1}
+[',', ', wo', 'Linux-Technik', '- bitte', 'KLICKEN', '!', 'so', 'sind ,', 'es', 'ein nichtkommerzielles', 'Linux', 'Einsteiger ist', ',', 'Die']

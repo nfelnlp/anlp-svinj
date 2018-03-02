@@ -1,1 +1,1 @@
-{'Mo Yan': 1, 'Getty': 1, 'Das': 1, 'als': 1, 'Stockholm': 1, 'dem Nobelpreis': 1, 'Literatur': 1, 'geboren': 1, 'der Kulturrevolution': 1, 'noch': 1, 'Beobachtungen eines': 1, 'dass': 1, 'zunächst': 1, '. Das': 1, 'die Übersetzung': 1, 'ins Deutsche': 1}
+['Mo Yan', 'Getty', 'Das', 'als', 'Stockholm', 'dem Nobelpreis', 'Literatur', 'geboren', 'der Kulturrevolution', 'noch', 'Beobachtungen eines', 'dass', 'zunächst', '. Das', 'die Übersetzung', 'ins Deutsche']

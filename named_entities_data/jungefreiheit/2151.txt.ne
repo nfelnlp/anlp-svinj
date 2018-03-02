@@ -1,1 +1,1 @@
-{',': 2, 'nur': 1, 'in der': 1, 'Editorial': 1, 'eine': 1, 'der': 2, 'her': 1, 'bestenfalls': 1, 'ideologiekritischen Niveau ,': 1, 'ein völlig': 1, 'Theorien': 1, 'Argumenten': 1, 'Gesetz der': 1, 'und': 2, 'nach': 1, 'zu': 1}
+[',', 'nur', 'in der', 'Editorial', 'eine', 'der', 'der', 'her', 'bestenfalls', 'ideologiekritischen Niveau ,', 'ein völlig', 'Theorien', 'Argumenten', 'Gesetz der', 'und', 'nach', ',', 'zu', 'und']

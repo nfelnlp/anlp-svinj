@@ -1,1 +1,1 @@
-{'die': 1, 'Industrie': 1, 'Alle': 1, 'überraschend , denn': 1, 'Digitalisierung': 1, 'wurde': 1, 'der': 1, '- Was wird': 1}
+['die', 'Industrie', 'Alle', 'überraschend , denn', 'Digitalisierung', 'wurde', 'der', '- Was wird']

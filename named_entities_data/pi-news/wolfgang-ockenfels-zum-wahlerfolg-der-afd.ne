@@ -1,1 +1,1 @@
-{'|': 1, 'Bundestag': 1, ',': 1, 'der': 1, '“': 1, 'unerreichbar ist': 1, 'die': 1, '.': 1, 'aber betrifft dieses Prinzip': 1, 'sondern': 1, 'weil': 1, 'Leute': 1}
+['|', 'Bundestag', ',', 'der', '“', 'unerreichbar ist', 'die', '.', 'aber betrifft dieses Prinzip', 'sondern', 'weil', 'Leute']

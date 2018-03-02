@@ -1,1 +1,1 @@
-{'Werden Jungen': 1, '.': 2, 'das': 1, 'untersucht': 1, 'und filmten den': 1, 'Vielleicht': 1}
+['Werden Jungen', '.', 'das', 'untersucht', '.', 'und filmten den', 'Vielleicht']

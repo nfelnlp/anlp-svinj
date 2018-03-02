@@ -1,1 +1,1 @@
-{'sachgrundlose': 1, 'umgedeutet': 1, 'Monaten davon': 1, 'Saarland': 1, 'statt . In': 1, 'SPD': 1, '.': 1}
+['sachgrundlose', 'umgedeutet', 'Monaten davon', 'Saarland', 'statt . In', 'SPD', '.']

@@ -1,1 +1,1 @@
-{'Robert Zions': 1, 'Zion': 1, 'in seiner': 1, '(': 1, 'umgekehrt die': 1, 'ist': 1, 'die': 1, 'Befürwortern': 1, 'oder': 1, 'weiß': 1}
+['Robert Zions', 'Zion', 'in seiner', '(', 'umgekehrt die', 'ist', 'die', 'Befürwortern', 'oder', 'weiß']

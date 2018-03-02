@@ -1,1 +1,1 @@
-{'Florian Schmid': 1, 'Spanien': 1, 'Lange': 1}
+['Florian Schmid', 'Spanien', 'Lange']

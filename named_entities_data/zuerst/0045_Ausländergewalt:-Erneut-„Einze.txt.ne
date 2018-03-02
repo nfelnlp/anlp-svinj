@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, '„ausländisch': 1, 'am': 1, 'Jahre': 1, 'Täter': 1, 'jungen': 1, 'ähnliches': 1, 'Reisenden': 1, 'der': 1, 'werden': 1, ', ein': 1, 'mit': 1, 'tw )': 1}
+['Gesellschaft', '„ausländisch', 'am', 'Jahre', 'Täter', 'jungen', 'ähnliches', 'Reisenden', 'der', 'werden', ', ein', 'mit', 'tw )']

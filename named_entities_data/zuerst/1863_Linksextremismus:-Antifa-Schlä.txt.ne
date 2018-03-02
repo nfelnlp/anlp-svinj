@@ -1,1 +1,1 @@
-{'Gesellschaft 4 Stuttgart': 1, 'wurde': 1, 'gestrigen': 1, 'gerade': 1, 'der': 1, ',': 1, 'Linksextremen': 1, 'verklebt .': 1}
+['Gesellschaft 4 Stuttgart', 'wurde', 'gestrigen', 'gerade', 'der', ',', 'Linksextremen', 'verklebt .']

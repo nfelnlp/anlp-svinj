@@ -1,1 +1,1 @@
-{'Handkurbeln': 1, 'Sie': 1, ',': 5, ': Ja': 1, 'Man': 1, 'gibt': 1, 'haben': 1, 'das': 1, '.': 1, 'durch': 1, 'Strecke': 1, 'Straße': 1, 'entwickelt er': 1}
+['Handkurbeln', 'Sie', ',', ': Ja', 'Man', ',', ',', ',', 'gibt', 'haben', 'das', '.', 'durch', 'Strecke', 'Straße', ',', 'entwickelt er']

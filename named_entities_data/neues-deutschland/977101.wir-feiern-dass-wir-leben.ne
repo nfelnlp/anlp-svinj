@@ -1,1 +1,1 @@
-{'bereitet die': 1, 'dem': 1, ', Krüppel': 1, 'ein': 1, 'Sie': 1, 'aus der': 1, 'Schulen': 1, 'sich': 1, 'durchgerungen': 1, 'Flüchtlingen': 1, 'an Deutschland': 1, ',': 1, 'zurückweisen': 1, 'gleichzeitig': 1, 'aussieht': 1, 'Ausruhen': 1}
+['bereitet die', 'dem', ', Krüppel', 'ein', 'Sie', 'aus der', 'Schulen', 'sich', 'durchgerungen', 'Flüchtlingen', 'an Deutschland', ',', 'zurückweisen', 'gleichzeitig', 'aussieht', 'Ausruhen']

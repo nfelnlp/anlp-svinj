@@ -1,1 +1,1 @@
-{'Bern': 1, 'Schweiz': 1, 'Schweizerische Volkspartei': 1, 'SVP': 1, 'als': 1, 'und': 1, 'hatte': 1, '„Nein “': 1, 'gegangen': 1, '“': 1, 'Einbürgerung': 1}
+['Bern', 'Schweiz', 'Schweizerische Volkspartei', 'SVP', 'als', 'und', 'hatte', '„Nein “', 'gegangen', '“', 'Einbürgerung']

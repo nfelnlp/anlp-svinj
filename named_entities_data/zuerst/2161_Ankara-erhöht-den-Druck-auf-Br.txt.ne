@@ -1,1 +1,1 @@
-{'Ankara': 1, '”': 2, 'vor': 1, '.': 2, 'droht': 1, 'EU': 1, 'einer': 1, ',': 1, 'für': 1, '„Visa-Freiheit': 1, 'und': 1, 'die': 1, 'Gegenzug': 1, 'aufnehmen': 1, 'Union': 1, 'Euro': 1, 'Versorgung': 1, 'Türkei': 1, 'nach': 1, 'aber': 1, 'davor': 1, ')': 1}
+['Ankara', '”', 'vor', '.', 'droht', 'EU', 'einer', ',', 'für', '„Visa-Freiheit', 'und', '”', '.', 'die', 'Gegenzug', 'aufnehmen', 'Union', 'Euro', 'Versorgung', 'Türkei', 'nach', 'aber', 'davor', ')']

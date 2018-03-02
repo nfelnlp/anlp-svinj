@@ -1,1 +1,1 @@
-{'Paulette': 1, 'zwingen': 1, 'als': 1, 'plätschert': 1, 'nur': 1, 'kein': 1, '.': 3, 'Soziale': 1, 'haftet': 1, 'mythologische': 1, 'auf': 1, '»': 1, 'sind': 1, 'dass': 1, '\xadgefällt': 1, 'zeigt': 1, 'angesammelt': 1, 'zur': 1, 'bleibt': 1, 'Die': 1, 'gäbe und': 1, 'sofern': 1, 'einmal': 1, 'überschätzt': 1}
+['Paulette', 'zwingen', 'als', 'plätschert', 'nur', 'kein', '.', 'Soziale', 'haftet', 'mythologische', 'auf', '»', 'sind', 'dass', '\xadgefällt', 'zeigt', 'angesammelt', '.', 'zur', 'bleibt', 'Die', 'gäbe und', 'sofern', 'einmal', '.', 'überschätzt']

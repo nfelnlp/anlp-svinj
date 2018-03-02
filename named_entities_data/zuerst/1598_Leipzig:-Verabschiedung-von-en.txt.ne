@@ -1,1 +1,1 @@
-{'Gesellschaft 0': 1, 'Gesellschaft 0 Leipzig': 1, 'ranghöchster Soldat': 1, 'ist': 1, 'erfuhr': 1, 'General zuerst': 1, 'Jung': 1, '„Es': 1, '“': 1, '„Unter': 1, 'könne': 1, 'den': 1}
+['Gesellschaft 0', 'Gesellschaft 0 Leipzig', 'ranghöchster Soldat', 'ist', 'erfuhr', 'General zuerst', 'Jung', '„Es', '“', '„Unter', 'könne', 'den']

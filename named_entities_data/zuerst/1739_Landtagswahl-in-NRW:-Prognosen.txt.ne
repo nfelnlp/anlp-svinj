@@ -1,1 +1,1 @@
-{'Infratest Dimap': 3, '( SPD': 1, 'tritt': 1, 'von': 1, 'Hochrechnung der': 1, 'Forschungsgruppe Wahlen': 1}
+['Infratest Dimap', 'Infratest Dimap', 'Infratest Dimap', '( SPD', 'tritt', 'von', 'Hochrechnung der', 'Forschungsgruppe Wahlen']

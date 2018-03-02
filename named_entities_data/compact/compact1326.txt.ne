@@ -1,1 +1,1 @@
-{'USA': 2, 'stehen': 1, 'man': 1, ',': 2, 'Behandlung': 1, 'des': 1, 'Marihuana': 1, 'Gelegenheit': 1, 'sich': 2, 'Verfassungswidrigkeit': 1, 'jahrzehntelangen': 1}
+['USA', 'USA', 'stehen', 'man', ',', ',', 'Behandlung', 'des', 'Marihuana', 'Gelegenheit', 'sich', 'sich', 'Verfassungswidrigkeit', 'jahrzehntelangen']

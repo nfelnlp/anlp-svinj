@@ -1,1 +1,1 @@
-{'Peking': 1, 'Unruheprovinz Xinjiang': 1, 'weigern': 1, 'Terrormiliz': 1, 'Blut': 1}
+['Peking', 'Unruheprovinz Xinjiang', 'weigern', 'Terrormiliz', 'Blut']

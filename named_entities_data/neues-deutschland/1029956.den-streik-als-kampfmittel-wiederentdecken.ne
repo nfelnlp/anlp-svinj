@@ -1,1 +1,1 @@
-{'Dietmar Lange': 1, 'Paris': 1, 'Frankreich': 2, 'Europa': 1, 'Basisgewerkschaft': 1, 'und': 1, 'der': 1, 'Ist': 1, 'Dennoch': 1}
+['Dietmar Lange', 'Paris', 'Frankreich', 'Frankreich', 'Europa', 'Basisgewerkschaft', 'und', 'der', 'Ist', 'Dennoch']

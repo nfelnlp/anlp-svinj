@@ -1,1 +1,1 @@
-{'Dezember': 1, 'nun': 1, 'war': 1, '( LINKE': 1, 'im': 1, 'für kleine': 1, 'der': 1, 'in': 1, 'hierfür': 1}
+['Dezember', 'nun', 'war', '( LINKE', 'im', 'für kleine', 'der', 'in', 'hierfür']

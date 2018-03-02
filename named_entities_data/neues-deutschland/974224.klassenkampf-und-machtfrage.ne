@@ -1,1 +1,1 @@
-{'Hans-Gerd Öfinger Die Post': 1, 'und gegen': 1, 'Drucks': 1, 'Dörfern': 1, 'schätze': 1, 'Anfang': 1, '...': 1}
+['Hans-Gerd Öfinger Die Post', 'und gegen', 'Drucks', 'Dörfern', 'schätze', 'Anfang', '...']

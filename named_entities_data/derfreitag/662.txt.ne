@@ -1,1 +1,1 @@
-{'Steffen Ganders': 1, 'Wenn': 1, 'letztlich': 1, '39 ,': 1, 'von': 1, 'Er ist': 1, ':': 1, 'auszurüsten': 1, 'digitale': 1, '.': 1, 'wir': 1, 'ein': 1, 'unterbreitet': 1, 'dass': 1, 'vielleicht': 1, 'in den': 1, 'eingebracht haben': 1, 'ermöglichen': 1, 'ob': 1, 'und': 1, 'Frage': 1, ': „Ist': 1}
+['Steffen Ganders', 'Wenn', 'letztlich', '39 ,', 'von', 'Er ist', ':', 'auszurüsten', 'digitale', '.', 'wir', 'ein', 'unterbreitet', 'dass', 'vielleicht', 'in den', 'eingebracht haben', 'ermöglichen', 'ob', 'und', 'Frage', ': „Ist']

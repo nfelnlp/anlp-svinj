@@ -1,1 +1,1 @@
-{':': 1, 'schon': 1, 'über gemeinsame': 1, 'Teilen': 1}
+[':', 'schon', 'über gemeinsame', 'Teilen']

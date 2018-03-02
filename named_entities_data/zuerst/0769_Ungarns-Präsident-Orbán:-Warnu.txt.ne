@@ -1,1 +1,1 @@
-{'Budapest': 2, 'ungarische': 1, 'Orbán': 1, 'Vertretern': 1, 'bei': 1, 'wolle': 1, '„ihrer christlichen': 1, '„Flüchltingen': 1, '-Stiftungen': 1, 'sich': 1, 'in früheren Ostblockländern': 1, 'und': 1, 'Parlaments-Wahlkampfes': 1}
+['Budapest', 'ungarische', 'Orbán', 'Budapest', 'Vertretern', 'bei', 'wolle', '„ihrer christlichen', '„Flüchltingen', '-Stiftungen', 'sich', 'in früheren Ostblockländern', 'und', 'Parlaments-Wahlkampfes']

@@ -1,1 +1,1 @@
-{'Manfred Kleine-Hartlage': 1, 'ihre Grenzen': 1, 'zwar': 1, ',': 1, 'mit': 1, 'abschrecken': 1, 'in': 1}
+['Manfred Kleine-Hartlage', 'ihre Grenzen', 'zwar', ',', 'mit', 'abschrecken', 'in']

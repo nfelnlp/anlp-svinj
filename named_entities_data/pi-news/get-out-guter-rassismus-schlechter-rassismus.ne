@@ -1,1 +1,1 @@
-{'der': 2, 'Nichtraucher': 1, 'einzige': 1, 'Geliebten': 1, 'zunächst': 1}
+['der', 'Nichtraucher', 'einzige', 'Geliebten', 'zunächst', 'der']

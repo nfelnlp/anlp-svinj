@@ -1,1 +1,1 @@
-{'Rentenversicherung': 1, 'die': 1, 'Vertragsunterlagen': 1, ', Vorstandsvorsitzender': 1, 'AG , sagte': 1, 'aufgrund der': 1, 'beigetragen': 1, 'und': 1}
+['Rentenversicherung', 'die', 'Vertragsunterlagen', ', Vorstandsvorsitzender', 'AG , sagte', 'aufgrund der', 'beigetragen', 'und']

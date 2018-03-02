@@ -1,1 +1,1 @@
-{'. Der': 1, 'Netzwerkdurchsetzungsgesetz': 1, '» Mit': 1, 'unsere': 1, 'in': 1, 'schiebt die Macht': 1, 'keine': 1, 'gefordert': 1, 'Der': 1, 'Sprecher': 1, 'dem': 1, 'würden juristisch komplizierte': 1, 'möglicherweise': 1, 'richtig': 1}
+['. Der', 'Netzwerkdurchsetzungsgesetz', '» Mit', 'unsere', 'in', 'schiebt die Macht', 'keine', 'gefordert', 'Der', 'Sprecher', 'dem', 'würden juristisch komplizierte', 'möglicherweise', 'richtig']

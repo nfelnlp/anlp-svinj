@@ -1,1 +1,1 @@
-{'Prozent': 1, 'wir': 1, '. Unangenehme': 1}
+['Prozent', 'wir', '. Unangenehme']

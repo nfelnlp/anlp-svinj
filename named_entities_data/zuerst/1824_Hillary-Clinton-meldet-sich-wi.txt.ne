@@ -1,1 +1,1 @@
-{'New': 1, 'New York': 1, 'hat erneut': 1, 'Comey': 1, 'Putin zurückgeführt': 1, 'Rund ein': 1, '.': 1, 'jetzt wörtlich': 1, ',': 2, 'ihres': 1, 'und': 1, 'war': 1, 'Wahl': 1, 'Wahl ,': 1, 'der': 2, 'sind': 1}
+['New', 'New York', 'hat erneut', 'Comey', 'Putin zurückgeführt', 'Rund ein', '.', 'jetzt wörtlich', ',', 'ihres', 'und', 'war', ',', 'Wahl', 'Wahl ,', 'der', 'der', 'sind']

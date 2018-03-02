@@ -1,0 +1,1 @@
+['„Lehrerverband warnt', 'wie', 'mit Flüchtlingen', 'distanziert sich ,', 'von einer', 'sollte sich', 'angesichts', 'einem', 'Ein', 'Weise', 'den']

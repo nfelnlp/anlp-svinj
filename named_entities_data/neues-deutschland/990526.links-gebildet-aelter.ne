@@ -1,1 +1,1 @@
-{'Wie rechts': 1, 'der': 1, '000': 1, 'Kritik': 1, 'für': 1, 'Naturschutz': 1, 'Sozialverbände': 1, 'Campact': 1, 'und': 1, 'weitere': 1}
+['Wie rechts', 'der', '000', 'Kritik', 'für', 'Naturschutz', 'Sozialverbände', 'Campact', 'und', 'weitere']

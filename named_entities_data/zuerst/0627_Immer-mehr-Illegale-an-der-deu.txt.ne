@@ -1,1 +1,1 @@
-{'Bern': 1, 'Schweiz': 1, '.': 3, 'über': 1, 'verdreifacht': 1, 'die': 2, 'Deutschland': 1, 'festzustellende': 1, 'an': 1, 'noch': 1, 'bemerken': 1, 'bis': 1, 'Jahr': 1, 'bestätigen': 1, 'Zielland': 1, ',': 1, 'David': 1, 'diesem Fall': 1, 'gemeinsame': 1}
+['Bern', 'Schweiz', '.', 'über', 'verdreifacht', 'die', 'Deutschland', '.', 'festzustellende', 'an', 'noch', 'bemerken', 'bis', 'Jahr', '.', 'die', 'bestätigen', 'Zielland', ',', 'David', 'diesem Fall', 'gemeinsame']

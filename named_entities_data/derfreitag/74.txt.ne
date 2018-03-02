@@ -1,1 +1,1 @@
-{'die': 4, '.': 2, 'bei': 1, 'Wahlen': 1, 'der': 1, 'den': 1, 'ihr': 1, 'ernstes': 1, 'sind': 1, 'Wohnungsbauprojekte': 1, 'Staatsraison': 1, 'wo': 1}
+['die', '.', 'die', 'bei', 'Wahlen', 'der', 'den', 'die', 'ihr', 'ernstes', 'die', 'sind', 'Wohnungsbauprojekte', 'Staatsraison', 'wo', '.']

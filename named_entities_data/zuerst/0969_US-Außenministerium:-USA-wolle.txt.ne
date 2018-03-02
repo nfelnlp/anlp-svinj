@@ -1,1 +1,1 @@
-{'Washington': 1, ', bei': 1, 'Präsenz': 1, 'der': 1, ')': 1, 'Koalition': 1, 'Sieg': 2, 'Nauert': 1, ':': 1, ',': 4, 'ist': 1, 'nichts': 1, 'anderen Kräften': 1, 'Die': 1, 'nur': 1, 'und': 1, 'letzten': 1, 'Kräfte': 1, 'Ende': 1, 'Syrien': 1}
+['Washington', ', bei', 'Präsenz', 'der', ')', 'Koalition', 'Sieg', 'Nauert', ':', ',', 'ist', 'nichts', ',', 'anderen Kräften', 'Sieg', 'Die', 'nur', 'und', 'letzten', 'Kräfte', 'Ende', 'Syrien', ',', ',']

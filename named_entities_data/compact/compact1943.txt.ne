@@ -1,1 +1,1 @@
-{'Ulrich Schneider': 1, 'Anrechnungszeiten': 1, 'Mindesteinkommen': 1, 'schmälert': 1, 'facto': 1, 'Senioren': 3, 'OECD': 1, 'Deutschland': 1, '.': 1, 'lediglich über': 1}
+['Ulrich Schneider', 'Anrechnungszeiten', 'Mindesteinkommen', 'schmälert', 'facto', 'Senioren', 'Senioren', 'Senioren', 'OECD', 'Deutschland', '.', 'lediglich über']

@@ -1,1 +1,1 @@
-{'Andersen/': 1, 'Getty': 1, 'Viel': 1, 'sich': 1, 'Unternehmensvertretern': 1, 'noch': 1, 'Eine': 1, 'die': 1, 'Arbeitslebens': 1, ', dass': 1, 'erst dann': 1, 'eigenen': 1, 'Arbeitnehmer': 1, 'Unternehmen': 1, 'nicht': 1, 'Politik': 1, 'worden': 1, 'Darüber': 1, 'System': 1, 'an': 1, 'einem': 1, 'der ETH': 1, '.': 1}
+['Andersen/', 'Getty', 'Viel', 'sich', 'Unternehmensvertretern', 'noch', 'Eine', 'die', 'Arbeitslebens', ', dass', 'erst dann', 'eigenen', 'Arbeitnehmer', 'Unternehmen', 'nicht', 'Politik', 'worden', 'Darüber', 'System', 'an', 'einem', 'der ETH', '.']

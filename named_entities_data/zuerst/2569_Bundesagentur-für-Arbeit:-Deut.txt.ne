@@ -1,1 +1,1 @@
-{'Arbeitslosenversicherung': 1, 'MDR-Reporter': 1, '„Ob': 1}
+['Arbeitslosenversicherung', 'MDR-Reporter', '„Ob']

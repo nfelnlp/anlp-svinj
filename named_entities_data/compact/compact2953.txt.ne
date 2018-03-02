@@ -1,1 +1,1 @@
-{'Endlich hat': 1, 's': 1, ', Compact': 1, 'Ken': 1, 'FM ‘': 1, 'Er': 1, 'des': 1, '.': 1, 'ebenso': 1, 'was': 1, '?': 1, '„rassistisch “': 1, 'es hat': 1, '’ jenseits': 1, 'Selbstkritik': 1, 'der': 1, 'dazu': 1, '“ Amüsant': 1, 'das': 2, 'Unverschämtheit muss': 1, 'umgekehrt :': 1, 'die': 1, 'soviel': 1}
+['Endlich hat', 's', ', Compact', 'Ken', 'FM ‘', 'Er', 'des', '.', 'ebenso', 'was', '?', '„rassistisch “', 'es hat', '’ jenseits', 'Selbstkritik', 'der', 'dazu', '“ Amüsant', 'das', 'Unverschämtheit muss', 'umgekehrt :', 'die', 'das', 'soviel']

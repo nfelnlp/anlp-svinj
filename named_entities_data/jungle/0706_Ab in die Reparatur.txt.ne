@@ -1,1 +1,1 @@
-{'Gute': 1, 'Psychisch belastend': 1, 'vor': 1, 'jüngst erschienenen': 1, 'Kosten': 1, 'schnell': 1, 'Jungle World': 1, 'sich': 2, 'Wir': 1, 'fehle es': 1, ',': 1, ', führt': 1, 'erkennen': 1, 'mit': 1, 'einer psychischen': 1, 'Misere': 1, 'trage': 1, 'Nach': 1, 'Auslastung': 1, 'warten': 1, 'Klinik': 1, 'Tisch': 1}
+['Gute', 'Psychisch belastend', 'vor', 'jüngst erschienenen', 'Kosten', 'schnell', 'Jungle World', 'sich', 'Wir', 'fehle es', ',', ', führt', 'erkennen', 'mit', 'einer psychischen', 'Misere', 'trage', 'Nach', 'Auslastung', 'warten', 'sich', 'Klinik', 'Tisch']

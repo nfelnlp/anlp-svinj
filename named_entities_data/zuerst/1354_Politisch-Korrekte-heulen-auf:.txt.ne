@@ -1,1 +1,1 @@
-{'Budapest': 1, 'ungarische': 1, 'Orbán': 1, 'Miklós Horthy (': 1, 'seine': 2, 'Woche': 1, 'In': 1, 'der': 1, '1920': 1, 'Drittel': 1, 'man': 1, 'sei': 1, 'die': 1, '” hätten': 1, 'Engagement': 1, '„nicht': 1, 'empört': 1, 'korrigieren': 1, 'stehe': 1, 'rechtschaffenen Militär': 1, '.': 1}
+['Budapest', 'ungarische', 'Orbán', 'Miklós Horthy (', 'seine', 'Woche', 'In', 'der', '1920', 'Drittel', 'man', 'sei', 'die', '” hätten', 'Engagement', '„nicht', 'empört', 'seine', 'korrigieren', 'stehe', 'rechtschaffenen Militär', '.']

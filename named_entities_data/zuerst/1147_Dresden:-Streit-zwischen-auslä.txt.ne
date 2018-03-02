@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Dresden': 1, 'Polizei': 1, 'sächsischen': 1, 'Bayrischen': 1, 'Bar': 1, 'ausländischer': 1, 'Chef': 1, 'soll hier': 1, 'Woche bei': 1, '„Nash': 1, 'einer Schreckschußpistole bedroht': 1, '„Wir wollen eine': 1, 'vor': 1, 'nicht': 1, 'dem': 1, 'Auf': 1, 'Teil': 1, 'libanesischen': 1, ',': 1, '“': 1}
+['Gesellschaft', 'Dresden', 'Polizei', 'sächsischen', 'Bayrischen', 'Bar', 'ausländischer', 'Chef', 'soll hier', 'Woche bei', '„Nash', 'einer Schreckschußpistole bedroht', '„Wir wollen eine', 'vor', 'nicht', 'dem', 'Auf', 'Teil', 'libanesischen', ',', '“']

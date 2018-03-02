@@ -1,1 +1,1 @@
-{'Heidenau': 5, 'Freital': 1, 'Antifa': 1, 'Johannes Richter': 1, 'Republik': 1, 'Antifa-Aktivisten': 1}
+['Heidenau', 'Freital', 'Antifa', 'Johannes Richter', 'Heidenau', 'Republik', 'Heidenau', 'Heidenau', 'Heidenau', 'Antifa-Aktivisten']

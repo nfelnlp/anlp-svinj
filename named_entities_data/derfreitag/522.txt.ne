@@ -1,1 +1,1 @@
-{'Was ist': 1, 'gut': 1, 'sehr stolz': 1, '–': 1, '– selbst': 1, '– selbst eingefleischte': 1, 'es': 2, 'sein': 1, 'jede': 1, 'Namen': 1, 'opulente': 1, 'Dachbalkon': 1, 'Persönlichkeiten ,': 2, 'sind': 1, 'höflich': 1, 'Geburtstag': 1, 'Persönlichkeiten': 1}
+['Was ist', 'gut', 'sehr stolz', '–', '– selbst', '– selbst eingefleischte', 'es', 'sein', 'jede', 'Namen', 'opulente', 'Dachbalkon', 'Persönlichkeiten ,', 'sind', 'höflich', 'es', 'Geburtstag', 'Persönlichkeiten', 'Persönlichkeiten ,']

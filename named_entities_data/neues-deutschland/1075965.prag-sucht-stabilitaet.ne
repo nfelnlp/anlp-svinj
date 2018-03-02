@@ -1,1 +1,1 @@
-{'in der': 1, 'die': 1, 'übergeben sind': 1, 'Storchennest': 1, 'vorliegenden': 1, '»': 1, 'EU-Fördermitteln': 1, 'zu': 1, 'hinter': 1, 'Babis ausgesprochen ,': 1, 'allerdings': 1, 'in': 2, 'deutlich': 1, 'oder der Liedertexter': 1, 'Lande': 1, 'jedoch davon': 1, 'das Rennen': 1, 'Stichwahl': 1}
+['in der', 'die', 'übergeben sind', 'Storchennest', 'vorliegenden', '»', 'EU-Fördermitteln', 'zu', 'hinter', 'Babis ausgesprochen ,', 'allerdings', 'in', 'in', 'deutlich', 'oder der Liedertexter', 'Lande', 'jedoch davon', 'das Rennen', 'Stichwahl']

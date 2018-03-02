@@ -1,1 +1,1 @@
-{'Budapest': 2, 'Morawiecki': 1, 'Ungarn': 1, 'nach': 1, 'dort': 1, 'der': 1, 'fortsetzen': 1, 'und': 1, 'in': 1, 'Nationen. “': 1, '.': 1, 'Regierungschefs': 1, 'im': 1, 'Österreich': 1, 'keine': 1, 'Regierung': 1, 'Frage': 1}
+['Budapest', 'Morawiecki', 'Budapest', 'Ungarn', 'nach', 'dort', 'der', 'fortsetzen', 'und', 'in', 'Nationen. “', '.', 'Regierungschefs', 'im', 'Österreich', 'keine', 'Regierung', 'Frage']

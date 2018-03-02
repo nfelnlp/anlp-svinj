@@ -1,1 +1,1 @@
-{'Stephan Ring': 1, 'Ludwig von Mises-Institut': 1, 'Selbst': 1, '„Tatort “ laufen': 1, 'muss es': 1, 'des': 1, 'ist': 1, ',': 1, 'von CSC.AG': 1, 'Kanal': 1, 'Menschenverstand': 1, 'verfolgen und hoffen': 1}
+['Stephan Ring', 'Ludwig von Mises-Institut', 'Selbst', '„Tatort “ laufen', 'muss es', 'des', 'ist', ',', 'von CSC.AG', 'Kanal', 'Menschenverstand', 'verfolgen und hoffen']

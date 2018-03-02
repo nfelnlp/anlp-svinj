@@ -1,1 +1,1 @@
-{'verachten': 1, 's': 1, ',': 1, 'ist': 1, 'doch': 1, 'und': 2, 'sind': 1, 'Greise': 1, '.': 1, 'und verrückt': 1, 'Weltgeschichte': 1, 'Und': 1, '‘': 1, 'ist leider': 1}
+['verachten', 's', ',', 'ist', 'doch', 'und', 'sind', 'und', 'Greise', '.', 'und verrückt', 'Weltgeschichte', 'Und', '‘', 'ist leider']

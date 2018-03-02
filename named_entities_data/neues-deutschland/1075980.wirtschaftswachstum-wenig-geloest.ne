@@ -1,1 +1,1 @@
-{'München': 1, 'Frankfurt': 1, 'Main und Hamburg': 1, 'die': 1, 'müssen': 1, '. Es': 1}
+['München', 'Frankfurt', 'Main und Hamburg', 'die', 'müssen', '. Es']

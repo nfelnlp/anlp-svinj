@@ -1,1 +1,1 @@
-{'Bruce Willis': 2, 'Gabriel Bouys': 1, 'AFP': 1, 'Getty': 1, 'zu': 1, 'an': 1, ',': 1, 'sein': 1, 'Playlist': 1, 'doch': 1, 'finde ich': 1, 'für': 1, 'Frage': 1}
+['Bruce Willis', 'Gabriel Bouys', 'AFP', 'Getty', 'Bruce Willis', 'zu', 'an', ',', 'sein', 'Playlist', 'doch', 'finde ich', 'für', 'Frage']

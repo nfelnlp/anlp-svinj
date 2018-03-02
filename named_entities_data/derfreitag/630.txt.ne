@@ -1,1 +1,1 @@
-{'“': 1, 'forderten': 1, 'sogar': 1, 'Welt': 1, 'Projekte': 1, '.': 1, 'einem': 1, 'Rede': 1, 'jetzt': 1, 'Daimler-Chef': 1, 'Fahrzeuge': 1, 'habe .': 1, 'der Autos': 1, 'vorstellen': 1, 'sind die': 1, 'in': 1, 'jedoch': 1, 'an': 1, 'diese': 1, 'Pflänzchen': 1, 'richtigen': 1, 'am Vorabend': 1}
+['“', 'forderten', 'sogar', 'Welt', 'Projekte', '.', 'einem', 'Rede', 'jetzt', 'Daimler-Chef', 'Fahrzeuge', 'habe .', 'der Autos', 'vorstellen', 'sind die', 'in', 'jedoch', 'an', 'diese', 'Pflänzchen', 'richtigen', 'am Vorabend']

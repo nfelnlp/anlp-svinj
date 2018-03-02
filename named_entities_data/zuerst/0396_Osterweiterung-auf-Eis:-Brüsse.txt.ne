@@ -1,1 +1,1 @@
-{'Brüssel': 1, 'EU': 1, 'die': 2, 'lediglich': 1, 'junge': 1, 'bekräftigte': 1, 'Zusammenhang': 1, 'der': 3, 'müsse erst': 1, 'Großbritanniens': 1, 'er': 1, 'Politiker gerne': 1, 'werden': 1, 'nach': 1, 'Ausscheiden': 1, 'Ukraine': 1, 'geändert': 1, 'und': 1, 'rund': 1}
+['Brüssel', 'EU', 'die', 'lediglich', 'junge', 'bekräftigte', 'Zusammenhang', 'der', 'die', 'müsse erst', 'Großbritanniens', 'er', 'Politiker gerne', 'der', 'werden', 'nach', 'Ausscheiden', 'der', 'Ukraine', 'geändert', 'und', 'rund']

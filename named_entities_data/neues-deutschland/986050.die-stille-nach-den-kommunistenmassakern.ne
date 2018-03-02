@@ -1,1 +1,1 @@
-{'Caroline M. Buck Mit': 1, 'Oppenheimer ein': 1, 'Militärdiktatur': 1, 'erstem': 1, 'von': 1, 'Opposition': 1, ',': 1}
+['Caroline M. Buck Mit', 'Oppenheimer ein', 'Militärdiktatur', 'erstem', 'von', 'Opposition', ',']

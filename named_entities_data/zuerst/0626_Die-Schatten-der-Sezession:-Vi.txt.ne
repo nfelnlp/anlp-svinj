@@ -1,1 +1,1 @@
-{'Barcelona/Madrid': 1, 'Schon': 1, 'erste': 1, '.': 2, 'die': 1, ', mitgeteilt': 1, 'ihren': 1, 'verlegen': 1, 'wirtschaftliche': 1, 'Firmen': 1, 'Teil': 1, 'signalisiert': 1, 'einen': 1, 'mit': 1, 'abhängig': 1, 'Insgesamt': 1, 'gesamten': 1}
+['Barcelona/Madrid', 'Schon', 'erste', '.', 'die', ', mitgeteilt', 'ihren', 'verlegen', 'wirtschaftliche', 'Firmen', '.', 'Teil', 'signalisiert', 'einen', 'mit', 'abhängig', 'Insgesamt', 'gesamten']

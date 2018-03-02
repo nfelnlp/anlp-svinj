@@ -1,1 +1,1 @@
-{'Washington/Mexiko-City': 1, 'Donald': 1, 'Mauer': 1, 'die illegale': 1, '.': 1, ', die sich': 1, 'Ecovelocity': 1, 'mexikanischen Bauunternehmens Cemex': 1, 'auf': 1, ', als': 1, 'beteiligen': 1, 'Videgaray': 1, 'wirtschaftliche Chance': 1}
+['Washington/Mexiko-City', 'Donald', 'Mauer', 'die illegale', '.', ', die sich', 'Ecovelocity', 'mexikanischen Bauunternehmens Cemex', 'auf', ', als', 'beteiligen', 'Videgaray', 'wirtschaftliche Chance']

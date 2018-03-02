@@ -1,1 +1,1 @@
-{'( CDU': 1, 'nach': 1, ') forderte': 1, 'deutsche': 1, ') ,': 1, ',': 2, 'sei': 1, 'sich': 1, 'ausländischen': 1, 'Auswertungen': 1, '» Es hat': 1}
+['( CDU', 'nach', ') forderte', 'deutsche', ') ,', ',', 'sei', ',', 'sich', 'ausländischen', 'Auswertungen', '» Es hat']

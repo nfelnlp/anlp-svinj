@@ -1,1 +1,1 @@
-{'Budapest': 1, 'Präsident': 1, 'jetzt': 1, ',': 2, '„Die': 1, 'Erklärung Bezug': 1, 'ihrer': 1, 'bauen': 1}
+['Budapest', 'Präsident', 'jetzt', ',', '„Die', 'Erklärung Bezug', 'ihrer', ',', 'bauen']

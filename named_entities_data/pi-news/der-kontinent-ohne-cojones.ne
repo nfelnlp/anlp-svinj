@@ -1,1 +1,1 @@
-{'Europa': 1, 'nobel': 1, 'EU': 1, 'degeneriert': 1, 'haben': 1, 'anderen Repräsentanten': 1, ',': 1, 'muss': 1, '.': 1, 'weitgehend': 1, 'Die': 1, 'illegal': 1, 'Bevölkerung': 1, 'in': 1, 'bis': 1, 'an': 1, 'trat': 1, 'zu': 1}
+['Europa', 'nobel', 'EU', 'degeneriert', 'haben', 'anderen Repräsentanten', ',', 'muss', '.', 'weitgehend', 'Die', 'illegal', 'Bevölkerung', 'in', 'bis', 'an', 'trat', 'zu']

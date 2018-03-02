@@ -1,1 +1,1 @@
-{'Nord bleiben': 1, 'machen': 2, 'Ergo': 1, '.': 2, 'einer': 1, 'Betriebsversammlung': 1, '-': 1, '« .': 1, '180': 1, 'Euro': 1, 'Abschied': 1, 'klassischen': 1, 'zu': 2, 'Die': 1, 'BaFin': 1, 'in': 1, 'Kundenbelange': 1, 'Der': 1, 'wenn er': 1, 'ich': 1, 'aus': 1, 'Finanzinvestoren mit': 1, '«': 1}
+['Nord bleiben', 'machen', 'Ergo', '.', 'einer', 'Betriebsversammlung', '-', '« .', '180', 'Euro', 'machen', '.', 'Abschied', 'klassischen', 'zu', 'Die', 'BaFin', 'in', 'Kundenbelange', 'zu', 'Der', 'wenn er', 'ich', 'aus', 'Finanzinvestoren mit', '«']

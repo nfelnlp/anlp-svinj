@@ -1,1 +1,1 @@
-{'Stefano': 1, ', der': 1, 'Internationale': 1, 'für': 1, 'heutige': 1, 'Intelligenz': 1, 'in': 1, ', war': 1, 'Keimwurzel': 1, 'Viola': 1, 'gesagt :': 1, 'Gelegenheiten': 1, 'wie': 1, 'Spiel': 1, 'Schlüssel': 1, 'aus': 1, 'zu': 1}
+['Stefano', ', der', 'Internationale', 'für', 'heutige', 'Intelligenz', 'in', ', war', 'Keimwurzel', 'Viola', 'gesagt :', 'Gelegenheiten', 'wie', 'Spiel', 'Schlüssel', 'aus', 'zu']

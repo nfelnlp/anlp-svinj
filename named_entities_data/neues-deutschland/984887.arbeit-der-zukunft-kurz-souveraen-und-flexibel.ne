@@ -1,1 +1,1 @@
-{'Weniger': 1, 'wenn': 1, ':': 1, 'gesetzlicher': 1, 'eine': 1, 'Ausbildung': 1, 'Niedersachsen': 1, 'Mitbegründer': 1}
+['Weniger', 'wenn', ':', 'gesetzlicher', 'eine', 'Ausbildung', 'Niedersachsen', 'Mitbegründer']

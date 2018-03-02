@@ -1,1 +1,1 @@
-{'.': 2, 'Müssig': 1, 'Images Liebe': 1, 'Heidenreich': 1, '„': 1, 'der Frauen': 1, ',': 1, 'gewohnt': 1, 'haben': 1, '126 davon': 1, 'dass': 1, 'Prozent': 1, 'stimmt': 1, 'in': 1, 'ist': 1, 'Wir': 1, 'gegen': 2}
+['.', 'Müssig', 'Images Liebe', 'Heidenreich', '„', 'der Frauen', ',', 'gewohnt', '.', 'haben', '126 davon', 'dass', 'Prozent', 'stimmt', 'in', 'ist', 'Wir', 'gegen', 'gegen']

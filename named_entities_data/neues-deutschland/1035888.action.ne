@@ -1,1 +1,1 @@
-{'-': 1, '- »': 1, ', D': 1, 'führt uns': 1, ', wo': 1, 'werden': 1, '80469 München': 1, '80469 München .': 1, 'Zum': 1, '@': 1, '.': 1, 'Hat': 1, 'dieser': 1}
+['-', '- »', ', D', 'führt uns', ', wo', 'werden', '80469 München', '80469 München .', 'Zum', '@', '.', 'Hat', 'dieser']

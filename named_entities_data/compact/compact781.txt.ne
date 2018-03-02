@@ -1,1 +1,1 @@
-{'mitsamt': 1, 'auf': 1, 'fragen': 1, ',': 1, 'Freundin ( 36': 1, 'und': 1, 'Psychatrie': 1, 'später': 1, 'Dann': 1, 'im': 1, 'MDR': 1, 'Marokkaner': 1, 'mit': 1, 'Allerdings': 1, 'Fenster': 1, 'da man': 1}
+['mitsamt', 'auf', 'fragen', ',', 'Freundin ( 36', 'und', 'Psychatrie', 'später', 'Dann', 'im', 'MDR', 'Marokkaner', 'mit', 'Allerdings', 'Fenster', 'da man']

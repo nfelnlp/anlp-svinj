@@ -1,1 +1,1 @@
-{'glücklich': 1, 'in Rostock': 1, 'seiner US-amerikanischen Kollegin': 1, 'welche': 1, '. 7.000': 1, 'aus Deutschland': 1, 'ihrer': 1, 'mit': 1, 'früher': 1}
+['glücklich', 'in Rostock', 'seiner US-amerikanischen Kollegin', 'welche', '. 7.000', 'aus Deutschland', 'ihrer', 'mit', 'früher']

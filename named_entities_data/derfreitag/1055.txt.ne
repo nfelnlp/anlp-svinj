@@ -1,1 +1,1 @@
-{'Jetzt': 1, 'wo der': 1, 'leichter': 1, 'zu': 1, 'Ebene': 1, 'die': 1, 'dienen': 1, 'großen Teil': 1, 'anderer': 1, 'ein': 1, 'Wahlberechtigten': 1, 'Wahlgang': 1, 'Wählerwillens': 1, '.': 1, 'Handlungsfähigkeit der': 1, 'einzelnen Abgeordneten': 1, 'müssten': 1}
+['Jetzt', 'wo der', 'leichter', 'zu', 'Ebene', 'die', 'dienen', 'großen Teil', 'anderer', 'ein', 'Wahlberechtigten', 'Wahlgang', 'Wählerwillens', '.', 'Handlungsfähigkeit der', 'einzelnen Abgeordneten', 'müssten']

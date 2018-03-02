@@ -1,1 +1,1 @@
-{'Images': 1, 'weil': 1, 'allem': 1, 'Aufsatz berichten Wissenschaftler darüber': 1, 'zwei Drittel': 1, 'Informationen': 1, 'Guardian Teilen': 1}
+['Images', 'weil', 'allem', 'Aufsatz berichten Wissenschaftler darüber', 'zwei Drittel', 'Informationen', 'Guardian Teilen']

@@ -1,1 +1,1 @@
-{'» Die': 1, 'zusammen': 1, 'geschrieben hat': 1, ',': 1, 'Buches': 1, 'Ebermann': 1, 'Buch zunächst zeithistorisch': 1, 'der': 1, 'Herrschens': 1, 'westlichen': 1, 'Wahlrechts .': 1, 'Jan': 1, 'B3rlin ein': 1, 'würde': 1, 'Die': 1, 'hat': 1, 'Mitwirken': 1, 'und': 1, 'er': 1, 'Seite': 1, 'auch': 1}
+['» Die', 'zusammen', 'geschrieben hat', ',', 'Buches', 'Ebermann', 'Buch zunächst zeithistorisch', 'der', 'Herrschens', 'westlichen', 'Wahlrechts .', 'Jan', 'B3rlin ein', 'würde', 'Die', 'hat', 'Mitwirken', 'und', 'er', 'Seite', 'auch']

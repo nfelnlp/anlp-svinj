@@ -1,1 +1,1 @@
-{'Tel Aviv': 1, 'Sigmar Gabriel': 1, 'Israel': 1, 'israelische': 1, 'Netanjahu': 1, 'Gabriel': 1, 'festhielt': 1, 'mit': 1, 'Am': 1, 'entweder': 1, 'betrachten': 1, 'versuchte': 1, 'im': 1, 'in': 1, '.': 1, 'solches': 1, '”': 1, 'Dennoch': 1, 'hieß': 1}
+['Tel Aviv', 'Sigmar Gabriel', 'Israel', 'israelische', 'Netanjahu', 'Gabriel', 'festhielt', 'mit', 'Am', 'entweder', 'betrachten', 'versuchte', 'im', 'in', '.', 'solches', '”', 'Dennoch', 'hieß']

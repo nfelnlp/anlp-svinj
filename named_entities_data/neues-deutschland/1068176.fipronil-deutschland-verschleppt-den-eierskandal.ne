@@ -1,1 +1,1 @@
-{'.': 1, '. Deutschland': 1, 'die': 2, 'eine': 1, 'und Zahlen': 1, 'stark': 1, 'keine': 1, 'ihre': 1, 'an': 1, 'der Kommission': 1, 'Fipronil-Skandal': 1}
+['.', '. Deutschland', 'die', 'die', 'eine', 'und Zahlen', 'stark', 'keine', 'ihre', 'an', 'der Kommission', 'Fipronil-Skandal']

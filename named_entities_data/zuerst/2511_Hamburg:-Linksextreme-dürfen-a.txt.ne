@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Hamburg': 1, 'Linksextremisten': 1, '.': 2, 'dort stattfindenden': 1, 'Kapitalismus': 1, 'vom': 1, 'der': 2, 'Gruppen': 1, 'Partei': 1, 'übernehmen .': 1, 'bereits auf': 1, 'bereits auf die': 1, 'erwartenden': 1, 'sie': 1, 'eine unerträgliche': 1, 'für viele': 1, 'NEIN': 1, ',': 1}
+['Gesellschaft', 'Hamburg', 'Linksextremisten', '.', 'dort stattfindenden', 'Kapitalismus', 'vom', 'der', 'Gruppen', 'Partei', 'übernehmen .', 'bereits auf', 'bereits auf die', 'erwartenden', 'der', '.', 'sie', 'eine unerträgliche', 'für viele', 'NEIN', ',']

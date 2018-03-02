@@ -1,1 +1,1 @@
-{'Göttingen': 1, 'das': 1, 'Holtz': 1, 'Sprecher der': 1, 'Durchschnittlich': 1, 'in': 1, 'Transparenz': 1, 'SPD': 1, 'widerständigen': 1}
+['Göttingen', 'das', 'Holtz', 'Sprecher der', 'Durchschnittlich', 'in', 'Transparenz', 'SPD', 'widerständigen']

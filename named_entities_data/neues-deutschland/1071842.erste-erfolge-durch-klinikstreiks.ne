@@ -1,1 +1,1 @@
-{'.': 3, '. Mit': 1, 'Ultimatum': 1, 'eine': 1, 'Entlastung': 1, 'Mitglieder': 1, 'Helios-Klinikum in Dachau': 1, 'hingegen': 1, 'Erzwingungsstreik': 1}
+['.', '. Mit', 'Ultimatum', '.', '.', 'eine', 'Entlastung', 'Mitglieder', 'Helios-Klinikum in Dachau', 'hingegen', 'Erzwingungsstreik']

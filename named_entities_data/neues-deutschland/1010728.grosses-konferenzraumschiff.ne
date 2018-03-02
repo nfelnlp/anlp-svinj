@@ -1,1 +1,1 @@
-{'Internetgesellschaft Von': 1, 'Brand und': 1, 'im Veranstaltungsgelände': 1, 'Hundert': 1}
+['Internetgesellschaft Von', 'Brand und', 'im Veranstaltungsgelände', 'Hundert']

@@ -1,1 +1,1 @@
-{'Berlin': 1, 'Grünen': 1, 'israelische': 1, 'Deutschland': 1, 'Dritten': 1, 'Grünen-Bundestagsabgeordnete': 1, '. Er': 1, 'genannten': 1}
+['Berlin', 'Grünen', 'israelische', 'Deutschland', 'Dritten', 'Grünen-Bundestagsabgeordnete', '. Er', 'genannten']

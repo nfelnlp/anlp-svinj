@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Meschede': 2, 'Polizei': 1, 'anfasste': 1, 'belästigte': 1}
+['Gesellschaft', 'Meschede', 'Polizei', 'Meschede', 'anfasste', 'belästigte']

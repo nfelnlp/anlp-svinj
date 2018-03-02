@@ -1,1 +1,1 @@
-{'Warschau': 1, 'NATO-Land': 1, 'sich': 1, 'Jetzt': 1, 'Marschflugkörper': 1, 'auf': 1, 'die': 1, 'desselben': 1, 'Kilometern': 1, 'werden': 1, 'ungter': 1, '.': 1, 'einer': 1, 'Zahl': 1, '„Festlandsdegen': 1, 'Kriegsausbruch': 1}
+['Warschau', 'NATO-Land', 'sich', 'Jetzt', 'Marschflugkörper', 'auf', 'die', 'desselben', 'Kilometern', 'werden', 'ungter', '.', 'einer', 'Zahl', '„Festlandsdegen', 'Kriegsausbruch']

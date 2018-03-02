@@ -1,1 +1,1 @@
-{'Zieh': 2, 'Frauensache': 1, 'Oskar': 2, 'Claudia Kohde-Kilsch': 1, 'Was': 1, 'hat': 1, 'ich': 1, ', die': 1, 'Es': 1, 'schwärmerisch': 1, 'Hemdsärmelig , mit': 1, 'bei': 1, ',': 1, 'altväterlicher': 1, 'die': 1, "'' .": 1, 'der griechischen': 1, 'gehört': 1, 'Leben': 1, 'Der': 1, "Sau ''": 1, 'auf': 1}
+['Zieh', 'Zieh', 'Frauensache', 'Oskar', 'Claudia Kohde-Kilsch', 'Was', 'hat', 'ich', ', die', 'Es', 'schwärmerisch', 'Oskar', 'Hemdsärmelig , mit', 'bei', ',', 'altväterlicher', 'die', "'' .", 'der griechischen', 'gehört', 'Leben', 'Der', "Sau ''", 'auf']

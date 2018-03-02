@@ -1,1 +1,1 @@
-{'SPD': 2, 'Falle': 1, '«': 1, 'Sozialdemokraten': 1, 'Steuererhöhungen': 1, 'gut': 1, 'hingegen': 1, 'sich': 1, 'seiner Basis': 1, 'den': 1, 'CSU': 1, 'in': 1, 'weiterhin': 1, 'auf': 1}
+['SPD', 'Falle', '«', 'Sozialdemokraten', 'Steuererhöhungen', 'gut', 'hingegen', 'sich', 'seiner Basis', 'den', 'CSU', 'in', 'weiterhin', 'SPD', 'auf']

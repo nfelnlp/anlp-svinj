@@ -1,1 +1,1 @@
-{'ANWOHNER51': 1, 'Barmbek-Hamburg , Ort': 1, 'überall': 1, 'erzogen': 1, 'in': 1, 'ist': 1, 'Heimat': 1, 'sein': 2, 'und': 1, 'Justiz': 1, 'Systemversagen': 1, 'wir': 1, ',': 1, 'konnte': 1, '.': 1, 'persönlich mache': 1, 'die AfD ?': 1}
+['ANWOHNER51', 'Barmbek-Hamburg , Ort', 'überall', 'erzogen', 'in', 'ist', 'Heimat', 'sein', 'und', 'Justiz', 'Systemversagen', 'wir', ',', 'konnte', '.', 'persönlich mache', 'sein', 'die AfD ?']

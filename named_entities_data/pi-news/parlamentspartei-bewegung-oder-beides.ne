@@ -1,1 +1,1 @@
-{'in': 1, 'die': 1, 'Er weiß': 1, 'auch , dass': 1, ',': 1, '(': 1, 'Außenbeziehungen': 1, 'werden': 1, 'und': 1, 'alles': 1, 'politische ,': 1, 'libertären': 1, 'Kurzum': 1}
+['in', 'die', 'Er weiß', 'auch , dass', ',', '(', 'Außenbeziehungen', 'werden', 'und', 'alles', 'politische ,', 'libertären', 'Kurzum']

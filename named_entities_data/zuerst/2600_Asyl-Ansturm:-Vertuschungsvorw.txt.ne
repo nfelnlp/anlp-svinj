@@ -1,1 +1,1 @@
-{'Gesellschaft 3 Braunschweig': 1, 'Polizei': 1, 'Braunschweig': 1, 'Nadja N. Sie': 1, 'Asylbewerber nutzten Schwächen': 1, 'Kollegen Betrügereien ,': 1, 'hatten': 1, 'kassiert': 1, '„Unser Büro war': 1, 'mir': 1, 'unter': 1, 'N.': 1, 'befristeten Arbeitsvertrages weiter': 1, 'Vertrag wurde nicht': 1}
+['Gesellschaft 3 Braunschweig', 'Polizei', 'Braunschweig', 'Nadja N. Sie', 'Asylbewerber nutzten Schwächen', 'Kollegen Betrügereien ,', 'hatten', 'kassiert', '„Unser Büro war', 'mir', 'unter', 'N.', 'befristeten Arbeitsvertrages weiter', 'Vertrag wurde nicht']

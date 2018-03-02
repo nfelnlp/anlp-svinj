@@ -1,1 +1,1 @@
-{'gilt': 1, '.': 1, 'Böhme-Zeitung': 1, 'in gewisser': 1, 'ist': 2, '29': 1, 'bei': 1, 'virtuellen Bierdeckel': 1, 'Euro zusammengekommen': 1, 'kooperieren': 1, 'Nast': 1, 'Ministerium': 1, 'Kultur': 1, 'leicht': 1, 'einen solchen Service': 1}
+['gilt', '.', 'Böhme-Zeitung', 'in gewisser', 'ist', 'ist', '29', 'bei', 'virtuellen Bierdeckel', 'Euro zusammengekommen', 'kooperieren', 'Nast', 'Ministerium', 'Kultur', 'leicht', 'einen solchen Service']

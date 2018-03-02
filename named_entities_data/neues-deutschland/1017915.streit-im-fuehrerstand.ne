@@ -1,1 +1,1 @@
-{'Der Bundesvorsitzende beklagt': 1, 'Boulevardblatt': 1, 'anderem': 1, 'und Tag': 1, 'neuen': 1, 'aufgebaut': 1, 'gesamte': 1, 'der': 1, 'GDL-Vorstand': 1, 'sei . Ein': 1, 'ist': 1}
+['Der Bundesvorsitzende beklagt', 'Boulevardblatt', 'anderem', 'und Tag', 'neuen', 'aufgebaut', 'gesamte', 'der', 'GDL-Vorstand', 'sei . Ein', 'ist']

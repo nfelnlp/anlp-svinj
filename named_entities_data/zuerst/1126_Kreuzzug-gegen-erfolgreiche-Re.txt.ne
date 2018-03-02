@@ -1,1 +1,1 @@
-{'Preßburg': 1, 'Slowakei': 2, 'EU-Mitgliedschaft': 1, 'geradezu': 1, 'nämlich': 1, 'wenig': 1, 'Doch': 1, 'rechte': 1, 'sieht': 1, 'jetzt': 1, 'Abgeordneter': 1, 'Preßburger Nationalparlament': 1, '„Volksverhetzung': 1, ':': 1, ',': 1, 'Verurteilung': 1, 'drei': 1, 'Haft .': 1, 'mü': 1}
+['Preßburg', 'Slowakei', 'EU-Mitgliedschaft', 'geradezu', 'nämlich', 'wenig', 'Doch', 'rechte', 'Slowakei', 'sieht', 'jetzt', 'Abgeordneter', 'Preßburger Nationalparlament', '„Volksverhetzung', ':', ',', 'Verurteilung', 'drei', 'Haft .', 'mü']

@@ -1,1 +1,1 @@
-{'Religionen gesetzlich': 1, 'islamischer': 1, ',': 2, 'nette': 1, 'Kontaktgruppe': 1, 'Von den': 1, 'Stellungnahme .': 1, '„politisch korrektes': 1, 'auf': 1, '„in': 1, 'einer': 1}
+['Religionen gesetzlich', 'islamischer', ',', 'nette', ',', 'Kontaktgruppe', 'Von den', 'Stellungnahme .', '„politisch korrektes', 'auf', '„in', 'einer']

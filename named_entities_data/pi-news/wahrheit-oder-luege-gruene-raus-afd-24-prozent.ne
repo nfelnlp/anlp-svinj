@@ -1,1 +1,1 @@
-{'lauten': 1, 'SPD': 1, '%': 2, 'AfD': 1, 'FDP': 1, 'Grüne': 1, 'weit ,': 1, 'ihr die': 1, 'zu': 1, 'jeder': 1, 'viele': 1, 'den': 1, 'Umfrageergebnissen': 1, 'frisiert': 1, 'erinnern': 1, 'veröffentlichenden': 1, 'nach': 1, 'nahezu': 1, 'kämpfen': 1, 'das': 1}
+['lauten', 'SPD', '%', 'AfD', 'FDP', '%', 'Grüne', 'weit ,', 'ihr die', 'zu', 'jeder', 'viele', 'den', 'Umfrageergebnissen', 'frisiert', 'erinnern', 'veröffentlichenden', 'nach', 'nahezu', 'kämpfen', 'das']

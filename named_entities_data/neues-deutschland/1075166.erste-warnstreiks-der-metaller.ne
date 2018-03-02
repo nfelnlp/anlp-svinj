@@ -1,1 +1,1 @@
-{'.': 1, '. Der': 1, 'am Donnerstag': 1, 'Porsche': 1, 'Warnstreik': 1, '. Auch beim': 1, 'Havel legten nach Gewerkschaftsangaben': 1, 'Beschäftigte': 1, '»': 1, ',': 1, 'Warnstreik sei': 1, 'Provokation': 1, 'Metaller beim Autogetriebeherstellers ZF': 1, 'Standort gehört': 1, ':': 1, 'Woche': 1, 'mit': 1}
+['.', '. Der', 'am Donnerstag', 'Porsche', 'Warnstreik', '. Auch beim', 'Havel legten nach Gewerkschaftsangaben', 'Beschäftigte', '»', ',', 'Warnstreik sei', 'Provokation', 'Metaller beim Autogetriebeherstellers ZF', 'Standort gehört', ':', 'Woche', 'mit']

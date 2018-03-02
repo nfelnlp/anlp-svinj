@@ -1,1 +1,1 @@
-{'.': 1, 'Gesinnungswächter': 1, 'Zentrumsliste': 1, 'unter': 1, 'in Rüsselsheim': 1, 'sich': 1, 'warm': 1, 'Unterstützt': 1, 'zentrale': 1}
+['.', 'Gesinnungswächter', 'Zentrumsliste', 'unter', 'in Rüsselsheim', 'sich', 'warm', 'Unterstützt', 'zentrale']

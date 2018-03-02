@@ -1,1 +1,1 @@
-{'Grüne )': 1, 'dazu': 1, 'zu streichen': 1, 'sollen': 1, ') hat bereits': 1, ',': 1, 'einem': 1, 'Flickenteppich': 1, 'in Niedersachsen': 1, 'CDU': 1, 'abgelöst .': 1, 'Unternehmen': 1, 'werde zu': 1}
+['Grüne )', 'dazu', 'zu streichen', 'sollen', ') hat bereits', ',', 'einem', 'Flickenteppich', 'in Niedersachsen', 'CDU', 'abgelöst .', 'Unternehmen', 'werde zu']

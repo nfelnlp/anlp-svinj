@@ -1,1 +1,1 @@
-{'Wien': 1, 'Islam': 1, 'Österreich': 1, 'Karin Kneissl': 1, 'FPÖ': 1, 'ORF-Nachrichtensendung': 1, 'Kneissl': 1, '2': 1, 'ob': 1}
+['Wien', 'Islam', 'Österreich', 'Karin Kneissl', 'FPÖ', 'ORF-Nachrichtensendung', 'Kneissl', '2', 'ob']

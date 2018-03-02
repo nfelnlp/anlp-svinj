@@ -1,1 +1,1 @@
-{'.': 1, '. Fußball-Legende': 1, 'Asylverfahren eines': 1, 'für': 1, 'Heiterkeit': 1, 'berichtete ein Verfahrensbeteiligter': 1, 'oder': 1, 'hatte': 1, 'Der': 1}
+['.', '. Fußball-Legende', 'Asylverfahren eines', 'für', 'Heiterkeit', 'berichtete ein Verfahrensbeteiligter', 'oder', 'hatte', 'Der']

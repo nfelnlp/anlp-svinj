@@ -1,1 +1,1 @@
-{'Safran': 1, 'steckt': 1, 'backe': 1, 'Kinderlied': 1, 'wir': 1, 'sonst': 1, 'Stammsitz': 1, ', um': 1}
+['Safran', 'steckt', 'backe', 'Kinderlied', 'wir', 'sonst', 'Stammsitz', ', um']

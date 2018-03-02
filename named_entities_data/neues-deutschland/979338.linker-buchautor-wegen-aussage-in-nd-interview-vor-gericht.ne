@@ -1,1 +1,1 @@
-{'Es war': 1, 'und': 1, 'in': 1, 'Prozess': 1, ', Alt-Autonomer': 1, 'die': 2, 'veröffentlicht': 1}
+['Es war', 'und', 'in', 'Prozess', ', Alt-Autonomer', 'die', 'die', 'veröffentlicht']

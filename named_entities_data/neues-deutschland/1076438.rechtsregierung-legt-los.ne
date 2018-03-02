@@ -1,1 +1,1 @@
-{'ÖVP': 1, 'FPÖ': 1, 'Sozialpolitisch': 1, 'IV-Modell': 1, 'als': 1, 'das': 1}
+['ÖVP', 'FPÖ', 'Sozialpolitisch', 'IV-Modell', 'als', 'das']

@@ -1,1 +1,1 @@
-{'Bertelsmann': 1, 'Duden': 1, ',': 1, 'war': 1, 'überhaupt': 1, 'den': 1, 'Hilfe': 1, 'Getrenntschreibung': 1, 'Harvarduniversität': 1, 'herumschlagen , das man': 1, 'kleinen': 1, 'für': 1, '``': 1, 'meist': 1, 'aber': 1, '?': 1, 'Daß': 1, 'alle paar': 1}
+['Bertelsmann', 'Duden', ',', 'war', 'überhaupt', 'den', 'Hilfe', 'Getrenntschreibung', 'Harvarduniversität', 'herumschlagen , das man', 'kleinen', 'für', '``', 'meist', 'aber', '?', 'Daß', 'alle paar']

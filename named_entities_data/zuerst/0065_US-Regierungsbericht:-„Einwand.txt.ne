@@ -1,1 +1,1 @@
-{'Washington': 1, 'US-Regierung': 1, 'In': 1, 'Personen': 1, '. Zudem': 1, 'Grenzen': 1, 'bei diesen': 1, 'äußerte': 1, 'kritisierte': 1, 'die': 1, ',': 1, 'Reformen': 1, 'von': 1}
+['Washington', 'US-Regierung', 'In', 'Personen', '. Zudem', 'Grenzen', 'bei diesen', 'äußerte', 'kritisierte', 'die', ',', 'Reformen', 'von']

@@ -1,1 +1,1 @@
-{'Washington': 2, 'Rußland': 1, 'Syrien': 1, 'Pentagon': 1, 'IS': 1, 'Mattis': 1, ', den': 1, 'Absicht': 1, 'oder': 1, 'zurückkehren': 1, '.': 1, 'wollen': 1, 'US-Fernsehsender': 1, 'das': 1, 'im': 1, 'eine': 1, 'hatten': 1, 'hin': 1, 'Tatsache': 1}
+['Washington', 'Washington', 'Rußland', 'Syrien', 'Pentagon', 'IS', 'Mattis', ', den', 'Absicht', 'oder', 'zurückkehren', '.', 'wollen', 'US-Fernsehsender', 'das', 'im', 'eine', 'hatten', 'hin', 'Tatsache']

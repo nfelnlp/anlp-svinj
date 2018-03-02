@@ -1,1 +1,1 @@
-{'. Anlässlich': 1, 'den': 1, 'Bürgerrechtler': 1, 'Plebisziten': 1, 'befassen': 1, '«': 1, 'Demokratie Deutschland': 1, 'Wert': 1, 'Parlament': 1, 'die': 1, 'Volksgesetzgebung': 1, ',': 1}
+['. Anlässlich', 'den', 'Bürgerrechtler', 'Plebisziten', 'befassen', '«', 'Demokratie Deutschland', 'Wert', 'Parlament', 'die', 'Volksgesetzgebung', ',']

@@ -1,1 +1,1 @@
-{'Vom Verhältnis': 1, '(': 1, 'des': 1, 'Wandels': 1, 'Handel': 1, 'vergiftet': 1, 'Eltern': 1, 'Wort „Ehe': 1, '? Die': 1, 'wichtiges': 1, 'willkürlichen': 1, ';': 1, 'zu': 1, 'nur': 1, 'die': 1, 'Definitionen )': 1, 'Dynamics': 1}
+['Vom Verhältnis', '(', 'des', 'Wandels', 'Handel', 'vergiftet', 'Eltern', 'Wort „Ehe', '? Die', 'wichtiges', 'willkürlichen', ';', 'zu', 'nur', 'die', 'Definitionen )', 'Dynamics']

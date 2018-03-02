@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Wien': 1, 'Integrationsfonds': 1, ')': 1}
+['Gesellschaft', 'Wien', 'Integrationsfonds', ')']

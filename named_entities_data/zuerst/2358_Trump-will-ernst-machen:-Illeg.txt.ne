@@ -1,1 +1,1 @@
-{'Washington': 1, 'US-Präsident': 1, 'läßt sich': 1, 'Zwar': 1, 'der': 1, 'dieser Tage': 1, 'Priorität': 1, 'daran': 1, 'Behörden darin': 1, 'mißbräuchlich': 1, 'Mexikaner': 1}
+['Washington', 'US-Präsident', 'läßt sich', 'Zwar', 'der', 'dieser Tage', 'Priorität', 'daran', 'Behörden darin', 'mißbräuchlich', 'Mexikaner']

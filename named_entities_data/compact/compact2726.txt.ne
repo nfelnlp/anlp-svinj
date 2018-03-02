@@ -1,1 +1,1 @@
-{'Vielleicht liegt': 1, 'falsche': 1, 'in': 1, 'im': 1, 'riet': 1, 'nicht': 1, 'das': 1, 'mit der Interpersonalen Distanz': 1, 'gleich': 1, 'geschlechtliche': 1, 'Berührungen': 1, 'Leitkultur': 1, 'Fahrstil': 1, 'anderen': 1, 'Großteil': 1, 'Teil': 1, 'gelassen': 1, ',': 2, 'envolved': 1, ')': 1, 'als': 1}
+['Vielleicht liegt', 'falsche', 'in', 'im', 'riet', 'nicht', 'das', 'mit der Interpersonalen Distanz', 'gleich', 'geschlechtliche', 'Berührungen', 'Leitkultur', 'Fahrstil', 'anderen', 'Großteil', 'Teil', 'gelassen', ',', 'envolved', ')', ',', 'als']

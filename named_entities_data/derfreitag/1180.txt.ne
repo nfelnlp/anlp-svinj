@@ -1,1 +1,1 @@
-{'Michel': 1, '.': 1, 'wenig geändert': 1, 'Parteibuch': 1, 'Die aber': 1, 'offene': 1}
+['Michel', '.', 'wenig geändert', 'Parteibuch', 'Die aber', 'offene']

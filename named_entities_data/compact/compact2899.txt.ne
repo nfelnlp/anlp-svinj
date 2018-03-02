@@ -1,1 +1,1 @@
-{'Hartmut Grebe': 1, 'eine': 1, 'sie': 1}
+['Hartmut Grebe', 'eine', 'sie']

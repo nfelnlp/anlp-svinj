@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Einige Beispiele': 1, 'Tabakwaren in': 1, 'Geschäft': 1, 'sie': 1, 'Großfamilie': 1, 'einer': 1, 'am': 3, 'Mittwoch': 1, 'einem': 2, 'Dresden': 2, ',': 1, '30': 1, 'Während': 1, 'deutscher': 1, 'Nach': 1, 'und': 1, '32jährigen': 1, 'an und verletzten': 1, 'hatte': 1}
+['Gesellschaft', 'Einige Beispiele', 'Tabakwaren in', 'Geschäft', 'sie', 'Großfamilie', 'einer', 'am', 'Mittwoch', 'am', 'einem', 'einem', 'am', 'Dresden', ',', 'Dresden', '30', 'Während', 'deutscher', 'Nach', 'und', '32jährigen', 'an und verletzten', 'hatte']

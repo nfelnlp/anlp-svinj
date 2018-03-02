@@ -1,1 +1,1 @@
-{'Hope': 1, 'Kitwood/Getty': 1, 'Nun': 1, 'Trump-Regierung geworden ist': 1, 'Fürs': 1, 'Jeder': 1, 'einen': 1, 'Und': 1, 'für': 1, 'zwischen': 1, 'mir': 1, 'Reagan nicht': 1, 'Männer': 1, 'dass': 1, 'Trump': 1, 'sollte': 1, 'schreibt für': 1, ':': 1}
+['Hope', 'Kitwood/Getty', 'Nun', 'Trump-Regierung geworden ist', 'Fürs', 'Jeder', 'einen', 'Und', 'für', 'zwischen', 'mir', 'Reagan nicht', 'Männer', 'dass', 'Trump', 'sollte', 'schreibt für', ':']

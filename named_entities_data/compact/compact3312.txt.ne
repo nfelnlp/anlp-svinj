@@ -1,1 +1,1 @@
-{'Selbstredend': 1, 'bei': 1, 'ist': 2, 'wenn': 1, 'Souveränität': 1, 'erst': 1, 'verderbliche': 1, 'der': 1, 'jauchigen': 1, 'beraubt': 1, 'und': 1, 'bald': 1, '.': 1, 'Volk': 1, 'entspr': 1, 'Ken Jebsen': 1}
+['Selbstredend', 'bei', 'ist', 'wenn', 'Souveränität', 'erst', 'verderbliche', 'ist', 'der', 'jauchigen', 'beraubt', 'und', 'bald', '.', 'Volk', 'entspr', 'Ken Jebsen']

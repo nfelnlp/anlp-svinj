@@ -1,1 +1,1 @@
-{'.': 2, '. Das': 1, 'ein': 1, 'des US-Finanzinvestors': 1, 'dem Treffen': 1, 'anderen': 1, 'Großbank Barclays': 1, 'Jahrzehnte': 1, 'gleiche': 1, ': Die': 1, ':': 1, '«': 1, 'Zinsen auf': 1}
+['.', '. Das', 'ein', 'des US-Finanzinvestors', 'dem Treffen', 'anderen', 'Großbank Barclays', 'Jahrzehnte', 'gleiche', ': Die', ':', '«', '.', 'Zinsen auf']

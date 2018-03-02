@@ -1,1 +1,1 @@
-{') Obwohl wir': 1, 'dass': 1, 'Freudenfest': 1, 'allen': 1, 'Völker': 1, 'Tannenbaum': 1, 'entdeckt': 1, 'Germanen ja': 1, 'gegen': 1, 'Volkskultur': 1, 'Herrschaft': 1, 'in': 1}
+[') Obwohl wir', 'dass', 'Freudenfest', 'allen', 'Völker', 'Tannenbaum', 'entdeckt', 'Germanen ja', 'gegen', 'Volkskultur', 'Herrschaft', 'in']

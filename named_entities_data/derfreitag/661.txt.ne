@@ -1,1 +1,1 @@
-{'Luca/': 1, 'und': 1, 'Welt': 1, 'Laufe': 1, 'die': 1, 'Geschlecht': 1, 'hin zur': 1, 'sie': 1}
+['Luca/', 'und', 'Welt', 'Laufe', 'die', 'Geschlecht', 'hin zur', 'sie']

@@ -1,1 +1,1 @@
-{'_von Katja': 1, 'verlässt': 1, '– so': 1, 'Reiter': 1, 'SPD )': 1, 'verfasst': 1, 'Bislang': 1, 'im': 1, 'verdiene': 1, 'so': 1, 'teilweise': 1, 'stattfinden': 1, '.': 1, 'und': 1, 'Das': 1}
+['_von Katja', 'verlässt', '– so', 'Reiter', 'SPD )', 'verfasst', 'Bislang', 'im', 'verdiene', 'so', 'teilweise', 'stattfinden', '.', 'und', 'Das']

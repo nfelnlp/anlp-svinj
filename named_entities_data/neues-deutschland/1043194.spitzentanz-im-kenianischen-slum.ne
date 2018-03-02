@@ -1,1 +1,1 @@
-{'Bettina Rühl': 1, 'Nairobi': 2, 'Haltestangen': 1, 'Spiegel': 1, 'Kibera': 1, 'angewiesen ,': 1, 'treffen': 1, 'ist 14': 1}
+['Bettina Rühl', 'Nairobi', 'Haltestangen', 'Spiegel', 'Kibera', 'angewiesen ,', 'Nairobi', 'treffen', 'ist 14']

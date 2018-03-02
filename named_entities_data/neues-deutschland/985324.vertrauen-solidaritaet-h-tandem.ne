@@ -1,1 +1,1 @@
-{'Menschen': 1, 'St.': 1, 'stattfindenden': 1, 'leidet': 1, 'war': 1, 'Menschen in': 1, 'Blicke': 1, 'entgegenschlugen': 1, 'der': 1, 'sich': 1, 'durch': 1, 'sehbehinderte Kinder': 1, 'erste': 1, 'aber': 1, 'Die': 1, 'Kinder': 1, 'vielen': 1}
+['Menschen', 'St.', 'stattfindenden', 'leidet', 'war', 'Menschen in', 'Blicke', 'entgegenschlugen', 'der', 'sich', 'durch', 'sehbehinderte Kinder', 'erste', 'aber', 'Die', 'Kinder', 'vielen']

@@ -1,1 +1,1 @@
-{'Kiss': 1, 'Bang': 1, 'Reuters': 1, 'Ivan Alvarado': 1, 'großspurig': 1, '8': 1, 'Geburtenregister': 1, ', selbst': 1, 'neu': 1, 'sich': 1, 'Weg': 1, 'eine': 1, 'Kategorie': 1, '. Der': 1, 'Geschlechterstudien an': 1, 'HU': 1, 'die zu dem Thema': 1, 'HU ,': 1, '.': 1, 'sagt': 1, 'nur': 1}
+['Kiss', 'Bang', 'Reuters', 'Ivan Alvarado', 'großspurig', '8', 'Geburtenregister', ', selbst', 'neu', 'sich', 'Weg', 'eine', 'Kategorie', '. Der', 'Geschlechterstudien an', 'HU', 'die zu dem Thema', 'HU ,', '.', 'sagt', 'nur']

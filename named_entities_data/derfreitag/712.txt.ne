@@ -1,1 +1,1 @@
-{'und': 3, 'Prostituierte': 1, 'sagt': 1, 'ließen': 1, 'der': 1, ',': 1, 'aufgriff .': 1, 'in': 2, 'werden': 1, 'Es': 1, 'gab': 1, 'der Psychoanalyse': 1, 'Aufgabe mit Nachdruck': 1, '„Allzu leicht': 1, 'unbestreitbar großen': 1, 'aufzuarbeiten': 1}
+['und', 'Prostituierte', 'sagt', 'ließen', 'und', 'der', 'und', ',', 'aufgriff .', 'in', 'werden', 'Es', 'gab', 'der Psychoanalyse', 'Aufgabe mit Nachdruck', '„Allzu leicht', 'unbestreitbar großen', 'in', 'aufzuarbeiten']

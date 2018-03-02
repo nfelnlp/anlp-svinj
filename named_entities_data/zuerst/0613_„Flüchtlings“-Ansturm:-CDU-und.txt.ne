@@ -1,1 +1,1 @@
-{'Berlin': 1, 'CDU': 1, 'CSU': 1, 'Seehofers in': 1, 'vertuschen': 1, '„Obergrenze': 1, ',': 1, ', sprechen': 1, 'finden .': 1, 'verkündete ,': 1, 'da': 1, 'und': 2, 'ihrer plumpen': 1, 'nach': 1, 'hin': 1, 'Vorhersage': 1, 'Finanzleistungen': 1, 'der': 1, '„Gesetz': 1, '“': 1, 'Jubel': 1, 'Katrin': 1, 'ändern': 1}
+['Berlin', 'CDU', 'CSU', 'Seehofers in', 'vertuschen', '„Obergrenze', ',', ', sprechen', 'finden .', 'verkündete ,', 'da', 'und', 'ihrer plumpen', 'nach', 'hin', 'Vorhersage', 'Finanzleistungen', 'und', 'der', '„Gesetz', '“', 'Jubel', 'Katrin', 'ändern']

@@ -1,1 +1,1 @@
-{'hartnäckig': 1, '.': 1, 'derzeitigen': 1, 'ähnlichen': 1, 'wie': 1, 'vorderhand': 1, 'die': 2, 'Indonesien': 1, 'Vor': 1, 'aber': 1, 'es': 1, 'und': 2, 'der': 3, 'verbinden': 1, 'Diese': 1, 'Peking den': 1, 'Meeresstraße': 1, 'Malakka': 1, 'bringt': 1, 'Kyaukphyu': 1, 'der Anteile': 1, 'Reichs': 1}
+['hartnäckig', '.', 'derzeitigen', 'ähnlichen', 'wie', 'vorderhand', 'die', 'Indonesien', 'Vor', 'aber', 'es', 'und', 'der', 'verbinden', 'Diese', 'Peking den', 'und', 'Meeresstraße', 'Malakka', 'bringt', 'Kyaukphyu', 'die', 'der', 'der Anteile', 'der', 'Reichs']

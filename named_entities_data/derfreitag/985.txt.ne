@@ -1,1 +1,1 @@
-{'dem': 1, 'großartige Verdienste': 1, 'nicht für': 1, 'Abneigung ,': 1, ', tun': 1, 'mit mir': 1, 'Alice': 1, 'Sie hat': 1, 'Man': 1}
+['dem', 'großartige Verdienste', 'nicht für', 'Abneigung ,', ', tun', 'mit mir', 'Alice', 'Sie hat', 'Man']

@@ -1,1 +1,1 @@
-{'Moskau': 1, 'nahe .': 1, 'nahe . Die': 1, 'Maria': 1, 'bezeichnete die': 1, 'fragwürdig': 1, 'Journalisten': 1, ',': 1, 'wurden. “': 1, 'angekündigt': 1, '“': 1, '“ eine': 1, 'im April': 1}
+['Moskau', 'nahe .', 'nahe . Die', 'Maria', 'bezeichnete die', 'fragwürdig', 'Journalisten', ',', 'wurden. “', 'angekündigt', '“', '“ eine', 'im April']

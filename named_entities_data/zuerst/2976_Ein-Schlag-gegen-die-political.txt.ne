@@ -1,1 +1,1 @@
-{'Gesellschaft 2 Berlin': 1, 'das': 1, 'berichtet': 1, 'dieser': 1, 'wurde die': 1, 'nur': 1, 'der sich': 1, 'keine': 1, 'in': 1, 'und': 1, 'den': 1, 'Fälle': 1}
+['Gesellschaft 2 Berlin', 'das', 'berichtet', 'dieser', 'wurde die', 'nur', 'der sich', 'keine', 'in', 'und', 'den', 'Fälle']

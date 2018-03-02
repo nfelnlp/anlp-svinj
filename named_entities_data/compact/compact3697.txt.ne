@@ -1,1 +1,1 @@
-{'Norwegen': 1, 'Arne Fischer )': 1, 'trachtet': 1, 'trachtet ,': 1, 'sich': 1, 'der': 1, 'Herrschaftsinstrument': 1, 'den': 1, 'das': 1, 'ist': 1, ',': 1, '.': 1}
+['Norwegen', 'Arne Fischer )', 'trachtet', 'trachtet ,', 'sich', 'der', 'Herrschaftsinstrument', 'den', 'das', 'ist', ',', '.']

@@ -1,1 +1,1 @@
-{'Ruhrgebiet Düsseldorf': 1, 'Nordrhein-Westfalen gibt es': 1, ',': 2, 'Brems': 1, 'im Landtag': 1, 'an': 1, 'aber': 2, 'der': 1, 'durch den Einsturz': 1, 'gemeldet': 1, 'bei': 1, '« ,': 1, 'Es': 1, 'zu': 2, 'Pinkwart': 1}
+['Ruhrgebiet Düsseldorf', 'Nordrhein-Westfalen gibt es', ',', 'Brems', 'im Landtag', 'an', 'aber', 'der', 'durch den Einsturz', ',', 'gemeldet', 'bei', '« ,', 'aber', 'Es', 'zu', 'Pinkwart', 'zu']

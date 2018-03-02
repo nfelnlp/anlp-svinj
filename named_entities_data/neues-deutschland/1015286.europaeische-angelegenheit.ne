@@ -1,1 +1,1 @@
-{'Peter Nowak': 1, 'Frankreich': 3, 'Deutschland': 1, 'Italien': 1, 'Schweden': 1, 'Polen': 1, 'Paris': 1, 'einer': 1, 'Mittelpunkt': 1}
+['Peter Nowak', 'Frankreich', 'Deutschland', 'Italien', 'Frankreich', 'Schweden', 'Polen', 'Paris', 'Frankreich', 'einer', 'Mittelpunkt']

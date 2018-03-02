@@ -1,1 +1,1 @@
-{'. Wer': 1, 'Stunden': 1, 'im': 1}
+['. Wer', 'Stunden', 'im']

@@ -1,1 +1,1 @@
-{'Straßburg': 1, 'Diese': 1, 'mit': 1, 'Beweise': 1, 'sich': 1, 'Grüne und': 1, 'die': 1, 'Korwin-Mikke und': 1, 'deutsche NPD-Abgeordnete': 1, ', der': 1, 'durch': 1, '“ kritisierte': 1, 'russischen': 1, 'Eis': 1, 'seit': 1, 'für': 1, 'verlor': 1}
+['Straßburg', 'Diese', 'mit', 'Beweise', 'sich', 'Grüne und', 'die', 'Korwin-Mikke und', 'deutsche NPD-Abgeordnete', ', der', 'durch', '“ kritisierte', 'russischen', 'Eis', 'seit', 'für', 'verlor']

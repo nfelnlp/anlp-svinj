@@ -1,1 +1,1 @@
-{'Gesellschaft 1': 1, 'Gesellschaft 1 Hanau/Gelnhausen': 1, 'Zu': 1, 'Hanau': 1, 'Gelnhausen': 1, '.': 2, 'letzter': 1, 'und': 1, 'am': 1, 'sowohl': 1, 'wurden': 1, 'die': 1, 'zu': 1}
+['Gesellschaft 1', 'Gesellschaft 1 Hanau/Gelnhausen', 'Zu', 'Hanau', 'Gelnhausen', '.', 'letzter', 'und', 'am', 'sowohl', 'wurden', '.', 'die', 'zu']

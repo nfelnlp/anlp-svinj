@@ -1,1 +1,1 @@
-{'Images': 1, 'Tradition': 1, '153': 1, 'vergangenes Jahr': 1, 'paar': 1, 'Raucher': 1}
+['Images', 'Tradition', '153', 'vergangenes Jahr', 'paar', 'Raucher']

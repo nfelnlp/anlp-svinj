@@ -1,1 +1,1 @@
-{'Augustinus': 1, 'allgegenwärtigen Mentors': 1, 'der': 2, '. Autoren': 1, 'den': 1, 'fassen': 1, 'denn': 1, 'sich dem': 1, 'ihren erzwungenen Verzicht auf': 1, 'antike': 1, ',': 1, 'zu': 1, 'hochmütig': 1, 'hochmütig geworden': 1, 'schüttelt': 1, 'alte': 1, '. Aber vielleicht': 1}
+['Augustinus', 'allgegenwärtigen Mentors', 'der', '. Autoren', 'der', 'den', 'fassen', 'denn', 'sich dem', 'ihren erzwungenen Verzicht auf', 'antike', ',', 'zu', 'hochmütig', 'hochmütig geworden', 'schüttelt', 'alte', '. Aber vielleicht']

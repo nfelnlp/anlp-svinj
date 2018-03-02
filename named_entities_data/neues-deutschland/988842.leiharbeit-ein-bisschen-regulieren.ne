@@ -1,1 +1,1 @@
-{'Johannes Schulten': 1, 'Werkverträge «': 1, 'Allen': 2, 'Marktwirtschaft': 1, 'Bundesarbeitsministerin Andrea Nahles': 1, 'SPD': 1, 'Leiharbeit': 1, 'Werkverträgen': 1, 'Lange': 1, 'Gesamtmetall': 1, 'Werner Stolz': 1, 'Werkverträge': 1}
+['Johannes Schulten', 'Werkverträge «', 'Allen', 'Marktwirtschaft', 'Bundesarbeitsministerin Andrea Nahles', 'SPD', 'Leiharbeit', 'Werkverträgen', 'Lange', 'Allen', 'Gesamtmetall', 'Werner Stolz', 'Werkverträge']

@@ -1,1 +1,1 @@
-{'London': 1, 'NATO-Ländern': 1, ')': 1, 'Ammar': 1, 'und': 1, 'Hintergründe': 1, ',': 1, 'der': 2, 'kann': 1, 'Sie': 1, 'IS': 1, 'wieder': 1, 'Analyst ,': 1, 'in': 1, 'fünf': 1, 'Waffen im großen': 1, 'kaufen': 1, 'selbst': 1, 'etwa': 1, 'entscheidend': 1, 'ausgegeben': 1, '“': 1}
+['London', 'NATO-Ländern', ')', 'Ammar', 'und', 'Hintergründe', ',', 'der', 'kann', 'Sie', 'IS', 'wieder', 'der', 'Analyst ,', 'in', 'fünf', 'Waffen im großen', 'kaufen', 'selbst', 'etwa', 'entscheidend', 'ausgegeben', '“']

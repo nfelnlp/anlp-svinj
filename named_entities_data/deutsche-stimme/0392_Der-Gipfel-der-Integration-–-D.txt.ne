@@ -1,0 +1,1 @@
+['Donald Trump', 'US-Präsidentenwahl', 'weiter stur', 'des Politbüros', 'den', 'Politik', '. Die', '„Integrationsgipfel', 'Assistiert', '(', 'angebliche', 'von', 'Mit', '.', 'die']

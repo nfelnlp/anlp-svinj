@@ -1,1 +1,1 @@
-{'INXI': 1, 'Anfänglich': 1, '.': 1, 'Öffentlichkeit': 1, '! Machtmissbrauch der': 1, 'Zuständen': 1, 'die künftigen Führungskräfte': 1, ',': 3, 'Jahren von': 1, 'willentlich': 1, 'ungenügenden': 1, 'Berliner Problem': 1, 'noch': 1, 'die': 1, 'ist': 1, 'erhebliche': 1, 'verbietet': 1, 'linksgrünen': 1}
+['INXI', 'Anfänglich', '.', 'Öffentlichkeit', '! Machtmissbrauch der', 'Zuständen', 'die künftigen Führungskräfte', ',', 'Jahren von', 'willentlich', 'ungenügenden', ',', 'Berliner Problem', 'noch', ',', 'die', 'ist', 'erhebliche', 'verbietet', 'linksgrünen']

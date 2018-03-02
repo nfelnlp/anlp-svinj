@@ -1,1 +1,1 @@
-{'Mecklenburg-Vorpommern': 1, 'fast direkt an': 1, 'er eine': 1, 'wieder': 1, 'die': 2, 'in': 1, 'ständig': 1, 'Wert': 1, 'Aussage , dass': 1, 'würde das': 1, 'in luftiger': 1, 'noch': 1, 'werden': 1, 'Japan': 1, ',': 1, 'Döring': 1, 'es': 1, 'Öko-Strom': 1, 'mehr als 1800': 1, 'im': 1}
+['Mecklenburg-Vorpommern', 'fast direkt an', 'er eine', 'wieder', 'die', 'die', 'in', 'ständig', 'Wert', 'Aussage , dass', 'würde das', 'in luftiger', 'noch', 'werden', 'Japan', ',', 'Döring', 'es', 'Öko-Strom', 'mehr als 1800', 'im']

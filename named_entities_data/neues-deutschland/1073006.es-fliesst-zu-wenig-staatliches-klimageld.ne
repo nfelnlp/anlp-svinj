@@ -1,1 +1,1 @@
-{'Ablenkungsmanöver': 1, 'Rechenspiele': 1, 'Herr Kowalzig': 1, 'für': 1, ', UN-Generalsekretär': 1, 'Guterres': 1, 'Jim Yong': 1, 'zu': 1, 'über Klimagelder in': 1, 'haben': 1, 'Staaten': 1, 'neue': 1, 'Weltklimaabkommen austreten': 1, 'und': 1}
+['Ablenkungsmanöver', 'Rechenspiele', 'Herr Kowalzig', 'für', ', UN-Generalsekretär', 'Guterres', 'Jim Yong', 'zu', 'über Klimagelder in', 'haben', 'Staaten', 'neue', 'Weltklimaabkommen austreten', 'und']

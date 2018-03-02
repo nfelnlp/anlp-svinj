@@ -1,1 +1,1 @@
-{'Bielefeld': 2, 'Uwe Nelle-Cornelson': 1, 'JVA': 1, 'einem': 1, 'Dunkelziffer': 1}
+['Bielefeld', 'Bielefeld', 'Uwe Nelle-Cornelson', 'JVA', 'einem', 'Dunkelziffer']

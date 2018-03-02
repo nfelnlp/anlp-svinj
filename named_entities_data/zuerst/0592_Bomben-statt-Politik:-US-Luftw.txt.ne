@@ -1,1 +1,1 @@
-{'Washington/Kabul': 1, 'Eine': 1, 'im': 1, 'wie': 1, 'heißt es dort': 1, 'gegen': 1, 'Staat.': 1, 'als': 1, 'es': 1, '” .': 1, 'B-52-Bomber': 1, 'ebenfalls': 1, '1000': 1, '.': 1, 'der durch': 1, 'auf': 1}
+['Washington/Kabul', 'Eine', 'im', 'wie', 'heißt es dort', 'gegen', 'Staat.', 'als', 'es', '” .', 'B-52-Bomber', 'ebenfalls', '1000', '.', 'der durch', 'auf']

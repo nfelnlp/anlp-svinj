@@ -1,1 +1,1 @@
-{'Stockholm': 1, 'Lisa Tamm': 1, 'Rinkeby': 1, ',': 1, 'arbeitet': 1, 'ist ab 2018': 1, 'Um': 1, '.': 1, 'zitierten': 1, 'dazu mit': 1, 'in': 1, 'Krieg': 1, 'anderen Teilen': 1, 'Bezirken': 1, 'No-Go-Zonen': 1, 'Gebrauch': 1}
+['Stockholm', 'Lisa Tamm', 'Rinkeby', ',', 'arbeitet', 'ist ab 2018', 'Um', '.', 'zitierten', 'dazu mit', 'in', 'Krieg', 'anderen Teilen', 'Bezirken', 'No-Go-Zonen', 'Gebrauch']

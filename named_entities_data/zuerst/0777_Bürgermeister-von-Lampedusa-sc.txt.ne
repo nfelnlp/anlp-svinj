@@ -1,1 +1,1 @@
-{'auf': 1, 'Salvatore': 1, ', einen': 1, 'gerichtet': 1, '180': 1, 'wurde': 1, ':': 1, 'daß der': 1, 'verließen': 1, 'Probleme': 1, 'Tagesordnung': 1}
+['auf', 'Salvatore', ', einen', 'gerichtet', '180', 'wurde', ':', 'daß der', 'verließen', 'Probleme', 'Tagesordnung']

@@ -1,1 +1,1 @@
-{'Jean Ziegler': 2, 'Zahlen': 1, 'sicher': 1, ', und': 1, 'ist': 1, 'die': 2, 'entstanden': 1, '.': 1, 'das': 1, 'lebendigste': 1, 'D.h.': 1, 'Auf': 1, 'Sie': 1, ',': 3, 'verhungernden': 1, 'für': 1, 'wir diese': 1}
+['Jean Ziegler', 'Jean Ziegler', 'Zahlen', 'sicher', ', und', 'ist', 'die', 'entstanden', '.', 'das', 'lebendigste', 'D.h.', 'Auf', 'Sie', ',', ',', 'verhungernden', ',', 'für', 'wir diese', 'die']

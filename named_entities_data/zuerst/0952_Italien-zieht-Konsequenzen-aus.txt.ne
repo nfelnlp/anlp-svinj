@@ -1,1 +1,1 @@
-{'Rom': 3, 'Italien': 2, 'Spanien': 1, 'Barcelona': 1, 'Nizza': 1, 'Stockholm': 1, 'Berlin': 1, 'London': 1, 'Vatikan': 1, '.': 2, 'Bologna': 1, 'Turin': 1, 'bereits': 1, 'der': 1, 'Modena zu sehen': 1, 'Prophet Mohammed': 1, 'von': 1, 'drohte': 1, 'zusätzliche': 1, 'In': 1, 'Ermittlungen': 1}
+['Rom', 'Italien', 'Spanien', 'Italien', 'Rom', 'Barcelona', 'Nizza', 'Stockholm', 'Berlin', 'London', 'Vatikan', 'Rom', '.', 'Bologna', 'Turin', 'bereits', 'der', 'Modena zu sehen', 'Prophet Mohammed', 'von', 'drohte', '.', 'zusätzliche', 'In', 'Ermittlungen']

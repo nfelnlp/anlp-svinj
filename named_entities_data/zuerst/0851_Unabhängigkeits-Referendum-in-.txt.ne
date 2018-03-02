@@ -1,1 +1,1 @@
-{'Barcelona': 2, 'Spanien': 2, 'Madrider': 1, 'Sáenz de': 1, '.': 1, 'kritisierte sie': 1, 'wenige': 1, 'eine': 1, 'politische': 1, 'bindendes': 1}
+['Barcelona', 'Spanien', 'Madrider', 'Spanien', 'Barcelona', 'Sáenz de', '.', 'kritisierte sie', 'wenige', 'eine', 'politische', 'bindendes']

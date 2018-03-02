@@ -1,1 +1,1 @@
-{'Straßburg': 1, 'EU': 1, 'EU-Kommission': 1, 'Avramopoulos': 1, 'King': 1, 'jetzt': 1, 'einen entsprechenden': 1, 'Grenzschützer': 1, 'verfügt': 1, 'schon': 1, 'ausgeweitet': 1, 'ausgeweitet wird': 1, 'Die': 1, 'beseitige': 1, 'der': 1, 'schließe': 1}
+['Straßburg', 'EU', 'EU-Kommission', 'Avramopoulos', 'King', 'jetzt', 'einen entsprechenden', 'Grenzschützer', 'verfügt', 'schon', 'ausgeweitet', 'ausgeweitet wird', 'Die', 'beseitige', 'der', 'schließe']

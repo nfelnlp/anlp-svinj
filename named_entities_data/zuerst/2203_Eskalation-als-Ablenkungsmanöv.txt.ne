@@ -1,1 +1,1 @@
-{'Haag': 1, 'Türkei': 2, 'Niederlanden': 1, 'Rutte': 1, 'Geert Wilders': 1, 'für': 1, 'die': 2, 'zu verhindern': 1, 'Möglichkeit': 1, 'offenen': 1}
+['Haag', 'Türkei', 'Niederlanden', 'Rutte', 'Türkei', 'Geert Wilders', 'für', 'die', 'zu verhindern', 'Möglichkeit', 'offenen', 'die']

@@ -1,0 +1,1 @@
+['Gerwald Claus-Brunner', 'Killer', 'und der', 'er', 'schlimme', 'Nachbarn daran', 'dass', 'Familie', '„Ein', '80ern', 'bei', 'das auch', 'da', '“', 'Cora Stephan', 'und Töchter', ', nicht', 'Gerwald', 'Vater', 'Im', 'ist das', 'Claus-Brunner', '”', '.', 'seine', 'krankhafter']

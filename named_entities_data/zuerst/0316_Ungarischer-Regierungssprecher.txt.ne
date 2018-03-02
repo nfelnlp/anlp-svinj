@@ -1,1 +1,1 @@
-{'Brüssel': 2, 'Zoltán Kovács': 1, 'EU': 1, 'Kovács´': 1, 'im': 1, 'das': 1, 'gewesen': 1, 'Rahmen': 1, '.': 2, 'Stellung': 1, 'George': 1, 'die Befragung': 1, 'eher': 1, 'Europäischen': 1, 'ist ,': 1, 'von': 1, 'europäischen': 1, 'bringt': 1}
+['Brüssel', 'Zoltán Kovács', 'Brüssel', 'EU', 'Kovács´', 'im', 'das', 'gewesen', 'Rahmen', '.', '.', 'Stellung', 'George', 'die Befragung', 'eher', 'Europäischen', 'ist ,', 'von', 'europäischen', 'bringt']

@@ -1,1 +1,1 @@
-{'Wien': 1, 'FPÖ-Chef': 1, 'jetzt eine Forderung der': 1, ',': 1, 'kürzlich': 1, 'mit': 1, 'bei Terrorverdacht nicht': 1, '–': 1, 'eine': 1, 'die': 1, 'es': 2, 'sie in': 1, 'müßten': 1, 'werde': 1, 'freiheitliche': 1}
+['Wien', 'FPÖ-Chef', 'jetzt eine Forderung der', ',', 'kürzlich', 'mit', 'bei Terrorverdacht nicht', '–', 'eine', 'die', 'es', 'sie in', 'müßten', 'werde', 'es', 'freiheitliche']

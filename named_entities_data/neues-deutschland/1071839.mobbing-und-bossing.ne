@@ -1,1 +1,1 @@
-{'mit': 1, 'alles': 1}
+['mit', 'alles']

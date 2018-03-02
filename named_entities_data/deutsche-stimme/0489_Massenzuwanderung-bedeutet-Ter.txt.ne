@@ -1,0 +1,1 @@
+['Nach Paris', 'Brüssel', 'es', 'erwischt .', '84', 'und Brüssel', 'es', 'auch', 'Ein Tunesier', 'getötet', 'sich', 'Der', 'durch', 'dass man den', 'Die', '420', 'Gefährder', 'Deutschland', 'unser', 'die sich', 'dazu', 'die', 'in Deutschland', '.']

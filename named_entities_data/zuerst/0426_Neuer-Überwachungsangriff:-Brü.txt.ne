@@ -1,1 +1,1 @@
-{'Gesellschaft 5': 1, 'Gesellschaft 5 Brüssel': 1, 'jetzt': 1, 'ein Ausschuß': 1, '.': 1, 'gelten': 1, 'Spritverbrauch': 1, 'den': 1, 'Geräte': 1}
+['Gesellschaft 5', 'Gesellschaft 5 Brüssel', 'jetzt', 'ein Ausschuß', '.', 'gelten', 'Spritverbrauch', 'den', 'Geräte']

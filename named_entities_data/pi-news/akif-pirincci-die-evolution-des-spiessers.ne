@@ -1,1 +1,1 @@
-{'anzuecken': 1, 'Andersdenkende': 1, 'Baden': 1, '.': 1, 'Obgleich': 1, 'Elite': 1, ',': 2, 'der': 1, 'auf': 1, 'den': 1, 'nämlich': 1, 'Genitalarchäologen aufdeckte': 1, '“': 1, 'Pirinçcis bald': 1}
+['anzuecken', 'Andersdenkende', 'Baden', '.', 'Obgleich', 'Elite', ',', ',', 'der', 'auf', 'den', 'nämlich', 'Genitalarchäologen aufdeckte', '“', 'Pirinçcis bald']

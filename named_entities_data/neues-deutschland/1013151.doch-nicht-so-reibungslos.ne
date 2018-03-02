@@ -1,1 +1,1 @@
-{'oder': 1, 'sich': 1, 'den': 2, '. Ihre': 1, 'aktive': 1, 'Trotz haben Beschäftigte': 1, 'gezeigt': 1, 'Oft': 1, '«': 1, 'Springer-Verlag': 1, 'vergangenen': 1, 'in': 1}
+['oder', 'sich', 'den', '. Ihre', 'aktive', 'Trotz haben Beschäftigte', 'gezeigt', 'Oft', '«', 'Springer-Verlag', 'vergangenen', 'den', 'in']

@@ -1,1 +1,1 @@
-{'Deutschland': 2, 'Nationale': 1, 'Amerika': 1, 'Müller': 1, '–': 1, 'sollte': 1, 'hier': 1, 'beachten': 1, 'herum': 1, 'drohte': 1, ',': 2, 'dass': 1, 'der': 1, 'vorbereitet': 1, 'wäre': 1, 'die': 1}
+['Deutschland', 'Nationale', 'Deutschland', 'Amerika', 'Müller', '–', 'sollte', 'hier', 'beachten', 'herum', 'drohte', ',', 'dass', 'der', ',', 'vorbereitet', 'wäre', 'die']

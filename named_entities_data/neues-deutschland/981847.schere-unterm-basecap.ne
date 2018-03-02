@@ -1,1 +1,1 @@
-{'harten': 1, 'Autobauer': 1, 'Millionen': 1, 'Chattanooga': 1, 'wird': 1, 'bis': 1, 'des': 1, ',': 1, 'eine neue': 1, '» New': 1, 'der albtraumhaften Großen Depression': 1, 'von': 1, 'von Abgeordneten': 1}
+['harten', 'Autobauer', 'Millionen', 'Chattanooga', 'wird', 'bis', 'des', ',', 'eine neue', '» New', 'der albtraumhaften Großen Depression', 'von', 'von Abgeordneten']

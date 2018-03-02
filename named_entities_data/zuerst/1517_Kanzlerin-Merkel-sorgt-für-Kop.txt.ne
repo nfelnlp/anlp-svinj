@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Argentinien-Reise': 1, 'Merkel ( CDU': 1, 'für': 1, '.': 1, 'tödlichen': 1, 'mit': 1, 'sorgt': 1, ',': 1}
+['Gesellschaft', 'Argentinien-Reise', 'Merkel ( CDU', 'für', '.', 'tödlichen', 'mit', 'sorgt', ',']

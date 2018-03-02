@@ -1,1 +1,1 @@
-{'Budapest': 1, 'Ungarn': 1, 'begründete die': 1, 'es': 1, 'und': 1, 'seinen': 1, ':': 1, 'Lösung': 1, 'Arbeit': 1, 'der sichersten': 1, 'gibt es': 1, 'Orbán': 1, 'zu': 1, '.': 1, 'selbst und': 1, '3000': 1, '3000 Stellen': 1, 'Grenzschutz': 1}
+['Budapest', 'Ungarn', 'begründete die', 'es', 'und', 'seinen', ':', 'Lösung', 'Arbeit', 'der sichersten', 'gibt es', 'Orbán', 'zu', '.', 'selbst und', '3000', '3000 Stellen', 'Grenzschutz']

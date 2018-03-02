@@ -1,1 +1,1 @@
-{'Washington': 1, 'USA': 1, 'Trump-kritische': 1, 'Schlagzeilen und': 1, 'gegen': 1, 'im August': 1, 'dieser': 1, 'Versager': 1, ',': 1, '”': 1, 'zum': 1, ')': 1, 'inkompetent': 1, 'and': 1, 'Verkauf': 1, 'es': 1}
+['Washington', 'USA', 'Trump-kritische', 'Schlagzeilen und', 'gegen', 'im August', 'dieser', 'Versager', ',', '”', 'zum', ')', 'inkompetent', 'and', 'Verkauf', 'es']

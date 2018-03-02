@@ -1,1 +1,1 @@
-{'Volkswagen': 1, 'Chemnitz': 1, 'VW-Motorenwerk': 1, 'Band': 1, 'Golf': 1, 'dem': 1, 'vor': 1, ', Chef': 1, 'Pritsche': 1, 'sich': 1, 'und': 1, '.': 2, 'für': 1, '. Bevollmächtigte': 1, 'Metall': 1, 'vor den': 1, 'Betriebsrates .': 1, 'Metaller': 1, 'Woche': 1, '. Das': 1, 'hinzu': 1, '«': 1}
+['Volkswagen', 'Chemnitz', 'VW-Motorenwerk', 'Band', 'Golf', 'dem', 'vor', ', Chef', 'Pritsche', 'sich', 'und', '.', 'für', '. Bevollmächtigte', 'Metall', 'vor den', '.', 'Betriebsrates .', 'Metaller', 'Woche', '. Das', 'hinzu', '«']

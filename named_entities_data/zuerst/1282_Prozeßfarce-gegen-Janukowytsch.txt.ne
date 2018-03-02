@@ -1,1 +1,1 @@
-{'Kiew': 1, 'Bezirksgericht': 1, 'Janukowytsch wegen': 1, 'im': 1, 'und': 1, 'dem': 1, 'in Straßburg': 1, '.': 1, 'vormalige': 1, 'Polens': 1, 'Die': 1, 'der': 1, 'die': 1, 'Garanten': 1, 'eine': 1, 'jetzt': 1, 'dem Kiewer': 1, 'Kiewer': 1, ',': 1, 'Janukowytschs': 1, 'eigentlich': 1, 'Recht auf': 1}
+['Kiew', 'Bezirksgericht', 'Janukowytsch wegen', 'im', 'und', 'dem', 'in Straßburg', '.', 'vormalige', 'Polens', 'Die', 'der', 'die', 'Garanten', 'eine', 'jetzt', 'dem Kiewer', 'Kiewer', ',', 'Janukowytschs', 'eigentlich', 'Recht auf']

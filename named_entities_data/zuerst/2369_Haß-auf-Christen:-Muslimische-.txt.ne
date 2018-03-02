@@ -1,1 +1,1 @@
-{'Palermo': 1, 'auf': 1, 'wieder': 1, 'die': 1, 'Ghana': 1, 'und': 1, 'hatte': 1, 'wie': 1}
+['Palermo', 'auf', 'wieder', 'die', 'Ghana', 'und', 'hatte', 'wie']

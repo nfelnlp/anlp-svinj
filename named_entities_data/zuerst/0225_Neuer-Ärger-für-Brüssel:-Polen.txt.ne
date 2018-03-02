@@ -1,1 +1,1 @@
-{'Warschau': 1, 'Brüssel': 1, 'PiS': 1, 'Steuernachforderungen ,': 1, 'ist': 1, 'kaufte': 1, 'im': 1, 'nicht': 1, 'ja': 1, 'Besitz': 1, 'Prozent': 1}
+['Warschau', 'Brüssel', 'PiS', 'Steuernachforderungen ,', 'ist', 'kaufte', 'im', 'nicht', 'ja', 'Besitz', 'Prozent']

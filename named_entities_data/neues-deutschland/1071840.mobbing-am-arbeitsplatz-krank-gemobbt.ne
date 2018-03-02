@@ -1,1 +1,1 @@
-{'Osnabrück': 1, 'Sigrid Lehmann-Wacker': 1, 'zwei': 1, 'unheilbar an': 1, '.': 1, 'ihre': 1, 'Schmerzensgeld': 1, ',': 1}
+['Osnabrück', 'Sigrid Lehmann-Wacker', 'zwei', 'unheilbar an', '.', 'ihre', 'Schmerzensgeld', ',']

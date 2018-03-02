@@ -1,1 +1,1 @@
-{'hatte': 1, 'aber': 1, 'auf': 1, 'Doch': 1, 'bestehen': 1, 'überlegen': 1, 'nicht': 1, 'ihrer': 1, '“': 1, 'erklärt ,': 1, 'der ARD': 1, '.': 2, '. Es': 1}
+['hatte', 'aber', 'auf', 'Doch', 'bestehen', 'überlegen', 'nicht', 'ihrer', '“', 'erklärt ,', 'der ARD', '.', '.', '. Es']

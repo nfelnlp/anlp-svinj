@@ -1,1 +1,1 @@
-{'New': 1, 'New York .': 1, 'George Soros': 1, 'gegen die Kampagne': 1, 'derzeit laufende „nationale': 1, 'in': 1, '86jährige': 1, 'Plan': 1, 'aus': 1, 'Derzeit': 1, 'dazu': 1, 'Fragebogen-Aktion': 1, 'einzelnen': 1, 'aber': 1, 'die Sicherheit der': 1, 'Ungarn': 1, 'by': 1, '.': 1}
+['New', 'New York .', 'George Soros', 'gegen die Kampagne', 'derzeit laufende „nationale', 'in', '86jährige', 'Plan', 'aus', 'Derzeit', 'dazu', 'Fragebogen-Aktion', 'einzelnen', 'aber', 'die Sicherheit der', 'Ungarn', 'by', '.']

@@ -1,1 +1,1 @@
-{'das': 1, '. Der': 1, 'Dezember': 1, 'in eine': 1, 'hatte': 2, 'Wir': 1, 'es': 1, 'entlassen': 1, 'sein': 1, '1990 und': 1, 'UNICEF': 1, 'Ende': 1, 'Minderjährigen': 1, 'rekrutiert': 1, '10000 ehemaligen': 1, '» Nachdem': 1}
+['das', '. Der', 'Dezember', 'in eine', 'hatte', 'hatte', 'Wir', 'es', 'entlassen', 'sein', '1990 und', 'UNICEF', 'Ende', 'Minderjährigen', 'rekrutiert', '10000 ehemaligen', '» Nachdem']

@@ -1,1 +1,1 @@
-{'Washington': 1, ',': 1, 'Rußland': 1, 'aber': 1, 'Nordkorea': 1, 'atomare': 1, '.': 1, 'abzuhalten': 1, 'man': 1, 'bekommen': 1, 'verstärkt': 1, 'In': 1}
+['Washington', ',', 'Rußland', 'aber', 'Nordkorea', 'atomare', '.', 'abzuhalten', 'man', 'bekommen', 'verstärkt', 'In']

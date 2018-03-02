@@ -1,1 +1,1 @@
-{'Verstoß gegen': 1, 'einer zeitgemäßen': 1, 'stellt': 1, 'in seinem': 1, 'jener lapidar': 1, 'CSU': 1, 'Bereich': 1, 'politischen': 1, 'Gesellschaft darstelle': 1, 'von': 1, 'an': 1, 'deren': 1, 'die': 1, 'sei': 1, 'immer': 1, 'private': 1, '.': 1, 'Zukunft': 1, 'fundamentale': 1}
+['Verstoß gegen', 'einer zeitgemäßen', 'stellt', 'in seinem', 'jener lapidar', 'CSU', 'Bereich', 'politischen', 'Gesellschaft darstelle', 'von', 'an', 'deren', 'die', 'sei', 'immer', 'private', '.', 'Zukunft', 'fundamentale']

@@ -1,1 +1,1 @@
-{', die': 1, 'arbeitet . Sie gehört': 1, 'die': 2, 'in': 1, 'USA': 1, '.': 1, 'steigen': 1, '750': 1, 'sie': 1, 'Frenzel': 1, 'Wissenschaftsbereich weiter': 1, 'wissenschaftlich': 1, 'ver.di': 1, 'das': 1, 'November': 1, 'der': 1, 'die sich das Ziel': 1, 'die sich das Ziel gesetzt hat ,': 1}
+[', die', 'arbeitet . Sie gehört', 'die', 'in', 'USA', '.', 'steigen', 'die', '750', 'sie', 'Frenzel', 'Wissenschaftsbereich weiter', 'wissenschaftlich', 'ver.di', 'das', 'November', 'der', 'die sich das Ziel', 'die sich das Ziel gesetzt hat ,']

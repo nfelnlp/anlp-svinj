@@ -1,1 +1,1 @@
-{'München': 1, 'CDU': 1, 'Joachim Herrmann': 1, 'CSU': 1, 'heute': 1, 'daß': 1, '„Wir': 1, 'können': 1, 'nicht': 1, ':': 1, 'Flüchtlingszahlen stetig': 1, 'das hat': 1, 'nie': 1, 'sp': 1}
+['München', 'CDU', 'Joachim Herrmann', 'CSU', 'heute', 'daß', '„Wir', 'können', 'nicht', ':', 'Flüchtlingszahlen stetig', 'das hat', 'nie', 'sp']

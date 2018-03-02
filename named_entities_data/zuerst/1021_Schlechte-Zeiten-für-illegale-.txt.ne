@@ -1,1 +1,1 @@
-{'Rom/Tripolis': 1, 'In': 1, 'ihre': 1, 'von': 1, 'der': 1, 'deutsche': 1, 'NGOs': 1, '.': 2, 'Grenzen': 1, 'am Samstag': 1, 'Küstengewässer': 1, 'Botschaft an': 1, ',': 1, 'und': 1, 'Aktionen': 1, 'zurücktransportiert': 1}
+['Rom/Tripolis', 'In', 'ihre', 'von', 'der', 'deutsche', 'NGOs', '.', 'Grenzen', 'am Samstag', 'Küstengewässer', 'Botschaft an', ',', 'und', 'Aktionen', 'zurücktransportiert', '.']

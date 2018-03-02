@@ -1,1 +1,1 @@
-{'Hamburg': 1, '„Heiliger Krieg': 1, 'schönsten': 1, 'das': 1, 'Draufklicken': 1, 'Hamburger': 1, 'erinnern': 1, 'oder': 1, 'damals': 1, 'gar': 1, ':': 1, 'Religionsunterricht': 1, 'sich einfach': 1, 'Druck': 1}
+['Hamburg', '„Heiliger Krieg', 'schönsten', 'das', 'Draufklicken', 'Hamburger', 'erinnern', 'oder', 'damals', 'gar', ':', 'Religionsunterricht', 'sich einfach', 'Druck']

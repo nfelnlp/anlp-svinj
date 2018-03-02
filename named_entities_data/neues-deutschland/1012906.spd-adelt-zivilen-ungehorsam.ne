@@ -1,1 +1,1 @@
-{'Leipzig': 2, 'Max Zeising': 1, 'den': 1, 'vor': 1, 'Gewerkschaften': 1, 'uns': 1, 'die': 1, 'nimmt': 1, 'und kündigt': 1, ',': 1, 'Teil': 1, 'Teil des': 1}
+['Leipzig', 'Max Zeising', 'Leipzig', 'den', 'vor', 'Gewerkschaften', 'uns', 'die', 'nimmt', 'und kündigt', ',', 'Teil', 'Teil des']

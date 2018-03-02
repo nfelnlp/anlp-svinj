@@ -1,1 +1,1 @@
-{'den': 2, ',': 2, 'sie': 1, 'sofort': 1, 'nun': 1, 'setze man': 1, 'aus': 1, 'der': 1, 'Unterführung': 1, 'Umgang': 1, 'die': 1, 'habe': 1, 'Mietnomaden': 1}
+['den', ',', 'sie', 'sofort', 'nun', 'den', 'setze man', 'aus', ',', 'der', 'Unterführung', 'Umgang', 'die', 'habe', 'Mietnomaden']

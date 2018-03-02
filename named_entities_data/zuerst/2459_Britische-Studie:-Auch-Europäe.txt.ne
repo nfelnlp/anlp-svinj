@@ -1,1 +1,1 @@
-{'London': 1, 'verhängte Einreisesperre': 1, 'Angaben 10.000': 1, ',': 6, 'und': 2, '.': 1, 'wurde': 1, 'Teilnehmern': 1, 'waren': 1, 'mehr': 1, '60': 1, 'Migration': 1, 'Zustimmung': 1}
+['London', 'verhängte Einreisesperre', 'Angaben 10.000', ',', ',', ',', ',', ',', ',', 'und', '.', 'wurde', 'Teilnehmern', 'und', 'waren', 'mehr', '60', 'Migration', 'Zustimmung']

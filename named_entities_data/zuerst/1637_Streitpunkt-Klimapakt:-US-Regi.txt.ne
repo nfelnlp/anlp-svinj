@@ -1,1 +1,1 @@
-{'unerachtet seines': 1, 'G-7-Gipfel': 1, 'übrigen': 1, 'Paris ab': 1, 'nach': 1, 'Dissens': 1, 'Frankreich': 1, 'der': 1, 'Seite': 1, 'benennen': 1, 'Die': 1, 'sei': 1, ',': 1, 'Haltung': 1, 'Kenntnis': 1, 'einen': 1, 'Pariser': 1, 'kommende': 1, ', die': 1, 'im': 1, 'Zeitalter': 1, 'dem': 1}
+['unerachtet seines', 'G-7-Gipfel', 'übrigen', 'Paris ab', 'nach', 'Dissens', 'Frankreich', 'der', 'Seite', 'benennen', 'Die', 'sei', ',', 'Haltung', 'Kenntnis', 'einen', 'Pariser', 'kommende', ', die', 'im', 'Zeitalter', 'dem']

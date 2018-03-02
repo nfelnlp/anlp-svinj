@@ -1,1 +1,1 @@
-{', der': 1, 'in Berlin . Mit': 1, 'Gesetz': 1, ') sicherstellen': 1, 'dass': 1, 'dem': 1, 'nun': 1, 'Marburger': 1, '1': 1, ',': 1, 'geklagt': 1, 'die': 1, 'Recht': 1, 'Tarifvielfalt': 1, '. »': 1, 'vermeiden': 1, 'meint': 1, 'bis': 1, '2018': 1}
+[', der', 'in Berlin . Mit', 'Gesetz', ') sicherstellen', 'dass', 'dem', 'nun', 'Marburger', '1', ',', 'geklagt', 'die', 'Recht', 'Tarifvielfalt', '. »', 'vermeiden', 'meint', 'bis', '2018']

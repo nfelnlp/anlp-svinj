@@ -1,1 +1,1 @@
-{'und Ken': 1, 'sehen einen': 1, 'for Science in Stanford': 1, 'Kalifornien': 1, 'die': 3, 'über': 1, 'darauf': 1, 'wie genau': 1, ', dass': 1, 'Sicht': 1, 'Atmospheric Research': 1, 'Colorado sehen die Studie als': 1, 'interessant': 1}
+['und Ken', 'sehen einen', 'for Science in Stanford', 'Kalifornien', 'die', 'über', 'darauf', 'wie genau', ', dass', 'Sicht', 'die', 'Atmospheric Research', 'Colorado sehen die Studie als', 'interessant', 'die']

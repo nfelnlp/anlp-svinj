@@ -1,1 +1,1 @@
-{'John Magufuli': 2, 'Tansania': 1, 'Magufuli': 1}
+['John Magufuli', 'Tansania', 'John Magufuli', 'Magufuli']

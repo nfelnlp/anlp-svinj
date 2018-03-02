@@ -1,1 +1,1 @@
-{'Andreas Rieger': 1, 'Deutschland': 1, 'Roben': 1, 'Ratzinger': 1, 'Kölner': 1, 'Konservativen': 1, 'Europa': 1, '–': 2, 'Günther Jauch': 1, 'nur': 1, 'einst formulierte': 1, 'Demokratie': 1, 'Macht': 1, '.': 1}
+['Andreas Rieger', 'Deutschland', 'Roben', 'Ratzinger', 'Kölner', 'Konservativen', 'Europa', '–', 'Günther Jauch', 'nur', 'einst formulierte', 'Demokratie', '–', 'Macht', '.']

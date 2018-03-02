@@ -1,1 +1,1 @@
-{'M. Gabler |': 1, '.': 3, '2010': 1, 'Deutschland “': 1, 'in der gleichen': 1, 'in der gleichen Rede': 1, 'der': 1, 'einzelnes': 1, 'an': 1, 'Jahren': 1, 'Wir': 1, 'eigenen': 1}
+['M. Gabler |', '.', '2010', 'Deutschland “', 'in der gleichen', 'in der gleichen Rede', 'der', 'einzelnes', 'an', 'Jahren', '.', 'Wir', 'eigenen', '.']

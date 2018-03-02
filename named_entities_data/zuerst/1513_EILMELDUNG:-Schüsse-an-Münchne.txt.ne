@@ -1,1 +1,1 @@
-{'München': 1, '„Am': 1, 'Kopfschuß': 1, 'versuchte': 1, '„Bild-Zeitung': 1, '„Bild-Zeitung “': 1, 'ist': 1, 'fielen': 1, 'Die': 1, 'aus': 1, 'Großaufgebot': 1, 'eingesetzte Polizei nicht': 1, 'mit': 1, 'anderen Mann': 1, 'der': 1, 'geholt': 1, ',': 1, 'Radio': 1}
+['München', '„Am', 'Kopfschuß', 'versuchte', '„Bild-Zeitung', '„Bild-Zeitung “', 'ist', 'fielen', 'Die', 'aus', 'Großaufgebot', 'eingesetzte Polizei nicht', 'mit', 'anderen Mann', 'der', 'geholt', ',', 'Radio']

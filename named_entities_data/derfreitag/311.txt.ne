@@ -1,1 +1,1 @@
-{'MRSA': 1, 'ein': 1, ',': 1, 'die': 1, 'Kurzform': 1, 'zurück': 1, 'Jahre zuvor': 1, '94.000': 1, '18.000': 1, 'würden': 1, 'Das': 1, 'möglicher': 1, 'es': 1, 'Betriebe': 1}
+['MRSA', 'ein', ',', 'die', 'Kurzform', 'zurück', 'Jahre zuvor', '94.000', '18.000', 'würden', 'Das', 'möglicher', 'es', 'Betriebe']

@@ -1,1 +1,1 @@
-{'Grünen-Bundestagsabgeordnete': 1, 'neben': 1, 'den Protesten': 1, 'Bundeswehr-': 1, '.': 1, 'sprach': 1, 'der': 1, 'den 90er': 1, 'demonstrieren': 1, 'Oktober': 1, 'Schnellen': 1, ':': 1, 'mich.': 1, 'von': 1, 'dahin': 1, 'in': 1, 'Geschichte': 1, 'Netz': 1, 'auch': 1, 'Grundlagen': 1}
+['Grünen-Bundestagsabgeordnete', 'neben', 'den Protesten', 'Bundeswehr-', '.', 'sprach', 'der', 'den 90er', 'demonstrieren', 'Oktober', 'Schnellen', ':', 'mich.', 'von', 'dahin', 'in', 'Geschichte', 'Netz', 'auch', 'Grundlagen']

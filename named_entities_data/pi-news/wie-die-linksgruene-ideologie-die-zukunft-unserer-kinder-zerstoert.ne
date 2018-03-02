@@ -1,1 +1,1 @@
-{'Taliban': 1, 'Kassenbeiträgen': 1, 'Erstklässlern': 1, 'und': 1}
+['Taliban', 'Kassenbeiträgen', 'Erstklässlern', 'und']

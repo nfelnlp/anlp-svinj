@@ -1,1 +1,1 @@
-{'Bausatz': 1, 'Als Apple': 1, 'Jahren': 1, 'selbstgebauten': 1, 'Tüfteln': 1, 'sind': 1, 'Vorbild der': 1, 'Sprachbefehl': 1, 'allem': 1, 'Kinoprogramm ausgeben': 1, 'maker-Szene vermittelt': 1, 'in seinem': 1, 'nicht': 1, 'verhandelt': 1, '.': 1}
+['Bausatz', 'Als Apple', 'Jahren', 'selbstgebauten', 'Tüfteln', 'sind', 'Vorbild der', 'Sprachbefehl', 'allem', 'Kinoprogramm ausgeben', 'maker-Szene vermittelt', 'in seinem', 'nicht', 'verhandelt', '.']

@@ -1,1 +1,1 @@
-{'Berge': 1, 'Tagesausflug': 1, 'Zusammenhang': 1, 'für': 1, 'importiert': 1, 'um die': 1, 'mit': 1, 'mit Lebensmitteln': 1, 'So': 1, 'bestätigt': 1, 'Vermutung ,': 1, 'Natur bedeuten': 1, ', um': 1, 'Bis': 1, 'wäre': 1}
+['Berge', 'Tagesausflug', 'Zusammenhang', 'für', 'importiert', 'um die', 'mit', 'mit Lebensmitteln', 'So', 'bestätigt', 'Vermutung ,', 'Natur bedeuten', ', um', 'Bis', 'wäre']

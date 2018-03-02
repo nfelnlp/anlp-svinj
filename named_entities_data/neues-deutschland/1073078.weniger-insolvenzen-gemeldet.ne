@@ -1,1 +1,1 @@
-{'am': 1, 'am Main . In': 1, 'die': 1, 'Neuss': 1, '116': 1, 'am Dienstag': 1, 'Main . Dies': 1, 'Für': 1, 'Der': 1, '.': 1, 'seien': 1, 'seien rund': 1, 'Arbeitsplätzen': 1, 'Holding': 1, 'Hamburg mit jeweils': 1, 'Stellen': 1, ')': 1, 'der insolventen': 1, 'gehabt': 1, 'teilen': 1}
+['am', 'am Main . In', 'die', 'Neuss', '116', 'am Dienstag', 'Main . Dies', 'Für', 'Der', '.', 'seien', 'seien rund', 'Arbeitsplätzen', 'Holding', 'Hamburg mit jeweils', 'Stellen', ')', 'der insolventen', 'gehabt', 'teilen']

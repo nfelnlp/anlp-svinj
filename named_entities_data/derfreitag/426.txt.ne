@@ -1,1 +1,1 @@
-{'oder': 1, 'zu': 1, 'Kontemplationen über': 1, 'Wieso': 1, 'wegen des Namens': 1, 'wegen des Namens ! -Und': 1, 'spät': 1, '!': 2}
+['oder', 'zu', 'Kontemplationen über', 'Wieso', 'wegen des Namens', 'wegen des Namens ! -Und', 'spät', '!', '!']

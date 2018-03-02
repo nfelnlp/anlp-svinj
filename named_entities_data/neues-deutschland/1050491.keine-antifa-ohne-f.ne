@@ -1,1 +1,1 @@
-{',': 1, 'Betroffene': 1}
+[',', 'Betroffene']

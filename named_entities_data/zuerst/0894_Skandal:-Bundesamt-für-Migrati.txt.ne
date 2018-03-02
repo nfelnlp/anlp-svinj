@@ -1,1 +1,1 @@
-{'Nürnberg': 1, ',': 1, 'demnach': 1, 'In': 1}
+['Nürnberg', ',', 'demnach', 'In']

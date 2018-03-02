@@ -1,1 +1,1 @@
-{'Frankreich': 1, 'AFP/': 1, 'Images': 1, 'tun': 1, 'Er weiß': 1, 'ist': 1, '“': 1, 'Mautregelung': 1, '.': 1, ',': 1, 'oben auf': 1, 'in Deutschland': 1, 'vom': 1, 'worden': 1, 'Michael': 1, 'der Autoindustrie': 1, 'ist .': 1}
+['Frankreich', 'AFP/', 'Images', 'tun', 'Er weiß', 'ist', '“', 'Mautregelung', '.', ',', 'oben auf', 'in Deutschland', 'vom', 'worden', 'Michael', 'der Autoindustrie', 'ist .']

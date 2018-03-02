@@ -1,1 +1,1 @@
-{'Damaskus': 1, 'syrische': 1, 'Assad': 1, 'in': 2, '.': 1, 'wie': 1, 'Syrer': 1, 'den': 1, 'Versuche': 1, '”': 2, 'der': 1, ',': 1, 'auf': 1, 'des': 1, 'zudem': 1}
+['Damaskus', 'syrische', 'Assad', 'in', 'in', '.', 'wie', 'Syrer', 'den', 'Versuche', '”', 'der', ',', 'auf', 'des', 'zudem', '”']

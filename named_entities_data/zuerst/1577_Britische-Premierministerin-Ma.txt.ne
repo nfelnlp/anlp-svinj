@@ -1,1 +1,1 @@
-{'London': 2, 'May': 1, 'IS': 1, 'im': 1, 'Aber': 1, 'würde': 1, ':': 2, 'Pressekonferenz einen': 1, 'etwa': 1}
+['London', 'May', 'London', 'IS', 'im', 'Aber', 'würde', ':', 'Pressekonferenz einen', 'etwa', ':']

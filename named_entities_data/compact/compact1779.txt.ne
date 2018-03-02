@@ -1,1 +1,1 @@
-{', mit': 1, 'aus': 1, 'sprach': 1, 'im': 1, ',': 2, 'die': 1, 'Baas ,': 1, 'nennt es': 1, '. Denn': 1, 'Verträge': 1, 'und bundesweit': 1, 'dass': 1, 'müsse ,': 1, 'Diagnosen vor': 1, 'einlade .': 1, 'Allen Beteiligten': 1, 'hier': 1, 'brachte': 1, 'und auch': 1, 'Pflegeberufe': 1, 'die Besonderheiten': 1}
+[', mit', 'aus', 'sprach', 'im', ',', 'die', 'Baas ,', 'nennt es', '. Denn', 'Verträge', 'und bundesweit', 'dass', 'müsse ,', 'Diagnosen vor', 'einlade .', 'Allen Beteiligten', 'hier', 'brachte', 'und auch', 'Pflegeberufe', ',', 'die Besonderheiten']

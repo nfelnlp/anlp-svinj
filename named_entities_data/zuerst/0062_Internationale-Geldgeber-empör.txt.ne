@@ -1,1 +1,1 @@
-{'Kiew': 1, 'Ukraine': 2, 'Internationalen Währungsfonds': 1, 'IWF': 1, 'Kiew nachhelfen': 1, 'ukrainischen': 1, 'ACS': 1, 'Weltbank': 2, 'Poroschenko': 1, 'Venedig-Kommission': 1, '.': 1, 'Konkret': 1, 'die': 2, 'diese': 1, 'hartnäckig': 1, 'Antikorruptionsreformen': 1}
+['Kiew', 'Ukraine', 'Internationalen Währungsfonds', 'IWF', 'Kiew nachhelfen', 'ukrainischen', 'ACS', 'Weltbank', 'Ukraine', 'Weltbank', 'Poroschenko', 'Venedig-Kommission', '.', 'Konkret', 'die', 'die', 'diese', 'hartnäckig', 'Antikorruptionsreformen']

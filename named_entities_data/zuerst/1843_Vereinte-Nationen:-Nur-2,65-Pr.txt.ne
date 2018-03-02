@@ -1,1 +1,1 @@
-{'Rom': 1, 'erhielten': 1, '.': 3, '181.436': 1, 'Italien': 1, 'aller': 1, 'jene Migranten': 1, 'ist': 1, 'Lega Nord': 1, 'italienische': 1, 'nun': 1, 'daß': 1, 'illegale': 1, ',': 1}
+['Rom', 'erhielten', '.', '181.436', 'Italien', 'aller', 'jene Migranten', 'ist', '.', 'Lega Nord', 'italienische', 'nun', 'daß', 'illegale', ',', '.']

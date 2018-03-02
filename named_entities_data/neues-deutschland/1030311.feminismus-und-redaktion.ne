@@ -1,1 +1,1 @@
-{'( SPD': 1, 'und': 1, 'der Gewerkschaft': 1, 'auf': 1, ':': 1, 'gehört auf': 1, 'Aufwind': 1, 'Ja !': 1, '. Der': 1}
+['( SPD', 'und', 'der Gewerkschaft', 'auf', ':', 'gehört auf', 'Aufwind', 'Ja !', '. Der']

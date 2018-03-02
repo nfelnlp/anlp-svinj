@@ -1,1 +1,1 @@
-{'Wien': 1, 'FPÖ-Minister': 1, '2016': 1, 'Kickl': 1, 'in der': 1, 'restriktivere': 1, 'zum': 1, 'auf .': 1, 'Ethnic': 1, 'so': 1, 'da': 1, 'auf': 1, 'vor': 1, ',': 1}
+['Wien', 'FPÖ-Minister', '2016', 'Kickl', 'in der', 'restriktivere', 'zum', 'auf .', 'Ethnic', 'so', 'da', 'auf', 'vor', ',']

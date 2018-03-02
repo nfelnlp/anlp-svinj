@@ -1,1 +1,1 @@
-{'Düsseldorf': 1, 'Bundesrepublik Deutschland': 1, 'extremistischen Imamen': 1, 'nordrhein-westfälischen Eppingen': 1, 'ein': 1, '20': 1, 'Türkisch-Islamischen': 1, 'Religion': 1, 'V. , bekannt unter': 1, '. Mit just': 1, 'Jugendliche vor einer': 1, 'Islamverband': 1, 'Seelsorger arbeiten ,': 1, 'Schelm': 1}
+['Düsseldorf', 'Bundesrepublik Deutschland', 'extremistischen Imamen', 'nordrhein-westfälischen Eppingen', 'ein', '20', 'Türkisch-Islamischen', 'Religion', 'V. , bekannt unter', '. Mit just', 'Jugendliche vor einer', 'Islamverband', 'Seelsorger arbeiten ,', 'Schelm']

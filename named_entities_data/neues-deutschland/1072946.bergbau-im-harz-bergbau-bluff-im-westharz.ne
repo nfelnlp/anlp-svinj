@@ -1,1 +1,1 @@
-{'Reimar Paul': 1, 'Göttingen': 1, 'Harz': 1, 'kanadischer': 1, 'Clausthal-Zellerfeld': 1, 'die': 1}
+['Reimar Paul', 'Göttingen', 'Harz', 'kanadischer', 'Clausthal-Zellerfeld', 'die']

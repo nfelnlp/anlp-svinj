@@ -1,1 +1,1 @@
-{'Anna Maldini': 1, 'Renzi': 1, 'August': 1}
+['Anna Maldini', 'Renzi', 'August']

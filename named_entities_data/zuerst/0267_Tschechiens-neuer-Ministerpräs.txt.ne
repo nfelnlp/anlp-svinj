@@ -1,1 +1,1 @@
-{'Prag': 1, 'Babis seine': 1, 'vereidigte die': 1, 'und': 1, 'im': 1, 'ein': 1, '”': 1, 'an': 1, 'striktes': 1, '„Der': 1, ',': 1, 'Termin': 1}
+['Prag', 'Babis seine', 'vereidigte die', 'und', 'im', 'ein', '”', 'an', 'striktes', '„Der', ',', 'Termin']

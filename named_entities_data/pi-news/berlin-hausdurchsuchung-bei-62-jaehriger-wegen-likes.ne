@@ -1,1 +1,1 @@
-{'Cantaloop': 1, 'aus': 1, 'kann': 1, 'unerheblichen': 1, 'nicht': 1, '(': 1, 'wurde': 1, 'und': 1, 'der': 1, '„Clan-Recht': 1, 'abgestraft , dass einem fast': 1, 'härter': 1, 'für': 1, 'Gendertoiletten': 1, 'wird': 1, 'Verbreitung': 1}
+['Cantaloop', 'aus', 'kann', 'unerheblichen', 'nicht', '(', 'wurde', 'und', 'der', '„Clan-Recht', 'abgestraft , dass einem fast', 'härter', 'für', 'Gendertoiletten', 'wird', 'Verbreitung']

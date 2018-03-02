@@ -1,1 +1,1 @@
-{'UAVs': 1, 'Jedenfalls': 1, ', das': 1, 'den': 1, 'Daneben': 1, 'einem': 1, 'von': 1, 'Jemen': 1, 'Somalia': 1, '.': 1, 'John': 1, 'Rede .': 1, 'auf die': 1, 'auf die Drohnen-Tötungsliste': 1, 'sich': 1, 'New': 1, '. Mit': 1, 'wächst': 1, 'viele': 1}
+['UAVs', 'Jedenfalls', ', das', 'den', 'Daneben', 'einem', 'von', 'Jemen', 'Somalia', '.', 'John', 'Rede .', 'auf die', 'auf die Drohnen-Tötungsliste', 'sich', 'New', '. Mit', 'wächst', 'viele']

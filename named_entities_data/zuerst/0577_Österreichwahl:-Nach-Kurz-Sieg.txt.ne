@@ -1,1 +1,1 @@
-{'Wien': 1, '„Die': 1, 'von': 1, 'dieser': 1, 'triumphierender Sieger': 1, 'Rennen': 1, 'wird': 1, 'raus': 1, 'österreichischen': 1, ', sondern': 1, '„Liste': 1, 'immitierte': 1, ',': 1, 'am': 1, 'so': 1, 'traditionell': 1, '.': 1, 'der': 1, ', daß dies bei': 1, 'gelten': 1, 'ist': 1, 'Tatsache': 1}
+['Wien', '„Die', 'von', 'dieser', 'triumphierender Sieger', 'Rennen', 'wird', 'raus', 'österreichischen', ', sondern', '„Liste', 'immitierte', ',', 'am', 'so', 'traditionell', '.', 'der', ', daß dies bei', 'gelten', 'ist', 'Tatsache']

@@ -1,1 +1,1 @@
-{'de Chile': 1, 'de Chile . In': 1, 'drei': 1, 'MIR': 1, 'verurteilt': 1, 'erhielt als': 1, '. Oktober': 1, 'Enríquez': 1, 'die': 1, 'Mitglieder': 1, 'Menschen illegal inhaftiert': 1}
+['de Chile', 'de Chile . In', 'drei', 'MIR', 'verurteilt', 'erhielt als', '. Oktober', 'Enríquez', 'die', 'Mitglieder', 'Menschen illegal inhaftiert']

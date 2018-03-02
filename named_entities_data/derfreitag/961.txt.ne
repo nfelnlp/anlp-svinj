@@ -1,1 +1,1 @@
-{'das': 2, 'von': 1, 'mehr alle': 1, 'nach': 1, 'würde': 1, 'die': 1, 'kaum': 1, 'auswirke': 1, 'Lediglich': 1, 'an': 1, 'Unternehmen': 1, 'vergeben .': 1, 'Grünen': 1, 'denen': 1, 'werden': 1, ',': 1, 'aller': 1}
+['das', 'von', 'mehr alle', 'nach', 'würde', 'das', 'die', 'kaum', 'auswirke', 'Lediglich', 'an', 'Unternehmen', 'vergeben .', 'Grünen', 'denen', 'werden', ',', 'aller']

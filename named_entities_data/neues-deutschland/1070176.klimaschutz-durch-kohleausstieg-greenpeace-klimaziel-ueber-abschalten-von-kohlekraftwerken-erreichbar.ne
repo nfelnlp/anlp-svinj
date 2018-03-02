@@ -1,1 +1,1 @@
-{'.': 3, '. Deutschland': 1, 'sein': 1, 'über': 2, 'sich': 1, 'der': 1, 'in den': 1, 'Grünen': 1, 'von': 1, 'Änderungen': 1, 'Kohle': 1}
+['.', '. Deutschland', 'sein', 'über', '.', 'sich', 'der', 'in den', 'über', '.', 'Grünen', 'von', 'Änderungen', 'Kohle']

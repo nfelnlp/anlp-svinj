@@ -1,1 +1,1 @@
-{'Washington': 1, 'USA': 1, 'Rußland': 1, 'Street': 1, 'und': 1, 'gegen': 1, '.': 2, 'der Regierung': 1, 'Nicht-US-Unternehmen': 1, 'Petroleum': 1, 'der wichtigste': 1, 'Öl- und Gasindustrie': 1, ',': 1, 'und Industrien': 1, 'Veto': 1, 'des': 1}
+['Washington', 'USA', 'Rußland', 'Street', 'und', 'gegen', '.', 'der Regierung', 'Nicht-US-Unternehmen', 'Petroleum', 'der wichtigste', 'Öl- und Gasindustrie', ',', '.', 'und Industrien', 'Veto', 'des']

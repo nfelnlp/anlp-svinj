@@ -1,1 +1,1 @@
-{'Gesellschaft 4 Berlin': 1, 'SPD-Bundestagsabgeordnete': 1, '. „Ich': 1, 'umbringen': 1, '.': 1, 'uns': 1, 'Und': 1, ':': 1, 'diese': 1}
+['Gesellschaft 4 Berlin', 'SPD-Bundestagsabgeordnete', '. „Ich', 'umbringen', '.', 'uns', 'Und', ':', 'diese']

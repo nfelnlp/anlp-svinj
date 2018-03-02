@@ -1,1 +1,1 @@
-{'Peking/Langley': 1, 'China': 1, 'im': 1, '“ jetzt unter Berufung': 1, 'aus': 1, 'US-Geheimdienstes': 1, 'USA': 1, '”': 1, 'qualitativ': 1, 'daß': 1, 'am': 1, 'herausgefunden': 1, 'Meinungsverschiedenheiten gegeben : die': 1, 'von': 1, 'mü': 1}
+['Peking/Langley', 'China', 'im', '“ jetzt unter Berufung', 'aus', 'US-Geheimdienstes', 'USA', '”', 'qualitativ', 'daß', 'am', 'herausgefunden', 'Meinungsverschiedenheiten gegeben : die', 'von', 'mü']

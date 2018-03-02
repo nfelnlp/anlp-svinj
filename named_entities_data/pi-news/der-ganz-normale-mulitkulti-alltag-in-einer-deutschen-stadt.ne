@@ -1,1 +1,1 @@
-{'Freunde': 1, 'an': 1, 'Rotwein': 1, 'untersten': 1, 'alltägliche': 1, 'im': 1, 'afrikanischen „Neubürger “': 1, 'Fast': 1, 'über': 1, 'dass': 1, 'durchgeknallte Merkel': 1, 'sondern': 1, 'verzichtet': 1, 'islamischen': 1, 'der': 1}
+['Freunde', 'an', 'Rotwein', 'untersten', 'alltägliche', 'im', 'afrikanischen „Neubürger “', 'Fast', 'über', 'dass', 'durchgeknallte Merkel', 'sondern', 'verzichtet', 'islamischen', 'der']

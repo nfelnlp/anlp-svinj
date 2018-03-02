@@ -1,1 +1,1 @@
-{'Otto Man': 1}
+['Otto Man']

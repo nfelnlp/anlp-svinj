@@ -1,1 +1,1 @@
-{'Seehofer': 1, 'Merkel': 1, 'Johannes Simon': 1, 'Getty': 1, 'Marokko': 1, 'Algerien': 2, 'CSU': 1, 'Köln': 2, 'Union': 1, 'SPD': 1, 'CSU-Vorschlag': 1, '–': 1, 'für': 1, 'Individuelle': 1, 'Er': 1, ') künftig': 1, 'sicheren': 1, 'schneller': 1, 'Asylberechtigung': 1, 'Vorschlag': 1}
+['Seehofer', 'Merkel', 'Johannes Simon', 'Getty', 'Marokko', 'Algerien', 'CSU', 'Köln', 'Köln', 'Union', 'SPD', 'CSU-Vorschlag', 'Algerien', '–', 'für', 'Individuelle', 'Er', ') künftig', 'sicheren', 'schneller', 'Asylberechtigung', 'Vorschlag']

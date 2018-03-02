@@ -1,1 +1,1 @@
-{'Giovanni Isolino/AFP/Getty': 1, 'Vor': 1, 'hat': 1, 'Keine': 1, 'eine': 1, 'die': 1, 'der': 1, 'wir': 1, 'Endlich': 1, 'anerkannt': 1, 'ersten': 1, ',': 2, 'leiden vor allem': 1, 'Wiederherstellung': 1, 'zumindest': 1, 'neue': 1, 'Lösung zu': 1, ', das': 1, 'daher': 1, 'britischen': 1}
+['Giovanni Isolino/AFP/Getty', 'Vor', 'hat', 'Keine', 'eine', 'die', 'der', 'wir', 'Endlich', 'anerkannt', 'ersten', ',', 'leiden vor allem', 'Wiederherstellung', 'zumindest', ',', 'neue', 'Lösung zu', ', das', 'daher', 'britischen']

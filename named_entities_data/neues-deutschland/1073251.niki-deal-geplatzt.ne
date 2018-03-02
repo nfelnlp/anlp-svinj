@@ -1,1 +1,1 @@
-{'am': 2, 'am Main . Der Lufthansa-Konzern': 1, 'sein': 1, 'für': 1, 'Als Grund gab': 1, 'Oktober': 1, 'Kaufpreis von': 1, 'Millionen': 1, 'verwendet werden': 1, '.': 1, 'Dienstag mitgeteilt': 1, 'Dienstag mitgeteilt ,': 1, 'zuverlässige': 1, 'Interesse an': 1, 'auch': 1, 'IAG': 1}
+['am', 'am Main . Der Lufthansa-Konzern', 'sein', 'für', 'Als Grund gab', 'am', 'Oktober', 'Kaufpreis von', 'Millionen', 'verwendet werden', '.', 'Dienstag mitgeteilt', 'Dienstag mitgeteilt ,', 'zuverlässige', 'Interesse an', 'auch', 'IAG']

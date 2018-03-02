@@ -1,1 +1,1 @@
-{'die': 1, 'vorgaukeln': 1, ',': 2, 'wahrscheinlich die': 1, 'eine': 1, 'Deshalb': 1, 'es weitere': 1, 'nach dem': 1, '“': 1, 'Was': 1, 'Reformen': 1, 'Arbeitsplätze schaffen': 1, 'wollen eine': 1, 'kämpfen': 1}
+['die', 'vorgaukeln', ',', 'wahrscheinlich die', 'eine', 'Deshalb', 'es weitere', 'nach dem', '“', 'Was', ',', 'Reformen', 'Arbeitsplätze schaffen', 'wollen eine', 'kämpfen']

@@ -1,1 +1,1 @@
-{'Sumatra': 1, 'Indonesien': 1, 'die': 1}
+['Sumatra', 'Indonesien', 'die']

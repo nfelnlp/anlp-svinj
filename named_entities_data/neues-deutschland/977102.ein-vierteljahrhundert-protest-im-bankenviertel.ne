@@ -1,1 +1,1 @@
-{'Grosche': 1, 'Deutschen Bank': 1, 'Frankfurt am Main': 1, 'Freizeitkleidung': 1, 'Mahnwachen': 1, 'Mahnwache': 1}
+['Grosche', 'Deutschen Bank', 'Frankfurt am Main', 'Freizeitkleidung', 'Mahnwachen', 'Mahnwache']

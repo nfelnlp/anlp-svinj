@@ -1,1 +1,1 @@
-{'Stockholm/Washington': 1, 'Das': 1, 'in': 1, 'den': 2, 'Dies': 1, 'aber': 1, 'von': 1, 'Nuklearsprengköpfe': 1, 'Bombe': 1, 'entwickeln': 1, 'wie bei den bisherigen': 1}
+['Stockholm/Washington', 'Das', 'in', 'den', 'Dies', 'aber', 'von', 'Nuklearsprengköpfe', 'den', 'Bombe', 'entwickeln', 'wie bei den bisherigen']

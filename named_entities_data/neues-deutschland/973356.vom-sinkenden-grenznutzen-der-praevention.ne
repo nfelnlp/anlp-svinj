@@ -1,1 +1,1 @@
-{'Deutschland': 2, 'Marcus Meier': 1, 'Arbeitsschutz': 1, 'Dortmund': 1, 'Behörde': 1}
+['Deutschland', 'Marcus Meier', 'Deutschland', 'Arbeitsschutz', 'Dortmund', 'Behörde']

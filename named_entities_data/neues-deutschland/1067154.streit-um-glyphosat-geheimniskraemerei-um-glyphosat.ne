@@ -1,1 +1,1 @@
-{'Vielleicht': 1, 'auch': 1, 'Unterlagen': 1, 'Einflussnahme auf': 1, 'darin die': 1, 'seit': 1, 'den': 1, 'US-Saatgutkonzerns': 1, 'es': 1, 'fanden': 1, 'zufällig': 1, '2012': 1, 'hier': 1, 'BfR': 1, 'war bereits': 1, 'IARC': 1, 'relevant': 1, 'auseinander und': 1, 'Kremayr &': 1}
+['Vielleicht', 'auch', 'Unterlagen', 'Einflussnahme auf', 'darin die', 'seit', 'den', 'US-Saatgutkonzerns', 'es', 'fanden', 'zufällig', '2012', 'hier', 'BfR', 'war bereits', 'IARC', 'relevant', 'auseinander und', 'Kremayr &']

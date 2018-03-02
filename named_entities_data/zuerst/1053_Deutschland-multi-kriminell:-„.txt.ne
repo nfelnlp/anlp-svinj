@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Deutschland': 1, '.': 2, 'wurde': 1, 'übergeben': 1, 'das': 1, 'erst': 1, 'sitzen': 1, 'mit': 1, 'Woche': 1, 'Moschee': 1, 'Euro': 1}
+['Gesellschaft', 'Deutschland', '.', 'wurde', 'übergeben', 'das', 'erst', 'sitzen', 'mit', 'Woche', 'Moschee', 'Euro', '.']

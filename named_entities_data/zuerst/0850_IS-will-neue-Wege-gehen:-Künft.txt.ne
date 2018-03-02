@@ -1,1 +1,1 @@
-{'San': 1, 'San Francisco': 1, 'Staat': 1, '(': 1, 'in': 1, 'sollen': 1, 'Nachrichtendienst': 1, 'Cyber .': 1, 'angezapft und': 1, ',': 3, 'und': 1, '.': 1, 'Cyber': 1, 'schlägt': 1, 'überall': 1, '„Alarmzustand': 1, 'zu': 1}
+['San', 'San Francisco', 'Staat', '(', 'in', 'sollen', 'Nachrichtendienst', 'Cyber .', 'angezapft und', ',', ',', ',', 'und', '.', 'Cyber', 'schlägt', 'überall', '„Alarmzustand', 'zu']

@@ -1,1 +1,1 @@
-{'USA': 1, 'jetzt': 1, ',': 1, 'von': 1}
+['USA', 'jetzt', ',', 'von']

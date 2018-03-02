@@ -1,1 +1,1 @@
-{'Moskau': 1, 'Rußland': 1, 'Jelena Misulina': 1, '.': 1, 'ist': 1, 'auf': 1, 'dem': 1, 'nun': 1, 'wegen': 1, 'russische': 1, 'Krim an': 1}
+['Moskau', 'Rußland', 'Jelena Misulina', '.', 'ist', 'auf', 'dem', 'nun', 'wegen', 'russische', 'Krim an']

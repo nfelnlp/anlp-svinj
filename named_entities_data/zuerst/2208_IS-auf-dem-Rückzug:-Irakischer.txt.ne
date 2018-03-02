@@ -1,1 +1,1 @@
-{'Bagdad': 1, 'irakische': 1, 'Haidar Al-Abadi': 1, 'Landsleute': 1, 'Rückkehr': 1, 'in unserem': 1, 'machen': 1, ',': 1, '( IS': 1, 'wird': 1, 'sind': 1, 'die': 1, 'zu': 1, 'mü': 1}
+['Bagdad', 'irakische', 'Haidar Al-Abadi', 'Landsleute', 'Rückkehr', 'in unserem', 'machen', ',', '( IS', 'wird', 'sind', 'die', 'zu', 'mü']

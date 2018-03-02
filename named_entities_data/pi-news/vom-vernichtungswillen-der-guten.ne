@@ -1,1 +1,1 @@
-{'“': 1, 'deutsche': 1, '.': 1, 'Deutschland': 1, 'Begründung': 1, 'einen': 1, 'ist': 1, ',': 1, 'kann': 1, 'einfach': 1, 'sondern': 1, 'jedoch': 1, 'NSDAP .': 1, 'Cohn-Bendit': 1, 'schlichtweg': 1, 'unter dem': 1, 'der': 1, 'Recht': 1, 'sie deshalb': 1, 'des Oktobers': 1}
+['“', 'deutsche', '.', 'Deutschland', 'Begründung', 'einen', 'ist', ',', 'kann', 'einfach', 'sondern', 'jedoch', 'NSDAP .', 'Cohn-Bendit', 'schlichtweg', 'unter dem', 'der', 'Recht', 'sie deshalb', 'des Oktobers']

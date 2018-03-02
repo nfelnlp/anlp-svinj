@@ -1,1 +1,1 @@
-{'Sänger': 1, 'Avidan einen': 1, '.': 1, 'aus': 1, 'Ausnahmeerscheinung': 1, 'zur Musik': 1, '. Es': 1, 'Stimmen': 1, 'Janis Joplin .': 1, 'hoch gegriffen': 1, '? Und': 1, ', mit': 1, 'Luft durch': 1}
+['Sänger', 'Avidan einen', '.', 'aus', 'Ausnahmeerscheinung', 'zur Musik', '. Es', 'Stimmen', 'Janis Joplin .', 'hoch gegriffen', '? Und', ', mit', 'Luft durch']

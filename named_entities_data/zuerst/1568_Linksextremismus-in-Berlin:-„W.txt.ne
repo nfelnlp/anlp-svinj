@@ -1,1 +1,1 @@
-{'Gesellschaft 1 Berlin': 1, 'Polizei': 1, 'Bundeshauptstadt': 1, 'Thorsten Buhl': 1, 'Friedrichshain-Kreuzberg , der': 1, 'habt': 1, '„Linksextremismus': 1, 'der': 1, ',': 1, 'könne': 1, 'Szene nur': 1}
+['Gesellschaft 1 Berlin', 'Polizei', 'Bundeshauptstadt', 'Thorsten Buhl', 'Friedrichshain-Kreuzberg , der', 'habt', '„Linksextremismus', 'der', ',', 'könne', 'Szene nur']

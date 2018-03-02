@@ -1,1 +1,1 @@
-{'Harzheim': 1, 'der': 2, 'das': 1, 'von': 1, 'geplanten': 1, '–': 1, 'oder': 1, 'wo': 1, 'geschlachtet': 1, 'in': 2, '. Laut': 1, ',': 1, 'niemals': 1, ':': 1, 'edlen': 1, 'noch': 1, 'aus': 1, 'Von weißer': 1, 'Ist': 1, 'Die': 1, 'Autor gibt': 1}
+['Harzheim', 'der', 'das', 'der', 'von', 'geplanten', '–', 'oder', 'wo', 'geschlachtet', 'in', '. Laut', ',', 'niemals', ':', 'edlen', 'noch', 'aus', 'Von weißer', 'Ist', 'Die', 'Autor gibt', 'in']

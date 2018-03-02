@@ -1,1 +1,1 @@
-{'Washington': 1, 'hat jetzt': 1, ': Trump': 1, 'er': 1, 'Wörtlich': 1, 'in': 1, 'gedrängt': 1, 'Ku-Klux-Klan': 1, 'News': 1, ',': 1, 'entsetzt': 1, '.': 1, 'geschluckt': 1}
+['Washington', 'hat jetzt', ': Trump', 'er', 'Wörtlich', 'in', 'gedrängt', 'Ku-Klux-Klan', 'News', ',', 'entsetzt', '.', 'geschluckt']

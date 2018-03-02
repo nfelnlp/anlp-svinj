@@ -1,1 +1,1 @@
-{'Mobilität « .': 1, 'Vorstellung': 1, 'am Mittwoch in': 1, 'Viertel': 1, 'reduziert': 1, 'um': 1, 'Kommission': 1, 'möglichst': 1, '2021 wird': 1, 'für': 2, 'Elektroautos': 1, 'setzte': 1, 'jetzt veröffentlichte': 1, ',': 1, 'Kommission die': 1}
+['Mobilität « .', 'Vorstellung', 'am Mittwoch in', 'Viertel', 'reduziert', 'um', 'Kommission', 'möglichst', '2021 wird', 'für', 'Elektroautos', 'setzte', 'jetzt veröffentlichte', 'für', ',', 'Kommission die']

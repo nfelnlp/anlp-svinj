@@ -1,1 +1,1 @@
-{'Moskau': 1, 'russische': 1, 'Wladimir Putin': 1, 'Princeton Survey Research Associates International': 1, 'Putin': 1, 'Ukraine-Politik': 1, 'USA': 1, 'EU': 1, 'weniger': 1, 'Welt': 1, 'Bedrohung': 1, '71': 1, 'der': 1}
+['Moskau', 'russische', 'Wladimir Putin', 'Princeton Survey Research Associates International', 'Putin', 'Ukraine-Politik', 'USA', 'EU', 'weniger', 'Welt', 'Bedrohung', '71', 'der']

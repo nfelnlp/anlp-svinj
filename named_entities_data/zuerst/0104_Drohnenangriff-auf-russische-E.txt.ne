@@ -1,1 +1,1 @@
-{'Moskau/Hmeimim': 1, 'Syrien': 1, 'der': 1, 'vom': 1, 'im Veteranenverband des russischen Anti-Terror-Kommandos': 1, 'Nachrichtenportal': 1, 'amerikanischer': 1, 'sagte': 1, 'mit': 1, 'die': 1, 'seien': 1, 'gut': 1, 'gut vier': 1, 'hieß': 1, 'heißt': 1, 'Bei': 1}
+['Moskau/Hmeimim', 'Syrien', 'der', 'vom', 'im Veteranenverband des russischen Anti-Terror-Kommandos', 'Nachrichtenportal', 'amerikanischer', 'sagte', 'mit', 'die', 'seien', 'gut', 'gut vier', 'hieß', 'heißt', 'Bei']

@@ -1,1 +1,1 @@
-{'.': 1, '. Er': 1, 'Wegen': 1, 'werden': 1, 'das': 1, 'mit': 1, 'Sturmhaube': 1, 'Polizeibeamten geschleudert und': 1, 'Beamten': 1, 'ist': 1}
+['.', '. Er', 'Wegen', 'werden', 'das', 'mit', 'Sturmhaube', 'Polizeibeamten geschleudert und', 'Beamten', 'ist']

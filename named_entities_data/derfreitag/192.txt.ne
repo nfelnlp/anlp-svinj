@@ -1,1 +1,1 @@
-{'...': 1, 'M': 1, 'Souveränitätseffekt': 1, 'die': 1, 'Joachim': 1, 'besuchte , sagte': 1, ':': 1, 'besser': 1, 'geboren': 1, 'keiner': 1, 'Ticket': 1, 'auch': 1, 'alle': 1, 'als': 1, 'gibt': 1, 'demokratischen': 1, 'ins': 1, 'deshalb': 1, 'der': 1, 'früher': 1, 'Unterdrückung': 1}
+['...', 'M', 'Souveränitätseffekt', 'die', 'Joachim', 'besuchte , sagte', ':', 'besser', 'geboren', 'keiner', 'Ticket', 'auch', 'alle', 'als', 'gibt', 'demokratischen', 'ins', 'deshalb', 'der', 'früher', 'Unterdrückung']

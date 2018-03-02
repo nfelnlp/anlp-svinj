@@ -1,1 +1,1 @@
-{'Mangel': 1, 'man': 1, 'Weg': 1}
+['Mangel', 'man', 'Weg']

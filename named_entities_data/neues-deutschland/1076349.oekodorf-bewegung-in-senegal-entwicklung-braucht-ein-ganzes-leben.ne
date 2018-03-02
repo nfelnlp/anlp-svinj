@@ -1,1 +1,1 @@
-{'Mbow': 1, 'Odile': 1, 'Die Mühen': 1, 'der': 1, 'Wegweiser': 1, 'man': 1, '300': 1, 'das': 1}
+['Mbow', 'Odile', 'Die Mühen', 'der', 'Wegweiser', 'man', '300', 'das']

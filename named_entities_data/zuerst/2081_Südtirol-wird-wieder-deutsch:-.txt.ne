@@ -1,1 +1,1 @@
-{'Bozen': 1, 'Südtirol': 1, 'Rom': 1, 'Wien': 1, 'Brüssel': 1, 'Italien': 1, 'die': 1, 'Kleinarbeit erfunden': 1, ', stehen': 1, 'der': 1, 'Francesco Palermo': 1, 'Auf der italienischen': 1, '.': 1, 'weniger': 1, 'auf': 1, 'vorher erteilte': 1, 'Implosion der': 1}
+['Bozen', 'Südtirol', 'Rom', 'Wien', 'Brüssel', 'Italien', 'die', 'Kleinarbeit erfunden', ', stehen', 'der', 'Francesco Palermo', 'Auf der italienischen', '.', 'weniger', 'auf', 'vorher erteilte', 'Implosion der']

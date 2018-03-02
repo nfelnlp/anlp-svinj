@@ -1,1 +1,1 @@
-{'Berlin': 1, 'deutschen Wirtschaft': 1, 'deutschen Wirtschaft Köln': 1, 'es': 1, 'eines': 1}
+['Berlin', 'deutschen Wirtschaft', 'deutschen Wirtschaft Köln', 'es', 'eines']

@@ -1,1 +1,1 @@
-{'. Die': 1, 'BKA': 1, 'nutze': 1, 'in': 2, 'die': 1, 'den': 1}
+['. Die', 'BKA', 'nutze', 'in', 'die', 'in', 'den']

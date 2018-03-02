@@ -1,1 +1,1 @@
-{'Rom': 1, 'Italien': 1, 'Minniti': 1, ',': 2, 'diese ihre': 1, 'damit': 1, 'von': 1, 'befürworteten': 1, 'für': 1, 'Mittelmeer': 1, 'mit': 1, 'Todesfällen': 1, 'Auch': 1, 'kritisierte die': 1, 'diese weiterer': 1}
+['Rom', 'Italien', 'Minniti', ',', 'diese ihre', ',', 'damit', 'von', 'befürworteten', 'für', 'Mittelmeer', 'mit', 'Todesfällen', 'Auch', 'kritisierte die', 'diese weiterer']

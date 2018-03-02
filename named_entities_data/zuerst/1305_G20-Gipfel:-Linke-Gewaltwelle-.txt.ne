@@ -1,1 +1,1 @@
-{'Hamburg': 1, 'Dafür': 1, 'auf': 2, 'zum': 1, '–': 1, 'kam': 1}
+['Hamburg', 'Dafür', 'auf', 'zum', '–', 'auf', 'kam']

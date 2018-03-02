@@ -1,1 +1,1 @@
-{'Berlin': 1, 'Deutschland': 1, 'an .': 1, 'im': 1, 'der': 1, 'Einfluß': 1, 'AfD': 1, ',': 1}
+['Berlin', 'Deutschland', 'an .', 'im', 'der', 'Einfluß', 'AfD', ',']

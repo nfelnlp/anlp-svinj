@@ -1,1 +1,1 @@
-{'entsprechende Gutachten': 1, 'sich': 1, 'bedroht': 1, ', die': 1, 'lukratives': 1, 'Banken und': 1, 'Worten': 1, 'Vor': 1, 'NRW': 1, 'SPD wäre eine': 1, 'und': 1}
+['entsprechende Gutachten', 'sich', 'bedroht', ', die', 'lukratives', 'Banken und', 'Worten', 'Vor', 'NRW', 'SPD wäre eine', 'und']

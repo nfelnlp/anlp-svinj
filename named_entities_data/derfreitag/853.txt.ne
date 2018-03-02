@@ -1,1 +1,1 @@
-{'Paul van Dyk': 1, 'VW-Kampagne': 1, 'Kitesurferin Susi Mai': 1, 'befreunden .': 1}
+['Paul van Dyk', 'VW-Kampagne', 'Kitesurferin Susi Mai', 'befreunden .']

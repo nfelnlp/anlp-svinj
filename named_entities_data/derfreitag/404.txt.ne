@@ -1,1 +1,1 @@
-{'Lions/AFP/Getty': 1, 'Eltern': 1, 'gegen': 1, 'Kind': 1, 'Morgellons- Syndrom': 1, 'zusätzliche': 1, 'Strahlung': 1, 'Kinderneurologin': 1, 'gründlichen Recherchen .': 1, 'nationale Gesundheitsbehörde der USA': 1, 'und': 1, 'Strahlen': 1, ', über Monate': 1, 'gar ,': 1, 'das': 1}
+['Lions/AFP/Getty', 'Eltern', 'gegen', 'Kind', 'Morgellons- Syndrom', 'zusätzliche', 'Strahlung', 'Kinderneurologin', 'gründlichen Recherchen .', 'nationale Gesundheitsbehörde der USA', 'und', 'Strahlen', ', über Monate', 'gar ,', 'das']

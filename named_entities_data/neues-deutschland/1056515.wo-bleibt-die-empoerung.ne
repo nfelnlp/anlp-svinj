@@ -1,1 +1,1 @@
-{'den': 1, 'Wenn sich': 1, 'wird': 1, ') für': 1, '«': 2, 'Südkorea': 1, 'der': 1, 'die': 1, 'von Arbeitnehmern und': 1, '»': 1}
+['den', 'Wenn sich', 'wird', ') für', '«', 'Südkorea', 'der', 'die', 'von Arbeitnehmern und', '»', '«']

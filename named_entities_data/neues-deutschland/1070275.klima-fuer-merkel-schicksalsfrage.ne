@@ -1,1 +1,1 @@
-{'. Bundeskanzlerin': 1, 'Merkel ( CDU': 1, 'hat': 1, 'Mittwoch': 1, 'Deshalb': 1, '»': 1, 'einfach.': 1, 'in': 1, 'anderen': 1, 'Einschätzung': 1, 'der': 1, 'ist': 1, '2020': 1, 'enttäuscht': 1, 'und': 1, 'Deutschland': 1, ')': 1, 'Ann-Kathrin': 1, 'Im': 1, 'Klimaschutz-Index der': 1}
+['. Bundeskanzlerin', 'Merkel ( CDU', 'hat', 'Mittwoch', 'Deshalb', '»', 'einfach.', 'in', 'anderen', 'Einschätzung', 'der', 'ist', '2020', 'enttäuscht', 'und', 'Deutschland', ')', 'Ann-Kathrin', 'Im', 'Klimaschutz-Index der']

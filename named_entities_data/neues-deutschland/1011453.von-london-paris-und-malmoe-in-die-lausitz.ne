@@ -1,1 +1,1 @@
-{'Großbritannien': 1, 'Frankreich': 1, 'den': 1, 'gestern': 1, 'ein': 1, 'ein .': 1, 'KlimakämpferInnen': 1, 'Fahrrädern': 1, '.': 2, 'Aktion': 2, 'sich in': 1, 'Cooperide an': 1, 'der': 2, 'eine': 1, 'Lausitzer Klima-': 1, 'noch': 1, 'Die': 1, 'soll': 1}
+['Großbritannien', 'Frankreich', 'den', 'gestern', 'ein', 'ein .', 'KlimakämpferInnen', 'Fahrrädern', '.', 'Aktion', 'sich in', '.', 'Aktion', 'Cooperide an', 'der', 'der', 'eine', 'Lausitzer Klima-', 'noch', 'Die', 'soll']

@@ -1,1 +1,1 @@
-{'unter': 1, 'LINKEN': 1}
+['unter', 'LINKEN']

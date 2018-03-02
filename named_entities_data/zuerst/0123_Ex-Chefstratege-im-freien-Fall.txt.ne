@@ -1,1 +1,1 @@
-{'Washington': 1, 'Bannon': 1, 'sinkt weiter': 1, 'im': 1, 'and': 1, ', wurde': 1, 'und': 1, 'gelungen': 1, 'Bannon in': 1, 'Larry': 1, 'für das': 1, 'erreicht habe': 1, 'Unternehmerin': 1, 'des': 1, 'und ihre': 1}
+['Washington', 'Bannon', 'sinkt weiter', 'im', 'and', ', wurde', 'und', 'gelungen', 'Bannon in', 'Larry', 'für das', 'erreicht habe', 'Unternehmerin', 'des', 'und ihre']

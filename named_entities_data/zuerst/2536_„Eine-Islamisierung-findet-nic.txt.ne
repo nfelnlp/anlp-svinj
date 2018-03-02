@@ -1,1 +1,1 @@
-{'Wien': 1, 'Österreich': 1, 'österreichischen': 1, 'besorgten': 1, 'Muslime': 2, 'bei': 1, 'In': 1, ')': 1}
+['Wien', 'Österreich', 'österreichischen', 'besorgten', 'Muslime', 'bei', 'Muslime', 'In', ')']

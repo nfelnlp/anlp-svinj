@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Weißenburg': 1, 'Linken-Stadtrat': 1, 'die': 1, 'ihn': 1, 'sich': 1, 'nur': 1, 'Stadt-': 1, 'Staub': 1}
+['Gesellschaft', 'Weißenburg', 'Linken-Stadtrat', 'die', 'ihn', 'sich', 'nur', 'Stadt-', 'Staub']

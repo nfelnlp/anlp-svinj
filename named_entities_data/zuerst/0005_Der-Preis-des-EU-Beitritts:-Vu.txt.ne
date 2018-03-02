@@ -1,1 +1,1 @@
-{'Belgrad': 1, 'Brandt “ :': 1, 'macht': 1, 'schmackhaft': 1, 'dafür': 2, 'führen': 1, 'jetzt': 2, 'werde': 1, 'nicht': 1, 'beitreten': 1, '.': 2, 'offiziell': 1, 'anzuerkennen': 1, 'unterbreiten': 1, 'für': 1, 'Volksbefragung': 1, 'ihm': 1, 'Meinungsumfragen': 1, 'Prozent': 1}
+['Belgrad', 'Brandt “ :', 'macht', 'schmackhaft', 'dafür', 'führen', 'jetzt', 'werde', 'nicht', 'beitreten', '.', 'offiziell', 'anzuerkennen', 'jetzt', 'unterbreiten', 'für', 'Volksbefragung', 'dafür', '.', 'ihm', 'Meinungsumfragen', 'Prozent']

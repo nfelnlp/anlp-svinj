@@ -1,1 +1,1 @@
-{'Washington': 1, 'US-Präsident': 1, 'eine Anordnung': 1, 'Die': 2, 'jetzt': 1, 'es unter anderem um': 1, 'aller „Flüchtlinge': 1, 'für': 2, '“': 1, 'wiederholte': 1, 'muslimischen': 1, 'Maßnahmen': 1, 'Maßnahme': 1}
+['Washington', 'US-Präsident', 'eine Anordnung', 'Die', 'jetzt', 'es unter anderem um', 'aller „Flüchtlinge', 'für', '“', 'für', 'Die', 'wiederholte', 'muslimischen', 'Maßnahmen', 'Maßnahme']

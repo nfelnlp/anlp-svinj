@@ -1,1 +1,1 @@
-{'Rom': 1, 'Italien': 1, 'libyschen': 1, 'Fayez al-Serraj': 1, 'Migranten': 1, 'hat entsprechende': 1, ',': 3, 'zu': 1, 'seinen Einsatz': 1, 'aktiv': 1, 'Fundamentalisten': 1, 'das': 1, 'worden': 1}
+['Rom', 'Italien', 'libyschen', 'Fayez al-Serraj', 'Migranten', 'hat entsprechende', ',', 'zu', ',', 'seinen Einsatz', 'aktiv', 'Fundamentalisten', 'das', 'worden', ',']

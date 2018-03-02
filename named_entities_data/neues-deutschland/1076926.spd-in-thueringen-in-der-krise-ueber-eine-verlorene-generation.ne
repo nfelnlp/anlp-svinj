@@ -1,1 +1,1 @@
-{'SPD': 2, 'Thüringen': 2, 'Sebastian Haak': 1, 'Thüringer SPD': 1, 'Koalition': 1, 'Bund': 1, 'Wolfgang Tiefensee': 1, 'SPD-Vorsitzender': 1, 'soll': 1, 'begrüßt': 1, 'Tiefensee': 1, 'Landesparteitag': 1, 'Dinge': 1, 'heute': 1}
+['SPD', 'Thüringen', 'SPD', 'Thüringen', 'Sebastian Haak', 'Thüringer SPD', 'Koalition', 'Bund', 'Wolfgang Tiefensee', 'SPD-Vorsitzender', 'soll', 'begrüßt', 'Tiefensee', 'Landesparteitag', 'Dinge', 'heute']

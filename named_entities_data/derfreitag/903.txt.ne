@@ -1,1 +1,1 @@
-{'Frauke Petry': 1, 'offen': 1, 'Die aktuelle': 1, 'anlässlich der': 1, 'der Analyse der Landtagswahlen': 1, 'in': 1, 'Befürchtungen': 1, '.': 2, 'ultrakonservativen': 1, 'Die': 1, '„Genderismus “ könnte': 1, 'einer': 1, 'Jahre wieder auferstehen würden .': 1, 'die': 1}
+['Frauke Petry', 'offen', 'Die aktuelle', 'anlässlich der', 'der Analyse der Landtagswahlen', 'in', 'Befürchtungen', '.', 'ultrakonservativen', 'Die', '„Genderismus “ könnte', '.', 'einer', 'Jahre wieder auferstehen würden .', 'die']

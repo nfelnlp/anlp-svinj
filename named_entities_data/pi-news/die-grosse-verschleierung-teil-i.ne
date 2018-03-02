@@ -1,1 +1,1 @@
-{'Deutschland': 1, 'Ergebnisse': 1, 'hat': 1, '.': 1, 'wäre die AfD-Frau Dr.': 1, 'Zweifel ,': 1, 'Glaubensangehörige': 1, 'mit': 1, 'einiges': 1, 'der': 1}
+['Deutschland', 'Ergebnisse', 'hat', '.', 'wäre die AfD-Frau Dr.', 'Zweifel ,', 'Glaubensangehörige', 'mit', 'einiges', 'der']

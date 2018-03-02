@@ -1,0 +1,1 @@
+['Hussein K. und', ',', 'nicht', '. Er stand', 'vor', 'an', 'jungen', '–', 'etwa', 'Auflagen', 'in', 'in', 'es', 'Mord', '. Der Überwachungsstaat', 'anderswo', 'religiös']

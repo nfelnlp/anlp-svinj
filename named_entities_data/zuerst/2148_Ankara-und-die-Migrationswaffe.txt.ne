@@ -1,1 +1,1 @@
-{'Ankara': 1, '„Flüchtlinge': 1, 'Waffe': 1, 'war': 1, 'jetzt': 1, ': „Wenn': 1, 'gilt ,': 1, 'keine': 1, 'der': 1, ',': 1, 'Gezi-Protesten': 1, 'Korruptionsermittlungen': 1, 'alle': 1, 'Gegenzug': 1, 'Unterstützung bei': 1, '„Flüchtlinge “': 1, 'syrischen': 1, 'die': 1, '„Flüchtlings': 1}
+['Ankara', '„Flüchtlinge', 'Waffe', 'war', 'jetzt', ': „Wenn', 'gilt ,', 'keine', 'der', ',', 'Gezi-Protesten', 'Korruptionsermittlungen', 'alle', 'Gegenzug', 'Unterstützung bei', '„Flüchtlinge “', 'syrischen', 'die', '„Flüchtlings']

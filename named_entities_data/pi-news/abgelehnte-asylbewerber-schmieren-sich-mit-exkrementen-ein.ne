@@ -1,1 +1,1 @@
-{',': 1, 'Staat': 1, 'Sie': 1, 'diesem': 1, 'und': 2, 'herrschen': 1, '2017': 1, '( Printausgabe der': 1, 'Zeitung vom': 1, 'Der': 1, ', dann': 1, 'Aufenthaltserlaubnis': 1}
+[',', 'Staat', 'Sie', 'diesem', 'und', 'herrschen', '2017', '( Printausgabe der', 'Zeitung vom', 'und', 'Der', ', dann', 'Aufenthaltserlaubnis']

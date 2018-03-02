@@ -1,1 +1,1 @@
-{'Heiko Maas': 1, 'SPD': 1, 'Adam Berry/Getty': 1, 'Ein': 1, 'deren': 1, 'Politik': 1, '.': 2, 'bestraft': 1, ',': 1, 'alles andere': 1, 'sexuelle Handlungen': 1, 'verletzte': 1, 'ins „Zwielicht': 1, 'des': 2, 'geht': 1, 'vorzüglich': 1, 'Vergessen lässt': 1}
+['Heiko Maas', 'SPD', 'Adam Berry/Getty', 'Ein', 'deren', 'Politik', '.', 'bestraft', ',', 'alles andere', 'sexuelle Handlungen', '.', 'verletzte', 'ins „Zwielicht', 'des', 'geht', 'des', 'vorzüglich', 'Vergessen lässt']

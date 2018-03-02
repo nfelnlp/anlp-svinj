@@ -1,1 +1,1 @@
-{'Homosexuellen-Ehe': 1, 'Mitte Mai': 1, 'und der': 1, 'dem Schreiben': 1, 'Die': 1, 'Liebe': 1, 'kennen': 1, 'geht': 1, ', nur': 1, 'und Liedermacher': 1, 'der': 2}
+['Homosexuellen-Ehe', 'Mitte Mai', 'und der', 'dem Schreiben', 'Die', 'Liebe', 'kennen', 'geht', ', nur', 'und Liedermacher', 'der', 'der']

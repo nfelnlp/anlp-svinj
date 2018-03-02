@@ -1,1 +1,1 @@
-{'Gesellschaft 0 Berlin': 1, 'Berlin': 1, 'Polizei': 1, 'seit': 1, 'Sebastian': 1, '34 )': 1, 'motivierte': 1, 'brennende': 1, ',': 1}
+['Gesellschaft 0 Berlin', 'Berlin', 'Polizei', 'seit', 'Sebastian', '34 )', 'motivierte', 'brennende', ',']

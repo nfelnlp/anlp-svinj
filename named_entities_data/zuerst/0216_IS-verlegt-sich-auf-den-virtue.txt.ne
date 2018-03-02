@@ -1,1 +1,1 @@
-{'Washington': 1, '(': 1, 'Army and State Department': 1, 'und': 1, 'Ghosts': 1, 'Außenministerium': 1, 'weitere': 1, 'an': 1, 'einsamen': 1, 'König': 1, 'erklärte': 1, 'der IS-Hacker': 1, '„Angst': 1, 'in': 1, 'nicht': 1, 'Sicherheitsstufe': 1}
+['Washington', '(', 'Army and State Department', 'und', 'Ghosts', 'Außenministerium', 'weitere', 'an', 'einsamen', 'König', 'erklärte', 'der IS-Hacker', '„Angst', 'in', 'nicht', 'Sicherheitsstufe']

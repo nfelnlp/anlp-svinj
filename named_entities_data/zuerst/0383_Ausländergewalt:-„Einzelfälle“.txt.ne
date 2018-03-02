@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Nötigungen': 1, 'Gießen': 1, 'gerieten': 1, 'Asylbewerber': 1, 'Der': 1, 'Personen': 1, 'Dieser': 1}
+['Gesellschaft', 'Nötigungen', 'Gießen', 'gerieten', 'Asylbewerber', 'Der', 'Personen', 'Dieser']

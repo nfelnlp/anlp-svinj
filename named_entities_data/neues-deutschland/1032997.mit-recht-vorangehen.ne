@@ -1,1 +1,1 @@
-{'am': 1, 'deshalb': 1, 'Vorträgen': 1, 'Career Fair': 1, 'des deutschen Pendants , Stuart': 1, 'andernorts für': 1, 'homophobe': 1, 'sei': 1, 'Regelung': 1, 'zentrales': 1, 'Geschlechtsidentität': 1, 'aktiver LGBTI-Jurist*innen': 1}
+['am', 'deshalb', 'Vorträgen', 'Career Fair', 'des deutschen Pendants , Stuart', 'andernorts für', 'homophobe', 'sei', 'Regelung', 'zentrales', 'Geschlechtsidentität', 'aktiver LGBTI-Jurist*innen']

@@ -1,1 +1,1 @@
-{'Bagdad': 1, '(': 1, 'ebenso': 1, 'vor': 1, 'entführt': 1, 'Kurdengebiet': 1, 'Laut': 1, 'vormals': 1, 'Land': 1, 'Syrien': 1, 'am': 1, 'es': 1, 'Massengrab': 1, 'und': 1, 'aus': 1, 'vertrieben': 1, 'der': 1}
+['Bagdad', '(', 'ebenso', 'vor', 'entführt', 'Kurdengebiet', 'Laut', 'vormals', 'Land', 'Syrien', 'am', 'es', 'Massengrab', 'und', 'aus', 'vertrieben', 'der']

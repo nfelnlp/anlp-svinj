@@ -1,1 +1,1 @@
-{'. Wer': 1, 'Zypries ( SPD': 1, 'und': 2, 'Entscheidungen': 1, ',': 3, 'Leipzig': 1, 'Siemens': 1, 'Waggonbauer': 1, 'einzige': 1, 'etwa': 1, '»': 1, 'der Standorte sei': 1, 'Weggang': 1, 'Konzerns': 1, 'den': 1, 'erhalten': 1, 'für eine': 1, 'sieht er': 1}
+['. Wer', 'Zypries ( SPD', 'und', 'Entscheidungen', ',', 'Leipzig', 'Siemens', 'Waggonbauer', 'einzige', ',', 'etwa', '»', 'der Standorte sei', ',', 'Weggang', 'Konzerns', 'den', 'erhalten', 'und', 'für eine', 'sieht er']

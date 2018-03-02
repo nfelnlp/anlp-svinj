@@ -1,1 +1,1 @@
-{'New': 1, 'New York': 1, ',': 1, 'und': 1, 'Soros in': 1, 'ins': 1, 'Regierung': 1, 'Tatsächlich': 1, 'inzwischen': 1, 'zahlreiche': 1, ', die die': 1, 'eines': 1, 'Kopenhagen': 1, 'Das': 1, 'führt': 1, 'wesentliche': 1, 'der': 2, 'auf': 1, '„Einfluß': 1, 'verschiedenen': 1, 'Gemeinschaft': 1}
+['New', 'New York', ',', 'und', 'Soros in', 'ins', 'Regierung', 'Tatsächlich', 'inzwischen', 'zahlreiche', ', die die', 'eines', 'Kopenhagen', 'Das', 'führt', 'wesentliche', 'der', 'auf', '„Einfluß', 'verschiedenen', 'der', 'Gemeinschaft']

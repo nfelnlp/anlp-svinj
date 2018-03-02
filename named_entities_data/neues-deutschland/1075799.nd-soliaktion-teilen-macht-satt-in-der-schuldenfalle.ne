@@ -1,1 +1,1 @@
-{'lange': 1, 'Kreditschulden bei': 1, 'aufgenommen hat ,': 1, '- haben': 1, 'ihre': 1, 'zwar': 1, 'dass': 1, 'eine': 1, 'importiert': 1, '.': 1}
+['lange', 'Kreditschulden bei', 'aufgenommen hat ,', '- haben', 'ihre', 'zwar', 'dass', 'eine', 'importiert', '.']

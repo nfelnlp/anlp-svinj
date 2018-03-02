@@ -1,1 +1,1 @@
-{'die': 1, 'in': 1, 'einem Vorabdruck': 1, 'gibt': 1, 'ein': 1, ', geht': 1, 'die Räumung': 1, 'Umgang': 1, ', dessen': 1, '18 .': 1, '2016': 1, 'wie': 1, 'als': 1, '.': 1, 'Regisseurs': 1, 'Lanzmann': 1, 'Erwähnung .': 1, 'Florian Ludwig': 1, 'mit': 1, 'telegraph 131/132': 1}
+['die', 'in', 'einem Vorabdruck', 'gibt', 'ein', ', geht', 'die Räumung', 'Umgang', ', dessen', '18 .', '2016', 'wie', 'als', '.', 'Regisseurs', 'Lanzmann', 'Erwähnung .', 'Florian Ludwig', 'mit', 'telegraph 131/132']

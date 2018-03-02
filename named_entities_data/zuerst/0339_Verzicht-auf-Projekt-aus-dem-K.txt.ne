@@ -1,1 +1,1 @@
-{'Moskau': 1, 'Rußland': 1, 'und': 1, 'Potential': 1, ', die Industrie': 1, '“': 1, 'wegen': 1}
+['Moskau', 'Rußland', 'und', 'Potential', ', die Industrie', '“', 'wegen']

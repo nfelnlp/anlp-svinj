@@ -1,1 +1,1 @@
-{'Düsseldorf': 1, 'Nordrhein-Westfalen ( 14': 1, '„Rheinischen': 1, 'sollen': 1, ')': 1, '7,6 Prozent der': 1, 'das': 1, ') bei der': 1, 'zulasten einer politisch': 1, ',': 1, 'habe': 1}
+['Düsseldorf', 'Nordrhein-Westfalen ( 14', '„Rheinischen', 'sollen', ')', '7,6 Prozent der', 'das', ') bei der', 'zulasten einer politisch', ',', 'habe']

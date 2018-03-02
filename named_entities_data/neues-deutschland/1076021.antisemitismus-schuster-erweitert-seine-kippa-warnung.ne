@@ -1,1 +1,1 @@
-{'. Der': 1, ', würde': 1, 'Zeitung': 1, '.': 1, 'die': 1, 'wenn': 1, 'auf': 1, 'nicht': 1}
+['. Der', ', würde', 'Zeitung', '.', 'die', 'wenn', 'auf', 'nicht']

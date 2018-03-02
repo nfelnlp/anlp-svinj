@@ -1,1 +1,1 @@
-{'.': 1, '. Vor': 1, 'der': 1, 'sondern': 1, '»': 1, 'Hans': 1, 'Kerkhoff . Im': 1, 'über': 1, 'dem Treffen des': 1, 'Global': 1, 'darauf': 1, 'übernimmt': 1, 'Vorsitz': 1, 'KSte': 1}
+['.', '. Vor', 'der', 'sondern', '»', 'Hans', 'Kerkhoff . Im', 'über', 'dem Treffen des', 'Global', 'darauf', 'übernimmt', 'Vorsitz', 'KSte']

@@ -1,1 +1,1 @@
-{',': 1, 'Meeresspiegels': 1, '20': 1, 'zu': 1, '!': 1}
+[',', 'Meeresspiegels', '20', 'zu', '!']

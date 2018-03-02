@@ -1,1 +1,1 @@
-{'Beziehungen': 1, 'Dolly': 1, 'wurde': 1, 'daß': 1, 'Worten': 1, 'den': 1, 'zu vertrösten': 1, 'Kinder': 1, 'vorwagen': 1, 'tatsächlich ist': 1, '.': 1, 'Problem': 1, 'Jahrhunderts': 1}
+['Beziehungen', 'Dolly', 'wurde', 'daß', 'Worten', 'den', 'zu vertrösten', 'Kinder', 'vorwagen', 'tatsächlich ist', '.', 'Problem', 'Jahrhunderts']

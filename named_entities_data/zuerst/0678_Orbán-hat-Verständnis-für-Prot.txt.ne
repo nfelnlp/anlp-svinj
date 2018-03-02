@@ -1,1 +1,1 @@
-{'Budapest/Talinn': 1, 'Orbán': 1, 'sich': 1, 'ungarischen': 1, '„nichts': 1, 'EU-Gipfels': 1, '.': 1, 'richtig': 1, 'daß sie': 1, 'zur': 1, 'offiziell': 1, 'Die': 1, 'zerstochen .': 1, 'seine': 1, 'Maßregelungen': 1, 'keine': 1, 'in': 1, 'nicht': 1}
+['Budapest/Talinn', 'Orbán', 'sich', 'ungarischen', '„nichts', 'EU-Gipfels', '.', 'richtig', 'daß sie', 'zur', 'offiziell', 'Die', 'zerstochen .', 'seine', 'Maßregelungen', 'keine', 'in', 'nicht']

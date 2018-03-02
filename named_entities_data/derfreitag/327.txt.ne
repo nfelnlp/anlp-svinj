@@ -1,1 +1,1 @@
-{'Ingo': 1, 'Marc Beckmann': 1, 'Jakob Augstein': 1, ',': 1, 'werden': 1, 'Buch steht': 1, 'für': 1, 'Armuts-': 1, 'zu eng': 1, '.': 1, 'ist': 1, 'aber': 1, 'muss': 1, 'machen': 1, 'Er ist': 1, 'erhielt er': 1, 'Unsere schönen': 1, 'Gegen': 1}
+['Ingo', 'Marc Beckmann', 'Jakob Augstein', ',', 'werden', 'Buch steht', 'für', 'Armuts-', 'zu eng', '.', 'ist', 'aber', 'muss', 'machen', 'Er ist', 'erhielt er', 'Unsere schönen', 'Gegen']

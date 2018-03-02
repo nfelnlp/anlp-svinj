@@ -1,1 +1,1 @@
-{'Washington': 1, 'US-Präsident': 1, 'im': 1, 'schrieb': 1, 'auf': 1, 'CBS': 1, 'der': 1, 'Post': 1, 'oder': 1, 'Times ” verlassen': 1, 'keine Chance auf die': 1, 'Medienvertreter': 1, '„Es handelt sich um': 1, 'die er': 1}
+['Washington', 'US-Präsident', 'im', 'schrieb', 'auf', 'CBS', 'der', 'Post', 'oder', 'Times ” verlassen', 'keine Chance auf die', 'Medienvertreter', '„Es handelt sich um', 'die er']

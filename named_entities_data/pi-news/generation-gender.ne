@@ -1,1 +1,1 @@
-{'NADINE HOFFMANN*': 1, ',': 1, 'es': 1, 'es zum': 1, 'von': 1, 'nicht': 1, 'zu': 1, 'passenden': 1, 'über': 1, '.': 1, 'oder': 1, 'weltfremd': 1}
+['NADINE HOFFMANN*', ',', 'es', 'es zum', 'von', 'nicht', 'zu', 'passenden', 'über', '.', 'oder', 'weltfremd']

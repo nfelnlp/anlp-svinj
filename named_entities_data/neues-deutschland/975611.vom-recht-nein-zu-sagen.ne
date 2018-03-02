@@ -1,1 +1,1 @@
-{'alle': 1, 'informierte per E-Mail': 1, 'informierte per E-Mail ,': 1, 'erste': 1, 'verhalten': 1, 'Zu': 1, 'von': 1}
+['alle', 'informierte per E-Mail', 'informierte per E-Mail ,', 'erste', 'verhalten', 'Zu', 'von']

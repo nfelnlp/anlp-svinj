@@ -1,1 +1,1 @@
-{'EU-Mitgliedsländer': 1, 'Griechenland': 1, 'die': 1, 'nicht': 1, 'EU-Europa': 1, '.': 1, 'Krieges': 1, ',': 2, 'hier': 1, 'Nach': 1, 'der': 2, 'Jeder': 1, 'dazu': 1}
+['EU-Mitgliedsländer', 'Griechenland', 'die', 'nicht', 'EU-Europa', '.', 'Krieges', ',', 'hier', ',', 'Nach', 'der', 'der', 'Jeder', 'dazu']

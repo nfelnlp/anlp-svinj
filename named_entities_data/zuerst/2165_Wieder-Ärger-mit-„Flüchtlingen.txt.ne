@@ -1,1 +1,1 @@
-{'Budapest': 1, 'Ungarn': 1, 'traten': 1, 'Einwanderungsbehörde': 1, 'festgehalten': 1, ': „Der': 1, '“ ,': 1, '.': 1, 'hat': 1, 'Krieg': 1, '“': 1, '44': 1}
+['Budapest', 'Ungarn', 'traten', 'Einwanderungsbehörde', 'festgehalten', ': „Der', '“ ,', '.', 'hat', 'Krieg', '“', '44']

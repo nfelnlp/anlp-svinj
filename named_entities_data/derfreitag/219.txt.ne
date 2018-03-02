@@ -1,1 +1,1 @@
-{'CDU': 2, 'CSU': 2, 'SPD': 2, 'Jung': 1, 'Frisch': 1, ', meint': 1, 'mit': 1, 'Teilen :': 1}
+['CDU', 'CSU', 'SPD', 'Jung', 'Frisch', 'CDU', 'CSU', 'SPD', ', meint', 'mit', 'Teilen :']

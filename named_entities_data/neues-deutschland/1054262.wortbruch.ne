@@ -1,1 +1,1 @@
-{'Osten': 1, 'der': 1, 'liegt': 1, 'den': 1}
+['Osten', 'der', 'liegt', 'den']

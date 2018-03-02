@@ -1,1 +1,1 @@
-{'. In': 1, 'haben': 1, 'haben äthiopischstämmige': 1, 'nahmen mehrere': 1, 'mehr': 1, ',': 1, 'Tel': 1, 'mehrere Demonstrationen': 1, '.': 1}
+['. In', 'haben', 'haben äthiopischstämmige', 'nahmen mehrere', 'mehr', ',', 'Tel', 'mehrere Demonstrationen', '.']

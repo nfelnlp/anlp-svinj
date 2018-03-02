@@ -1,1 +1,1 @@
-{'Arps . Er': 1, 'herausgegeben ,': 1, 'und Ingo': 1, 'verließen das': 1, 'nach': 1, ': »': 1, 'besteht die Redaktion': 1, 'Dienstag': 1, 'anderen': 1, '«': 2, 'Bernau': 1, ', sie kämpfe': 1, 'Linke': 1}
+['Arps . Er', 'herausgegeben ,', 'und Ingo', 'verließen das', 'nach', ': »', 'besteht die Redaktion', 'Dienstag', 'anderen', '«', '«', 'Bernau', ', sie kämpfe', 'Linke']

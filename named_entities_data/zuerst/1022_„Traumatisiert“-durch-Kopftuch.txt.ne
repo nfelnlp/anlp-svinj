@@ -1,1 +1,1 @@
-{'Long': 2, 'Long Beach/Kalifornien': 1, 'Über': 1, '.': 1, 'zu': 1, 'Polizisten': 1, 'gütlich ,': 1, 'gütlich , teilte': 1, '(': 1, 'Beach': 1, 'zu ,': 1, 'Region neue': 1, 'Frau': 1}
+['Long', 'Long Beach/Kalifornien', 'Über', '.', 'zu', 'Polizisten', 'Long', 'gütlich ,', 'gütlich , teilte', '(', 'Beach', 'zu ,', 'Region neue', 'Frau']

@@ -1,1 +1,1 @@
-{'Rußland': 1, 'Erklärungsnot': 1, 'Krim': 1, 'Ukraine': 1, 'Assad-Armee': 1, 'die': 1, 'IS-Terroristen': 1, 'und': 1, 'Traditionen': 1, 'einbezogen': 1}
+['Rußland', 'Erklärungsnot', 'Krim', 'Ukraine', 'Assad-Armee', 'die', 'IS-Terroristen', 'und', 'Traditionen', 'einbezogen']

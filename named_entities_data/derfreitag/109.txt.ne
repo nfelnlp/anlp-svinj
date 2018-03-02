@@ -1,1 +1,1 @@
-{', Mitglied': 1, 'Foto': 1, 'der Deutschen': 1, 'dringenden Bitte': 1, 'Maizière': 1, 'der Arbeitgeberverbände –': 1, 'der Universität': 1, 'Buch werden': 1, 'zwei erarbeitet': 1, 'Assistent': 1, ':': 1}
+[', Mitglied', 'Foto', 'der Deutschen', 'dringenden Bitte', 'Maizière', 'der Arbeitgeberverbände –', 'der Universität', 'Buch werden', 'zwei erarbeitet', 'Assistent', ':']

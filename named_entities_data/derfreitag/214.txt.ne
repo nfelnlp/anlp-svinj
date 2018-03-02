@@ -1,1 +1,1 @@
-{'die': 4, 'in': 1, 'hat': 1, 'seiner': 1, 'für': 1, 'es nach': 1, 'Mal': 1, 'gemeinsame': 1, '.': 1, 'Stimme': 1, 'einer': 1, 'bereit': 1, 'seinen': 1}
+['die', 'in', 'die', 'hat', 'seiner', 'für', 'es nach', 'Mal', 'gemeinsame', '.', 'Stimme', 'einer', 'die', 'die', 'bereit', 'seinen']

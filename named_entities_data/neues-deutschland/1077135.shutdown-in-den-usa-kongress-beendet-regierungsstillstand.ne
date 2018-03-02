@@ -1,1 +1,1 @@
-{'National Archives Gebäude': 1, 'Washington': 3, 'Donald Trump': 1, 'Trump': 2, 'Demokraten': 1, 'FBI': 1, 'Chuck Schumer': 1, 'USA': 1}
+['National Archives Gebäude', 'Washington', 'Washington', 'Washington', 'Donald Trump', 'Trump', 'Trump', 'Demokraten', 'FBI', 'Chuck Schumer', 'USA']

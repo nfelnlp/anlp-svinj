@@ -1,1 +1,1 @@
-{'Bauminister Markus Ulbig': 1, 'CDU': 1, 'aber': 1, 'Familienvater Thomas': 1, '„Zunächst sagte': 1, 'hatte': 1}
+['Bauminister Markus Ulbig', 'CDU', 'aber', 'Familienvater Thomas', '„Zunächst sagte', 'hatte']

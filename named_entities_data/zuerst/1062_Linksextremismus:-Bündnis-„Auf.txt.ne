@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'wird': 1, 'und Schleswig-Holstein in': 1, 'Jahresberichten geführt .': 1, 'Özdemir': 1, 'SPD-Politiker Manuela': 1, ',': 1, 'Barley und': 1, '.': 1, 'nur die': 1, 'Politiker ,': 1, 'auch militante': 1, 'Spitzenpolitiker': 1, 'bleibe solidarisch': 1, 'die': 1, 'ist': 1, 'größte': 1}
+['Gesellschaft', 'wird', 'und Schleswig-Holstein in', 'Jahresberichten geführt .', 'Özdemir', 'SPD-Politiker Manuela', ',', 'Barley und', '.', 'nur die', 'Politiker ,', 'auch militante', 'Spitzenpolitiker', 'bleibe solidarisch', 'die', 'ist', 'größte']

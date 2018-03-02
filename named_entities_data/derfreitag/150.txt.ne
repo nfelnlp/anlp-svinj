@@ -1,1 +1,1 @@
-{'Wer': 1, 'Damit springt': 1, 'Strudel': 1, 'diese Opfer': 1, 'verantwortlich dafür': 1}
+['Wer', 'Damit springt', 'Strudel', 'diese Opfer', 'verantwortlich dafür']

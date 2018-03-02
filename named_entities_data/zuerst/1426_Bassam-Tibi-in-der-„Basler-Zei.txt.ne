@@ -1,1 +1,1 @@
-{'Basel': 1, 'Bassam Tibi': 1, 'ins': 1, 'Zusammenhang': 1, '.': 1, 'deutsche': 1, 'wonach': 1, 'wird': 1, 'seien': 1, 'Sicherheitsproblemen': 1, 'dieses': 1, 'Auswahl': 1, ',': 1}
+['Basel', 'Bassam Tibi', 'ins', 'Zusammenhang', '.', 'deutsche', 'wonach', 'wird', 'seien', 'Sicherheitsproblemen', 'dieses', 'Auswahl', ',']

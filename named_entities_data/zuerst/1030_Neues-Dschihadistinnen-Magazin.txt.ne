@@ -1,1 +1,1 @@
-{'Islamabad': 1, 'Pakistan': 1, 'auf die': 1, 'und': 1, 'dazu': 1, 'Das': 1, 'daß': 1, 'daß damit': 1, 'bereits': 1, 'von 14': 1, 'verbieten': 1, 'wie mein': 1}
+['Islamabad', 'Pakistan', 'auf die', 'und', 'dazu', 'Das', 'daß', 'daß damit', 'bereits', 'von 14', 'verbieten', 'wie mein']

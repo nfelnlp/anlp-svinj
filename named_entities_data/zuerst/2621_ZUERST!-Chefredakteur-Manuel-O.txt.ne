@@ -1,1 +1,1 @@
-{'beschäftigt sich': 1, 'dem': 1, 'Polizeieinsatz': 1, '“': 1, 'x-fach': 1, 'x-fach vorbestrafte Tatverdächtige': 1, 'der': 1, 'Übergriffe': 1, 'viele': 1, 'scheinen': 1, '.': 1, 'einen': 1, 'handelt': 1, 'lautet': 1}
+['beschäftigt sich', 'dem', 'Polizeieinsatz', '“', 'x-fach', 'x-fach vorbestrafte Tatverdächtige', 'der', 'Übergriffe', 'viele', 'scheinen', '.', 'einen', 'handelt', 'lautet']

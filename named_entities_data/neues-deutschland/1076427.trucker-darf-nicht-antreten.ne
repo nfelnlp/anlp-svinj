@@ -1,1 +1,1 @@
-{', als': 1, 'zu': 2, 'und einen': 1, ', zunächst': 1, 'diesem': 1, 'und': 1, 'die': 1, 'in': 1, 'St.': 1, 'mit': 1, 'Noch': 1, 'stärkste': 1, 'trotzdem': 1, '. Ende Januar': 1, 'der': 1}
+[', als', 'zu', 'und einen', ', zunächst', 'diesem', 'und', 'die', 'in', 'St.', 'mit', 'zu', 'Noch', 'stärkste', 'trotzdem', '. Ende Januar', 'der']

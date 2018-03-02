@@ -1,1 +1,1 @@
-{'Netflix': 1, 'Segretain/Getty': 1, 'Vor': 1, 'kam es': 1, 'zeigt': 1, 'bemühten': 1, 'den': 1, 'überraschende Erscheinung': 1, 'seit': 1, 'hier': 1, 'oft': 1, 'Jahren': 1, '( ähnlich': 1, 'der': 1, 'schreibt': 1}
+['Netflix', 'Segretain/Getty', 'Vor', 'kam es', 'zeigt', 'bemühten', 'den', 'überraschende Erscheinung', 'seit', 'hier', 'oft', 'Jahren', '( ähnlich', 'der', 'schreibt']

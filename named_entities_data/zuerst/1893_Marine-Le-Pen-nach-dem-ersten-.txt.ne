@@ -1,1 +1,1 @@
-{'Nach': 1, ', Marine': 1, 'Pen': 1, 'Pen ,': 1, 'Pen , von': 1, 'Hochburg': 1, 'Front National ,': 1, 'Parteichefin am': 1, 'in': 1, 'das': 1, ',': 1, 'und': 1, 'Schutz': 1, '.': 1, 'schaffte': 1, 'Jean-Marie': 1}
+['Nach', ', Marine', 'Pen', 'Pen ,', 'Pen , von', 'Hochburg', 'Front National ,', 'Parteichefin am', 'in', 'das', ',', 'und', 'Schutz', '.', 'schaffte', 'Jean-Marie']

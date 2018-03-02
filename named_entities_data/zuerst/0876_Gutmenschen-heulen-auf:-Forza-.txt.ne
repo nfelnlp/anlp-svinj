@@ -1,1 +1,1 @@
-{'Rom': 1, 'Forza': 1, '.': 1, '– des': 1, ',': 1, 'Streitkräfte': 1, 'mobilisieren': 1, 'Forza Nuova': 1, 'ursprünglichen Plakatmotiv': 1, 'nun': 1, 'der': 1, '“ vor': 1}
+['Rom', 'Forza', '.', '– des', ',', 'Streitkräfte', 'mobilisieren', 'Forza Nuova', 'ursprünglichen Plakatmotiv', 'nun', 'der', '“ vor']

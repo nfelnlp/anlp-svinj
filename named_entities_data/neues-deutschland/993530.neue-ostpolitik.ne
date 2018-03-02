@@ -1,1 +1,1 @@
-{'Erfurt': 1, 'Jena': 2, 'Leipzig': 1, 'Johannes Schulten': 1, 'Ostdeutschland': 2, '.': 1, 'des Geschäftsführenden': 1, 'Anfang': 1, '000': 1}
+['Erfurt', 'Jena', 'Leipzig', 'Johannes Schulten', 'Ostdeutschland', 'Jena', 'Ostdeutschland', '.', 'des Geschäftsführenden', 'Anfang', '000']

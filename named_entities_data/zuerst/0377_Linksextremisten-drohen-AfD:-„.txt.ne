@@ -1,1 +1,1 @@
-{'Gesellschaft 3': 1, 'Gesellschaft 3 Hannover/Bad': 1, '. Zum': 1, 'Deutschland': 1, 'AfD': 1, 'verhindern': 1, 'Hetze': 1, 'das': 1, 'die': 1, 'die AfD tagen': 1, 'und': 1, 'Aktivist*innen': 1, 'kannst': 1, 'austauschen': 1, '“': 1, '( tw': 1}
+['Gesellschaft 3', 'Gesellschaft 3 Hannover/Bad', '. Zum', 'Deutschland', 'AfD', 'verhindern', 'Hetze', 'das', 'die', 'die AfD tagen', 'und', 'Aktivist*innen', 'kannst', 'austauschen', '“', '( tw']

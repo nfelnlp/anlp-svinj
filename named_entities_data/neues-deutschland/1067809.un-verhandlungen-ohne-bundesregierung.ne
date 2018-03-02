@@ -1,1 +1,1 @@
-{'.': 1, '. Deutschland': 1, 'sich': 1, 'internationalen': 1, 'bedauerlich': 1, 'EU-Delegation': 1, 'Gesprächen': 1, 'seit': 1, 'appellieren': 1, 'den': 1, 'weltweiten': 1, 'von Bürgern': 1, 'Belegschaften': 1, 'richten': 1, 'Menschenrechte': 1, 'Danach': 1}
+['.', '. Deutschland', 'sich', 'internationalen', 'bedauerlich', 'EU-Delegation', 'Gesprächen', 'seit', 'appellieren', 'den', 'weltweiten', 'von Bürgern', 'Belegschaften', 'richten', 'Menschenrechte', 'Danach']

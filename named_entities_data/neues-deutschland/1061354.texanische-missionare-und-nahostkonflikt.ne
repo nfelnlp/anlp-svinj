@@ -1,1 +1,1 @@
-{'Missionare': 1, 'Cowboyhut trägt .': 1, 'We Come': 1, 'erst': 1, 'hat': 1, 'Land': 1, 'einer': 1, 'er': 1, '»': 1, '.': 1, 'über': 1, 'die am': 1, 'an': 1, 'geht': 1, 'zurück . Eine': 1}
+['Missionare', 'Cowboyhut trägt .', 'We Come', 'erst', 'hat', 'Land', 'einer', 'er', '»', '.', 'über', 'die am', 'an', 'geht', 'zurück . Eine']

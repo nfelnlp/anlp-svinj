@@ -1,1 +1,1 @@
-{'Wien': 1, 'Waldsee': 1, 'österreichischen': 1, 'Freundes': 1, 'und': 2, 'Thomas': 1, 'vor 20': 1, 'Fotograf': 1, 'die': 2, 'schwul': 1, 'könnten': 1, 'wollte mich': 1, 'Umgebung': 1, 'bei': 1, 'Anweisung von': 1, 'zu': 1, ',': 2, 'Wahrheit': 1, 'zu einem': 1, 'meine': 1, 'Welt': 1, 'lieben': 1, 'in': 1}
+['Wien', 'Waldsee', 'österreichischen', 'Freundes', 'und', 'Thomas', 'vor 20', 'Fotograf', 'die', 'schwul', 'könnten', 'wollte mich', 'die', 'Umgebung', 'bei', 'Anweisung von', 'zu', ',', 'Wahrheit', 'zu einem', ',', 'meine', 'und', 'Welt', 'lieben', 'in']

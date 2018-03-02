@@ -1,1 +1,1 @@
-{'Warschau': 1, 'Berlin': 1, 'Andrzej Przylebski': 1, 'Forderungen': 1, 'Im': 1, 'USA': 1, 'hat': 1, 'Reparationsforderungen': 1, 'sie': 1, '.': 1, 'Bundesregierung': 1}
+['Warschau', 'Berlin', 'Andrzej Przylebski', 'Forderungen', 'Im', 'USA', 'hat', 'Reparationsforderungen', 'sie', '.', 'Bundesregierung']

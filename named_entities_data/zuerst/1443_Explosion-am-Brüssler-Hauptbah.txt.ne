@@ -1,1 +1,1 @@
-{'Brüssel': 1, '„Die': 1, 'Staatsanwaltschaft am': 1, '2016': 1, 'ist der Größte “': 1, 'der': 1, 'Attentäter': 1}
+['Brüssel', '„Die', 'Staatsanwaltschaft am', '2016', 'ist der Größte “', 'der', 'Attentäter']

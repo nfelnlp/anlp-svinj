@@ -1,1 +1,1 @@
-{'Kiew': 2, 'ukrainische': 2, 'Stepan Poltorak': 1, 'Poltorak': 1, 'Donbass-Region': 1, 'Ende': 1, 'ukrainisches': 1, 'sind': 1, 'im': 1, 'der': 1, 'eine': 1, 'der ukrainischen': 1, '.': 1, '„Meter': 1, 'die ukrainische': 1, 'die abtrünnigen': 1, 'von': 1, 'gesprochen': 1}
+['Kiew', 'ukrainische', 'ukrainische', 'Stepan Poltorak', 'Poltorak', 'Kiew', 'Donbass-Region', 'Ende', 'ukrainisches', 'sind', 'im', 'der', 'eine', 'der ukrainischen', '.', '„Meter', 'die ukrainische', 'die abtrünnigen', 'von', 'gesprochen']

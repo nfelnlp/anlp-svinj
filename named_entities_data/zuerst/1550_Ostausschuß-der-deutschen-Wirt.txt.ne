@@ -1,1 +1,1 @@
-{'Berlin': 1, 'im': 1, 'Leistungsfähigkeit': 1, 'hervor': 1, 'liegt Rußland': 1, 'den': 1, '35': 1, 'diesem': 1, 'Wirtschaft': 2, 'auch': 1, 'führenden': 1, 'und': 1, 'Deutschland': 1, 'beim': 1, 'bis': 1, 'Fortschritte': 1, 'künftig': 1, 'einer': 1, 'Know-how': 1, 'Die': 1, 'Ost-Ausschuss': 1}
+['Berlin', 'im', 'Leistungsfähigkeit', 'hervor', 'liegt Rußland', 'den', '35', 'diesem', 'Wirtschaft', 'auch', 'führenden', 'und', 'Deutschland', 'beim', 'bis', 'Fortschritte', 'künftig', 'einer', 'Know-how', 'Die', 'Ost-Ausschuss', 'Wirtschaft']

@@ -1,1 +1,1 @@
-{'. Der': 1, '» Holocaust-Leugner': 1, 'dem': 1, 'als »': 1, 'bezeichnen': 1, 'dessen': 1, 'Der': 1, 'betont': 1, 'Deshalb': 1, 'Agenturen/nd': 1}
+['. Der', '» Holocaust-Leugner', 'dem', 'als »', 'bezeichnen', 'dessen', 'Der', 'betont', 'Deshalb', 'Agenturen/nd']

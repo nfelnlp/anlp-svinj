@@ -1,1 +1,1 @@
-{'Calais': 2, 'und': 1, ',': 3, 'sie': 1, 'sie seien': 1, 'Attacken': 1, 'Richard': 1, 'wird': 1, 'wird nun': 1, 'Medien dazu': 1, 'Behörde': 1, 'Vehicle Crime': 1, 'sich auf Kfz-Kriminalität spezialisiert': 1, ', daß': 1, 'Oktober': 1, 'Jahres': 1, 'aus': 1}
+['Calais', 'Calais', 'und', ',', 'sie', 'sie seien', 'Attacken', 'Richard', 'wird', 'wird nun', 'Medien dazu', 'Behörde', 'Vehicle Crime', ',', 'sich auf Kfz-Kriminalität spezialisiert', ',', ', daß', 'Oktober', 'Jahres', 'aus']

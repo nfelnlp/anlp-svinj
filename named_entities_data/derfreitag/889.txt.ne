@@ -1,1 +1,1 @@
-{"'' Kanntet": 1, 'weißt': 1, 'hat': 1}
+["'' Kanntet", 'weißt', 'hat']

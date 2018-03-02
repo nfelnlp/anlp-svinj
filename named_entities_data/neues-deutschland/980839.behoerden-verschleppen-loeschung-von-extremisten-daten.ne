@@ -1,1 +1,1 @@
-{'. Während': 1, 'BKA erst': 1, 'Aufforderung': 1, 'zur': 1}
+['. Während', 'BKA erst', 'Aufforderung', 'zur']

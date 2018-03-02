@@ -1,1 +1,1 @@
-{'Charité': 2, 'Belegschaften': 1, 'Saarland': 1, 'Schleswig-Holstein , Nordrhein-Westfalen': 1, 'Hessen formieren sich': 1, ',': 3, 'rund': 1, 'müssen': 1}
+['Charité', 'Belegschaften', 'Charité', 'Saarland', 'Schleswig-Holstein , Nordrhein-Westfalen', 'Hessen formieren sich', ',', 'rund', ',', ',', 'müssen']

@@ -1,1 +1,1 @@
-{'. Die': 1, ', sagte der': 1, 'Jahren geht': 1, 'Dahinter': 1, 'denn': 1, 'AG': 1, 'auch': 1, 'Ein': 1, 'Jugendreisebereich werde': 1, 'Jugendreisen': 1}
+['. Die', ', sagte der', 'Jahren geht', 'Dahinter', 'denn', 'AG', 'auch', 'Ein', 'Jugendreisebereich werde', 'Jugendreisen']

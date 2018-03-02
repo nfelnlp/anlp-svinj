@@ -1,1 +1,1 @@
-{'Bewegung ,': 1, 'gelobten': 1, 'den': 1, '.': 1, 'selbst': 1, '–': 1, 'aus . Letzteren': 1, 's': 1, 'Faust': 1, 'ungerichtete': 1, 'von': 2, 'imperial': 1, 'Unüberhörbar': 1, 'und die': 1, '1823–1881 )': 1, '//commons.wikimedia.org/wiki/File': 1}
+['Bewegung ,', 'gelobten', 'den', '.', 'selbst', '–', 'aus . Letzteren', 's', 'Faust', 'ungerichtete', 'von', 'imperial', 'Unüberhörbar', 'und die', 'von', '1823–1881 )', '//commons.wikimedia.org/wiki/File']

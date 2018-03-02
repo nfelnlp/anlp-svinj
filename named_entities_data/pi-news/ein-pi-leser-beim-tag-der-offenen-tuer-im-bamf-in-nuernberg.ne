@@ -1,1 +1,1 @@
-{'SS-Kaserne': 1, '.': 2, 'Leopardenfell ,': 1, 'den': 1, 'Nach': 1, 'Besuch': 1, 'PC-Programm': 1, 'nicht': 1, 'antwortete': 1, 'und': 1, 'Euro': 1, ',': 1, 'er': 1, 'von den': 1, 'widersprach': 1, 'warf': 1, 'gehe': 1, 'unsinnigem': 1, 'allesamt': 1, '?': 1}
+['SS-Kaserne', '.', 'Leopardenfell ,', 'den', 'Nach', 'Besuch', 'PC-Programm', 'nicht', 'antwortete', 'und', 'Euro', ',', 'er', 'von den', 'widersprach', '.', 'warf', 'gehe', 'unsinnigem', 'allesamt', '?']

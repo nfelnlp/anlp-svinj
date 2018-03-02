@@ -1,1 +1,1 @@
-{'Afrika': 1, 'Anne Gonschorek': 1, 'Kapstadt': 1, 'Europa': 1, 'Osten': 1}
+['Afrika', 'Anne Gonschorek', 'Kapstadt', 'Europa', 'Osten']

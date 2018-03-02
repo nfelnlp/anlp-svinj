@@ -1,1 +1,1 @@
-{'zur': 1, 'Flaschenwürfe auf': 1, 'sind': 1, ',': 1, 'unterschiedlichen': 1, 'von': 2, 'Redakteur': 1, 'Zeitschrift »': 1, 'Anzahl': 1, 'sozialer': 1, 'Großen': 1, 'zu einer dreijährigen': 1, 'neun': 1, ', die damals': 1, 'am': 1, 'am letzten': 1, 'am letzten Wochenende': 1}
+['zur', 'Flaschenwürfe auf', 'sind', ',', 'unterschiedlichen', 'von', 'Redakteur', 'Zeitschrift »', 'Anzahl', 'sozialer', 'Großen', 'zu einer dreijährigen', 'von', 'neun', ', die damals', 'am', 'am letzten', 'am letzten Wochenende']

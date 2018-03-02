@@ -1,1 +1,1 @@
-{'Nazis': 1, 'Ernst Jüngers': 1, 'schreibt': 1, '“ genannt': 1, ':': 1, 'Meinung': 1, 'Machtübernahme der Gutmenschen': 1, 'Waldes': 1, 'wahrlich': 1, 'heute': 1, 'heute als': 1, 'Anbräuner': 1, 'Ernst': 1, 'lassen': 1}
+['Nazis', 'Ernst Jüngers', 'schreibt', '“ genannt', ':', 'Meinung', 'Machtübernahme der Gutmenschen', 'Waldes', 'wahrlich', 'heute', 'heute als', 'Anbräuner', 'Ernst', 'lassen']

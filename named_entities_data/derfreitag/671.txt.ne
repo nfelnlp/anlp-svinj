@@ -1,1 +1,1 @@
-{'Sean Gallup/Getty': 1, 'Reden': 1, '. und Ludwig': 1, 'die Vorschriften ,': 1, 'Doch': 1, ',': 1, 'stoße': 1, 'Sauerbiere': 1, 'Mischgetränk': 1, 'lese': 1, 'wird': 1, 'die': 1, 'Kunden': 1, 'ist': 1, 'Küchen- und': 1}
+['Sean Gallup/Getty', 'Reden', '. und Ludwig', 'die Vorschriften ,', 'Doch', ',', 'stoße', 'Sauerbiere', 'Mischgetränk', 'lese', 'wird', 'die', 'Kunden', 'ist', 'Küchen- und']

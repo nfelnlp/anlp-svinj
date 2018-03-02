@@ -1,1 +1,1 @@
-{'Von': 1, 'Ruf': 1, 'Trier ihren Mitgliedern': 1}
+['Von', 'Ruf', 'Trier ihren Mitgliedern']

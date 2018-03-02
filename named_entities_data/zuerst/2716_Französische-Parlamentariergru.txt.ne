@@ -1,1 +1,1 @@
-{'Aleppo': 1, 'beginnen nach': 1, 'die': 1, 'und': 1, ',': 1, 'teilte': 1, 'Woche mit': 1, 'ähnliche': 1, '.': 1, 'zufolge': 1, 'haben': 1, 'Menschen': 1, 'versorgt . Verletzte': 1, 'Mediendarstellungen': 1, '. „15': 1, 'sind zerstört': 1, 'Zivilisten': 1, 'gekommen': 1}
+['Aleppo', 'beginnen nach', 'die', 'und', ',', 'teilte', 'Woche mit', 'ähnliche', '.', 'zufolge', 'haben', 'Menschen', 'versorgt . Verletzte', 'Mediendarstellungen', '. „15', 'sind zerstört', 'Zivilisten', 'gekommen']

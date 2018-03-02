@@ -1,1 +1,1 @@
-{'Volksfront': 1, '–': 2, 'Sarazenen': 1, 'Wucherer': 1, 'angezettelten': 1, 'Ukraine': 1, 'Organisatoren': 1, 'allen': 1, 'Die': 1, ',': 4, 'war': 1, 'und': 1, 'jede': 1, 'echte': 1, 'die': 1, 'versehen': 1, 'los': 1, 'Hoher': 1, 'des': 1, 'persönliche': 1, 'belegt': 1, 'pfui': 1, '.': 1, 'können': 1}
+['Volksfront', '–', 'Sarazenen', 'Wucherer', '–', 'angezettelten', 'Ukraine', 'Organisatoren', 'allen', 'Die', ',', 'war', 'und', 'jede', 'echte', ',', 'die', 'versehen', ',', ',', 'los', 'Hoher', 'des', 'persönliche', 'belegt', 'pfui', '.', 'können']

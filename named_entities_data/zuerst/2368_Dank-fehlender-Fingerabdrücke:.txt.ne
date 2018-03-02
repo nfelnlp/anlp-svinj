@@ -1,1 +1,1 @@
-{'Berlin': 1, '.': 1, 'sollte': 1, ',': 1, 'Jahr': 1, 'solcher': 1, 'Die Fahnder': 1, 'München': 1, 'Turin': 1, 'biometrische': 1, 'und': 1, 'genommen': 1, '„Flüchtlingen “': 1, 'Fingerabdruckscanner .': 1}
+['Berlin', '.', 'sollte', ',', 'Jahr', 'solcher', 'Die Fahnder', 'München', 'Turin', 'biometrische', 'und', 'genommen', '„Flüchtlingen “', 'Fingerabdruckscanner .']

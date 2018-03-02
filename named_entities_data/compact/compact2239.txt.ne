@@ -1,1 +1,1 @@
-{'SPD-Perversion': 1, 'Richter Des öfteren': 1, '– die außerdem': 1, 'pro': 1, 'dem': 1, 'selbst': 1, 'Kritik': 1, '1-Euro-Ausbeutung': 1, '.': 1, 'auf weitere': 1, 'letzten': 1, 'diese': 1, 'Jetzt': 1, 'Hartz-IV-Gesetze schön': 1, 'weg': 1, 'erwarten…': 1, 'sie': 1, 'dass': 1, 'der Maßnahmen': 1}
+['SPD-Perversion', 'Richter Des öfteren', '– die außerdem', 'pro', 'dem', 'selbst', 'Kritik', '1-Euro-Ausbeutung', '.', 'auf weitere', 'letzten', 'diese', 'Jetzt', 'Hartz-IV-Gesetze schön', 'weg', 'erwarten…', 'sie', 'dass', 'der Maßnahmen']

@@ -1,1 +1,1 @@
-{'von': 2, 'über': 1, 'Wahrheit': 1, 'Reihen “': 1, ',': 2, 'und': 3, 'ausziehen': 1, 'Ersatz :': 1, '.': 1, 'zwischen Türken und': 1, 'zu': 1, 'aber': 1, 'einen': 1, 'aktuellen': 1, 'steht': 1, 'allem': 1, 'hier': 1, '. 12': 1}
+['von', 'über', 'Wahrheit', 'Reihen “', ',', 'und', 'und', 'ausziehen', 'und', 'Ersatz :', '.', 'zwischen Türken und', 'zu', 'von', ',', 'aber', 'einen', 'aktuellen', 'steht', 'allem', 'hier', '. 12']

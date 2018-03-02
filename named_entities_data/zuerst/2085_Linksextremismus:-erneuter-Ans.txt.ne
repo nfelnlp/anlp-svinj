@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Hamburg': 1, 'Hamburger Polizei-Kommissariats': 1, 'dem': 1, 'Erst': 1, 'völlig ausgebrannt': 1, 'von linksradikalen Brandstiftern': 1, 'sich': 1}
+['Gesellschaft', 'Hamburg', 'Hamburger Polizei-Kommissariats', 'dem', 'Erst', 'völlig ausgebrannt', 'von linksradikalen Brandstiftern', 'sich']

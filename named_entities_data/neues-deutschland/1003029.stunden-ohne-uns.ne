@@ -1,1 +1,1 @@
-{'miesen': 1, 'Gruppe': 1, 'aus': 1, 'das': 1, 'Oktober': 1, 'die': 2, 'Pracownicza': 1, ',': 2, 'und': 1, 'geplant': 2, 'Damit': 1, 'Berlin': 1, 'beteiligten': 1, 'beginnen': 1, 'Das': 1, 'geplant . Das': 1, 'sucht': 1, 'werden': 1, 'gegenüber': 1, 'nd «': 1, 'John': 1, 'ermutigende': 1, '«': 1}
+['miesen', 'Gruppe', 'aus', 'das', 'Oktober', 'die', 'Pracownicza', ',', ',', 'und', 'geplant', 'Damit', 'die', 'Berlin', 'beteiligten', 'geplant', 'beginnen', 'Das', 'geplant . Das', 'sucht', 'werden', 'gegenüber', 'nd «', 'John', 'ermutigende', '«']

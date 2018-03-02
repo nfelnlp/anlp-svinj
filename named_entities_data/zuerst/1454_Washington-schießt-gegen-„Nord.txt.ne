@@ -1,1 +1,1 @@
-{'2 Washington/Berlin': 1, 'Bundesdeutsche': 1, 'eine': 1, 'wollen': 1, 'ausbremsen': 1, '.': 1, ')': 1, 'Entwurf': 1, 'Washington': 1, '„Opposition': 1, 'zu': 1, 'Dokument': 1, 'per': 1, 'den': 1, 'extraterritorialen Sanktionen': 1, 'Vorgang': 1, 'gehe': 1, 'Gegenmaßnahmen ergreifen ,': 1, 'es': 1, 'es in': 1}
+['2 Washington/Berlin', 'Bundesdeutsche', 'eine', 'wollen', 'ausbremsen', '.', ')', 'Entwurf', 'Washington', '„Opposition', 'zu', 'Dokument', 'per', 'den', 'extraterritorialen Sanktionen', 'Vorgang', 'gehe', 'Gegenmaßnahmen ergreifen ,', 'es', 'es in']

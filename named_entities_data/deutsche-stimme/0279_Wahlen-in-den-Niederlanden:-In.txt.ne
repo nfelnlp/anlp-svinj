@@ -1,0 +1,1 @@
+['Geert Wilders', 'Ruttes in Holland', 'Bei', 'Auszählung immerhin', ')', 'sein konsequentes', ':', '+3', '4', 'des', 'kommt ,', 'ist', 'glaubt', 'Parteien']

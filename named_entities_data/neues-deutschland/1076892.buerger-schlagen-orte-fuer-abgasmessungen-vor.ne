@@ -1,1 +1,1 @@
-{'.': 2, '. Nach': 1, ',': 1, 'Resch': 1, 'Die Hinweise': 1}
+['.', '. Nach', '.', ',', 'Resch', 'Die Hinweise']

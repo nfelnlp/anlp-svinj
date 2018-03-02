@@ -1,1 +1,1 @@
-{'verbinden': 1, 'der': 2, 'die': 5, 'begleiten': 1, 'mit': 1, 'Gewerkschaften': 2, 'unsere': 1, 'Um': 1, '.': 1, 'sich': 1, 'wichtig': 1, 'europäischen': 1}
+['verbinden', 'der', 'die', 'die', 'begleiten', 'die', 'mit', 'Gewerkschaften', 'der', 'unsere', 'die', 'Um', '.', 'Gewerkschaften', 'sich', 'wichtig', 'die', 'europäischen']

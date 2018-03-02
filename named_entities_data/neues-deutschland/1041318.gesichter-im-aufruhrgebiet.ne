@@ -1,1 +1,1 @@
-{'Duisburger': 1, 'In': 1, '»': 1, 'sie': 1, 'protestierten': 1, 'der': 1, 'wurde': 1, 'wie': 1, 'nicht nur der': 1}
+['Duisburger', 'In', '»', 'sie', 'protestierten', 'der', 'wurde', 'wie', 'nicht nur der']

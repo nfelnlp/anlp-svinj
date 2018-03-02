@@ -1,0 +1,1 @@
+['Willkommenspolitik', 'Angela Merkel', 'zweistelliger Milliardenhöhe', 'deutschen', '...', 'uns Deutschen', '. Dem', '(', 'Schulden auftürmen', 'staatliche', 'Hartz IV', 'zehn', 'Unterbringungsmöglichkeiten', 'aus', 'sind', 'abgelehnte']

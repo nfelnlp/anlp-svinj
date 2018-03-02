@@ -1,1 +1,1 @@
-{'Schachtschneider : Die': 1, 'Die': 1, 'verletzt': 1, 'ist': 1, ',': 2, 'der': 1, 'jeder': 1, 'hört': 1, 'mit': 1, 'versucht': 1, 'jemand': 1, 'beherzigt': 1}
+['Schachtschneider : Die', 'Die', 'verletzt', 'ist', ',', 'der', 'jeder', 'hört', 'mit', 'versucht', 'jemand', ',', 'beherzigt']

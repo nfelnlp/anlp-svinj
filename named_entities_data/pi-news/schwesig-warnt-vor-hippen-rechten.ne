@@ -1,1 +1,1 @@
-{'Familienministerin Manuela Schwesig': 1, 'SPD': 1, ',': 1, 'ZDF .': 1, 'weiß': 1, 'für': 1, 'Land': 1, '. (': 1, 'diese Rechten': 1, 'Licht': 1, 'wird': 1, 'Und': 1, 'wahrgenommen': 1, '„Rechten': 1, '“': 1, 'werden': 1, 'sie': 1, 'darf .': 1}
+['Familienministerin Manuela Schwesig', 'SPD', ',', 'ZDF .', 'weiß', 'für', 'Land', '. (', 'diese Rechten', 'Licht', 'wird', 'Und', 'wahrgenommen', '„Rechten', '“', 'werden', 'sie', 'darf .']

@@ -1,1 +1,1 @@
-{'Kalkar': 1, '. Auf dem': 1, 'die künftige': 1, 'werden .': 1, 'sprachen': 1, 'in': 1, 'trifft': 1, 'als': 1, ':': 1, 'Parteifreunde': 1, 'persönlich': 1, 'der': 2, 'bezeichnen': 1, 'diese': 1, 'ändern': 1, 'sehen Sie': 1, ',': 1, '.': 1, 'von allen': 1}
+['Kalkar', '. Auf dem', 'die künftige', 'werden .', 'sprachen', 'in', 'trifft', 'als', ':', 'Parteifreunde', 'persönlich', 'der', 'bezeichnen', 'diese', 'ändern', 'sehen Sie', 'der', ',', '.', 'von allen']

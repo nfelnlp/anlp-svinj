@@ -1,1 +1,1 @@
-{'Bettina Rühl': 1, 'Kasereka Mahamba': 1, 'Die': 1, 'vor 15': 1, 'einer': 1, 'ab': 1}
+['Bettina Rühl', 'Kasereka Mahamba', 'Die', 'vor 15', 'einer', 'ab']

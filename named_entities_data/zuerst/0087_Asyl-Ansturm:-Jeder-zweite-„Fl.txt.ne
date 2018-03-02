@@ -1,1 +1,1 @@
-{'Berlin': 1, 'Syrern': 1, 'Afghanen': 1, 'Asylbewerbern': 1, 'Marokko': 1, 'Algerien': 1, 'Union': 1, 'SPD': 1}
+['Berlin', 'Syrern', 'Afghanen', 'Asylbewerbern', 'Marokko', 'Algerien', 'Union', 'SPD']

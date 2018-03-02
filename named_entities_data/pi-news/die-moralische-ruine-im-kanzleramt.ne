@@ -1,1 +1,1 @@
-{'Berlin': 2, 'Angela Merkel': 1, 'Beck ,': 1, 'für': 1, 'der': 1, 'nicht': 1, 'gewordene Medien': 1, 'tiefe': 1, 'Nerven': 1, '. Dezember': 1, 'Überschrift': 1, 'vor': 1, 'Islamisierung Deutschlands': 1, '.': 1}
+['Berlin', 'Angela Merkel', 'Beck ,', 'für', 'der', 'nicht', 'gewordene Medien', 'Berlin', 'tiefe', 'Nerven', '. Dezember', 'Überschrift', 'vor', 'Islamisierung Deutschlands', '.']

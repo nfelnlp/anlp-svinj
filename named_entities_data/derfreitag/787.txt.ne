@@ -1,1 +1,1 @@
-{'Eva Stotz': 3, 'als': 1, 'entstanden': 1, 'du auf': 1, 'Idee': 1, 'und': 2, '.': 3, 'hat': 1, 'dir': 1, 'am': 1, 'mag': 1, 'das': 1, 'globalen': 1, 'macht': 1, '?': 1, '``': 1, '`` One': 1}
+['Eva Stotz', 'Eva Stotz', 'Eva Stotz', 'als', 'entstanden', 'du auf', 'Idee', 'und', '.', '.', 'hat', 'dir', 'am', 'und', 'mag', 'das', 'globalen', 'macht', '?', '``', '`` One', '.']

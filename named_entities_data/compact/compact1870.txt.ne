@@ -1,1 +1,1 @@
-{'EU': 1, '_von Marc Dassen': 1, 'Paris': 1, 'Club of Rome': 1, 'absegnete': 1, 'so': 1, 'sagen': 1, 'nämlich ,': 1, 'der': 1, 'als': 1, 'und': 1, 'Hypothesen': 1, '.': 1}
+['EU', '_von Marc Dassen', 'Paris', 'Club of Rome', 'absegnete', 'so', 'sagen', 'nämlich ,', 'der', 'als', 'und', 'Hypothesen', '.']

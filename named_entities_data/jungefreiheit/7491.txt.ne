@@ -1,1 +1,1 @@
-{'Deutschland': 1, ',': 2, 'Jugend': 1, 'gegenüber': 1, 'Südwest': 1, 'Reichsgedankens diskutierte': 1, 'die': 1, 'die Junge Union': 1, 'wollte': 1, 'zu tun': 1, 'Möglichkeit': 1, 'Apokalypse': 1, 'kommt': 1, 'ihre': 1, 'ab': 1, 'er': 1, 'wenn': 1, ', daß': 1, 'gewirkt': 1, 'sondern': 1, 'hat ,': 1}
+['Deutschland', ',', 'Jugend', 'gegenüber', 'Südwest', 'Reichsgedankens diskutierte', 'die', 'die Junge Union', 'wollte', 'zu tun', 'Möglichkeit', 'Apokalypse', 'kommt', 'ihre', 'ab', 'er', 'wenn', ', daß', 'gewirkt', ',', 'sondern', 'hat ,']

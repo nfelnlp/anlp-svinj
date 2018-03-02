@@ -1,1 +1,1 @@
-{'Gesellschaft 5 Berlin': 1, 'Katrin Göring-Eckardt': 1, 'hat': 1, 'warnte': 1, 'Verschleierungsverbot': 1, 'Moscheebauten': 1, 'Muslime': 1, 'Deutschland': 1, 'können': 1, 'der': 1, 'Asylkrise': 1, 'kriegen': 1, 'sie': 1, 'in': 1, '.': 1, 'tw': 1}
+['Gesellschaft 5 Berlin', 'Katrin Göring-Eckardt', 'hat', 'warnte', 'Verschleierungsverbot', 'Moscheebauten', 'Muslime', 'Deutschland', 'können', 'der', 'Asylkrise', 'kriegen', 'sie', 'in', '.', 'tw']

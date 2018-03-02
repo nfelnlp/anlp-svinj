@@ -1,1 +1,1 @@
-{'in eine': 1, ', am': 1, 'MyPegasus': 1, 'die': 2, 'selbst': 1, 'Solarworld': 1, 'gewechselt': 1, 'vielen': 1, 'keine': 1, 'Die': 1, '.': 1, 'Werner (': 1, 'der Arbeitsministerin': 1, 'hat': 1, 'zeigt': 1, ',': 1, 'guter': 1, '. Mancher': 1}
+['in eine', ', am', 'MyPegasus', 'die', 'selbst', 'Solarworld', 'gewechselt', 'vielen', 'keine', 'Die', '.', 'Werner (', 'der Arbeitsministerin', 'hat', 'zeigt', ',', 'guter', 'die', '. Mancher']

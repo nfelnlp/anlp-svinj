@@ -1,1 +1,1 @@
-{'der': 1, 'hier': 1, 'CDU': 1, 'CDU )': 1, 'einem Bein': 1, 'das': 1, '60': 1, 'er habe': 1, 'Grunewald-Grundschule gewohnt': 1, 'lobt': 1, 'wir': 1, 'Grünen sagt': 1, 'Schulen minimal': 1, ',': 3, 'Nach': 1, 'dann': 1, 'bis': 1, 'Modellprojekte zu': 1, '.': 2, 'will': 1}
+['der', 'hier', 'CDU', 'CDU )', 'einem Bein', 'das', '60', 'er habe', 'Grunewald-Grundschule gewohnt', 'lobt', 'wir', 'Grünen sagt', 'Schulen minimal', ',', 'Nach', 'dann', ',', ',', 'bis', 'Modellprojekte zu', '.', '.', 'will']

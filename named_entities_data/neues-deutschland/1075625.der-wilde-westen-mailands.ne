@@ -1,1 +1,1 @@
-{'Giambellino': 2, 'Mailand': 1, 'Luigi': 1, 'Polizei': 2, 'Expo': 1, 'wichtiger': 1, 'eine': 1, 'diese': 1, ', Stärke': 1, ':': 1, 'bereisen': 1}
+['Giambellino', 'Mailand', 'Giambellino', 'Luigi', 'Polizei', 'Polizei', 'Expo', 'wichtiger', 'eine', 'diese', ', Stärke', ':', 'bereisen']

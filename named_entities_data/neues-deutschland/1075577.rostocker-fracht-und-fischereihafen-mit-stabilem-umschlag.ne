@@ -1,1 +1,1 @@
-{'. Der': 1, 'vergleichbare': 1, 'als 6,5': 1}
+['. Der', 'vergleichbare', 'als 6,5']

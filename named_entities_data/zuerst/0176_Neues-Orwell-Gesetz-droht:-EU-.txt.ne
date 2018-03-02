@@ -1,1 +1,1 @@
-{'Brüssel/Groningen': 1, 'Auch': 1, 'Geldwäsche': 1, 'vielen': 1, '.': 1, 'Online-Portal „heise.de': 1, 'zuguterletzt': 1, 'europäischen Bürger': 1, 'Geldwäscherichtlinie': 1, 'zur Mitwirkung': 1, 'an': 1, 'kann . Aufsichts- und': 1, ',': 1, 'die': 1}
+['Brüssel/Groningen', 'Auch', 'Geldwäsche', 'vielen', '.', 'Online-Portal „heise.de', 'zuguterletzt', 'europäischen Bürger', 'Geldwäscherichtlinie', 'zur Mitwirkung', 'an', 'kann . Aufsichts- und', ',', 'die']

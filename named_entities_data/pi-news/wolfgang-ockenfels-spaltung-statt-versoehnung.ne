@@ -1,1 +1,1 @@
-{'Ministerpräsidenten Johannes Rau': 1, '„Bruder Johannes': 1, 'dem späteren': 1, ': „Politik trennt': 1, 'aufgefallen sind': 1, 'Willkommenspolitik': 1, 'Religion': 1, ',': 1, '(': 1, 'oberste': 1, 'Gibt es': 1, 'Spaltungen': 1}
+['Ministerpräsidenten Johannes Rau', '„Bruder Johannes', 'dem späteren', ': „Politik trennt', 'aufgefallen sind', 'Willkommenspolitik', 'Religion', ',', '(', 'oberste', 'Gibt es', 'Spaltungen']

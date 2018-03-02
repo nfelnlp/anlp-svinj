@@ -1,1 +1,1 @@
-{'Riesterland': 1, 'Nestlé Deutschland': 1, 'Susanne Ferschl': 1, 'Allgäu': 1, 'LINKE': 1, 'Hans-Gerd Öfinger Mitten im': 1, ', der': 1, 'Füssen': 1, '80': 1, ',': 1, 'Kaufbeuren': 1, 'traditionsreiche': 1, 'derzeit': 1, 'Ausbildung zur': 1, '.': 1, 'einer': 1, 'Organisationsgrad': 1, 'auf': 1}
+['Riesterland', 'Nestlé Deutschland', 'Susanne Ferschl', 'Allgäu', 'LINKE', 'Hans-Gerd Öfinger Mitten im', ', der', 'Füssen', '80', ',', 'Kaufbeuren', 'traditionsreiche', 'derzeit', 'Ausbildung zur', '.', 'einer', 'Organisationsgrad', 'auf']

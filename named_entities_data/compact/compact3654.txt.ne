@@ -1,1 +1,1 @@
-{'Thilo Sarrazin': 1, 'Jürgen Elsässer': 1, 'führte': 1, 'Sarrazin in': 1, 'gibt': 2, 'Kindergeld': 1, 'sein': 1, 'dem': 1, 'höher': 1, 'recht': 1, '(': 1, 'eigentlich den': 1, 'erfolgsbasierten': 1, '400.000': 1}
+['Thilo Sarrazin', 'Jürgen Elsässer', 'führte', 'Sarrazin in', 'gibt', 'Kindergeld', 'sein', 'dem', 'höher', 'gibt', 'recht', '(', 'eigentlich den', 'erfolgsbasierten', '400.000']

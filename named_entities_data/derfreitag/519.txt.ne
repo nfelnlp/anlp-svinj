@@ -1,1 +1,1 @@
-{'seit 1999 zusammen': 1, 'und traten': 1, 'singe .': 1, 'und': 1, 'Dankesrede': 1, 'alles :': 1, 'dem': 1, 'Album': 1, 'anfänglichen': 1, 'einem': 1, 'sich auf': 1, ', in der': 1, 'der feministischen': 1, 'musikalischen': 1, 'der': 1}
+['seit 1999 zusammen', 'und traten', 'singe .', 'und', 'Dankesrede', 'alles :', 'dem', 'Album', 'anfänglichen', 'einem', 'sich auf', ', in der', 'der feministischen', 'musikalischen', 'der']

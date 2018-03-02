@@ -1,1 +1,1 @@
-{'Getty Images': 1, 'und': 1, 'verwehren': 1, 'es': 1, 'Erdoğan wollte mit': 1, 'denen': 1, 'zurechtweisen': 1, '–': 1, 'geschützt': 1, 'anstehenden': 1, ',': 1, 'bei': 1, 'Vorjahr': 1, 'NATO-Partner nicht': 1, 'gewiesen': 1, 'nach': 1, 'Selbstbestimmung': 1, 'es nicht': 1, '. Damit ist eine': 1, 'sich': 1}
+['Getty Images', 'und', 'verwehren', 'es', 'Erdoğan wollte mit', 'denen', 'zurechtweisen', '–', 'geschützt', 'anstehenden', ',', 'bei', 'Vorjahr', 'NATO-Partner nicht', 'gewiesen', 'nach', 'Selbstbestimmung', 'es nicht', '. Damit ist eine', 'sich']

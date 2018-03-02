@@ -1,1 +1,1 @@
-{'Gesellschaft': 1, 'Wien': 1, 'Sebastian Kurz': 1, 'ÖVP': 1, 'Talks': 1, ',': 2, 'und': 2, 'kommenden': 1, 'Wissenschaften ( ÖAW )': 1, 'durchgeführt': 1}
+['Gesellschaft', 'Wien', 'Sebastian Kurz', 'ÖVP', 'Talks', ',', 'und', 'kommenden', 'Wissenschaften ( ÖAW )', ',', 'und', 'durchgeführt']

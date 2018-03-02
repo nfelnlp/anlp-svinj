@@ -1,1 +1,1 @@
-{'gekommen': 1, 'gekommen ist': 1, 'die': 1, 'zur': 1, ', der': 2, 'Kapazität': 1, 'Wirtschaftspolitik': 1, ',': 1, 'hatte': 1, 'einem Jahr': 1, 'als eigentlicher': 1, 'und': 1, 'er': 1, 'Er': 1, 'teil': 1, 'kommen': 1}
+['gekommen', 'gekommen ist', 'die', 'zur', ', der', 'Kapazität', 'Wirtschaftspolitik', ',', 'hatte', 'einem Jahr', 'als eigentlicher', 'und', 'er', 'Er', 'teil', ', der', 'kommen']

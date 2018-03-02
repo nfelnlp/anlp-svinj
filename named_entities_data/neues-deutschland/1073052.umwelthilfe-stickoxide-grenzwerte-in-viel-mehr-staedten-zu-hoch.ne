@@ -1,1 +1,1 @@
-{'. Die': 1, 'Dienstag in': 1, 'sich': 1, 'Nach': 1, 'wird': 1, 'Forderung': 1, '»': 1, 'Plakette': 1, 'emissionsarme Autos': 1, '» Dass': 1, 'Automobilindustrie': 1, 'als': 1, 'beim': 1, 'ihre': 1, 'und eine': 1, 'Kontrolle': 1, 'von': 1, 'betroffen': 1, '.': 1, 'Landes umfasst nach': 1, 'des': 1, 'hinweg': 1, 'nicht': 1}
+['. Die', 'Dienstag in', 'sich', 'Nach', 'wird', 'Forderung', '»', 'Plakette', 'emissionsarme Autos', '» Dass', 'Automobilindustrie', 'als', 'beim', 'ihre', 'und eine', 'Kontrolle', 'von', 'betroffen', '.', 'Landes umfasst nach', 'des', 'hinweg', 'nicht']

@@ -1,1 +1,1 @@
-{'Syrien': 1, 'UNO': 1, 'Internationale Organisation für': 1, 'Binnenvertriebene': 1, 'Türkei': 1, 'Libanon': 1, 'Irak': 1, 'Jordanien': 1, 'Aleppo zurück': 1, 'in': 1}
+['Syrien', 'UNO', 'Internationale Organisation für', 'Binnenvertriebene', 'Türkei', 'Libanon', 'Irak', 'Jordanien', 'Aleppo zurück', 'in']

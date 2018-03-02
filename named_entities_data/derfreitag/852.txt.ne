@@ -1,1 +1,1 @@
-{'Ryan Gosling': 1, 'Klaus Raab': 1, 'rein theoretisch': 1, 'Freitag': 1, 'Pappe': 1, '.': 3, 'wird': 1, 'gehen stapelweise weg': 1, 'Rolle': 1, 'gegenwärtige': 1, 'lassen .': 1, ',': 3, 'und': 1, 'durch': 1, 'Zeitphänomen .': 1, 'hat': 1, '. Sie berührt': 1, 'seine': 1, 'treibende Kraft': 1, 'an': 1}
+['Ryan Gosling', 'Klaus Raab', 'rein theoretisch', 'Freitag', 'Pappe', '.', 'wird', 'gehen stapelweise weg', 'Rolle', 'gegenwärtige', 'lassen .', '.', ',', 'und', 'durch', 'Zeitphänomen .', 'hat', ',', '. Sie berührt', 'seine', 'treibende Kraft', '.', ',', 'an']

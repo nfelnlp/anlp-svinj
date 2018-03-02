@@ -1,1 +1,1 @@
-{'(': 1, 'räumten': 1, ',': 1, 'Chips': 1, 'potenziell': 1, 'Informationen': 1, 'Microsoft': 1, 'Windows': 1, 'auf': 1, 'Tag': 1, 'der': 1, 'Diese': 1}
+['(', 'räumten', ',', 'Chips', 'potenziell', 'Informationen', 'Microsoft', 'Windows', 'auf', 'Tag', 'der', 'Diese']

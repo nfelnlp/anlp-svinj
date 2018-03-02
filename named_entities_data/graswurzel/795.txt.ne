@@ -1,0 +1,1 @@
+['60', 'Öffentlich', 'wurde', '.', 'haben', 'dem betreffenden', 'ähnliche', 'Adana', 'Van', 'geworden', 'Sterilisierungsmaßnahmen', 'wurden', ', dass der', 'wurde', 'Verstoß', 'Frauenzentrum']

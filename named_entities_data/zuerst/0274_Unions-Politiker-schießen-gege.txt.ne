@@ -1,1 +1,1 @@
-{'Berlin': 1, 'SPD': 1, 'Union': 1, 'Horst Seehofer': 1, 'CSU': 1, '. Alexander': 1, 'der CSU': 1, 'meinte': 1, ')': 1, 'Klöckner': 1, '„Neuen': 1, '“ erläutert': 1, 'man': 1, 'so': 1, '„der': 1, 'Umgang': 1, 'wünschen übrig': 1}
+['Berlin', 'SPD', 'Union', 'Horst Seehofer', 'CSU', '. Alexander', 'der CSU', 'meinte', ')', 'Klöckner', '„Neuen', '“ erläutert', 'man', 'so', '„der', 'Umgang', 'wünschen übrig']

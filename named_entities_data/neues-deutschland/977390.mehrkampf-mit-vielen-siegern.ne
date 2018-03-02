@@ -1,1 +1,1 @@
-{'Tarifabschlüssen': 1, 'GDL': 1, 'Rainer Balcerowiak': 1, 'EVG': 1, 'Lokomotivführer': 1, 'AG unterschrieben': 1}
+['Tarifabschlüssen', 'GDL', 'Rainer Balcerowiak', 'EVG', 'Lokomotivführer', 'AG unterschrieben']

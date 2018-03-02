@@ -1,1 +1,1 @@
-{'C. JAHN |': 1, ',': 2, 'in': 1, 'möglichst': 1, 'der': 1}
+['C. JAHN |', ',', 'in', 'möglichst', 'der', ',']

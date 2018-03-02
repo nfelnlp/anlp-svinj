@@ -1,1 +1,1 @@
-{'Ver.di': 1, 'Hans-Gerd Öfinger Der seit': 1, 'wird nach': 1, 'Arbeitszeitbetrug': 1, 'Petra': 1, 'Betriebsrätin und': 1, 'des ver.di-Bezirks': 1, 'So': 1, 'sich': 1}
+['Ver.di', 'Hans-Gerd Öfinger Der seit', 'wird nach', 'Arbeitszeitbetrug', 'Petra', 'Betriebsrätin und', 'des ver.di-Bezirks', 'So', 'sich']

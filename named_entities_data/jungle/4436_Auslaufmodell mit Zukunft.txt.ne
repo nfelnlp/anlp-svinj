@@ -1,1 +1,1 @@
-{'Bundesregierung': 1, 'Andrea Trumann': 1, 'DDR': 2, 'Westdeutschland': 1, 'wohligem Schauer': 1, 'BRD': 1, 'Herumtrödeln': 1, 'haben': 1, '.': 1, 'vorausgegangen': 1, 'mit dem': 1, 'Geist': 1}
+['Bundesregierung', 'Andrea Trumann', 'DDR', 'Westdeutschland', 'wohligem Schauer', 'BRD', 'DDR', 'Herumtrödeln', 'haben', '.', 'vorausgegangen', 'mit dem', 'Geist']

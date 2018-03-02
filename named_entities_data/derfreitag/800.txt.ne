@@ -1,1 +1,1 @@
-{'Nuit': 1, 'Lo Presti/AFP/Getty Images': 1, 'hat': 2, 'große Streikkultur .': 1, 'Weihnachten': 1, 'als „Lumpengesindel': 1, 'so': 1, 'in': 1, 'anderes': 1, 'gehabt': 1, 'Präsidentschaftswahlen': 1, 'sich': 1, 'und': 2, 'gezogen': 1, 'Die': 1, 'voran': 1, 'in den': 1, '.': 2}
+['Nuit', 'Lo Presti/AFP/Getty Images', 'hat', 'große Streikkultur .', 'Weihnachten', 'als „Lumpengesindel', 'so', 'in', 'anderes', 'gehabt', 'Präsidentschaftswahlen', 'sich', 'und', 'gezogen', 'Die', 'voran', 'in den', '.', '.', 'hat', 'und']

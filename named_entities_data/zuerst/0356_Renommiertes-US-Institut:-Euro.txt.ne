@@ -1,1 +1,1 @@
-{'Washington': 1, 'US-Studie': 1, 'Szenarien': 1, 'Szenarien für': 1, 'In': 1, 'den': 1, 'der': 1, 'leben': 1, '2016': 2, 'Bei': 1, 'eintreffen': 1, 'Umverteilung': 1, 'zwischen': 1, 'Pew-Studie': 1}
+['Washington', 'US-Studie', 'Szenarien', 'Szenarien für', 'In', 'den', 'der', 'leben', '2016', 'Bei', 'eintreffen', 'Umverteilung', 'zwischen', '2016', 'Pew-Studie']

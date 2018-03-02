@@ -1,1 +1,1 @@
-{'. Bei': 1, 'Leipzig': 1, 'Mitarbeiter': 1, 'der': 1, 'einen': 1, 'Dienstleistungsgewerkschaft': 1, 'gegenüber': 1, 'gegenüber » nd': 1, 'klagen': 1, 'Geld': 1, 'von': 1, 'vom Amazon-Solidaritäts-Bündnis , das': 1, 'außerhalb': 1, ',': 1, 'bestreitet': 1, '» nd': 1, 'zunehmenden Entlassung': 1, 'neue': 1}
+['. Bei', 'Leipzig', 'Mitarbeiter', 'der', 'einen', 'Dienstleistungsgewerkschaft', 'gegenüber', 'gegenüber » nd', 'klagen', 'Geld', 'von', 'vom Amazon-Solidaritäts-Bündnis , das', 'außerhalb', ',', 'bestreitet', '» nd', 'zunehmenden Entlassung', 'neue']

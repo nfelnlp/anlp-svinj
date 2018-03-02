@@ -1,1 +1,1 @@
-{'Horst Seehofer': 1, 'Angela Merkel': 1, 'Martin Schulz Potsdam': 1, 'Linkspartei': 1, 'SPD': 2, 'Union': 2, '– als': 1, 'Die': 1, '1,5': 1, 'des': 1, 'Spaltung': 1, 'SPD vorgeworfen': 1, 'Koalition': 1, 'kleinem': 1, 'Reparaturen': 1, 'geben': 1, 'sozialpolitische Zugeständnisse': 1, ',': 1, 'viel': 1}
+['Horst Seehofer', 'Angela Merkel', 'Martin Schulz Potsdam', 'Linkspartei', 'SPD', 'Union', 'Union', 'SPD', '– als', 'Die', '1,5', 'des', 'Spaltung', 'SPD vorgeworfen', 'Koalition', 'kleinem', 'Reparaturen', 'geben', 'sozialpolitische Zugeständnisse', ',', 'viel']

@@ -1,1 +1,1 @@
-{'Der': 1, 'Premier': 1, 'Tayyip': 1, 'den': 1, 'zu Twitter': 1, 'sperren': 1, 'für': 1, 'ist': 1, '.': 2, 'bis': 1, 'offline': 1, 'Möglichkeiten': 1, 'noch': 1, 'dagewesene': 1, ',': 1, 'werden': 1, '? :': 1, 'immer': 1, ':': 1}
+['Der', 'Premier', 'Tayyip', 'den', 'zu Twitter', 'sperren', 'für', 'ist', '.', 'bis', 'offline', 'Möglichkeiten', 'noch', 'dagewesene', ',', 'werden', '? :', 'immer', ':', '.']

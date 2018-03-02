@@ -1,1 +1,1 @@
-{'Audi-Zentrum': 1, 'ist': 2, 'Wochenblatt': 1, 'beschwert sich das': 1, 'PI-NEWS-Autor': 1, ',': 1, 'eilig gehabt': 1, '„wichtige Fragen': 1, 'eine': 1, 'Auch': 1, '–': 1, 'nicht': 1, 'Hetzblatt': 1, 'erwähnt': 1, 'der': 1, 'Mittwoch': 1}
+['Audi-Zentrum', 'ist', 'Wochenblatt', 'beschwert sich das', 'PI-NEWS-Autor', ',', 'eilig gehabt', '„wichtige Fragen', 'ist', 'eine', 'Auch', '–', 'nicht', 'Hetzblatt', 'erwähnt', 'der', 'Mittwoch']

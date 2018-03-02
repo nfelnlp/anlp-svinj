@@ -1,1 +1,1 @@
-{'Gesellschaft 4 Köln': 1, ', am': 1, 'Eigentümer': 1, ',': 1, 'auch': 1, 'Kostensteigerungen': 1, ', das': 1}
+['Gesellschaft 4 Köln', ', am', 'Eigentümer', ',', 'auch', 'Kostensteigerungen', ', das']

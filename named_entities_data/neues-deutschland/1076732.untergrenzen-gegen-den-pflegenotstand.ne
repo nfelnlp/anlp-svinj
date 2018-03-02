@@ -1,1 +1,1 @@
-{'die': 1, 'CDU': 1, 'CSU': 1, 'davon': 1, 'Verlags organisiert': 1, 'Vorab': 1, ', Pflegedirektor': 1, 'auf': 1, 'dieser': 1, 'Spitzenverband': 1, 'Gesetzlichen Krankenversicherung': 1, 'Kliniken': 1, 'die Vorgeschichte': 1, 'an deutschen': 1, 'den': 1, 'und': 1, 'Pflege': 1, '8000': 1}
+['die', 'CDU', 'CSU', 'davon', 'Verlags organisiert', 'Vorab', ', Pflegedirektor', 'auf', 'dieser', 'Spitzenverband', 'Gesetzlichen Krankenversicherung', 'Kliniken', 'die Vorgeschichte', 'an deutschen', 'den', 'und', 'Pflege', '8000']

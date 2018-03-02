@@ -1,1 +1,1 @@
-{'. Ein': 1, 'gegen die': 1, 'kritisierten': 1, 'protestierten am': 1, 'gab die': 1, 'Chicago': 1, 'Denver': 1, 'Boston': 1, 'anderen': 1, ', aber': 1, 'dpa/nd': 1}
+['. Ein', 'gegen die', 'kritisierten', 'protestierten am', 'gab die', 'Chicago', 'Denver', 'Boston', 'anderen', ', aber', 'dpa/nd']

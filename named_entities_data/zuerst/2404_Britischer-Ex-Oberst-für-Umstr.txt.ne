@@ -1,1 +1,1 @@
-{'London': 1, 'Richard Kemp': 1, 'britischen Afghanistan-Kontingents': 1, '.': 1, 'darüber': 1, 'der das': 1, 'den Worten': 1, ':': 1, 'von': 1, 'Terrorismus': 1, 'in': 1, '„Freunde Israels': 1, 'Israel': 1}
+['London', 'Richard Kemp', 'britischen Afghanistan-Kontingents', '.', 'darüber', 'der das', 'den Worten', ':', 'von', 'Terrorismus', 'in', '„Freunde Israels', 'Israel']

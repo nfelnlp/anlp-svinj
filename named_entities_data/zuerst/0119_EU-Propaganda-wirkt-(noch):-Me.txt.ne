@@ -1,1 +1,1 @@
-{'Gütersloh': 1, 'EU-Propaganda': 1, 'einen': 1, 'als 10.000 Bürgern': 1, 'Prozent': 1, 'und': 1, 'absoluter': 1, 'die': 1, 'der': 2, 'Geus': 1, 'lehnten': 1, 'Art der politischen': 1, 'mehr': 1, '64': 1, 'der Studie': 1, 'über': 1, '.': 1, 'EU-Integration': 1, 'Linken': 1, 'nur': 1, 'Integration . Auch': 1, 'mü': 1}
+['Gütersloh', 'EU-Propaganda', 'einen', 'als 10.000 Bürgern', 'Prozent', 'und', 'absoluter', 'die', 'der', 'Geus', 'lehnten', 'Art der politischen', 'mehr', '64', 'der Studie', 'über', '.', 'EU-Integration', 'der', 'Linken', 'nur', 'Integration . Auch', 'mü']

@@ -1,1 +1,1 @@
-{'CDU-Abgeordnete': 1, 'steht in': 1, ', den': 1, 'dem': 1, '000 Euro sollen': 1, '.': 2, 'gebürtiger': 1, 'mit': 1, 'der': 1, 'in': 1, 'er': 1, 'einmal': 1, 'er schon einmal': 1, 'Im': 1, 'sich': 1, 'Fälschung': 1, 'gab ,': 1}
+['CDU-Abgeordnete', 'steht in', ', den', 'dem', '000 Euro sollen', '.', 'gebürtiger', 'mit', 'der', 'in', 'er', 'einmal', 'er schon einmal', 'Im', 'sich', 'Fälschung', 'gab ,', '.']

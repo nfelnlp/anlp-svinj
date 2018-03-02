@@ -1,1 +1,1 @@
-{'Roland Bunzenthal': 1, 'Deutschland': 2, 'ver.di': 1, 'IG': 1}
+['Roland Bunzenthal', 'Deutschland', 'Deutschland', 'ver.di', 'IG']

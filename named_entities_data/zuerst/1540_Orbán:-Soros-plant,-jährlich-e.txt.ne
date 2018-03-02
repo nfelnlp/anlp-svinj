@@ -1,1 +1,1 @@
-{'Budapest': 1, 'Viktor Orban': 1, 'Ungarn als': 1, '“': 2, 'Milliardär': 1, 'Orban': 1, 'Freitag': 1, 'Rundfunk': 1, 'und': 1, 'weil': 1, 'Rede': 1, 'den': 1, 'korrupten': 1, 'zu': 1, 'deren': 1, 'unterstützte': 1, 'des': 1, ',': 1, 'die': 2, '‘': 1, 'Streit': 1}
+['Budapest', 'Viktor Orban', 'Ungarn als', '“', 'Milliardär', '“', 'Orban', 'Freitag', 'Rundfunk', 'und', 'weil', 'Rede', 'den', 'korrupten', 'zu', 'deren', 'unterstützte', 'des', ',', 'die', '‘', 'Streit', 'die']

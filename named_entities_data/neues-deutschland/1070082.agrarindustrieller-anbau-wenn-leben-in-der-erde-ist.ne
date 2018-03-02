@@ -1,1 +1,1 @@
-{'argentinische': 1, 'Jürgen Vogt': 1, 'Buenos Aires': 3, 'Paraíso': 2, 'Los Toldos': 1, 'argentinischen': 2, 'Uruguay': 1, 'Santa Fe': 1, 'Córdoba': 1, 'La Pampa': 1, 'Calderón': 1}
+['argentinische', 'Jürgen Vogt', 'Buenos Aires', 'Paraíso', 'Los Toldos', 'argentinischen', 'Buenos Aires', 'Uruguay', 'argentinischen', 'Santa Fe', 'Córdoba', 'La Pampa', 'Buenos Aires', 'Paraíso', 'Calderón']

@@ -1,1 +1,1 @@
-{'Win\xadston Churchill': 1, 'angebliche Prüfung': 1, 'vom': 1, '„Am': 1, ']': 1, 'vor den': 1, 'Dieser': 1, 'und': 3, 'Dieses': 1, 'erforderte': 1, 'Krieg': 2, 'über': 1, 'dafür': 1, 'Prominente': 1, 'nicht': 1, '.': 3, 'November der': 1, 'ebendieses Horn': 1, 'sich': 1, 'Wortlaut': 1, 'zu': 1}
+['Win\xadston Churchill', 'angebliche Prüfung', 'vom', '„Am', ']', 'vor den', 'Dieser', 'und', 'Dieses', 'erforderte', 'Krieg', 'über', 'dafür', 'Krieg', 'Prominente', 'nicht', '.', 'November der', 'ebendieses Horn', 'und', 'sich', '.', 'Wortlaut', 'und', 'zu', '.']

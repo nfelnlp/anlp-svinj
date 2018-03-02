@@ -1,1 +1,1 @@
-{'Straßburg': 1, 'EU-Kommission': 1, 'nach': 1, 'der': 2, 'NPD-Abgeordnete Udo': 1, 'gegen': 1, 'Verbotspläne aus': 1, 'Überzeugung.': 1, 'Gebrauch': 1, 'neue': 1, 'neue europaweite': 1}
+['Straßburg', 'EU-Kommission', 'nach', 'der', 'NPD-Abgeordnete Udo', 'gegen', 'Verbotspläne aus', 'der', 'Überzeugung.', 'Gebrauch', 'neue', 'neue europaweite']

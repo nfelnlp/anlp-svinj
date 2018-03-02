@@ -1,1 +1,1 @@
-{'№ber': 1, 'fьr': 1, 'mit': 1, 'in': 2, 'offiziellen': 1, 'und': 2, 'dieses': 1, ',': 1, 'Tцpfer fьgte': 1, 'hinzu': 1, 'dem': 1, 'heutige': 1, 'beiseite': 1, 'ohne': 1, 'die': 1, 'drьben': 1}
+['№ber', 'fьr', 'mit', 'in', 'offiziellen', 'und', 'dieses', 'in', ',', 'Tцpfer fьgte', 'hinzu', 'dem', 'und', 'heutige', 'beiseite', 'ohne', 'die', 'drьben']

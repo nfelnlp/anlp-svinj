@@ -1,1 +1,1 @@
-{'hat': 1, 'schleichend': 1, 'stellen': 1, '.': 1, 'Geburten': 1, 'unbemerkt eine': 1, 'im': 1, 'die': 1, 'als': 1, '“': 1, 'erkennen': 1, ')': 2, 'Stefan Lofven': 1}
+['hat', 'schleichend', 'stellen', '.', 'Geburten', 'unbemerkt eine', 'im', 'die', 'als', '“', 'erkennen', ')', 'Stefan Lofven', ')']

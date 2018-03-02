@@ -1,1 +1,1 @@
-{'Damaskus': 1, 'Albu': 1, 'Albu Kamal': 2, 'Al Bukamal': 1, 'Irak': 2, 'Euphrat': 1, 'syrischen': 1, 'USA': 1, 'Auch': 1, 'dürfte damit': 1, 'dürfte damit wieder': 1, 'Vergangenheit': 1, 'oder': 1, ',': 1, '.': 2, 'selbst': 1}
+['Damaskus', 'Albu', 'Albu Kamal', 'Al Bukamal', 'Irak', 'Euphrat', 'syrischen', 'USA', 'Albu Kamal', 'Irak', 'Auch', 'dürfte damit', 'dürfte damit wieder', 'Vergangenheit', 'oder', ',', '.', 'selbst', '.']

@@ -1,1 +1,1 @@
-{'Geld': 1, 'Es': 1, 'Wenn': 1, 'geleistet': 1, 'dumme': 1, 'blauen': 1, 'mit': 1, 'Idee': 1, 'Deutschland': 1, 'wird': 2, 'Deutschen': 1, 'sogar': 1, 'und': 1, 'die': 1, 'überhaupt merken': 1, 'haben': 1, 'werden': 1, 'als': 1}
+['Geld', 'Es', 'Wenn', 'geleistet', 'dumme', 'blauen', 'mit', 'Idee', 'Deutschland', 'wird', 'Deutschen', 'sogar', 'und', 'die', 'überhaupt merken', 'haben', 'wird', 'werden', 'als']

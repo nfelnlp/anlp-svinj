@@ -1,1 +1,1 @@
-{'Peking': 2, 'Seidenstraße': 2, 'nimmt': 1, 'Brigitte Zypries teil': 1, '. Der': 1, 'größtem': 1, 'Europa': 1, 'Afrika': 1, 'soll': 1, 'über Zentralasien': 1, 'Westeuropa': 1, '.': 2, 'hinaus': 1, 'Raum mit Afrika': 1, 'der': 1, 'die': 1, 'zum': 1, 'europäischen': 1, '2014': 1, 'des': 1}
+['Peking', 'Peking', 'Seidenstraße', 'nimmt', 'Brigitte Zypries teil', '. Der', 'größtem', 'Europa', 'Afrika', 'soll', 'über Zentralasien', 'Westeuropa', '.', 'hinaus', 'Raum mit Afrika', 'der', 'Seidenstraße', 'die', '.', 'zum', 'europäischen', '2014', 'des']

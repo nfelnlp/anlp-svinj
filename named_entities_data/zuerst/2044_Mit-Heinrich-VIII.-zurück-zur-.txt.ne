@@ -1,1 +1,1 @@
-{'London': 2, 'EU': 1, '” ,': 1, 'beenden': 1, 'Act ” abschaffen ,': 1, 'regelte': 1, 'besitze': 1, 'verlassen': 1, 'der legislative': 1, 'Großbritannien': 1, 'werden': 1, 'sämtliche': 1, 'in': 1, 'im': 1, 'im „Statute': 1, '”': 1, 'eigenmächtig': 1, ':': 1, 'nicht einfach': 1}
+['London', 'London', 'EU', '” ,', 'beenden', 'Act ” abschaffen ,', 'regelte', 'besitze', 'verlassen', 'der legislative', 'Großbritannien', 'werden', 'sämtliche', 'in', 'im', 'im „Statute', '”', 'eigenmächtig', ':', 'nicht einfach']

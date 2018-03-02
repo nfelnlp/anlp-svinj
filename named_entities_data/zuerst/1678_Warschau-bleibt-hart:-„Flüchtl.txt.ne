@@ -1,1 +1,1 @@
-{'Warschau': 1, 'Ungarn': 1, 'Polen': 1, 'in': 1, 'Blaszczak': 1, 'der regierenden': 1, 'Recht und Gerechtigkeit (': 1, 'im': 1, '1': 1, 'klarstellte': 1, 'als': 1, 'warnte': 1, 'uns': 1, 'wir uns': 1, 'Gemeinschaften': 1, 'klar :': 1, 'ist': 1, '2015': 1, 'mü': 1}
+['Warschau', 'Ungarn', 'Polen', 'in', 'Blaszczak', 'der regierenden', 'Recht und Gerechtigkeit (', 'im', '1', 'klarstellte', 'als', 'warnte', 'uns', 'wir uns', 'Gemeinschaften', 'klar :', 'ist', '2015', 'mü']

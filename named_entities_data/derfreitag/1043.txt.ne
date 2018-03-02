@@ -1,1 +1,1 @@
-{'Syrien-Debatte': 1, ', weil': 1, '.': 1, 'will': 1, 'Finger weg': 1, 'Opposition .': 1, 'Intervention': 1, 'gebraucht': 1, 'dass': 1, '1': 1, '``': 1, 'noch': 1, '-Kommentator': 1, 'bringt , beim': 1, '?': 1, 'auch': 1, 'Da': 1, 'Ich': 1}
+['Syrien-Debatte', ', weil', '.', 'will', 'Finger weg', 'Opposition .', 'Intervention', 'gebraucht', 'dass', '1', '``', 'noch', '-Kommentator', 'bringt , beim', '?', 'auch', 'Da', 'Ich']

@@ -1,1 +1,1 @@
-{'Warschau/Rom': 1, 'Skandalöse': 1, 'hat': 1, 'die': 1, 'einem': 1, 'und bestätigte': 1, 'zwischen': 1, 'hatte': 1, 'sie': 1, 'Jahres': 1}
+['Warschau/Rom', 'Skandalöse', 'hat', 'die', 'einem', 'und bestätigte', 'zwischen', 'hatte', 'sie', 'Jahres']

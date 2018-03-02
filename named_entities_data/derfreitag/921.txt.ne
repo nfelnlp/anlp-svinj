@@ -1,1 +1,1 @@
-{'Philippe Huguen': 1, 'Financial Times': 1, 'dort jetzt': 1, 'offenlegen': 1, 'Quasi-Monopolist': 1, 'Internetsuche': 1, 'einen': 1, 'werden': 1}
+['Philippe Huguen', 'Financial Times', 'dort jetzt', 'offenlegen', 'Quasi-Monopolist', 'Internetsuche', 'einen', 'werden']

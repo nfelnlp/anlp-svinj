@@ -1,1 +1,1 @@
-{'. Bei': 1, 'in': 1, '3': 1, 'Öffnung': 1, 'erst': 1, 'mit': 1}
+['. Bei', 'in', '3', 'Öffnung', 'erst', 'mit']

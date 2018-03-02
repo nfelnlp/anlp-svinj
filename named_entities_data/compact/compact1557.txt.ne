@@ -1,1 +1,1 @@
-{'Ellen Kositza': 2, 'Kositza COMPACT': 1, 'kurzzeitigen Empörung': 1, 'nur': 1, 'halb': 1, 'einem': 2, 'wir': 1, 'hochschwangerem': 1, 'erschossen': 1, 'Mutter': 1, 'fünf': 1, 'gewarnt .': 1, 'Die': 1, 'sie': 1, 'Griff bekommen': 1, 'Vergewaltigung': 1, 'anno 1997': 1, 'bereits so': 1, 'von': 1, 'und': 1}
+['Ellen Kositza', 'Ellen Kositza', 'Kositza COMPACT', 'kurzzeitigen Empörung', 'nur', 'halb', 'einem', 'wir', 'hochschwangerem', 'erschossen', 'Mutter', 'fünf', 'einem', 'gewarnt .', 'Die', 'sie', 'Griff bekommen', 'Vergewaltigung', 'anno 1997', 'bereits so', 'von', 'und']

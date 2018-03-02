@@ -1,1 +1,1 @@
-{'.': 1, '. Führende': 1, 'Samsung': 1, 'Sony': 1, 'aber': 1, 'Daimler': 1, 'Volkswagen profitieren nach': 1, 'weiterhin von': 1, 'Kongo . Das': 1, 'dem': 1, 'schon': 1, 'den': 1, 'in': 3, 'demnach': 1, 'erhebliche': 1, 'Den': 1, 'dies sehr': 1, 'vertraglich': 1, 'die Hälfte des': 1}
+['.', '. Führende', 'Samsung', 'Sony', 'aber', 'Daimler', 'Volkswagen profitieren nach', 'weiterhin von', 'Kongo . Das', 'dem', 'schon', 'den', 'in', 'demnach', 'erhebliche', 'Den', 'dies sehr', 'in', 'vertraglich', 'in', 'die Hälfte des']

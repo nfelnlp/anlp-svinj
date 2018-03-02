@@ -1,1 +1,1 @@
-{'Frankfurt am Main': 1, 'denken': 1, 'tragisch': 1, 'Hochmut': 1, 'Alter': 1, 'Land': 1, 'Mahnen': 1, 'das': 1, 'erinnern': 1, 'der': 1, 'an': 1, 'gesagt hat , den': 1, 'den Themen': 1, 'im': 1}
+['Frankfurt am Main', 'denken', 'tragisch', 'Hochmut', 'Alter', 'Land', 'Mahnen', 'das', 'erinnern', 'der', 'an', 'gesagt hat , den', 'den Themen', 'im']

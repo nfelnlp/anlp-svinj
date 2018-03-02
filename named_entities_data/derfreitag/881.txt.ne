@@ -1,1 +1,1 @@
-{'Getty': 1, 'Als': 1, 'aufregen': 1, 'verbreitet ,': 1, 'zur': 1, 'den': 1, 'von': 1, 'und': 1, 'der': 1, 'in meinem': 1}
+['Getty', 'Als', 'aufregen', 'verbreitet ,', 'zur', 'den', 'von', 'und', 'der', 'in meinem']

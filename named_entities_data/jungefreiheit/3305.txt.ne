@@ -1,1 +1,1 @@
-{'des deutschen': 1, 'EKD-Synodale': 1, 'in': 1, 'die': 1, '.': 1, 'des': 1, 'lebensschützenden Effekt': 1, 'abtreibungswillige ,': 1, 'eindringlichen': 1, "''": 1, 'Klinikums': 1, 'Zwar': 1, 'Die': 1, 'Ja zum': 1, ') .': 1, 'So': 1, 'KALEB': 1, 'bewußtseinsbildender Kraft': 1}
+['des deutschen', 'EKD-Synodale', 'in', 'die', '.', 'des', 'lebensschützenden Effekt', 'abtreibungswillige ,', 'eindringlichen', "''", 'Klinikums', 'Zwar', 'Die', 'Ja zum', ') .', 'So', 'KALEB', 'bewußtseinsbildender Kraft']

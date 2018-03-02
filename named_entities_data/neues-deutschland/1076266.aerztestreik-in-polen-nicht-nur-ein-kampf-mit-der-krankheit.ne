@@ -1,1 +1,1 @@
-{'Wojciech Osinski': 1, 'Warschau': 1, 'Polen': 1, 'Ressortchef Konstanty Radziwill': 1, 'Dauerbeschuss': 1, 'es': 1}
+['Wojciech Osinski', 'Warschau', 'Polen', 'Ressortchef Konstanty Radziwill', 'Dauerbeschuss', 'es']

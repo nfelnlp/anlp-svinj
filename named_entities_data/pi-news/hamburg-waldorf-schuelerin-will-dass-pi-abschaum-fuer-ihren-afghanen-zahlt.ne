@@ -1,1 +1,1 @@
-{'aus': 1, 'Montag': 1, 'während': 1, 'teilnehmen': 1, 'selbst': 1, 'wiederholt': 1, 'wenn': 1, 'aufkommen': 1, '?': 1, 'eine': 1}
+['aus', 'Montag', 'während', 'teilnehmen', 'selbst', 'wiederholt', 'wenn', 'aufkommen', '?', 'eine']

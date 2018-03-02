@@ -1,1 +1,1 @@
-{'Moskau': 2, 'USA': 1, 'Syrien-Konflikt': 1, ')': 1, 'legte am': 1, 'Bildern erkennbaren': 1, 'ganz': 1, 'ganz zu': 1, 'kämpfen': 1, 'unter': 1, 'normalerweise': 1, 'wir': 1, 'keine': 1, '.': 1}
+['Moskau', 'USA', 'Syrien-Konflikt', ')', 'legte am', 'Bildern erkennbaren', 'ganz', 'ganz zu', 'kämpfen', 'Moskau', 'unter', 'normalerweise', 'wir', 'keine', '.']

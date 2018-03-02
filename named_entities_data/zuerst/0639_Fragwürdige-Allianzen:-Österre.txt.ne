@@ -1,1 +1,1 @@
-{'Wien': 1, '. In': 1, 'wörtlich': 1, 'ihn': 1, ', seine': 1, 'ansiedeln bzw': 1, 'ansiedeln bzw .': 1, 'der': 1, 'auf': 2, 'daß': 1, 'jährlich': 1, '„agentenähnliche': 1, 'NGOs': 1, 'Soros´': 1, '751 Abgeordneten finden': 1, 'Szijjártó': 1, 'linksliberalen': 1, 'gestellt ,': 1}
+['Wien', '. In', 'wörtlich', 'ihn', ', seine', 'ansiedeln bzw', 'ansiedeln bzw .', 'der', 'auf', 'daß', 'jährlich', '„agentenähnliche', 'NGOs', 'Soros´', '751 Abgeordneten finden', 'auf', 'Szijjártó', 'linksliberalen', 'gestellt ,']

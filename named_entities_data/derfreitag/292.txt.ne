@@ -1,1 +1,1 @@
-{'in': 1, 'mehr': 1, 'ihrer': 1, 'Sparpolitik': 1, 'sie': 1, 'entfalten': 1, '.': 1, ',': 2, 'Auch sollte': 1, 'durch': 1, 'geraten': 1, 'Land': 1, 'hat': 1, 'Völkern': 1}
+['in', 'mehr', 'ihrer', 'Sparpolitik', 'sie', 'entfalten', '.', ',', ',', 'Auch sollte', 'durch', 'geraten', 'Land', 'hat', 'Völkern']

@@ -1,1 +1,1 @@
-{'vor ein paar': 1, '.': 3, 'Tillschneider': 1, 'gezeigt': 1, ', liegt': 1, ',': 2, 'den': 2, 'denken': 1, 'an': 1, 'unweigerlich': 1, 'wenn': 2, 'der': 2, '–': 1, 'erfüllt': 1, 'um': 1, ', die': 1, 'liegt': 1, 'Deutschland': 1, 'Setzen': 1, 'fest': 1, 'Land': 1, 'seinem': 1, 'Entlastung': 1}
+['vor ein paar', '.', 'Tillschneider', 'gezeigt', ', liegt', ',', 'den', 'denken', 'an', 'unweigerlich', 'den', '.', 'wenn', 'der', '–', 'erfüllt', 'um', 'wenn', ',', ', die', 'liegt', 'Deutschland', '.', 'der', 'Setzen', 'fest', 'Land', 'seinem', 'Entlastung']

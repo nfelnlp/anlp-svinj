@@ -1,1 +1,1 @@
-{', der': 1, '»': 1, 'lokalen': 1, 'Herald « .': 1, 'in': 1, 'Einsatz': 1, 'solche Kritik': 1, 'die Sparte Gesichtserkennung': 1, 'Bedenken': 1, ',': 1, 'Australien': 1, 'Land': 1, 'Fast-Food-Kette': 1, 'inzwischen': 1, 'Eingabe': 1, 'auch': 1, 'Allerdings': 1, 'mit': 1, 'auf » einen': 1, 'Mehrwert': 1}
+[', der', '»', 'lokalen', 'Herald « .', 'in', 'Einsatz', 'solche Kritik', 'die Sparte Gesichtserkennung', 'Bedenken', ',', 'Australien', 'Land', 'Fast-Food-Kette', 'inzwischen', 'Eingabe', 'auch', 'Allerdings', 'mit', 'auf » einen', 'Mehrwert']

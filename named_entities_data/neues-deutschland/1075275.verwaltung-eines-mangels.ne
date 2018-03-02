@@ -1,1 +1,1 @@
-{'Nummerus': 1, 'Skizze': 1, 'mehr': 1, 'Auch': 1, ',': 1, 'zeit.de': 1, '»': 1, 'kürzt': 1, 'Studienplätzen': 1, 'Bewerber': 1}
+['Nummerus', 'Skizze', 'mehr', 'Auch', ',', 'zeit.de', '»', 'kürzt', 'Studienplätzen', 'Bewerber']

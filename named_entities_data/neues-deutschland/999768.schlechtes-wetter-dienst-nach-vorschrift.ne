@@ -1,1 +1,1 @@
-{'Oliver Eberhardt': 1, 'Israel': 1}
+['Oliver Eberhardt', 'Israel']

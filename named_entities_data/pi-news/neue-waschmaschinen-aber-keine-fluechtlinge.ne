@@ -1,1 +1,1 @@
-{'Lebenssinn': 1, 'Harburg': 1, 'Fleestedt': 2, 'Landkreis Harburg': 2, 'NDR': 1, 'Originalverpackung': 1, 'Krüger . [': 1, 'Dreimal': 1, 'anderen Helfenden': 1, 'absagen müssen': 1, 'Enttäuschung': 1, ', dass viele Helferinnen': 1, 'noch': 1, ',': 2, 'bieten': 1, 'Helfer': 1}
+['Lebenssinn', 'Harburg', 'Fleestedt', 'Landkreis Harburg', 'NDR', 'Originalverpackung', 'Fleestedt', 'Landkreis Harburg', 'Krüger . [', 'Dreimal', 'anderen Helfenden', 'absagen müssen', 'Enttäuschung', ', dass viele Helferinnen', 'noch', ',', 'bieten', ',', 'Helfer']

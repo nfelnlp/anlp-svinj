@@ -1,1 +1,1 @@
-{'.': 2, '. Thüringen': 1, 'den': 1, 'Winter ( SPD': 1, 'in': 1, 'Mit': 1, 'Die': 1, 'alle': 1, 'Regelung': 1, 'auf': 1, 'die': 1, 'Beratung': 1, 'zur': 1, 'bestehen': 1}
+['.', '. Thüringen', 'den', 'Winter ( SPD', 'in', 'Mit', '.', 'Die', 'alle', 'Regelung', 'auf', 'die', 'Beratung', 'zur', 'bestehen']

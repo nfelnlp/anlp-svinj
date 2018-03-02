@@ -1,1 +1,1 @@
-{',': 1, 'Halbwahrheit': 1, 'die': 2, 'dem': 1, 'Lande': 1, 'gekreuzigt': 1, 'eine': 1, 'Andersgläubigen': 1, '.': 1, 'logisch': 1, 'Christen': 1, 'angeblich': 1, 'leben': 1, 'Anpassungsprozesses': 1, 'wird': 1, 'seinen Stammländern': 1}
+[',', 'Halbwahrheit', 'die', 'dem', 'Lande', 'die', 'gekreuzigt', 'eine', 'Andersgläubigen', '.', 'logisch', 'Christen', 'angeblich', 'leben', 'Anpassungsprozesses', 'wird', 'seinen Stammländern']

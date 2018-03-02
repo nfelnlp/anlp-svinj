@@ -1,1 +1,1 @@
-{'sich': 1, 'unterzeichnete die': 1, 'Schumer warb damit': 1, 'waren': 1, 'oder Cory': 1, 'viel zu': 1, '. Auch': 1, 'sie': 1, 'ließ wissen': 1, 'programmiert': 1}
+['sich', 'unterzeichnete die', 'Schumer warb damit', 'waren', 'oder Cory', 'viel zu', '. Auch', 'sie', 'ließ wissen', 'programmiert']

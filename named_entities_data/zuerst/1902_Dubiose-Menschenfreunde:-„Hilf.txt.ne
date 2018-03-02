@@ -1,1 +1,1 @@
-{'Catania': 1, 'unter': 1, 'darauf': 1, '.': 2, 'mehreren': 1, 'eine': 1, 'mit libyschen': 1, 'direkte': 1, 'Tageszeitung': 1, 'Stampa': 1, 'Sonntagsausgabe': 1, 'Libyen': 1, '„Sea': 1, '“': 3, 'Mediterranee': 1, 'Mediterranee “': 1, 'Erkenntnissen': 1}
+['Catania', 'unter', 'darauf', '.', '.', 'mehreren', 'eine', 'mit libyschen', 'direkte', 'Tageszeitung', 'Stampa', 'Sonntagsausgabe', 'Libyen', '„Sea', '“', 'Mediterranee', 'Mediterranee “', '“', 'Erkenntnissen', '“']

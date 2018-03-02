@@ -1,1 +1,1 @@
-{'Martin Tingvall': 1, 'hr2-Kulturcafé': 1, '.': 1, 'Soloprojekten sucht': 1, ', Keith': 1, 'oder Chick': 1, '. Vor': 1, 'Veröffentlichung seines': 1, '. Das': 1, 'seiner': 1, 'des': 1}
+['Martin Tingvall', 'hr2-Kulturcafé', '.', 'Soloprojekten sucht', ', Keith', 'oder Chick', '. Vor', 'Veröffentlichung seines', '. Das', 'seiner', 'des']

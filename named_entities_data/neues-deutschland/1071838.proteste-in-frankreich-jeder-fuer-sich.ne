@@ -1,1 +1,1 @@
-{'sind sich': 1, 'Gesetz': 1, ', der': 1, 'einige': 1, '80': 1, 'so': 1, 'Gewerkschaft': 1, ') stand etwas': 1, 'das': 1, 'Basis': 1, 'Tag': 1, 'Martinez': 1, 'Betriebe tragen': 1, 'gezogen': 1, 'Diesem': 1}
+['sind sich', 'Gesetz', ', der', 'einige', '80', 'so', 'Gewerkschaft', ') stand etwas', 'das', 'Basis', 'Tag', 'Martinez', 'Betriebe tragen', 'gezogen', 'Diesem']

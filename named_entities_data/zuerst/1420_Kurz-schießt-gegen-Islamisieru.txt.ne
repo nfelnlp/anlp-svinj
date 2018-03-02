@@ -1,1 +1,1 @@
-{'Wien': 1, 'Sebastian Kurz': 1, 'ÖVP': 1, 'SPÖ': 1, 'Grünen': 1, 'Integrationsminister': 1, 'islamisch-arabische': 1}
+['Wien', 'Sebastian Kurz', 'ÖVP', 'SPÖ', 'Grünen', 'Integrationsminister', 'islamisch-arabische']

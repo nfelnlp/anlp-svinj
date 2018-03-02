@@ -1,1 +1,1 @@
-{'mein': 1, 'bzw': 1, 'Katzenfotos': 1, 'staatliche Stellen': 1, 'Mails': 1, 'sie': 1, ',': 1, 'AGB': 1, 'diese Art': 1, 'von': 1, 'ein': 1, 'verpflichtet': 1}
+['mein', 'bzw', 'Katzenfotos', 'staatliche Stellen', 'Mails', 'sie', ',', 'AGB', 'diese Art', 'von', 'ein', 'verpflichtet']
