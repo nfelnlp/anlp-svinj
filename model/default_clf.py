@@ -100,10 +100,10 @@ def train(data, clf, args):
 if __name__ == "__main__":
 
     args = vars(argParser.parse_args())
-    if args['s'] is None or args['s'] == 'yes' or args['s'] == 'y':
-        small_dataset = True
-    else:
+    if args['s'] is None or args['s'] == 'no' or args['s'] == 'n':
         small_dataset = False
+    else:
+        small_dataset = True
 
     #if args['f'] is None:
     use_ngrams = False
