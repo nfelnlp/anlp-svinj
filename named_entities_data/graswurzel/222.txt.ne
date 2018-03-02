@@ -1,0 +1,1 @@
+['geliefert ,', 'verfolgt', ',', 'ruft', 'die']

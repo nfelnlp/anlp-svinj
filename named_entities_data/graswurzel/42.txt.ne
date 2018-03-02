@@ -1,0 +1,1 @@
+['Anarchisten', 'Cafiero aus', 'die', 'Kellermann diese', ',', 'Grundkonsens', 'Gustav Landauer', 'die sich', 'damals']

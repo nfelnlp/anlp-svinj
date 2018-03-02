@@ -1,0 +1,1 @@
+['Süd-Dublin auf den', '.', 'diesem Prozess', 'irische Gesetze', 'des Autos', 'den', 'zwar', 'umfassendes', 'rhetorische Waffe', 'und', 'Übernahme des', 'trotz', 'gestrichen', 'eine ganze', 'werden .', 'Frien']

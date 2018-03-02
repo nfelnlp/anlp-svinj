@@ -1,0 +1,1 @@
+['Hamburg', 'herrschten', 'anderes', ',', 'Polizei', 'Laquer', 'der TAZ', 'Sie', 'Festlegung', 'und', 'die', 'Rote', 'Schulterblatt', 'im', 'der', 'NDR-Fernsehen ,', 'für', 'nicht', 'wohnen', 'irgendwie', ',', 'wohnen', 'auch', '``', 'der', 'darüber', 'Übereinkunft', '. Militanz', 'bunten', 'wird', 'offen', 'zwar', 'erstes ein', 'Wir', 'Welcome', ',', 'er']

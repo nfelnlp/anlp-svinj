@@ -1,0 +1,1 @@
+['zu', 'Engegefühl ,', 'über den', 'die', 'dann', 'vom']

@@ -1,0 +1,1 @@
+['Konzeption', 'reif', ',', '(', 'Handeln', 'völlig', 'zentralen', 'Lehre', 'zu', 'Leid', ',', 'vor', 'beigetragen', 'Tod', ',']

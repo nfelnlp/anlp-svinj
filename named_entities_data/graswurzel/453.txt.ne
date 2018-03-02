@@ -1,0 +1,1 @@
+['taz', 'Mutlangen', '1988', 'nach', 'gehen', 'damals', 'Vorfeld', 'an', 'wirklich', 'einen', 'Teil', 'an', ',', 'oder', 'neben', 'ausgewiesenen', 'über', 'hilflosen', 'die', 'Aktionsort', "''", 'später', 'Kritik', 'Bombenabwurfplatz', 'protestieren', 'Wolfgang Hauptfleisc']

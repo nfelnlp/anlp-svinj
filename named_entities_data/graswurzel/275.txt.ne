@@ -1,1 +1,1 @@
-['ver.di', 'Frank Bsirske', 'ver.di', 'DGB-Gewerkschaften', 'der', 'drauf :', 'hat', 'Ausstiegsgesetzes', 'Fφrderung von', 'von', 'Fφrderung', 'und', "''", 'Belastungen', '``', ',', 'Kosten', 'Agenda', 'dem', 'Leitplanken', 'wieder geschafft', 'der', 'greift', 'an', 'und', 'gab', 'der', 'ist', '``', 'auf einen']
+['Frank Schirrmacher', 'FAZ-Herausgeber', 'hat', 'wo', 'Siegermacht', 'drängendere', 'das desto', 'die', 'die Arbeiterbewegung', 'und', 'noch', 'wie andere', 'Überleben', '.']

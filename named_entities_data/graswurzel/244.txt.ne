@@ -1,0 +1,1 @@
+['Antje Schrupp', 'gleich zu', '.', 'selbstbestimmter', 'verdächtigte', 'zwangsweisen', 'Gesetz gekämpft', 'Frauenbewegung ,', 'eines', 'Ehemann', 'Vergewaltigung', 'lassen', 'Ist']

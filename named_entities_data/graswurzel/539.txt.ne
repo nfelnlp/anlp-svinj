@@ -1,0 +1,1 @@
+['waren .', ',', 'absurden', 'Welt', 'für', 'den Skyper', 'Büro', 'am', 'den']

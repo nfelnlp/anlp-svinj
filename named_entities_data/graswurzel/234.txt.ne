@@ -1,0 +1,1 @@
+['auch', 'wiederum', 'viele Länder', 'für', 'Geflüchteten', 'können', 'als', 'Schritt', 'innerhalb', '2015 wurde', 'Niedersachsen', 'stillen', 'zum', 'einsichtigen', 'seit', 'für', 'übernommen', 'es', ', über']

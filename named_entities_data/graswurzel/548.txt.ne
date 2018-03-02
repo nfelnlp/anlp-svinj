@@ -1,1 +1,1 @@
-['Paulitz', 'USA', 'Deutschland', 'Paulitz', 'diese']
+['Armenien', 'Aserbaidschan', 'Eritrea', 'Südkorea', 'Türkei', 'Turkmenistan', 'USA', 'Finnland', 'ägyptische', 'Nabil', 'Ägypten', 'USA', 'Rafil Dhafir', 'Hilfslieferungen', 'Irak', 'Militärhaft', 'Bradley', ', dem', 'Kriegsverbrechen', 'Irak', 'gemacht', 'Gefangenen', 'DFG-VK', 'und ihre', 'Karten', 'Freitag ,', 'und', 'werden Bilder', 'Schreibt']

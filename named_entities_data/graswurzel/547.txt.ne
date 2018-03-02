@@ -1,0 +1,1 @@
+['Atalanta-Verbandes', 'darunter', 'fahrende', 'von', 'Mombassa', 'hatte', 'und seine', 'Militärspezialeinheit', 'der', 'wurden die', 'und', '.', 'dem', 'hieß', '.', 'nur', 'an', 'Fest', 'dass', 'musste', '``', 'Kronzeugen', 'Nur', '.', 'worden', 'irgendwie', 'in', 'selbst', 'Atalanta', 'als', 'nachkoloniales', 'Thema', "''", 'Volkes']

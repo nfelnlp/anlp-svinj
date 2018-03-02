@@ -1,0 +1,1 @@
+[':', "'' (", 'die', 'Verhaltenskodex', 'wurde', "''", 'gestellt', 'Es', '.', 'natürlich', 'Manche Beschreibungen', 'wie', 'reden', 'gesagt .', ')', 'des', 'Aufgabe', '.', 'in']

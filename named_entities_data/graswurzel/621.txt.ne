@@ -1,1 +1,0 @@
-['Bundeswehr', 'Bundeswehr', 'Bundeswehr', 'Lucius Teidelbaum', 'Armee', '. Teidelbaum räumt dabei', '. Teidelbaum räumt dabei mit dem', 'Gesellschaft', 'nicht', 'hat', 'aktuellen', 'Die', 'Online-Foren', 'betreut', 'Schulze von']

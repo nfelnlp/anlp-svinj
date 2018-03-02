@@ -1,0 +1,1 @@
+['Google-Manager', 'Schmidt', 'Verhältnis mit', 'in seinem', 'leben', 'Diese', 'wirklich', 'Personen bewertet', 'Bewertungen', 'oft', 'im', 'die', 'Ausdruck', 'will', 'Anwender_innen', 'denen', '`` Big-Data', 'den', 'Das']

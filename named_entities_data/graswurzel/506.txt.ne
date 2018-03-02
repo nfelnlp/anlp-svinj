@@ -1,0 +1,1 @@
+['Bologna-Prozess', 'Thomas', 'zog am', 'eine ebenso', 'in den', 'Mobilität', 'Ausland', 'nie', 'Aufgaben', 'LehrerInnenausbildung', ',', 'die', 'die', 'die', 'Vor', 'wollte . Die', 'aber', 'Der', 'künftig', 'Gültigkeit']

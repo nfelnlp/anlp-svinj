@@ -1,0 +1,1 @@
+['Und', 'von Glaßer', 'seit', 'war', 'Vereinigte', 'DFG-VK', 'und', 'Mitglied', ')', ') .', 'Von', 'sozusagen im', 'wichtige', 'am', 'des Comics', 'und', 'gegen', 'Thematisiert', 'und', ',', 'der', 'RAF', 'auf', 'der', 'dritten Bombereinsatz', '(', 'leider', 'Texte', ',', 'von']

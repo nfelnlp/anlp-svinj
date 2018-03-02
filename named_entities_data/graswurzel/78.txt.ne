@@ -1,0 +1,1 @@
+['Social Center', 'Social Center', 'Heidenau', 'solidarisierten', 'durchzuführen ,', 'welcher', 'Für', '.', 'Auch', 'ebenfalls', 'Räumung', 'klar', 'In', 'einem', 'über', 'bzw .', ', rechtmäßig sind', 'ist', 'erfahrene Aktivist_innen', 'gezeigt', 'man']

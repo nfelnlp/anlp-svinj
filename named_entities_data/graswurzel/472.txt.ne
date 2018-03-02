@@ -1,0 +1,1 @@
+['GWR', 'Euer', 'schon', ': Spende']

@@ -1,0 +1,1 @@
+['das', '?', 'Naziregimes/Bund', 'und der Antifaschistischen', 'Heidelberg', '.', 'haben', 'Enttäuschung', 'anders ausgefallen', ',', 'es', 'sämtlicher', 'Das', 'Hast du', 'Instanz', 'Forum', ', wie', 'gibt ,', 'immer', 'begründeten', ',', 'überschätzt', 'in', 'Skandalen', 'werden', 'immer']

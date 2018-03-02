@@ -1,1 +1,0 @@
-['durchgeführt', "'' ,", 'der Bergstraße ( vgl', 'und informatives', 'ermutigend', 'Wochen', 'Gemeindebrief zum', 'musste', 'die', 'so zusammen', 'einen']

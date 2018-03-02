@@ -1,0 +1,1 @@
+['Nora Sternfeld', 'Antonio Gramsci', 'Michel Foucault', 'Jacques Rancière', 'Sternfeld', 'Was', 'erst hergestellt', 'Foucault', 'Vorstellung']

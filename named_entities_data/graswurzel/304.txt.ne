@@ -1,0 +1,1 @@
+['Jahrelang', 'Versammlungsräume', 'Programm', 'stellt', 'zum', 'Gruppe', 'Die', '2001 erscheint', 'will sich', 'Gruppe', 'Identität', 'zu', 'Energie', 'bei', 'am', 'bekannteste Schwulen/Lesben-Gruppe', 'Weise', 'damit', 'GL']

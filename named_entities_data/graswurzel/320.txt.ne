@@ -1,0 +1,1 @@
+['GWR', 'GWR-LeserInnen', 'FB-Gruppen', 'als', ',', 'Periodika', 'es', 'heute', 'für', 'späten', 'Daten', 'kaum', 'dass', 'Macht', 'kostenlose', 'Gefühl', '``', 'einer', 'mit', 'Firmenmitglieder', 'entstandenen', '``', 'mit', 'Räuberbarone in', 'mit', 'Machtzuwachs', 'neuen', 'ihnen', 'Die', 'er', 'neuer', 'Medien', 'beim']

@@ -1,0 +1,1 @@
+['Kosovo', 'Israel', 'Palästina', 'Algerien', 'von', 'Israel', 'Israel und Palästina', 'die', 'und', 'als', ', von', 'Jerusalem', 'Herbron', 'Süd-Libanon', 'eine', 'Rechten', 'von', 'Als', 'und', 'der', 'dem Ende', 'von', 'der', 'als', '.', 'wenn', 'Demilitarisierung', 'Verfahren', 'Gewaltfreiheit', 'kämpfen', 'den', 'nach', 'appellieren', 'diese', 'nicht das', ',']

@@ -1,0 +1,1 @@
+['Braunkohlerevier', 'Gibt', 'Juridikative', 'Formaldemokratie ? Wird', 'entlang', 'Aktivist*innen', 'dem', 'bis', "''", 'offene', 'losen', 'Konsens', 'auch zu', 'unterstützen .', '.', 'In', 'trotz', '.', 'RWE', ',', 'die', 'langem', 'gewaltfreien', 'Weg', 'Aktionen', 'begrenzte', 'zu']

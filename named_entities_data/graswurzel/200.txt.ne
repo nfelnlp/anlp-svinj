@@ -1,0 +1,1 @@
+['Linkspartei', 'aufkündigt', 'DGB-Gewerkschaften', 'Anpassungskurs', 'kam', 'Die', 'als', 'oder', 'in', 'wiederhaben', 'Gysi', 'ersten', '-AktivistInnen', 'Der', 'mit', 'PDS', 'einer', 'des', 'nicht', 'die', 'und mitgetragen', 'keine', 'der', 'USPD', 'sind', 'gescheitert', 'zum', 'Forderungen', 'kann', 'Kamm', 'dass', 'analysieren']

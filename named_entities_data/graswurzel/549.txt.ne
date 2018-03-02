@@ -1,0 +1,1 @@
+['.', 'belastenden', 'der', 'Richter', ',', 'bestätigen', 'und', 'der', 'verhängen', 'in', 'seiner', 'Hand']

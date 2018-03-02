@@ -1,0 +1,1 @@
+['WASG-Separatisten', 'um eine', 'als', 'zaghaft', ',', 'ihre', 'der', 'Phase', 'Kerngeschäft', 'Signal', 'Koalition', 'geht', 'erntet', ':', "''"]

@@ -1,0 +1,1 @@
+['Wien', 'Andi', 'Parker zustande', 'Bald darauf', 'bis', 'Literaturpassage', 'Eröffnet', 'wir', 'den Buchdruckerstreik', '1913 -', 'gekämpft', 'wenig', 'letzten Jahrzehnten', 'letzten Jahrzehnten einiges', 'von', 'einheitliches', 'der', '- ``', 'Jahr']

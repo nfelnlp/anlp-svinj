@@ -1,0 +1,1 @@
+['Abu Ghraib', 'Militärpolizeidivision', 'Unser', 'Irak', '.', 'England', 'England', 'England', '. Zwei', 'besänftigen', 'zeigte', ',', ', in', ',', 'sexuelle Unterwerfung', 'über sexuelle', 'andere', 'anscheinend', 'als', 'darin bestand', 'tatsächliche', 'lautete', 'Wir geben', 'Vorhang zu']

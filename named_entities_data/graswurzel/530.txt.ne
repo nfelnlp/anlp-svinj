@@ -1,0 +1,1 @@
+['Gewerkschaften', 'kennen', 'Demonstrationen', 'vor', 'aufzuzeigen', ',', '.', 'Nun', 'es']

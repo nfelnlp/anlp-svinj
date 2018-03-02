@@ -1,0 +1,1 @@
+['Alice Schwarzer', 'Grant', 'kaum', 'ihrer selbsternannten', 'ArbeiterInnen', 'die', 'Grant', 'gesamte', 'Prostituierten', 'macht . Das Buch', 'lösen', '`` Wegsperr-Feminismus']

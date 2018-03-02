@@ -1,0 +1,1 @@
+['.', 'Lobbygruppen', 'geht die', "''", 'sondern sie', '.', 'die', 'Unterscheidung', 'kann ,', 'Prostituierten', 'Kein', 'der', 'erkämpfen', 'eine']

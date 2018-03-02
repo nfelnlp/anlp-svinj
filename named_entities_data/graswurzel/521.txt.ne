@@ -1,0 +1,1 @@
+['RWE', 'Bergrecht', 'boten', 'den AktivistInnen', 'einmalig schönen', 'Kaffee', 'leben', 'unbewohnt ist', 'erfolgte', "''", 'böse', 'die', 'für', 'mörderischen', 'Wir', 'unsere', 'den']

@@ -1,0 +1,1 @@
+['GWR-Red', 'keine', '.', 'mir', 'keine', 'kostet', 'erforscht']

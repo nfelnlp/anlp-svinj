@@ -1,0 +1,1 @@
+['Nettersheim', 'Honorarbasis', 'GWR-Vertrieb', 'Münstereifel', 'Münstereifel eine', 'Münstereifel eine bewegende', 'An einem', ',', '.', 'damaligen Sudetendeutschland', 'Grundschule', 'der', 'Stadtallendorf', 'zur', 'Jahr', 'die', 'ihrer', 'der', 'fort', 'vegetarischen', 'sie', 'ein', 'war', 'etwas', 'mehrere', 'übernehmen']

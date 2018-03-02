@@ -1,1 +1,1 @@
-['Campverboten', 'Mφglichkeiten', 'Polizei', ',', ',', 'haben sie', 'sich', 'Transportstrecke', '.', ',', 'den', 'einer', ',']
+['Kaos GL', 'dergisi', 'grubunun', 'Göz önünde', ', meraklý', 'çekinmemek', ', öz-gürlükçü', '.', ',', 'adý', 'katýlan', 'sesini', 'bir', '2001', ',', 'yapacaðý', 'olarak', 've', 'olanaklarýn dikkatlice', 'Türkiyeli']

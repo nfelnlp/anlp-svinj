@@ -1,0 +1,1 @@
+['ihrer', 'in', 'Konstruktion', 'Pinar', '. )', 'Ende', 'ist', 'drei', 'es', 'gelingt', 'Während', 'ich', '.', 'versuchte', 'selbst', 'und', 'Überhaupt', 'jene', ',', 'erschlug', 'ich', 'diesen', 'Weise', 'In', 'mit', 'schwächer', 'der', 'der', 'weit', 'ist', 'Position', 'Zerstören', 'ästhetisch']

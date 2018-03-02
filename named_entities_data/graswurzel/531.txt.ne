@@ -1,0 +1,1 @@
+['einer', 'zum', 'zum Begriff', 'Emissionsrechner', 'CO2-Emissionen', 'doch', 'Aber', 'noch nicht', ',', 'Feldbewässerung', ', die', 'Kleinbäuer_innen ,', 'ist', 'VON', 'Indem', 'ihr CO2-Kompensations-Budget', 'Unser', 'ist', 'der', 'alleinigen', 'Emissionshandel als', '.', 'mit dem', 'Norden auf', 'Norden auf allen', 'im', 'mit', 'Sowohl', 'Finanzkraft', 'von']

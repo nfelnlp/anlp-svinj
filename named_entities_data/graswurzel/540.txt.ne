@@ -1,1 +1,1 @@
-['Lenin', 'Leo Tolstoj', 'Valentin Bulgakows', 'Russland', 'Karl Bartes', 'Russland', 'Kanada', 'altrussische Bauernsekte', 'Kanada', 'Russland', 'tolstojanisch-christlichen', ',', 'aufgebaut werden', 'vor', 'über', 'Am', 'gestellt wurden', 'Duchoborzen', 'das', 'von', 'IndividualanarchistInnen', 'TolstojanerInnen', 'als', 'Rolle spielte', 'TolstojanerInnen']
+['Kosovo', 'Bedszent sammelt', 'Kurz und', ',', 'ist', 'Kurz', 'aus', 'sind', 'Thema', 'beleuchtet', ',', 'geraten', 'und', '.', 'Schluss', 'und', 'imperialen', 'ja', 'zunehmend', "''", 'eine kritische']

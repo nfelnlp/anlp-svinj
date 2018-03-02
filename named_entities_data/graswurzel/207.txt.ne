@@ -1,0 +1,1 @@
+['zuzusehen', 'Grünen', 'verwaltete', 'Kapitulation', 'Realismus', 'über']

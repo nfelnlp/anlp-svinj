@@ -1,0 +1,1 @@
+['``', 'die sonst', 'die', 'Vision', 'die', 'der', 'jetzt', ',', '.', 'Die', 'enthalten', 'Rütli-Schule', 'ausländerpolitisches', 'ablenkt', 'Selektion', 'und', 'gar', ',', 'einem', 'dafür', 'auch']

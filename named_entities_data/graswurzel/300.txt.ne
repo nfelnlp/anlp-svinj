@@ -1,0 +1,1 @@
+['Mohsen Makhmalbaf', 'Taliban', 'Frankreich', 'England', 'Kanada', 'Taliban', 'Kanada', 'Kandahar', 'um', 'bricht', 'den', 'thematisiert', 'der nach Afghanistan', 'ist', 'die', 'ist', '-', 'in', 'der']

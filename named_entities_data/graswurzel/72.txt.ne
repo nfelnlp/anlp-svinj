@@ -1,0 +1,1 @@
+[',', 'Auftreten', 'Gewissens', '``', 'schlimm', 'Mitglieder', 'Organisation', 'sie', 'jeder revolutionären', 'sein muss', 'Feyerabend', 'Murray', 'Bookchin', 'es']

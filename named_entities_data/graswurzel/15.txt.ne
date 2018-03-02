@@ -1,0 +1,1 @@
+['Kompromissbereitschaft', 'Heribert Prantl', 'Einknicken', 'Abstriche', 'Art', 'betroffenheitsferner ,', 'des', 'Clowns Army', 'finden . In', ')', 'föderiert', 'die', 'diesen', 'werden', 'Gruppen', 'allermeisten', 'zitierte', 'Können', 'Agents']

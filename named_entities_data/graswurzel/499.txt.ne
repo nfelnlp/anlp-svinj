@@ -1,0 +1,1 @@
+['Nietzsche', 'Gleichen', 'muss', 'wievielte Meisterschaft', ',', ',', 'im', 'all', 'pseudorebellischen Millionären', 'Bedingungen', "''", 'die', ', um', 'Gefängnismauern', 'pfiff er', 'wurde', 'alles', 'der BILD-Zeitung', ',', 'Justiz', 'er', 'zur', ',', 'als', ',', 'die eines', ',', 'einfach', 'ist']

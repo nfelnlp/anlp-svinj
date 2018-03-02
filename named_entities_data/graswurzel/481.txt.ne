@@ -1,0 +1,1 @@
+['GWR', 'Republik', 'GWR-LeserInnen']

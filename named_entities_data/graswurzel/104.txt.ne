@@ -1,0 +1,1 @@
+[',', '.', 'meine', 'gerät', 'Hass', 'und', 'wir von komplexen', 'und', 'Verantwortung', 'Einen', ',', 'zu', 'verschraubten', 'in', 'bisherigen', 'quasi', 'insbesondere die', 'haben', 'meist waren es Männer', 'Jahre aufgesprungen', '.']

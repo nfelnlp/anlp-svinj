@@ -1,0 +1,1 @@
+['aber', 'etliche andere', 'Anerkennung', 'Bundesregierung', 'sie', 'Idealfall', 'wie', 'es', 'internationale', 'wie', 'Interessen', 'werden', '. Mag', '!']

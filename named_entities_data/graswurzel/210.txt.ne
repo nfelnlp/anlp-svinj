@@ -1,0 +1,1 @@
+['Kerstin', '90/Die Grünen für Stimmung', 'erhielt .', 'schallte durch den', 'zu', 'armseliger', 'und', 'wieder', 'Saal .', 'interessierten Menschen blieben mit einem Gefühl', 'im', 'und', 'Lösung', '!', '6', '.', 'wie : ``', 'Diskussionsveranstaltung zu Ende gebracht', 'Kriegsbegeisterung', 'und', ', aber immer mit', 'widmen . Zu guter Letzt', 'sehr angespannt']

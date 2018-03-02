@@ -1,1 +1,1 @@
-['Fukushima', 'Fukushima .', 'vergangen .', 'ein', '.', 'Um', 'die', '.', '. Es war', 'habe', 'habe ich', 'habe ich 1,35', 'an', 'mit ,', 'Jahre', '80.000', 'unter', 'eindeutig', '.', 'verändert']
+['Das', 'Das kann', 'es', 'Kandidatin an . Unter ihrem', 'Tod', 'Neid', 'abgebaut ,', 'an']

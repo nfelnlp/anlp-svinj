@@ -1,0 +1,1 @@
+['und', 'dieser', 'werden', '-', ',', 'in']

@@ -1,0 +1,1 @@
+['Stuttgart', 'Griechenland', 'Frankreich', 'seit']

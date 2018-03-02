@@ -1,0 +1,1 @@
+['Geschlechterpolitik', '.', 'und', 'Zeit beobachten', '. Das', "\x82Arbeit '", 'in', 'kämpferischen Tag']

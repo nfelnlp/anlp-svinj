@@ -1,0 +1,1 @@
+['Lily', 'Polizei', 'Circumvention', 'Festival', 'wo', '.', 'auch', 'dass', 'zum', 'gleichen Wohnprojekt ,', 'Kampagnen', 'Teil', 'Eltern', 'zu', 'Mark', 'der ab', 'linke Strukturen', 'war', 'Demos', 'thematisiert', 'auch', '.', 'für', 'für einen', '. Im', 'woraufhin', 'aufgedeckt', 'und', 'nicht', '.', 'Tarnidentität', 'Weise betroffen', 'auf', 'das', 'zeigt']

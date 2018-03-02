@@ -1,0 +1,1 @@
+['Joseph Steinbeiß', '1', 'Postanarchist*innen', 'nach', 'nach dem', ', nach', '. 2', 'Kropotkin bis hin zu', 'meinten', 'natürliche', 'Natur', 'diesen Sozialdarwinismus war Kropotkin', 'Tier-', 'bezieht', 'durchaus auf', 'beschäftigen', "''", '-', 'sie']

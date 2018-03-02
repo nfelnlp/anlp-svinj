@@ -1,0 +1,1 @@
+[']', 'der', 'nicht', 'nicht zu', 'hin', ',', 'Strukturelle', ', die', 'eigenverantwortlicher', 'Wege', 'in', 'auch', '``', 'von', 'Filter ,', 'wollten', 'nichts ändern', ', PolitikerInnen', 'in', 'Stadtteilbibliotheken', 'an', 'dessen', 'und', 'Gaunereien', 'spannen', 'führt']

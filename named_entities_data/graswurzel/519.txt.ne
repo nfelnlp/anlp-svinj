@@ -1,1 +1,1 @@
-['Polizei', 'Land', 'Bund', 'CDU', ', freier', 'das', 'in', 'in dem', 'in dem brennenden', 'verurteilt', '`` Politische', 'Hinweise', 'ein', '.', 'sie']
+['in', 'starten', 'Finger', 'mit', 'Vorrang', 'und', 'Maßnahmen', 'in', 'Sinne hat', 'auch innerhalb der', 'die', 'Millionen von Menschen', 'Gelände', 'mensch', 'aller', 'einfordert', 'Eine der Herausforderungen', 'Ende']

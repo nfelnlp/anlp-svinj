@@ -1,0 +1,1 @@
+['Ich', 'daher', 'Neues Dem', 'Initiative ,', 'Wie können so viele', ', er', 'überhaupt', 'alle', '.', 'hat', 'sich', 'und Frauen als', 'Schlimmeres', 'So auch', 'auch', ',']

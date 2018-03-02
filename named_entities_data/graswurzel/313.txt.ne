@@ -1,0 +1,1 @@
+['Taliban', 'Kandahar', 'Jalabad', 'Afghanistan', 'unter', 'unter General', 'der', 'Das', 'Afghanistan', 'das', 'anderen']

@@ -1,0 +1,1 @@
+['.', 'parlak', 'görürken', 'Fatma', 'Keskin', 'Av', 'yýlýnýn', 'gözaltýna', 've', 'kurumlar', 'mahkemelerde', 'psikolojik', 'edilmesi', 'hüküm', 'ile', 'davadýr', 'geçen']

@@ -1,0 +1,1 @@
+['Bernd', 'Bernd', 'GWR', 'mittelfristig', 'einerlei', 'und', 'bei', ',', 'AG', '-', ',', ',']

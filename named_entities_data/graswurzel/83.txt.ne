@@ -1,1 +1,1 @@
-['Syndikat', 'bewohnbar', 'dem', 'Seite', 'doch', 'Euro', 'Wie', 'das', 'sogenannte', 'bekommen', 'Fφrdermittel der', 'Kredite', 'wollen', 'Vertreter_innen', 'ackerten', 'im', 'und', 'aus', 'in', 'seit', 'und', 'Die', 'Idee', 'wird', 'und', 'regelmδίigen', 'noch']
+['bewohnbar', 'Euro', 'Wie', 'das', 'sogenannte', 'bekommen', 'Fördermittel der', 'Kredite', 'aus', 'in', 'und', 'Die', 'Idee', 'wird', 'und', 'noch']

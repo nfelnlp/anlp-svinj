@@ -1,0 +1,1 @@
+['VW', 'nicht', 'der', 'sind', 'Belegschaft', 'in', 'Euro', '.', 'Protest', 'eine', 'Ihre', 'und', '.', 'polnischen', 'Einführung', 'lebhaft', 'den', 'kann', 'die']

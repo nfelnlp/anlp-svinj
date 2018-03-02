@@ -1,0 +1,1 @@
+['Anata', 'Jerusalem', 'israelischen Armee', 'vernebelt', 'Havut ,', 'Armee gedient', 'und', 'Zivilisten', 'Armee in', '.', 'Besatzung', 'El-Khatib erzählt :', 'kämpfen', 'und', '.']

@@ -1,0 +1,1 @@
+['FDP', 'Linke', 'Grünen', 'SPD', 'CSU', 'CDU', 'Linkspartei', 'die', 'über', 'zum', 'mitgetragen', 'Glaube', 'Nazis', 'linken', ', sie', 'wo', 'großen', 'soziale', 'erbitterten', 'entgegensetzte', 'sein', 'Ullrich', ',', 'Hahn stellt', 'Parlamentswahl', 'jede', 'Für', 'sofortigen']

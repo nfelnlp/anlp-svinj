@@ -1,0 +1,1 @@
+['Münster', 'AfD-Ratsherr', '. Der', 'dagegen', 'waren', '.', 'sieht', 'Zollamt', 'dass', 'Täglich', 'ein']
