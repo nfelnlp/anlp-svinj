@@ -61,7 +61,10 @@ def split_X_and_y(data):
 
 def train(data, clf, args):
     print("Features: " + str(args['f']))
-    print("Number of named entities: " + str(args['n']))
+    if 'named_ents' in args['f'] and args['n'] is None:
+        print("Number of named entities: 200")
+    else:
+        print("Number of named entities: " + args['n'])
     print()
 
     
