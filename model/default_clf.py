@@ -24,7 +24,7 @@ argParser.add_argument('-u', choices=['yes','no','y','n'])
 
 
 
-from features import sentiment, named_entities
+from features import sentiment, named_entities, ngrams, quoted, artlen, sentlen, pos_tags
 
 def build_subset(subset, sid, split):
     # Read all files of a subset
@@ -63,8 +63,8 @@ def train(data, clf, args):
     print("Features: " + str(args['f']))
     if 'named_ents' in args['f'] and args['n'] is None:
         print("Number of named entities: 200")
-    else:
-        print("Number of named entities: " + args['n'])
+    elif 'named_ents' in args['f']:
+        print("Number of named entities: " + str(args['n']))
     print()
 
     
@@ -163,19 +163,19 @@ if __name__ == "__main__":
 
     # Add features
     if use_POS:
-        data = pos_tags.add_features(df=data)  # POS tag feature
+        data = pos_tags.add_feature(df=data)  # POS tag feature
     if use_named_ents:
-        data = named_entities.add_features(data, ne_number)
+        data = named_entities.add_feature(data, ne_number)
     if use_sentiment:
         data = sentiment.add_feature(data)
-    #if use_artlen:
-    #insert add_feature for article length
-    #if use_sentlen:
-    #insert add_feature for sentence length
-    #if use_quoted:
-    #insert add_feature for quoted speech
-    #if use_ngrams:
-    #insert add_feature for ngrams
+    if use_artlen:
+        data = artlen.add_feature(data)
+    if use_sentlen:
+        data = sentlen.add_feature(data)
+    if use_quoted:
+        data = quoted.add_feature(data)
+    if use_ngrams:
+        data = ngrams.add_feature(data)
     
 
 

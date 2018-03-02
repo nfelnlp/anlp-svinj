@@ -2,7 +2,7 @@ import baseline as base
 import re
 import pandas as pd
 
-def add_features(df):
+def add_feature(df):
 	quoted_ratios=[]
 	articles=df["text"].tolist()
 	for article in articles:

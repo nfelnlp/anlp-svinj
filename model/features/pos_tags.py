@@ -6,7 +6,7 @@ from nltk.tokenize import word_tokenize
 from sklearn.feature_extraction import DictVectorizer
 
 
-def add_features(df):
+def add_feature(df):
     # Call treetagger
     tagger = treetaggerwrapper.TreeTagger(TAGLANG='de')
 

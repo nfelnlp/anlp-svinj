@@ -29,7 +29,7 @@ def ngrams(articles,n):
 	return ngramdict_sorted
 
 
-def add_features(df):
+def add_feature(df):
 	list_of_vectors=[]
 	df_train=df[df["split"]=="train"]
 	articles_train=df_train["text"].tolist()

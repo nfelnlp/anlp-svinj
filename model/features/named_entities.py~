@@ -5,58 +5,43 @@ import collections as col
 import os
 import ast
 import pandas as pd
-from sklearn.utils import shuffle
 
 
-def add_feature(df, ne_number):
-    
-    train_df = df[df['split'] == "train"]
-    test_df = df[df['split'] == "test"]
-    
+def add_features(df):
+    train_df = df[data['split'] == "train"]
+    test_df = df[data['split'] == "test"]
 
     train_articles = train_df["text"].tolist()
     train_paths = train_df["file"].tolist()
 
     entity_dict_list = []
-    for n, (art, path) in enumerate(zip(train_articles, train_paths)):
+    for art, path in zip(train_articles, train_paths):
         entities_dict = all_named_entities(art, path)
         entity_dict_list.append(entities_dict)
-        if n % 100 == 0:
-            print(n)
 
-    most_common_ne, entities = most_common_entities(entity_dict_list, ne_number)
+    most_common_ne, entities = most_common_entities(entity_dict_list, number=200)
 
     ne_features_train = pd.DataFrame(entities)
-
-    train_df.reset_index(drop=True, inplace=True)
-    ne_features_train.reset_index(drop=True, inplace=True)
-    train_df = pd.concat([train_df, ne_features_train], axis=1)
-    train_df['split'] = "train"
-
 
     test_articles = test_df["text"].tolist()
     test_paths = test_df["file"].tolist()
 
     entities = []
-    for n, (art, path) in enumerate(zip(test_articles, test_paths)):
+    for art, path in zip(test_articles, test_paths):
         occurences = extract_named_entities(most_common_ne, art, path)
         entities.append(occurences)
-        if n % 100 == 0:
-            print(n)
 
     ne_features_test = pd.DataFrame(entities)
 
-    test_df.reset_index(drop=True, inplace=True)
-    ne_features_test.reset_index(drop=True, inplace=True)
+
+    train_df = pd.concat([train_df, ne_features_train], axis=1)
+    train_df['split'] = "train"
     test_df = pd.concat([test_df, ne_features_test], axis=1)
     test_df['split'] = "test"
-    
-    
 
     df = pd.concat([train_df, test_df])
     df = shuffle(df).reset_index(drop=True)
 
-    
     return df
 
     
@@ -101,11 +86,7 @@ def all_named_entities(article, path=None):
     try:
         with open(entities_path, "r") as entities_file:
             entities_str = entities_file.read()
-            entities_list = ast.literal_eval(entities_str)
-            entities_dict = col.defaultdict(int)
-            for entity in entities_list:
-                entities_dict[entity] += 1
-            #entities_dict = ast.literal_eval(entities_str)
+            entities_dict = ast.literal_eval(entities_str)
             #entities_dict = eval(entities_str)
         return entities_dict
     except SyntaxError:
@@ -114,14 +95,12 @@ def all_named_entities(article, path=None):
     except FileNotFoundError:
         with open(entities_path, "w") as entities_file:
             entities_dict = col.defaultdict(int)
-            entities = []
             for entity in entity_strings(article):
                 if entity == '':
                     continue
-                entities.append(entity)
                 entities_dict[entity] += 1
 
-            entities_file.write(str(entities))
+            entities_file.write(str(entities_dict)[27:-1])
         return entities_dict
     
 
@@ -191,24 +170,33 @@ def most_common_entities(entity_dict_list, number=200):
 
     
     #keep only most common occurences of entities from articles
-    entity_vecs = []
-    for entity_dict in entity_dict_list:
+    entity_vecs_left = []
+    for entity_dict in entities_left:
         entities_vec = []
         for entity in most_common_ne:
             if entity in entity_dict.keys():
                 entities_vec.append(entity_dict[entity])
             else:
                 entities_vec.append(0)
-        entity_vecs.append(entities_vec)
+        entity_vecs_left.append(entities_vec)
 
+    entity_vecs_right = []
+    for entity_dict in entities_right:
+        entities_vec = []
+        for entity in most_common_ne:
+            if entity in entity_dict.keys():
+                entities_vec.append(entity_dict[entity])
+            else:
+                entities_vec.append(0)
+        entity_vecs_right.append(entities_vec)
 
-    return most_common_ne, entity_vecs
+    return most_common_ne, entity_vecs_left, entity_vecs_right
                 
 
 def get_most_common(entity_dict, number=200):
     entity_list = []
     for entity, occurences in entity_dict.items():
-        if len(entity_list) < number:
+        if len(entity_list) <= number:
             entity_list = insert_ordered(entity_list, (entity, occurences))
         else:
             _, least_occ = entity_list[number - 1]
