@@ -8,7 +8,12 @@ from urllib.error import URLError
 from urllib import request
 from bs4 import BeautifulSoup
 from boilerpipe.extract import Extractor
+import charade
 from nltk.tokenize import sent_tokenize
+try:
+    import urllib.request as urllib2
+except ImportError:
+    import urllib2
 
 
 def make_soup(url):
@@ -18,9 +23,17 @@ def make_soup(url):
         print(soup.find_all('font'))
 
 
+headers = {'User-Agent': 'Mozilla/5.0'}
+
 def bp_extract(url):
+    request = urllib2.Request(url, headers=headers)
+    connection = urllib2.urlopen(request)
+    data = connection.read()
+    encoding = connection.headers['content-type'].lower().split('charset=')[-1]
+    encoding = charade.detect(data)['encoding']
+ 
     extr = Extractor(extractor='ArticleExtractor', url=url)
-    return extr.getText()
+    return extr.getText().encode(encoding).decode('iso-8859-15')
 
 def years_extract(url):
     with request.urlopen(url) as response:
@@ -47,8 +60,13 @@ def paragraph_match(p):
 def extract_url_and_date(p):
     anchors = p.find_all('a')
     url = 'http://graswurzel.net' + anchors[0].get('href', '')
-    date_str = p.find_all('span')[0].text
-    return (url, text_to_date(date_str))
+
+    spans = p.find_all('span')
+    if len(spans) > 0:
+        date_str = p.find_all('span')[0].text
+        return (url, text_to_date(date_str))
+    else:
+        return (url, "1970-01-01")
     
 def months_extract(url):
     with request.urlopen(url) as response:
