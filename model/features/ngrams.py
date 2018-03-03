@@ -7,7 +7,7 @@ def ngrams(articles,n):
 	stops=set(stopwords.words('german'))
 	ngrams=[]
 	for article in articles:
-		tokens=re.split('\W',article.lower())
+		tokens=re.split('\W',article)#.lower())
 		uni=[x for x in tokens if not x in [""," ","\n"]]
 		start=0
 		end=n
@@ -16,6 +16,7 @@ def ngrams(articles,n):
 # if intersection of stopwords and ngram words is not empty, ignore ngram, otherwise, add to list of ngrams
 			if stops & set(ngram) == set():
 				ngrams.append(tuple(ngram))
+				print(ngram)
 			start+=1
 			end+=1			
 	ngramdict={}	
