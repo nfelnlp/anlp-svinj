@@ -15,11 +15,16 @@ argParser = argparse.ArgumentParser(description="Train and test a political clas
 #choose features to use
 argParser.add_argument('-f', nargs='*', choices=["ngrams", "named_ents", "sentiment", "artlen", "sentlen", "POS", "quoted"])
 #choose number of named entities to use
-argParser.add_argument('-n')
+argParser.add_argument('-n', default=200)
 #decide, whether to use short corpus
 argParser.add_argument('-s', choices=['yes','no','y','n'])
 #decide, whether to use test set from outlets unseen in training
 argParser.add_argument('-u', choices=['yes','no','y','n'])
+#set number of unigrams
+argParser.add_argument('-1', default=10000)
+#set number of bigrams
+argParser.add_argument('-2', default=2000)
+
 
 
 
@@ -61,10 +66,9 @@ def split_X_and_y(data):
 
 def train(data, clf, args):
     print("Features: " + str(args['f']))
-    if 'named_ents' in args['f'] and args['n'] is None:
-        print("Number of named entities: 200")
-    elif 'named_ents' in args['f']:
-        print("Number of named entities: " + str(args['n']))
+    print("Number of named entities: " + str(args['n']))
+    print("Number of unigrams: " + str(args['1']))
+    print("Number of bigrams: " + str(args['2']))
     print()
 
     
@@ -105,7 +109,6 @@ if __name__ == "__main__":
     else:
         small_dataset = True
 
-    #if args['f'] is None:
     use_ngrams = False
     use_named_ents = False
     use_sentiment = False
@@ -135,10 +138,10 @@ if __name__ == "__main__":
     else:
         unseen = False
 
-    try:
-        ne_number = int(args['n'])
-    except:
-        ne_number = 200
+    ne_number = int(args['n'])
+
+    uni_number = int(args['1'])
+    bi_number = int(args['2'])
 
     # Parse the datasets
 
@@ -175,7 +178,7 @@ if __name__ == "__main__":
     if use_quoted:
         data = quoted.add_feature(data)
     if use_ngrams:
-        data = ngrams.add_feature(data)
+        data = ngrams.add_feature(data, uni_number, bi_number)
     
 
 
