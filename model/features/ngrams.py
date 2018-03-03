@@ -29,12 +29,12 @@ def ngrams(articles,n):
 	return ngramdict_sorted
 
 
-def add_feature(df):
+def add_feature(df,uni_no,bi_no):
 	list_of_vectors=[]
 	df_train=df[df["split"]=="train"]
 	articles_train=df_train["text"].tolist()
-	unigrams_train=ngrams(articles_train,1)[-10000:]
-	bigrams_train=ngrams(articles_train,2)[-2000:]
+	unigrams_train=ngrams(articles_train,1)[-uni_no:]
+	bigrams_train=ngrams(articles_train,2)[-bi_no:]
 	most_common_ngrams=[x for x,y in unigrams_train]+[x for x,y in bigrams_train]
 	articles=df["text"].tolist()
 	c=1
