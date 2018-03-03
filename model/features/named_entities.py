@@ -18,11 +18,9 @@ def add_feature(df, ne_number):
     train_paths = train_df["file"].tolist()
 
     entity_dict_list = []
-    for n, (art, path) in enumerate(zip(train_articles, train_paths)):
+    for art, path in zip(train_articles, train_paths):
         entities_dict = all_named_entities(art, path)
         entity_dict_list.append(entities_dict)
-        if n % 100 == 0:
-            print(n)
 
     most_common_ne, entities = most_common_entities(entity_dict_list, ne_number)
 
@@ -38,11 +36,9 @@ def add_feature(df, ne_number):
     test_paths = test_df["file"].tolist()
 
     entities = []
-    for n, (art, path) in enumerate(zip(test_articles, test_paths)):
+    for art, path in zip(test_articles, test_paths):
         occurences = extract_named_entities(most_common_ne, art, path)
         entities.append(occurences)
-        if n % 100 == 0:
-            print(n)
 
     ne_features_test = pd.DataFrame(entities)
 
