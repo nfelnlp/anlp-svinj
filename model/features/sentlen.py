@@ -25,6 +25,6 @@ def add_feature(df):
 	for filename in articles:
 		list1 = (count(filename))
 		sent_length.append(list1)	
-		df["sent_len"] = pd.Series(sent_length)
+	df["sent_len"] = pd.Series(sent_length)
 	return df
 
