@@ -3,12 +3,14 @@ import argparse
 
 from sklearn import metrics
 from sklearn import tree
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer, TfidfTransformer
 from sklearn.linear_model import SGDClassifier
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.utils import shuffle
 
 import baseline as base
+from features import sentiment, named_entities, ngrams, quoted, artlen, sentlen, pos_tags
 
 #add command line arguments
 argParser = argparse.ArgumentParser(description="Train and test a political classifier for texts")
@@ -26,17 +28,15 @@ argParser.add_argument('-1', default=10000)
 argParser.add_argument('-2', default=2000)
 
 
-
-
-
-from features import sentiment, named_entities, ngrams, quoted, artlen, sentlen, pos_tags
-
 def build_subset(subset, sid, split):
-    # Read all files of a subset
+    # Create DataFrame
     df = pd.DataFrame()
+
+    # Read all files of a subset
     files = [row[0] for row in subset]
     articles = [open(f).read() for f in files]
 
+    # Fill DataFrame with columns
     df['text'] = articles
     df['file'] = files
     df['label'] = sid
@@ -46,12 +46,13 @@ def build_subset(subset, sid, split):
 
 
 def build_corpus(train_L, train_R, test_L, test_R):
+    # Create a DataFrame for each subset
     train_L = build_subset(train_L, sid="0", split="train")
     train_R = build_subset(train_R, sid="1", split="train")
     test_L = build_subset(test_L, sid="0", split="test")
     test_R = build_subset(test_R, sid="1", split="test")
 
-    # Combine all corpora and shuffle it
+    # Combine all subsets and shuffle the resulting DataFrame
     data = pd.concat([train_L, train_R, test_L, test_R])
     data = shuffle(data).reset_index(drop=True)
 
@@ -59,6 +60,7 @@ def build_corpus(train_L, train_R, test_L, test_R):
 
 
 def split_X_and_y(data):
+    # Split the label column from the rest
     X = data.drop(['label'], axis=1)
     y = data['label']
     return X, y
@@ -71,7 +73,6 @@ def train(data, clf, args):
     print("Number of bigrams: " + str(args['2']))
     print()
 
-    
     # Untangle data
     train_data = data[data['split'] == "train"]
     test_data = data[data['split'] == "test"]
@@ -102,7 +103,7 @@ def train(data, clf, args):
 
 
 if __name__ == "__main__":
-
+    # Argument parsing
     args = vars(argParser.parse_args())
     if args['s'] is None or args['s'] == 'no' or args['s'] == 'n':
         small_dataset = False
@@ -117,6 +118,7 @@ if __name__ == "__main__":
     use_POS = False
     use_quoted = False
 
+    # Feature selection
     if args['f'] is not None:
         if "ngrams" in args['f']:
             use_ngrams = True
@@ -133,6 +135,7 @@ if __name__ == "__main__":
         if "quoted" in args['f']:
             use_quoted = True
 
+    # Select test set
     if args['u'] is None or args['u'] == 'yes' or args['u'] == 'y':
         unseen = True
     else:
@@ -164,7 +167,7 @@ if __name__ == "__main__":
     data = build_corpus(left_wing_train, right_wing_train,
                         left_wing_test, right_wing_test)
 
-    # Add features
+    # Add features based on arguments
     if use_POS:
         data = pos_tags.add_feature(df=data)  # POS tag feature
     if use_named_ents:
@@ -179,9 +182,6 @@ if __name__ == "__main__":
         data = quoted.add_feature(data)
     if use_ngrams:
         data = ngrams.add_feature(data, uni_number, bi_number)
-    
-
-
     
     # Select classifier and train
     clf = tree.DecisionTreeClassifier()

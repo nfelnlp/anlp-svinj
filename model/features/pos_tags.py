@@ -27,15 +27,22 @@ def annotate_with_pos(articles, tagger):
 
     for art in articles:
         tokenized_art = []
+
+        # Tokenize by word
         for sent in art.split('\n'):
             tokenized_art += word_tokenize(sent)
         tg_input = "\n".join([t for t in tokenized_art])
 
+        # Apply tagger
         tg_output = tagger.tag_text(tg_input)
 
+        # Receive tags for each word, exclude URLs and similar
         anno = treetaggerwrapper.make_tags(tg_output, exclude_nottags=True)
 
         pos_dict = defaultdict(int)
+
+        # Count the POS tag occurences
+        # NOTE: Saving the list of tags caused memory errors.
         for a in anno:
             pos_dict[a[1]] += 1
 
@@ -44,4 +51,5 @@ def annotate_with_pos(articles, tagger):
     vec = DictVectorizer()
     pos_vectorized = vec.fit_transform(all_pos)
 
-    return pos_vectorized.toarray() #[:, 0:5]
+    # Convert the dictionary to feature matrix
+    return pos_vectorized.toarray()
