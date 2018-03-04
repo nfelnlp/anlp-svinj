@@ -1,0 +1,2 @@
+This directory contains our collected data. There is a directory for each of the newspapers we used. In each of the directories there is a webcrawler to extract articles, a directory containing the extracted articles, and a csv file containing files paths, urls, and meta-data about the articles.
+Additionally, the data directory contains subdirectories called test and train. These contain csv files where the articles are sorted into train and test corpora.

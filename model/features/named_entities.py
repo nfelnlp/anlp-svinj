@@ -24,6 +24,7 @@ def add_feature(df, ne_number):
 
     most_common_ne, entities = most_common_entities(entity_dict_list, ne_number)
 
+
     ne_features_train = pd.DataFrame(entities)
 
     train_df.reset_index(drop=True, inplace=True)
@@ -41,6 +42,7 @@ def add_feature(df, ne_number):
         entities.append(occurences)
 
     ne_features_test = pd.DataFrame(entities)
+
 
     test_df.reset_index(drop=True, inplace=True)
     ne_features_test.reset_index(drop=True, inplace=True)
@@ -122,7 +124,7 @@ def all_named_entities(article, path=None):
     
 
 #extracts ony the entities in article that appear in entity_list
-#end returns list with number of occurences for each of these
+#and returns list with number of occurences for each of these
 def extract_named_entities(entity_list, article, path):
 
     zeroize = lambda x: (x,0)
@@ -140,6 +142,7 @@ def extract_named_entities(entity_list, article, path):
     
     return occurence_list
 
+#extracts the string corresponding to a named entity from a string
 def extract_chunk_string(entity, article):
     start = entity.start
     end = entity.end
@@ -200,7 +203,8 @@ def most_common_entities(entity_dict_list, number=200):
 
     return most_common_ne, entity_vecs
                 
-
+#get a list of the most common entities out of a dict
+#with entities as keys and their frequencies as values
 def get_most_common(entity_dict, number=200):
     entity_list = []
     for entity, occurences in entity_dict.items():
