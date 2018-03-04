@@ -16,7 +16,6 @@ def ngrams(articles,n):
 # if intersection of stopwords and ngram words is not empty, ignore ngram, otherwise, add to list of ngrams
 			if stops & set(ngram) == set():
 				ngrams.append(tuple(ngram))
-				print(ngram)
 			start+=1
 			end+=1			
 	ngramdict={}	
