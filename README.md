@@ -1,6 +1,6 @@
-#Political text classification
+# Political text classification
 
-##ANLP group project 2017/18
+## ANLP group project 2017/18
 
 A classifier for radically right- and left-wing texts.
 
