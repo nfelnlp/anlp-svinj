@@ -1,0 +1,409 @@
+200 most common unigrams:
+
+no		word, no of occurences
+
+1		Die: 37778
+2		dass: 30182
+3		Das: 18319
+4		Der: 15295
+5		mehr: 13613
+6		Sie: 12964
+7		Quelle: 11285
+8		Es: 10694
+9		In: 9875
+10		Deutschland: 9529
+11		wurde: 9243
+12		Und: 8569
+13		Menschen: 8214
+14		immer: 8121
+15		Prozent: 7271
+16		EU: 7219
+17		schon: 6992
+18		sei: 6807
+19		gibt: 6672
+20		Jahren: 6434
+21		Euro: 6093
+22		the: 6015
+23		seit: 5611
+24		SPD: 5428
+25		geht: 5392
+26		Wir: 5360
+27		US: 5341
+28		Jahr: 5314
+29		Ein: 5168
+30		Im: 5038
+31		USA: 4807
+32		Aber: 4742
+33		Ich: 4741
+34		Regierung: 4733
+35		wurden: 4724
+36		viele: 4677
+37		Politik: 4649
+38		Er: 4449
+39		Wenn: 4403
+40		Welt: 4398
+41		Auch: 4382
+42		Jahre: 4311
+43		Anmerkung: 4212
+44		müssen: 4186
+45		Doch: 4136
+46		Zeit: 4118
+47		Wie: 4051
+48		heute: 4048
+49		Was: 3997
+50		000: 3971
+51		deutschen: 3944
+52		So: 3858
+53		Eine: 3818
+54		etwa: 3797
+55		of: 3782
+56		ganz: 3776
+57		Europa: 3751
+58		Millionen: 3740
+59		zwei: 3725
+60		neue: 3659
+61		ja: 3656
+62		Land: 3653
+63		Ende: 3557
+64		wäre: 3502
+65		Mit: 3491
+66		bereits: 3371
+67		gut: 3280
+68		sagt: 3279
+69		dafür: 3270
+70		1: 3233
+71		Medien: 3166
+72		Trump: 3162
+73		sagte: 3074
+74		Partei: 3067
+75		neuen: 3033
+76		Frage: 2994
+77		denen: 2933
+78		Für: 2917
+79		beim: 2916
+80		worden: 2870
+81		dabei: 2865
+82		Diese: 2854
+83		Berlin: 2850
+84		deutsche: 2829
+85		jedoch: 2816
+86		to: 2807
+87		ab: 2805
+88		Geld: 2787
+89		2015: 2782
+90		and: 2774
+91		sollen: 2774
+92		gar: 2763
+93		Bundesregierung: 2758
+94		kommt: 2749
+95		steht: 2746
+96		2016: 2724
+97		Fall: 2722
+98		Arbeit: 2694
+99		Unternehmen: 2659
+100		Nach: 2656
+101		a: 2637
+102		Man: 2636
+103		lassen: 2630
+104		Russland: 2626
+105		Milliarden: 2620
+106		Merkel: 2613
+107		Als: 2594
+108		Von: 2585
+109		2: 2576
+110		weniger: 2563
+111		drei: 2554
+112		kommen: 2548
+113		Wer: 2538
+114		politischen: 2529
+115		erst: 2529
+116		gerade: 2525
+117		Staaten: 2495
+118		Gesellschaft: 2456
+119		sogar: 2424
+120		mal: 2412
+121		großen: 2406
+122		davon: 2402
+123		ersten: 2385
+124		sowie: 2379
+125		Flüchtlinge: 2378
+126		seien: 2376
+127		halten: 2360
+128		kaum: 2353
+129		Denn: 2353
+130		Staat: 2351
+131		Bei: 2344
+132		Präsident: 2341
+133		Teil: 2334
+134		tun: 2329
+135		fast: 2325
+136		deren: 2320
+137		Krieg: 2311
+138		gab: 2291
+139		vergangenen: 2281
+140		politische: 2280
+141		macht: 2279
+142		AfD: 2271
+143		Auf: 2234
+144		später: 2222
+145		heißt: 2213
+146		letzten: 2212
+147		wegen: 2190
+148		CDU: 2188
+149		wenig: 2175
+150		darauf: 2175
+151		eigenen: 2172
+152		Dass: 2169
+153		Beispiel: 2155
+154		sagen: 2119
+155		Da: 2114
+156		einfach: 2113
+157		Frauen: 2110
+158		deutlich: 2110
+159		hätte: 2094
+160		3: 2085
+161		zeigt: 2071
+162		20: 2068
+163		wohl: 2048
+164		Leben: 2045
+165		liegt: 2042
+166		5: 2041
+167		eigentlich: 2029
+168		große: 2028
+169		allerdings: 2008
+170		rund: 2001
+171		s: 1977
+172		2017: 1968
+173		Thema: 1966
+174		vielen: 1964
+175		Syrien: 1956
+176		gemacht: 1943
+177		sehen: 1926
+178		2014: 1885
+179		geben: 1885
+180		gehen: 1884
+181		Demokratie: 1876
+182		Am: 1864
+183		lässt: 1855
+184		Kritik: 1855
+185		Deutschen: 1839
+186		gegenüber: 1831
+187		oft: 1830
+188		de: 1826
+189		Griechenland: 1824
+190		sieht: 1820
+191		Bevölkerung: 1817
+192		hätten: 1815
+193		Geschichte: 1810
+194		Dabei: 1808
+195		Bild: 1771
+196		lange: 1769
+197		nie: 1767
+198		wirklich: 1763
+199		genau: 1761
+200		Wirtschaft: 1759
+
+200 most common bigrams:
+
+no		bigram, no of occurences
+
+1		Milliarden Euro: 1514
+2		Es gibt: 1253
+3		Hartz IV: 1136
+4		Millionen Euro: 926
+5		Angela Merkel: 924
+6		Donald Trump: 922
+7		of the: 820
+8		EU Kommission: 784
+9		Christian Reimann: 738
+10		Anmerkung Christian: 738
+11		immer mehr: 736
+12		Jens Berger: 669
+13		Anmerkung JK: 663
+14		Es geht: 660
+15		Vielleicht später: 654
+16		Wenn Sie: 649
+17		Lesers J: 643
+18		seit Jahren: 630
+19		Spiegel Online: 604
+20		J A: 599
+21		New York: 588
+22		Fall dass: 562
+23		weisen Sie: 553
+24		bitte Ihre: 552
+25		schnellen Information: 551
+26		Ihre Bekannten: 551
+27		hilfreich halten: 551
+28		Quelle Telepolis: 547
+29		Online Anmerkung: 546
+30		Quelle Deutschlandfunk: 541
+31		z B: 535
+32		vergangenen Jahr: 524
+33		nötig halten: 523
+34		Vorbemerkung Wir: 522
+35		Selbstverständlich bedeutet: 521
+36		halten Selbstverständlich: 521
+37		Wir kommentieren: 521
+38		000 Euro: 508
+39		Texte einverstanden: 504
+40		jeweiligen Texte: 504
+41		Martin Schulz: 501
+42		Saudi Arabien: 491
+43		DIE LINKE: 490
+44		Die Bundesregierung: 480
+45		Getty Images: 473
+46		Vereinigten Staaten: 470
+47		Die EU: 470
+48		Sigmar Gabriel: 468
+49		Millionen Menschen: 461
+50		Quelle Spiegel: 448
+51		Anmerkung Jens: 448
+52		Sahra Wagenknecht: 445
+53		Agenda 2010: 438
+54		dafür dass: 424
+55		Die SPD: 417
+56		u a: 410
+57		Die Linke: 401
+58		Albrecht Müller: 398
+59		US Präsident: 397
+60		000 Menschen: 391
+61		In Deutschland: 390
+62		Dieser Artikel: 388
+63		Die aktuelle: 383
+64		Hillary Clinton: 381
+65		Quelle FAZ: 376
+66		Artikel erschien: 368
+67		aktuelle Ausgabe: 362
+68		CDU CSU: 361
+69		sichern Sie: 359
+70		3 Wochen: 357
+71		erhalten Sie: 357
+72		vergangenen Jahren: 356
+73		Wochen gratis: 355
+74		Oder sichern: 355
+75		Kiosk Oder: 355
+76		Freitag erhalten: 355
+77		5 Prozent: 353
+78		Europäischen Union: 346
+79		viele Menschen: 340
+80		zwei Jahren: 329
+81		Wir müssen: 318
+82		Die meisten: 316
+83		zehn Jahren: 316
+84		Quelle taz: 314
+85		Quelle Süddeutsche: 311
+86		AFP Getty: 308
+87		Wolfgang Schäuble: 302
+88		Es gab: 300
+89		Es sei: 300
+90		ver di: 298
+91		junge Welt: 297
+92		Milliarden Dollar: 296
+93		letzten Jahren: 296
+94		US Dollar: 295
+95		IG Metall: 292
+96		US amerikanischen: 292
+97		schon seit: 291
+98		daran dass: 290
+99		klar dass: 289
+100		Jungle World: 286
+101		Fake News: 283
+102		Zeit Online: 282
+103		Bernie Sanders: 278
+104		Die NachDenkSeiten: 275
+105		to the: 268
+106		Le Pen: 268
+107		Quelle junge: 267
+108		US Regierung: 267
+109		Jahre später: 267
+110		Jahre lang: 267
+111		ersten Mal: 264
+112		40 Prozent: 264
+113		Die Zahl: 263
+114		Die USA: 262
+115		pro Jahr: 261
+116		Uhr Verantwortlich: 260
+117		darauf dass: 259
+118		Nahen Osten: 258
+119		Quelle Zeit: 257
+120		Baden Württemberg: 255
+121		Tatsache dass: 255
+122		Das geht: 254
+123		de Maizière: 254
+124		20 Prozent: 253
+125		schon lange: 252
+126		Süddeutsche Zeitung: 250
+127		FAZ Anmerkung: 248
+128		Audio Podcast: 248
+129		Jeremy Corbyn: 246
+130		EU Staaten: 246
+131		Es wäre: 246
+132		erster Linie: 244
+133		100 000: 240
+134		and the: 240
+135		Vereinten Nationen: 239
+136		20 Jahren: 239
+137		Barack Obama: 238
+138		5 Millionen: 238
+139		mehr Menschen: 237
+140		Die Regierung: 237
+141		Paul Schreyer: 235
+142		Euro pro: 234
+143		Das heißt: 234
+144		Im Jahr: 231
+145		Die deutsche: 228
+146		guter Letzt: 227
+147		Das Problem: 227
+148		on the: 224
+149		Die Frage: 224
+150		Jahre alt: 223
+151		zeigen dass: 223
+152		30 Prozent: 222
+153		Große Koalition: 221
+154		Bundeskanzlerin Angela: 221
+155		Oskar Lafontaine: 220
+156		Wir brauchen: 218
+157		York Times: 217
+158		Foreign Policy: 216
+159		Wall Street: 215
+160		Andrea Nahles: 212
+161		2 Prozent: 212
+162		Nordrhein Westfalen: 211
+163		zeigt dass: 211
+164		7 Prozent: 211
+165		via Facebook: 211
+166		Deutsche Bank: 208
+167		Ich glaube: 207
+168		50 Prozent: 207
+169		zehn Prozent: 207
+170		Im Gegenteil: 207
+171		mehr Geld: 207
+172		4 Prozent: 207
+173		Emmanuel Macron: 207
+174		fünf Jahren: 205
+175		Die AfD: 205
+176		Europäische Union: 205
+177		Großen Koalition: 203
+178		Quelle Die: 203
+179		zwei Jahre: 202
+180		Quelle Tagesschau: 202
+181		1 000: 201
+182		Zu guter: 201
+183		US amerikanische: 200
+184		6 Prozent: 199
+185		Böckler Stiftung: 197
+186		Jahr 2015: 197
+187		German Foreign: 196
+188		Quelle German: 196
+189		5 Milliarden: 196
+190		Am Ende: 196
+191		Fraktion DIE: 196
+192		drei Jahren: 196
+193		wissen dass: 195
+194		Hans Böckler: 193
+195		De Masi: 193
+196		Das wäre: 192
+197		Gerhard Schröder: 191
+198		sagen dass: 190
+199		Darüber hinaus: 189
+200		10 000: 188

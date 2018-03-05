@@ -1,0 +1,409 @@
+200 most common unigrams:
+
+no		word, no of occurences
+
+1		Die: 22081
+2		dass: 11253
+3		Der: 10757
+4		Das: 10380
+5		Sie: 10246
+6		wurde: 7985
+7		mehr: 7446
+8		Deutschland: 6910
+9		Es: 6830
+10		In: 5755
+11		Und: 5433
+12		immer: 5203
+13		schon: 5065
+14		sei: 4486
+15		Menschen: 4436
+16		Ich: 4358
+17		gibt: 4091
+18		Wir: 3945
+19		Er: 3607
+20		Jahren: 3537
+21		Jahre: 3398
+22		Ein: 3385
+23		wurden: 3297
+24		Im: 3287
+25		deutschen: 3262
+26		Mann: 3247
+27		EU: 3195
+28		Frau: 3142
+29		heute: 3121
+30		COMPACT: 3048
+31		Aber: 3023
+32		AfD: 3016
+33		Auch: 2986
+34		seit: 2957
+35		1: 2922
+36		Zeit: 2905
+37		Welt: 2862
+38		Prozent: 2833
+39		ja: 2714
+40		Land: 2693
+41		Europa: 2688
+42		Polizei: 2679
+43		Was: 2661
+44		ganz: 2655
+45		geht: 2653
+46		Wie: 2647
+47		bereits: 2645
+48		Wenn: 2630
+49		zwei: 2620
+50		müssen: 2578
+51		Eine: 2516
+52		worden: 2516
+53		etwa: 2489
+54		Partei: 2448
+55		US: 2416
+56		So: 2376
+57		Politik: 2358
+58		USA: 2328
+59		000: 2275
+60		deutsche: 2263
+61		Als: 2242
+62		CDU: 2153
+63		Diese: 2145
+64		Deutschen: 2139
+65		wäre: 2136
+66		gar: 2108
+67		Regierung: 2080
+68		Jahr: 2079
+69		Frage: 2078
+70		viele: 2069
+71		ab: 2031
+72		Ende: 2024
+73		Euro: 1998
+74		Merkel: 1994
+75		sogar: 1993
+76		Mit: 1931
+77		politischen: 1920
+78		Man: 1909
+79		Doch: 1900
+80		jedoch: 1886
+81		lassen: 1881
+82		Nach: 1880
+83		Uhr: 1873
+84		dabei: 1868
+85		eigenen: 1867
+86		neue: 1865
+87		Islam: 1851
+88		denen: 1844
+89		neuen: 1842
+90		2: 1835
+91		gut: 1833
+92		Frauen: 1832
+93		20: 1828
+94		konnte: 1826
+95		erst: 1816
+96		deren: 1775
+97		Millionen: 1774
+98		Medien: 1764
+99		Am: 1718
+100		Gesellschaft: 1713
+101		drei: 1709
+102		2017: 1704
+103		Wer: 1703
+104		Berlin: 1702
+105		wegen: 1694
+106		gegenüber: 1679
+107		SPD: 1672
+108		dafür: 1672
+109		muß: 1646
+110		mal: 1643
+111		Fall: 1641
+112		beim: 1633
+113		steht: 1627
+114		kommt: 1626
+115		kommen: 1625
+116		gab: 1622
+117		hätte: 1618
+118		Da: 1593
+119		politische: 1586
+120		davon: 1581
+121		sollen: 1571
+122		Von: 1567
+123		sowie: 1558
+124		wohl: 1555
+125		tun: 1544
+126		Geschichte: 1542
+127		Täter: 1540
+128		Krieg: 1539
+129		Staat: 1534
+130		Bei: 1533
+131		Kinder: 1510
+132		letzten: 1496
+133		3: 1490
+134		Für: 1485
+135		Auf: 1479
+136		Leben: 1466
+137		gerade: 1453
+138		Staaten: 1452
+139		darauf: 1433
+140		Beispiel: 1431
+141		sagen: 1427
+142		Männer: 1427
+143		seien: 1419
+144		kam: 1410
+145		sagte: 1401
+146		heißt: 1395
+147		sehen: 1387
+148		Opfer: 1376
+149		Volk: 1366
+150		Teil: 1365
+151		Recht: 1357
+152		unserer: 1356
+153		natürlich: 1355
+154		nie: 1354
+155		allerdings: 1350
+156		ersten: 1340
+157		macht: 1337
+158		geben: 1337
+159		später: 1334
+160		gemacht: 1332
+161		Denn: 1315
+162		de: 1313
+163		30: 1303
+164		Art: 1287
+165		Bürger: 1277
+166		fast: 1276
+167		beiden: 1275
+168		Hier: 1272
+169		Politiker: 1267
+170		einfach: 1252
+171		hätten: 1247
+172		Trump: 1242
+173		5: 1241
+174		großen: 1235
+175		Russland: 1210
+176		Nicht: 1204
+177		kaum: 1204
+178		Seite: 1189
+179		wirklich: 1171
+180		gilt: 1162
+181		eben: 1159
+182		stehen: 1157
+183		Weg: 1156
+184		Tag: 1149
+185		eigentlich: 1141
+186		damals: 1138
+187		Demokratie: 1135
+188		vielen: 1124
+189		gehen: 1124
+190		weniger: 1119
+191		Flüchtlinge: 1111
+192		2016: 1110
+193		wissen: 1108
+194		Dr: 1107
+195		Dabei: 1100
+196		Präsident: 1097
+197		Arbeit: 1094
+198		liegt: 1088
+199		2015: 1082
+200		weitere: 1080
+
+200 most common bigrams:
+
+no		bigram, no of occurences
+
+1		Es gibt: 861
+2		Jahre alt: 582
+3		Angela Merkel: 443
+4		http www: 391
+5		unterstützen Sie: 386
+6		Die Polizei: 359
+7		Es geht: 353
+8		immer mehr: 352
+9		Der Mann: 339
+10		30 Uhr: 326
+11		PI NEWS: 323
+12		z B: 322
+13		Unterstützen Sie: 312
+14		Wir müssen: 289
+15		Vereinigten Staaten: 281
+16		junge Frau: 269
+17		Prof Dr: 264
+18		Milliarden Euro: 257
+19		00 Uhr: 253
+20		Donald Trump: 239
+21		cm groß: 236
+22		000 Euro: 229
+23		a D: 223
+24		Ich glaube: 222
+25		seit Jahren: 222
+26		Jürgen Elsässer: 216
+27		Bestmöglich unterstützen: 216
+28		Es gab: 209
+29		Frau Merkel: 205
+30		New York: 201
+31		Millionen Euro: 196
+32		Bundesrepublik Deutschland: 194
+33		Die AfD: 193
+34		erster Linie: 190
+35		https www: 189
+36		US Präsident: 189
+37		Le Pen: 186
+38		Kultur Gesellschaft: 186
+39		Die Frau: 177
+40		u a: 177
+41		International 0: 177
+42		Europäischen Union: 176
+43		Die Frage: 175
+44		30 Jahre: 174
+45		5 Millionen: 173
+46		In Deutschland: 173
+47		zwei Jahren: 173
+48		Der Täter: 173
+49		Zweiten Weltkrieg: 171
+50		Jahre später: 169
+51		schon seit: 166
+52		CDU CSU: 165
+53		Es sei: 160
+54		20 Prozent: 159
+55		Millionen Menschen: 157
+56		Saudi Arabien: 157
+57		dafür dass: 157
+58		finden Sie: 157
+59		1 2017: 155
+60		Die EU: 153
+61		Das heißt: 152
+62		COMPACT Spezial: 152
+63		Die meisten: 151
+64		Die beiden: 151
+65		darüber hinaus: 150
+66		Der Islam: 149
+67		letzten Jahren: 149
+68		Die Welt: 148
+69		Martin Schulz: 147
+70		COMPACT Magazin: 147
+71		Im Gegenteil: 142
+72		Nahen Osten: 141
+73		zehn Jahren: 141
+74		Die USA: 141
+75		schon lange: 140
+76		jährige Frau: 140
+77		20 Jahre: 139
+78		i R: 138
+79		1 000: 138
+80		25 Jahre: 137
+81		Baden Württemberg: 137
+82		EU Kommission: 137
+83		15 Uhr: 133
+84		Die deutsche: 132
+85		wurde Die: 128
+86		International 1: 128
+87		Am Ende: 126
+88		10 000: 125
+89		Jahre alte: 125
+90		schon mal: 125
+91		Man muß: 124
+92		000 Menschen: 123
+93		bekannt wurde: 123
+94		Jahre lang: 122
+95		vergangenen Jahr: 121
+96		Fake News: 121
+97		ehrlichen Journalismus: 120
+98		Ich denke: 120
+99		Die Menschen: 120
+100		Helmut Kohl: 119
+101		Michael Stürzenberger: 119
+102		Wenn Sie: 119
+103		Es handelt: 119
+104		jungen Männern: 119
+105		Sie ehrlichen: 118
+106		20 Uhr: 118
+107		100 000: 118
+108		US Dollar: 118
+109		wissen dass: 117
+110		ersten Mal: 117
+111		worden Die: 117
+112		Meter groß: 116
+113		COMPACT wendet: 116
+114		Jahre alten: 116
+115		Vereinten Nationen: 116
+116		klar dass: 115
+117		Nordrhein Westfalen: 115
+118		Frauke Petry: 114
+119		Europäische Union: 114
+120		Das gilt: 113
+121		Ernst Jünger: 113
+122		deutsche Volk: 113
+123		Wir brauchen: 113
+124		45 Uhr: 113
+125		Darüber hinaus: 112
+126		Die Grünen: 112
+127		folgt beschrieben: 112
+128		Zum Beispiel: 111
+129		Die CDU: 110
+130		35 Jahren: 110
+131		Es wäre: 109
+132		schon immer: 109
+133		viele Menschen: 109
+134		Tatsache dass: 108
+135		seit Jahrzehnten: 108
+136		11 September: 107
+137		Bild Zeitung: 106
+138		Nach Angaben: 105
+139		Ich möchte: 105
+140		George Soros: 105
+141		Die neue: 104
+142		worden sei: 103
+143		Hier abschließen: 102
+144		E Mail: 102
+145		JUNGEN FREIHEIT: 102
+146		Sie COMPACT: 102
+147		zwei Jahre: 101
+148		Marine Le: 101
+149		20 Jahren: 101
+150		Haben Sie: 100
+151		EU Staaten: 100
+152		Hillary Clinton: 99
+153		Er wurde: 99
+154		drei Jahren: 99
+155		5 Prozent: 98
+156		Kalten Krieges: 98
+157		etwa 1: 98
+158		Die Deutschen: 98
+159		Ich weiß: 98
+160		vergangenen Jahren: 98
+161		2 2017: 97
+162		US Regierung: 97
+163		Abo Hier: 97
+164		3 Prozent: 97
+165		Das Opfer: 97
+166		2 000: 96
+167		lange Zeit: 96
+168		geht s: 96
+169		Wladimir Putin: 96
+170		Schleswig Holstein: 96
+171		eigenen Land: 96
+172		erst recht: 96
+173		d h: 95
+174		Björn Höcke: 95
+175		Jahr 2017: 95
+176		T Shirt: 94
+177		40 Jahre: 94
+178		zehn Prozent: 94
+179		junge Männer: 93
+180		etablierten Parteien: 93
+181		Konrad Adenauer: 92
+182		zehn Jahre: 92
+183		Die Zeit: 92
+184		20 000: 92
+185		pro Jahr: 91
+186		sexuell belästigt: 91
+187		Helmut Schmidt: 90
+188		Tage später: 90
+189		Im Gegensatz: 90
+190		Milliarden Dollar: 90
+191		Prozent mehr: 89
+192		Das Problem: 88
+193		dass Sie: 88
+194		ganz klar: 87
+195		International 2: 87
+196		International 3: 87
+197		Der Unbekannte: 87
+198		20 Jahrhunderts: 87
+199		Front National: 86
+200		Facebook Seite: 86
