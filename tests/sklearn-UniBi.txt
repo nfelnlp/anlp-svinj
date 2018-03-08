@@ -1,0 +1,89 @@
+Reading: ../data/train/left_wing_train.csv
+3838 rows read
+
+Reading: ../data/train/right_wing_train.csv
+3802 rows read
+
+Reading: ../data/test/true_left_wing_test.csv
+554 rows read
+
+Reading: ../data/test/true_right_wing_test.csv
+832 rows read
+
+Features: n-grams (sklearn)
+             precision    recall  f1-score   support
+
+          0       0.72      0.90      0.80       554
+          1       0.92      0.77      0.84       832
+
+avg / total       0.84      0.82      0.83      1386
+
+[[500  54]
+ [191 641]]
+
+ Accuracy: 0.8232323232323232 
+
+                                                   text pred label
+11    Die Shariah wird als den totalen Ausschluß der...    1     0
+29    Damit unser Organ sich auch weiterhin         ...    1     0
+34    Rechtliche Hinweise\nNicht der Macht der Konze...    0     1
+38    Der Politikwissenschaftler Jürgen Wagner vermi...    1     0
+63    Rechtliche Hinweise\nTTIP muss unbedingt verhi...    0     1
+90    “Christopher-Street-Day” in Berlin: Evangelisc...    0     1
+143   Eine weitere Etappe auf dem Weg der Überfremdu...    0     1
+221   Anschlag in Düsseldorf: „Verfassungsschutz“ ha...    0     1
+232   Rechtliche Hinweise\nDie Bundeswehr darf keine...    0     1
+237   Rechtliche Hinweise\nWer vom Islamismus sprich...    0     1
+242   Berlin außer Kontrolle?\nOsteuropäische Einwan...    0     1
+269   Staatsmedien brauchen mehr Geld\nDer Medienmaf...    0     1
+300   Führt Rekord-Zuwanderung auch zu Rekord-Armut?...    0     1
+311   Während des Krieges war es die Aufgabe        ...    1     0
+340   Rechtliche Hinweise\n„Solidarität mit den VW-A...    0     1
+380   Der Eier-Skandal zeigt: es braucht Alternative...    0     1
+394   Eigentlich müssten sie nur noch               ...    1     0
+396   Rechtliche Hinweise\nVorbereitungen auf die nä...    0     1
+402   Rechtliche Hinweise\nRechtsstaatlichkeit statt...    0     1
+438   Rechtliche Hinweise\nDas Boot ist voll – Famil...    0     1
+463   Rechtliche Hinweise\nHandball-EM: Wintersinfon...    0     1
+488   Diese Erfahrung                  machte Alfred...    1     0
+539   Statt dem versprochenen neuen Stück gab es das...    1     0
+548   Die Asylantenumsorgung ist ein Fass ohne Boden...    0     1
+578   Wolfgang Schäuble – Erfüllungsgehilfe des fran...    0     1
+613   Das demonstrativ zur Schau gestellte Selbstver...    1     0
+652   Die Ausrede von den schwarzen Schafen ist nich...    1     0
+654   Rechtliche Hinweise\nQuedlinburg: Fachschule w...    0     1
+709   Rechtliche Hinweise\nAuch Seehofer beteiligt s...    0     1
+738   Rechtliche Hinweise\nDie Verschärfung des Sexu...    0     1
+...                                                 ...  ...   ...
+7932  Alte Leier: „Fremdenfeindlichkeit in Ostdeutsc...    0     1
+7965  Es drängt sich das Bild eines Kamikaze-Fahrers...    1     0
+7998  Rechtliche Hinweise\nKommt jetzt die Gründung ...    0     1
+8003  Man solle auch bedenken, welch katastrophale  ...    1     0
+8043  Rechtliche Hinweise\nAltersarmut ist eine Scha...    0     1
+8107  Auf dem ersten                  Bild sieht man...    1     0
+8114  Rechtliche Hinweise\nDer Kahlschlag bei der Po...    0     1
+8116  Rechtliche Hinweise\nBundesregierung schmeißt ...    0     1
+8120  Zensurminister Maas muss gestoppt werden!\nDer...    0     1
+8123  Die Rente (der Politiker) ist sicher\nHat Norb...    0     1
+8178  Rechtliche Hinweise\nWir wollen weder CETA noc...    0     1
+8244  Rechtliche Hinweise\n„Europäische“ Heuchelei i...    0     1
+8379  Magdeburg:  Chaos bei der „Meile der Demokrati...    0     1
+8417  Medizinische Versorgung: Wenn der Chefarzt der...    0     1
+8425  Wohnraum zuerst für Deutsche!\nDie Asylflut fü...    0     1
+8439  Mindestens 4.000 starben.\nFlüchtlinge steigen...    1     0
+8500  Polizei: Spezialeinheit zur Netz-Überwachung g...    0     1
+8540  Rechtliche Hinweise\nDeutsche Soldaten aus der...    0     1
+8544  Rechtliche Hinweise\nAlfa-Tierchen\nBernd Luck...    0     1
+8593  Frankreich: Härtere Gangart in der Flüchtlings...    0     1
+8603  Für ihren Vater war sie "weder Körper noch    ...    1     0
+8648  Rechtliche Hinweise\nDie letzte Rettung in der...    0     1
+8663  Rechtliche Hinweise\nIrrenhaus Bundeswehr\nEs ...    0     1
+8733  Rechtliche Hinweise\nAsylprotestierer der Woch...    0     1
+8766  Monatelang konnte die GWR-Homepage von Schulco...    1     0
+8811  Reizwort „Racial Profiling“\nLangwierige Disku...    0     1
+8843  Islamisierung im Bankenwesen kommt voran\nVom ...    0     1
+8855  Asylverwaltung: Von der Notlösung zum Dauerzus...    0     1
+8931  Vielleicht kommt ja alles ganz anders.\nEmmanu...    0     1
+9007  Rechtliche Hinweise\nLänger arbeiten für „Flüc...    0     1
+
+[245 rows x 3 columns]
