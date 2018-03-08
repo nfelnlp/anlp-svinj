@@ -1,0 +1,89 @@
+Reading: ../data/train/left_wing_train.csv
+3838 rows read
+
+Reading: ../data/train/right_wing_train.csv
+3802 rows read
+
+Reading: ../data/test/true_left_wing_test.csv
+554 rows read
+
+Reading: ../data/test/true_right_wing_test.csv
+832 rows read
+
+Features: n-grams (sklearn)
+             precision    recall  f1-score   support
+
+          0       0.78      0.87      0.82       554
+          1       0.91      0.84      0.87       832
+
+avg / total       0.86      0.85      0.85      1386
+
+[[484  70]
+ [137 695]]
+
+ Accuracy: 0.8506493506493507 
+
+                                                   text pred label
+44    Rechtliche Hinweise\nAsylprotestierer der Woch...    0     1
+78                                          (GWR-Red.\n    1     0
+81    Rechtliche Hinweise\nDramatische Vermögensungl...    0     1
+96    Rechtliche Hinweise\nFrankreich vor dem Kollap...    0     1
+166   Nach wie vor relativ unbeachtet in der libertä...    1     0
+194   Wohnraum zuerst für Deutsche!\nDie Asylflut fü...    0     1
+228   Dabei wurde zum einen der Umgang              ...    1     0
+264   Illegale Einwanderung: Kann Australien sich fr...    0     1
+352   Das Netzwerkdurchsetzungsgesetz – ein weiterer...    0     1
+381   Kinder dürfen kein Armutsrisiko sein!\nIn dies...    0     1
+416   So                  wenig grundsätzlich auch i...    1     0
+423   Der Eier-Skandal zeigt: es braucht Alternative...    0     1
+496   Rechtliche Hinweise\nBKA: Wird jetzt Gewalt he...    0     1
+499   Rechtliche Hinweise\nWer vom Islamismus sprich...    0     1
+500   GroKo heißt weitere Massenzuwanderung!\nParole...    0     1
+568   Rechtliche Hinweise\nNeue Studie belegt: Asyla...    0     1
+583   Rechtliche Hinweise\nOhne wirksame Innenpoliti...    0     1
+607   Rechtliche Hinweise\nAuf Europa wartet der näc...    0     1
+619   Rechtliche Hinweise\nFinger weg von unserem Ge...    0     1
+659   Ein weiteres Globalisierungsopfer?\nSolidaritä...    0     1
+768   Rechtliche Hinweise\nKopflos in Berlin\nNur no...    0     1
+807   Rechtliche Hinweise\nVorbereitungen auf die nä...    0     1
+823   Rechtliche Hinweise\nGegen die Kolonialisierun...    0     1
+890   Rechtliche Hinweise\nTTIP muss unbedingt verhi...    0     1
+905   Naumburg: Kriminelle Großfamilie zeigt sich we...    0     1
+954   Die Rente (der Politiker) ist sicher\nHat Norb...    0     1
+1031  Bundesregierung bezahlt 129.000 Euro für Papie...    0     1
+1053  Rechtliche Hinweise\n„Solidarität mit den VW-A...    0     1
+1067  Europa rückt nach rechts – und lässt die Globa...    0     1
+1077  Dennoch ist                  die Freude bei de...    1     0
+...                                                 ...  ...   ...
+7562  Bundesregierung bezahlt 129.000 Euro für Papie...    0     1
+7634  Das meist junge und kriegsbegeisterte Publikum...    1     0
+7653  Magnus Gaefgen gab preis, wo die Leiche       ...    1     0
+7655  Rechtliche Hinweise\nZuwanderungsrekorde – ein...    0     1
+7910  Selbst Mühsams langsames und qualvolles Sterbe...    1     0
+8002  Rechtliche Hinweise\nAusländer rein!\nDeutsche...    0     1
+8010  Rechtliche Hinweise\nAndere Länder, andere Sit...    0     1
+8044  Rechtliche Hinweise\nPolizeigewalt in der ents...    0     1
+8073  Eine Frauendelegation aus der BRD beobachtete ...    1     0
+8151  Man solle auch bedenken, welch katastrophale  ...    1     0
+8222  Kurz darauf korrigierte er sich bereits (wie d...    1     0
+8261  Unmittelbar nach dem 1.\nWeltkrieg und dem Beg...    1     0
+8283  Rechtliche Hinweise\nWir müssen dem Mietwucher...    0     1
+8291  Das kleine Nachbarland Libanon mit seinen 4,5 ...    1     0
+8307  Aber ganz im Ernst: Wir sehen uns einer Welle ...    1     0
+8309  Übertragen                  auf den Zweck der ...    1     0
+8439  (1) Und weil ihre Krankheit immer weiter forts...    1     0
+8464  Rechtliche Hinweise\nSchluss mit der Sanktions...    0     1
+8585  REZENSION: Auch in ihrem neuen Buch »Reichtum ...    0     1
+8612  Rechtliche Hinweise\n„Reisebüro Antifa“\nGewus...    0     1
+8748  Andere sehen in ihr nicht ohne Grund eine gefä...    1     0
+8767  Dabei wird alles                  vermeldet, w...    1     0
+8775  Spekulationen um den Cyberangriff „WannaCry“\n...    0     1
+8790  4 GG garantiert die Freiheit des Glaubens, des...    1     0
+8833  Frankreich: Marine Le Pen zieht in die Nationa...    0     1
+8854  Rechtliche Hinweise\nKeine weiteren Steuermill...    0     1
+8916  Die Ausrede von den schwarzen Schafen ist nich...    1     0
+8930  Rechtliche Hinweise\nFalsche Asylpolitik schrö...    0     1
+8951  Unmittelbar nach dem 1.\nWeltkrieg und dem Beg...    1     0
+8991  Rechtliche Hinweise\nDie letzte Rettung in der...    0     1
+
+[207 rows x 3 columns]
