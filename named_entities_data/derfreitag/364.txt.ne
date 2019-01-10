@@ -1,1 +1,0 @@
-['Liam Gallagher', 'zu', 'Songs', 'die', "'", 'werden', 'Album', 'Großmauls aus', 'in', 'das', 'Pflichttermin', 'Über die', 'und', 'Online']

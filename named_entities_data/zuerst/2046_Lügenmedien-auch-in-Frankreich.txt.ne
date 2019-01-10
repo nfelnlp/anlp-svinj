@@ -1,1 +1,0 @@
-['Paris', 'EU-Parlamentsmitarbeitern', 'National , Marine', 'Pen', 'Pen ,', 'Pen , zum', 'auch', 'einer', 'im', 'nach den Europawahlen', 'des Europaparlaments', 'Affäre', 'Wahrheit', 'den', 'habe', 'einen', 'in', 'ein allzu durchsichtiges', 'Manöver']

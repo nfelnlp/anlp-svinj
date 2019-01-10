@@ -1,1 +1,0 @@
-['Eggert', 'Christophe de Margerie', 'Moskau', ',', 'in dessen', '« Petrodollar', 'abzuwickeln', 'TOTAL', 'worden', 'Rücken', 'diese', 'gegebenen', 'vernachlässigenswert', 'musste', 'Fahrzeugen', 'dass', 'abmilderte .', 'russische', 'darf', 'den', 'gebe ,', 'gebe , der', 'und Linienabweichler', 'beleuchtet', 'Ölinteressen', '. Sie', 'bei Anschlägen', 'Merke']

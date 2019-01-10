@@ -1,1 +1,0 @@
-['McCarthy-Ära', 'hat', 'bei', 'Hitlergruß zu erkennen', 'anderer', 'Staatsanwaltschaft Leipzig', ':', ': Es', 'Dr.', '„Der Lehrer', 'Rücknahme', 'die', ': AfD', 'Dresden', 'aufgefordert', 'zu', 'rehabilitieren', 'überall Nazisymbolik zu', 'Vielleicht', 'dass', 'Kultusministerium', 'aufnehmen']

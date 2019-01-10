@@ -1,1 +1,0 @@
-['Ankara/Istanbul', 'Die', 'israelische', 'anzuerkennen', 'erweist', 'auf', 'Runde', 'die', 'zu', ':', 'Kirche', 'Eroberung', 'es', 'eine', 'AKP', 'in', ',', 'forderten', 'die', 'der']

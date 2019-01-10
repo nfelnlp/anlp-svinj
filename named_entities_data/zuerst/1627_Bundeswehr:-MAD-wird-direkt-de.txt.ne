@@ -1,1 +1,0 @@
-['Berlin', 'A.', 'A. in', 'A. in Reihen', ',', 'nun', 'der Leyen', 'erhalte', 'die', 'die', 'der', 'berichtet', '„F.A.Z.', 'Prioritäten', 'Diese', 'Verbände', 'US-Truppen', 'an', 'informiert', '. (']

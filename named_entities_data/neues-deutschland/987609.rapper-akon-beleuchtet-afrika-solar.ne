@@ -1,1 +1,0 @@
-['Akon nachts durch', 'erleuchtete', 'der', 'er', 'grundsätzlich', 'Viele', ',', 'Schiffbruch', 'der Malier', 'des', '«', 'der', 'Nigeria', 'Niger', 'Projekte', '» Akon Lighting', '«', 'der', 'Cotonou', 'Geschäft', 'Geschäft gekommen', '.', '. Die Arbeitskräfte sind']

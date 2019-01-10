@@ -1,1 +1,0 @@
-['Johnnie', 'auf DVD', 'einem', 'in', 'melancholisch', ', als', 'War', 'Gesetzes', 'steinernen wie', 'Visage gesegnete', 'stellt', 'oder Todesstrafe', ',', 'er', 'Weiteres', 'dessen', 'Gesten', 'Wagen', 'jetzt ein ebenbürtiger Nachfolger']

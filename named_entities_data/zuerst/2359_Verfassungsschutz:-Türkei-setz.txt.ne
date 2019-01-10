@@ -1,1 +1,0 @@
-['Berlin', 'türkische', 'Düsseldorf', 'Polizei', 'Nordrhein-Westfalen mit dem', 'geht', ',', 'Gruppierungen', 'zu', 'einheitliches', '.', 'zurück', 'Hausdurchsuchungen', 'seiner Sicht', 'von', 'Staat', 'bezeichnet', ',']

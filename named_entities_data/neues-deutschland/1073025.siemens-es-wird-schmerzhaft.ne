@@ -1,1 +1,0 @@
-['. Wer', 'Zypries ( SPD', 'und', 'Entscheidungen', ',', 'Leipzig', 'Siemens', 'Waggonbauer', 'einzige', ',', 'etwa', '»', 'der Standorte sei', ',', 'Weggang', 'Konzerns', 'den', 'erhalten', 'und', 'für eine', 'sieht er']

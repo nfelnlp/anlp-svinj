@@ -1,1 +1,0 @@
-['Wien', 'EU-Sanktionen', 'die', 'geht', '(', ')', '2014', 'Prozent', 'außerhalb', 'Liste', ',', '2013', 'EU-Export', 'Rußland', 'Euro', 'nur', 'Euro', '34,5', 'Minus', ')', 'Drittel', 'der', 'was', 'Die', 'nach']

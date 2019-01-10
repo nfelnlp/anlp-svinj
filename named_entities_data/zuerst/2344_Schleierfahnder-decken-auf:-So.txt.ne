@@ -1,1 +1,0 @@
-['Lindau', 'Deutschland', 'Italien', 'als auch', 'abzukassieren', 'wo', 'Leistungen', 'verzichten', 'konnten', 'Norwegen', 'Italien', 'Deutschland', 'Asylgesuche', 'zur', 'Neben']

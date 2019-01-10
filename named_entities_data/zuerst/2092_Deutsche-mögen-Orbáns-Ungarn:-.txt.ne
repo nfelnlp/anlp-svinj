@@ -1,1 +1,0 @@
-['Budapest', 'Westliche', 'gerne', 'ein', 'Firmen', 'Regierung', '.', 'ist', 'Ungarn schreibt', ')', 'Handelskette', 'unter', 'Bundesbankstatistik', '174.000', 'und', 'auch', 'neues', 'Millionen', 'an']

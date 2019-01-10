@@ -1,1 +1,0 @@
-['Wien', 'Lange', 'Schüssel', 'ÖVP', 'US-Lobby', 'führt', 'auf ihrer', 'Mitgliedern', 'übt weltweit', 'oder weniger', 'Unternehmen', 'von Geschäften', ',', '.', 'der', 'sind', 'USA', 'Drohungen', 'UANI', 'von', 'von der', 'in', 'in Stellungnahmen']

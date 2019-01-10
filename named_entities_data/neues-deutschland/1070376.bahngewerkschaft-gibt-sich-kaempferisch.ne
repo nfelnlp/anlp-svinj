@@ -1,1 +1,0 @@
-['hat', ') und', 'öffentlicher', ',', 'hatte', 'in', 'die', 'Kurswechsel und', 'als', 'gefährdeten', 'Gastredner', 'kompletten', '» Norbert', 'die', 'geplant', 'die wir', 'mit', '»', 'Hansen', 'Auch', 'gaben', '. So', '.', 'der Weltwirtschaftskrise', 'für', 'die', 'hat', 'Widerstand', 'und', 'DB-Transportunternehmen', ', so', 'nicht']

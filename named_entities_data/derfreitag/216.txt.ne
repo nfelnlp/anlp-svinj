@@ -1,1 +1,0 @@
-['Untersuchungsausschuss', 'Schlüsselfigur im', 'größere', 'den', 'regieren', 'Doch', 'Hans-Christian', 'Moskau angekündigt', 'Untersuchungsausschuss aussagen zu wollen', 'Der', 'Erkenntnisse', 'den', 'wissenschaftliche', 'für', 'Zeuge vor', 'Auslieferung', 'Der', 'ihnen', 'die der', 'des']

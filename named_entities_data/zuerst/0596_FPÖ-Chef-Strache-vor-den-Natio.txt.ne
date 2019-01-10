@@ -1,1 +1,0 @@
-['Wien', 'Heinz-Christian', 'den Parlamentswahlen am Sonntag', 'trägt', 'des', 'weil', ',', 'Religionsfreiheit', 'diese', '.', 'Parteien', 'nur']

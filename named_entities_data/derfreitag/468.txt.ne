@@ -1,1 +1,0 @@
-['Frankreich', 'so', 'vor', ',', 'mich', 'total müde.', 'Nur ich', 'wusch', 'ja', 'selbst', '.', 'wirklich', 'auftauchten .', 'die Realität', '?', 'dass', 'meiner', 'liegen', 'Doch Europa hasst', 'Wir', 'nicht', 'einsam', ',', 'Europameister', 'muss', 'schreiben .', 'hält']

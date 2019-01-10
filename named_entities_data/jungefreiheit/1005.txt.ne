@@ -1,1 +1,0 @@
-['Redaktion', 'Schwall', 'sich', ',', 'des', 'von', 'wäre dann', '``', 'klarer', 'Bewegung', 'untersuchten', 'den Medien', 'der', 'das', '.', 'Vorsilben-Fetischismus', 'geradezu', ':', 'hier', "''", 'öffentlich entschuldigen', 'Prozeß', 'Völlig bedeutungslos wird', ',', "''"]

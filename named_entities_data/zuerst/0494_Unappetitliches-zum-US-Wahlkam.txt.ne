@@ -1,1 +1,0 @@
-['mit der aufsehenerregenden', 'offenbar vom', 'nach Recherchen', 'Recherchefirma auf den damaligen', 'Demokratische', 'des ehemaligen', 'keinen Einfluß', 'den', 'Sachverhalt', 'bestätigen :', 'FBI', 'die', 'übernommen', 'hat', 'wechselte aber inzwischen', '–', 'zeigt']

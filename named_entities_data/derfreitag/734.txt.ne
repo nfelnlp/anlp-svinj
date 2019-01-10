@@ -1,1 +1,0 @@
-['Marius Brüggen', 'Bob Marley', 'und schaut', 'Herzblut', ',', 'Nur', 'geht dann', 'für', 'am', 'die', '„A']

@@ -1,1 +1,0 @@
-['sich', ',', 'das', 'zurzeit', 'East-Side-Gallery', 'Provinzschick', 'der', 'der Berliner', 'liegt', 'Understatement', 'doch']

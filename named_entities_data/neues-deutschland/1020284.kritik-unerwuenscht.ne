@@ -1,1 +1,0 @@
-['Labour', 'Anders', 'underfoot', 'Berndt Hinzmann']

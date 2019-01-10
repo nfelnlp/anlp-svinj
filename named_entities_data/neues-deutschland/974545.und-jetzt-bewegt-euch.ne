@@ -1,1 +1,0 @@
-['folgen würden', ',', 'und', 'Druck', 'die', '15', 'Bundesvorstand von', 'Wisst', 'Programms :', 'zu ,', 'Er', ', wie', '.', ',', 'dem', 'der', 'teile']

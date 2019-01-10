@@ -1,1 +1,0 @@
-['Bagdad', '(', 'ebenso', 'vor', 'entführt', 'Kurdengebiet', 'Laut', 'vormals', 'Land', 'Syrien', 'am', 'es', 'Massengrab', 'und', 'aus', 'vertrieben', 'der']

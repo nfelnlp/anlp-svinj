@@ -1,1 +1,0 @@
-['Budapest', 'Viktor Orbán', 'EU', 'Europäische Volkspartei', 'EVP', 'Ungarn', 'EU-Kommission', 'am', 'ist', 'University (', ') in Budapest', 'EVP-Kreisen', 'worden', 'Frist umzusetzen .', 'Recht', 'Fidesz-Partei', '”', 'Orbán', 'EVP-Darstellung und', 'Journalisten', '„ihren', '”', '.', 'Endergebnis', 'der', '. Es', 'Hochschule', 'geben']

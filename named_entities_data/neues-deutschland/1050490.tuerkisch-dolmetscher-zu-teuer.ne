@@ -1,1 +1,0 @@
-['in einem', 'Dorthin war er', 'Heimsheim', 'er', 'wolle', 'verfasste', '2013', 'dem', 'das bundesweit', 'Gefangeneninfo «', 'und', 'Juni', 'Meins', 'seines', 'Tode kam', 'die']

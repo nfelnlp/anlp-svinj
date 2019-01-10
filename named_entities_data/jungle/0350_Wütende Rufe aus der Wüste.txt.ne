@@ -1,1 +1,0 @@
-['Jerusalem', 'Ariel', 'kleinen', 'erdfarbener', 'den', 'Arallu', 'in', '«', 'überwiegt', 'the', 'nun', 'dort', ', wo', 'er', ',', 'bis', 'ein Hauptgrund', 'wird', 'Geniewar', 'Sänger', '«', 'in', 'Metal', 'rumpeligem', ',']

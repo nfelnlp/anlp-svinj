@@ -1,1 +1,0 @@
-['Jerusalem/Moskau', 'Im', 'eine', 'Erklärung', 'Luftangriffe', 'als', 'es aus', 'des', 'während', 'Netanjahu', 'Rußland', 'Syrien', 'Das', 'daß', 'Erst', 'in', 'des', 'seit', 'Abkommens', 'Außenministerium', 'mehrere', 'Abwehrraketen', 'syrische', 'zu zerstören']

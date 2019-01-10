@@ -1,1 +1,0 @@
-['Homosexuellen-Ehe', 'Mitte Mai', 'und der', 'dem Schreiben', 'Die', 'Liebe', 'kennen', 'geht', ', nur', 'und Liedermacher', 'der', 'der']

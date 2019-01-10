@@ -1,1 +1,0 @@
-['Wien', 'bei', 'Asyl-Urlaub', 'der', 'ihre']

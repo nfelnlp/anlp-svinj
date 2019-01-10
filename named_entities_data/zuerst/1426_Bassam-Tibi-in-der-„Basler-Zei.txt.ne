@@ -1,1 +1,0 @@
-['Basel', 'Bassam Tibi', 'ins', 'Zusammenhang', '.', 'deutsche', 'wonach', 'wird', 'seien', 'Sicherheitsproblemen', 'dieses', 'Auswahl', ',']

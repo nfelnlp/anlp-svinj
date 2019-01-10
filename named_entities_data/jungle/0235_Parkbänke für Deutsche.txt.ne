@@ -1,1 +1,0 @@
-['Deutschland', 'Obdachlosigkeit', 'München', 'Westend61', 'Rik Rey', 'Deutschland', 'BAG', 'W', '1991', '289', 'Einen', 'Offizielle', 'Thomas', 'der Wohnungslosenhilfe', '\xadMedien', 'sich', ',', 'unzureichenden', 'und', 'angehören', 'Nachfrage', 'ein', 'der', 'Sowohl', 'Auftakt', 'verteilt', '«', 'Aufforderung', 'räumen', 'III', 'versucht ,', 'mindestens']

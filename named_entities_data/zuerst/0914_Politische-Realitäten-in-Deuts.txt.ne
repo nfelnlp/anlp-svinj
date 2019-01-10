@@ -1,1 +1,0 @@
-['Bauminister Markus Ulbig', 'CDU', 'aber', 'Familienvater Thomas', '„Zunächst sagte', 'hatte']

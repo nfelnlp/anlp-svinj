@@ -1,1 +1,0 @@
-['Getty Images', 'und', 'verwehren', 'es', 'Erdoğan wollte mit', 'denen', 'zurechtweisen', '–', 'geschützt', 'anstehenden', ',', 'bei', 'Vorjahr', 'NATO-Partner nicht', 'gewiesen', 'nach', 'Selbstbestimmung', 'es nicht', '. Damit ist eine', 'sich']

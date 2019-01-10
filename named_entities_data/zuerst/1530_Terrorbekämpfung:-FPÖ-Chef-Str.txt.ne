@@ -1,1 +1,0 @@
-['Wien', 'FPÖ-Chef', 'jetzt eine Forderung der', ',', 'kürzlich', 'mit', 'bei Terrorverdacht nicht', '–', 'eine', 'die', 'es', 'sie in', 'müßten', 'werde', 'es', 'freiheitliche']

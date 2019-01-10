@@ -1,1 +1,0 @@
-['Gesellschaft 3 Braunschweig', 'Polizei', 'Braunschweig', 'Nadja N. Sie', 'Asylbewerber nutzten Schwächen', 'Kollegen Betrügereien ,', 'hatten', 'kassiert', '„Unser Büro war', 'mir', 'unter', 'N.', 'befristeten Arbeitsvertrages weiter', 'Vertrag wurde nicht']

@@ -1,1 +1,0 @@
-['Nightlife', 'Tirana', 'Tirana', 'Freitagnacht', 'Universität der Künste', 'Tirana', 'Martin', 'haben', 'Tunnel-', 'Besi', 'Die', 'bunk', 'meint Etmond', 'lädt', 'Raki', '.', 'sei', 'der', 'geht', 'Bar', ', kann', '«', 'der', 'lädt', '»', '«', 'und', 'die Stimmung', '\xadfindet', 'auf', 'Künstler', 'sollte']

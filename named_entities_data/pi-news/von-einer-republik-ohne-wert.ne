@@ -1,1 +1,0 @@
-['CANTALOOP', 'Merkel-Regentschaft', '“', 'Perfektion', ',', 'so', 'man sie denn', '.', 'im', 'diese', 'diese Rückentwicklung', 'schnellen', 'Osteuropa', '.', 'Beispiel', 'die', '“', 'man seitens', 'weg', 'Diese', 'und', 'wankelmütigen', 'versorgt sein und', 'ist', 'islamischen', '2018', '„Geflüchteten', 'frenetisch']

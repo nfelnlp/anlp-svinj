@@ -1,1 +1,0 @@
-['Berlin', 'deutschen Wirtschaft', 'deutschen Wirtschaft Köln', 'es', 'eines']

@@ -1,1 +1,0 @@
-['Norbert Lammert', 'Bundeskanzlerin', 'stehen', 'Wenn ein', 'Deshalb', 'der', 'sein .', 'gut', 'lassen', 'von den', 'ist', 'geschafft', 'der', 'Rechts', 'seine', 'Pflicht ,', 'absehbar weder', 'Hirngespinste', 'Hirngespinste von', ',', 'einem', ',', 'Legislaturperiode', 'Ende', 'noch', 'das', 'Politiker', 'inneren', 'sehr viele', 'einer']

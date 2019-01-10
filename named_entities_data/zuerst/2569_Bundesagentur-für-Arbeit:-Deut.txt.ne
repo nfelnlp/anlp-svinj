@@ -1,1 +1,0 @@
-['Arbeitslosenversicherung', 'MDR-Reporter', '„Ob']

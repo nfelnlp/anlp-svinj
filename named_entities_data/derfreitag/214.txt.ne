@@ -1,1 +1,0 @@
-['die', 'in', 'die', 'hat', 'seiner', 'für', 'es nach', 'Mal', 'gemeinsame', '.', 'Stimme', 'einer', 'die', 'die', 'bereit', 'seinen']

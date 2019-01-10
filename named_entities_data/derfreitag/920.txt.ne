@@ -1,1 +1,0 @@
-['Dobrindt', 'Wöllk/Imago', 'erweist sich', 'CSU', 'sich', 'Linken', 'CSU', 'Der', 'sich', 'Wahlvolk', 'Umweltbundesamt']

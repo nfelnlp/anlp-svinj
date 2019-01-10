@@ -1,1 +1,0 @@
-['Washington', ', in', 'Angriffe', 'dabei', 'kurzem vor', 'von', 'Pry wörtlich', ', die nach einem', ',', 'kürzester Zeit']

@@ -1,1 +1,0 @@
-['Nürnberg-Teamleiter', 'H. Tegetmeyer bei der Kundgebung', 'nur', 'Toten von', 'Gedenkminute', 'denn', 'Tote', ':', 'Aufklärung', 'Pegida', 'die Mittel', 'gegen', 'dem', '“ ,', 'man', 'vor', 'den', 'beteiligen', '.', 'seiner', 'Ralf', 'und Nicola', 'kurze Reden', 'fulminanten Appell', 'Am Samstag', 'Gepunkt', ')']

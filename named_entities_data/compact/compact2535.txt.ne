@@ -1,1 +1,0 @@
-['Idomeni', 'der', 'Montag', 'ein', '–', 'Balkanroute rigoros', 'ist', '–', 'Mittwoch', ',', '.', 'Stunden raus', '.', 'Fotograf', 'von', 'europäisch', '„March', 'Team', 'die Berliner', 'Verein', 'ausschließt', 'muss', 'jenen', 'die', 'Premier .', '„Die unsichtbare', 'ASYL . DAS CHAOS .']

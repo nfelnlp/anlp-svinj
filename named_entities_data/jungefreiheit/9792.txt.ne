@@ -1,1 +1,0 @@
-['№ber', 'fьr', 'mit', 'in', 'offiziellen', 'und', 'dieses', 'in', ',', 'Tцpfer fьgte', 'hinzu', 'dem', 'und', 'heutige', 'beiseite', 'ohne', 'die', 'drьben']

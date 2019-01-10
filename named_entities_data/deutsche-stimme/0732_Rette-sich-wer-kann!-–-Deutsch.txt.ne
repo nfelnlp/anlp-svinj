@@ -1,1 +1,0 @@
-['Manfred Schmidt', 'Bundesrepublik', 'Manfred Schmidt', 'Manfred', 'ist zurückgetreten', 'erschüttert', '? Bis', 'öffentlich', 'Maizière . Manfred', 'trat offiziell', 'auch nicht bereit', 'in', 'meisten', ',', 'hat', 'Land inzwischen', 'sowie', 'haben', 'führender', '.', 'den (', 'die', 'keine', 'erschöpfter , bekommt', ', wenn', 'ist das', 'sind', ', den', 'Deshalb']

@@ -1,1 +1,0 @@
-['Nadal', 'alt', 'sind', 'Vornamen habe', 'kannte', 'er im', 'den', 'dennoch für', 'er', 'entbrannte', 'er', 'der', 'man', 'Rolle', 'sie zu', 'der']

@@ -1,1 +1,0 @@
-['Républicain Lorrain', 'geschwächt', 'Beide', 'SPD', 'Triumph', 'auch', 'von', ',', 'wichtig -', 'für', 'Für die', ',', 'den', 'kann es', 'Gemeinschaftsgefühl', 'diese', 'anzusehen .', 'große und wichtige', 'Und', 'zu', 'Präsenz', 'darauf ,', 'Sozialdemokraten', 'den', 'politisch', 'die', 'Koalition', 'Urteil', 'schaffen. «']

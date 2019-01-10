@@ -1,1 +1,0 @@
-['Emmanuel Macron', 'Staatspräsident', 'Le Pen im', 'National allerdings', 'genügend', 'von', '.', 'Macron wird', 'ist', 'bei', 'so', 'zu', ',', 'aus', 'fast', 'ist', 'aber', 'so', 'ist', 'elementaren', 'aber', 'schlechte', 'um', 'international', 'Marktanteile', 'Deutschen', 'gesünder', 'will', 'ihn', 'Merkel', 'jedoch', 'präsentiert', 'Liebesdienst wird']

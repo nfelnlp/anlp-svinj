@@ -1,1 +1,0 @@
-['Trippel', 'Rüdiger Grube', 'Mainzer', 'genauso', 'Dieser', ',', ',', 'Zukauf', 'zusammengesetzte DB', 'Millionen', '–', 'Profit –', 'Investitionen', 'und', '.', 'im', 'sieht', ',', 'mit', '.', 'entsprechend', 'sei', 'Millionen im', 'Kilometer', 'Länder', 'bestimmen', 'anderer', 'den', 'Wald', 'und', 'Stimme', 'und kritisierte', 'die', 'sich', 'wohl', 'der']

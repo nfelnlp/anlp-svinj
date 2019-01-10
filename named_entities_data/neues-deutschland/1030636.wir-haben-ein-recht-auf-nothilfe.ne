@@ -1,1 +1,0 @@
-['RWE-Tagebaus', 'bereitet', 'Ja', 'im', 'zu', 'Bagger', 'gibt', ',', 'sein']

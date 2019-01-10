@@ -1,1 +1,0 @@
-['Dresden', '(', '2015/16 finanziert', '29 Millionen', 'geförderten Projekte anschaue', 'Euro', 'Mein Eindruck ist']

@@ -1,1 +1,0 @@
-['. Die', ', Nobiskrug ,', 'beteiligen', 'In', 'der', 'bestreikt', 'Unterdessen wurde', 'Runde der Tarifverhandlungen', 'Allerdings sei', 'Bewegung']

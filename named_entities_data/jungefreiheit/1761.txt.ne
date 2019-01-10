@@ -1,1 +1,0 @@
-['daß', ',', 'mich', 'nur', 'aus', '\x96', 'von einer', 'politisch', 'das', '``', "''", 'das', 'Atomenergie', 'einsteigen', 'andere', 'den', 'so', 'die', '.', 'da', 'Die', 'von', 'Antistauprogramm', 'Industrie', 'beklagt ,', 'Straßenbau', 'worden', 'so', 'die', 'werden', 'Daraus folgt']

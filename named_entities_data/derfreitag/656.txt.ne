@@ -1,1 +1,0 @@
-['Monica Lierhaus', 'Images Es', 'eine', 'Geschichte', 'eines Gehirn-Aneurysmas', 'für', 'gestorben', 'Behinderung', 'gegen das', 'zu :', 'ein falsches', '? Statistiken', '.', 'bei der', 'ihren jeweiligen', 'beschleunigt']

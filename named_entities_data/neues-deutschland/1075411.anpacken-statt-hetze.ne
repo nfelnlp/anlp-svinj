@@ -1,1 +1,0 @@
-['.', '. SPD-Landeschefin', 'Kohnen', 'und ihre', 'Markus', 'in Stil', 'in', 'und betonte : »', 'Ansage', ',', 'die', '»', 'Willen', 'Bayern', 'haben', 'die', 'die', 'der', 'mit', ',', 'Kohnen', '»', 'von', ':', '»', 'wird', 'Wahljahr']

@@ -1,1 +1,0 @@
-[',', ',', 'machen', 'oft', ',', 'und', 'bis', 'Gera', 'Auf', 'Verkehrsverbund', 'Auto', 'noch', 'Thüringischen', ', einen', 'Verkehrsverbund', 'des', 'sei man', 'Auffassung', 'immerhin', 'das', ', im', '2018', 'Wochen', 'dieses']

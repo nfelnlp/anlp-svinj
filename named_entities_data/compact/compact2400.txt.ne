@@ -1,1 +1,0 @@
-['NSU', 'NSU', 'Beweismitteln', 'anderem', 'Böhnhard am', '. November', 'um', '.', '21', 'dass', 'der Lunge', 'Rußpartikel vom', 'dagegen', 'daraufhin', 'danach', 'etwas', 'um', '.', 'nicht .', ':', 'seit', 'zwei', '.', 'Mittätern', 'die', 'Kanzleramt', 'globale', 'Fördern', 'COMPACT']

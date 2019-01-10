@@ -1,1 +1,0 @@
-['Christian Mang', 'Hamburg', 'Tag', '„Wahl-Geld']

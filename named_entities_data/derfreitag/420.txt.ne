@@ -1,1 +1,0 @@
-['können', '.', 'schöne Formel', 'aussehen', 'Zweifel daran', 'Bundesrepublik', 'man', 'drehen']

@@ -1,1 +1,0 @@
-['-', 'Foodwatch-Experte für', 'auf Verpackungen festgelegte', 'dass', ',', 'heute', 'über', 'ermittelten', 'grün', 'teils', 'teils auch', 'verbietet', 'ein', 'Deutschland', '»', '«', 'eigenes Farbsystem', 'den', 'Markt', 'Ebenfalls', 'Verbesserungen', 'Foodwatch', 'Produkte', ',', 'bei', 'enthält']

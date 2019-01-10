@@ -1,1 +1,0 @@
-['Bundeswehr', 'Ursula von', 'pulverisieren', 'Nadine Hoffmann', 'Franco A .', 'hemmungslos', 'Flachbildschirme', 'gleich', 'letzten Tagen', '15000€', 'klatscht erfreut', 'der', 'noch', 'sie', 'hier', ',', 'allzu laut', ',', 'von', 'das', 'und', 'dem', 'Karrierestreben', 'der', 'in', 'Durchschlagskraft', 'gekommen .', 'zuständigen']

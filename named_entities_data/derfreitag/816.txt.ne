@@ -1,1 +1,0 @@
-['kleine Krokodil', 'und', 'des', 'Kunstwerk', 'nicht', 'nicht witzig', '.', 'die Künstler', 'Anwesens', 'Menschen auf', 'Kritiker', 'Selbstjustiz .', 'als', 'hin', ',', 'Öffentlichkeit', ', personalisierten', '38 Eigner des', 'Kampagne auf linke', 'entfaltete', 'Aktion', 'über Ereignisse in']

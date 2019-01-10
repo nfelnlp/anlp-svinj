@@ -1,1 +1,0 @@
-['Augustinus', 'allgegenwärtigen Mentors', 'der', '. Autoren', 'der', 'den', 'fassen', 'denn', 'sich dem', 'ihren erzwungenen Verzicht auf', 'antike', ',', 'zu', 'hochmütig', 'hochmütig geworden', 'schüttelt', 'alte', '. Aber vielleicht']

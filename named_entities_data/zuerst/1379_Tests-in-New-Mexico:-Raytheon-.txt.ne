@@ -1,1 +1,0 @@
-['Mexico', 'Raytheon', 'US-Armee', 'den', 'alle Tests', 'gelte', 'Laserkanonen', 'es', 'Mexico', 'Laserwaffe mithilfe', 'erfaßt', 'auf größerem Kriegsgerät', 'angeblich ein']

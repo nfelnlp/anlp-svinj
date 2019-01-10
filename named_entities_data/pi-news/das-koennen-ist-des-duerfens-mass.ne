@@ -1,1 +1,0 @@
-['Paul Preuß', ',', 'vielfältigen', 'Parolen', '„konservativ', 'es', 'die', 'von', 'ebenfalls', ',', 'uns', 'eingerosteten', 'jeher']

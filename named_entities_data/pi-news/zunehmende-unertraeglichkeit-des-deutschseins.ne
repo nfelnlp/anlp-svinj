@@ -1,1 +1,0 @@
-['vielmehr', '. (', 'in', 'als', 'die', ',', ',', 'wissen']

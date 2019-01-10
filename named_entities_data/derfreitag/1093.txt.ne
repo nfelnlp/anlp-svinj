@@ -1,1 +1,0 @@
-['Bundeswehr', 'Sean Gallup/Getty', 'Zuerst', 'werden', 'Die', 'der Leyen', 'erfolgreichen', ',', ',', 'die', 'Jahren', ',', 'bereit', 'in', ')', 'Leyens', 'werden', 'Pannen']

@@ -1,1 +1,0 @@
-['Washington', 'Washington', 'Rußland', 'Syrien', 'Pentagon', 'IS', 'Mattis', ', den', 'Absicht', 'oder', 'zurückkehren', '.', 'wollen', 'US-Fernsehsender', 'das', 'im', 'eine', 'hatten', 'hin', 'Tatsache']

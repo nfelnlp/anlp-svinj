@@ -1,1 +1,0 @@
-['CDU-Generalsekretär', 'hat sich', 'er', 'vergaß dabei nicht', 'an der', 'nicht', 'Politikerleben', 'es', 'Monate', 'Scheitelpunkt der', 'Pflicht', ',', 'hätten', 'er', 'allem', 'unter', ',', 'Er', 'mit', '“', 'dieser', 'äußerst', '–', ',', 'Biedenkopfs', 'Blick lieber', 'und', '2015', 'Deutschland lebte ,', 'und der']

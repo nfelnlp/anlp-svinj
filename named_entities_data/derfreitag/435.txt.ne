@@ -1,1 +1,0 @@
-['Mark Wilson/Getty', 'Mit', 'aus', 'bisherigen', 'Boden', 'Methan', 'durch', 'Politik beschlossen wurde', 'im', 'in', 'vorbeigemogelt', ', egal', 'es bereits', 'mit in', 'Regierungsdelegation', 'enorm', 'von', 'Fluten.', 'Punkt', 'erreicht', 'müssen', 'Die betroffenen', 'steht', '1,5', 'akzeptieren', 'Die Realität', 'dass die globale', 'gestiegen']

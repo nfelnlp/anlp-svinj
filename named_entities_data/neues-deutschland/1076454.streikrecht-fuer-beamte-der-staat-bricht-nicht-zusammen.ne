@@ -1,1 +1,0 @@
-['ist ein', 'nicht', 'der', ',', 'Lehrer', 'Landesregierung', 'die', '.', 'und', 'unterstützen die Verfassungsbeschwerden', 'Dabei geht es', 'allein', 'die', 'verbeamteter', 'denn', 'soll', 'die', 'der Übertragung', 'nicht .', 'von', 'der', 'und', 'von Recht und', 'interpretieren', 'Status', 'Wahrnehmung', 'Lehrer oder', 'im', 'ihn bedeuten', 'sich', 'den']

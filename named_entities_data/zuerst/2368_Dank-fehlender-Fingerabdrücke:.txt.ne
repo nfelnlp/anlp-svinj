@@ -1,1 +1,0 @@
-['Berlin', '.', 'sollte', ',', 'Jahr', 'solcher', 'Die Fahnder', 'München', 'Turin', 'biometrische', 'und', 'genommen', '„Flüchtlingen “', 'Fingerabdruckscanner .']

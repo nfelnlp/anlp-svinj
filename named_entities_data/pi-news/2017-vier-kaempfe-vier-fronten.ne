@@ -1,1 +1,0 @@
-[',', 'Welt', 'es', 'Frankfurt )', 'Die', 'nur', 'Partei', 'indirekt', 'Auf', ',', 'und', 'titulierten', 'haben', 'wenn', ',', 'Deutschland', 'die', '„Populismus', 'herrschenden Kreise', 'zu schaffen', '. Dazu', 'Kulturrevolution ,']

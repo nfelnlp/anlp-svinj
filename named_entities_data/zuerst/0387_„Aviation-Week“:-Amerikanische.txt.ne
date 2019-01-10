@@ -1,1 +1,0 @@
-['New', 'New York .', 'US-Luftwaffe am Himmel', 'immer', 'nicht', '.', 'US-Portal', 'Dort erklärte ein', 'Al-Dhafra in den Vereinigten', 'eine', 'der Nähe russische', 'während', 'US-Militär']

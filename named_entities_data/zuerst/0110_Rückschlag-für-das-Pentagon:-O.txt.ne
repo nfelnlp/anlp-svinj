@@ -1,1 +1,0 @@
-['Cape', 'Cape Canaveral', 'dem', 'seien dann', 'zum Verlust des', 'dem', 'gekostet', '.', 'US-Rüstungsunternehmen', 'Northrop Grumman', ')', ') Foto']

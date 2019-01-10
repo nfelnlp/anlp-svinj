@@ -1,1 +1,0 @@
-['Brüssel', 'NATO', '(', 'offiziell', 'geführten', 'Beteiligung', 'Verteidigungsausgaben', 'hatte', ',', 'sind', 'Benennung', 'machen', ',', 'ein', 'in', 'der', 'Friedensbemühungen', '(']

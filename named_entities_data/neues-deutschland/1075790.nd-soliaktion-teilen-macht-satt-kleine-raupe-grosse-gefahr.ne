@@ -1,1 +1,0 @@
-['Mosambik', 'FAO )', 'sie', '-', 'von', '100', 'Südafrika', 'bereits', 'Budget', 'durch', 'Schädling', 'Subsistenzlandwirtschaft', 'Entwicklungsorganisation', 'Verband', 'Vertretungen', 'der UNAC', 'entfernt', 'zur', 'UNAC ein']

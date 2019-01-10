@@ -1,1 +1,0 @@
-['EU-Ländern', ',', 'Niederlanden', 'Darunter', 'Spaemann', 'Chantal', 'Ryszard Legutko', 'Rémi Brague', 'Ryszard Legutko', 'Zu Begin', 'Bekenntnis', '„Europa gehört', 'und', 'Diese', 'keine', ',', 'universale geistliche', 'Niedergang', 'entstand', 'originäre', '.', 'und', 'Aufgabe', 'was', 'Strategien', 'muslimischen Einwanderer']

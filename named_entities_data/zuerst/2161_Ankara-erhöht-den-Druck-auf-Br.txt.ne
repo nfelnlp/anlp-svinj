@@ -1,1 +1,0 @@
-['Ankara', '”', 'vor', '.', 'droht', 'EU', 'einer', ',', 'für', '„Visa-Freiheit', 'und', '”', '.', 'die', 'Gegenzug', 'aufnehmen', 'Union', 'Euro', 'Versorgung', 'Türkei', 'nach', 'aber', 'davor', ')']

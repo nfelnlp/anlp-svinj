@@ -1,1 +1,0 @@
-['Paris', 'Paris', 'Jung', 'Carole Bethuel', 'Paris', '« sind militant', 'Dinge', 'an der', ',', 'die', 'weiter', 'Draußen', 'ein', 'ein', 'Drehbuchfassung', '.', 'ein', 'Album', 'Noctarium an', 'auf\xadgenommen', 'Viennale', 'ihm', 'der', 'die', 'und', 'George A.', '. Der erste Teil', 'das 40 Minuten', 'Jahre', 'Abstraktion', 'Mechanik', ': Die', 'Bewegungen', 'zueinander']

@@ -1,1 +1,0 @@
-['Julia Wittenhagen', 'Frankfurter Allgemeinen Sonntagszeitung', 'Alice Schwarzer', 'als Inbegriff', 'anderen', 'Puppen', 'ist nicht', 'intellektuell und', 'das', 'Mutter', '\x84Rabenmutter\x93', 'Zeit', 'Es', '(', 'Paare', 'und', 'und im', 'mehreren', 'Perspektive existiert', 'mit Wirkung für oder', 'davon', 'Wahrheit', '. Deshalb müßte']

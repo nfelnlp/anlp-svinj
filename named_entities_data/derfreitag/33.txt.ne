@@ -1,1 +1,0 @@
-['Gruppe von', ',', 'Komintern', 'Interessen', 'Ausbildung', 'auch ungewusst', 'einer', ',', 'hat', 'Erkenntnislage :', 'zu', 'Dieser', 'neuen', 'selbst', 'wie', '.', 'Rückführung', 'Wiedereinführung', 'Prozesse', 'gegen die', 'daraus']

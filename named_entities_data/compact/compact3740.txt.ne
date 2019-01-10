@@ -1,1 +1,0 @@
-['ist', 'Pakistan', 'trennen', 'zentralistisch', 'in Afghanistan', 'den', '.', '.', 'gerade', '2014', 'Fuß', 'undurchsichtiges', 'Militärs', 'westliche', '.', 'es', 'keinen Zweifel', 'in', 'gegründeten', 'machen', 'in', 'egal', 'künftig', 'das', 'Keine', 'Familien', 'Abgaben', '. Die', 'Herrschaft', 'die', 'Drohnenangriffe', 'Staat', 'Die', 'in']

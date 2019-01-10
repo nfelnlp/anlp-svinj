@@ -1,1 +1,0 @@
-['beschäftigt sich', 'dem', 'Polizeieinsatz', '“', 'x-fach', 'x-fach vorbestrafte Tatverdächtige', 'der', 'Übergriffe', 'viele', 'scheinen', '.', 'einen', 'handelt', 'lautet']

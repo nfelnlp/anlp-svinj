@@ -1,1 +1,0 @@
-['Wirbel', '.', 'führen', 'Italiener', 'als', 'Seite', 'unterschreiben', 'an', 'das', 'das Feuer', 'Der', 'die', 'Die', 'MSF-Chef Loris', 'noch', 'der französische Hilfsorganisation', 'Schon im', 'der', 'alle', ', dass', 'ist .', ',', 'zeigt', 'Umtrieben', 'der', 'und', 'das', 'obige', 'was']

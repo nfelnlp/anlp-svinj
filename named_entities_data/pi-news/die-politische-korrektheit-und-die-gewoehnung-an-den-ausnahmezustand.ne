@@ -1,1 +1,0 @@
-['Stresemann', 'Datenleichen', '1986', 'dream it', 'Schreckensmeldungen', 'ab ?']

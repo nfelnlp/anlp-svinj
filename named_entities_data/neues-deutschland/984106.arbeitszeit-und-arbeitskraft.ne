@@ -1,1 +1,0 @@
-['Karl Marx', 'Ingo Stützle', 'Karl Marx .']

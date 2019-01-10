@@ -1,1 +1,0 @@
-['DFL', 'Tack', 'Darmstadt', '–', 'Bundesliga', 'gestellt', 'Verständnis', ')', 'Exklusiven ,', 'die', 'sind', 'Rahmen', 'was veröffentlicht', 'die heile', 'würden', 'richtig', 'eben die', 'damit', 'Journalisten', ',', ',', 'die', 'der', 'Aufgabe', 'vor', 'kann', 'bloße', '.', 'weniger', ',', 'Journalisten']

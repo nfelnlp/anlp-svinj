@@ -1,1 +1,0 @@
-['für', '``', 'direkte', ',', 'würde', 'auf', 'Kohlenhydrate']

@@ -1,1 +1,0 @@
-['Rom', 'Italien', 'Spanien', 'Italien', 'Rom', 'Barcelona', 'Nizza', 'Stockholm', 'Berlin', 'London', 'Vatikan', 'Rom', '.', 'Bologna', 'Turin', 'bereits', 'der', 'Modena zu sehen', 'Prophet Mohammed', 'von', 'drohte', '.', 'zusätzliche', 'In', 'Ermittlungen']

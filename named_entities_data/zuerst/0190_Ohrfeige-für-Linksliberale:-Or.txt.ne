@@ -1,1 +1,0 @@
-['Budapest', 'ungarische', 'Orbán', ',', 'Stelldichein', ', der', '„Migration', '“ ,', 'beitrug .', 'Bruckner ,', 'Standpunkt aus', 'nehmen versucht', 'die', 'Stiftung für', ',', 'ebenso', '”']

@@ -1,1 +1,0 @@
-['Washington/Kabul', 'Eine', 'im', 'wie', 'heißt es dort', 'gegen', 'Staat.', 'als', 'es', '” .', 'B-52-Bomber', 'ebenfalls', '1000', '.', 'der durch', 'auf']

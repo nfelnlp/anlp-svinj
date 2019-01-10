@@ -1,1 +1,0 @@
-['zähesten', 'Dienstag', ',', 'einer Kommandozentrale', 'endete am', 'bei', 'der', 'Bestimmungen', 'wegen', 'aus dem', '“ , das', 'Braune Haus ,', 'ein nationalsozialistischer Umsturz geplant', 'Fragen', 'nämlich', 'Parole', '.', 'die', 'der', ',', 'Meinungsfreiheit ,', 'ist', 'unseren', 'zur']

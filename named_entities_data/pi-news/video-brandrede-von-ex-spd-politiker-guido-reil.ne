@@ -1,1 +1,0 @@
-['Guido Reil', 'Reil', 'München', 'Guido Reil', 'SPD', 'SPD', 'Großen', 'Reil', 'den', 'von', 'hätten', 'durch Kanzlerin', 'Beruf Steiger im Bergbau', 'in', 'Alice', 'bewiesen ,', 'Frauen im', 'der AfD keinesfalls', 'auf', 'kalte', 'die', 'in den', 'den ländlichen Gebieten', 'es', 'bis']

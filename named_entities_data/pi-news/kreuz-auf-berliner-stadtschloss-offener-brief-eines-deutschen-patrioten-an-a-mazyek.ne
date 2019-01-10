@@ -1,1 +1,0 @@
-['“', 'stets', 'Obermuslim', 'auf', 'Ebene', 'auch', ',', 'unterstehenden', 'Schwestern', 'Meinung', 'die', 'ich Ihnen auch', 'aus', 'der', 'besondere', 'in', 'die', '.', 'man', 'wie „Deutschland', 'es', '„unser', 'auf', 'tatsächlich', 'man', 'ja', 'die', 'werden', 'würde', 'soweit', 'Nun']

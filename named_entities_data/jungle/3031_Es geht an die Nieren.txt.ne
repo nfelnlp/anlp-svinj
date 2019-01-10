@@ -1,1 +1,0 @@
-['von', 'anderen', 'Spendenden', 'möglichst', 'bei', 'anderer', 'Organspende gilt', 'tätig', 'oder']

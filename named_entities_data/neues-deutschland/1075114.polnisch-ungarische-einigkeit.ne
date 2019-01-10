@@ -1,1 +1,0 @@
-['.', '. Nicht', 'Moskau', 'Die', 'führte an', 'Budapest', 'Der', 'Amtskollegen', 'seit Dezember', 'Szydłos', 'Treffen ,', 'allerdings', 'zwei', 'EU-Kommission', 'nicht']

@@ -1,1 +1,0 @@
-['Peking/Langley', 'China', 'im', '“ jetzt unter Berufung', 'aus', 'US-Geheimdienstes', 'USA', '”', 'qualitativ', 'daß', 'am', 'herausgefunden', 'Meinungsverschiedenheiten gegeben : die', 'von', 'mü']

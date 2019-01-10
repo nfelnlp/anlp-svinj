@@ -1,1 +1,0 @@
-['dass', 'gegen', 'Mainz', 'Wiesbaden', 'Fürth', 'anderen', 'waren', 'Initiative', 'der', '.', 'Norbert', 'in', '. Verlierer', 'bundesweit', 'haben', 'SPD-Basis', 'das', 'letzter', 'sich', 'keiner Silbe', 'macht', 'Der', 'in', 'Koalitionsfraktionen', '-', ',', 'der', 'in']

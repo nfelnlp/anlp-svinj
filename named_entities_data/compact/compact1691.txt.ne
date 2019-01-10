@@ -1,1 +1,0 @@
-['die', 'Wilders', 'Le', 'die', 'das', 'den ersten 22', 'hatten', 'in', 'bisherigen', 'letzter Woche', 'kommentiert :', 'die', 'uns', '.', 'ignoriert', 'im', ',', 'die', '–', 'Euch', 'dass', 'seid', 'Macht', 'COMPACT-Magazin']

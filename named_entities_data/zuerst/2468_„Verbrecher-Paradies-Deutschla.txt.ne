@@ -1,1 +1,0 @@
-['Gesellschaft 3 Berlin', 'Bundesrepublik Deutschland', 'die', 'nach', 'mit', 'und', 'überfallen', 'latente', 'Terrorgefahr –', '„ungewöhnliche']

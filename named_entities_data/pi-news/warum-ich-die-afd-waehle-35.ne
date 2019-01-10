@@ -1,1 +1,0 @@
-['DIPL.PÄD', 'Vulnerabilität', 'Bindungsforschung', 'lernwillig', 'unverzichtbar zur', 'eben diesen', ',', 'leidet', 'eher', ',', ',', 'dies', 'der', ', ohne']

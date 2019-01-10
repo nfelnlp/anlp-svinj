@@ -1,1 +1,0 @@
-['und', 'sondern', 'Semestern', ',', 'hat', 'auch tut', 'es', 'eine hermetische', ', in', 'erfahren ,', 'spätestens in', 'mit', 'zu', 'Andersherum :', 'ideologischen', '\x96', 'nach', '\x96', 'das', 'meiner privaten', 'der', 'Verschärfung', '.', 'meiner publizistischen', 'Ihrer juristisch', 'dazu kommt', 'ein gravierendes', 'obendrein im', 'denunzieren .', ',', 'auch']

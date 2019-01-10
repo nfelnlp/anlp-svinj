@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'Albayati ,', 'Liberaler', '“', '“ (', 'ausgerichtet', 'Islam-Experte', ',', 'eröffnet', 'oder', 'an', 'gegen', 'Österreich', 'das Tragen', 'Kopftuch', 'macht']

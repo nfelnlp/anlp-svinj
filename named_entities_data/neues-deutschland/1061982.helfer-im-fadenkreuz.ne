@@ -1,1 +1,0 @@
-['Aktivisten', 'beschossen .', 'sagt über', 'Garantie', 'der das', 'leitet', ',', 'war', 'wo', 'Oppositionshochburgen', 'Angriffe', ',', 'weisen . Tatsächlich seien', '. Zahl', 'der', 'hätten zugenommen', '»', 'neue', ',', 'Eine', '- womöglich', ':']

@@ -1,1 +1,0 @@
-['. Die', 'und ihren', ', der', 'Seiner', 'ein', 'Anrufe von', 'konnten', 'die', 'Verkehrsgesellschaft', ') und', ') und die', '. dpa/nd']

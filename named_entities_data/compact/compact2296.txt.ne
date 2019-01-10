@@ -1,1 +1,0 @@
-['Noam Chomsky', 'Jan Böhmermann', 'erst', 'Perlick In', 'nicht', 'bedingungslos', 'der', 'Linke', 'Doch', 'aber', 'Literaturprofessors und Holocaustleugners', ', kam', 'Beweggründe', 'freie', ')', 'Es', 'Selbstausdruck', 'Person', 'Belästigungen', 'werden', ',', 'Niemand', 'unsere Staaten', 'mit', ',']

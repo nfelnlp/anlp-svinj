@@ -1,1 +1,0 @@
-[', der', 'durch', 'zogen', 'Salafisten', ',', '»', 'Polizeistreife', 'die', '.', 'die', 'Patrouille', 'Mal', 'den', '.', '.', 'Uniformierungsverbot', 'Vorgaben', '§', 'waren', 'sich', 'Rechtsradikale', 'dürften', 'den']

@@ -1,1 +1,0 @@
-['Teile', ',', 'April', 'verhandelte', 'Höchstquoten']

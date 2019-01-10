@@ -1,1 +1,0 @@
-['Paris', 'Frankreich', 'französische', 'Bruno Le Roux', 'Roux´ Feststellung', 'als', 'auf', 'auch', 'Orte', 'am', 'Feuerwehrmann']

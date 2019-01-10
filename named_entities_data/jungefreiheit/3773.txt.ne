@@ -1,1 +1,0 @@
-['Die', 'Schlachtviehs', 'Deutschland', 'in', 'Beziehung', "''", ')', 'der deutschen und', 'Fleischproben', '``', 'die', 'reichen', 'brauchte man ,', "''", 'durch', 'den', '.', 'der', 'bedeutet', 'Frage', 'Weltagrarpolitik', 'anerkanntes', 'wenn', 'aller', 'hinsichtlich', 'und']

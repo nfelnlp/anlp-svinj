@@ -1,1 +1,0 @@
-['«', ', in', 'einem', 'Anfang', 'benutzte 2000', 'Didier', '» Rückkehr', 'brachte', 'die']

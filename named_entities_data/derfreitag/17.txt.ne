@@ -1,1 +1,0 @@
-['Versprechen', '35/2015', 'Joko Winterscheidt', '„Einer dieser', 'muss sich', 'Krebserkrankung zurückziehen', 'wurde', 'eine Evolutionsstufe', 'nicht']

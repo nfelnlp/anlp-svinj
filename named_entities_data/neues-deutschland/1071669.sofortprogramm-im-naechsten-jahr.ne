@@ -1,1 +1,0 @@
-['( CDU', 'nach', ') forderte', 'deutsche', ') ,', ',', 'sei', ',', 'sich', 'ausländischen', 'Auswertungen', '» Es hat']

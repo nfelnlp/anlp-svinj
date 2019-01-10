@@ -1,1 +1,0 @@
-[', Mitglied', 'Foto', 'der Deutschen', 'dringenden Bitte', 'Maizière', 'der Arbeitgeberverbände –', 'der Universität', 'Buch werden', 'zwei erarbeitet', 'Assistent', ':']

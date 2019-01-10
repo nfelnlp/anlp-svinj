@@ -1,1 +1,0 @@
-['Geplanter Verschleiß', 'sprach mit', ', der', 'das', 'die', 'der', 'big', 'zur heimlichen', 'on planned', '.', 'Drucker aufschraube', 'war', 'Ein', ':', '?', 'nachfolgende Produktgenerationen', 'zusammenpassen', 'es', ',', 'der einen', 'der', 'auch schon', '. Sehr', '.', 'aller', 'dreier', 'Auftrag', 'E-Mail-Benachrichtigung über']

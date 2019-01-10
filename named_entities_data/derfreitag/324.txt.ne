@@ -1,1 +1,0 @@
-['Burton/Getty Images', 'Trumps', 'Puerta', 'Madrid', 'in', 'Wall', 'dominieren', 'Anmerkungen zu', 'unter', 'Wenn', '.', 'Souveränität', '? Sie', 'sollen', 'einer', 'auf', 'Eine', 'Anerkennung', 'Ausgang beim', 'Körper nimmt', 'in', 'zusammenleben', 'Hamburg Teilen :']

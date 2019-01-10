@@ -1,1 +1,0 @@
-['Haag', 'Niederlande', 'jetzt', 'Auftrag', 'darin', 'niedrigen Zinsen', 'die', 'Zuwanderung', ',', ') traumhafte', 'Wealth Management die', 'beim niederländischen', 'das', 'läßt sich nicht', 'im Nachbarland', 'Brzeski', 'Chefökonom', 'Sollte', 'Wilders', 'als Sieger', 'auch', 'gravierende Folgen']

@@ -1,1 +1,0 @@
-['Madrid', 'Skurril', 'Katalonien-Krise', '“ ,', 'sich', 'des transatlantischen German Marshall', 'Russische', 'destabilisieren', '.', 'angeblichen', ',', ', um', ',', '„russische', 'Madrider', 'in', 'dem', 'es', '„El Pais', 'die perfide Strategie der „pro-russischen', 'es ,', 'zu', 'erzeugen', 'Institutionen', '.']

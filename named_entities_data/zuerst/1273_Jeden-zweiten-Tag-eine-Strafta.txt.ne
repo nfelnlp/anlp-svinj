@@ -1,1 +1,0 @@
-['Gesellschaft 0 Berlin', 'Berlin', 'Polizei', 'seit', 'Sebastian', '34 )', 'motivierte', 'brennende', ',']

@@ -1,1 +1,0 @@
-['Bundeswehr', 'Willy Wimmer', 'Bundeswehr', 'die', 'der', 'NATO', 'UN-Entscheidungen', ',', 'Kriegsbefürwortern mächtig aufjaulen', 'NATO und', 'dort', ',', 'diesen', ',', 'der', 'ehemaliger', 'der', 'deutlich gewordenen', 'der', 'vorsieht', 'die', 'sein', 'ist', 'denn', 'doch', 'und', 'Amerikanern das', 'davon', 'fallen', 'sie', 'können', 'nicht', 'mit', 'sondern']

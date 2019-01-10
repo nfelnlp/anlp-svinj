@@ -1,1 +1,0 @@
-['Arbeitnehmer', 'schon nicht', 'dem Ast auf dem', 'beschweren', 'und', 'auch', 'weil', 'im', 'entsorgt', 'Hahn nach', 'kurzer', 'du', 'Sonderzahlungen', "erpresst ''", 'Zulieferer', 'aber', ', denen', 'im', 'Schlagloecher', 'im', 'eigentlich VW', 'Arbeitgebersteuern', 'eben', '...']

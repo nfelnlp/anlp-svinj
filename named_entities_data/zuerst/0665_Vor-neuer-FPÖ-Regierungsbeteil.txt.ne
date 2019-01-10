@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'Alpenrepublik', 'in', 'Vorgänge', 'wiederholen ,', ',', 'seien', 'möglichen', 'vom', 'sozialistischen Angstmache', 'zu', 'die', 'Äußerungen', 'offenbar', 'gegen die', 'So', 'Rande', 'die', 'sei', 'und', '„Europa', 'Kickl', 'einer', 'die']

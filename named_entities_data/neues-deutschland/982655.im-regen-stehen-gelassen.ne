@@ -1,1 +1,0 @@
-[', durch', 'Arbeit', ',', 'in', 'WAZ', 'vor', 'Essener', 'Der', 'davon', 'die', 'ein', 'eröffnen']

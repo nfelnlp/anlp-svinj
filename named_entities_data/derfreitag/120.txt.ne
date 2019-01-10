@@ -1,1 +1,0 @@
-['Patrick Stollarz', 'AFP', 'Getty', 'Selbst', 'eigene', 'Nachhaltigkeitskriterien', 'Grenzen', 'wird', 'Bezug', '.', 'kommende', 'für', 'Entscheidungen', 'eine', 'die', 'wäre', 'ist', 'Schwerpunkt', '95-köpfige', ', Angelika', 'und Ernst', 'Frage ,', 'und', 'unser Wohlstandsmodell', 'tragfähig gestaltet', 'kann . Partner sind', 'die', 'Hans-Böckler-Stiftung']

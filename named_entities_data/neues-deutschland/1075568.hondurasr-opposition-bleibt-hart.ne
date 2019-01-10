@@ -1,1 +1,0 @@
-['zur', 'Sula auf die', 'Hernández zu protestieren', 'Nasralla und seine', 'die', '-', 'bei der', 'Die', 'Almagro , Generalsekretär', '(', '( OAS', ',', 'Wahlbeobachter', 'der', 'Hernández anerkannt .', ',', ', wie', '.', 'offizielle', 'einen', 'jede', 'Hernández', ',', '27', 'der legitime', 'Sula gewaltsam niederschlagen', '. Daneben', 'versuchen', '»', 'Sein', 'zu', 'ungehört']

@@ -1,1 +1,0 @@
-[',', ',', 'legt', 'der', 'vorgibt ,', 'der', 'seinem ultradeepen Bass', 'Teppich zu', '2010', 'von', 'wird', 'und', 'keinen', 'es', '.', 'so', 'Kunst', 'Automat spielen', ',', ',', ',', 'auch', 'einem Rutsch', 'die']

@@ -1,1 +1,0 @@
-['der', 'hier', 'CDU', 'CDU )', 'einem Bein', 'das', '60', 'er habe', 'Grunewald-Grundschule gewohnt', 'lobt', 'wir', 'Grünen sagt', 'Schulen minimal', ',', 'Nach', 'dann', ',', ',', 'bis', 'Modellprojekte zu', '.', '.', 'will']

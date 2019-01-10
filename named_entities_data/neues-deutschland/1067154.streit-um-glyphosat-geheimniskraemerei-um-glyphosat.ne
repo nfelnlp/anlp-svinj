@@ -1,1 +1,0 @@
-['Vielleicht', 'auch', 'Unterlagen', 'Einflussnahme auf', 'darin die', 'seit', 'den', 'US-Saatgutkonzerns', 'es', 'fanden', 'zufällig', '2012', 'hier', 'BfR', 'war bereits', 'IARC', 'relevant', 'auseinander und', 'Kremayr &']

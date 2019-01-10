@@ -1,1 +1,0 @@
-['Gesellschaft 0 Berlin', 'Bundeswehr', '. „Es', 'Yaa-Asantewaa-Platz', ',', 'durch die', 'und die', '“', 'die', 'Adolf', '„wichtige Figuren', 'deutschen Kolonialherrschaft', 'einem Afrikaforscher', 'nun in', 'diesem', 'Rechtsgutachten', 'schauen jetzt', ')', 'Fahrzeugpapieren', 'Wikimedia/Chrischerf/CC-BY-SA-3.0']

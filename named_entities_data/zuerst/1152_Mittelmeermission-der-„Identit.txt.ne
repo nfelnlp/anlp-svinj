@@ -1,1 +1,0 @@
-['Famagusta', 'Mittelmeermission', 'in', 'wurde', 'die', 'auf', '. Auch', 'Sie', 'Sie hätten', 'möglich', 'von', 'der', 'der Anfahrt', ',', 'Man', 'aus ,', 'Zwischenfall', 'fünf', 'die']

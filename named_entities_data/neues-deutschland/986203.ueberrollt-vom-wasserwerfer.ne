@@ -1,1 +1,0 @@
-['Main ein Gedenkstein', '26.9.1985', '.', 'Haus', 'seinen', '.', 'hatten', 'Behörden', 'Wasserwerfer', 'die', ',', 'bundesweit', 'nach', 'auch', 'an', 'eine Polizeikugel', 'auf', 'Grab auch']

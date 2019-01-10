@@ -1,1 +1,0 @@
-['Arbeit von', 'Kain über Otto', '-', 'Otto Weidt', 'der', 'seinen Namen', 'Leben verdankte', 'Leben verdankte ,', 'Leben verdankte , war', 'seine', 'sich vieler', 'geborenen', 'er in', 'Kontakte', 'ein Jahr', "''", 'sich', 'damals', 'teilweise', 'sich', 'allem', 'Umgang mit', 'manchmal auch', "'", 'mit', 'Helfern im']

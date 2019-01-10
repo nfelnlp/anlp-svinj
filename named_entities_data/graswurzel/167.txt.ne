@@ -1,1 +1,0 @@
-['äußerte er', '``', 'bringt kleine', 'Seinserfüllung', 'mit Knallchargen-Pathos', 'gestrenge', 'persönlich kennen', 'Deutschland', 'Münster', 'jüngsten', 'Juni', 'GWR', ': ``', 'den', 'nachgewiesen', 'sich die', 'dieses Friedens-', 'für', 'Besonders begeistert', 'allerdings', 'einer Schmutzkampagne', 'ich', 'einer Zeile']

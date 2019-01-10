@@ -1,1 +1,0 @@
-['Haag', 'Geert Wilders', 'Wilders', 'Hofburg', 'österreichischen Freiheitlichen', 'Wilders', 'dazu', 'beschwerte', 'Den', ',', 'noch', 'niederländischen', 'zufolge', 'Staatsanwaltschaft', 'übergeben', 'aus', ',', 'das', 'Behörden auf', '.', 'Terroristen', 'und', 'sich']

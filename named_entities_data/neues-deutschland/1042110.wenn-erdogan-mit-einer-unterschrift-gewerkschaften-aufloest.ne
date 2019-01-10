@@ -1,1 +1,0 @@
-[',', 'Fast', 'losgesagt', 'weil', 'eines', 'eines einflussreichen']

@@ -1,1 +1,0 @@
-['Selberdenker', ',', ',', ',', ',', 'und', 'vor', 'Opfer', 'gerade rücken', 'Ahnen', 'Empörungswelle', 'postete ein', 'die', '„lächerlich', 'ja', ',', 'deren', 'nicht', 'Die', 'aus', 'ein', 'sehen', 'die', 'wegen', 'diesem', ',', 'Bereiche', 'aus', 'stetig', ',', 'normalen', ',']

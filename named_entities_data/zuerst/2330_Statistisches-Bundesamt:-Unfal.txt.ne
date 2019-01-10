@@ -1,1 +1,0 @@
-['Gesellschaft 3 Berlin', 'Berlin', 'und', 'N. , die', 'den Jeep des', 'Ampel grün war', '. ( tw']

@@ -1,1 +1,0 @@
-['von', 'her .', ', wie Angriffe', '. Nehmen wir', 'Mut', 'zu', 'Zeit', 'islamische', 'Millionen', 'Verbrechens', ',', 'sich', ',', 'bewahren', 'Hier deutet', ',', 'nicht', 'Bodenschätze', 'der', 'oder', 'Geister', 'die', 'hier', 'europäischen Rechten']

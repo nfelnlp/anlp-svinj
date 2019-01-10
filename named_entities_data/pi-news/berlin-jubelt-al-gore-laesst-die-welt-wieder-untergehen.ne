@@ -1,1 +1,0 @@
-['…', 'hatte Rudi', ')', 'grün', 'bis', 'bei', '30', ',', 'Gelben', 'Seitdem', 'Arche', 'Bio', 'Wie sein', 'Kino-Evangelium', 'schon', '.', 'Der Reporter', '. Nicht', 'Gore', 'Frostperioden', ', ausgetrocknete', ', heftige', 'und', 'auf', 'Diesel', ':', 'hieß', 'faseln', 'Wetter', 'der Schlagzeile', 'Hitze', 'Und', 'Israeliten', 'bei', 'hätten', 'sie', 'wieder', 'verschwafeln .']

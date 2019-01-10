@@ -1,1 +1,0 @@
-['Berlin', ', der', 'Schweden', 'haben', 'für', '–', 'Und', 'es', 'Anfang', 'Reisende', 'in', '.', 'und', 'gültiges', 'vorzuweisen', 'der', 'auch', 'keine Wertsachen', 'Einführung', 'oder', 'Waren', 'den', 'vor', 'bitten', 'Autofahrer', ':', 'März']

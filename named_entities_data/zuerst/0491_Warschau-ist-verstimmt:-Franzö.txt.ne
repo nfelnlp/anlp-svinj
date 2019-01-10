@@ -1,1 +1,0 @@
-['Paris/Warschau', 'Zwischen', 'Polen', 'es', ',', 'Nordwestfrankreich', 'werden', 'Polen', 'Jetzt', 'Landsmanns', 'Nachrichtenagentur', 'außerdem', '„Das', 'wurde', 'auf', 'der', 'Ort ,', 'II . im Jahr', 'besucht hatte . Ein', 'daß das Denkmal', 'entfernt', 'vor', 'Europäischen Menschenrechtsgerichtshof zu', ',', ')']

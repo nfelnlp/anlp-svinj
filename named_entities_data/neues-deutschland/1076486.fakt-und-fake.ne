@@ -1,1 +1,0 @@
-['.', '? Am', 'Amtseid', 'zuvor das', '.', 'Beraterin', 'dreisten Trump-Version', 'perfiden', 'perfiden Begriff']

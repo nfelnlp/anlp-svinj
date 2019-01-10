@@ -1,1 +1,0 @@
-['ich', 'Vertrieb', 'Wie', ',', 'rechnet ,', 'furchtbarer', ':', 'Wenn man', 'iPads', 'zu', 'Fehler', 'die Eisenstange', 'perfektem', 'Mitte', 'Merkel', 'KAUFEN keine', 'die Leser', '„Facharbeiter', 'Nafri', ',', 'Jahren', 'Dazu', ':', 'Bundestagswahl', 'Auflage', '5', 'einer einst', ', beschreibt er ,']

@@ -1,1 +1,0 @@
-['schleswig-holsteinischen Bünsdorf mit', 'Ende', 'er', 'Bergh , der', 'Landeszeitung “', '.', 'leisten', 'ein-']

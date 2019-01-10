@@ -1,1 +1,0 @@
-['Uruapan', 'Mexico', 'kanadischen Montreal', 'Kanada', 'USA', 'Mexiko', 'Montreal', 'Reuters', 'kanadische', 'werde noch', 'Wirtschaftswissenschaftler', 'dem', 'seinem', 'eine', 'schlimmen', ',', 'die', '.', 'Fahrzeugen', '.', '.', 'werfen', 'nach', 'eine Art', 'Tatsache', 'im', ', macht', 'angesichts', 'Wahlen', 'Die', 'für', 'machen']

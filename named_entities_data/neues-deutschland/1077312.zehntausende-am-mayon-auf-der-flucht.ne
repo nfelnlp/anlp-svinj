@@ -1,1 +1,0 @@
-['Rivero vom philippinischen', 'Kreuz', 'Vor', 'etwa', ',', '360', '. Rose', 'vom philippinischen', 'Kreuz', 'und', 'an', 'um', 'bei']

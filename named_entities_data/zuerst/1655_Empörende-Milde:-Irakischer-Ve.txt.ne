@@ -1,1 +1,0 @@
-['Wien', 'Justiz', 'Österreich', 'Wien', 'Wien-Meidling in der', 'Senkung des', 'die']

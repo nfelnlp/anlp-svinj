@@ -1,1 +1,0 @@
-['NPD', 'Kurs', 'gerade', 'gehe', 'über', 'und', '.', 'Strukturen', 'nicht', 'daß', 'Brandanschlags', 'es', 'zu', 'ein', 'ihm', 'anderer', ', daß hier', 'deutlich', 'Antwort', 'der', '.', ':', 'um eine undemokratische Position handeln ,', 'ganz', 'sein , egal']

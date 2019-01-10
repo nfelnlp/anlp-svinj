@@ -1,1 +1,0 @@
-['Wien/Rom', 'Zwischen', 'Österreich', 'der', 'Demokratische', 'die Einleitung', 'Österreich', 'Der', 'Innenminister', 'er sei', 'die', 'Initiative', 'und', 'der', '„ungerechtfertigt ”', 'Brenner', 'Matteo', 'reagierte mit', 'EU-Verfahrens gegen', '”', 'ORF', 'für', ':', 'im', 'wie Polen', 'gegen', 'seine', '”', 'Kritik', 'Kritik bleibt', 'Außenminister']

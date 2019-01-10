@@ -1,1 +1,0 @@
-['Jäger (', ')', 'musste', 'diesen', 'Tatverdächtigen', 'der Fälle ,', 'Bericht des', ',', 'Sexualstraftaten', 'nun', 'Köln', 'langer', 'wurden', 'um', 'der']

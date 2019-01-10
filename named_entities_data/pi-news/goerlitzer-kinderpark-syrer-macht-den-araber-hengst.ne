@@ -1,1 +1,0 @@
-['Zuwanderer soll', 'Hilfe', 'bevor', 'jedoch', 'Berliner', 'gegen den', 'großen', 'nachgewiesen', '“', 'ist', 'des', 'Scharia-Recht', 'des', 'Monate', 'besorgen', 'Richter Jürgen', 'unverzüglich', 'Strafverhandlung fest', 'ganzen', 'ganzen Völkergruppe', 'Urteil :', '.', 'Dorf', 'Tahrirolvasyleh']

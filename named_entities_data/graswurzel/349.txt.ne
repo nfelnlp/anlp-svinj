@@ -1,1 +1,0 @@
-['Beverungen', 'Weser', 'Fink', 'den', 'möglichst', 'Mund', '. In', 'stand', 'seinen typisch', 'ihr', 'schulmeisterlich', 'phrasenhaft', '``', 'seinem', 'Songkunst', 'wo', ',', '.', "''", 'wohl', 'Nacht', 'nie die', 'Humor', '.', 'völlig', 'am', 'nur']

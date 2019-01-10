@@ -1,1 +1,0 @@
-['Gesellschaft', 'Windeck', 'Die', 'Köln', 'wie', 'darüber', 'Schladern', '.', 'Zaun', 'dem', 'austauschen', 'beschäftigen']

@@ -1,1 +1,0 @@
-['Gesellschaft 11 Dresden/Köln', '„Es', 'Wochenende', 'jedoch', 'Bilder', 'rassistischen', 'von', 'verlassen', '.', 'weltoffen', 'abgefackelt']

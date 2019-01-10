@@ -1,1 +1,0 @@
-['. Die', ',', 'beim Parteitag', '.', 'für den', 'Bundestagsabgeordnete Annalena', 'Cem Özdemir', 'vor Monaten', 'verhindern', 'Pressekonferenz', 'drei', 'rief', 'auf', 'soziale']

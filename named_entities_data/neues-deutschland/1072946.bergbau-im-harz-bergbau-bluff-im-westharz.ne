@@ -1,1 +1,0 @@
-['Reimar Paul', 'Göttingen', 'Harz', 'kanadischer', 'Clausthal-Zellerfeld', 'die']

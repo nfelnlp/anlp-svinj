@@ -1,1 +1,0 @@
-['das ?', 'und', 'besitzen', '-', 'Pistolen', 'Immer', 'zur', 'einen', 'Vorschriften', 'verschδrft', 'einzudδmmen', 'Internet', 'Erlaubnisse', 'Partei', 'hat', 'braucht', 'Technisch', 'pyrotechnischen']

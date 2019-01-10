@@ -1,1 +1,0 @@
-['.', '. Die', 'bereits', 'sollen', 'Ermittler auf', 'mitteilte .', '. Eine Festnahme', 'die', 'Erfolg verbuchen', 'am', 'am Dienstag', '.', 'einer Woche', 'Thomas-Feuer ist', 'Westküstenstaates', 'betroffenen', 'Woche tobten ,']

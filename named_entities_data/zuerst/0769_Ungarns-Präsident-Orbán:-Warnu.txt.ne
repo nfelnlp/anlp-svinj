@@ -1,1 +1,0 @@
-['Budapest', 'ungarische', 'Orbán', 'Budapest', 'Vertretern', 'bei', 'wolle', '„ihrer christlichen', '„Flüchltingen', '-Stiftungen', 'sich', 'in früheren Ostblockländern', 'und', 'Parlaments-Wahlkampfes']

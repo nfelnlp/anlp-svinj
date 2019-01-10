@@ -1,1 +1,0 @@
-['Schwerin', 'Wöbbelin', 'Viola Tonn', 'Sie', 'auf die Reihen']

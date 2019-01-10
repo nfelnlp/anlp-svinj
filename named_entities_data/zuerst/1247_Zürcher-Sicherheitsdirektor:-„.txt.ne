@@ -1,1 +1,0 @@
-['Hamburg/Zürich', 'Angesichts', 'gemeldet .', 'die', 'Für', 'und', 'dürfen', 'Fehr', 'und', 'nicht', 'Trotz', 'Funksystem', '„Die', 'Unterstützung als', 'sp/tw', ':']

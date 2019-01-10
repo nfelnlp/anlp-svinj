@@ -1,1 +1,0 @@
-['Luxemburg/Wien', 'Der', 'Jean', ', ein', 'geübt', 'Dem „Spiegel', 'die', '„Wer so spricht', '”', 'ablehnt', 'notfalls', '.', '„wenn', 'daß', 'wachse', 'geäußert', 'Staaten', 'ÖVP']

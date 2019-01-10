@@ -1,1 +1,0 @@
-['London', 'EU-Bürger', 'aus zehn', 'Studie', 'und', ',', ',', ',', ',', ',', 'und', 'Vereinigten', 'durchgeführt', 'Befragt', 'die Studie', 'die']

@@ -1,1 +1,0 @@
-['Rußland', 'Krim', 'Kremlchef Putin', 'Kertsch', 'Krim', 'russischen', 'Putin', 'Krim', 'Ukraine', 'Krim', 'Sewastopol', 'Krim', 'Rußland', 'Putin', 'Krim', 'Russische Föderation', 'anti-russischen', ',', 'Abspaltung', 'werden .', 'mü']

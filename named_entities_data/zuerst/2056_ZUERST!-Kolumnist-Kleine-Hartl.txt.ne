@@ -1,1 +1,0 @@
-['Gesellschaft', 'beschäftigt sich', 'Deniz', 'und', 'und dem', 'deutschen Medien-', '. Nicht', 'sich', ',', 'als', 'durch die', ',', 'wenn', ',', 'Landes', 'zu behandeln', 'von seiner schönsten', ')', 'Minderheit', '2016', 'und nun', ': Der', 'Feindes ist nicht', 'er seine']

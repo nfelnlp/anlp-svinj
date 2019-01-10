@@ -1,1 +1,0 @@
-['Gesellschaft', 'Einige Beispiele', 'Tabakwaren in', 'Geschäft', 'sie', 'Großfamilie', 'einer', 'am', 'Mittwoch', 'am', 'einem', 'einem', 'am', 'Dresden', ',', 'Dresden', '30', 'Während', 'deutscher', 'Nach', 'und', '32jährigen', 'an und verletzten', 'hatte']

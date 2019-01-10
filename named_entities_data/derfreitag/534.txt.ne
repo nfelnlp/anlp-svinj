@@ -1,1 +1,0 @@
-['Heiko Maas', 'SPD', 'Adam Berry/Getty', 'Ein', 'deren', 'Politik', '.', 'bestraft', ',', 'alles andere', 'sexuelle Handlungen', '.', 'verletzte', 'ins „Zwielicht', 'des', 'geht', 'des', 'vorzüglich', 'Vergessen lässt']

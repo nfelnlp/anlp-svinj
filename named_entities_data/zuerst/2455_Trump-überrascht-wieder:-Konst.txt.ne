@@ -1,1 +1,0 @@
-['Washington/Peking', 'Die', 'immer', 'einen', 'an seinen', 'der versöhnliche', 'Außen-', 'und', 'ihrerseits', 'teilte', 'Erklärung mit', 'Brief', 'Neujahrsfest', 'Glückwunschschreiben', 'und', 'Neujahrsfest', '„sehr', 'kommentierte', 'Fudan', 'Shanghai', '.', 'auf eine', 'Botschaft', 'US-Präsidenten gewartet']

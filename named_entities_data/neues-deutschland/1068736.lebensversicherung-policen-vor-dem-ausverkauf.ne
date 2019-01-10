@@ -1,1 +1,0 @@
-['Nord bleiben', 'machen', 'Ergo', '.', 'einer', 'Betriebsversammlung', '-', '« .', '180', 'Euro', 'machen', '.', 'Abschied', 'klassischen', 'zu', 'Die', 'BaFin', 'in', 'Kundenbelange', 'zu', 'Der', 'wenn er', 'ich', 'aus', 'Finanzinvestoren mit', '«']

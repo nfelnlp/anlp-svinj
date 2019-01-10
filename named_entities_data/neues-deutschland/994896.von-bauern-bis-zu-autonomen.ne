@@ -1,1 +1,0 @@
-['Atomkraft', 'Florian Schmid', 'Oberpfalz', 'Wackersdorf', ', die atomare', 'wie', 'dreitausend', 'den']

@@ -1,1 +1,0 @@
-['Gesellschaft', 'Tulln', 'Niederösterreich', 'Tulln', 'Johann Baumschlager', '„in', '.', 'der „Krone', '.', 'Schritt', 'Wolfgang', 'ÖVP )', 'der brutalen', ',']

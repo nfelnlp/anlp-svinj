@@ -1,1 +1,0 @@
-['Marshall B. Rosenberg ,', 'ablehnt', '?', 'verfestigen', 'Rosenberg', 'Funktionsträger_innen', 'Rosenberg', 'regt', 'von', 'GFK', 'beschlossen', 'nicht', 'annehmen', 'der', 'Herrschaft', 'liegenden', 'wer', 'Tätigkeit', ')']

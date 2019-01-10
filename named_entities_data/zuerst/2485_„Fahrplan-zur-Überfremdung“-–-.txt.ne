@@ -1,1 +1,0 @@
-['über die', 'vor', 'keine', 'die', 'bezweifle', 'Einflußnahme', 'daß', 'daß', 'angezeigt', 'den Vergewaltigungsfällen', 'Berliner', 'festhält', '. September 2015', 'AfD', 'Kotré', 'Wirtschaft', 'dem', 'ab', 'er', 'bei', '2013', 'er', 'Länger im', '(', 'immer']

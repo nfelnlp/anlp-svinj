@@ -1,1 +1,0 @@
-['Daniel Roland/AFP/Getty', 'Die', 'in Karlsruhe', 'ESM', 'Parlament', 'mit Sicherheit', 'besten', 'dem', 'sein Spardiktat', 'Europa', '–', '.', 'nach', 'in', 'tiefe', 'und', 'Jugendarbeitslosigkeit', '.', 'Von', 'sinkenden Löhnen', 'Umdeutung', 'gegen', 'Geld', 'Konditionalität', 'Exporte', 'nützt', 'ausländischen', 'erster', 'die', 'der', 'Spanier', 'das ihre']

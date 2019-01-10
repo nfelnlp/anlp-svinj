@@ -1,1 +1,0 @@
-['Paris', 'ÖVP-FPÖ-Regierung', 'ohne', 'Die', 'angesichts', 'Regie', 'französischen Ex-Außenminister', 'die', 'außerdem', '! )', 'Miguel-Angel', 'sowie die', 'vor', 'der UN-Hochkommissar für Menschenrechte', 'die', 'österreichische Regierung gezeigt und', 'bezeichnet .']

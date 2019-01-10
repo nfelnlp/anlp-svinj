@@ -1,1 +1,0 @@
-['Jens Schlüter/Getty', 'Asylbewerber', ', die die einstigen', 'für', 'umzufunktionieren', 'auf', 'nach', 'Justizvollzugsanstalt', 'Das ,', 'den', 'Auch', 'weit Selbstbeschwichtigung', 'selbst', 'er', 'kürzlich', 'weit an der', 'deklarierten Unmutsbekundungen', 'die', 'für']

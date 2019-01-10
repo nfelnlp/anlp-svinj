@@ -1,1 +1,0 @@
-['AFP/ Getty', 'http', '//img18.myimg.de/DerUmfaller7ab50_thumb.jpg', 'Bundeskanzler', 'auf der', 'Medienberichte', 'es', 'in', 'aus', 'davon', 'gleich', 'beim', 'der', '50', 'Und', 'genau', 'das', 'sozialdemokratische', 'Irgendwas', 'sein ,', 'hat']

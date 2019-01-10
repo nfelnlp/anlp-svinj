@@ -1,1 +1,0 @@
-['München', 'russische', 'Sergej Lawrow', 'einer', 'Kalten', 'nach', '„pragmatisches', 'Rußlands', 'Lawrow', 'Beziehungen', ',', 'hatte', 'Donald', 'Rußland', 'für eine', 'zu', 'letzten', 'Syrien-Frage']

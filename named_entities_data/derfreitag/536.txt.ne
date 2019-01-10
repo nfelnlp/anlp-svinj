@@ -1,1 +1,0 @@
-['Es', 'nur', '31-Jährigen', 'Mädchen', 'Übel', 'fraglos', 'Schwarm', 'alltäglichen Staunen']

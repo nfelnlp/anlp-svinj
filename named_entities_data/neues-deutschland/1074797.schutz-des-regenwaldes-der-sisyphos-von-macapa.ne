@@ -1,1 +1,0 @@
-['auf', 'übrig', 'In', 'der', ', die Familie verschlug', 'studierte', '.', 'die', '.', 'den Fiebertod', 'Auftrag des', '.', 'lang .', 'stammende', 'Christoph', 'Eigentlich', 'nur zu', 'bei Verstößen', '.', 'Amapá', 'für', 'Bäume', 'ist', 'Dort']

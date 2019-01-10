@@ -1,1 +1,0 @@
-['CSU', 'Bayern', 'CSU', 'Seehofer', 'ARD', '“', '.', 'Josef Strauß verkommen', ',', 'Seit', 'es', 'doch an', 'doch an Schlog', '.', '.', 'Schlog !', 'ich', ', was 200.000', 'sind', 'sind', 'Jahr', 'und', 'Aufzählung', 'weitere', 'Mensch', 'irgendeine', 'gibt', 'CSU', ')']

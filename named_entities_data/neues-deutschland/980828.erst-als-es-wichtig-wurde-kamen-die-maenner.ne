@@ -1,1 +1,0 @@
-['Benjamin Ruß', 'Rudolf Stumberger', 'Schweiz', 'Berlin', 'Hattet']

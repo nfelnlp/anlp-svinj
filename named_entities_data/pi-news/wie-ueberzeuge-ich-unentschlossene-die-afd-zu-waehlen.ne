@@ -1,1 +1,0 @@
-['Angela Merkel', 'CDU', 'SPD', 'Grünen', 'Horst Seehofer', 'CSU', 'Merkel', 'Merkel', 'jetzt', 'hinterließ', 'können', 'indem', 'zu', 'diesen', 'für', 'bleibt', 'einmal', '.', 'die', 'Wahl', 'gehen', 'die', 'Selbst', ',', 'kurz', 'wackelt', 'eines', 'und', 'Deshalb', 'im', 'Aufbruch “ zusammengeschlossen', '.', '. Die', 'zu', 'ist', 'der', 'oder', 'das', 'und', 'die']

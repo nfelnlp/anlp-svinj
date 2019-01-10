@@ -1,1 +1,0 @@
-['Geld', 'Es', 'Wenn', 'geleistet', 'dumme', 'blauen', 'mit', 'Idee', 'Deutschland', 'wird', 'Deutschen', 'sogar', 'und', 'die', 'überhaupt merken', 'haben', 'wird', 'werden', 'als']

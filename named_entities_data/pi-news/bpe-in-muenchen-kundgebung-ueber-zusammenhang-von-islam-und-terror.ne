@@ -1,1 +1,0 @@
-['Pax Europa', 'Islam', 'tötete bei', '“', 'einem LKW', 'der', 'Religionen', 'die', 'kennt', 'diese „Religion', 'sehr', 'praktiziert', 'müssen', 'gefangengenommen werden', 'angezogen', 'den', 'Landesvorsitzende', ',', 'auf', 'offen', 'den Islam', 'Städten', 'war', '.', 'des', 'sie', 'würden', 'sich uns gegenüber feindlich', 'kommen', 'völlig']

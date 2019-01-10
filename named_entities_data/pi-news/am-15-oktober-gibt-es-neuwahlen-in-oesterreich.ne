@@ -1,1 +1,0 @@
-['Frank ,', ')', 'unter', 'sich', 'muss', 'zum', 'seine', 'angeblich', 'Richtung', 'von']

@@ -1,1 +1,0 @@
-['Wien', 'Sebastian Kurz', 'ÖVP', 'SPÖ', 'Grünen', 'Integrationsminister', 'islamisch-arabische']

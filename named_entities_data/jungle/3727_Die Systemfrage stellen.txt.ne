@@ -1,1 +1,0 @@
-['profiling', 'Köln', 'Köln', 'Polizei', 'Reuters', 'Wolfgang Rattay', 'Köln', 'Bundespolizei', 'Bundespolizei', 'Köln', 'Polizei', 'profiling', 'Polizei', 'Polizei', 'Silvester', 'geraunt', 'Polizei', 'racial', 'racial profiling', '–', 'Bernd Ulrich', 'Silvester', 'Polizei', 'sich', 'hat', 'auch', 'andererseits', 'Außengastronomie', 'zahlungskräftiges', 'Un\xadgewollten']

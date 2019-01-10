@@ -1,1 +1,0 @@
-['der', 'sogar', 'Spiegel', 'in einer', 'man', 'Prozent', 'Snapchats', 'sind', 'Millionen', 'einzufahren', '0,32', 'Snapchat', 'im dritten Quartal', 'einem', 'Nutzern', 'sozialen', 'Google', '.', 'New', 'am Vorabend', 'an']

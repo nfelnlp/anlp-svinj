@@ -1,1 +1,0 @@
-['Römer', 'Bauer', 'im', 'und', 'nannte', 'Die', 'schrecklich', 'den', 'nicht', 'weiß', 'Gleichheit', ',', ', ,Gleichheit', 'zu', 'zu schaffen', 'Luxemburg', 'NICHT', 'möglich zu', ',', 'Isolationsgesellschaft']

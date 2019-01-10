@@ -1,1 +1,0 @@
-['SPD', 'Gabriel', 'ewig Politik', 'weiten', 'VDS', 'nur', 'mit', 'ihre', 'CSU', 'Grünen', 'noch', 'zum', ',', 'jedes Vierteljahr', 'Noch', 'Trotzdem', 'regelmäßig']

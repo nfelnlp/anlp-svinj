@@ -1,1 +1,0 @@
-['Hobbes', 'gegen', ',', 'Gehorsam', 'sich', 'Zumutung', '.', 'Das', 'ist', 'gefallen', 'Begründung taten', 'entzögen', ',', 'blieb die', 'von', 'seinen', 'mit Polizeihelm', 'kein', 'Merkel die', 'ist der', 'Grundlage', 'dazugehören', ',', 'als', 'nur', 'auch geirrt', '.', 'Frau', 'ihrer']

@@ -1,1 +1,0 @@
-['CDU-Meinungsbeeinflussungsinstitut', 'AfD', '–', '.', 'Grüne', 'Linke', 'zunehmend', 'sind', ',', 'Nur', 'als', 'Denn', 'Beziehung', 'Bestand', 'Tatsächlich', 'nicht', 'es', 'diesen', 'weitgehend', 'Verruf', 'kapitalismuskritischer', 'Wahlkampfs hat', 'verzichtet']

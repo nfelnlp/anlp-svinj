@@ -1,1 +1,0 @@
-['Das', 'Das kann', 'es', 'Kandidatin an . Unter ihrem', 'Tod', 'Neid', 'abgebaut ,', 'an']

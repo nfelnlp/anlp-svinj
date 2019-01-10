@@ -1,1 +1,0 @@
-['Budapest/Warschau', 'Der', 'hat der', 'Polens', 'um', 'umstrittenen Justizreform', 'Möglichkeiten', 'mit', 'vom', 'vor', '„Inquisitionskampagne', 'um', 'zu', 'Visier', 'die', 'eröffnet', 'weil', 'sich', 'sich nicht', 'EU', 'die', 'umstrittene', 'Justizreform', 'unterzeichneten Gesetzes', 'ordentliche']

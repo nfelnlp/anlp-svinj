@@ -1,1 +1,0 @@
-['Leopold-Panzer', 'auf dem', 'In', 'der', 'die kurdische', 'der', 'Bernd Riexinger', 'Sahra Wagenknecht', 'Bartsch', 'müsse jegliche', 'müsse jegliche Unterstützung', 'über', '.', 'mit einem', 'würde', 'seinen', 'Kriegsreden', ',', 'Leopard-Panzern', 'Panzerfabrik', 'der', 'fordern', 'Afrin']

@@ -1,1 +1,0 @@
-['Der Tatbestand', 'wegen', 'als', 'als miefiges', 'als miefiges ,', 'man', 'gegen', 'Abs', 'Beleidigung', ', mir']

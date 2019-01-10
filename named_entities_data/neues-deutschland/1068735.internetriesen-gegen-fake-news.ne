@@ -1,1 +1,0 @@
-['. Führende', 'verstärkt', 'ihren', 'Auslöser', ',', 'des US-Senats', '. »', 'laut', 'Internet zur', 'erklärte', 'zu', 'in', 'Kent Walker und', 'im offiziellen Blog', 'sich', '» begrenzte', '« .', 'einem', 'werden', 'Die', 'Sieg', 'Es', '« für', 'sagte', 'der Russland-Affäre', 'prorussische', 'anderem', 'dritten Angeklagten', 'Falschaussagen angelastet']

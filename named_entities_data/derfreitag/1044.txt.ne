@@ -1,1 +1,0 @@
-['2005 gegründeten', 'beiden', 'Culturas', 'der', 'der Nähe', 'beiden', 'Dreitagebart', 'und', 'Antwerpen', 'mit', 'Kunsthandwerkern', 'deren', ',', 'neue', 'für', '.', ',', 'sie', '–', 'wurde', 'trägt', 'dank', 'Nascimento', 'passt', 'mit', 'für', 'vermitteln', '12.000', 'USB-Lautsprechern', 'Vibration', 'kämpfen', ',', ': Firmen', 'dem', 'nicht extra noch', 'sich', 'Projekte']

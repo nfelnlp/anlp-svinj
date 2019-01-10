@@ -1,1 +1,0 @@
-['Nigeria', 'Lagos', 'Niger', 'Ekpei', 'AFP', 'Getty', ', der', 'studierte Englisch', 'lehrte', 'der', ', bevor', 'in', 'als', '– Buch', 'die Geschichte', 'Kontakt', 'hofft', 'zu', ',', 'finden', '.', 'unternimmt', 'Klassikers von', 'Mr.', 'selbst', ';', 'brannten', ',', 'auch ambivalentes', 'die', 'Rufus', 'somalischen', '. Das', 'als', 'Das neue', 'fünf']

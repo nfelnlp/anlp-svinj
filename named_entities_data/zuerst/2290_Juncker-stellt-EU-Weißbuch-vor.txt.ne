@@ -1,1 +1,0 @@
-['Brüssel', 'hat jetzt in Brüssel', 'das', 'In', 'Brexit', 'Zukunft', 'darauf', '”', 'solchen', 'die', 'einem „Weiter', 'intensivierten', '.', 'wünschenswert']

@@ -1,1 +1,0 @@
-['Afrika', '– obwohl', 'der Bundesrepublik', 'ist', '„ausländischen Mitbürgern', 'hier', 'Jahren', 'selbst', 'sich', 'Wort', 'Wahrheit', 'vollendete', 'Strategie', 'seinen', ',', 'eine', 'Afrika', 'braucht', 'Deutschland', 'mit', 'staatlichen', 'hingeben', 'die', 'Deutschland', '.', '„Flüchtlinge', 'nach']

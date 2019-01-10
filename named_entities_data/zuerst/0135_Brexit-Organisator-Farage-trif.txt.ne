@@ -1,1 +1,0 @@
-['Brüssel', 'EU-Kritiker', 'als Organisator', 'gilt', 'Verhandlungen', 'Barnier', 'Farage unzufrieden', 'erklärte', 'den', 'denn', 'von', 'Premierministerin', 'bis', 'nicht', 'die zum', 'sein ,', 'Der', 'er', 'EU und', 'Farage', 'steigen werde', 'verschwenden', 'Artikel', 'gesprochen', ',']

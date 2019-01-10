@@ -1,1 +1,0 @@
-['SPD', 'Sean Gallup/Getty', 'Zu', 'Mitglieder', 'SPD-Chef', 'ungeahnte Aufmerksamkeit', '.', 'die Argumentation schlicht', 'und', 'Abgeordneten', 'könnten', ':', 'Inzwischen', 'sich', 'ihm', 'darum geht', 'und', 'habe .', ': auch', '.', 'Regel']

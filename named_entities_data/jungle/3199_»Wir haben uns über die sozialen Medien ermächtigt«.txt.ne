@@ -1,1 +1,0 @@
-['Journalistinnen', '\xadMexiko-Stadt im Hackerspace »', 'getan', 'sehr', 'in', 'nur', 'sei', 'die', 'nicht', 'gegen', 'hat', 'einfach . Du']

@@ -1,1 +1,0 @@
-['Zu', 'und im', 'dem', 'nur', 'Wald', 'Der', 'hatte', 'einen', ', Geschäftsleiter', 'NRW', 'Auslassung', 'dem', 'Jansen', 'RWE und', 'NRW', 'Oberverwaltungsgerichts', 'hätten', 'Gelegenheit', '»', 'erstmal', 'Einsatz', 'Sicht', 'an', '.', 'Die Grünen haben', 'fordern', 'dazu', ',', 'allen Beteiligten', 'einen', 'wenn', 'kritisch', 'stets']

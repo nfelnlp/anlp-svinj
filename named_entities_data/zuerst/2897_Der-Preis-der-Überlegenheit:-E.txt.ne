@@ -1,1 +1,0 @@
-['Whiteman/Missouri', 'Der', 'Eine', 'von', '“', '1987', ', der unter', 'Irak 1991 und', 'geschrumpft', 'ist', 'längst', '(']

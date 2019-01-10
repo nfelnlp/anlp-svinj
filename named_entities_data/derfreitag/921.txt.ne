@@ -1,1 +1,0 @@
-['Philippe Huguen', 'Financial Times', 'dort jetzt', 'offenlegen', 'Quasi-Monopolist', 'Internetsuche', 'einen', 'werden']

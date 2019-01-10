@@ -1,1 +1,0 @@
-['Tobias Prüwer', 'Aviv ,', 'und', 'es', 'sich', 'oder', 'wie', 'angehören', 'Crowdfunding-Kampagne einige', 'den', 'und', 'wie chemisches', 'Stammzellenbiologie und regenerative', 'pflanzen', '’', 'Leberzellen', '100', '500 Euro', 'und', 'herstellen', 'man', 'Deutschland', 'Wurst', 'Frauen']

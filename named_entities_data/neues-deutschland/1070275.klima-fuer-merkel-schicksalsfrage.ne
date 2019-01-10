@@ -1,1 +1,0 @@
-['. Bundeskanzlerin', 'Merkel ( CDU', 'hat', 'Mittwoch', 'Deshalb', '»', 'einfach.', 'in', 'anderen', 'Einschätzung', 'der', 'ist', '2020', 'enttäuscht', 'und', 'Deutschland', ')', 'Ann-Kathrin', 'Im', 'Klimaschutz-Index der']

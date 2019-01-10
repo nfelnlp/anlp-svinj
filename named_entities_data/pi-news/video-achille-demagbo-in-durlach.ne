@@ -1,1 +1,0 @@
-['Die', 'über', '.', 'des', 'Sprecher', 'des', 'auf', 'Eigentlich eine', 'Anhänger', 'Er', 'Abstammung', 'in', 'seiner', 'Gesellschaft', 'arbeitet', 'nicht', '-politik', '. Durch', 'Windkraft', 'durch nicht', 'das', 'Brandt', 'haben .', 'die', 'der', 'PI-NEWS', 'wie', 'bekennende', 'hat', 'extrem', 'in', 'für', 'CDU', 'machte', 'sehr guten', 'sehr', '.', 'von', 'wie sicher .']

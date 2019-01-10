@@ -1,1 +1,0 @@
-['Ben Hur', 'Pensionär', 'pro', 'und', 'sein', 'macht', 'Herberts', 'Tagen', 'Arbeit', 'langsam', 'aus', 'etwa', 'großen', 'Schlupflöcher', 'die', 'und', 'ob', 'Einschätzungen', 'um weitere', 'oder halbherzige', ',', '.', 'überfordert ,']

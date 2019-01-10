@@ -1,1 +1,0 @@
-['Alireza', ',', 'gehört', 'der Verfasser', 'würde', 'Ernst', 'ihm wurde', '“', 'Er', 'Er schrieb', 'einem', 'harte', 'harte Nation', 'schreiben !', 'aber ist', 'Identität', '.', 'Laufe', 'symbolisiert hatte', 'schon', 'haben ,', 'die sozialen', 'von Links', 'in der', 'militärischen', ',']

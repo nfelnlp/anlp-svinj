@@ -1,1 +1,0 @@
-['. Der', '( PLO', 'aufgerufen', 'Israel', 'nicht', 'in', 'und', 'als Israels', 'Es', 'unklar', 'Formell', 'im', 'befugt', 'Trumps am Sonntag']

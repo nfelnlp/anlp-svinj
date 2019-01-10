@@ -1,1 +1,0 @@
-['durchpflügten', 'wüster', 'wüster Ersatzreligion', 'Arne Fischer', 'Club of Rome', 'alsbald', 'machte', '| 2014', 'glücklich', 'eiseskalt', 'und Krisen', 'gelockt', 'vor']

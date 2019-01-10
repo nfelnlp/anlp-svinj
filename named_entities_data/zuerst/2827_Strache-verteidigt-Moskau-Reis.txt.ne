@@ -1,1 +1,0 @@
-['Wien', 'FPÖ-Parteichef', 'hat erneut die Moskau-Reise', 'Amtsträger', 'außenpolitischen', '.', 'bauen', 'USA', 'man', 'Partei', '. Ein', 'Österreich wäre', 'Gesprächen', 'Moskau', 'um', 'der', 'habe', ',', '”', 'FPÖ-Chef', 'Lasar', 'worden']

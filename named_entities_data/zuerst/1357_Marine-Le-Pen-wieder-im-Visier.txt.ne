@@ -1,1 +1,0 @@
-['Paris', 'Front National', 'Marine', 'Pen', 'im', 'für', 'Fall', 'Arbeitsverhältnisse', 'schon', 'Zeit', 'Le', 'die französische', 'die französische Nationalversammlung', 'verlassen', 'stets', 'nach gegen', 'entstanden']

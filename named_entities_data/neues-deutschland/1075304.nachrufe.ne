@@ -1,1 +1,0 @@
-['Carmen Franco Polo', 'Carmen Franco Polo 14', '» Carmencita «', ',', 'spanischen Diktators', 'Franco .', 'Parlament', 'Ultrarechten', 'Franco ließ', 'vor , mit', 'dessen', 'verfrachtet', ', und hatte', 'eigenen Bett', 'eine', 'mli Sue', '1940 – 28', 'Sue', 'dem Titel', '60er', 'mit', ', dem']

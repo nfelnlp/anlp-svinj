@@ -1,1 +1,0 @@
-['Nichtwähler', 'aber', 'liegt', 'entblödet', 'die', 'es', 'rotrotgrün']

@@ -1,1 +1,0 @@
-['Fühlingen', '„Flüchtlinge', 'nördliche', 'Einwanderer', 'bereits', 'überrollt', 'von', 'die', 'in', 'hatte ,', 'Flüchtlingen', 'Wer', 'Wer seine', 'so', '.', 'kommen', 'sie', 'sagt']

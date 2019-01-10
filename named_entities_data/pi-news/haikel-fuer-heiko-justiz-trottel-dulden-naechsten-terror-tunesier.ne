@@ -1,1 +1,0 @@
-['J.D', 'Deutschland', 'Frankfurt', 'Woche', 'Bei', 'Attacke', ',', 'ein', 'habe', 'Wie', 'darf', 'Die', 'die', '“', 'unanfechtbar', 'Beamte', 'weiteren', 'November', 'Auslieferungshaft', 'Polizisten', 'Die Ermittlungen', 'Verdächtige', ',', 'unbegründet', 'zu', 'Zuge', 'Millionen', '–', 'nur', '“ des', 'des', 'hoher', 'Beispiel', 'Thomas , Heiko', 'Co']

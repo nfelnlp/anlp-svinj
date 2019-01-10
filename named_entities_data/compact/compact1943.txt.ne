@@ -1,1 +1,0 @@
-['Ulrich Schneider', 'Anrechnungszeiten', 'Mindesteinkommen', 'schmälert', 'facto', 'Senioren', 'Senioren', 'Senioren', 'OECD', 'Deutschland', '.', 'lediglich über']

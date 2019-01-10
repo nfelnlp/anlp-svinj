@@ -1,1 +1,0 @@
-['Deutsche', 'facto', 'Björn Höcke', 'hat', 'verfasst : Sehr geehrter', 'Gesetzentwurf eines Gesetzes', 'Verbesserung', '2', 'Liesching', 'geänderten Fassung', 'Der wissenschaftliche', 'Gutachten', 'geladenen', 'zudem', 'Stellungnahme', 'auf', 'gegen den', 'bekannt', 'Gesetz', 'seiner', 'Phönix', 'und', 'übrigens', 'Art und', 'Prüfungsrecht und', 'Prüfungspflicht']

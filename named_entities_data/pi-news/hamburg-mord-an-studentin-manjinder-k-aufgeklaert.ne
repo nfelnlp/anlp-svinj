@@ -1,1 +1,0 @@
-['blutüberströmt', 'Manjinder K.', 'Die', 'Eltern', 'konnte der Mord', 'auf', 'ihn dem', 'Einzelheiten', 'K.', 'Studentin nach . Der', 'und', 'beseitigen', 'in', 'er', 'und', 'unter', 'Soopika', 'und', 'hat', 'hat sie', ',', 'ein', 'in Enschede', 'Violine', 'An', 'beschenkte', '30', 'schwieg über', 'im', 'und', '“']

@@ -1,1 +1,0 @@
-['Deutsche', 'DB-Werbespot', '’ Lebzeiten :', 'Lässig', 'er', 'Hals', 'morgen', 'ICE-Lok', 'Frau', 'Lokführerin', 'etwas', 'Den']

@@ -1,1 +1,0 @@
-['Washington', 'einmal', 'der', 'ein', 'jetzt wieder', 'ist .', '.', 'erklärte ein', 'Beamter des', 'Sicherheitsrat', 'Strippenzieher', 'Stelle', '„In', 'den', 'werden', 'und', 'steht auf']

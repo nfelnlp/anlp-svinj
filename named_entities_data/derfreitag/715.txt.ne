@@ -1,1 +1,0 @@
-['Tama/Getty', 'Aus der', '„Die', 'haben', 'den', 'sofort', 'in', 'die ihren', 'Janeiro', 'Ausgabe 18/2014 vom', 'haben', 'gehört', 'zu einer', '.', 'der', 'und', 'neuen', 'bewachen', 'Millionen', 'brach', ',']

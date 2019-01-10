@@ -1,1 +1,0 @@
-['. Berlin', 'Linkenchefin', 'Kipping hat sich', 'politischen', 'Sonnabend', 'der', '.', 'eine Absage', 'SPD', 'Auch', 'die Idee', 'angesichts', 'Führungsstreits', 'zerstritten', 'Wagenknecht und', 'neben', 'Rivalitäten', '»', 'was', '-', 'neuen', 'unter', 'verabschiedet', 'davor', '.', 'die', 'Reichtum']

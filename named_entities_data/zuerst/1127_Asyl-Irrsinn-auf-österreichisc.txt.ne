@@ -1,1 +1,0 @@
-['Wien', 'Bundesrepublik Deutschland', 'Österreich', 'Wien', 'österreichischen', 'Brüssel', 'Österreich']

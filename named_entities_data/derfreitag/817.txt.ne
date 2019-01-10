@@ -1,1 +1,0 @@
-['mit Geert', 'Giulia Baccosi / transmediale', 'ShareMeNot', ', Medientheoretiker', 'Network Cultures und Autor', 'Networks', 'a', ', rief', '.', 'seinem', ',', 'dar .', 'können', 'und', 'außerdem']

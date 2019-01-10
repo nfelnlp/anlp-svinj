@@ -1,1 +1,0 @@
-['Volker', 'das', 'sich', ',', 'zugespitztes dokumentarisches', ':', 'Ausgabe', '.', 'mit', 'und', 'fetter', 'wildem', 'griechische', ';', '.', 'Augen', 'teilhaben']

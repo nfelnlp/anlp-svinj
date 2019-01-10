@@ -1,1 +1,0 @@
-['ein', 'neue', 'geschickte', 'Das Kunstwort', '.', 'Deutschen', 'durchsetzte', 'englischen', 'Länder', 'Wort', 'keine', 'anarchischen', 'einer', ',', 'Begrifflichkeiten zu', 'und', 'mitschwingt', 'der', 'dieser', '.', 'freundliche', ',', 'wie', 'des', '.']

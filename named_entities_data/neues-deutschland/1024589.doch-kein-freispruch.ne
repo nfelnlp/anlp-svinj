@@ -1,1 +1,0 @@
-['.', '. Die', 'gegen', 'Gegen ein', 'Atomwaffengegner', 'mit .', 'Cochem', 'anhängig', 'verteilt', 'wirft', 'vor', 'aufgerufen']

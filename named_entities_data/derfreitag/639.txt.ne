@@ -1,1 +1,0 @@
-['Images', '2015', 'ja', 'noch', ',', '.', '„denen', 'im', 'die', 'im', 'Weg', 'Wo', 'allen', 'viel', 'wieder', 'betont', 'das', 'gehen', 'klangliche Qualität', 'die', 'ziehen', 'sich']

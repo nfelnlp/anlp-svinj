@@ -1,1 +1,0 @@
-['Internetgesellschaft Von', 'Brand und', 'im Veranstaltungsgelände', 'Hundert']

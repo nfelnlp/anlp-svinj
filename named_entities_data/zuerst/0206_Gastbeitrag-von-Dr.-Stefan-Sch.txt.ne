@@ -1,1 +1,0 @@
-['Win\xadston Churchill', 'angebliche Prüfung', 'vom', '„Am', ']', 'vor den', 'Dieser', 'und', 'Dieses', 'erforderte', 'Krieg', 'über', 'dafür', 'Krieg', 'Prominente', 'nicht', '.', 'November der', 'ebendieses Horn', 'und', 'sich', '.', 'Wortlaut', 'und', 'zu', '.']

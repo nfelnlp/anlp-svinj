@@ -1,1 +1,0 @@
-['Hamburg', 'Hamburg', 'von', '!', 'an', 'Genozid', 'das', 'und', ',', 'was', 'da', 'da sich']

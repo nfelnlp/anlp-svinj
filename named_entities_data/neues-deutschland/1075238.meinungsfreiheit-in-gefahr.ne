@@ -1,1 +1,0 @@
-['.', '. Nach', 'den Tweets', '» Titanic «', 'SPD', 'Donnerstag das Gesetz', 'das', '. Darin']

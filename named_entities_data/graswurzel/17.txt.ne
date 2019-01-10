@@ -1,1 +1,0 @@
-['Russland', 'Revolution selbst', 'bestimmt', 'die Bolschewiki', 'es', 'vorantrieben', '1917', 'weitere', 'waren', 'als', 'einer', 'den Sieg', 'arbeitenden', 'die an', 'auseinandergehen', 'arbeitenden ``', 'Projekt', 'Russischen', 'Französischen', '.', 'erbitterten', 'Ordnung', 'welche', 'Matrosenproteste']

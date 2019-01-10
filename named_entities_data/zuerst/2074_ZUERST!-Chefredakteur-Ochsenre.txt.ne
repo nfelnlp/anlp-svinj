@@ -1,1 +1,0 @@
-['beschäftigt sich', 'AfD', ', Kardinal', 'Marx , hat', 'AfD', 'grob', 'Christ', 'liefer\xadte gleich', ', wo', ',', 'war', 'Einige nennen Marx', '.', 'auch', 'Sorge', 'Warnungen', 'Vielleicht einige', 'Denn', 'die', 'legt', 'wirklich', '180.000', '217.000', 'schlechten Zu\xadstand wie']

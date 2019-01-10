@@ -1,1 +1,0 @@
-['Ausstieg', 'der', ')', 'Kongo', 'am', 'der', 'jüngste', '.', 'Norden', 'Beharrungsvermögen']

@@ -1,1 +1,0 @@
-['doch überraschend', '.', ',', 'geschafft', 'man', 'Recht', 'Wer', 'eins', 'und', 'Es', '.', 'unendlich', 'hat', 'InMove-Chef', 'untertauchen', 'hilft es ,', 'zum', 'für']

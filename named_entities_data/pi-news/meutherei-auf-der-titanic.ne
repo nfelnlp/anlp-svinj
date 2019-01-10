@@ -1,1 +1,0 @@
-['Jörg Meuthen', 'verlockend', 'Rede', 'war der', 'Die', 'eigentlich nicht', 'bislang', 'Syrien', 'gebracht', 'antiglobalistisch', 'erfolgreich sein', ', diesen', '. Nun', 'dass', 'gezwungen', 'Edward', 'und Stärke seines', 'unterscheidet', 'ein starkes', 'Bord', '„Wir']

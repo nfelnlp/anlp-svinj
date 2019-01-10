@@ -1,1 +1,0 @@
-['. Nur', 'Käufer gefunden', 'österreichische', ', wie', 'Landerechte', '»', 'Lösung', 'Gläubiger und', '.', '«', 'die bereit', 'Niki', 'Euro']

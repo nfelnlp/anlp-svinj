@@ -1,1 +1,0 @@
-['Gesellschaft', 'Hamburg', 'Helmut-Schmidt-Universität', 'Hamburg hat ein', 'ihres', 'abgehängt .', 'Bild', 'auf', 'Wehrmachtsbilder', 'sämtliche', '(', 'der', 'Verteidigungsministerium', 'Schmidt', 'rahmenlosen Bildhalter im Wohnbereich', '“', 'das', 'Bild ist', 'ist hier', 'zur', 'tw )']

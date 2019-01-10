@@ -1,1 +1,0 @@
-['Budapest', 'Budapest', 'Rekord-Geldstrafe', 'wird', ',', ', der Jobbik', 'zu Verfügung', 'Aktion', 'die', ',', 'wolle', 'Parlamentswahlen', 'Schlagabtausch', '(', ')']

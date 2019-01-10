@@ -1,1 +1,0 @@
-['fehlten', 'Anfrage', 'stammen.', 'der', '“', 'über', 'Kriminalität', 'warnte', 'Katharina', 'Stadtrat ,', '“', 'der', 'FDP', '„', 'Wenn', 'in 20', 'eventuell', 'Bürger', 'nicht', 'nicht']

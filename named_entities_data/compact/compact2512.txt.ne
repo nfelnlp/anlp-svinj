@@ -1,1 +1,0 @@
-['GEZ-Medien', 'bin', 'Jahren', 'Sie sagte', 'einem', ',', 'sie', 'Migration', 'längst', 'Texte', 'uns', 'gleichgeschaltet', 'hört man', 'Regierung vorgegeben', 'Es', 'tatsächlich', 'ich', 'Süddeutschland', 'tot', 'lebendig', 'Zombie', 'Führerin', ',', 'nichts', 'lebendige demokratische', 'Schatten', 'dass', ',', 'der Vampire', 'Folgt']

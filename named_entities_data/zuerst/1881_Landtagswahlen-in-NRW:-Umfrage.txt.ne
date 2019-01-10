@@ -1,1 +1,0 @@
-['Düsseldorf', 'Nordrhein-Westfalen , bis', 'einen', 'Vorsprung', '.', 'am', 'fünf', 'gehen könne', 'in', 'Prozent', '36', ',', 'Kraft', 'Linken', '“', 'und', 'Linke']

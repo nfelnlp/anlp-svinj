@@ -1,1 +1,0 @@
-['Bergisch-Gladbach : Ein', 'einen', 'zwischen dem', 'Polizei und', 'eine', '. Während', 'Hier', 'in die Presse', 'ehrlich gesagt schon', 'des', 'überhaupt noch fragen', 'nochmal', 'Deutschland gelassen ohne', 'Wir', 'dann nicht feststellen', 'übliche', 'auf', 'Facebook-Seite']

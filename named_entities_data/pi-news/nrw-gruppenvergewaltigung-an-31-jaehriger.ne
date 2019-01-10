@@ -1,1 +1,0 @@
-['Leverkusen', 'Lützenkirchen', 'Polizei Köln', 'Anschließend', 'Anweisung', 'eine', 'Frauen', 'Gaststätte', 'mutmaßlichen', ',', 'sie', 'die', 'beiden', 'ist', 'Nach', 'Besucherin', 'Ägypter', 'und', 'und', 'Am', 'Den', 'zieht', 'auffordert', '18 Jahre', 'dem', 'Gruppe', 'circa', 'jungen', 'beobachtet', 'im Bahnhof', '34-Jährige', 'Beisein']

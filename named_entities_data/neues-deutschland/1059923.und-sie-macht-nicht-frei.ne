@@ -1,1 +1,0 @@
-['Anne Allex', 'Peter Nowak', 'NS', 'Arbeiterbewegung', 'Weimarer Republik', 'welcher', 'Gefährdung']

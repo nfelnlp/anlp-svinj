@@ -1,1 +1,0 @@
-['Grothe', 'Grote', 'musste', 'denken', 'In', 'ca', 'km', 'liegt', 'Straßenverkehr unerwartete', 'vorhersehbare']

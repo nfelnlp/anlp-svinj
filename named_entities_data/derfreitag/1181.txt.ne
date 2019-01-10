@@ -1,1 +1,0 @@
-['Alfred Kubin', 'Johannes Schaaf', 'Karl-May-Wüstenlandschaft ,', 'Karl-May-Wüstenlandschaft , in', ', die', 'aus', 'von 1973', 'dem', 'urbanen', '(', 'man hier', 'Begehren', 'doch', 'zählen', 'Zwischenspiel bald', 'der unzählige', 'vor leerem', 'permanent obszön', 'zu', ', eigens', 'kann .', ',', 'am', 'sehr', 'den', 'schießt', 'für']

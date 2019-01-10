@@ -1,1 +1,0 @@
-['Kiew', 'Ukraine', 'Rußland', 'Präsidenten', 'unterzeichnet', 'Sicherheits-', 'die', ',', 'russische', 'mail.ru', 'Aktivitäten']

@@ -1,1 +1,0 @@
-['bekommen', 'wo', 'ZEIT', 'zum', 'meint', 'auch', 'Von', 'zig', 'für', 'islamischen', 'auch in', 'plötzlich', 'folgten seither', 'Berlin', 'Opfer', 'Am', ',', '.', '( 20', '( 22', ',', 'und', 'Rechts', 'die humane', 'auf den', 'sich', 'mag', 'Antwort von', 'Paris', 'zu', 'die zuständigen Richter', 'nicht', '.', 'die', 'als', 'dennoch ,']

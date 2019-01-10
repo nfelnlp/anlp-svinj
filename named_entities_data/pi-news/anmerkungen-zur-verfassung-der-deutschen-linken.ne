@@ -1,1 +1,0 @@
-['Deutschland', 'Partei mit rechten', 'auch', 'Kreise', 'sich', 'mehr', ',', 'die', 'soll', 'eigenen', 'um', 'und', 'Parteiführung', 'Linkspartei', '. Im', 'unbegrenzten', 'eigenem', 'Ruinierung des', 'Nach', 'das', 'Abschneiden', 'ohne', 'setzen . Sieferle', 'die', 'Politik', 'ist', 'in', 'Gleichwohl', 'auch', '. Der', 'Radfahrer']

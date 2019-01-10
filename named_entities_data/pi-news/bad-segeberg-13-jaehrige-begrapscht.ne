@@ -1,1 +1,0 @@
-['Segeberg', ',', 'es', 'dem', 'über', 'Asylbewerber', 'stieg', 'aus', 'junger', 'Personen', 'der', 'Mannes', 'weg', 'Polizei', '07.20', 'den', 'ließen', 'zu', '.', 'Laufstrecke', '.', '28-30', 'Park', 'Ermittlungen', 'sich', 'Handy', 'exhibitionistischer', '. Der', 'der vermutlich', 'Durch', 'das', 'Passantin', 'zur', 'Der', 'geöffnet']

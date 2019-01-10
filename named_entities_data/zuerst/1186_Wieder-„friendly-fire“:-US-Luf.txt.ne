@@ -1,1 +1,0 @@
-['feindlicher', 'bestätigte', 'Salvin .', 'von', 'Opfern ausgegangen', 'sie', 'eine', 'unterstützt', 'sich', 'wir', '.', 'bekannt', 'der', 'Mittel', 'Die', 'Zivilisten in', 'und']

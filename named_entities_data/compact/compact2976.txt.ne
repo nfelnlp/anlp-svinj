@@ -1,1 +1,0 @@
-['Marc Dassen „Do', '1875-1947 )', 'Urväter dieser', 'Homo-Ehe', ',', 'Mehrheit der', 'einem', 'stellen', ', wer', 'das', '.', 'tatsächlich', 'ihre', 'man ihnen', 'sein', 'und', 'zu']

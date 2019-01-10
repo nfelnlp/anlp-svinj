@@ -1,1 +1,0 @@
-['EU-Kommission zur Lage', 'diese', 'der Flüchtlingskrise', 'Images Wieder', 'hat', 'die', 'Realität', 'und', 'erneut und kommentarlos', 'möchte', 'neuerdings auch', 'sie', '.', 'ganz', 'keine', 'hätte', 'Tage']

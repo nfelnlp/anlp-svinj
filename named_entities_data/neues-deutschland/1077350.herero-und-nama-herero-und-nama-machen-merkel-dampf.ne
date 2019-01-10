@@ -1,1 +1,0 @@
-['Nama', 'Merkel', 'Martin Ling', 'New York', 'New York', 'Sammelklage', 'Herero', 'Namibia', 'platzten', 'Bundesregierung', 'aufzugehen', 'Laura Swain', 'Herero-Chief', 'darin', 'die', 'sich', 'immer', 'akzeptiert ...']

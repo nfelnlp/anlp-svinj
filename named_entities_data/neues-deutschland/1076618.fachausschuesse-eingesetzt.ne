@@ -1,1 +1,0 @@
-['. Der', ', Erster', ',', 'bisher noch', 'Vorsitz', 'Parlamentsgeschäftsführer', 'Schneider , seine', 'machen', 'Schneider', 'man']

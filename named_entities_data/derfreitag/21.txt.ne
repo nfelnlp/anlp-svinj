@@ -1,1 +1,0 @@
-['Telepolis', 'der', 'nach', 'geraten', 'der', 'von', 'bis freitags', 'weiteren', 'verloren .', 'Berichterstattung', 'Aufmerksamkeit', 'und die', 'Themen', 'da', 'Online Award', 'Verdient gemacht']

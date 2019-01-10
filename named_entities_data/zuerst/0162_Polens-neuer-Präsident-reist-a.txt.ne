@@ -1,1 +1,0 @@
-['Budapest', 'Morawiecki', 'Budapest', 'Ungarn', 'nach', 'dort', 'der', 'fortsetzen', 'und', 'in', 'Nationen. “', '.', 'Regierungschefs', 'im', 'Österreich', 'keine', 'Regierung', 'Frage']

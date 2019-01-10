@@ -1,1 +1,0 @@
-['Uns von', 'auf', 'dem', 'Gemeinde', 'steht', 'Die', 'unserem Flyer', 'Gewaltanwendung gegenüber', 'Ali Bardakoglu', ', so', 'Moslems zum', 'Bardakoglus', 'zu', 'spricht seine', 'die', 'vertrauen', 'Diskussion']

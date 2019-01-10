@@ -1,1 +1,0 @@
-['Berlin', ',', 'Müller ,', 'Gewerkschaftsbundes (', ')', 'und', 'dem', '13']

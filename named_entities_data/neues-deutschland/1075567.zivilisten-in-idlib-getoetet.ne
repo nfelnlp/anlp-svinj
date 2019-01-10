@@ -1,1 +1,0 @@
-['.', '. Bei', 'und', '21', 'acht', 'Menschen', 'ihre', 'zwei', '.', 'Die', 'Aleppo', '.', 'die', 'die', 'Provinz', 'Provinz im August', 'Flüchtlinge', 'an der', 'Lieferung', 'so', 'Nähe', 'Grenzübergangs', 'die', 'Armee', 'und erklärte', 'Zone', 'Land', 'des', 'leben', 'über']

@@ -1,1 +1,0 @@
-['. Ein', 'Jahr', 'SED-Propaganda', 'Und', 'jenem Jahr wurde', 'Todestag', '.', 'Alltag der', 'sehr', 'bestimmter', '. Zumindest', 'den', 'dass', 'ausschließlich', 'Rückblick', 'Rückblick auf die', 'Klischees', 'hastig', 'Strausberger']

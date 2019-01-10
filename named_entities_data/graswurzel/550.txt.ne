@@ -1,1 +1,0 @@
-['als', 'und', "''", 'als', '``', 'Wettbewerbsfähigkeit', '.', 'es', 'Kapuzen-Autonome', 'ja', 'als', 'aus', 'einer', 'in Hamburg', '``', 'dass', 'zu', ',', 'die', 'irgendeine', ',', 'einer', 'mit ca', '150', 'TeilnehmerInnen', 'darzustellen', 'Differenziert', 'ist', 'Mailand', ')', ',', 'unterstützten', 'Marcus Munzlinger', 'ja', 'diverse', '. Wie Detlef', 'Initiative Berlin']

@@ -1,1 +1,0 @@
-['Rob Zombie', 'Rob Zombies', 'Dennis Vetter', 'Spaulding', 'Spaulding', 'Sid Haig', 'Rob Zombies', 'Richard Brake', 'ach', 'ist', 'Vogel\xadscheuchen', 'Angriffe', 'kämpfen .', 'Geeson', 'Jane Carr', ', die', 'im Jahr', '«', 'Spannung', ',', ',', '.', 'zu', ',', 'ruhiger um ihn', 'Versuch', 'sein', 'sein ,', 'funktioniert', 'der', 'und', 'Wie', 'dschungel']

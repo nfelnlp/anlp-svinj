@@ -1,1 +1,0 @@
-['Gesellschaft', 'Deutschland', ',', 'am', 'durch', 'Breisgau', 'aus der Schweiz', 'Fahrschein', 'Aliaspersonalien', 'Mann', 'seiner Durchsuchung', 'einer', 'sich', 'es', 'Gebrechen', '16Jähriger', ',', '18jähriger', 'Ketten', '.', 'etwa', 'in Streit', 'sich']

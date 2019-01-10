@@ -1,1 +1,0 @@
-['Junho', 'Gondola', 'Mosambik', 'Bartolomeu Antonio', 'Programmleiter', 'gespendet haben', 'wo', 'José', ', Vorsitzender', 'möchte', 'Mit', 'eine Bäuerin', 'dankbar', 'sind', 'diese']

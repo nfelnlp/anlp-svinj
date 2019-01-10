@@ -1,1 +1,0 @@
-['Rom', 'Europa', 'Österreich', 'Martin Sellner', 'hatte', '.', ',', 'sichtbar', 'App downloaden', 'auf', 'egal']

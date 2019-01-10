@@ -1,1 +1,0 @@
-['Mounir B.', 'weit', 'nur', 'er', 'und', 'der', 'auf', 'gesetzte', 'Röthig', 'Gerichtsschreiberin', 'Arabisch-Dolmetscher wiederum', 'diesem', 'eine', 'Uhr', 'stellte', 'sie', 'in', 'rief', 'im', 'Feder', 'Irrsinn', 'lähmt seine vormals', 'Das', 'genau', 'Erlösers', 'problematisiert', 'Leere laufenden', '.']

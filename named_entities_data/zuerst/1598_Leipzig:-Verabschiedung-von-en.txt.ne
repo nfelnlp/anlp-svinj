@@ -1,1 +1,0 @@
-['Gesellschaft 0', 'Gesellschaft 0 Leipzig', 'ranghöchster Soldat', 'ist', 'erfuhr', 'General zuerst', 'Jung', '„Es', '“', '„Unter', 'könne', 'den']

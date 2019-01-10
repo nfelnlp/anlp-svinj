@@ -1,1 +1,0 @@
-['wenigen', 'Bundesrepublik', 'von', 'ist', 'Brigitte Zypries', 'SPD', 'Washington unterzeichneten', '2011', 'einigem', '«', 'soweit', ',', 'Zwar', 'Rahmen', 'abgeglichen', 'ein', 'die Arbeit', 'dem', 'er jemals', 'Entscheidung', '.', 'entsprechenden', 'möglicherweise', 'Prümer', ',', 'Ausbaus', '.', 'mahnten', 'Ergebnis', 'In einem', 'ergeben', 'die', 'ihrer', 'Million', 'mehr']

@@ -1,1 +1,0 @@
-['aus', 'Main an die', 'die', 'ist', 'besonderen', 'Jahren']

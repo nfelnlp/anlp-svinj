@@ -1,1 +1,0 @@
-['Woodstock', 'Malibu', 'die', 'das Album', 'ein großer', 'ist', 'wenn', 'und', 'Sturm', '.', 'seit', 'auf seine', ',', 'der u.a', 'Dylans „Time', 'Tom Waits', 'von Asafs Favoriten', 'Studio', 'Elvis Presley', ', Bassist', 'legendären Canned', 'Monkey und', ', die damaligen', 'original wie', ',', 'am', 'Herz', ',', 'zeitlose', '„The', 'zu studieren', 'dass']

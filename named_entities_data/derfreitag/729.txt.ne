@@ -1,1 +1,0 @@
-['Athen', 'Tzortzinis/AFP/Getty', 'Mit', 'Erinnerung', 'Tsipras', 'eröffnet :', 'Ernest', 'die Stunde', 'vorangestellt', 'antifaschistische Solidarität', 'wenn', 'dies', 'den', 'Wahlen', 'Internationalen', 'verdammt guten', 'geworben', 'den', 'erhalten', 'zielen', 'den Grexit', 'den', 'Griechenlands', 'Deutschland', 'Merkel', 'dieses Taktieren', 'nötig .']

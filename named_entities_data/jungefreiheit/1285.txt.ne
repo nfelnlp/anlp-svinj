@@ -1,1 +1,0 @@
-['dieses', '.', 'Beginn', 'Geschichte', '.', 'aus', 'die', 'im', 'Jahrhundert', 'Neues', '.', '21', 'Indien', '?', '`` virtuellen', '.', 'der', 'dessen Oberfläche infolge']

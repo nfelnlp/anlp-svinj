@@ -1,1 +1,0 @@
-['Gebiet', 'Wissenschaftler', 'IG-Metall-Vorstandes', 'einen', 'ernüchternd', 'Was', '. Signifikante', 'in Erreichbarkeiten', 'Wasserwege', 'Führung', 'damit', 'es auch der', 'Nachrichten schon genug', 'Jahr', 'und', 'Dienstleistungsgewerbe', 'modernisieren', 'zu erhalten', 'historisch']

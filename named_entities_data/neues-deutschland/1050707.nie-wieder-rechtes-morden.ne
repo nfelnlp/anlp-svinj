@@ -1,1 +1,0 @@
-['diskutiert', 'verschiedenen', 'zu', 'sind', 'Menschen aus unterschiedlichen', 'auch', '.', 'das', 'dass', 'die Aufgabe', 'von', 'als Nebenkläger', 'Aufklärung', 'Aufschrei nach', 'Monika', 'eines parlamentarischen', 'zum NSU', 'in Hamburg', 'erschossen', 'Es', 'von ver.di', 'Mit', 'Kernaufgabe', 'alle', 'Mach']

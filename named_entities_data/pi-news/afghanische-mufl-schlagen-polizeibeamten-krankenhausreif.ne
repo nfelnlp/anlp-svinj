@@ -1,1 +1,0 @@
-['Afghanistan', 'Deutschland', 'als', '.', 'als', 'an', 'diese Sorte', 'in', 'Polizisten', 'Uhren', 'noch', '.', '.', 'Wahrheit', 'verheimlichen', 'Multikulti', 'ein', 'in', 'einer', 'Trotz', 'Polizeihauptkommissar', 'Regensburg', 'mehr “ .', 'nicht', 'gibt', 'Grund', '.', 'Scholl-Latour', 'sondern', 'selbst', 'weiter so… Update :', 'Fraktionsvorsitzende', 'Bundestag', 'einen']

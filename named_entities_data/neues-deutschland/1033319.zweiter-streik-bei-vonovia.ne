@@ -1,1 +1,0 @@
-['. Die', 'Beschäftigte', 'Arbeit', 'die', 'die', 'dem', 'verwies auf', 'des']

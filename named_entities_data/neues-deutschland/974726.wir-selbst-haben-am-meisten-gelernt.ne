@@ -1,1 +1,0 @@
-['Daniel Poštrak', 'NSU', 'Köln', 'Nürnberg', 'NSU-Komplex', 'sondern']

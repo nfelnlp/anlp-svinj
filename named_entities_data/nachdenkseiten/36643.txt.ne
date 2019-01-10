@@ -1,1 +1,0 @@
-['SPÖ', 'Christian Kern', 'obensteht', 'mich', 'Alleinerzieherin', '?', 'habe', 'kann', 'ich', 'wie', 'in', 'in', 'hat', 'völlig', '?', 'und', 'immanente', 'und', 'die', 'John', 'großen Rede als Ziel', 'Mond betreten', 'eine', 'daran', 'man', 'ist', 'sind', ',', 'Kultur', 'beauftragt', 'und später', 'es', 'Eltern', 'Österreich', 'ist', 'unsere', 'der', ',']

@@ -1,1 +1,0 @@
-['Hamburg', 'die', 'Anlaß ,', 'Organisation', '.', 'werden', 'Politik', '.']

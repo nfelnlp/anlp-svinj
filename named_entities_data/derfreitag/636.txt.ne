@@ -1,1 +1,0 @@
-['Images Raffael', ':', ': Allerorts', ': Allerorts ist vom', 'Situation ein bisschen', 'Noch', 'E-Books', 'wir', 'letzten zehn', 'dem Buchmarkt', 'die Frage', 'meinen', 'für', 'perfekten Roman ?', 'zu', ',', 'auch', 'Menschen produzieren', '. Nur', 'Lehre']

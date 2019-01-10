@@ -1,1 +1,0 @@
-['Damaskus', 'syrische', 'Baschar al-Assad', 'sich', '.', 'Kong Channel unterstrich Assad', ',', 'Verlegung', 'nicht', '.', 'zusätzliche', 'zusätzliche Truppenkontingente', 'haben ,', 'klar', 'ausländischen', ',', 'kommen.', 'sagte', 'tun', 'den', 'verloren', 'Assad', 'in', 'beitragen', 'derzeit keine offiziellen', 'US-Administration']

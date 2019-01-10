@@ -1,1 +1,0 @@
-['–', 'Sozialhilfeempfängern', 'Freiburg', '“ in', 'nämlich auch offiziell', 'keinerlei', 'Restriktionen', '„oben', 'wenig', ', gegen', 'einer', 'ihren', '„Ankerperson', 'Lande', '.', '„Flüchtenden', 'der', 'mehr', 'auch aktuell', 'zwei', 'dieser', 'fühlt', '.', 'in', 'der']

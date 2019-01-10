@@ -1,1 +1,0 @@
-['Budapest', 'Ungarn', 'Europa', 'Károly', 'gemeinsamen Pressekonferenz', 'dabei ,', 'Regierung', 'neue', 'Ein', 'Geld ,', ', außerdem']

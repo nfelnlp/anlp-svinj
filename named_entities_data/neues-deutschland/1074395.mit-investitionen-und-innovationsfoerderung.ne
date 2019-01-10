@@ -1,1 +1,0 @@
-['vor', ', die', 'Gerechtigkeit', ',', 'als der', 'Santander-Gruppe gehört', '. Nicht', 'deshalb', 'Nationalkonservative', 'anders als', 'nach', 'sich', 'findet', 'Der', 'PiS-Abgeordnete', 'in', 'beiden Jahren', 'sorgte', 'sieht', 'allem', 'Ersparnisse gebracht', 'schon', 'ein', 'Osteuropas']

@@ -1,1 +1,0 @@
-['Lindsey Graham', ', »', 'Gehalt', 'Kosten für', 'von', 'von rund', 'Um 12', 'Mehrheitsführer in', ', das', 'vor', 'im Herbst', 'weitergegeben', 'allem', 'versprochenen', 'Obwohl', 'selbst der', 'Weißen Haus', 'am']

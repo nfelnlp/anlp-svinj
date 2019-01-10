@@ -1,1 +1,0 @@
-['Gesellschaft', 'Warschau', 'Europa', 'OSZE', 'OSZE', '„mit', 'Parteien', 'Menschenrechte', '.', 'Petry und Jörg Meuthen', 'Wahlbeobachtung aufgefordert', 'dies damit', 'es', 'über', 'beschädigt', 'Veranstaltungen', 'Nordrhein-Westfalen', 'an der Tagesordnung', '( mü/sp )']

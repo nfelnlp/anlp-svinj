@@ -1,1 +1,0 @@
-['Felix H. :', 'und', 'durchzugehen', 'Zensur', "Plus ''", ',', ', ohne', 'im Rahmen', 'Friedens-', '- eine', 'nach Johan', 'dem Schluss', 'Tagespresse', "'", 'offenbar', 'keine Antwort', 'wichtig .']

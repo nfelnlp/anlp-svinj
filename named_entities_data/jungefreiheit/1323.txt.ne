@@ -1,1 +1,0 @@
-['diversen', 'siebziger Jahre', 'nicht', '``', '``', 'Menschenrechtler', 'müssen', 'rassistisch', '.', 'Beispiel rassistische']

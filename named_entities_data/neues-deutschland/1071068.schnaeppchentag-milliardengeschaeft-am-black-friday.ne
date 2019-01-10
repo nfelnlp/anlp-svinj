@@ -1,1 +1,0 @@
-['Deutschland', 'Jetzt', 'seine', 'und', 'Deutschland', 'dass', 'Wirtschaftshochschule WHU', 'Koblenz', 'fest', '»', 'man', 'und', 'am', 'von', 'dem', 'Bundesbürger', 'Online-Shopping', ',', 'bewahren und', 'ist']

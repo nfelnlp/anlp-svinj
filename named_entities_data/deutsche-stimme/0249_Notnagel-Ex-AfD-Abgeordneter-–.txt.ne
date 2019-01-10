@@ -1,1 +1,0 @@
-['Thüringen', 'Bodo Ramelows', 'jetzt', 'gewesen für', 'die', 'Jahr später', 'abgetan', 'Gründe', 'an ,', 'aufgefallen', 'findet man', 'Handreichungen', 'das', '.', 'nicht gleichzeitig', 'ähnliche Entwicklung', 'mit', 'an', '„Weiter', 'gebrauchen .']

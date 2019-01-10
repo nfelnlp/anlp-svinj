@@ -1,1 +1,0 @@
-['in', 'starten', 'Finger', 'mit', 'Vorrang', 'und', 'Maßnahmen', 'in', 'Sinne hat', 'auch innerhalb der', 'die', 'Millionen von Menschen', 'Gelände', 'mensch', 'aller', 'einfordert', 'Eine der Herausforderungen', 'Ende']

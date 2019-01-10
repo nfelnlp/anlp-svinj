@@ -1,1 +1,0 @@
-['Richard von Weizsäcker', 'Bauer/Imago', 'Weizsäcker ( 1984', ',', 'Dieser', 'gelingen konnte ,', 'dann', '1969', 'Bundestag', 'Weithin in', 'aber', '1984', 'Mitbürgern', 'in Berlin am', 'Januar']

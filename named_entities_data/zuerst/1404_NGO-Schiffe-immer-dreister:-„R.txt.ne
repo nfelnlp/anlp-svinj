@@ -1,1 +1,0 @@
-['London/New', '. Erst', '“ , daß die', ',', 'SOS', 'SOS Méditerranée', 'Für den', 'Italien', 'ausrangierte', 'unter', '.', 'vor', 'das sich nicht mehr in', 'Dabei']

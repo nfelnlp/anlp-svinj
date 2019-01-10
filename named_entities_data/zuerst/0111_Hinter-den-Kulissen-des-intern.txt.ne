@@ -1,1 +1,0 @@
-['Pristina', 'AFP', 'Kosovo', 'Pristina', 'Moshe Harel', 'unter', 'Pristina', '.', 'erfolgte die', ',', 'Prämien', 'als bald', 'von', 'eine', 'auf', 'Skandals', 'Ärzte', 'zu', 'das', 'und', '. Ein', 'als', '“ bezeichnet wird']

@@ -1,1 +1,0 @@
-['Unaufhaltsam', 'Jörn Schulz', 'USA', 'geizen', 'gerieren', 'Donald Trumps', 'Hillary Clinton', 'inhaftieren', 'antidemokratische', 'diktatorisches', 'Trump', 'Hillary Clinton', 'USA', 'Trump', 'Angela Merkel', ', auch', 'unbelehrbar', 'an', 'der zufolge', 'zwar', 'folgend', 'Verschmelzung', 'Im', 'Mehrheit', 'befürwortet', 'den', 'für', 'Gruppen', 'Bedrohungen']

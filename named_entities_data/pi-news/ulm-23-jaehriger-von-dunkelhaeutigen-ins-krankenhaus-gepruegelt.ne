@@ -1,1 +1,0 @@
-['Ulm', 'Krankenwagen', 'Ermittlungen', 'Zeugen', 'wissen', 'Angaben', '.', 'systematisch', 'wie', '“', 'Geschädigte', 'sie', 'ergab', 'Mann', 'zufolge', 'die', 'Polizei', 'telefonisch', 'Ferner', 'er', ',', 'in', '20-jähriger', 'Handy', 'der', ',', 'Straßenseite', 'alt', 'sich', ',', '(', 'Richtung', '.', 'eine', 'und', 'wurde', '22-Jährige', 'Zentimeter groß ,', 'eine', 'und']

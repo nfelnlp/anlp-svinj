@@ -1,1 +1,0 @@
-['Schweinfurt', 'im', 'gegen', 'zu', 'Eintreffen', 'in', 'die', 'dass', 'aus', 'einer', ')', 'Auseinandersetzung', 'ersten', ',', 'und', 'Syrer', ',', 'immer', 'Eskalation', 'verhindert', 'Drängler', 'ein', 'Einsatzkräfte', 'auftretenden', 'Streitigkeiten', '15']

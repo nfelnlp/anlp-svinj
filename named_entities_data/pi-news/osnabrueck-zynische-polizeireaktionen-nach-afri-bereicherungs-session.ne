@@ -1,1 +1,0 @@
-['–', 'Polizei', 'sie', 'Neue', 'durchaus', 'sei', 'Arbeit geht', 'die', 'korrekte', '.', 'weiß', 'allgemeiner', 'den', 'neben', ',', 'keine', 'Geschehen', 'habe ,', ',', 'Alle', 'Regeln', 'beschuldigte', 'und', 'persona', 'hinwegzusetzen', 'wurde', 'Leute', 'Grunde', 'entsprechend politisch', '“', 'Konsequenzen']

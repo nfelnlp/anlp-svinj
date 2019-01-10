@@ -1,1 +1,0 @@
-['. Die', 'Internationale', ',', '. Die', 'Art', 'Aufgabe', 'auch der', 'Designerin Vivienne', 'Linguist Noam', 'In einem', 'die', 'der']

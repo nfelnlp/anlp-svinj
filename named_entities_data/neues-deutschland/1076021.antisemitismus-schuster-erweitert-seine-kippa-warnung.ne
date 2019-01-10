@@ -1,1 +1,0 @@
-['. Der', ', würde', 'Zeitung', '.', 'die', 'wenn', 'auf', 'nicht']

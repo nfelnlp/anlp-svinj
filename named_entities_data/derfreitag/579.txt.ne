@@ -1,1 +1,0 @@
-['ist', '.', 'und', 'Höhepunkt', 'Nuschler', 'kann nur', 'Das', 'gibt', 'es', 'Aus', 'der', 'nun als', 'Der Spot']

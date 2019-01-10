@@ -1,1 +1,0 @@
-['Images Ihr', 'unsere', 'ihre', 'Denn', 'Weil', 'Online-Medien', 'begriffen', ',', 'nach Klickzahlen', 'Buzzfeed', 'Rankinglisten und', 'Einfache', 'das', 'mit', 'Seite', '.', ', alle', 'können .', 'ihm schuldig']

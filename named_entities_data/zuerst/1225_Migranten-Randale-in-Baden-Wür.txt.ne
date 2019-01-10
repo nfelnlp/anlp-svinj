@@ -1,1 +1,0 @@
-['Gesellschaft', 'Schorndorf', 'baden-württembergischen Schorndorf mit sexuellen', 'Sachbeschädigungen', '.', 'Iraker', '17Jährige', 'mit', 'zu', 'einen', 'Oberbürgermeister Tübingens', 'kommentierte', ': „Und wieder', 'Asylbewerber']

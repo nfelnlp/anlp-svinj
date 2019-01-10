@@ -1,1 +1,0 @@
-['Gesellschaft', 'Dresden', 'Neustadt', '27-jähriegr', 'alle', '.', 'und', 'die', '.', 'Passanten', 'Das Treiben', 'Das Treiben der Gruppe sorgte bereits mehrmals', ',']

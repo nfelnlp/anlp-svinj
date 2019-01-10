@@ -1,1 +1,0 @@
-['Adolf Hitler', 'vorbei', 'Sie', '“', ')', ', der 56-jährige', ',', 'wahre', '.', 'Bewährungsstrafe', 'mit', ',', '! “ Nun', 'bis', 'Klassiker', 'so', 'bis', 'Tunesien', 'suchen', 'nur', '.', 'die', 'etwas', 'das', 'kein', 'Anspruch', 'haben', 'ihren', 'Sex', 'haben', ':', 'täglich', ')', 'der', '?', 'Ehemann', 'am Ende']

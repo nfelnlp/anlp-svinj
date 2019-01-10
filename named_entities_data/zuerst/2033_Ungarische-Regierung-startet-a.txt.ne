@@ -1,1 +1,0 @@
-['Budapest', 'Europäischen Union', 'Ungarns', '!', 'bei der', '„großen', 'es', 'illegale', 'ist', 'werfen', 'ähnliche amtliche']

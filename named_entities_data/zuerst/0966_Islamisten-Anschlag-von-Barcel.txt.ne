@@ -1,1 +1,0 @@
-['Barcelona', 'Barcelona', 'gehortet', 'war', 'Gaudí entworfene', 'Rajoy ,', 'Präsident', 'Rebelo de Sousa', 'und', 'teilnahmen', 'die', 'Leben']

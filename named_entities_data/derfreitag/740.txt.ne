@@ -1,1 +1,0 @@
-['NPD', 'hetzen', 'regnete', 'aufgebracht', 'rund 1.000 Menschen', ', auch der', 'vor', 'die', 'eskalieren .', ',', 'mehreren Jahren leer ,', 'demonstrieren', 'bei', 'Anwohnern', 'sich über Müll', 'Bernd', 'bereits', 'CDU-Fraktionschef', 'Oranienplatz', 'von Linksradikalen', 'Zelte', 'Dorn im', ',', 'mehr .', 'der', 'von', 'durchaus', 'einige', '„legitim']

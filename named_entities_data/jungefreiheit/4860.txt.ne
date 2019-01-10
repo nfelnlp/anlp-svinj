@@ -1,1 +1,0 @@
-['Royal-Air-Force-Kokarde', 'Royal-Air-Force-Kokarde auf', 'Royal-Air-Force-Kokarde auf der Jacke und', 'Menschenmenge', 'Mädchen', 'raus ,', '.', '.', 'bei', 'russischer', 'hat nichts', 'daß', 'wenigsten', 'Am', 'der', 'wurde', ', den', 'zur', 'fangen', 'Bibelspruch', ',', 'forderte', 'Elbtal', 'die', 'Glockengeläut', 'von', 'Provokationen', 'aus dem', '.', 'am', '.']

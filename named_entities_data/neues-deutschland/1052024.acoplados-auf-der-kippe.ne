@@ -1,1 +1,0 @@
-['Zuvor', 'Entscheidung', 'Enteignung der ehemaligen']

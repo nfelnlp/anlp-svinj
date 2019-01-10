@@ -1,1 +1,0 @@
-['Washington', 'Charlottesville', 'jetzt', 'Bannon', 'der Linken', 'bezeichnet', 'ihnen', ',', 'zu', 'bis 2016', 'Behauptung', 'Mr.', 'sagte', '.', 'habe', 'Freitag unter', '„New York', 'Quellen', 'Umfeld von Bannon ,']

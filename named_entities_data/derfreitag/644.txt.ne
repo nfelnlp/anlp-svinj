@@ -1,1 +1,0 @@
-['Laberenz', 'keine', 'Es', 'Freund', 'einiges', 'zwei', 'für', 'der', 'da', 'Aus', 'Das', 'sich', 'folgen', 'könnte', 'Tempo', 'es Bananen', 'als', '–', 'D-Mark alles', 'vielleicht an', 'durch', '.', ',', 'Nachdem', 'nähern', 'zurück', 'Rehfelde', 'Bett und', 'Kaftan', 'wir', 'Beim nächsten']

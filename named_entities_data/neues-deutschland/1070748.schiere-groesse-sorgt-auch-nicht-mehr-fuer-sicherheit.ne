@@ -1,1 +1,0 @@
-['Siemens-Generatorenwerk', 'von', ', Erfurt', ',', 'dem', 'wird', 'Kaeser', 'vor nicht', 'Aken', '( Sachsen-Anhalt ) ,', 'er auf ein', 'ist', 'dem', 'Transport', '...']

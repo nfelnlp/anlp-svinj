@@ -1,1 +1,0 @@
-['Wonderwoman', 'Trump', 'London', 'Chris J. Ratcliffe/AFP/Getty Images', 'es', 'den', 'in die', 'der', 'mit', 'Swing-Staaten', 'frau', '.', 'Das', 'Wieso', 'erklären', 'zwar', 'Prozent', 'es', 'ein', 'der', 'ein', 'nur', 'System', 'Männer', 'von', ':', ', ist', 'mehr', 'to work.']

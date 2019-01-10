@@ -1,1 +1,0 @@
-['Bozen', 'Südtirol', 'Rom', 'Wien', 'Brüssel', 'Italien', 'die', 'Kleinarbeit erfunden', ', stehen', 'der', 'Francesco Palermo', 'Auf der italienischen', '.', 'weniger', 'auf', 'vorher erteilte', 'Implosion der']

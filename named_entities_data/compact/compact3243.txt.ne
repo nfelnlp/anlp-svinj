@@ -1,1 +1,0 @@
-['”', 'Rom', 'Deutschland', 'Ellis', 'Ellis Island', 'Xenia', 'bspw . K. Lorenz “ Die', '“ Der', 'Modell', 'vor allem', '.', 'weil', 'als', 'in', 'ist', 'hat es', 'Welt', 'seiner', 'unsichtbaren', 'gestorben .', 'des']

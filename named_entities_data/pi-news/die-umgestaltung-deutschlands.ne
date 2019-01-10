@@ -1,1 +1,0 @@
-['begeistert', ',', ', braucht jedoch jeder noch', ',', '.', 'das', 'der', 'sieht', 'erneut', 'ihrer', 'dass', 'grundsätzliches und', '„Urbewohner', 'Volldampf', 'eigenen', 'den', 'der', 'und', '.', 'Schicksalswahl']

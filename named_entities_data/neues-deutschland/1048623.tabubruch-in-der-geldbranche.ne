@@ -1,1 +1,0 @@
-['. Das', '- zumindest', '.', 'wenn »', 'Markt «', 'einem', 'System', 'Gehaltstarifvertrag', 'Forderungen', ',', 'für die', 'So', 'Samstag', 'mehr', '.']

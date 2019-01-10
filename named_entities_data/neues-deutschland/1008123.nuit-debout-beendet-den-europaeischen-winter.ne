@@ -1,1 +1,0 @@
-[':', 'waren vor', 'und den', '»', 'selbst', 'in', 'errichteten', 'ihre', 'der', 'Die', '.', '.', '\u202a #', 'Straßen', 'versammeln', 'wird', 'in', 'mit diskutierten', '.', ':', 'Jahrestag', 'wecken']

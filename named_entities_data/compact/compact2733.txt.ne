@@ -1,1 +1,0 @@
-['Asylforderer', 'Jetzt wird', 'eng', 'übrige Verständnis-Lobby', 'Augenzeugen', 'ins', 'Thema', 'einen', 'die', 'Kräfte', ',', ',', 'durch', 'nix', 'einen', 'die', 'beschreibt', 'uns', 'Autorin', 'Das', 'nehmen . „Es', 'Stokowski', 'hofierten Rebellen', '.', 'Abo', 'weiter', ',', 'bis', ',', 'Autorin', 'ein', 'Opfers', 'Arbeit']

@@ -1,1 +1,0 @@
-['Schulden', 'aus dem', 'Teufel', '„Gerichtsvollzieher', 'Mitgefühl', 'dem', 'zu', 'die', 'auffällt und', 'halb-degenerierte', 'Einheimische', 'inzwischen', 'besitzt ,', 'seinen', 'Forderungen', 'sieh', 'Die', ',', 'wiederum', 'schokoladenfarbige', 'ihr der', 'des', 'dafür']

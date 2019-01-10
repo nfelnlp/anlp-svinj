@@ -1,1 +1,0 @@
-['Brüssel/Budapest', 'Wegen', 'Es ist', 'jedoch', 'und', 'erklärte', ':', 'neue Gesetz', 'Organisationen', 'gegen', 'das', 'Organisationen', 'ihrer', 'werden', ':', 'nach', 'nach']

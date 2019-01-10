@@ -1,1 +1,0 @@
-['Images Space', ',', 'Sane', 'The', ',', ', Heroes', 'Menschen', 'Jahre und', 'mit seinem eigenartigen', 'fletscht', 'Musik', 'so', '.', 'I do', 'Jahren', 'Genre erforscht']

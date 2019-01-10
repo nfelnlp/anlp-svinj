@@ -1,1 +1,0 @@
-['in die', 'ihre', '. Den', 'Verfahren rechtfertigt', 'kritisiert .', 'warfen ihr', '“', 'innere Zerrissenheit', 'Petry', 'stütze', 'auf', ':', 'um', 'gesucht', 'Ehre', 'mit', 'Parteiausschlussverfahren Björn', 'Glauben Sie wirklich', 'mit', 'Schuldkomplex machte', 'Gründen', 'sogar', 'Personal', 'Bundestagswahl', '.', '.', 'die', 'Für', 'gegen', '8', '.', '.', 'desaströse']

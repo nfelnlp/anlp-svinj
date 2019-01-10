@@ -1,1 +1,0 @@
-['Berlin', 'Berlin-Lankwitz das Fällen', '.', 'Deutschland', 'Anfrage', 'und auch auf der']

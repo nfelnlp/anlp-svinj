@@ -1,1 +1,0 @@
-['Brüller', 'der', 'einen', 'existiert', 'man', 'Conne', 'Stadtteil Connewitz', 'dann', 'man', 'oder', 'lässig', 'Welcome', '.', 'vermummten', 'begleitet', 'nach', 'in den', 'oder', '“', 'zu', 'einräumen', 'gefürchteten', 'problematisch', 'Spannungen', 'Gewalt', 'dadurch', 'mit', 'des', 'Dass', 'Linken', '.', 'rechts', 'wird', 'berechtigte', 'Ende', 'ganz', 'ist', 'die']

@@ -1,1 +1,0 @@
-['Reichen', 'Arno Blazer', 'München', 'Hamburg', 'der', 'Der Milliardär', 'diese', ',', 'großen', 'diese', 'und', 'das Imperium', 'der', 'diejenige', 'Reichenforschung', 'die', '»', '«', 'in', 'gesehen', 'Zusammenhang', 'als']

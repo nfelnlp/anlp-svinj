@@ -1,1 +1,0 @@
-['Damaskus/Bagdad', 'In', 'sich', 'mit', 'mit Damaskus', 'die', 'Damaskus', 'Streitkräfte', 'Territorium', '.', 'den', '„Unsere Länder', 'weiter', 'gegeben ,', 'Teilnahme der irakischen', 'hätte.', 'schloß nicht', 'IS-Kämpfer', 'irakischen', 'hatte zuvor erklärt', 'nur', 'eigenen Land', 'vorzugehen', 'Wir', '.', 'in', 'zur', 'in dem', 'Iran', 'mü']

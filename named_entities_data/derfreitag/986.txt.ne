@@ -1,1 +1,0 @@
-['diesem', 'mehr', 'aufzubauen', 'so', 'Geschafft', 'sogar', 'zu', 'NGOs', 'Diese', 'angezogen', 'der', 'schon', 'bei', 'Gegenteil', 'Dominanz', 'Fleißigsten', 'die', 'Auswüchse', 'Mitteln', 'er']

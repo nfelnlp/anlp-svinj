@@ -1,1 +1,0 @@
-['man', 'daß der', '``', 'nie', '. Dort', 'der', 'sie', 'Kshatriya', 'Rassenpolitik', 'Rasse', 'dem', 'die', 'Ob die Revolte', '1789', 'die', 'umgekehrten', 'reaktionär', 'Die', 'hat', 'auch zu', 'Daß', 'okkupiert', 'Mit', 'schwindet', 'in', 'ist', 'kartographiert', 'Während', '1945', 'geführt wurde', 'geführt wurde ,']

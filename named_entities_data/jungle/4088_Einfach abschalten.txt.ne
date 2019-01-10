@@ -1,1 +1,0 @@
-['Ergebnisse der', ',', 'an', 'verordnet', '\xadNaturgewalt', ',', 'darum', 'Digitalisierung', 'zu', 'meisten']

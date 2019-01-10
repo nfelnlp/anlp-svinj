@@ -1,1 +1,0 @@
-['Es', '( CSU', 'an', 'der', 'Ausgaben', 'Europäischer', 'und', 'Währungsfonds bei', 'des', 'was', 'durch', 'Land', 'fürchten', 'oder', 'gern', 'in', 'Warum', '.', 'Alles', 'auf', 'eines', ',', 'private', 'ihren', 'klingt', 'also', 'bei', 'geht', 'jenes', 'das', 'dem', 'von', 'zu', 'usw', 'lassen', 'Klient']

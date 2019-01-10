@@ -1,1 +1,0 @@
-['C. Jahn |', 'konnten', 'bedarf', ':', 'an', '1953 war', 'schoss', 'Paradies', 'vereinnahmen', 'es', 'der', 'Deutsche', '„Stabilität', '–', 'Scheinstabilität ,', '“', 'auf', 'der', 'war', 'noch', 'noch gestört', 'unter', 'schon', ',', '„Bunte', 'Zusammenbruch', 'Ziel']

@@ -1,1 +1,0 @@
-['der', 'wie Bernd', 'oder', 'und den', '.', 'doch', 'Stadt', '.', 'des', 'am 22 .', 'gegen die', 'das', 'Szene', 'aufstellen', ',', 'der', 'Kongresses', ',', 'anzündeten', '.', 'einzelner', 'in', 'Polizistin', 'auch', 'schützen', 'Behinderung des', 'Innenstadt', 'dauerhaften']

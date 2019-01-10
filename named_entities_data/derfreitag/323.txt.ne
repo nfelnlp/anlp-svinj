@@ -1,1 +1,0 @@
-['Image Mehr', 'und', 'Einkommen', 'der Universität Greenwich', 'dass diese', 'in', 'der', 'lag', 'der', 'von', 'die', 'Beitrag']

@@ -1,1 +1,0 @@
-['San', 'San Francisco', 'Staat', '(', 'in', 'sollen', 'Nachrichtendienst', 'Cyber .', 'angezapft und', ',', ',', ',', 'und', '.', 'Cyber', 'schlägt', 'überall', '„Alarmzustand', 'zu']

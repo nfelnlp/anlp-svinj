@@ -1,1 +1,0 @@
-['Berlin', 'fest', 'Dieter', 'zusammen mit', 'kann', 'Auch', 'sah in', 'sah in der Flüchtlingswelle', 'für sehr', 'Marcel', ', zum', 'noch', 'positiven Wirtschaftseffekten', 'der']

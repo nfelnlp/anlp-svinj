@@ -1,1 +1,0 @@
-['Grebe', 'Berkeley', 'Kalifornien', 'Ivan Illich', 'Illich', 'University of California Berkeley', 'ein', '.', '.', 'setzte', 'auf', 'seiner', 'zu', 'was', 'seien', 'Forderung', 'beteiligen soll', 'die beste', 'des', 'nach', 'der', 'den', 'action', 'Frauen', ',']

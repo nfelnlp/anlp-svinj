@@ -1,1 +1,0 @@
-['Suzn Fahmi', 'Dohuk', 'Jinda', '(', 'entkommen', 'wünschen', '.', 'hat', 'zu', 'Schreckliches', 'haben', 'Frauen', 'Familien', 'Geld da', 'immer gesagt', 'Familie', 'ist', 'haben', 'Muslime', 'und']

@@ -1,1 +1,0 @@
-['.', '. Die', 'der', '. Das sogenannte', 'Flächenbrand in', 'wütet', 'Verschärfung', '. Das', 'Ventura', 'von Los', 'vor', 'Brandgefahr .', '.', 'Menschen', 'doch mit']

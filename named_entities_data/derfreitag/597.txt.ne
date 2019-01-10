@@ -1,1 +1,0 @@
-['es aus ,', 'Lukas', 'des Vereins', ':', ') solle', '.', 'eine', '. Am', 'den Polizeieinsatz', 'Verfahrens', 'ohne', 'Politisch dagegen', 'nicht', 'trenne', 'wird', 'Anzeige']

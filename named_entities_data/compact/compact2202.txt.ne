@@ -1,1 +1,0 @@
-['man', 'Fischer Das', ')', ':', 'würde', 'No-Go', 'des', 'of', ':', 'on the New Frontiers', '(', ')', 'Komplex', 'die', '.', 'einen falschen', 'über', 'immer', 'dann', 'rufen', 'Erntehelfer', 'Land', 'Aber', 'Der', 'ihren', 'Hoffnungslosigkeit']

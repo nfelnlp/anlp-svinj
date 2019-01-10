@@ -1,1 +1,0 @@
-['Gesellschaft 3 Stuttgart', 'Hermann', ',', 'GmbH', '. Inzwischen', 'das', 'des', 'nimmt Gewerbesteuer']

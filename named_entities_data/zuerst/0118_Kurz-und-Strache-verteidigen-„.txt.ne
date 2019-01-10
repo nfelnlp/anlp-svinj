@@ -1,1 +1,0 @@
-['Wien', 'österreichische', 'Heinz-Christian', 'FPÖ ) mitteilte ,', 'bereits', '.', 'mitgeteilt', 'für', '„Flüchtlingen', 'Strache erklärten', 'der', 'man', 'Tatverdächtigen', ',', '„restriktive']

@@ -1,1 +1,0 @@
-['Sie', 'unter', 'SPD )', 'wurde', 'der', ',', 'zeigt das', 'der NS-Zeit', 'dargestellt', 'wegen seiner', 'der', 'Leiter des Landesamtes', 'entlassen', 'linken', 'oder', 'linken', 'Zweifel an der', 'vom Dezember', 'war das', '. Auf', 'Anregung', 'hervorgegangene', 'der', 'Initiative', 'der', 'sehen']

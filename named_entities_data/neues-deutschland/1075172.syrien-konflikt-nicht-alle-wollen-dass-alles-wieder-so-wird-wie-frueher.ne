@@ -1,1 +1,0 @@
-['Syrien-Konflikt', 'Die', ', Aleppo', 'Fahrt', 'Aleppo', 'an', '.', 'immer', 'Teil', '«', 'seinen', 'Brot', 'zu', 'er', 'zu denen', 'Er', 'seine']

@@ -1,1 +1,0 @@
-['Deutschland', 'Türken', 'deutschen', 'DITIB , der', 'der', 'in', 'türkischen', '.', 'es', 'wiederum', 'daraus', 'gut', ',', 'unsere', 'Arbeitslosen', 'Asylbewerber', '.', 'wirtschaftlichen', '82', '63', ':', 'Japan', '106', 'Hongkong', 'es', 'nach', 'werden', 'Ob', 'angesichts']

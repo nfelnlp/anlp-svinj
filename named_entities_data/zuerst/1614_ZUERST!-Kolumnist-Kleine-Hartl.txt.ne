@@ -1,1 +1,0 @@
-['beschäftigt sich', 'geholten', 'einschläfernd war , daß', 'Wozu', 'exotisch', 'sind', ',', 'der', 'Verhältnis', 'wie', 'allen', 'oft', '“', ',']

@@ -1,1 +1,0 @@
-['Brüssel', 'EU', 'Brüssel', '.', 'sind', 'November', 'Verpflichtungen', 'Einsätze', 'nicht', 'der', 'europäischen', 'Verteidigungspolitik', 'offensichtlich', 'die', 'regelmäßige']

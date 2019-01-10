@@ -1,1 +1,0 @@
-['und', 'Schreckens', 'einem Jahr', ', wurde', 'Freitag ,', 'ein', 'den maßgeblichen', '11', 'Mai', 'Steigerung', 'die', 'hat', 'vermutlich', 'Freitagen', 'geschätzt', 'nicht']

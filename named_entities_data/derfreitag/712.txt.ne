@@ -1,1 +1,0 @@
-['und', 'Prostituierte', 'sagt', 'ließen', 'und', 'der', 'und', ',', 'aufgriff .', 'in', 'werden', 'Es', 'gab', 'der Psychoanalyse', 'Aufgabe mit Nachdruck', '„Allzu leicht', 'unbestreitbar großen', 'in', 'aufzuarbeiten']

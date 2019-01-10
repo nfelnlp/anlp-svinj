@@ -1,1 +1,0 @@
-['Tokio/Kadena', 'Okinawa', 'Fallschirmjägern', 'zwischen', 'der', 'solche', 'vereinbart', '.', 'habe', 'informiert', ',', 'Übungen', 'sich', ',', 'das', 'verlustreiche']

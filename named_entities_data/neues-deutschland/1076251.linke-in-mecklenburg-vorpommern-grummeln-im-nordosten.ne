@@ -1,1 +1,0 @@
-['Dietmar Bartsch', '.', 'andere als positiv', 'Koplin .', 'für den', 'Rostocker Sandro', 'Besonders erzürnt', 'Entscheidung ,', 'Luft', 'gestört . Unmut', 'doch als', '2900', 'Funktionärin', 'hat der Vorstand', 'auf']

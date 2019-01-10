@@ -1,1 +1,0 @@
-['warnt', 'vor', 'Dezember', 'Münster in', 'Predigt', 'von', 'gewesen', 'kann', ',', 'Flüchtlingen', 'zeigt', 'Übertreibungen', 'Übertreibungen über', 'die Muslime', 'als', 'so', 'der', 'komplexen', 'er', 'entgangen', 'entgangen ,', 'Wo führt', '.', 'die', 'einer', '495-0', '@', 'Siehe', 'ein', 'islamkritischen Pfarrer']

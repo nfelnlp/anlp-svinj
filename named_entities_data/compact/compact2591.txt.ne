@@ -1,1 +1,0 @@
-['Elsässer', 'Jürgen Elsässer', 'COMPACT', 'COMPACT', 'Jürgen Elsässer', 'mit', 'privates', ',', 'er', 'nicht befürchten', 'und', ',', '.', 'MfS übernahm', '„private', 'Front auch mal', 'Demos gesichtet', 'Banner', '?', 'COMPACT', 'ist', 'zur', 'ja', 'anderswo sprechen', 'Regime', 'und', ',', 'ist']

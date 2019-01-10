@@ -1,1 +1,0 @@
-['Mettmann', 'bei', 'im', 'vertuscht', 'nie', 'ab', 'Widerstand', 'dem', 'beschädigten', 'Streifenwagen', '-Nächten', ',', '27-jähriger', '.', 'sie', ',', 'von', 'massiv', 'um', 'diesem', ', auf', 'dem', ', woraufhin', 'die', '21.07.2017', 'polizeilichen', ',', 'Uhr', 'vom', ',', 'über', 'groß', 'fettig', 'Frau', 'die an den Seiten etwa', 'Die']

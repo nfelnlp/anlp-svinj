@@ -1,1 +1,0 @@
-['„Gastgeber', 'letzten', 'täglich', 'unserer', 'politische', 'wollt', 'die', 'woher', 'sie', ',', 'einst', 'Land', 'rekrutierend nach', 'kann', 'nicht', ',', 'Und', 'zwangsläufig', 'sollte', 'Szenario', 'Es', 'Tag', '–', 'diese', 'Schicksal', 'Und', 'mehr .']

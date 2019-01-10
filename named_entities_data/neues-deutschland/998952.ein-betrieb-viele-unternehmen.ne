@@ -1,1 +1,0 @@
-['DGB', 'Jörg Meyer', 'und', 'es', '- seinem']

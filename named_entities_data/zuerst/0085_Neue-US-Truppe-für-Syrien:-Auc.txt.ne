@@ -1,1 +1,0 @@
-['USA', 'werden', 'und', ',', 'heftig', 'sieht', 'erklärte', '.', 'Kooperation', 'beschießen', 'hoffentlich', 'angebliche', 'Euphrat', 'IS-Terroristen', 'illegaler']

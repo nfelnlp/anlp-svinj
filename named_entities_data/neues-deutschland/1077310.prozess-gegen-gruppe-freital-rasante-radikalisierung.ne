@@ -1,1 +1,0 @@
-['Freital', 'Hendrik Lasch', 'Dresden', 'Dresden', 'Freital', 'Dresden', 'Kristin Pietrzyk', 'Jena', 'Sachsen']

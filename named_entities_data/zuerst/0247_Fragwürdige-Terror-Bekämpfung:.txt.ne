@@ -1,1 +1,0 @@
-['London', 'Staat', '(', 'geführte', 'angeblich', 'das', 'auf', 'auffällig rasch in', '.', 'die', 'Waffen', 'Auslieferung', 'CAR-Sprecher Damien', 'Schlußfolgerung , die', 'Washingtons beim', 'es', 'Waffen']

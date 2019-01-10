@@ -1,1 +1,0 @@
-['Kofi ist elf', 'zu', 'die', 'der', 'wichtigsten', 'Ghanas', 'Geröll', 'einatmet', 'oft', 'Vereinigten', 'Welt .', 'Südafrika', 'die Türkei ,', 'und', 'exportiert', 'an', 'und', 'Handelswert', 'Gold', 'Watch ,', 'Wochen Interviews in Ghanas', 'Appiah scheint', 'internationalen Richtlinien ,', 'beschäftigt', 'dass', 'Vater starb', 'Damit sei', 'Mine', 'Gefahren des Bergbaus']

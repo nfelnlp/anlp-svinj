@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'Arbeiterkammer .', 'vorstellen', 'Regierungspartei', 'kein', 'Dincerm den', 'Präsidenten', 'an', 'Österreich', 'unter', 'das', 'steht', 'Staates in Österreich', 'Alles', 'Bewegung', 'Zukunft', 'als']

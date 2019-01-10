@@ -1,1 +1,0 @@
-['.', 'der', 'sich', 'Compact', 'des', 'Deutschland', 'noch', 'und', 'sie', 'sie sich', 'Vertriebs-Vereinigung', 'Vertriebs-Vereinigung GmbH', 'Vertriebs-Vereinigung GmbH &', '.', 'aber', 'prahlt offen', 'die', 'dem', 'aufgefallen', 'in', 'zeigen', 'wir', 'und', 'sowohl', 'während einer', '.', 'unsere', ',', 'Welt', 'uns', 'kaum', 'kaum jemanden', '. COMPACT', 'Gewalt und', ',']

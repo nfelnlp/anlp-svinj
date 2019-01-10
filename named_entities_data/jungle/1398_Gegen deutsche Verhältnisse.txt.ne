@@ -1,1 +1,0 @@
-['Bricolage Hamburg', 'über', 'offenen', 'bevor', 'ein', ',', 'als »', 'sah', ') Das', 'die', 'die', '»', 'unter', '43', 'und', 'Präsident', 'Landes', 'will', 'der Arbeitnehmerrechte', 'Dieses', 'der Demontage', 'Die', 'auszurichten', 'funktioniert auch', '«', 'den', 'integriert wurden', 'geworden', 'geworden war', 'wurden', 'im', 'in']

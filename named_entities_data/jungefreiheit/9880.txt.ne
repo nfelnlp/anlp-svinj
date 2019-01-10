@@ -1,1 +1,0 @@
-['Die', 'einrьckt', 'rьhrt', 'das', 'Wasser', ',', 'dieser Zeitung', 'stehen', ',', 'und', 'der', 'Bewahrung', 'gehandhabtes', 'in', 'dieser', 'Ц', 'Lebenshilfe', 'daя', 'begreifen', 'ist', 'notorisch', 'fьr', 'ohne', 'in', 'wirkliche', 'den', 'fьr', 'dringend', ',', 'mьndliches', 'trotz', 'und', 'sechs', 'in', 'ihren Glauben', ',', 'Nach kurzer', 'der', 'Juristischen', '.']

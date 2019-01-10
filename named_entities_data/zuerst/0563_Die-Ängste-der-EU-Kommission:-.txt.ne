@@ -1,1 +1,0 @@
-['Gesellschaft 5', 'Gesellschaft 5 Brüssel', 'EU-Kommission', ', in denen', 'der', 'Anschlagsziele', 'häufiger', 'In', '.', 'seien', 'Hochrisikoziel']

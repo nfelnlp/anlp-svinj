@@ -1,1 +1,0 @@
-['New', 'New York .', 'den', 'die', 'auf den Plan', 'York gegen', 'Präsidenten protestiert', 'im', '” ,', '” , wurde', ',', ',', 'keine', 'Amtsenthebungsverfahren', 'abperlen', 'Dienstag', 'die', 'Trump', '.', 'als eine', '„Er', 'Rassist', 'stehe']

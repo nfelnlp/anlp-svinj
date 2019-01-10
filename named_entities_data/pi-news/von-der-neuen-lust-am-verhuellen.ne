@@ -1,1 +1,0 @@
-['sorgte', 'paar Tagen eine', 'freigelassen', 'Gefängnis-Look', 'produzieren', 'Das', 'hat natürlich nix', 'Taler', '!', 'erwähnte „neue', 'doch ,', 'Mode aus dem', '’ se', 'der', 'Konvertieren', 'muslimischen Mädchen', 'vorher )', 'würde', 'Kopftücher', 'gleich']

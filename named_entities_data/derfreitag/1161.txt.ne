@@ -1,1 +1,0 @@
-['Wissenschaftlerin', 'Ignorieren', 'auf das', 'außen', ')', 'Damit stehe', 'nicht', 'zu', 'diese', 'Demonstrationen']

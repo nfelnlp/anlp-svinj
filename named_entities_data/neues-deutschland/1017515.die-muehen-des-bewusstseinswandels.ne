@@ -1,1 +1,0 @@
-['Raus', 'der', 'Nichtregierungsorganisationen', 'Nichtregierungsorganisationen ,', 'Nichtregierungsorganisationen , FreundInnen', 'für ihn', ',', 'aktuellen Entwicklungen', 'die', 'Dr.', 'auch sie', 'Einzelpersonen', 'Zudem müssen globale', 'zu Ländern', 'Globalen', 'Globalen Südens hatten .', 'Es müsse', 'um', 'Gesellschaft', ', versorgte', 'mit', '.']

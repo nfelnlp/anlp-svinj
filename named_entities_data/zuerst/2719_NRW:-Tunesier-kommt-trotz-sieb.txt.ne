@@ -1,1 +1,0 @@
-['Gesellschaft', 'Witten', 'nordrhein-westfälischen', 'Witten', 'vergangenen', 'einem', 'einem Jahr']

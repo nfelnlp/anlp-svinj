@@ -1,1 +1,0 @@
-['.', 'waren die', 'diese', 'was', 'eigener', '«', ',', ',', ':', 'spüren .', 'Donnerstag', 'am', 'meisten', 'Tage', 'Auf', 'man', 'mehrere', 'aus', 'singen', 'über', 'etwas', 'es', 'Marginalität', 'noch', 'oder', 'liberaler', 'habe', 'Polizei der', ', angesichts', 'von', 'die', 'und', 'neue', 'des', 'linken']

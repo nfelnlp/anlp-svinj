@@ -1,1 +1,0 @@
-['Jürgen Elsässer', 'zum', 'und', '.', ':', 'die', 'war', 'steht', 'Wir', 'dem', 'worden', 'zum Losschlagen', 'Uhr', 'und bewaffneten Personen', 'war', 'betrat , flogen', 'bewaffnen und', 'traten', 'sind immer noch', 'Androhung', 'hier', 'System', 'lieber ausschließlich', '“', ',', 'u.a', 'bis Ende', 'für', 'er als', 'bis', 'Bundesvorsitzender', '.', 'haben bisher', '20']

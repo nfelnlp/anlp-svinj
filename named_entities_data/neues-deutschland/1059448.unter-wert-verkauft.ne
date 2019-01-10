@@ -1,1 +1,0 @@
-['.', '. Unzufriedenheit', 'anderen', 'als erstes Bundesland', 'gesehen', 'Allgemeinverbindlichkeit', 'sechs', 'sechs Prozent mehr', 'sechs Prozent mehr Geld', 'einjährigen Laufzeit', ', ab April', '.', 'Gewerkschaft', 'keine', '. Zwar hätten', 'Arbeitgeber', 'die', 'die', 'Mitarbeiter', 'weitergehen . In', 'werden', 'Man werde den', 'in', 'Bundesweit sind etwa', 'Einzelhandel']

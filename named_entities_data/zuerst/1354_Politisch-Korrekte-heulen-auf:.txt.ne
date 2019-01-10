@@ -1,1 +1,0 @@
-['Budapest', 'ungarische', 'Orbán', 'Miklós Horthy (', 'seine', 'Woche', 'In', 'der', '1920', 'Drittel', 'man', 'sei', 'die', '” hätten', 'Engagement', '„nicht', 'empört', 'seine', 'korrigieren', 'stehe', 'rechtschaffenen Militär', '.']

@@ -1,1 +1,0 @@
-['Gesellschaft', 'Meschede', 'Polizei', 'Meschede', 'anfasste', 'belästigte']

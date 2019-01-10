@@ -1,1 +1,0 @@
-['Noch versucht', 'die rechte', 'Independence Party ( UKIP', 'vor sich her', 'mit', 'noch', 'vier', 'Hund', 'Nigel', 'Brüssel seine', 'Parlaments', ',', 'Nieten', '25-jährigen Modell', 'in sozialen', 'das', 'Bolton', 'einem Misstrauensvotum', 'Boltons', 'zurück', 'das Publikum', 'es zuvor', 'Widersacher', 'Verbleib']

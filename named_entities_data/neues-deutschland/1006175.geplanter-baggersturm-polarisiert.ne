@@ -1,1 +1,0 @@
-['ihre', '.', 'Sie', '.', 'und', '«', 'notwendig', 'Gelände «', 'haben', 'mit', 'derartige', 'führen', '. Seit', 'Plattform', 'es', 'Zusammenarbeit', 'Klinger', 'Abzuwarten', 'der', '.', 'jedoch', 'nd', ',', 'konnten', ',', 'dort', 'der lokalen']

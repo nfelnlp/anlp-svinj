@@ -1,1 +1,0 @@
-['Bei', 'Freitag-Community', 'Foto :', 'When I', 'on', 'connected', 'Orangerie', 'Neue', ',', 'a journey', 'Attia ,', 'Rakowitz ,', 'Ivekovic ,', 'Sadr', 'Anna', 'Anna Maria Maiolino', 'and the rediscovered', 'on the', 'at', 'of the', 'shifting', 'Kuratorin', 'mit', ':']

@@ -1,1 +1,0 @@
-['politischen', 'Er', 'Wurzeln in', 'welche die', 'politischen', 'offen', 'Aberglauben', 'daß', 'hatten', 'des', 'Der Populismus', 'daran', 'drückt', 'Konflikt geraten mit', 'in der', 'das', 'daß']

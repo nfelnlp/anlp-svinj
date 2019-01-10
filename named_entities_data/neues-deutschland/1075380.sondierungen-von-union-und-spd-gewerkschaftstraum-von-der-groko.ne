@@ -1,1 +1,0 @@
-['Sondierungen', 'Union', 'SPD', 'DGB', 'ver.di', 'SPD', 'Union', 'Bund', 'Hans-Gerd Öfinger DGB-Chef Reiner', 'Hans-Gerd Öfinger DGB-Chef Reiner Hoffmann', 'SPD-Parteitag Wenn', 'den', 'dann', 'und', '.', 'großer', 'in diesen', '.', 'Großen Koalition wäre', ',', 'Politik', 'DGB-Chef', 'Privatperson', 'Parteibuch', 'möchte die']

@@ -1,1 +1,0 @@
-['Forschung läßt', 'wissenschaftlich-technischer Entwicklungen', 'um', 'Magazin stellt', '\x84führende', 'vor ; unter', 'nämlich darin', 'bestimmten', 'Regelsystem , gegen', '.', ',', 'als', 'eingenommene Geld', 'es', 'Experten', 'von Medikamenten , die', ', von den', ', von den für', 'könnten dann']

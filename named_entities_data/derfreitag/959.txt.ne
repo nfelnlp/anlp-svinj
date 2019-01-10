@@ -1,1 +1,0 @@
-['kurz', 'Tablet-PCs anstelle', 'dass', '.', 'eigentlich presserechtlich', 'er', '„Inhalte', 'ihren', 'Ausstrahlung', 'Eine', ',', 'Satire', 'Nur zielt', 'Sie', 'eine', 'zu haben', 'Anfang', 'würden sich', 'Nach', 'drückt', 'zum Wahlboykott', 'Demonstrantin', 'Mit', 'gelte', 'kopfschüttelnd', 'sein', 'Kabine', 'müssen .', 'der', '„Bundeswehr', 'gesorgt', 'er']

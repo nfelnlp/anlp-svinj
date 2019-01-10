@@ -1,1 +1,0 @@
-['solche', 'einer', 'Stadt', ', der', 'ohne', 'belegt .', 'Arbeit', 'jetzt', '»', 'später', 'bisherigen', 'lückenlose', 'des']

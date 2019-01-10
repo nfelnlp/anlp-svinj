@@ -1,1 +1,0 @@
-['Brüssel/Warschau', 'Rußland', 'in', 'Katalonien-Krise', 'Jetzt', 'weiteren', 'die Adresse', 'noch', 'Verweigerungshaltung', 'dem', 'dem Hintergrund jüngster', 'auf', 'allen', 'Frage', 'Regierung', 'der', 'Unabhängigkeit', ',', '„Plan', 'Kreml', 'wies', 'unverzüglich', '„Polen anzugreifen', '”', '10', 'Euro', 'schützen', 'in', 'dorthin', 'macht', 'verantwortlich .']

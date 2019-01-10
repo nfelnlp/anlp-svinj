@@ -1,1 +1,0 @@
-['Neulich auf', 'Ich', 'als', 'mich', '!', 'die', 'der', 'wohl zur', 'Überhaupt', 'das', 'Sohn', 'Suri', 'nicht', '?', 'Frage', 'im', 'auch', 'in', 'heißen', 'hat', 'anhand', 'nicht nur', 'Behandlung', 'dem', 'sind', 'meiner', 'Dante', 'Odysseus', '.', ':']

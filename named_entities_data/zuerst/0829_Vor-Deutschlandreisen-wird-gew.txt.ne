@@ -1,1 +1,0 @@
-['Ankara', 'Retourkutsche', 'Deutschland', 'Deutschland', '” betitelt', 'von', 'und', 'die', 'Gülen-Bewegung in', 'türkische', 'politische', 'politische Atmosphäre', 'Diskurs', 'zu', 'daß', 'der', 'Flughäfen']

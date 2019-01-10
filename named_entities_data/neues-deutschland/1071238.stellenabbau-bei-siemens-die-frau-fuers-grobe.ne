@@ -1,1 +1,0 @@
-['in', 'wird', 'im 6 .', 'hier', 'der Siemens', 'also als', '.', 'vorgestoßen', 'Da vermeldeten', 'ihren', 'halte', 'Doch zurück', 'Das heißt', 'dem', 'nach', 'Verona', 'den', 'Personalwesen', 'zurück', 'die', 'den Vorstand', ',', 'und als', 'der', 'die Aufmerksamkeit', 'bescheinigt ihr , charmant', 'schlau', 'ihr mit so', 'erahnen ist', 'Weg nach oben']

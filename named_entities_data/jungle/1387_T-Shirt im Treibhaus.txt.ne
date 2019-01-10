@@ -1,1 +1,0 @@
-['eine', 'Bild', 'Klimapolitik', 'dieser', 'Jahr', 'Ökoaktivisten', 'der', '–', ',', '»', 'von', '. Doch', 'Tierausbeutung']

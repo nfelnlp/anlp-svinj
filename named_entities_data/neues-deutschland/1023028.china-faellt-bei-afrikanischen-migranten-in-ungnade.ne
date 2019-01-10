@@ -1,1 +1,0 @@
-['China', 'Anne Gonschorek', 'Kapstadt Guangzhou', 'Honkong', 'China', 'China', 'Lamin Ceesay', 'Quartz Africa', 'sich', 'nämlich']

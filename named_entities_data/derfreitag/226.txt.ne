@@ -1,1 +1,0 @@
-['ein', 'aktuellen', 'auch', 'Religion', 'deutschen', 'vor allem', 'Ideengeschichte', 'Beispiel', 'führenden', 'wie beispielsweise ein Voltaire', '.', '.', 'alle', '»', ':', ':']

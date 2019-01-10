@@ -1,1 +1,0 @@
-['Gesellschaft', 'Dresden', 'Polizei', 'sächsischen', 'Bayrischen', 'Bar', 'ausländischer', 'Chef', 'soll hier', 'Woche bei', '„Nash', 'einer Schreckschußpistole bedroht', '„Wir wollen eine', 'vor', 'nicht', 'dem', 'Auf', 'Teil', 'libanesischen', ',', '“']

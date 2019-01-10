@@ -1,1 +1,0 @@
-['Budapest', 'Ungarn', 'traten', 'Einwanderungsbehörde', 'festgehalten', ': „Der', '“ ,', '.', 'hat', 'Krieg', '“', '44']

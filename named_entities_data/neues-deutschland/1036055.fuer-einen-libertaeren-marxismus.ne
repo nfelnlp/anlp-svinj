@@ -1,1 +1,0 @@
-['es im', 'darum ,', 'befasste', 'mit ökosozialistischen', 'Präsidentenwahlen trotz', 'knüpfen', '1886', 'Gedenken', '1', 'der', 'wurden', 'zerriss das', 'im', 'eine freie', 'den', 'Durrutti bis', 'Persönlichkeiten', 'die eine', 'ist', 'Elfriede Müller', '. Löwy', 'Unsere roten', 'schwarzen Sterne', 'ISBN']

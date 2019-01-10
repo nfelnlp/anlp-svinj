@@ -1,1 +1,0 @@
-['Washington', 'nun', '.', 'Freitag mitteilte', 'die', 'Fokus', 'besiegen', ',', 'lassen ,', 'habe', 'Kampf', 'Terrorismus', 'die', 'Machtwechsel', 'sei nicht', 'in', 'Obama', 'einen', 'festgelegt', 'inzwischen fester', 'auf', 'Abgang', 'als', 'Jihja al-Aridi', '. „Kein', 'hat.', 'US-Außenminister', 'Status', 'müsse durch']

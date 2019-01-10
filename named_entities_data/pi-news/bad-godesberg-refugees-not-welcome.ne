@@ -1,1 +1,0 @@
-['unser', 'Stein-Lücke ( CDU', 'voller', 'mehrfach', 'was', 'Anwohner', ') Inzwischen sind', 'Transparente', 'aufgestellt', 'Entwarnung :', 'unsicher', ',', 'vorbildlichen', 'erfolgen', 'Seufertstraße', 'bei den', 'unübersichtlich , denn', 'zusätzlich', 'muss', ',', 'auch', 'Bonner', 'im Internet “ (', 'nicht']

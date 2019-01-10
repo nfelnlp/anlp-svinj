@@ -1,1 +1,0 @@
-['Köln', 'Mang/imago', ',', 'unter dem', 'so', 'für', 'einer', 'von', 'Es ist', 'progressiven netzaffinen', 'das Schwarzer', 'Angst', 'noch )', 'der', 'Die', 'mit dem', 'Rechtspopulistinnen', '. Die', 'dem', 'Alltag', 'Erstunterzeichner_innenliste .', 'in der', 'um Köln', ',', 'zu', '1997', 'der', 'schilderte Szenen', 'ohne', 'sie', '.']

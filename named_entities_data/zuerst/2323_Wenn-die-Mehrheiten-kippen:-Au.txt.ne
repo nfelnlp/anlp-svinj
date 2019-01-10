@@ -1,1 +1,0 @@
-['Gesellschaft', 'Neustadt', 'in', 'eine Vorschulklasse', 'und', 'offiziell', 'über', 'nicht', 'bereits Linz', 'betroffen', 'Bezirk', 'Von', 'mehr', '(']

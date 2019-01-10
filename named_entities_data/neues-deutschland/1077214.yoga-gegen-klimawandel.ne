@@ -1,1 +1,0 @@
-['gekommen', 'gekommen ist', 'die', 'zur', ', der', 'Kapazität', 'Wirtschaftspolitik', ',', 'hatte', 'einem Jahr', 'als eigentlicher', 'und', 'er', 'Er', 'teil', ', der', 'kommen']

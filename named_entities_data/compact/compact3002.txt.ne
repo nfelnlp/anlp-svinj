@@ -1,1 +1,0 @@
-['Die USA', 'scharf', 'ein', 'Supreme', ')', 'Weiterentwicklung', '14ten Verfassungszusatz', 'den', 'zu vier', 'oder illegal', ', eine', 'durchaus', 'Die', 'auf', 'auf ein Mitglied ,', 'immer', 'Verfassung', 'Commerce )', 'was', 'sich', 'hätten', 'der', 'girl', '. Dadurch', 'sich geändert', 'untreuen Männern', 'ihre Ehefrauen', '.']

@@ -1,1 +1,0 @@
-['in Kooperation', 'unumwunden zu .', 'Zusammen', 'Internetzugang', 'dort', 'nun bald', 'Namens', '« sind', 'anderen', '»', 'Sie']

@@ -1,1 +1,0 @@
-['Zaragoza', 'Gewaltbereite', ',', '.', 'ein', '“', 'Tode', ',', 'trug', 'ihn', 'Tat', 'Juan', '„Null Toleranz für gewaltsamen', 'hatte']

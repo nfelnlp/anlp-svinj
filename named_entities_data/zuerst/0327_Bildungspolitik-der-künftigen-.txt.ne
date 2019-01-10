@@ -1,1 +1,0 @@
-['Wien', 'ÖVP', 'FPÖ', 'Sebastian Kurz', 'der', 'Hammerschmid', 'SPÖ', '„fassungslos ,', 'wenig', 'doch', 'der']

@@ -1,1 +1,0 @@
-['Paris/Warschau', 'Interessante', 'National', 'National , die', 'Pen', 'will', 'Ungarn', '.', 'Wie', 'Marine', 'ihres', 'mit', 'aufnehmen', 'derzeitigen', 'regeln', '„Die', 'als', 'der', 'Rechtspolitikerin', 'Zuwanderungspolitik', 'ihrem', '.', 'will', 'gegen', 'um', 'die Wiederherstellung', 'die Wiederherstellung der']

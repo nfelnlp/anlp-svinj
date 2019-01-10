@@ -1,1 +1,0 @@
-['Images', 'gehört zu', 'in', 'weiter', 'hier und', 'Leinenausgaben', 'für', 'Schauspiel', 'ein', ',', 'an Zeitgenossen', 'Zeit', 'ein', 'der', 'er in', 'tue', 'Er', 'auf', 'Eleganz']

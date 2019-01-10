@@ -1,1 +1,0 @@
-['Cantaloop', 'greise', 'der badischen', 'unserem', 'alleine keine', 'Bürgern', '.', '.', 'sind jetzt wirklich überall präsent', 'genau', 'dass', 'und Köln', 'Klotzen', 'die', 'Exakt', '„Phänotyp', 'step', 'Menschen', 'der', 'des', 'begangen von', 'und', '“', 'auf', 'all', 'oder', ',', 'Fragen', 'unterdrückt', 'Von', 'werden', 'noch', 'langsame', '–', 'dem']

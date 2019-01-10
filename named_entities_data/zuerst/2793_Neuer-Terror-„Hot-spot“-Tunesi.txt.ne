@@ -1,1 +1,0 @@
-['Tunesien', '–', 'ist', 'ihrer', 'sie']

@@ -1,1 +1,0 @@
-['Washington/New', '. Mehr', 'in Afghanistan', 'Nach', 'jetzt veröffentlichte', 'und', '„Islamischer', 'zu', 'für', 'verbraucht', 'bereits Einsätze', 'als', 'Montag veröffentlicht']

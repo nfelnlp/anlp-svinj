@@ -1,1 +1,0 @@
-['Berlin', '–', 'Setschin', 'der Eröffnung', 'Euro', 'nach', 'aus', '.', 'die man durch den Bau der', 'Verbindung', 'möchte . Bisher', 'Pipeline-Projekt „Nord']

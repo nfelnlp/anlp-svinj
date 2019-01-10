@@ -1,1 +1,0 @@
-['Deutschland', 'sagte , dass psychische', 'seinem', 'einer', 'Kinder', 'das', 'jeweils']

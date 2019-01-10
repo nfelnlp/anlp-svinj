@@ -1,1 +1,0 @@
-['DDR', 'Maria Jordan', 'Erich Honecker', 'DDR', 'Ostberlin', 'X.', 'der', 'Jassir', 'den Ehrengästen', 'Jugend', 'den', 'und', '.', '1951', 'Über']

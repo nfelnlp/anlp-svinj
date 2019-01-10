@@ -1,1 +1,0 @@
-['Selberdenker', 'komische', 'Tubbies', 'zu', 'werden', 'abgebildet ist', 'schließen', 'Auge', 'hat', 'gerade', 'lesen', '–', 'Es kommen', 'die', 'Gut', 'fordert', 'auch', 'zu', 'und', 'das', 'weint', 'verdammten Londoner Haustüre', 'nennt sie die', 'islamischen', 'sondern', 'Flüchtlingen', ':', 'Mitgliedschaft']

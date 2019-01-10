@@ -1,1 +1,0 @@
-['.', '. Fußball-Legende', 'Asylverfahren eines', 'für', 'Heiterkeit', 'berichtete ein Verfahrensbeteiligter', 'oder', 'hatte', 'Der']

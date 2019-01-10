@@ -1,1 +1,0 @@
-['IL', ';', 'andere', 'IL der', 'IL denkt und', 'Ausschreitungen', 'Kritiken', 'und', 'Stufen', 'der']

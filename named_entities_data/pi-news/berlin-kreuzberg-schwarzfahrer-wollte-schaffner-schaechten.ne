@@ -1,1 +1,0 @@
-['voneinander', '1', '„mutmaßlicher Schwarzfahrender “', 'Regionalexpress', 'Mittwoch', '27 ) in', '.', 'Beteiligten', 'und', 'das', 'weiteren', 'Top-Spitzenreiter', 'Berlin', 'der', '.', 'kostenlos', 'Hände', 'an , dass', ',', 'entkommen', 'und', 'Schlägerei']

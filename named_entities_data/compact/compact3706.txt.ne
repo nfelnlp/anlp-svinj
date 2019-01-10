@@ -1,1 +1,0 @@
-['ARD', 'Korrespondentin des', 'Tribune , Melissa', ', wie', 'direkt', 'Afghanistan', 'die', 'die', 'vor', 'wenn', 'und', 'Waffe', 'frei', 'und', '.', 'vorweg', 'in', 'bereitstellen', 'für', 'unmittelbar militärische', 'Sonderbehandlung', 'Auftragsfolterern', 'Falle', 'mit', 'es', 'im']

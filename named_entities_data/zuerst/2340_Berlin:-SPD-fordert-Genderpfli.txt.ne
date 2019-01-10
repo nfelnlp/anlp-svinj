@@ -1,1 +1,0 @@
-['Gesellschaft 4 Berlin', 'Vereinigten Staaten', 'rückgängig und', 'auf eine', 'Friedrichshain-Kreuzberg', 'es vorgemacht ,', 'sollen die Bezirke', 'geschlechtsneutralen', 'Jules', 'Wörter', 'Anschein , als', 'in', 'noch Anträge', 'den', 'ist', 'fernab', 'Karsten', 'Presse', 'war', 'sp/tw )']

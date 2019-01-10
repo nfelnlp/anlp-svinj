@@ -1,1 +1,0 @@
-['Kairo', 'Hassan al-Banna (', 'massenweise', ') fand', 'Muslimbruderschaft', 'regierungsfähige , teilweise', 'einem', '.', 'Mursi', '«', '»', '–', 'kurz', 'Die', 'arabische', ',', 'Bewegung', 'Peking . Zweifellos', 'nachwirken', 'Die', 'wirklich', 'die']

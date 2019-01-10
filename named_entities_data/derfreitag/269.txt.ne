@@ -1,1 +1,0 @@
-['William John Paul „Liam “ Gallagher wurde', ',', 'Manchester ,', 'geboren', 'Rockband', 'ist', 'ehemaliger', 'der', 'regelmäßig', 'begann ,', '( Oasis', 'Bassist', '( Oasis', 'Rhythmusgitarrist', 'in', 'ein', '.', 'erfolgte', 'kommerzieller', 'erfolgte', 'im', '’', 'Hearts', 'Band', 'meistverkaufte', '.', 'mit', 'und', 'besonders', 'er', 'und stehen', ':']

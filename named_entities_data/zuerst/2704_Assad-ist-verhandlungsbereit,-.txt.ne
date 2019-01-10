@@ -1,1 +1,0 @@
-['Damaskus', 'syrische', 'Assad', '„uneingeschränkt', 'verhandeln', 'Im', 'Besuches', 'französischen', 'deutlich', 'klar', 'er', '„nicht', ', die über', 'Fragen', 'möchte', 'diese', 'Referendum', 'der', 'Ausland', 'Ende', 'in Kasachstan', '.', 'und', ',', 'mü']

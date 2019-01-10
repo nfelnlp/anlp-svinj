@@ -1,1 +1,0 @@
-['augenscheinlich', 'Co.', 'einen', 'zu', 'noch']

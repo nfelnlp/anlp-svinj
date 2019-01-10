@@ -1,1 +1,0 @@
-['Bambas', 'Bambas heißt die', 'Düsenjets', 'peruanischen', 'Cotabambas', 'Ruhe', 'daher', 'Luis Pérez Guadalupe verteidigte das', 'in', 'die lokale', 'Echave , Bergbauexperte', '. Das', 'Investment Corporation und CITIC', 'Co.', '5,85 Milliarden', 'die', 'per LKW transportiert', 'vorbildlich', 'musste die', 'mit', 'Bevölkerung', ',', 'anfallen und', 'sind wahrscheinlich']

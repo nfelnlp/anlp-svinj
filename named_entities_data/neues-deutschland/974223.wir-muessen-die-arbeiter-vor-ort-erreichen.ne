@@ -1,1 +1,0 @@
-['verbinden', 'der', 'die', 'die', 'begleiten', 'die', 'mit', 'Gewerkschaften', 'der', 'unsere', 'die', 'Um', '.', 'Gewerkschaften', 'sich', 'wichtig', 'die', 'europäischen']

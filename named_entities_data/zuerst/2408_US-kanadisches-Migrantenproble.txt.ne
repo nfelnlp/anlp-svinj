@@ -1,1 +1,0 @@
-['Quebec', 'Kanada', 'USA', 'US-Präsident', 'den USA', 'strengeres', 'Laut', 'Ziel', 'von', '.', 'Kontrolle', 'Wochenende', ',', 'relativen Nähe', 'den', 'der Tatsache', 'daß es in', 'daß', '”', 'ihr', 'sie', 'nicht']

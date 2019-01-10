@@ -1,1 +1,0 @@
-['. Ein', 'am Freitag', 'in', ',', 'dem Schlemmen', 'reicht', 'Sprecher der', 'Europaparlament , am', 'bei', 'Ausstiegsplan', ',', 'Auch', 'das derzeitige', 'ein', 'am Funkturm', 'und', ', die', 'Aktion']

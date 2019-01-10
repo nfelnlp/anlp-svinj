@@ -1,1 +1,0 @@
-['?', 'Einigkeit', 'zwischen', 'Kampf', 'Die', 'wollten', 'telegraph', 'würdigen', '«', 'So', '« in', 'Jagd', 'Linke ,', 'nicht', 'Stemmann', 'in', ',', 'Pseudonym Fritz', 'kritischen Linken', 'der', 'der', 'diesem', 'wie', 'und', '12']

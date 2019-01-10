@@ -1,1 +1,0 @@
-['World Trade Center', 'New York', 'eine', 'Hochschule .', ',', 'und', '“']

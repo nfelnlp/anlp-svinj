@@ -1,1 +1,0 @@
-['Freiburg', 'Freiburg', 'Planschbecken', 'nachzeichnet', 'Markus Wolter', 'CC', 'Freiburgs', 'Stadtverwaltung', 'Radio Dreyeckland', 'Heinrich Schwendemann', '.', ',', 'hält', 'Gedenken', '( Die', ') schien', 'Kombination aus', 'Stilmittel', 'mehreren', 'der', 'Ausmaß', 'Schröder', ') hatte', 'gefordert', 'Genau', 'sein', 'deren', '.', 'im']

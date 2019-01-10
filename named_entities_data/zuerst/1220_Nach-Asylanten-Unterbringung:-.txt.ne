@@ -1,1 +1,0 @@
-['Gesellschaft 2 Berlin', 'die', 'zuständig für', '.']

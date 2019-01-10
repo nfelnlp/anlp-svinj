@@ -1,1 +1,0 @@
-['Langer', 'Mohammad Khalefe', 'Syrien', 'Deutschland', 'Europa', '5 . Social Media Week', 'Hamburg', 'Google', 'Deutschland', 'in ihrem', 'Österreich', '.', 'während', 'durch', 'Diminescu', ')', 'Parsanoglou', ')', '«', 'und', ',', 'besser', 'Die', 'Weg', 'Wien', 'Bootsflüchtlinge', ',', 'lokalisiertes', 'dem Englischen', 'dem Englischen von', 'Matteoni']

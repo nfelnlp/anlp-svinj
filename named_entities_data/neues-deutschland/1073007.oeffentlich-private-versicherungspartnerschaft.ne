@@ -1,1 +1,0 @@
-['Ergo', 'Allianz', 'Hochwasser', 'in', 'jedes', 'ab', 'entfernt', 'die', 'Baustein', 'beim Gipfel', '-', '. Im', 'böten', 'Axa', 'in', 'soll', 'Dadurch', '.', '«', 'Ostafrika', 'Versicherungsauszahlungen', 'unterstützt', 'gerettet']

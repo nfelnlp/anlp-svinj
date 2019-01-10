@@ -1,1 +1,0 @@
-['Boniface Mwangi', 'Nairobi', 'Boniface Mwangi', 'stößt', 'den', 'Jugendlichen Michael', 'in Ferguson', 'Times steht ,', 'die', '“', '. Eine', 'mit schwarzer', 'Sie', 'Gegenfrage', '.', 'USA', 'Die', 'sich', 'in', 'Ungerechtigkeit', 'Afrikas', 'selbsterklärte', ',', 'Heimat', 'in', 'Jugendlichen', 'fragt']

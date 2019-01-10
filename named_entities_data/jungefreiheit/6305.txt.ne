@@ -1,1 +1,0 @@
-['Tageseinrichtungen', 'Kindertagespflege', 'dem Sorgerecht', 'sondern nur', '\x84Kinderförderungsgesetz\x93', '(', 'Familienrecht', 'Begriff', 'des', 'zurück ,', 'gleichen', 'wieder', 'öffentlichen', 'Umsturz', 'oder', 'einer', 'daß']

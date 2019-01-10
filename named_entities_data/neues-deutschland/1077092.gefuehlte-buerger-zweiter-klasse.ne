@@ -1,1 +1,0 @@
-['. Zwei', 'die', 'Jahrzehnte', 'in', 'heute', 'Bürger', 'Hochschul-', 'der Universität', 'in den', 'anderen', 'der']

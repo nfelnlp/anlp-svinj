@@ -1,1 +1,0 @@
-['Gesellschaft 5', 'Gesellschaft 5 Brüssel', 'jetzt', 'ein Ausschuß', '.', 'gelten', 'Spritverbrauch', 'den', 'Geräte']

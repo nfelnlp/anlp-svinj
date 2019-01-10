@@ -1,1 +1,0 @@
-['Stefan', ', richtet', 'mit', 'Juncker', 'Dort soll die »', 'Kategorien sind', 'einem » Reflexionspapier', '(', 'Eingeladen', 'zu', 'die Staats-']

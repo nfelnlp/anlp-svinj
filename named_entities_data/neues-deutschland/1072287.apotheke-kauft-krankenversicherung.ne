@@ -1,1 +1,0 @@
-['Merlo von der Apothekenkette', 'werde', 'Aetna', 'fast', 'und', 'vom', 'US-Amerikaner', '.', 'Wir werden die gesundheitlichen', 'umfassenden', 'Kundendaten . Der Zukauf', 'Dollar', 'Aktie ,', 'werden', 'Inzwischen', 'andere', 'aufgekauft', ', einer der', 'wird', 'Dollar', ',', 'wir noch nicht viel', 'ob sie', '.', 'der', ',', 'des']

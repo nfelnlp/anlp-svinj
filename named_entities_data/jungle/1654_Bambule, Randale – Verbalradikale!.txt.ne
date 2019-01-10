@@ -1,1 +1,0 @@
-['``', 'Bürgerkrieg', 'Hooligans', 'da', 'wenn er', 'wäre', 'über die', '«', 'Tod', '«', 'dieser', 'die', 'implizit', 'durchsetzt', '.', 'Gewaltenteilung.', 'bezieht', 'einzustellen', 'den', 'nicht mehr das', 'hat', 'der gleichzeitigen', 'Maßnahmen', 'werden', 'lange', 'antisemitische', '(', 'vor', 'angeblich gegen die', 'Zum']

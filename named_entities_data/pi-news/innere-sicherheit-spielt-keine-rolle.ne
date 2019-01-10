@@ -1,1 +1,0 @@
-['INXI', 'Verkehrschaos', 'Trump', 'Putin', 'gepäppelt', '2018', '.', 'deutsch-demokratische', 'sowieso', 'also', 'und dann', 'der', 'Konferenz', 'vorbereitet', 'Lebensmitteln', 'mehrere', 'des', 'das nicht', 'das nicht .', '.', 'Protagonisten', 'Gesellschaft']

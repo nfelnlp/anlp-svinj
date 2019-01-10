@@ -1,1 +1,0 @@
-['und', 'Einkommenssicherung', 'So', 'dass', '1974', 'verwandelte', ',', 'Volk', 'Verständnis', 'Menschen', ':', 'ideologischen', 'auch', 'man', 'der', 'und', ', verwandelte', '.', 'weiter', 'als', 'Hündchen', 'einer', 'dieser']

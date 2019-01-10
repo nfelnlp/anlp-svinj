@@ -1,1 +1,0 @@
-['werden könnte', 'hatten', 'einem Gewerkschaftsdelegierten der', 'ihren', '.', 'bislang nur', 'Zeitung .', 'das', 'sind', 'pflichtet ihm', '. So würde ihr', 'gebracht werden', 'der']

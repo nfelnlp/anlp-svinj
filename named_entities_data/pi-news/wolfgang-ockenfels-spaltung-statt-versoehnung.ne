@@ -1,1 +1,0 @@
-['Ministerpräsidenten Johannes Rau', '„Bruder Johannes', 'dem späteren', ': „Politik trennt', 'aufgefallen sind', 'Willkommenspolitik', 'Religion', ',', '(', 'oberste', 'Gibt es', 'Spaltungen']

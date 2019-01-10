@@ -1,1 +1,0 @@
-['London', 'Tories', '–', 'haben', 'Sitze', 'dagegen schwere', 'sehen', 'für', '28', 'an', 'Tories', 'kam', '320', 'erreichten', 'den', 'Beobachter', 'Nationalpartei', 'hinzu und', 'Schottland']

@@ -1,1 +1,0 @@
-['Angela Merkel', 'gezogen', 'Tatsächlich ist', 'zurückhaltend .', 'hat', 'vor', 'vor allen', 'Warnungen', '(', 'Metapolitik ist', 'Wahlen', 'Zeitgeist', 'Dies', 'syrische', 'jetzigen']

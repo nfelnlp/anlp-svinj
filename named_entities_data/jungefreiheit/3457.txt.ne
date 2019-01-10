@@ -1,1 +1,0 @@
-['Grünen-Fraktionschefin', 'sprach von', 'Kanzler', 'erwerben', '.', 'in', ',', 'gab', 'nicht', 'Zeit', 'Kranken-', 'bis', 'Gründen', 'den']

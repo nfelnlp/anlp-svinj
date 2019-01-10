@@ -1,1 +1,0 @@
-['Vom Verhältnis', '(', 'des', 'Wandels', 'Handel', 'vergiftet', 'Eltern', 'Wort „Ehe', '? Die', 'wichtiges', 'willkürlichen', ';', 'zu', 'nur', 'die', 'Definitionen )', 'Dynamics']

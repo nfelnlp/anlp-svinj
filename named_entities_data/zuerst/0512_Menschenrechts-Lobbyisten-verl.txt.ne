@@ -1,1 +1,0 @@
-['New', 'New York', 'EU-Kommission', 'Verfahren', 'Ergebnis', 'fordert eine', 'schlägt vor', 'setzen', 'Polen in', 'Jahren', 'geblieben', 'voll', ',', 'des', 'bedeuten ,', 'die', 'Kurs', 'Bereits', 'auch', 'einem', 'tatsächlich seine']

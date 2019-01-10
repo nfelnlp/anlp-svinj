@@ -1,1 +1,0 @@
-['Tokio', 'Reuters', 'Japan', 'Japan', 'Anders', 'Japan', 'Japan', 'Indonesien', 'Nepal', 'Philippinen', 'Tokio', 'Japan', 'Shinzo', '2015 am', 'gegenüber .', 'humanitären', 'anhaltenden', 'zur', '.']

@@ -1,1 +1,0 @@
-['dem', 'Jugendliche', 'am', 'und', 'junger', 'für', 'Kunst', 'habe', 'wem', 'arabisch-islamischen', 'gar', 'von', 'überzeugte', ')', '.', 'nicht', 'er', 'ist', '.', 'Moslems', 'wenn', 'wie', '2008', '2003/2004 arbeitete', 'Von', 'war', 'Freiheit', 'bei Youtube', 'bisher']

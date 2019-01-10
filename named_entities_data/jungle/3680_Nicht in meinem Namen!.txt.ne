@@ -1,1 +1,0 @@
-['Köln', 'Polizei', 'Silvester', 'Köln', 'Bild', 'Reuters', 'Wolfgang Rattay', 'Köln', 'Polizei', 'ist', 'vorgestellt wurde', 'sie', 'Exempel zu', 'Köln', 'Frauen', ',', 'der', 'denen', ',', 'Identität', 'an', 'sie', 'eingesetzt', 'dass', 'sich Leute', 'den', 'waren', 'Kessel', 'über']

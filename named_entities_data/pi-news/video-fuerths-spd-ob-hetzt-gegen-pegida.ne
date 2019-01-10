@@ -1,1 +1,0 @@
-['Mittelfranken', 'Fürth', 'Thomas Jung', 'SPD', 'meinte', 'zu', ') Damit', 'Maske', '“', 'Teamleiter', 'Tegetmeyer', 'ließ den roten OB', ',', 'evangelischen', 'an', 'die', 'Jung', ',', '.', 'gegen', 'gesunden', 'Prozesses ,', ':', 'stellte fest', 'Deutschen', 'noch', 'Vorwürfe', 'Telefonbuch', 'von', 'Uhr', 'auch', 'filmte', 'U-Bahn', 'gehalten', 'aggressive']

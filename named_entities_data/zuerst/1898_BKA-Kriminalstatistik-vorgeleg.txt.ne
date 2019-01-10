@@ -1,1 +1,0 @@
-['Berlin', 'zählen', 'nach', 'Der', '30', 'sonst', 'Ausländerkriminalität', 'der']

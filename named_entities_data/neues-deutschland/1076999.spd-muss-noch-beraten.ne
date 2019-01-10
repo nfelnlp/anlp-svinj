@@ -1,1 +1,0 @@
-['.', '. SPD-Chef', 'Schulz', 'Verfechter von', 'mit', '.', 'einer', 'klären', 'welcher', 'welcher', 'Parteichefs', ',', 'und', 'weiteren Ablauf', '. Schulz', 'den', 'Verhandlungen', 'jetzt nicht', 'Ministerpräsidentin Annegret', '(', 'jetzt', ', einzelne', 'wieder', 'aufzumachen', 'das', 'man im', 'immer', ',', 'warten', 'Im ARD-', '«']

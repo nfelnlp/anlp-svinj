@@ -1,1 +1,0 @@
-['Michael Dodge/Getty', 'Ehe', 'Aufstieg zum', 'einer', ',', 'Interdisziplinariät', 'sie', 'Engagements zugunsten', 'die', 'der Gesellschaft', 'Loddar', 'das Ganze', 'teilnehmenden Interesse', 'zumal aber als', ', geschrieben', 'Prümm einen', ',', '1992', 'an', ',', 'aber', 'Trabi-Klamotten', 'lässt das', '€', '288', 'Prümm']

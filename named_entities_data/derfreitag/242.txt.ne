@@ -1,1 +1,0 @@
-['Iran', 'Ajax', 'Stuxnet', 'Iran', 'Rußland', 'Iran', 'Russland', 'Putin', 'Medwedew', 'Situation', 'mein Lieblingsbeispiel', 'wären', 'sich', 'Muster', 'das', 'das Gefühl', 'Gesetze', '.', 'verstehen', "''", 'gibt', 'oder', 'Firma', 'dort', 'Bevölkerungspolitik', 'Rollenmuster', 'auf', ',', 'Linie', 'sagen', 'in', 'Wirtschafts-', 'Putins', 'nachvollziehen']

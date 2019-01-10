@@ -1,1 +1,0 @@
-['SPD', 'Thüringen', 'SPD', 'Thüringen', 'Sebastian Haak', 'Thüringer SPD', 'Koalition', 'Bund', 'Wolfgang Tiefensee', 'SPD-Vorsitzender', 'soll', 'begrüßt', 'Tiefensee', 'Landesparteitag', 'Dinge', 'heute']

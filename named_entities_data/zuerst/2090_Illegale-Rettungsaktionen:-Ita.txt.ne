@@ -1,1 +1,0 @@
-['Rom', 'ÖVP', 'Stopp', 'unterstrichen', 'die Migranten', 'werden', 'Daß', 'hinweg', 'regelmäßige', 'Schiffen', 'Nichtregierungsorganisationen', ')', 'Gewässern', 'nächsten', 'jedoch', '.', '.', 'systematisch', 'dieser', 'auch ein', 'und', 'dem automatischen', 'er', 'daß', 'daß die', 'vor', 'libyschen', 'Tripolis']

@@ -1,1 +1,0 @@
-['Barcelona', 'Katalonien', 'Spanien', 'Universität von Barcelona', 'katalanischen', 'Carles Puigdemont', 'Puigdemont', 'Madrid', '”', 'nur', 'die', 'mehrmals', '.', ',', 'der']

@@ -1,1 +1,0 @@
-['Bundesanwaltschaft', 'Düsseldorf', 'Gießen', 'Al-Quaida-Ableger', 'der', 'und Soldaten', 'größte', 'verwaltet', 'Ein', '. Er', 'auf die Düsseldorfer', 'Wie', ',', '.', 'ausländische', 'Vereinigung', 'gegen', 'gegen das']

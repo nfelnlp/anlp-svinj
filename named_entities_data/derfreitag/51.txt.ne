@@ -1,1 +1,0 @@
-['dem', 'Sozialdemokraten', '“', 'zum', 'wäre', 'doch', 'gerade', 'Fakt']

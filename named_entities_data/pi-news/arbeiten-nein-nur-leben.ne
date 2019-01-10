@@ -1,1 +1,0 @@
-[',', 'zogen', ')', 'der', ', dass', 'geflüchtet', ',', 'Landrat des', ',', ',', 'seien', '.', 'dort', 'gut gekleidet', 'grinsend', 'bekommen', 'in', 'sind']

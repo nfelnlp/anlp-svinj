@@ -1,1 +1,0 @@
-['–', 'glatte', 'schon', 'der', 'eine', ',', ',', 'noch', 'US-Sender']

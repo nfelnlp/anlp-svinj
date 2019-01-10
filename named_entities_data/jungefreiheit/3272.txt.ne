@@ -1,1 +1,0 @@
-['Benjamin', 'handeln \x96', 'ausgerechnet', 'daß die Landeszentrale', 'zum', ',', 'nicht', 'der Gewalt', 'postpubertären', 'durch seine', 'aus', 'zieht nach', 'Dort', 'und', 'der', 'Körperlichkeit', '.', 'zugelassen', 'die', 'übt', 'Punk', 'ist', 'szenefremder']

@@ -1,1 +1,0 @@
-['nutzen', 'zum', 'S-Bahn', ',']

@@ -1,1 +1,0 @@
-['mitsamt', 'auf', 'fragen', ',', 'Freundin ( 36', 'und', 'Psychatrie', 'später', 'Dann', 'im', 'MDR', 'Marokkaner', 'mit', 'Allerdings', 'Fenster', 'da man']

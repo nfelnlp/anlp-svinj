@@ -1,1 +1,0 @@
-['Zaman/AFP/Getty', 'Mehr', 'hundert', '.', 'Unglück', 'Löhne', 'M', 'Zara', ',', ',', 'und', 'im', 'Economics veröffentlicht', 'legen nahe ,', 'dazu führen kann ,', 'Arbeitsbedingungen', 'Boykott']

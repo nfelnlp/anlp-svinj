@@ -1,1 +1,0 @@
-['Germoney', 'hat', 'hat sich', 'Chevrolet', 'Einwohnern', 'eine', 'aufgenommen', 'wurden', 'dort', 'Geschrei', 'die Fahrkarte', 'nicht', 'nagelneuen', 'gestellt', '.', '. Einzig', 'Gärten', 'Blick gen', 'Asylforderer betrachten', 'gelangweilten', 'so', 'bisher', 'den', 'Gäste']

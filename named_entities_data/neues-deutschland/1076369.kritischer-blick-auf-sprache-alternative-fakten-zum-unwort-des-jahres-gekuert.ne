@@ -1,1 +1,0 @@
-['. »', 'Sie', 'Mit', ', Kellyanne', ', die', '.', ',', 'Fakten dazu', 'im', 'Flüchtlinge in', 'sowohl', 'vor', 'Sprachwissenschaftlern', '»']

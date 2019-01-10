@@ -1,1 +1,0 @@
-['Screenshot', 'unter dem', 'also einen', 'der', 'Januar', 'Luther', 'Luther King', 'Luther King spricht', ')', 'Freiheitsstatue , Startmanöver', 'an', 'Seite der', 'government is', 'muss', ': Als', 'für die', 'Refrain', 'Webhosts', 'Musikalisch steht', '(', 'singen', 'So', 'Stil', ',', 'neu', 'Ausnahme gib', '“ -Samba', 'Mit', 'Wikileaks ,']

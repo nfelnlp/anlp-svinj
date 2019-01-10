@@ -1,1 +1,0 @@
-['Washington', 'NATO', 'US-Präsident', 'das Bündnis', 'nicht', ':', 'werde bei', 'Sprecherin des', 'Großteil', 'gegen', 'am', 'nun', 'mit', 'auf Trumps', 'USA', 'Reuters', 'die', 'ihr', 'Überschneidungen', 'Xis']

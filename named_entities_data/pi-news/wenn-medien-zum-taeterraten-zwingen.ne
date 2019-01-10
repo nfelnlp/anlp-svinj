@@ -1,1 +1,0 @@
-['DAGOBERT', 'Attitüde', 'Gedanken', 'vor', 'menschlich', 'beherrschten', '2015', 'ist', 'den', 'nicht', 'gesehen', 'Sommer', 'Streit', 'mehreren', 'Opfer', 'nicht', ',']

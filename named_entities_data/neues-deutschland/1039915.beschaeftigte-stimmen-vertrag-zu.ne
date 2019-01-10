@@ -1,1 +1,0 @@
-['. Die', 'Landkreis', ') können', 'und die', ', Zweiter', 'Donnerstag', '( parteilos']

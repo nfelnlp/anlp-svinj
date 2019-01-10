@@ -1,1 +1,0 @@
-['Ver.di', 'Jörn Boewe', 'Johannes Schulten', 'ver.di', 'Vereinte Dienstleistungsgewerkschaft', 'ver.di', 'Leipzig', 'von', 'wie', 'wird , ist der']

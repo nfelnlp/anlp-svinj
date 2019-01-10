@@ -1,1 +1,0 @@
-['Manila/Marawi', 'Kampf', 'Kämpfer', 'verschanzt', '.', 'fünf', 'philippinische', 'sich', 'gut', '. Die Zahl der', 'handeln', 'handeln ,', 'verhängten', '. Das', 'sich', 'auch', 'Inselstaates', 'Verantwortung', 'ihre', 'sofort nicht', 'auch']

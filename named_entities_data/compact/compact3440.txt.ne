@@ -1,1 +1,0 @@
-['Jutta Ditfurth', 'Goethe', 'Faust', ')', ',', 'haß', ')', 'eilfertig und als', 'Vollstrecker', 'Brunnenvergifter… Jahrhundertelang', 'weite', 'europäischen Adels', 'machen', 'hätte', ': Ihre', 'der', 'als']

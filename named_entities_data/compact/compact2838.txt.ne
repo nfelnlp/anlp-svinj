@@ -1,1 +1,0 @@
-['Interview', 'Experte schlägt Alarm :', ',', 'hatte', 'nach', 'beobachten', 'kann', 'halten', 'er', 'hat', 'im', 'entsendete', 'Infiltrationen', 'Terroristen', 'ausgelastet', 'Was', 'einmal', 'Welle', 'stehen', 'unter', 'der', '.', 'in', 'gilt', 'die', 'entstehen', '?', 'heimische', 'ersten', 'gelassen', 'und Terrorismusbekämpfung ( BVT', '2008']

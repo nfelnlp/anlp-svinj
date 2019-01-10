@@ -1,1 +1,0 @@
-['Gesellschaft 2 Berlin', 'Bundespolizei', 'Deutschland', 'normalerweise', 'Asylsuchende', 'die', 'es', 'oder', ',', 'nur', '! Der', 'Jörg', 'in erschreckendem', 'Asylrecht', '.', 'glaubt anscheinend', 'das', 'setzt']

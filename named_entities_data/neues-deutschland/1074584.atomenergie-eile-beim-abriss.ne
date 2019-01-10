@@ -1,1 +1,0 @@
-['Gundremmingen', 'Günzburg ( Bayern', 'Gundremmingen', 'Deutschland', 'Bayern', 'Baden-Württemberg und Niedersachsen', 'eines', 'Im Dezember 2022', 'fest', 'noch bis Ende', 'Prozent', 'Anteile', 'Unternehmen', 'sei', 'besonders viel', 'immer', 'mit', 'diese', 'erst mit einem', 'gegen', 'Rückbaus', '.', 'Sicherheit stehe', '.']

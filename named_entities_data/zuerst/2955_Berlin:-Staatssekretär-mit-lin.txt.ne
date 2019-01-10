@@ -1,1 +1,0 @@
-['Gesellschaft 0 Berlin', 'die', ', zuständig', '“', 'nach', 'blieb er', 'Monat', 'die', 'runden', 'linksextremen', ', liiert', 'der', 'der', '(']

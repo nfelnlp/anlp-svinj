@@ -1,1 +1,0 @@
-['( CC-BY', 'Es', 'Artikel zur', 'Der', 'dass seine', '.', 'aller', 'Verwandte', '“ .', 'er', 'nur', ', ist', 'greifbare', 'Revolutionär', 'anderen', '. Anhand', 'sei', 'der', '„proklamiert', '1893 schrieb er', 'Machers', 'oder', 'mag', 'notwendig', 'Bindung', 'einigen', '. in', 'Abhängigkeit und', 'kann', 'Weder']

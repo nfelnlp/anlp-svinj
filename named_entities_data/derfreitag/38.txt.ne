@@ -1,1 +1,0 @@
-['Sean Gallup/Getty', 'Wer', 'George Lakoff entwickelt', '. Sie', ', jungenhafte', 'Zustände beschrieben', '.', 'Sandra Maischberger', 'Gabriels Absicht zitiert', 'AfD hart', 'ob', 'Mut', 'sich mit', 'dieser', '.', 'den', ',', 'wir Populisten', 'Er']

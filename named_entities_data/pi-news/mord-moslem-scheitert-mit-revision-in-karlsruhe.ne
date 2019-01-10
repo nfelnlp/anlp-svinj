@@ -1,1 +1,0 @@
-['Es', 'Zeichen', 'lebenslänglicher', 'ist mit', '.', 'bei', 'der', 'der', 'noch', 'Ungläubige', 'dauerte', 'und Lobsprüche', 'sei', '-Beweise', 'im', 'dem', 'Qualitätsmedien', 'dieser', 'zu', 'mit', 'behauptete', 'Merkel-Gäste', 'in', 'Mordmoslems', 'angegeben', 'auf', 'Balken', 'abgewiesen', 'ihrer', 'Bisherige', '–', 'einmal', ':', 'in']

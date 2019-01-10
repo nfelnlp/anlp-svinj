@@ -1,1 +1,0 @@
-['Trinh', 'Thanh steht seit', 'die', 'die', 'der', 'Der', 'jener', 'und', 'wurde', 'auftauchte', 'Karlsruhe', 'davon', 'der', 'der', 'rund', 'weil', 'Vietnams . Dort', 'den', 'Schlagenhauf', 'in der', 'wurde', 'Das', 'verlassen', 'Ein', 'kam', 'aus', 'Der', 'Linie', 'anders .', 'ganzen', 'in', 'Forschungsprojekten zur vietnamesischen', 'dieser', 'die', 'völlig', 'worden ,']

@@ -1,1 +1,0 @@
-['Stockholm', 'Schweden', 'Peter Hultqvist', 'SVT', 'Hultqvist', 'gibt', 'Rosengård', 'Malmö', 'Der', 'Ausspruch „Look', 'eine Debatte', 'rund', 'lagen', 'Milliarde']

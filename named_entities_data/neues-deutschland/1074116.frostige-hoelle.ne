@@ -1,1 +1,0 @@
-['Ryanair', ',', 'vielen', 'und politischer', 'Ryanair-Piloten', 'sich', '.', 'werde', 'der', 'ruppig', 'Zeit .', 'vom', '. Schriftlich', 'Impact', 'Union die Anerkennung', 'in', ',', 'empfangen .', 'nicht', 'Vernehmen', 'Prekarisierung', 'bei', 'die']

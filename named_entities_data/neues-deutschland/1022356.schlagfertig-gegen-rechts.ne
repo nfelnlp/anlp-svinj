@@ -1,1 +1,0 @@
-['Ein Stuhlkreis', 'nur', 'stapelt noch ein', 'Stammtischkämpfer_innen', 'Stammtischkämpfer_innen ausbilden', ', der', 'Wannsee', '.', 'noch', 'Max', 'vom Linke.SDS', 'einige']

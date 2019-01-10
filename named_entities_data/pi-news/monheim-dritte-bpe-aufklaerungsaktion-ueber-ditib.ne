@@ -1,1 +1,0 @@
-['BPE-NRW', 'und', 'die', 'kein', 'vom', 'dessen', 'dessen', ',', 'Religionsunterricht', ')', 'gegeben', 'Funktionäre', 'eine', 'und', 'Islam', 'Ideologie', 'dass', 'Moscheen', 'von', 'den „Hinterhöfen', 'in', ',', 'der', 'vertretene gefährliche Ideologie', 'das', 'und', 'Umgang', 'universellen', '!', 'statt']

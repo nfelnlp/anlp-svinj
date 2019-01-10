@@ -1,1 +1,0 @@
-['Steinbrück', 'EISELE/AFP/Getty', 'Am', '. Juni', 'Die', 'sich :', 'eine', 'eine', 'vertreten', 'sich', 'Musik beschäftigt', 'der Höhe – Diagnosen zur', "''", '.', 'Rollen', '.', 'sich Beinfreiheit', ',', 'nicht', 'Heinrich-Böll-Stiftung ,']

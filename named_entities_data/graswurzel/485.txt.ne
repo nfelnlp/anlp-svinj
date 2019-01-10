@@ -1,1 +1,0 @@
-['die', '.', '(', '.', 'freut', 'allen', 'konnten', 'war', '.', 'wir', 'wünscht']

@@ -1,1 +1,0 @@
-['Moskau', 'Rubel', ',', '600', 'zurück und', 'wie', 'und', 'Medien', 'russischen']

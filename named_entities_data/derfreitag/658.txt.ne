@@ -1,1 +1,0 @@
-['Obama', 'aus', 'durch Madame', 'Polizei', 'geht', '.', '.', 'viele', 'was']

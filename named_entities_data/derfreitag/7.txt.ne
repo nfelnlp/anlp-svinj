@@ -1,1 +1,0 @@
-['NSA', 'Microsoft', 'Charles Arthur', ':', "'spying", 'Spencer Ackerman', 'Washington and', 'Travis in', 'Travis in London Vizepräsident', 'EU-Kommission', 'Reding fordert die', 'europäischer Bürgerinnen', 'must', 'and Paul', 'in Washington', 'Snowden ist', 'Honkong', 'sicher', 'Human', 'hat Honkong']

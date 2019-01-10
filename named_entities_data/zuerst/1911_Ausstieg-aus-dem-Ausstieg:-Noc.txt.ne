@@ -1,1 +1,0 @@
-['Washington', 'US-Präsident', 'drei Monate', ', der', ',', 'einen Ausstieg', 'Mann', 'Jared', 'wichtigen Öl-', 'Kohleproduzenten für', 'bis', 'treffen', 'Spätestens', 'Spicer', 'bezeichnet', 'seiner Wahl angekündigt ,', 'weisen', 'Jahr']

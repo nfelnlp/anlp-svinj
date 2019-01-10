@@ -1,1 +1,0 @@
-['Hanna', 'des', 'Territorium', '„deutsche', 'für eine', 'sich', 'Die', 'her . „Dieses', 'hat', 'aufschrieb', 'den', 'gab', 'gut', 'das', 'Lebenshaltungskosten', 'in', 'Euro', 'fließen', 'was', 'sagt er', 'geschwommen', ',', 'es', 'schön', '.', ',', 'er', 'lange', ',', 'mit']

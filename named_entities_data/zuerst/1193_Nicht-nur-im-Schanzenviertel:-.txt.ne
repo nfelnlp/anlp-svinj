@@ -1,1 +1,0 @@
-['Athen', 'Hauptstadt', 'hat', 'zu', 'Innenstadt', 'hatte', 'und', 'ein parteiloser', ',', 'bevorzugte', 'zu']

@@ -1,1 +1,0 @@
-['Washington', 'US-Präsident', 'arbeitet sein', 'Environmental', 'Agency', 'auf', 'hält', 'hält die', 'Leben', 'Umweltminister', 'zuvor Generalstaatsanwalt', ',', 'frischgekürter', 'Worte für', 'könne', ':', 'satte', '29', 'in']

@@ -1,1 +1,0 @@
-['. Die', 'Dienstag in', 'sich', 'Nach', 'wird', 'Forderung', '»', 'Plakette', 'emissionsarme Autos', '» Dass', 'Automobilindustrie', 'als', 'beim', 'ihre', 'und eine', 'Kontrolle', 'von', 'betroffen', '.', 'Landes umfasst nach', 'des', 'hinweg', 'nicht']

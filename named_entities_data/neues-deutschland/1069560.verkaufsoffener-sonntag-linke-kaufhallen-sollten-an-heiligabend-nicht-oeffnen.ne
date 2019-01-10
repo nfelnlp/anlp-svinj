@@ -1,1 +1,0 @@
-['.', '. Berlins', '( LINKE', 'wünscht', 'öffnen', '» Ich', '.', 'Supermärkte', 'und Anke', '( beide', 'sprachen', 'in', 'Sinne', 'Wirtschaftsministerin', ',', 'einer Mitteilung', 'Schwan , dass', 'Prozent der', 'Geschäfte', 'Jahr', 'Kaufleute', 'ver.di', 'zuvor', 'einem', 'aufgerufen', 'wollen', 'wie jeder']

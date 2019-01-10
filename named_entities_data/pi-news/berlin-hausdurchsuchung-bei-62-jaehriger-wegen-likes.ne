@@ -1,1 +1,0 @@
-['Cantaloop', 'aus', 'kann', 'unerheblichen', 'nicht', '(', 'wurde', 'und', 'der', '„Clan-Recht', 'abgestraft , dass einem fast', 'härter', 'für', 'Gendertoiletten', 'wird', 'Verbreitung']

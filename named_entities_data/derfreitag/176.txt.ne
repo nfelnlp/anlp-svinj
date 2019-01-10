@@ -1,1 +1,0 @@
-['Clooneys', 'Fox Zu', 'die schon', ',', ', weil', ', weil der', 'Besetzung', ',', 'Goodman , Bill', 'und der', 'Franzose Jean', 'Fernsehkameras und Fans', 'man', 'Seherfahrungen anzuknüpfen', 'dickes Buch', 'all die', 'hat', 'Weltgeschichte', ', kann', 'an Langeweile', 'beständig', 'nichts', 'Film darüber', 'Clooneys Chef', 'aus ,', 'Anfang des']

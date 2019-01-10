@@ -1,1 +1,0 @@
-['man', 'meldet', 'seitdem', 'Umgebung', 'im', 'fanden', 'fanden sich', 'die', 'nahe', 'des', 'der extrem', 'Landratskandidat der', '«', 'noch', 'präsentierten', 'anwesende', 'in', 'von', ',', '.', 'in', 'Politikers', 'Tage', '»', 'der', 'den', 'weiterem', ',', 'sie', 'selbst', 'selbst in', 'sehr', 'Grünjugend']

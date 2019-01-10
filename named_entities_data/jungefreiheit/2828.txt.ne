@@ -1,1 +1,0 @@
-['Bertelsmann', 'Duden', ',', 'war', 'überhaupt', 'den', 'Hilfe', 'Getrenntschreibung', 'Harvarduniversität', 'herumschlagen , das man', 'kleinen', 'für', '``', 'meist', 'aber', '?', 'Daß', 'alle paar']

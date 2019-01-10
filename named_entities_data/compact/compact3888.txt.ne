@@ -1,1 +1,0 @@
-['Obama', 'Romney', 'Obama', 'Romney', 'Obama', 'Obama haushoch', 'Romney', 'Romney', ',', 'dazu', 'Öffentlichkeit', 'in', 'Testfragen', 'gab', 'die', 'landauf landab', 'Romney', 'hatte', 'seine', 'Er', 'Kenntnis', 'die', '“ , einem', 'mußte', 'nicht haushoch']

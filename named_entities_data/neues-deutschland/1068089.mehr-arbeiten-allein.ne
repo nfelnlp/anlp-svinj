@@ -1,1 +1,0 @@
-['. Die', 'Bundestag', 'dabei', 'Insbesondere bei', 'Ausdruck', 'Soloselbstständigkeit zu einer', 'starke', 'mit']

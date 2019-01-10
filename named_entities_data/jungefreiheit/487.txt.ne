@@ -1,1 +1,0 @@
-['JF', 'Altmeier', 'CDU', 'Wer', '. Auch', 'nicht', 'Marschewski', 'eine', 'Herrn', ',', 'wir', 'oder', 'zur', 'er', 'reale', "''", 'nennt', '``', 'Elternhaus', 'von', 'einem', 'jetzige', 'Das', 'neu', 'Gemeinschaftsleben', 'was', 'werden', 'den', 'Grundbestand', '``', 'Herr', 'seiner', 'wären', '``', 'Abschaffung', 'Abschaffung keine', 'Da hat', ',', 'Partei', ',']

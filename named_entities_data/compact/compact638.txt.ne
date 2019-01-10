@@ -1,1 +1,0 @@
-['ZDF-', '#', 'Einbruch', '„Polizeimustergesetz', 'sicher', 'will', 'dass', 'eine', '1050', 'Antwort zu', 'hören “', 'die', '–', 'von', 'Sie', ':', 'CDU-Wahlspruch', 'nicht', 'nicht', 'Gefahr', 'ihre', ',', 'Männer', '“', 'Deutschland', '“', 'Merkel', 'ist', ',', 'es', 'hört.', 'Bock auf']

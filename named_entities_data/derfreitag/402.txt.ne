@@ -1,1 +1,0 @@
-['Lex van Lieshout', 'übernommen werden', 'einer neuen Mitteilung , dass', '.', 'noch ,', '“', 'mit', 'Buchautorin .']

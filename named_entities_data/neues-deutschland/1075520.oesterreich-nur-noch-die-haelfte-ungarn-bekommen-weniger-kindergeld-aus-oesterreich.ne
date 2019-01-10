@@ -1,1 +1,0 @@
-['die', 'der', 'im', ', dass', '.', 'deutlich', 'Kinder', 'Lebenshaltungskosten', 'flossen', 'Euro', 'der ÖVP-FPÖ-Koalition', '«', 'hat', 'wird', 'Art', 'Schritt', 'was', 'nun', 'brauchte', 'in', 'wären', 'Auch', 'prüfen', 'wäre', ': Weil', 'sie', 'worden', 'Mitgliedstaaten künftig', 'zahlen', 'mobilmachen', '.', 'hat', 'in', 'Konflikt', 'Wien']

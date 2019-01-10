@@ -1,1 +1,0 @@
-['Pristina', 'NATO', 'auch', '.', 'Zusammenarbeit', 'eigenständige', 'bewaffnete', 'bisherige Anläufe', 'EU', 'sich', 'überzeugt', 'in', 'Man', 'eine', 'unter', ',', 'auch', ',', 'die', 'Schritt', 'der die']

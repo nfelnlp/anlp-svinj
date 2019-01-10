@@ -1,1 +1,0 @@
-['Duterte', 'EU-Parlaments', 'Grundsätze', '.', 'immer', 'es nach mir', 'rigoros', 'Philippinen', '7500', 'wird', 'auf', 'herumlaufen.', 'bürgerliche', 'ihm']

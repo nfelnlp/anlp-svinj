@@ -1,1 +1,0 @@
-['. Wer', ': »', 'dass das', 'Benachteiligungserfahrungen', 'weiter', 'der', 'Agenturen/nd']

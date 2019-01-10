@@ -1,1 +1,0 @@
-['Hygge', 'Schweden', 'Ikea', 'Ikea', 'un\xadbegreifliche', 'Norwegen', 'Hyggelig', 'sig', 'kos', 'Norwegen', 'Jeppe', 'Linnet ,', 'dafür', 'nicht', 'trösten', 'und', 'ist', 'und', 'Anstehen', 'schwedischen', 'darüber klagt', 'Immer', 'neues', 'Grunde', 'Ahnung', 'die Sache', 'Erklärung']

@@ -1,1 +1,0 @@
-['Friedel', 'Berlin-Neukölln Das Bedürfnis', 'in', '«', '.', '2011', 'Woche', '.', 'die Räumung in', 'Einsatz', 'unverhältnismäßig', 'Ort , an', 'Die', 'an Radikalität', 'überbieten', 'Aufgabe', 'Denn', 'anderen', 'der »', 'nicht ,', 'sich mit', 'an', 'maßgeblich', 'von', 'auch', 'Radikalität kaum', 'ist', 'und', 'diese Unmöglichkeit', '.']

@@ -1,1 +1,0 @@
-['.', 'und', 'Gründungsgewerkschaften', 'sie', 'Welchen', 'haben', 'Gewerkschaftsmitglied', 'Jugendbildungsarbeit', 'die', 'immer fasziniert', 'wie diese', 'Frauen', ',', 'da', '.', 'auch', 'Mauerfall', 'mehr', 'Missverständnisse', 'haben', 'gibt', 'läuft', 'seit 2013', 'Gebäudereinigerhandwerk , den Dienstleistungsbereich', 'und Mitbestimmung', '35-Stunden-Woche', 'von']

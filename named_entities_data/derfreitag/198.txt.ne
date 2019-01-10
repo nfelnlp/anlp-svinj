@@ -1,1 +1,0 @@
-['Romney', 'Obama', 'Rick Wilking-Pool/Getty', 'gab es', 'Fehlversuchen', 'er', 'nervös ,', '.', 'streberhafte', 'verlief', 'er', 'wolle', 'inhaltlich überlegen', '.', 'schmarotzenden', 'um', 'ihm', 'meisten Amerikaner Obamas Vorgänger', 'lebhaft', ',', 'versucht', ',', 'Vorschriften', 'würde', '.']

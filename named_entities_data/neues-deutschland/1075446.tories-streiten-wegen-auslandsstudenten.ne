@@ -1,1 +1,0 @@
-['steht wegen', 'beharrt', 'Stimmen ,', 'Niederlage', 'ihrer', 'erklärte ,', 'ihre', ', Ruth', ', schrieb', 'Schatzkanzler', 'Boris Johnson', 'dafür ein', 'Berichten zufolge ,', 'innerhalb', 'Einwanderung', 'ihrer']

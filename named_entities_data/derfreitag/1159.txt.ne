@@ -1,1 +1,0 @@
-['Bodo Ramelow', 'Erfurt', 'Stache', 'AFP', 'Getty', 'Deutschland', 'Linkspartei', 'Brandenburg', 'Thüringen', 'Argument', 'Einbußen', 'aller', 'Beispiel', ',', 'sein', 'gut informierte', 'unbeirrt', 'Erfurt', 'des Ministerpräsidenten', 'das', 'demokratischen', 'einer', 'betrifft', 'und', 'Was', 'Verunsicherung', 'hat', 'da', 'der']

@@ -1,1 +1,0 @@
-['Berlin', ',', 'dieser', 'die', 'Arbeitslose', ':', '.', 'den', 'Raum', 'genutzt', ',', 'Ganz', 'raus. “', 'Räumung', 'Dort', 'Zuvor sei dort', 'endlich richtige', 'werden', 'über dem Kopf', '.']

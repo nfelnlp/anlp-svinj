@@ -1,1 +1,0 @@
-['München', '„Am', 'Kopfschuß', 'versuchte', '„Bild-Zeitung', '„Bild-Zeitung “', 'ist', 'fielen', 'Die', 'aus', 'Großaufgebot', 'eingesetzte Polizei nicht', 'mit', 'anderen Mann', 'der', 'geholt', ',', 'Radio']

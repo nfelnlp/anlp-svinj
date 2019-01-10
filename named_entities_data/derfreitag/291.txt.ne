@@ -1,1 +1,0 @@
-['Andersen/', 'Getty', 'Viel', 'sich', 'Unternehmensvertretern', 'noch', 'Eine', 'die', 'Arbeitslebens', ', dass', 'erst dann', 'eigenen', 'Arbeitnehmer', 'Unternehmen', 'nicht', 'Politik', 'worden', 'Darüber', 'System', 'an', 'einem', 'der ETH', '.']

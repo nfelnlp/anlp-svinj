@@ -1,1 +1,0 @@
-['Michael Rosbash', 'Stockholm', 'Rosbash', 'Michael W. Young und', 'C. Hall an der', 'die', 'Chronobiologie', 'ihrer', 'an', 'auch', 'Arbeitsgestaltung', ',', 'in der', 'Leistung', '« .', 'dagegen in seiner Ana\xadlyse noch klar', 'und', 'sei', '»', 'werden', 'ihre', 'noch', 'beispielsweise', 'also Ware', 'was Zeit', 'viele', 'Erkenntnis']

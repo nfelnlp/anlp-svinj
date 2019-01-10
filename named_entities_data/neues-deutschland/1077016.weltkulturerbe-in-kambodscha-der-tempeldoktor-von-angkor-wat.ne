@@ -1,1 +1,0 @@
-['Angkor Wat', 'Köln', 'Kambodscha', 'Michael Lenz', 'Fingerknöchelarbeit', 'Köln im', 'die', 'Wat .', 'zieren', 'Plehwe-Leisen', 'ihre', 'im', 'durch', '...']

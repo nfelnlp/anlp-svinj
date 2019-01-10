@@ -1,1 +1,0 @@
-['New', 'New York', 'Bundesrepublik Deutschland', 'und', '.', 'Vertreter', 'Manhattan scheiterte', 'wurde', 'Standpunkt', '„Deutschland versucht', 'daß', 'des', 'mit', 'Windhuk', 'soll', 'New', 'mü']

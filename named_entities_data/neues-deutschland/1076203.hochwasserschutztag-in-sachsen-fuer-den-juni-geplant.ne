@@ -1,1 +1,0 @@
-['.', '. Jahre', 'am', 'ein Hochwasserschutztag', 'zudem', 'Ministeriumsangeben', 'Milliarden', '( CDU', '. Vor', ', der', 'in']

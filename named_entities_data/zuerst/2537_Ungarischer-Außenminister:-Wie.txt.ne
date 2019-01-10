@@ -1,1 +1,0 @@
-['Budapest', 'sorgt in', 'Enthüllung', 'Gesprächsstoff', 'in', 'vertraute der', 'ein', 'Papier', 'ergreifen', '.', 'Minister', '. Szijjártó', 'kein Hehl', 'er', 'das', 'mü', 'World', 'swiss-image.ch/Photo', 'Sebastian', 'Sebastian Derungs']

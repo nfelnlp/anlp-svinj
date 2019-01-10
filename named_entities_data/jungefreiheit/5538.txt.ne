@@ -1,1 +1,0 @@
-['Iran', 'Deutschland', 'Angela Merkel', 'schwiegen', 'Deutschland', 'dieser', ',', 'dazu', 'Präsidenten', 'bewogen', 'und', 'ihm', 'der Nation', 'begleitet', 'Sie', ',', 'soll', 'soll ihm den', 'auf', 'seiner', 'sie auch', 'gefragt', 'daß', 'noch', 'die', 'Rolle', 'Frankreich', 'dem', 'die', 'im', 'schließen', 'Atomwaffen', 'genommen', 'kann', 'die', 'hat', 'schneller', 'Recht']

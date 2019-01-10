@@ -1,1 +1,0 @@
-['Ver.di', 'Hans-Gerd Öfinger Der seit', 'wird nach', 'Arbeitszeitbetrug', 'Petra', 'Betriebsrätin und', 'des ver.di-Bezirks', 'So', 'sich']

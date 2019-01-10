@@ -1,1 +1,0 @@
-['der', 'Initiative', 'in', 'sind', 'am', 'zu', 'Konsumenten', 'Foodsharing .', ',', '2030', ',', 'Helfern', 'unverkaufte', 'mit Foodsharing', 'Wort', 'nachhaltig angebaute', '«', 'es', 'weiter']

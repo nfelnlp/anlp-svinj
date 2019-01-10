@@ -1,1 +1,0 @@
-['Gesellschaft', 'Wien', 'Sebastian Kurz', 'ÖVP', 'zu', 'ist', 'hält', 'etwa', '“', 'Jahr', 'ORF', 'das', 'Menschen', 'Jahren verstärkt', 'Soros', 'muß', 'direkt', 'zwar', '(', 'ist sein Name nicht mehr']

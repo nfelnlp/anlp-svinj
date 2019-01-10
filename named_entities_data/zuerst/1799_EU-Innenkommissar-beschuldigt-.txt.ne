@@ -1,1 +1,0 @@
-['Peking', 'trägt', 'auch', 'zwar', 'Dimitris', 'asiatische', 'und', ',', 'innere', 'Schmuggler ist', 'Libyen', 'gegenüber', '.', 'Lage', 'Frontex']

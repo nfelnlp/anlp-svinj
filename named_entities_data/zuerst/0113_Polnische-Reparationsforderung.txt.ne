@@ -1,1 +1,0 @@
-['Warschau', 'Berlin', 'Andrzej Przylebski', 'Forderungen', 'Im', 'USA', 'hat', 'Reparationsforderungen', 'sie', '.', 'Bundesregierung']

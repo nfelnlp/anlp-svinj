@@ -1,1 +1,0 @@
-['Damaskus', 'Syrien ist', 'Darstellung', 'syrischen', 'Der', 'habe', 'syrische', 'Sonntagnachmittag', 'damit', 'daß', 'hat', 'Abschuß', 'gedroht', 'Ziel betrachten', 'Ministerium', 'dieser', '“ ,']

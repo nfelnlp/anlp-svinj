@@ -1,1 +1,0 @@
-['Gesellschaft', 'Einige Beispiele', '31jähriger', '.', 'eine', '„südländischem Erscheinungsbild', 'Gruppe', 'Frauen', 'einer', '2', 'Afghanen das Sicherheitspersonal']

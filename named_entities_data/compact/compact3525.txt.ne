@@ -1,1 +1,0 @@
-['Schütz', 'Sotschi', 'gute', 'So', 'Brest-Litowsk', 'mehr . Sich', '–', 'ja', 'Beobachter', '.', 'einer', 'hielt', 'das', 'auszutragen', 'herzurichten', 'Investitionen', 'des', 'obschon', '.', 'zerknautschem', 'dieser', 'in', 'lebendiges', 'verächtlich auf', '‘', ',', 'blutigen Wettstreit', 'Führung', 'und', 'mörderischem']

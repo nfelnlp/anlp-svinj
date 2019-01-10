@@ -1,1 +1,0 @@
-['Deutschland', 'putze', 'Kind', 'also', 'besuchen', ',', '.', 'Kinder', ',', 'stimmt']

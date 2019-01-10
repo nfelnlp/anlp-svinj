@@ -1,1 +1,0 @@
-['. US-Präsident', 'Gemüter', 'Vorgehen', 'Sicherheitskräfte sollten „bitte', 'von', 'Einwohnern', 'Jugendbande', 'mutmaßliche', 'den', '?', 'Dabei', 'Verbrechern', 'davon', 'geschehen', '„Mara', 'Einwanderern gegründet .', 'Sie', 'ruhige']

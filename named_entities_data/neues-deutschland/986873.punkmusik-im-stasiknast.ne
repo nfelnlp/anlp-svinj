@@ -1,1 +1,0 @@
-['immer', 'erzählt', '.', '.', 'Sie', 'und', '.', 'als', 'den', 'die', 'Mief', 'eine', 'war .', 'Anarchistisches Gedankengut', ',', 'aus', 'Punkbands', ',', 'die Bewegung', 'Massive', 'die', '.', '.', 'so', 'Statt', 'lauteten', '»', '. Für', 'Paula', 'Sabine', '»', '«', 'Sie', 'ein', 'Eine', 'Westen', 'es', ',', '.', 'Verlag']

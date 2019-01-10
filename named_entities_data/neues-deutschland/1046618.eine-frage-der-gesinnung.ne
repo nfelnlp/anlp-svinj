@@ -1,1 +1,0 @@
-['den', 'die', 'der', 'Woche für Aufregung sorgte .']

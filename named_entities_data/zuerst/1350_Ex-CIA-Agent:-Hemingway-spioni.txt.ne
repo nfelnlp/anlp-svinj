@@ -1,1 +1,0 @@
-['New', 'New York', 'US-Bestsellerautor', 'Hemingway ( 1899', 'Lebemann', 'Reynolds', 'jetzt ein', '„Writer', 'Adventures ,', 'Buches', 'sein', 'überzeugter', 'sein', 'sollen der', '.', ',', 'mit', 'verstand', 'so', 'seine']

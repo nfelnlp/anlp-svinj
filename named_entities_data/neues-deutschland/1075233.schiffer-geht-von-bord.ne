@@ -1,1 +1,0 @@
-['am Dienstagabend', 'habe', 'werde', ', hatte sich', 'einen', 'große', '.', 'Partei der', 'gefunden', 'habe', 'aber', 'Reihe', ',', 'wie', 'die Piraten', 'sagt', 'Piraten', '»', 'sieht', 'der Piraten', 'die', 'sich', 'konnten . Zudem', 'sei', 'FDP', '«', '.', '«', 'sagt', 'heute']

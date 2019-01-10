@@ -1,1 +1,0 @@
-['Shanghai', 'Shanghai –', 'chinesischen', 'Siemens', 'Metro', 'Link Express', 'beauftragt', ',', 'Premiers', 'trägt', '«', 'Jahr']

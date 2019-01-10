@@ -1,1 +1,0 @@
-['Europa', 'Barcelona', 'Turku', 'Paris', 'London', 'Berlin', 'Brüssel', 'Nizza', 'Sozialrevolutionäre', 'Russland', 'Alexander II .', 'Donau-Monarchie', '“ ( RAF )', 'der', 'RAF-Täter', 'Zivilopfer', 'im', 'Smith', 'dem gemeinen', '. Ausnahme', 'nur bekannte', 'werden und', 'haben', 'mit', 'einer', 'Eliten', 'fürchten', 'längst klar', ', dass', '– und']

@@ -1,1 +1,0 @@
-['Aleppo', 'russischen Luftwaffe', 'NATO-Generalsekretär', '„Zurückhaltung', '„Bild', 'Verhinderung', 'und', 'Verbündeten', 'eine', 'wie', 'CIA', 'darüber', '2011', '„Rat Line', 'großen', ',', 'in', ',', 'libyschen', 'in', '.', ':', 'seit', 'bis', 'Menschen das', ',', 'niemals', 'von', 'Westen']

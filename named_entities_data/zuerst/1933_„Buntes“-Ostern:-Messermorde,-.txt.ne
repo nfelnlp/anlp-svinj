@@ -1,1 +1,0 @@
-['Hannover', 'und', 'Wochenende', 'zu', ':', 'kam', 'zu', 'lieferten', 'bewußtlos', ':', 'Berlin', 'ein', 'Nicht', ',', '20', 'die', 'Autobahn', 'das', 'auf']

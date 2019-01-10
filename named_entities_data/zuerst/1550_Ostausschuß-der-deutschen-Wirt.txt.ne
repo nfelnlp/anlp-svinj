@@ -1,1 +1,0 @@
-['Berlin', 'im', 'Leistungsfähigkeit', 'hervor', 'liegt Rußland', 'den', '35', 'diesem', 'Wirtschaft', 'auch', 'führenden', 'und', 'Deutschland', 'beim', 'bis', 'Fortschritte', 'künftig', 'einer', 'Know-how', 'Die', 'Ost-Ausschuss', 'Wirtschaft']

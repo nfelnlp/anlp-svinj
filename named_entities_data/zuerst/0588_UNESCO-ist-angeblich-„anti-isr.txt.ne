@@ -1,1 +1,0 @@
-['Washington/Paris', 'Die', 'austreten –', 'anderem', 'formell', 'die', ',', '. Hintergrund', 'Washington einmal', 'der', 'mitgeteilt', 'Multilateralismus ein', 'Sitz hat .', 'UNESCO', 'zahlreichen', 'Ländern', 'an', 'offenbar', '.', 'zog', 'aus', 'aus der']

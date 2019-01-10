@@ -1,1 +1,0 @@
-['Ehe', 'liberal', 'anderen', 'verschiedenen Ländern', 'die in', ', US-Verband für die', '2014', 'die', 'in', 'Trans*menschen', '. Verlag', 'Wagenbach ,']

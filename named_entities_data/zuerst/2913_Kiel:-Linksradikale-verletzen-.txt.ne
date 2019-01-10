@@ -1,1 +1,0 @@
-['Gesellschaft 15 Kiel', 'ein Mann unweit', 'sucht', 'berichten', 'des', 'eine', 'bewarf', 'und', '.', 'Meter', 'Bis', 'in', 'weniger Vorfälle', 'die AfD rund']

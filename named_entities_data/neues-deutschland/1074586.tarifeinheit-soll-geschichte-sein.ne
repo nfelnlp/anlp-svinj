@@ -1,1 +1,0 @@
-[', der', 'in Berlin . Mit', 'Gesetz', ') sicherstellen', 'dass', 'dem', 'nun', 'Marburger', '1', ',', 'geklagt', 'die', 'Recht', 'Tarifvielfalt', '. »', 'vermeiden', 'meint', 'bis', '2018']

@@ -1,1 +1,0 @@
-[':', 'Montanmitbestimmungsgesetz', 'und']

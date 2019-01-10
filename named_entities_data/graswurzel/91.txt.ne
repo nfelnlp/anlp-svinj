@@ -1,1 +1,0 @@
-['Die', 'Polizei', 'Pressemitteilung', 'politische', 'in', 'Verständnis', 'Verständnis solcher', 'Stadt', 'nicht', 'HausbesetzerInnen um', 'Und', 'faul', 'aus', 'war']

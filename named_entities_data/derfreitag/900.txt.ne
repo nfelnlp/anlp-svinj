@@ -1,1 +1,0 @@
-['am', 'Eigentlich', 'und Dich', 'Die Kette', 'Ehe', 'hat', 'Freitag', 'ich', 'Dir', 'allzu', 'von']

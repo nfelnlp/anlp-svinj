@@ -1,1 +1,0 @@
-['In', 'Redaktionssitzung der', ',', 'Schweden', 'und', ':', 'noch', 'Anhängern', 'ihm', 'dass', 'Präsident', 'man', 'die', 'im', 'an Beziehungen zwischen', 'beschränkt', 'sie', 'auf', 'Absage', '. Darin wird', 'Präsidialsystem', 'unterschiedliche', 'teilen', 'zu', '.', 'Beziehungen', 'zeitweise', 'Zeitung']

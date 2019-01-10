@@ -1,1 +1,0 @@
-['Washington', 'China', 'nach', 'Sachen', 'Sicherheitsbericht', 'Senatskomitee für', 'studiert', 'Schwächung', 'verdeckter', '.', 'militärische', 'als', 'und', 'Ressourcen', 'zu', 'an', 'gewinnen', 'Resümee', 'Lage', 'Bereichen']

@@ -1,1 +1,0 @@
-['Paulette', 'zwingen', 'als', 'plätschert', 'nur', 'kein', '.', 'Soziale', 'haftet', 'mythologische', 'auf', '»', 'sind', 'dass', '\xadgefällt', 'zeigt', 'angesammelt', '.', 'zur', 'bleibt', 'Die', 'gäbe und', 'sofern', 'einmal', '.', 'überschätzt']

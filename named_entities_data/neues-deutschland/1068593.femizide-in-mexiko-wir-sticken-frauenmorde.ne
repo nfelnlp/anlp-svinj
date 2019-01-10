@@ -1,1 +1,0 @@
-['erzählt', 'der', '»', 'einer', ':', 'erstmals', ', dem', 'Zeiten', 'vom', '.', 'und', 'den', 'und', 'Tatort', 'des', 'Von', ',', 'künstlerischen', 'Wie', 'Mai dieses', 'Juni', ',', 'sind', 'junge', 'uns', 'Gesellschaft', 'wir', 'Wir hoffen', 'etwas', 'als']

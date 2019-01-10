@@ -1,1 +1,0 @@
-['Kiew/Budapest', 'Die', 'Nationalisierungspolitik', 'Rada', 'Gesetzentwurf', 'vor', 'kündigte', 'für', 'europäischen', 'es', 'Kilometer', 'dem', 'des', ',', 'die', 'Vorgehensweise', 'Vorgehensweise besprochen', 'sowie', 'OSZE-Vorsitzenden', '.']

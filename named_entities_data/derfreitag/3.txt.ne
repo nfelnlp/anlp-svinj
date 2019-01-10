@@ -1,1 +1,0 @@
-['AFP', 'Getty', 'Das', 'verändert', 'sehen .', 'erstmals', 'wieder auferstehen', 'und', 'sich', 'alte Garde', 'aber', ', als', 'sich', 'Wahlen ist', 'mit', 'Front', 'Front National', 'Italia', 'muss um', 'unter', 'europäischen', 'europäischen Volksparteien bangen', 'Linken', 'Türen', '.', 'ohne die', 'der SEL', 'dem', '``', 'Doch', 'nur', '%', 'Grünen', 'dem Parteikongress']

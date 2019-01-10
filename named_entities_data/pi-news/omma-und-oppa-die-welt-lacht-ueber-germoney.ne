@@ -1,1 +1,0 @@
-['den', 'mittelprächtiges', 'Augen', '.', 'wie', 'ist', 'Nicht', 'ja', 'nix', '&', '“', '„Full', 'immer', 'große', '!', 'Werbung', 'Hose', 'kassieren', 'jährlich', 'von', 'CDU/SPD-Regierung', 'Und', 'alles', 'natürlich', 'mit Smartphone im', '&', '…', ',', 'liest', 'wie']

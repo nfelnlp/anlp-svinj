@@ -1,1 +1,0 @@
-['Platt', 'heizen sie', 'nur noch', 'Libyen', 'auch', 'viel', 'engagieren', 'als', 'eigenen', 'in', 'einzufordern', 'denen', '.', 'ideologisches Konstrukt', 'mit', 'eines', 'schnell']

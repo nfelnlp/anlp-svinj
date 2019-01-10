@@ -1,1 +1,0 @@
-['Paris', 'Frankreich', 'Front National', 'Marine', 'Pen', 'EU', '–', 'Marine', 'Pen', 'Pen jetzt', 'Pen jetzt :', 'Währung', 'ihnen', 'EU', 'dem', 'Tat', 'Premierministerin', 'könnte nach', 'Umfragen in', 'Runde', 'Runde der', ')']

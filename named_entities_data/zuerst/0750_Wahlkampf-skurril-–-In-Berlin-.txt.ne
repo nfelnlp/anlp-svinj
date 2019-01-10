@@ -1,1 +1,0 @@
-['Gesellschaft', 'Berlin', 'Berlin Putin-Poster', 'Wladimir', 'zu sehen', '“', 'den', ',', 'einer', '.', 'Prozent', 'Forsa', 'die', 'Vertrauen', 'in', 'sei', 'Die', 'auch']

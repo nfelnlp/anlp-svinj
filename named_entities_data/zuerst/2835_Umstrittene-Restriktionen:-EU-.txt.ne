@@ -1,1 +1,0 @@
-['Brüssel', 'EU', 'EU-Länder', 'Europaparlament', '.', 'Verschärfung', 'wichtigsten', 'Juncker', ',', 'die', 'noch strenger ausfielen .', 'Finnland', 'vergleichsweise', 'ist', 'ist .']

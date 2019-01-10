@@ -1,1 +1,0 @@
-['Arnschwang', 'Staatsanwaltschaft Regensburg', 'Oberpfalz', 'Messerstichen', 'Rußland']

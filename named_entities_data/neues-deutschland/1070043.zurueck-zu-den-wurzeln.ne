@@ -1,1 +1,0 @@
-['weltweit', 'immer', 'den', '.', 'eine', 'tödlichen', 'mit']

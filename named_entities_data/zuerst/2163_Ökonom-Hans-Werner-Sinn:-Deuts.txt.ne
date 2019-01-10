@@ -1,1 +1,0 @@
-['Hans-Werner Sinn ,', 'Plänen', 'der', 'sei', 'Brexit', 'nicht', 'den', 'Europäischen', 'viel', 'Immigration', 'meint', 'übrig', 'wichtigere', 'ein', 'Abhängigkeitsverhältnis', 'Großbritannien', 'und', '„lateinischen', '“']

@@ -1,1 +1,0 @@
-['gegen Trumps', ': Angela', 'Images', 'tun', ',', 'Demokratie', 'Artikel', ':', 'Deutschiraner letzten', 'Fremdenhass und', 'Sommer', 'gegen', 'die', 'langsam begreift', 'ästhetische Kind', 'aktionistischen', 'Roth', 'dem Ärger', 'opfern', 'opfern . Die amerikanischen', 'aus', 'Schauraum', 'AfD-Treffens', '.', 'doch', 'Aber nur', 'Demagogen und Autokraten']

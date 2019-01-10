@@ -1,1 +1,0 @@
-['lernbar', 'Auch', 'Grafiken einzuhubern', 'naatuerlich', 'leicht', ')', '.']

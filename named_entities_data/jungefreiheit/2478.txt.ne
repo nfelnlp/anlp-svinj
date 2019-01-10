@@ -1,1 +1,0 @@
-['Deutschland', 'Fallersleben', 'alles', 'für zwölf', 'pervertierte alles', 'Fragen', 'wir', 'um', 'die', '.', 'Philosophen', 'die', 'deutsche', ',', 'sich', '; oder', 'Wissenschaft , ohne', 'von', 'haben', 'den', 'daß nach', 'daß wir', 'heute', 'respektieren', '?', 'Vaterland liebten', 'ihm in', 'Und', 'waren', 'der', 'verleumden', 'Ihre', 'akzeptable', '. Und']

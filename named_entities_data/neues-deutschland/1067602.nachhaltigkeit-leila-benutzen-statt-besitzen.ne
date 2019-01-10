@@ -1,1 +1,0 @@
-['( 39', 'von Lars', 'Jahren .', 'hin', 'noch', ',', 'eröffneten', 'in', '« Obwohl', 'bei', 'sie', 'bringen. «', 'gibt', 'Anfängen', 'Leuten', ', Naumburger']

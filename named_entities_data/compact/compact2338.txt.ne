@@ -1,1 +1,0 @@
-['Volksfront', '–', 'Sarazenen', 'Wucherer', '–', 'angezettelten', 'Ukraine', 'Organisatoren', 'allen', 'Die', ',', 'war', 'und', 'jede', 'echte', ',', 'die', 'versehen', ',', ',', 'los', 'Hoher', 'des', 'persönliche', 'belegt', 'pfui', '.', 'können']

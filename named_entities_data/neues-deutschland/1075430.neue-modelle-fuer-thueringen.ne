@@ -1,1 +1,0 @@
-['. Für', 'soll 2018', '.', 'Neben', 'an', 'Kooperationen', 'mehr', 'Bad', '.', 'gebe es', 'Eisenach', 'Suhl', 'Oberhof', 'In der Verwaltung', 'er', 'die']

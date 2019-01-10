@@ -1,1 +1,0 @@
-['CDU-Politiker', 'wurde am', 'ohne', '„Fakenews', ',', 'interviewt', 'Matzke', 'die', 'nicht für', 'Kenntnisstand so', 'hatten', 'also real', 'Ohne Zwang', 'erklären', 'In', 'einer', 'sehr', '„Weckruf-Verein “ von', '. Der', 'marginalisiert', 'im Vorfeld', 'Pretzell', 'zu den', 'die Kampagnen- und', 'der', 'Mut für die', 'unbedachten', ',']

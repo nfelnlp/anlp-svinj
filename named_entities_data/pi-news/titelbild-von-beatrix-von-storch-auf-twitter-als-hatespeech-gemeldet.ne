@@ -1,1 +1,0 @@
-['Storch zeigt sie', 'irgendwelche', '„Dem', 'Volke', 'nicht in', ', technisch', 'dieses', '„Großeskalation', '„Debattenelfmeter', '„Debattenelfmeter .', 'das', 'kollektiven', 'nicht', 'vielmehr', 'man', 'mal ein', 'mit', 'Die', 'NetzDG', 'Reichelt', 'Zeitung liefert', 'auch', 'Peter', '10:00', '.', 'von', '. Nicht', 'auch', 'sich', 'war er', '20', 'Zu', 'Facebookseite']

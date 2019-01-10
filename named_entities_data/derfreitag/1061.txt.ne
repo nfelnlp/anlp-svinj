@@ -1,1 +1,0 @@
-['Koall/Getty', 'Unter Denkmalschutz', 'mit', '.', 'Warum', ', kann man', 'Füße stellen', 'Musealisierung des']

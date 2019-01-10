@@ -1,1 +1,0 @@
-['(', 'einem lügenboldnerischen', 'Deutschland', 'gebombt', 'vermutlich', 'Heiko', 'wegen mehr', 'zu lieben', 'Publikums trifft', 'sondern', 'samt', 'Mel', 'sozusagen die', 'zu', 'bestimmt', 'dich', '.', 'Freunde', 'dem', 'eine', 'fassen', 'fröhlich', ',', 'man', 'den', 'Wunderbar', 'Staatsfunk', 'es', 'Europa so', 'Gott', 'dem', 'Parade-Mongo', ',', 'dem', ',']

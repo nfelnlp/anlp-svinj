@@ -1,1 +1,0 @@
-['Sarah Rice/Getty', 'Homosexualität', 'Seit', 'Pseudotherapien', 'Kreisen', 'hetero', 'bezüglich', 'damals', 'verboten', '.', 'noch', 'als']

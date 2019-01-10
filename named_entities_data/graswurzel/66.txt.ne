@@ -1,1 +1,0 @@
-['passendem', 'großer', 'dann', 'dann eine', 'oder', 'Friday', 'einiges', 'wurde', 'es', 'Dynamik', 'Selbstbehauptung und', 'trugen', 'Stück Stoff ,', ', sie', 'Zukunft', 'Symbol ist', 'Ihre Krawatte', '- vor', "''"]

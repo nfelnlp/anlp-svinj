@@ -1,1 +1,0 @@
-['–', 'zeigt ,', 'hoch ?', 'wieder', 'dreizehn Vorstandsmitgliedern', ',', '.', 'Petry-Flügel', 'damit', 'Höcke', 'und', 'er', 'nicht', 'Der', 'völlig', 'Umklammerung', 'denn', 'des', 'ist', ',', 'notwendige', 'ließ .', 'beweist', 'gesamter', '. Das', '2017']

@@ -1,1 +1,0 @@
-['Spanien', 'sich', 'dem Projekttutorium', 'dem Projekttutorium »', 'im', ',', 'Vortrag kritisch', 'Prekaritätsforschung an', 'hätten sich als prekär', 'der Universität', 'allem ältere', 'dem Anforderungen', 'Kuriere in', 'begannen und', 'sie', 'Die', 'Tagung hatten sich', 'Logistikbranche', '»', ', dass', '.']

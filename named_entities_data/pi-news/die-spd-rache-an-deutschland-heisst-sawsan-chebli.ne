@@ -1,1 +1,0 @@
-['SPD-Politikerin', 'wäre in', 'kinderreichen', 'nach', 'als', 'verbreiteten', 'wer', 'mit', 'müsse', 'gesetzt', 'der', 'und', ':', 'besuchen', 'muslimischen', 'im', 'Bürgermeister', 'einer', 'bereits', '40 Jahren', 'das mit', 'das mit immer', 'hat', '( BFF']

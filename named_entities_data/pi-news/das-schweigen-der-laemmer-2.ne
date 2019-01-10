@@ -1,1 +1,0 @@
-['Selberdenker', 'Das', 'im', 'die', 'Massen in', 'ist', '.', 'nicht', 'Terror', 'Ländern', 'Seltenheit', '.']

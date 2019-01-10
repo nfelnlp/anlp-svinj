@@ -1,1 +1,0 @@
-['muß', 'das Verstehen', 'amerikanische', 'Auseinandersetzungen', 'der', 'öffentlichen', 'einer ``', 'das', 'fühlt', "''", 'damit', 'einigen', 'und dort ist', 'eindeutige Indizien', '! Im', 'Beleg ,', 'also', 'die', "''", 'Währung', 'Prozeß', 'für', 'Kohl', 'd.', 'nicht', 'Großteils', 'unter Ausschluß eines', 'Teiles', 'ganz', ', man', 'Politikwissenschaften an']

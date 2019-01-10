@@ -1,1 +1,0 @@
-['Press (', 'Sprecher )', 'Das', 'um', 'der Gegend', 'Zapatismus/indigener', 'allem', 'die', ',', 'hier', 'immer noch !', 'direkteste', 'auch politisch', 'beheimatet', 'aus', 'Burn', 'Fat-Wreck-Profil .', '! oder']

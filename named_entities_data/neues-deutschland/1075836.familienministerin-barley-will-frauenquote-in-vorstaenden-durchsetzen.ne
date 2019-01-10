@@ -1,1 +1,0 @@
-['. Familienministerin', 'Barley ( SPD', 'hat', '»', 'eine', 'Offen', 'Pläne', 'trotz', 'für']

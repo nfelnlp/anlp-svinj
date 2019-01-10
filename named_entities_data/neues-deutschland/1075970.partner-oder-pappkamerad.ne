@@ -1,1 +1,0 @@
-['. Während', 'CSU', 'SPD', 'Willy-Brandt-Haus', 'Donnerstag', 'voraussichtlich', 'potenziellen Koalitionspartner', 'Euroländer', 'skeptisch', 'Diese', 'kürzlich', 'die', 'Paris möglichst', 'Macrons', 'Heimatland', 'Macrons', 'für', 'Linke', 'griechische', 'ermutigt', 'Koalition einzugehen', 'diesem', '» progressive', 'in', 'linken', 'der', 'Politik']

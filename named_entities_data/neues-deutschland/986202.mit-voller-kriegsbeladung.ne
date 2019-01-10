@@ -1,1 +1,0 @@
-['Grünen-Bundestagsabgeordnete', 'neben', 'den Protesten', 'Bundeswehr-', '.', 'sprach', 'der', 'den 90er', 'demonstrieren', 'Oktober', 'Schnellen', ':', 'mich.', 'von', 'dahin', 'in', 'Geschichte', 'Netz', 'auch', 'Grundlagen']

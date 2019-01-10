@@ -1,1 +1,0 @@
-['militärische', 'Irak', 'Libyen', 'diese', 'verwüstet', 'Innerstaatliche Konflikte würden', ':', 'Die', 'Staaten', 'autoritärer', 'für', 'Menschenrechtsverletzungen', 'sind', 'Deal', 'Küste', 'Münchner', 'Manifest', 'Versöhnungsbund', 'darin', 'Jahre vor', 'weltweit', 'Genf', 'Gang', '.', 'Regionalmächte seit dem', 'der', 'Poroschenko sowie', 'Kerry .']

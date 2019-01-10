@@ -1,1 +1,0 @@
-[', die', ', musste', 'Indien', 'China', 'Äthiopien', 'die', 'WHO', 'empfiehlt', 'knapp', 'Nordamerika', 'der', 'Wohngemeinschaften', 'ihren', 'bei', 'drei', 'Institut für', 'Mission in', 'deshalb', 'über', 'Bislang werde', 'Tropical Medicine . Wirklich', 'habe', 'in', 'Christoffel', 'Gesundheit', 'Selbsthilfegruppen']

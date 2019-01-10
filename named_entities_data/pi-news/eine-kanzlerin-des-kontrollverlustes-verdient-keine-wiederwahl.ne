@@ -1,1 +1,0 @@
-['C. JAHN |', '–', 'durch', 'ekelhafte', 'mit', 'Szene', 'die', ', Hunderttausende', 'zu', 'Gewaltexzessen in', 'seinem', 'wie die', 'sich keine', 'waren', 'muss nicht', 'auf', 'sieht']

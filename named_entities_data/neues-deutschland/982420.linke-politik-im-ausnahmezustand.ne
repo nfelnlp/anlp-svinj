@@ -1,1 +1,0 @@
-['Heidenau', 'Freital', 'Antifa', 'Johannes Richter', 'Heidenau', 'Republik', 'Heidenau', 'Heidenau', 'Heidenau', 'Antifa-Aktivisten']

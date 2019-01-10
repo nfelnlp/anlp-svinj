@@ -1,1 +1,0 @@
-['HAU', 'des', 'Jahr', '26-Jährige', 'Simonne', 'Repertoire', 'Ausdrucksformen –', 'Nachdem', '„Free', 'veröffentlicht ,', 'HAU', 'in', 'lebende', 'Kool', 'dunkel-melancholischen', 'an', 'Wir', '. Simonne', 'und', '10963', '.', 'Wir', '1', 'eurer Begleitung', 'Bitte', ':']

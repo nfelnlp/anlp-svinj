@@ -1,1 +1,0 @@
-['Peter Bartels', 'Rednerpult', 'schlechter', 'zeigte', 'bei', ', so wurde beim', '…', '„Bomben', 'Joachim', 'Presse-Popanzen theatralisch', 'gefeiert', '.', 'Italien', 'Immerhin', 'Man', 'ja', 'Seychellen', 'schon', 'sowieso', 'mal', 'Millionen', 'zwei', 'noch ganz', 'Person', ': „Der', 'der', 'natürlich', 'die', '.', 'Morgenland', 'einfach', 'Du', '!']

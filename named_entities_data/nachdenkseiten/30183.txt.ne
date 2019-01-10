@@ -1,1 +1,0 @@
-['Wider die', 'Wernicke', 'allerorten zu', 'boomenden', 'Ideologie', ', ich zitiere', 'dabei', 'nach', 'Sau', 'um', '„Gesetz', 'Zusammenhang', 'Geschmack', 'erzählt', 'nicht wirklich hilft ,', 'politisch']

@@ -1,1 +1,0 @@
-['Peking', 'Rußland', 'Ungarn', 'China', ',', 'parteinahen', 'Böll und', 'Luxemburg .', 'den ersten', '(']

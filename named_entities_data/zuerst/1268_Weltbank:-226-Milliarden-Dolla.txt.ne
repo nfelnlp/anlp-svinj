@@ -1,1 +1,0 @@
-['Washington', 'Syrien', 'Weltbank', 'zerreißt', '.', 'worden', 'syrischen', 'und', ',', 'beruht', 'langsam', '41', 'erreichen', '. Mehr', 'die', 'der']

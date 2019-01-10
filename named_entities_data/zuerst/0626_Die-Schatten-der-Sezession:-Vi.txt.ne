@@ -1,1 +1,0 @@
-['Barcelona/Madrid', 'Schon', 'erste', '.', 'die', ', mitgeteilt', 'ihren', 'verlegen', 'wirtschaftliche', 'Firmen', '.', 'Teil', 'signalisiert', 'einen', 'mit', 'abhängig', 'Insgesamt', 'gesamten']

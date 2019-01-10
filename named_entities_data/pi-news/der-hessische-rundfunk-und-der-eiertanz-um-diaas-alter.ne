@@ -1,1 +1,0 @@
-['Hessische Rundfunk', 'und', 'dem Film', 'Darum', 'PI-NEWS', 'zusammengestellt ,', 'im', 'irgendwelche', 'haben .', 'uns', 'Dokumente', 'so', 'dieses', 'mit', 'In', ',']

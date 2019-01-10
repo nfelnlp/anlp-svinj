@@ -1,1 +1,0 @@
-['. Die', 'BKA', 'nutze', 'in', 'die', 'in', 'den']

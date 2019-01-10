@@ -1,1 +1,0 @@
-['Washington', 'amerikanischen', 'viel Geld', '“ zufolge', 'Boden', 'die F/A-18 . Das', 'Willam', ', überbeansprucht', 'besetzt', ', die', 'es', 'wieder 355 Schiffseinheiten', '. Auch']

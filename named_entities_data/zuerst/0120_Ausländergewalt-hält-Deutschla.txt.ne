@@ -1,1 +1,0 @@
-['Gesellschaft', 'einer', 'einen', 'griff', 'an', 'und', '.', 'Mann', 'nicht nur die', ',', 'so']

@@ -1,1 +1,0 @@
-['.', '. Der', 'Schäden', 'weggespült', ',', 'Lekkas .', 'sprachen von', 'sind', 'alle Häuser', 'waren', 'Untersuchung an', 'in', 'vergangenen', 'und', 'Giannakouris']

@@ -1,1 +1,0 @@
-['der', '. Bis', '. Ob', 'Frage', 'Vieles', 'der', ',']

@@ -1,1 +1,0 @@
-['Prostitution eingestellt', '» Women ’', 'Amtsantrittes', 'US-Präsident', 'Times , dass', 'von der', 'dem Zusammenhang', '«', 'an durch die', 'Struktur geformt', 'im', 'Ein', 'aber eine', 'Auf 220', 'Körper', 'dem', 'insbesondere', 'den', '.', 'derzeit in', 'Transpersonen', 'ihnen', 'im', 'und', 'TERF', 'im Vorwort', 'enthält', 'bereits', 'sondern', 'weichgezeichneten']

@@ -1,1 +1,0 @@
-['am', 'sind ,', ',', 'nur', 'um die', 'Euro', 'beendeten', 'Qualität', 'eingegangen', 'Viertel', 'kein']

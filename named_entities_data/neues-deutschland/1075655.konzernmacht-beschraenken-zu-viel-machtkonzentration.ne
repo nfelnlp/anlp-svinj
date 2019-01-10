@@ -1,1 +1,0 @@
-['darüber freut', 'an der', 'Bürgerliches Recht', 'den', 'Rechtsgrundlage', 'ein', ', die', 'dem', 'Frankreichs', 'und', 'und', 'größer die', 'haben sie']

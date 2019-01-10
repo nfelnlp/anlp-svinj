@@ -1,1 +1,0 @@
-['( CDU', 'freundlich', 'Gut', 'im', ', in', 'der', 'sich', 'sich bislang', 'geäußert', 'er', 'Informationen', 'mögliche', 'Hundert', 'Gemeinde', 'stehen', 'neuen', '« .', 'Fleischindustrie', 'Cloppenburg ,', 'sie', 'Schon als', ',', ',', 'gar', 'von', '.', 'will', 'Kreis fernbleibt', 'und', 'prekär']

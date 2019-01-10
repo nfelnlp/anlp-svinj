@@ -1,1 +1,0 @@
-['weltweit', 'Während', 'es', ', Professorin ,', 'Prof. Dr.', ', Prof.', 'Oberliesen ,', 'Jörg Sandkühler', 'Dr. Anne', 'Dr. Erhard', 'Zerbes ,', 'Meinung zu verteidigen', 'Sie', 'Auseinandersetzung einzutreten', 'selbst ,', 'Sie öffentlich']

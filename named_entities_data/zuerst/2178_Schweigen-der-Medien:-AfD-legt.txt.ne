@@ -1,1 +1,0 @@
-['Gesellschaft', '.', '„Facebook', 'und kritisch', 'ein']

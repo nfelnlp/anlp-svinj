@@ -1,1 +1,0 @@
-['amerikanische', 'Joshua Clover', 'Straßenunruhen', 'Ferguson', 'Riots', 'USA', 'Griechenland', 'London', 'Ferguson', 'Polizei', 'Trayvon Martin', 'Florida losging', '...']

@@ -1,1 +1,0 @@
-['Luxemburg', 'Europa', 'EuGH', 'müssen', '„Flüchtlinge', 'Dies', 'im', 'jetzt anstehenden', 'juristischer', 'für', 'Fall', '„60 Millionen', 'Afghanen', '68', 'Nigerianer', 'ihre']

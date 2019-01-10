@@ -1,1 +1,0 @@
-['Panya', 'Magdeburg', 'Sachsen-Anhalt haben im', 'bis', 'sagte .', 'sich', 'hätten schließen', 'Anlagen wie', 'über', 'Im Vorjahr wurden', 'allem', 'besonders', 'die', 'Vogelvoliere', 'die']

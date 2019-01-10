@@ -1,1 +1,0 @@
-['im', 'bei', 'repräsentativen', 'europäischen', 'überregionalen', 'für die RWE', 'Stromversorger', 'bestehen auf', 'an', 'die', ',', 'andere', 'nicht', 'können , müssen', 'den', 'einigen', 'die', 'selbst als', 'Ökostrom-Versorger', 'über', 'Sachen', 'Anbieter ,']

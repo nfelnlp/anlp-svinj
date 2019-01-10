@@ -1,1 +1,0 @@
-['Oder', 'Sanny', 'Friedrichstraße', 'den', 'ausgestopfte', 'ausgestopfte Enten', 'in', 'Tonic', 'und Barbetreiber', 'Die', 'Gin', 'setzen “', 'auszuschenken ,', 'DEN', 'und', 'ein', 'die', 'ab', 'konnte', 'oder', 'die', ',', '.', 'in', 'meisten', 'begeistert', 'durch die', 'bestimmen']

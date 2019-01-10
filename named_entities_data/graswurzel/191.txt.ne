@@ -1,1 +1,0 @@
-['1', '2 .', 'Abgeordneten', 'Demokratie', 'da', '.', 'den', 'verstaatlichten', 'sichernde', 'des', 'Nar']

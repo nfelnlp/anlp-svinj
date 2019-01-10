@@ -1,1 +1,0 @@
-['Kiel', 'Staatsanwaltschaft', 'bereits', 'zurückliegenden', 'zunächst', 'Landesgeschäftsführer', 'des Rechtsstaates', 'Polizei', 'Strafverfolgungszwang , der hier', 'knickt', 'offenbar', 'hat', '. Der Rechtsanwalt', 'Momberger', 'hin ,', 'viele', 'Ausweisungsbescheid erhalten', 'werden.', 'Identität', ',']

@@ -1,1 +1,0 @@
-['?', 'bis', 'hin', ')', 'einen', 'erklärt Neuhöfer', 'Betriebskostenvorausberechnung', ',', 'Euro', 'durchgenässt.', 'Sie', 'orientalischen', 'erneut', 'zu', 'der', 'durch', 'und', 'das', 'selbst', 'aus', '. Wie', 'bitte', '.']

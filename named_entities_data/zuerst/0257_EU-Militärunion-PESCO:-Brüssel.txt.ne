@@ -1,1 +1,0 @@
-['EU', 'EU-Gipfels', 'gleich', 'zur', 'diesbezügliche', '32-Punkte-Plan', 'der', 'für', 'Jahre', 'Dänemark', 'Großbritannien', 'regelmäßigen', 'ihrer', '.']

@@ -1,1 +1,0 @@
-['Ankara', 'türkische', 'Erdogan', 'Deutschland', 'CDU', 'SPD', 'Grüne', 'Deutschland', '”', 'nach', '.', 'und', 'machten', ',', ',', 'die', 'die', ',', 'Und', 'gesinnt', 'Deutschland', '„der', 'Linke', 'und', 'erwähnte', 'gibt', 'Deutsch-Türken', 'Deutsch-Türken', 'und', 'konservative']

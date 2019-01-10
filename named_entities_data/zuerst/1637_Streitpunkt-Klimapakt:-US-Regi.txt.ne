@@ -1,1 +1,0 @@
-['unerachtet seines', 'G-7-Gipfel', 'übrigen', 'Paris ab', 'nach', 'Dissens', 'Frankreich', 'der', 'Seite', 'benennen', 'Die', 'sei', ',', 'Haltung', 'Kenntnis', 'einen', 'Pariser', 'kommende', ', die', 'im', 'Zeitalter', 'dem']

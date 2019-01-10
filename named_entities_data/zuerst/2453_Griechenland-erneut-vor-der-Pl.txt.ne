@@ -1,1 +1,0 @@
-['Brüssel/Athen', 'Um', 'war', 'einem Bankrott', 'warnt', '”', 'gerungen', 'werden', 'erklärte', 'Woche gegenüber der', 'Stimme', 'aus', '“', 'Währung', 'sagte']

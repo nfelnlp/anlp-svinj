@@ -1,1 +1,0 @@
-['Martinek (', '„Senat', ',', 'fest', 'den', 'Richtung', 'Müller', 'Ja ,', 'DDR', 'heute', '.', ',', 'natürlich', 'letzte', 'über', 'Müller', '500.000 Facebook-Fans', '500.000 Facebook-Fans )', 'wie „Melanie', 'nicht', 'Altersarmut', 'auch', 'wir beschäftigen', 'jedem', 'haben', 'zahllose', '149', 'läuft']

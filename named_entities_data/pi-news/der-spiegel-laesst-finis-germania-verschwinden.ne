@@ -1,1 +1,0 @@
-['mal', 'weiß', 'Weise', 'in', 'Ausgabe', 'Tod im Herbst', 'Migrationsproblem', '„Spiegel', 'viel', 'was', 'der', 'Saltzwedel', '“ -Redaktion', 'offensichtlich', 'noch', 'als', 'in', '.', 'zu', '.', 'unverschämter', 'selbst für', 'selbst für die', 'Sieferle', 'kann man um']

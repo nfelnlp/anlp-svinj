@@ -1,1 +1,0 @@
-[', ein', 'Schotte', 'ein', 'Jahre', 'letztes', 'The', 'improvisierten', 'verrücktesten Sidekicks', 'zieht .', 'ist eine', 'von', "''", 'sehr schnell', 'Akzent', ': Du', 'Welt', 'Kunst', 'Welt der', 'haben', 'Ja', 'Es', 'diese', 'sehr', 'ich', 'Zeit', 'Stadt', 'gemacht', 'diesen', ',', '.', 'Island', 'das', 'Menschen', 'USA', 'der', 'wirklich', ',']

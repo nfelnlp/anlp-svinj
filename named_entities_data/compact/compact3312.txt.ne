@@ -1,1 +1,0 @@
-['Selbstredend', 'bei', 'ist', 'wenn', 'Souveränität', 'erst', 'verderbliche', 'ist', 'der', 'jauchigen', 'beraubt', 'und', 'bald', '.', 'Volk', 'entspr', 'Ken Jebsen']

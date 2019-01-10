@@ -1,1 +1,0 @@
-['EU-Mitgliedsländer', 'Griechenland', 'die', 'nicht', 'EU-Europa', '.', 'Krieges', ',', 'hier', ',', 'Nach', 'der', 'der', 'Jeder', 'dazu']

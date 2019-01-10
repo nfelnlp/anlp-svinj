@@ -1,1 +1,0 @@
-['. Die', ', Leiter', 'der', 'Aussagen von', 'des Rentenalters', 'der gesetzlichen', 'Gewerkschaftsbund', ',', 'man', 'gewählt']

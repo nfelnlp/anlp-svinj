@@ -1,1 +1,0 @@
-['Berlin', 'Merkel Totalversagen', 'Angela Merkel', 'fast', 'Frage des', 'am', 'entlarven', '.', 'einen Teil der', 'eingeladen .', 'sei', 'Opfer', 'ernannt worden', 'und', 'und', 'Licht', 'sind', 'Jost hatte', '.', 'er', 'kann', 'Fall', 'Amri nicht 08/15', '.', 'geht', ',', ':', 'einer', 'der', 'Drogenhandel', 'politischen', 'Ihrer', 'vom', 'werden', 'Nationalität']

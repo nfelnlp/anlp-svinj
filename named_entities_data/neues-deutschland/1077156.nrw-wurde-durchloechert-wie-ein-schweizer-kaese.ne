@@ -1,1 +1,0 @@
-['Ruhrgebiet Düsseldorf', 'Nordrhein-Westfalen gibt es', ',', 'Brems', 'im Landtag', 'an', 'aber', 'der', 'durch den Einsturz', ',', 'gemeldet', 'bei', '« ,', 'aber', 'Es', 'zu', 'Pinkwart', 'zu']

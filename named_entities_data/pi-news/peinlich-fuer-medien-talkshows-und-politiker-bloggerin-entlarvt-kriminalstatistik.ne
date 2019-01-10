@@ -1,1 +1,0 @@
-['Ines Laufer', 'Ines', 'Aufklärungsquote', 'Gewalttätern', 'wird', 'Mio', 'in', 'Ausländer', 'angestellten Vergleiche', '455', '2015', '2015 111.125', 'mit noch']

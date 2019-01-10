@@ -1,1 +1,0 @@
-['New York', 'amerikanischen', 'New York Times', ',', 'das', 'den', 'Niedersachsen', 'zwar', 'gewonnen .', 'bringen']

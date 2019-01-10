@@ -1,1 +1,0 @@
-['Moskau', 'russische', 'Wladimir Putin', 'Princeton Survey Research Associates International', 'Putin', 'Ukraine-Politik', 'USA', 'EU', 'weniger', 'Welt', 'Bedrohung', '71', 'der']

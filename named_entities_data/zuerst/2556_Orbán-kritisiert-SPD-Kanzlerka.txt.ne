@@ -1,1 +1,0 @@
-['Brüssel', 'Viktor Orbán', 'SPD-Kanzlerkandidaten', ', der', '.', 'der', ':', 'ihn', 'ihn , er ist ein', 'Kämpfer', 'wir', 'gegen', '–', 'einem', '.', '. Orbán :', 'Europa', 'sieht', 'Regierungschef', 'hat', 'und']

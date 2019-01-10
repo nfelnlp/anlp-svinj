@@ -1,1 +1,0 @@
-['Washington', 'amerikanische', 'Osten', 'General Joseph Votel', 'Iran', 'sagte', 'vor dem Verteidigungsauschuß', 'Er', '„destabilisierende', '.', 'müsse nach', 'können.', 'halten', 'in der', 'anzustreben', 'Syrien', '.']

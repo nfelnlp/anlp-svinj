@@ -1,1 +1,0 @@
-['Sean Gallup', 'Getty', 'Grünen', 'hat', 'Bundesregierung', 'mehr laut', 'überzeugend zu', 'Fiskalpakt', 'Südländer in', 'Ja', 'Fiskalpakt', 'in der', 'Renate', '. Und', 'muss']

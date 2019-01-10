@@ -1,1 +1,0 @@
-['.', '. Laufen', 'Radfahren', 'die', 'Olympischem', 'Abzeichen als', 'Osten lägen', 'westlichen', 'es jedoch noch', '.', 'allem in der', 'Etwa', 'Vereine', '2013', 'wie etwa', ',', 'Die', '.', 'den', 'Sportarten', 'Senioren']

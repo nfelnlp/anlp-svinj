@@ -1,1 +1,0 @@
-['Rom', 'Italien', 'des', 'denen', 'dem Kampf gegen', 'Schlepper', '.', 'verfolge', 'an Bord']

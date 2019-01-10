@@ -1,1 +1,0 @@
-['Gesellschaft', 'Deutschland', 'Ausländergewalt', 'Frauen', 'aus', 'Mindestens', 'eine', 'nach', 'Verlassen', 'Frauen', 'Vorfall', 'das', 'Afghane']

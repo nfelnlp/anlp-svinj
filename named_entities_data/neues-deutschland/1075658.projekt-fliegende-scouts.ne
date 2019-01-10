@@ -1,1 +1,0 @@
-['Magdeburg', 'Berlin', 'NATO-Staaten', 'Jahrzehnten', 'eingeschränkt', 'Wie', 'Aerial System', 'wurde', 'Erkundung', 'Drohnen', 'schneller und', 'weiträumigen', 'die', 'hat', 'erwiesen', 'nun', ':', ': auf', '25.', ', man werde', ',', 'nicht', 'Denn', 'atomwaffenfähigen', 'dass', 'aus']

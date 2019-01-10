@@ -1,1 +1,0 @@
-['sich', 'unterzeichnete die', 'Schumer warb damit', 'waren', 'oder Cory', 'viel zu', '. Auch', 'sie', 'ließ wissen', 'programmiert']

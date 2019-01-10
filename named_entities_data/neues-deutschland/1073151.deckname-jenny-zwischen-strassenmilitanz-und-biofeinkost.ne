@@ -1,1 +1,0 @@
-['den', 'Frau', 'sie', 'erleben', 'er', 'In', 'existierende Linke', 'damaligen', 'seine grüne', 'Fansa', 'Fansa einst', 'Transperson', 'schon', 'auch']

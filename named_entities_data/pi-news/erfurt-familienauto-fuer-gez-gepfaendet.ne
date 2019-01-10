@@ -1,1 +1,0 @@
-['INXI', 'Daniel Thielemann', 'Erfurt', 'Mazda', 'GEZ', 'das', 'in', 'Mio', ',', 'aller', 'weiterhin ihr', 'treiben und', 'geht', 'Anstalten des', 'bezahlen', 'transportieren', 'Wahrheiten', 'so', 'Slogan', 'wie', '.', 'darum', '!', 'soll', 'muß']

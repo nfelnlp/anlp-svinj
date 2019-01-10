@@ -1,1 +1,0 @@
-['Haag', 'Europol', '“', 'den', 'durchgeführte', 'Hälfte', 'Frankreich gab', ',', 'Griechenland', 'Deutschland', 'Belgien', 'den', ',']

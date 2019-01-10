@@ -1,1 +1,0 @@
-['Barcelona/Belgrad', 'Die', 'kritisch', 'mit', 'warnt', 'daß', 'bekommen', 'erklärte', 'die', 'erklärte', 'Auch', 'Republika', 'Abstimmung geben könnte', 'Milorad', 'fordert seit Jahren', 'wieder eine', 'kommendes Jahr', 'umstrittenes', 'mit', 'Anschluß', 'Bujanovac', 'Albaner hatten', 'bereits', 'ausgesprochen']

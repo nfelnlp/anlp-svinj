@@ -1,1 +1,0 @@
-['Ver.di', 'Amazon', 'Jörn Perske', 'Bad Hersfeld', 'ver.di', 'Amazon', 'lange', '. » Wir', 'im', 'früher', 'Das ist', 'Gewerkschaften', 'werden']

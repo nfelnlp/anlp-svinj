@@ -1,1 +1,0 @@
-['Kairo', 'in Ägypten', 'dem', 'Marokko', 'den', 'Männer', 'Auffassung', ')']

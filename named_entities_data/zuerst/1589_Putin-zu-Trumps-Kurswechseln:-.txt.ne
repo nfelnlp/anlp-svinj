@@ -1,1 +1,0 @@
-['Putin', '. Putin', 'diesem', 'neuen', 'amerikanische Politik', ', das', 'dafür :', 'von zahlreichen', 'Bannon', 'Strippenzieher im']

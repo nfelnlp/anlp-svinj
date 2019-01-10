@@ -1,1 +1,0 @@
-['Berlin', 'aber', 'mitteilte', '( Linke )', 'deswegen', 'dazu', 'aktuelle Hammelsprung', '! Das', 'Ältestenrat', 'Abstimmungsrunde', 'Glaser ,', 'Parlamentarische Geschäftsführer', 'einer', 'fortgesetzt', 'mit kleinkarierten', 'dem', '. Hätte', 'Ich', 'die übrigen', ',']

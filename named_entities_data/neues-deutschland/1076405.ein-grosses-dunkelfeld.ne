@@ -1,1 +1,0 @@
-['.', '. Der', 'der regelmäßig alle', 'Magdeburg .', 'wäre', 'sei', ',', 'Fall']

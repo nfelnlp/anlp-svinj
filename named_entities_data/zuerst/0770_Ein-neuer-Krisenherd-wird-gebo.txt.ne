@@ -1,1 +1,0 @@
-['In', 'sich', 'Dieser', 'ein', 'Stabilisierung', 'wie', 'Aber', 'die', 'sind', 'Autonomiekurs', 'dem', 'dem', 'dem', 'Dienstag', 'Auch', 'ab', 'Sie', '.', 'aber', '. Das', 'hat']

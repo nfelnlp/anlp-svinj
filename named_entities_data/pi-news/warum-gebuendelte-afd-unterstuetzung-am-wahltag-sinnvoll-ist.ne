@@ -1,1 +1,0 @@
-['STRESEMANN', 'Wahlplakaten', 'Wahlkampfständen', 'Volk', 'Deutschland', '1', ',', 'durch', 'und', ',', 'könnte', 'geltend', 'Pochen auf', 'heraus', 'wer', 'später', 'kann', 'eine', ',', 'Schreihälsen', 'Skandal', 'als', 'einem', 'Medien', 'Laufe', 'gezähmt']

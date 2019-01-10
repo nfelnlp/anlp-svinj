@@ -1,1 +1,0 @@
-['keine', 'Morgan im', 'wegen', '.', 'dem', 'empört']

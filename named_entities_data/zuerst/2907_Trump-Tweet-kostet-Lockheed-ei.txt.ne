@@ -1,1 +1,0 @@
-['Washington', 'hat sich', 'angelegt', 'Twitter', ',', 'mit', 'Gericht', 'jetzt', 'und seine', 'aus', 'feindlichen', 'Das', 'ist', 'den', 'verlor', '(']

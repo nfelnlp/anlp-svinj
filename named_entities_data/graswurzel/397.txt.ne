@@ -1,1 +1,0 @@
-['Rollenspiel und', 'rebellischen', 'Spannung', 'aber', 'daran', 'z.B.', 'eher', 'des', 'anzustimmen', 'er', 'und', 'nur', 'abgelöst', '.', 'mit', 'diese', 'so', 'Er', 'Survival-Situationen', 'Abschaffung der', 'der', ':', 'schon', 'Autos aus', 'Ausbildung', 'Überwachung', 'mit einem', 'Explorer', 'Menschen', 'Gemeinschaften', 'Use', 'Kampfgeschehens', 'im', 'und']

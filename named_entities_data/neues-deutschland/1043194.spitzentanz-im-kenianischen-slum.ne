@@ -1,1 +1,0 @@
-['Bettina Rühl', 'Nairobi', 'Haltestangen', 'Spiegel', 'Kibera', 'angewiesen ,', 'Nairobi', 'treffen', 'ist 14']

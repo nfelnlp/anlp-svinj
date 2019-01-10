@@ -1,1 +1,0 @@
-['nicht', 'kontrovers', '( COMPACT', 'Frau ,', 'ablehnend reagierten', ',', 'eine', 'an', 'aber', 'Björn', 'In', 'Politikverständnis vor', 'Lügen', 'Unterstützer', 'Das', 'sich', ',', 'die wortgewaltigste', 'in Vorbereitung', '.', '.', 'Er trat dafür ein', 'Meinung', 'auch ein', 'letzte', 'Bernd', 'der Partei', 'der', 'Weg', 'da', 'zum Erhalt', 'zur']

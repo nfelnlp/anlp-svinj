@@ -1,1 +1,0 @@
-['. Nandus', 'einem', 'Die Zahl', 'gesunken .', 'einem', 'über massive Verluste', 'Raps- und Rübenfeldern', 'Tiere', 'wird der', 'kontinuierlich anwachsende Bestand', 'und', 'festgestellt', 'Arten aus ihrem']

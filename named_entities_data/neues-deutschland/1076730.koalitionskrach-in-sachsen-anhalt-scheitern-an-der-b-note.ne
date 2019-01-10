@@ -1,1 +1,0 @@
-['Sachsen-Anhalts', '( r.', 'Grünen', 'Sachsen-Anhalt', 'Sonntag', 'die Zukunft der', 'CDU-Regierungschef', 'Haseloff', 'Grünen', 'mit einem', 'im Harz', 'macht', 'Vorfall', 'Abgeordneten', 'immer']

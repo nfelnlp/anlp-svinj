@@ -1,1 +1,0 @@
-['HBO-Serie', 'Nie', 'blickte', '1999', '(', 'der sechs', 'Es', 'China', 'und', 'internationalen', 'Hollywoods', 'ganzen', '?', 'sich', 'sich', 'Problem', 'Kinoinfrastruktur', 'für', 'Zeit', 'Zenit', 'Up-', 'zur', '–', 'öffentliche Eingeständnis', 'ist', 'eingefahrenen']

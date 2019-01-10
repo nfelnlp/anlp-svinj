@@ -1,1 +1,0 @@
-['Matt Cardy/Getty', 'wenn', 'Privatrecht', 'vor Kurzem', 'spricht', 'Rauscher', 'nicht', 'die Positionen', 'gehörten']

@@ -1,1 +1,0 @@
-['der Ruhr . « ’', '’', 'SPD-Unterbezirksausschuss', 'aber', 'hereingeschlichen . Ganz', 'diesem Abend', 'weißhaarige', ', der', ',', 'Pulli und', 'und', 'die Große', 'ich', 'die', 'SPD-Fraktionsvorsitzender', 'könnte', '«', 'es', 'geht', '«', 'sagt', 'derart']

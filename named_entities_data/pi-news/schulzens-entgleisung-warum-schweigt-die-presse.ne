@@ -1,1 +1,0 @@
-['PLUTO', 'Schulz', '„Nazi', 'die Rede', ', ist das', 'es', 'weniger', 'er', '.', 'Presse', 'der', 'den', 'er', 'berichten', 'dass', 'Siggi', 'böse Zungen', 'iranischen', 'Martin', 'schweigen also', 'so', '„Nazi', 'gestempelt wurde', 'die', ',', 'sie', 'damit', '.', 'Neuwahlen', 'seien']

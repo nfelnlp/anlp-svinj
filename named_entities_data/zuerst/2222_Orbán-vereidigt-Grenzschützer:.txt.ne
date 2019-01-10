@@ -1,1 +1,0 @@
-['Budapest', 'Orbán', 'die', 'unter', 'auch', 'daran ,', 'Er', 'im', 'Regierungschef', 'in', ',', 'im', 'sichersten Länder', 'Gesetzen', 'Bräuche']

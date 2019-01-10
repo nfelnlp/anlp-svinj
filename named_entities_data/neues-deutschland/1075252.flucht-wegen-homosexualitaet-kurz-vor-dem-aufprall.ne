@@ -1,1 +1,0 @@
-['Rida', 'Sekundenlang', 'jubelt', 'Hassan', 'Gefesselt', 'die', 'anderen']

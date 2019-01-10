@@ -1,1 +1,0 @@
-['New', 'New York', 'hat im', 'geben .', 'sei', 'jeder kluge und', ',', 'inzwischen', 'Entwicklung', 'Entwicklung von', 'ein', '„Es', 'um', 'nicht so unanfällig', 'wenn nur', 'vermutlich']

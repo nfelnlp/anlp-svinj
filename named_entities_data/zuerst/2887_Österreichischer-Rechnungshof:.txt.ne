@@ -1,1 +1,0 @@
-['Wien', 'Europa', 'Asien', 'eröffnete', 'Euro', 'pro']

@@ -1,1 +1,0 @@
-['Scharia', 'Baden-Württemberg belassen einem', 'verschwiegen', 'wurde', 'Syrien', ',', 'ihm', ',', 'Geburten-Dschihads', 'Damaskus-Kind', 'umgehend', 'Zweitfrau', 'aber', 'Stuttgarter', 'Täuschung', 'Artikel', '“', 'allerdings', '.', 'indem', 'Koran', 'der', 'einen', 'in', 'Schreiben', 'Koran', 'das', 'sieben', 'würden', 'etwa', 'hatten die', 'Geldstrafen', 'gibt']

@@ -1,1 +1,0 @@
-['NSU', 'Bundesrepublik', 'NSU', 'NSU-Affäre', 'drei', 'früher', 'waren', 'als']

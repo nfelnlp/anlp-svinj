@@ -1,1 +1,0 @@
-['verachten', 's', ',', 'ist', 'doch', 'und', 'sind', 'und', 'Greise', '.', 'und verrückt', 'Weltgeschichte', 'Und', '‘', 'ist leider']

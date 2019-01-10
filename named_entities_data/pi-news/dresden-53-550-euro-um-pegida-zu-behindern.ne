@@ -1,1 +1,0 @@
-['Dirk Hilbert', 'will', 'förmlichen Bescheiden', 'und', 'Volksverhetzung durch', '– Wie', 'Bündnis', 'Großes', ',', 'sich', 'die', 'will man', 'rechtskonservative', ',', '.', 'und sachlich', 'Ausdrucksweise']

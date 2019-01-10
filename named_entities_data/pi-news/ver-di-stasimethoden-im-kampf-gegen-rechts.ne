@@ -1,1 +1,0 @@
-['Grünen-Mitglied', '( Foto', 'ver.di', ',', '‘', 'gewalttätigen', '„Handlungshilfe', 'um', 'Mitglieder darauf zu trainieren', '„Zeckenmentalität', 'Beginn', '„Friendly', 'sammeln', 'bzw', 'Gruppen', 'einem', 'eigene', 'AfDlern', 'Öffentlichkeit', 'ächten', '–']

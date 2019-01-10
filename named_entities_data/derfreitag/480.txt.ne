@@ -1,1 +1,0 @@
-['den', '%', 'Musterbeispiel', 'Rest', 'ist bestenfalls mit', 'Autor dieses Artikels ist in seiner elitären Welt eingeschlossen und kapiert', 'grenzenlos überfrachtet mit', 'Konditionierung , weiter', 'nie wirklich', 'wirtschaftliche Subjekte soll']

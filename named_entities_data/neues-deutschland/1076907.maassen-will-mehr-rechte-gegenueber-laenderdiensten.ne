@@ -1,1 +1,0 @@
-['. Verfassungsschutzpräsident', 'Maaßen stößt mit', 'Forderung', 'Schreiben', 'einem aufgebrachten', 'der']

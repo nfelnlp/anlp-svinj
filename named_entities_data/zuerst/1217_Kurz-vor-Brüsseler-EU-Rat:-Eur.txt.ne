@@ -1,1 +1,0 @@
-['Brüssel', 'Sebastian Kurz', 'ÖVP', 'EU-Rat', 'Forderung', '.', ',', 'daß', 'aber', 'mehr', 'machen']

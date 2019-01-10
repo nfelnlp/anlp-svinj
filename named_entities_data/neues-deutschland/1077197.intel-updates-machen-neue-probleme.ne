@@ -1,1 +1,0 @@
-['. Der', 'unvorhersehbaren', 'Montag', 'riet Herstellern', 'Nutzern', 'nicht', 'der', 'von', '.', 'es', 'ARM', 'und', 'dass es zu', 'Zeit']

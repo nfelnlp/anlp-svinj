@@ -1,1 +1,0 @@
-[',', 'Swartz Sieht', '.', 'nicht', 'Technology . Zwei Studenten', 'Medizintechnik', 'an', ', seine alten', 'in', 'und', 'Teilen']

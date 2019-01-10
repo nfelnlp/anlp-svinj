@@ -1,1 +1,0 @@
-['als', '3,5', 'Verzinsung', 'Rücklagen', 'Zentralbank ( EZB )', 'niedrige', 'unter', 'die', 'zur', 'des', 'Wenn', ',', 'müssen', '. \x84Liegt', 'Prognose', 'der', ', Reinhold Schulte', 'wiegelt jedoch', 'erlaubten', 'sank', ',', 'anerkanntes und', 'wird', '.', '. Im', 'verlangen .', 'in', 'zwei-', 'dreimal', 'hohe']

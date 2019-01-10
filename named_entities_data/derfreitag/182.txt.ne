@@ -1,1 +1,0 @@
-['Der', 'Premier', 'Tayyip', 'den', 'zu Twitter', 'sperren', 'für', 'ist', '.', 'bis', 'offline', 'Möglichkeiten', 'noch', 'dagewesene', ',', 'werden', '? :', 'immer', ':', '.']

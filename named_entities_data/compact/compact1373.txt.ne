@@ -1,1 +1,0 @@
-['Exklusivinterview', 'forderte', ', sein', 'exklusiv', 'Elsässer', 'Tathergang –', 'waren gestern', 'Domenico', 'Axtmann', 'letzte', ':', ':', 'hörte', ',', 'Islamisierung', 'nicht', 'zurück', 'nicht', 'Richtung', ',', 'keinen', '.', 'immer', 'Letizia :', ': Ich', 'neues', '‘', ': ich', 'drücken', 'des Volkes', 'des Volkes .']

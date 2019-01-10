@@ -1,1 +1,0 @@
-['Moskau', 'russische', 'Putin', 'als klugen', 'der', ',', '.', 'in', ', daß', 'wieder', '.', 'er', 'Putin', '”', 'Mann', '20', 'zwischen', 'zu']

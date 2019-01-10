@@ -1,1 +1,0 @@
-[',', 'veröffentlicht', 'Sie «', 'politische Veränderungen', 'der »', '«', 'auf Iranisch', 'die', 'müde', 'zu', 'beugen', 'mit einer', 'den Weg des', 'wachsen', 'aus', 'Proteste', 'schon', 'Bewegung nicht', 'Der', 'lässt', 'wollen', 'sind', 'hat', '»', 'des', 'sie', '»', ', um', 'begnügen', 'hier']

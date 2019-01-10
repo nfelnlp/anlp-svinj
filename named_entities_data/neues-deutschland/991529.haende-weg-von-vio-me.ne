@@ -1,1 +1,0 @@
-['eine', 'Der', 'nachkommen .', '.', 'nur', ': »', 'zugesagt', '.', 'die', 'nur', ':', 'Frankreich', 'den', 'und', 'einer', 'Botschaft', 'Tagen', 'auf', 'Griechenlandsolidaritätskomitees', 'Film', 'Vio.Me', 'von', 'Ressler gezeigt', 'wird .']

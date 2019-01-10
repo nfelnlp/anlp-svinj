@@ -1,1 +1,0 @@
-['historisch an', 'gleichberechtigte', 'bedenklich', '.', 'also', 'Kirche besucht']

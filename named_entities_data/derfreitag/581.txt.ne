@@ -1,1 +1,0 @@
-['Images Ich', 'Heiligabend', 'eine', 'Nebeneffekt', 'und', 'abgefeuert', 'eh nur', 'zu', '“', '“', 'nicht', '87', ',', 'simuliere', 'mehr', '“', 'gierigen', 'schade', ',', 'ihn', 'mag', 'sagt', 'nickt', 'viele “', 'oben', 'Mutter „müssen', 'ja', 'hinter', '“', 'eine', '„An', '„ein', 'dem', 'gesamte', 'Oma', 'bekommen', 'Mutter bekommt', ',', 'bekommt', ',']

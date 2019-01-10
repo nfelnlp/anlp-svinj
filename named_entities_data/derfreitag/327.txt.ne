@@ -1,1 +1,0 @@
-['Ingo', 'Marc Beckmann', 'Jakob Augstein', ',', 'werden', 'Buch steht', 'für', 'Armuts-', 'zu eng', '.', 'ist', 'aber', 'muss', 'machen', 'Er ist', 'erhielt er', 'Unsere schönen', 'Gegen']

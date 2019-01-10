@@ -1,1 +1,0 @@
-['San', 'San Francisco', 'USA', 'Trump', 'schränkte jetzt', 'Personen', 'Einreisestopp', 'mehrmals']

@@ -1,1 +1,0 @@
-['australischer', 'Mohammad Tawhidi', '“', 'so', ',', 'Islamic Association of South Australia ”', 'wie', 'wie', 'von', 'von', 'Aufkleber', '. Sie', '. Sie haben', 'streitet die', 'er alle', 'der', 'Monat', 'wenn dann jemand', ':', 'islamischen', 'und', 'solchen Ansichten', 'klare']

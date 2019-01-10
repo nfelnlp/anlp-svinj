@@ -1,1 +1,0 @@
-['Sahra Wagenknecht', 'Interview', 'Veröffentlicht in', 'Buch', 'auch als', 'AM )', 'in', 'Buchautorin', 'und', 'Was sie brauchen , ist', 'möglichst', 'diese', 'auch', 'bloße', 'den Nagel auf', 'wie', 'bei', 'und', '?', ':', 'Im', 'Bereich', 'verzichten', '€']

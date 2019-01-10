@@ -1,1 +1,0 @@
-['am', 'am Main . In', 'Main in Hessen', 'Leichenschau', '. Gerade', 'internationaler', 'mit', 'Jahr', '.', 'Tötungsdelikte ermittelt', '.', '1000', 'sei', ',', 'die Beamten', 'die Polizei ,', '000', 'lässt', 'genauer , gründlicher']

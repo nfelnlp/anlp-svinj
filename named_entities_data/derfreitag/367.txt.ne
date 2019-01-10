@@ -1,1 +1,0 @@
-['ers-ter', 'der', 'das', 'erläutert', 'Befehle', 'sich', 'des Beraters', 'Überzeugung']

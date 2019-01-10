@@ -1,1 +1,0 @@
-['hinter sich', 'kennt es', 'früher', 'an', 'allgegenwärtig', 'München', 'in', 'wie', 'wie Hermsdorf .', 'gemalt', 'Erfinder', 'finden das', '»', 'die', 'der', 'allen', 'wichtigen']

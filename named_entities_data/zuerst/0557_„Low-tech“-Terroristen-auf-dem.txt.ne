@@ -1,1 +1,0 @@
-['Brüssel', 'EU-Kommission', 'King', ', die', 'London', 'Stockholm', 'Barcelona', 'gezeigt', 'daß', 'die', 'wesentlich', 'Personenkreise']

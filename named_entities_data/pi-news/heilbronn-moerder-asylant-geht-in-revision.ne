@@ -1,1 +1,0 @@
-['der', 'bei', 'Raubzug eine 70-jährige', 'seine', 'im', 'und', 'Landgericht', 'den', 'der', 'zur', 'C.', 'Scheinasylant', 'ein', 'man', 'vorsitzenden', 'Gerichtes', 'absolut nichts', 'Wer', 'zu verhindern', 'Todesstrafe', 'Meinung', 'Asylant', '»', 'Heilbronner', 'Flüchtling', 'Asylant', 'im']

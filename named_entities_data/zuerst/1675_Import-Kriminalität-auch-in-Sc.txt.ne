@@ -1,1 +1,0 @@
-['Stockholm', 'Schweden', 'an', '.', 'Nyheter', 'der', 'der Operationsabteilung beim schwedischen', 'sie']

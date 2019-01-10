@@ -1,1 +1,0 @@
-['mit den', ',', 'an', 'ein', 'Neben']

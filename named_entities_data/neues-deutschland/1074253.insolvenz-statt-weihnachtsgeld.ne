@@ -1,1 +1,0 @@
-['GmbH & Co. KGaA', 'Einrichtungen', '23', 'arbeiten', 'Rehakliniken und', 'Für', 'öffentlich', 'Personalkosten', '.', 'es', 'Woche', 'für', 'Einrichtungen noch recht', 'andere', 'Kommunen', 'Kliniken', 'und', 'vom', 'verkauft', 'haben es', 'Verlagerung von Mitarbeitern', '.', 'sagte', 'in kommunale', 'zurückgeführt']

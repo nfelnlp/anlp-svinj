@@ -1,1 +1,0 @@
-['Kusari Internationalität', 'Kusari – und', 'Kusari gibt', 'und', 'Westpreußen', 'Pommern', 'Schlesien', 'Böhmen', 'ein', '.', 'etwas', 'Kulturträger', 'Es', 'Publikum', 'einem', 'zurück', 'auch', 'geht ’ s', '(', 'Live', '. Eintrittskarte', 'Menge', 'Hartz', '0,00', 'eine', 'ermächtige', 'Wiederrufsbelehrung', 'damit', 'Ansehen', 'I', '.']

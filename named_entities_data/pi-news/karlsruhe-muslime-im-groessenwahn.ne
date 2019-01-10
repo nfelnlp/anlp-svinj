@@ -1,1 +1,0 @@
-['Der', 'die', '.', ')', 'der', 'beim', 'fein', 'getrennt', '.', 'war der Saal', '!', 'Erdogan', 'Bevölkerung', 'vom Demokratiezentrum', 'Pforzheim', 'doch sei .', 'sich', 'mal', 'oder', '70', 'Muslime', 'gedrückt', 'ein üppiges', 'Förderung', 'sowie allen', 'mit einbezogen', 'halten']

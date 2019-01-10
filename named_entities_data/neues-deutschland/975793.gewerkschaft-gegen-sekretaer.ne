@@ -1,1 +1,0 @@
-['mit', 'der', 'Kündigungsklagen', 'wird', 'kein', 'Im', 'eine', 'des', 'November', 'erstinstanzlich', 'keine Stellungnahme', 'Kündigungsbegehren scheint', 'den', ',', 'mitorganisiert', '»', '.', 'Kündigungsversuche']

@@ -1,1 +1,0 @@
-['Moskau', 'Kremlchef Putin', 'Moskau', 'er', ',', 'demonstrativ seinem', 'er ihn', 'Korruptionsverdächtigungen', 'grundsätzlich', 'Demonstranten', 'diese', 'Ukraine', '”']

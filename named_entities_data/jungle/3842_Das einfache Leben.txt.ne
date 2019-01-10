@@ -1,1 +1,0 @@
-['Ivo Bozic', 'fruchtigem Aprikosenmus', 'bekanntlich', 'aus', 'viele', '»', 'Vergleichbares', '. Bei', 'zu', '. Wieland Freund', 'Welt ,', ',', 'in', 'Ersatzhandlungen', 'Benzinsteuererhöhung', 'bio', ', erklärt', ', erklärt die', ', erklärt die Soziologin', 'Ellrott ,', 'Göttingen ,', 'können wir heute wissenschaftlich']

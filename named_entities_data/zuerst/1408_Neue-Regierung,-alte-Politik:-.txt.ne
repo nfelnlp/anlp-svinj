@@ -1,1 +1,0 @@
-['Washington/Sanaa', 'Der', 'derzeit', 'wird . Doch', 'Krieg', 'nur', 'gegen', 'sondern', 'auch', 'Unter dem', 'so', 'AQAP-Stützpunkt', 'Kinder ,', 'Video', 'worden', 'Brisant', ',', 'sein', 'so', 'mü )']

@@ -1,1 +1,0 @@
-['. Neuwagen', 'Europa', 'einer', 'on Clean', '( ICCT', '.', 'Studie', 'vor neuen', 'für die', 'Ziele', 'einheitlichen', 'September', 'dann', '»', ',', 'ambitioniertes', '. Barbara', ': » Die', 'zu lange', 'auch mit', 'Sefcovic und', 'der', 'um', 'bis', 'ein', 'Autobauer.']

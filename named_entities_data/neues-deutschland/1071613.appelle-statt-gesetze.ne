@@ -1,1 +1,0 @@
-['relativ', 'den', 'wurde', 'Länderarbeitsgemeinschaft Verbraucherschutz', 'von Bundesamt', 'Oktober', 'zu', 'Eigenkontrollen', 'Qualtitätsmanagementsystemen', 'das', 'von', 'dabei', 'Strafen', 'Unternehmen', 'in', 'kein Ohrstecker', 'Hautkontakt', 'verzichteten einige', 'Nickel']

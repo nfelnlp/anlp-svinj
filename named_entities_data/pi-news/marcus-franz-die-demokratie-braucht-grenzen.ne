@@ -1,1 +1,0 @@
-['Wien )', 'Staat', 'im', 'Jahren', 'werden', 'verkauft', 'oft']

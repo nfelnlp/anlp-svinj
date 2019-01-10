@@ -1,1 +1,0 @@
-['die', 'Communications Commission', ', Ajit Pai', 'Bisher', 'dass alle', 'freien', 'dass', 'gegen', 'es darum', '»', 'es']

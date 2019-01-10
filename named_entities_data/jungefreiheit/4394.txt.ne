@@ -1,1 +1,0 @@
-['JF', 'von Schrenck-Notzing herausgegebene', 'und', 'die', 'Zweifeln', 'Chefredakteur', 'deutlich erhöht', '``', 'dabei', '. Gewalttätige Übergriffe', 'Oktober', 'kam', 'in', 'der', 'durch', 'Zimmerstraße', ',', 'der', 'zur', 'Nicht', 'Bereits in den', 'hatte', 'diesem', 'selbstverständlich', 'einem']

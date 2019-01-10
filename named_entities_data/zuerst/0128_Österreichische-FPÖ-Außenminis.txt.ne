@@ -1,1 +1,0 @@
-['Wien', 'Islam', 'Österreich', 'Karin Kneissl', 'FPÖ', 'ORF-Nachrichtensendung', 'Kneissl', '2', 'ob']

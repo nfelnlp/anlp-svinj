@@ -1,1 +1,0 @@
-['Damaskus', '(', 'ihrer', '.', 'und', '.', 'der den', 'ebenso', 'sei', 'die', 'allerdings', 'tief']

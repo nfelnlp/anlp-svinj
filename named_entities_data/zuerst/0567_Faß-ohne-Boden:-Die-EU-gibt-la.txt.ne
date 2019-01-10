@@ -1,1 +1,0 @@
-['Brüssel', 'EU', 'EU-Kommission erklärte', 'zurückliegenden', 'und', 'bei', 'Hochrechnungen', 'sich', 'eine', 'entfielen', 'und', '2017']

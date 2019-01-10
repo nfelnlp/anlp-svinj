@@ -1,1 +1,0 @@
-['IT-Angestellte', 'die', 'Beim IT-Dienstleister', 'droht', 'Slogan', 'das', 'Sie', 'Hightech', 'des', 'Adlershofer']

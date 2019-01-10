@@ -1,1 +1,0 @@
-['Washington', 'gibt es', 'Kongreß', 'Milliarden', 'Diese', 'vorgelegt wurde', 'im', ',', '.', ',', 'Gelder', 'oder']

@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'ÖVP-/FPÖ-Bundesregierung', 'der', 'und sagte', '„Die', '.']

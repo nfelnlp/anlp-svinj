@@ -1,1 +1,0 @@
-['Gesellschaft', 'Wien', 'österreichischen', 'EU-Funktionärin', 'als Spitzenkandidatin', 'Europaparlament', 'über', 'setzte', 'Schließung', 'Lunacek für', 'und künftige', 'Lunacek', 'mit', 'zu', 'kann ,', 'an', 'EU übertragen', ',', '.']

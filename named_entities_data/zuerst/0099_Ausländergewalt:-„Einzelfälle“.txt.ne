@@ -1,1 +1,0 @@
-['Gesellschaft', 'zu', '//www.tagesspiegel.de/berlin/polizei-justiz/berlin-marienfelde-arzt-wird-vor-der-eigenen-praxis-umgebracht/20844072.html', 'zwischen deutschen', 'Nacht', '„Männergruppe', 'Passanten', 'der', 'angegriffen', 'und', 'und konnte die', 'Täter', 'noch', 'eskaliert die', 'die', 'utm_medium=Social', 'Afghane', 'ein', ': https', 'Weitere', 'Frau', 'Krefeld']

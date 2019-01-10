@@ -1,1 +1,0 @@
-['für die Lohnfortzahlung', 'Mehrheit', 'Es', 'auf den', '.', 'Kabinett', 'setzte']

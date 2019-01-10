@@ -1,1 +1,0 @@
-['Paix', 'Av', 'Vosges', 'République', 'Rhin', 'Polizei', 'NATO-ZU', ',', 'Zivilen', 'Umleitung', 'Camp', '(', 'Viertel', ',', 'Ungehorsams', 'die', 'Rolle', 'mit', 'selbst', '``', '.', 'sondern', 'wie', 'Tränengas', 'Früh', 'versuchten', 'Warnung', 'schafften', 'jede', 'von', 'hatten', 'dass', 'Weg', 'dass NATO-ZU die', 'schafften', 'einzurichten', 'war', 'Tage', 'bewiesen']

@@ -1,1 +1,0 @@
-['Church/Virginia', 'Einer', 'Freitag im', '.', ', der', '1981', 'als wichtigster', 'durch', 'Formulierung', 'unter', 'sichern', 'Buch', 'das', 'werden', 'einen', 'Krieg', 'afghanische', 'Hauptgründe', 'der', 'sieht', 'Beherrschung', 'das', 'entstehen', 'Herausforderung', 'die', 'Role', 'anstellte', 'Akten', '(']

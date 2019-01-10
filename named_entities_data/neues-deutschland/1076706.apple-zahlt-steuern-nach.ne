@@ -1,1 +1,0 @@
-['. Apple', 'infolge', 'den', 'High-Tech-Konzern am', 'die', '.', 'zeitlich', 'Ausland', 'USA', 'Prozent']

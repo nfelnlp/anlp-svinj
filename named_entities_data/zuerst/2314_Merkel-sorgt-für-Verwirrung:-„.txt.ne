@@ -1,1 +1,0 @@
-['Stralsund', 'Angela Merkel', 'CDU', 'CDU', 'CDU Mecklenburg-Vorpommern als Spitzenkandidatin', 'AfD', '„daß', 'kleine', 'diese', 'organisierte', '“', 'Union', 'mit Einwohnern', 'die', 'es', ',', '2013 dem', 'angewidert entsorgte', 'fest', 'enthüllt sie', 'Sie', 'zufällige', '“']

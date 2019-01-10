@@ -1,1 +1,0 @@
-['Toxo , der', 'gesetzt .', 'sitzt ,', 'vor', '80', 'Volkspartei', ') stets', 'Rücktritt', 'Carbonero', 'sind', 'ist die Lage', 'in', 'und', 'Ablehnung']

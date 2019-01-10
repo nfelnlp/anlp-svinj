@@ -1,1 +1,0 @@
-['Ghana', 'Felix Riedel', 'Ghana', 'gesättigtes']

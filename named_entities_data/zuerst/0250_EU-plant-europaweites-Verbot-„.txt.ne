@@ -1,1 +1,0 @@
-['Straßburg', 'EU-Kommission', 'nach', 'der', 'NPD-Abgeordnete Udo', 'gegen', 'Verbotspläne aus', 'der', 'Überzeugung.', 'Gebrauch', 'neue', 'neue europaweite']

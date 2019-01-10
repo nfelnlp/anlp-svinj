@@ -1,1 +1,0 @@
-['München', 'Deutschland eindringenden', 'Flüchtlingsbewegung stelle', 'aber', 'befanden.', ',', 'die', 'der', 'belegen', 'wiedergegebene', 'das', 'würde', 'dass Terroristen die', 'auch', 'deutschen Partner vor', 'in', 'rekrutieren', 'die', 'deutsche', 'es', 'einem', 'erschien', 'die', 'und', ',', 'stehen', '12']

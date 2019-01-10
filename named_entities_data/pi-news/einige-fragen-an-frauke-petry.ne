@@ -1,1 +1,0 @@
-['SELBERDENKER', 'Frauke Petry', 'zu', 'nicht', 'in', 'oder', 'besser', 'dieser', 'Differenzen', 'Rolle', 'Petry', 'einem', 'meiner', 'immer', 'doch', ',', 'bereit', 'nicht', 'sich']

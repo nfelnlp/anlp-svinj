@@ -1,1 +1,0 @@
-['Moskau/Teheran', 'Rußland', 'seine', '„Regiontransneft', ',', 'Kilometer', '.', '. Mit', 'anderem', 'Urlaubsinsel', 'Flugplatz', 'auf Initiative', 'Der', 'Tourismus-Bereich', 'Besuch', 'Moskau .', 'die']

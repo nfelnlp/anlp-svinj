@@ -1,1 +1,0 @@
-['. Bei', 'Prüflinge durchgefallen als', 'mit . Im', 'mit . Im Vorjahr', 'bei', 'als', 'aus', 'asiatischen']

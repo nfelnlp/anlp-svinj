@@ -1,1 +1,0 @@
-['NSU', 'Kai Voss', 'Voss', '.', '. Sie', '.', 'dass', 'Bei', ', ein', '.', 'Beginn', ',', 'Wälzer herausgebracht', 'sicherlich versucht', '?', '–', 'Gladio', 'konnten', 'die man', 'Erkenntnissen', 'Helmut', 'Untertauchen', 'und', 'um', ',', '.', 'ist']

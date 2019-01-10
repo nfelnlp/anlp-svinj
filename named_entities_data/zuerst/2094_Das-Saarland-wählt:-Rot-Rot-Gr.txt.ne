@@ -1,1 +1,0 @@
-['Saarbrücken', 'Martin Schulz ‘', 'SPD-Höhenflug', '. Eine', 'wäre', 'für', 'teilweise', 'Prozent', 'der', 'Ministerpräsidentin', 'die mit', 'beliebteste', '.', 'Stellvertreterin', 'Rehlinger', 'heute', '„Saarländischer Rundfunk', 'sehen', 'Auftrag']

@@ -1,1 +1,0 @@
-['Gesellschaft 2', 'Gesellschaft 2 Potsdam', '„Wunderschön', 'Thomas', 'wenn einer', 'twitterte Goede', 'einer', 'geschossen', 'kandidiert', 'Ersatzrichter', 'er', 'Ein', 'einem', '“', '„Viele']

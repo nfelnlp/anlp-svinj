@@ -1,1 +1,0 @@
-['Berlin', 'von', 'Maas (', ')', ') nennen', 'vernehmen', 'zusammengestellt', 'massiven Einschränkungen', 'der', 'Schritt']

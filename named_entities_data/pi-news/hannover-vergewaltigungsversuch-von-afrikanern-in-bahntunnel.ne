@@ -1,1 +1,0 @@
-['den', ',', 'sie', 'sofort', 'nun', 'den', 'setze man', 'aus', ',', 'der', 'Unterführung', 'Umgang', 'die', 'habe', 'Mietnomaden']

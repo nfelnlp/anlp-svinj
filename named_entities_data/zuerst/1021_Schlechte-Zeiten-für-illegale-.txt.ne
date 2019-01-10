@@ -1,1 +1,0 @@
-['Rom/Tripolis', 'In', 'ihre', 'von', 'der', 'deutsche', 'NGOs', '.', 'Grenzen', 'am Samstag', 'Küstengewässer', 'Botschaft an', ',', 'und', 'Aktionen', 'zurücktransportiert', '.']

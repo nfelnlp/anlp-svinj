@@ -1,1 +1,0 @@
-['also', 'Erfolge', 'nicht', 'Alles andere', 'er die', 'tatsächlich', 'können .', 'nur so', 'die vielfältigste', 'auf', '.', 'aus dürren', ',', ',', 'literarischen Feld', '2012 ,', '2012 , 19,95', ', 19,95 €']

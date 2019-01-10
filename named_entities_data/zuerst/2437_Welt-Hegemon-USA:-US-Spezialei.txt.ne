@@ -1,1 +1,0 @@
-['USA', 'Barack Obama', 'US-Army aktiv waren', 'Österreich', 'der', 'sie', 'Command . Demnach', 'Schweden', 'Brisant', 'auch', 'daß', 'das', 'Provinz', 'Karte', 'US-Spezialkräfte', 'aufbereitet', '„kill', 'neue US-Präsident', 'angekündigt', '(']

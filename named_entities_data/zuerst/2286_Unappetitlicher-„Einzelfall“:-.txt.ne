@@ -1,1 +1,0 @@
-['Gesellschaft 1', 'Gesellschaft 1 Linz', 'für', 'Asylbewerber', 'bei', 'teils', 'mit', 'in', 'zu', 'in', '.', 'Der']

@@ -1,1 +1,0 @@
-['Mecklenburg-Vorpommern', 'fast direkt an', 'er eine', 'wieder', 'die', 'die', 'in', 'ständig', 'Wert', 'Aussage , dass', 'würde das', 'in luftiger', 'noch', 'werden', 'Japan', ',', 'Döring', 'es', 'Öko-Strom', 'mehr als 1800', 'im']

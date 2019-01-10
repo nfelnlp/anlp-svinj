@@ -1,1 +1,0 @@
-['Washington', 'versucht offenbar', 'Carter', 'Carter jetzt', 'der', ',', 'Der', 'Carters', '.', ':', 'notwendig', 'ihre', 'sei', 'könnten', 'Territorien', 'hat', 'zur Stunde', 'Präsidenten bekannt', 'andere']

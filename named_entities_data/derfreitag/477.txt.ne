@@ -1,1 +1,0 @@
-['Ice Bucket Challenge', 'Ice Bucket Challenge', 'überschüttet', 'zu', '/ Getty Es', '/ Getty Es ist', '.', 'Zumal', '–', 'der Vereinigung . Das', 'bekannt', 'Jahren bekannt', 'Probleme', 'Jetzt', 'das', 'Tuberkulose', '``']

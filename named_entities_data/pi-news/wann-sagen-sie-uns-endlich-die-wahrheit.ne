@@ -1,1 +1,0 @@
-['CANTALOOP', 'deren', 'die', 'Hybriden-Brei', 'die', 'ja', 'die', 'ihrem Chef', 'betreiben', 'genauso', '„Apparatschicks “', 'nur', '–', 'nicht', ',', 'lieber', 'ebenfalls', 'Eine', 'Gelben', ',']

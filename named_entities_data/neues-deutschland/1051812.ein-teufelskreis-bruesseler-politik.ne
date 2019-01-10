@@ -1,1 +1,0 @@
-['in Sachen', 'demnach', 'Bekämpfung', 'auf', 'in', 'von', 'ihre', 'zu', 'auf']

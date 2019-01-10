@@ -1,1 +1,0 @@
-['Berlin', 'Brüssel', 'jetzt', 'und', 'die', 'Bündel', 'Schulkantinen', ',']

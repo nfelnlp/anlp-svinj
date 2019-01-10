@@ -1,1 +1,0 @@
-['Washington', ',', 'am', 'Chef der', 'Verbündeten des', 'Trump begründete dies mit dem', 'Atomvertrag', '.', 'erneut', 'eine', 'Nachverhandlungen', 'für', 'roten Linien', 'des', 'ernste', 'der', 'iranische Außenministerium', 'zudem', 'man', ',', 'Atomabkommen sei eine', '–']

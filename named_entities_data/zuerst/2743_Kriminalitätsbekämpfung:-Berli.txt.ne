@@ -1,1 +1,0 @@
-['Berlin', 'im', 'für das', 'tausend', 'und', 'fordert', 'zur', 'nicht']

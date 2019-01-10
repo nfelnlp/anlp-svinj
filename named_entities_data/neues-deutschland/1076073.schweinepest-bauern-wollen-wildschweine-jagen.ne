@@ -1,1 +1,0 @@
-['Nordrhein-Westfalen zur Aufhebung', 'warnt', 'in', '.', ',', 'am', 'Berlin .', 'daher', 'dabei', '000', 'werden', 'hohe', 'fordert', 'wildsichere', '.', 'Präsident', 'erklärte', 'am Freitag', 'mehr', '«', 'Dem', 'die', 'ist', 'Krankheit', 'Mastbetriebe', 'die', 'Fleischproduktion viel zur', 'Raps-', 'Wildschweinbestand', ', um']

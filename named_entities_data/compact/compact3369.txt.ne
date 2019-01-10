@@ -1,1 +1,0 @@
-['Gleichen', 'Palästina', 'Nahen Osten', 'Israel', 'Hamas', 'Nomos', 'Carl Schmitt', 'weltstaatlich', 'untergräbt', 'Carl Schmitt', 'Osten', 'Satellitenstaaten', '. Nach', 'Ernüchterung', 'die', 'den', 'in', 'jetzt', 'heute', 'Eingliederung', 'maskierten', '« Irregularität', 'Zweifel']

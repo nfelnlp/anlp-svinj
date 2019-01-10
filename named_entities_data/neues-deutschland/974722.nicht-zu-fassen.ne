@@ -1,1 +1,0 @@
-['Sie vertrauen', 'noch den', 'im', 'der', 'könnte', 'der', 'Aachen', 'Mönchengladbach', 'wird', 'Zumindest', 'Inden', 'unternehmensfremden', 'bestiegen', ',', 'Pressesprecher der RWE', '» Es wäre']

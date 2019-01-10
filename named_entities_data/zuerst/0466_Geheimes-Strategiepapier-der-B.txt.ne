@@ -1,1 +1,0 @@
-['Berlin', 'Bundeswehr', 'als', 'und', 'EU', 'nach', 'der', 'Staaten', 'weiter', ',', 'Jahrzehnten', 'zitierte', 'und', 'Wettbewerb', '(']

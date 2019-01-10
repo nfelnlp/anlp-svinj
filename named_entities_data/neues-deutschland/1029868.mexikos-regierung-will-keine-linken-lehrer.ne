@@ -1,1 +1,0 @@
-['David Bacon', 'Enrique Peña Nieto', 'Martin Ling', 'Mexiko', 'neoliberalen', 'Enrique Peña Nieto', 'Bundesstaaten Guerrero', 'Oaxaca', 'Chiapas', 'Michoacán', 'Nationale', 'Nationale']

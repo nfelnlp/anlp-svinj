@@ -1,1 +1,0 @@
-['.', '. Er', 'Wegen', 'werden', 'das', 'mit', 'Sturmhaube', 'Polizeibeamten geschleudert und', 'Beamten', 'ist']

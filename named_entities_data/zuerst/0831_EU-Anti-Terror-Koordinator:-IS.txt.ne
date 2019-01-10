@@ -1,1 +1,0 @@
-['Brüssel', 'IS', 'Osten', 'Kerchove', 'befürchtete in einem', 'Al', 'sein ,', 'wieder', 'und möglicherweise', 'Ursachen ,', 'persönliche', 'ist', 'Al-Qaida-Führer Aiman al-Sawahiri .', 'nicht mehr', 'nicht mehr eine', 'Rolle. “', 'von', 'Qaida', 'Kalifat ein', 'es dagegen', 'Auch der', 'mü )']

@@ -1,1 +1,0 @@
-['Macri', 'Jürgen Vogt', 'Buenos Aires', 'argentinischen', 'Buenos Aires', 'López mit', 'Ollas', ',', 'Barrios de', 'López und']

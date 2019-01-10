@@ -1,1 +1,0 @@
-['Tel Aviv', 'israelische Armee', 'Will', 'Kampfeinheiten', 'Jonathan Conricus', 'Nachrichtenagentur dpa', 'der', '.', ')']

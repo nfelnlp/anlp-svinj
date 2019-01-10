@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'neben', 'Sobotka kündigte', 'zu', ',', 'So', 'Nigerianern', 'Afghanen', 'bei', 'Dementsprechend', 'veröffentlichten']

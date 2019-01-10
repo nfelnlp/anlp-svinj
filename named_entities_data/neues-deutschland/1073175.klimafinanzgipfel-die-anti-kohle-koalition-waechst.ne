@@ -1,1 +1,0 @@
-['Präsident', 'hat mehr', 'Auf', '4000', 'war', 'zweite', 'Abkommen aussteigen', '13', 'Städten ,', 'und', 'eigenen', 'erreichen', 'als', 'Aber auch', 'noch unzureichenden', 'in', 'nutzten', 'der auf', 'Regionen', '.', 'im Rahmen ihrer', 'mit', 'Euro', 'wird', 'Mit']

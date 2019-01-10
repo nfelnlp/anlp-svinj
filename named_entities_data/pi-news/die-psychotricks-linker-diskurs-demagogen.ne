@@ -1,1 +1,0 @@
-['STRESEMANN', 'lange', '?', 'Axiom', 'man', 'nämlich', 'Ihre', 'zeigen', 'geistige', 'Welche', 'oder', 'bereits', 'irgendeiner', ',']

@@ -1,1 +1,0 @@
-['Deutschland', 'in', '18 .', 'scheinbar', 'im 20 .', 'als', 'und auf', 'Sein', 'denken', 'nur', 'sie', 'die Wirtschaftsordnung', 'sich', '`` Frankfurter Allgemeinen']

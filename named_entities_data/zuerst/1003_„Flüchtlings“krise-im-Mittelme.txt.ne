@@ -1,1 +1,0 @@
-['Rom', 'Italien', 'Minniti', ',', 'diese ihre', ',', 'damit', 'von', 'befürworteten', 'für', 'Mittelmeer', 'mit', 'Todesfällen', 'Auch', 'kritisierte die', 'diese weiterer']

@@ -1,1 +1,0 @@
-['Griechenland-Wahl', 'hat zwar', 'eine', '8', 'hat sich', 'Die', 'Erpressungen', 'berufen', 'Euro', 'Portugal', 'Spanien', 'Zypern', 'Italien', 'schon', 'Tokio', 'den', 'weltökonomisch', 'Anteil', ',', 'allen', 'ernsthaft', 'über zehn', 'mit', 'mit ihren', 'das', 'Partei', 'Prozent', 'das', 'denen', 'ökonomische', 'fehlt ?', 'was', 'als', '.']

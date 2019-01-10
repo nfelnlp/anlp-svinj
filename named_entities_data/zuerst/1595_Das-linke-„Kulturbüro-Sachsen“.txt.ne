@@ -1,1 +1,0 @@
-['Unwesen', 'Bundesland', 'ist', 'Hakenkreuzen', 'Öffentlichkeit', 'Um', 'war', 'im', 'Kitas', 'machte er', 'auf', ',', 'seit', 'seit', 'Sachsen', 'Antifa-', 'und', 'gleichsam ein', 'Pendant', 'Pendant zum Verfassungsschutzbericht mit zahlreichen', 'gern', '“', 'des sächsischen', '–', 'auch nach']

@@ -1,1 +1,0 @@
-['Magdeburg', 'Sachsen-Anhalts Landeshauptstadt ausgerichtet', '; ebenso', 'SPD-Landtagsfraktion', 'AfD macht', 'damit', 'eigen', 'dessen', 'der AfD-Präsenz', 'Absagen', 'Auch die', 'BlockMD «', 'ein', ', »', 'es erlaubt']

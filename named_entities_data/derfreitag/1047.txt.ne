@@ -1,1 +1,0 @@
-['Christian Mang', 'Linkspartei-Werbung', 'DIE', 'die', 'ihre', 'Chemiewaffen', 'zugestimmt', 'Zukunft', 'alle', 'Abstimmung', 'aber', 'können', 'plädiert ,', 'Nein', 'Ja', 'Frage', 'Jahren', 'sollte']

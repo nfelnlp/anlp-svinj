@@ -1,1 +1,0 @@
-['Belgrad', 'Brandt “ :', 'macht', 'schmackhaft', 'dafür', 'führen', 'jetzt', 'werde', 'nicht', 'beitreten', '.', 'offiziell', 'anzuerkennen', 'jetzt', 'unterbreiten', 'für', 'Volksbefragung', 'dafür', '.', 'ihm', 'Meinungsumfragen', 'Prozent']

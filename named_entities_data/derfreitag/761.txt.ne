@@ -1,1 +1,0 @@
-['Heidi Klum', 'Deniz Yücel', 'taz', 'Niedersachsens', 'Uwe Schünemann', 'Sarrazin wünschte', 'im', ', was', 'kommt', 'eine', '(', 'wirklich', 'er sich', 'wie ein', 'bizarr', 'Genossen', 'die', 'einen', '„nordkoreanischen', 'erklärt', ', den', 'um', 'wir', ',', 'bei', 'hätte', 'gefakte', 'starten', 'ist', 'bedenklichsten Art']

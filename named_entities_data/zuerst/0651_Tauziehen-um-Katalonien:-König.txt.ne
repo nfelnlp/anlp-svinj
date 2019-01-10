@@ -1,1 +1,0 @@
-['Madrid', 'Kataloniens', 'Felipe IV .', 'Barcelona', 'Wort', 'Spanien', 'Barcelona', 'in', 'sagte', 'habe', 'schwierige', '„eine', 'Ruhe und der Hoffnung', 'der', 'in', 'werde mit', 'Einigkeit', ',', 'außer', '„Eine']

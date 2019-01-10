@@ -1,1 +1,0 @@
-['am', 'nach Baden', 'schlanker', 'hüpfte', 'bin', 'ist so', '``', '(', 'B 14', 'konnte', 'einzig', ',', 'in', 'täglich', 'das', 'hatte', 'Schere', 'die', 'Hoho']

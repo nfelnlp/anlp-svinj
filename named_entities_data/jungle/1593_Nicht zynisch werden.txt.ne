@@ -1,1 +1,0 @@
-['war', 'Krawall', 'der', 'die', 'praktischen', 'Bewegung', ', erinnert', 'empört', 'nur', 'eine', '\xadlogische', 'Rechtsstaat', 'Als', 'Gesamtkapitalist', 'Ertrunkener', 'Autos', 'aufhebt', 'Kritik', ',', 'so doch', 'von', 'Barbarei', '«', 'Bündnisarbeit', 'die', 'Auseinandersetzungen ,', 'linksradikaler', '(', 'kurzzeitig', 'kapitalistischer', 'den', 'wenn']

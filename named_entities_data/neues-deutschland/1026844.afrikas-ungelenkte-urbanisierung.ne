@@ -1,1 +1,0 @@
-['Anne Gonschorek', 'Kapstadt', 'Afrika', 'Afrika', 'Takyiwaa Manuh', 'UN-Wirtschaftskommission für Afrika', '»']

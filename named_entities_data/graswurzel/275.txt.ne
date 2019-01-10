@@ -1,1 +1,0 @@
-['Frank Schirrmacher', 'FAZ-Herausgeber', 'hat', 'wo', 'Siegermacht', 'drängendere', 'das desto', 'die', 'die Arbeiterbewegung', 'und', 'noch', 'wie andere', 'Überleben', '.']

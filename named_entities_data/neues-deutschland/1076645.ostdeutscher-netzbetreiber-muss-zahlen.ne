@@ -1,1 +1,0 @@
-['.', '. Entschädigungen', 'Anfrage', 'die', 'Kohlekraftwerke', 'Anschließend', 'mit', 'Vor', '2016 eine neue', 'die', 'in', ') und Falkenberg', 'Brandenburg )', 'reduziert', 'können . Die', 'Strom mbH mit', '.']

@@ -1,1 +1,0 @@
-['oder auch', ',', 'Menschenverstand', 'sich „Rangeleien', 'oder', 'komplett', ',', 'beispielsweise', '“', 'jedoch', 'ja', 'und', 'als', '.', 'Merkel-System', 'durchaus', '.', 'den']

@@ -1,1 +1,0 @@
-['Die', 'Mossul , Boutros', 'in', 'Interview der', 'sagte der', '„Wir', 'sehen', 'der', 'aber', ',', '.', 'Geschichte', ', ihre', 'zu']

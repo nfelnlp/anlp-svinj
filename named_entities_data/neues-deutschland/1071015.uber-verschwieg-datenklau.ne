@@ -1,1 +1,0 @@
-['. Uber', 'vor', 'hätten', 'Angreifer', 'Behörden', 'die', 'Datenbank', 'entlassen', 'wie Uber weiter', '9', 'Artikel']

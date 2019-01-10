@@ -1,1 +1,0 @@
-[',', 'nur', 'in der', 'Editorial', 'eine', 'der', 'der', 'her', 'bestenfalls', 'ideologiekritischen Niveau ,', 'ein völlig', 'Theorien', 'Argumenten', 'Gesetz der', 'und', 'nach', ',', 'zu', 'und']

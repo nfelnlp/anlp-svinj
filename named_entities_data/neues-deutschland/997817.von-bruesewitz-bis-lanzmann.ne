@@ -1,1 +1,0 @@
-['die', 'in', 'einem Vorabdruck', 'gibt', 'ein', ', geht', 'die Räumung', 'Umgang', ', dessen', '18 .', '2016', 'wie', 'als', '.', 'Regisseurs', 'Lanzmann', 'Erwähnung .', 'Florian Ludwig', 'mit', 'telegraph 131/132']

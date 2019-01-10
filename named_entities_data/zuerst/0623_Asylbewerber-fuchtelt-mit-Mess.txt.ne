@@ -1,1 +1,0 @@
-['In', 'Tessiner', 'war mit', ', stellte', 'mit Cocchi', '2', 'Gebäude ,', 'mit zwei', 'verletzte den', '. (']

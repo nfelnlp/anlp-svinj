@@ -1,1 +1,0 @@
-['„Grenzsicherheitszonen', 'jetzt', 'die', 'die Entscheidung', 'von', 'stelle', 'vernichtenden', 'Krise', 'den', 'Nationen', 'daß', 'zeugten', 'keineswegs', 'der', 'seien', '„Demokratischen', 'einer', 'kontrollierten', 'sei eine Truppengröße']

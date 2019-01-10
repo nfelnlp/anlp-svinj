@@ -1,1 +1,0 @@
-['EU-Kommission', 'geltende', 'Anzeige', ', der', 'digitale', 'klingt', 'ja', ',', 'Suchmaschine', 'an', 'europäisches Recht', 'und', 'durchaus', 'haben', 'entweder', 'Zukunft', 'Fotograf', 'der', 'Stücke', 'zu', 'ist', 'nutzen', 'Letzteres', 'Wer', 'des', 'anderen', 'Ausstrahlen', 'waren ihm', 'in der', 'EU-Bürger', ',', '.', 'Zukunft']

@@ -1,1 +1,0 @@
-['Mangel', 'man', 'Weg']

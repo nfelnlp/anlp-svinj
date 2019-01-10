@@ -1,1 +1,0 @@
-['Norwegen', 'Arne Fischer )', 'trachtet', 'trachtet ,', 'sich', 'der', 'Herrschaftsinstrument', 'den', 'das', 'ist', ',', '.']

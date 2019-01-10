@@ -1,1 +1,0 @@
-['Merkel und Emmanuel', 'haben vereinbart', 'Eurozone', 'Der', 'will', 'Aus', 'werden', 'SPD', '»', '»', 'Oktober', 'auch', 'der', 'Eingreiftruppen', 'militärische', ',', 'schwebt', 'Präsident', 'Grenzpolizei', 'es', 'werden']

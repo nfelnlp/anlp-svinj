@@ -1,1 +1,0 @@
-['Zürich', 'Schweiz', 'Kanton Zürich', 'freiwillig', 'wieder', 'das', 'bleiben', 'im', 'kontrolliert', 'im', 'wurden im', 'mittlerweile alle', 'geschlossen', 'beantragt', 'beantragt ,']

@@ -1,1 +1,0 @@
-['L.S.Gabriel', 'Köln', 'tausend', 'bei', 'vorsichtshalber', 'in', 'Die', ',', 'nicht „unverschämt', 'schon', 'waren', 'wollen', 'nicht', ',', 'genauso']

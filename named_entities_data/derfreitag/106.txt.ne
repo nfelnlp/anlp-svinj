@@ -1,1 +1,0 @@
-['Jakob Augstein', 'Frank Schirrmacher Frank Schirrmacher', 'einen', 'Gorki Theater', 'Berlin und findet einmal', 'Berlin', 'Berlin']

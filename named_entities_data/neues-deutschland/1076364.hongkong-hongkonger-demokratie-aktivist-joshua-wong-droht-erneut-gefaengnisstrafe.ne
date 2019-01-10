@@ -1,1 +1,0 @@
-['Joshua Wong', 'Der', 'muss weiter', 'Dienstag', 'Chow aufgehoben', '. Alle', 'ist', 'hat', 'Hongkong', 'Befürchtungen', 'Wong', 'Sozialstunden', '|', ']', 'die', 'deren', 'Massendemonstrationen', ',', 'freie', 'dem', 'ein', 'zu', 'politische Einflussnahme', '.']

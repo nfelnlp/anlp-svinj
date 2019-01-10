@@ -1,1 +1,0 @@
-['Menschen', 'St.', 'stattfindenden', 'leidet', 'war', 'Menschen in', 'Blicke', 'entgegenschlugen', 'der', 'sich', 'durch', 'sehbehinderte Kinder', 'erste', 'aber', 'Die', 'Kinder', 'vielen']

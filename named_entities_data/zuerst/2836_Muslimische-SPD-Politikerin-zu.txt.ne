@@ -1,1 +1,0 @@
-['Gesellschaft 4 Berlin', 'SPD-Bundestagsabgeordnete', '. „Ich', 'umbringen', '.', 'uns', 'Und', ':', 'diese']

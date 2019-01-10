@@ -1,1 +1,0 @@
-[', mit', 'aus', 'sprach', 'im', ',', 'die', 'Baas ,', 'nennt es', '. Denn', 'Verträge', 'und bundesweit', 'dass', 'müsse ,', 'Diagnosen vor', 'einlade .', 'Allen Beteiligten', 'hier', 'brachte', 'und auch', 'Pflegeberufe', ',', 'die Besonderheiten']

@@ -1,1 +1,0 @@
-['Brüssel/Groningen', 'Auch', 'Geldwäsche', 'vielen', '.', 'Online-Portal „heise.de', 'zuguterletzt', 'europäischen Bürger', 'Geldwäscherichtlinie', 'zur Mitwirkung', 'an', 'kann . Aufsichts- und', ',', 'die']

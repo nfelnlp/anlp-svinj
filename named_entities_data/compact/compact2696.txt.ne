@@ -1,1 +1,0 @@
-['Bevölkerungen', 'übersichtlichen', 'auch', 'Millionen', 'lernen', 'Preisen', 'sicherlich', 'in die', 'erhalten']

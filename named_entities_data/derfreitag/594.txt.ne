@@ -1,1 +1,0 @@
-['Mobile', 'JASPER KOSOK', 'wird', 'voranzutreiben', 'von']

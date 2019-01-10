@@ -1,1 +1,0 @@
-['sich', '-Bewegung', 'Bis', 'in', 'Erdoğan und', 'Trump , der', 'von Marine', '»', '» Brexit', '» Brexit «', '–', ',', '»', 'Minenarbeiter', 'bis zum andauernden', 'Knast', 'die', 'der', 'Front', '–', 'Politik', 'wenn', 'nicht', 'Schock die', 'von', 'bedrohen', 'tönernen', 'stöhnte er', 'Twitter', 'auf']

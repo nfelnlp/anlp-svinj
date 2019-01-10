@@ -1,1 +1,0 @@
-['Washington', ', die', 'ist', 'Bau der', 'für', 'in', 'Partei', 'vergeblich', 'und', 'Amtszeit']

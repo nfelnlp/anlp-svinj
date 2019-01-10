@@ -1,1 +1,0 @@
-['Tobias Schwarz/AFP', 'kurz', 'ist', '. Unfall', 'geschehen ist ,', 'erfahren', 'Sein Profil', '#', '#', 'Aviv', 'Maiduguri', 'Brüssel', '“', 'als', 'AfD-Politiker', 'und „verfluchter', 'geschrieben', '„Polizeisprecherin', 'sagt', 'auf Twitter', 'auf diese', 'Fragen', '–', 'werden ,', 'dann', 'Zitat']

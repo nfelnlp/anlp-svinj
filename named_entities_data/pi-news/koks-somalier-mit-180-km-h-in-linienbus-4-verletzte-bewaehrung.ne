@@ -1,1 +1,0 @@
-['geht', '“', 'Linienbus', 'Liban', '–', 'Zuschauerraum', 'Blut', ',', 'Mittelplanke', 'vier', 'Insassen', 'sein', 'wenn', 'viele', 'und', '.', 'auf', 'wirklich', 'Frieden', '.', '10 000 US-Dollar', 'Provision – soviel', 'in', 'Nor', 'der Nähe', 'Bei', 'noch', '2017', 'denen', '. Wer', 'will', 'Auto', '–']

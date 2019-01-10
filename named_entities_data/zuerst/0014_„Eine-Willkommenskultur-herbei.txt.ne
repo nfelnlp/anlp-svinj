@@ -1,1 +1,0 @@
-['Olaf Haselhorst', 'Manuela Schwesig', 'SPD', 'vor\xadmalige Bundesfamilienministerin', 'Mecklenburg-Vorpommern , ihren', ', von', 'Nordrhein-Westfalen', 'getan . Zwar', 'elitären', 'nicht einer', 'sondern', 'von 2008', 'hat', 'die Kinder']

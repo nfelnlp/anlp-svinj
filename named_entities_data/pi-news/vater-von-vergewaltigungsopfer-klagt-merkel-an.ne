@@ -1,1 +1,0 @@
-['Deutschland', 'Scharia-Anhängern', 'man', 'den', 'lesen', 'Einheitsmedien', '2 .', 'Waffengewalt', 'fest', 'Anfangsverdacht', 'abgelehnt', 'den', 'Abschiebung', 'Vater', 'gewandt', 'klagt in einem', 'an', 'Vaters jetzt', '. So schreibt', 'Asylantrag', 'Trauer', 'ins Land gelassen', ', beklagt ,', 'Asylbewerber', 'Es', 'war', 'vergangenen', 'beschlossen', 'von', '“', 'am']

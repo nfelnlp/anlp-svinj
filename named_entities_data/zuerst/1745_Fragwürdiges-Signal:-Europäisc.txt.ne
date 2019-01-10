@@ -1,1 +1,0 @@
-['Brüssel', 'EU', 'verabschiedet', 'Der', 'auf', 'Migration', 'Tagen', 'Straßburg reisen', '.', 'und']

@@ -1,1 +1,0 @@
-['Flüchtlingen', 'Italien', 'enden', 'SPD', 'einen', 'aber', 'Parität', 'für', 'veranschlagen Mehrausgaben', 'Höhe']

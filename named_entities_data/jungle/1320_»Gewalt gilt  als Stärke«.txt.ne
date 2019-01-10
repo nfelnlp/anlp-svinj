@@ -1,1 +1,0 @@
-['mitveranstaltet', 'Fildes Hafizi', 'Tirana', 'zuvor', 'vergebens', 'weit', 'ihrem', 'von', 'auf', 'sondern', 'in', 'in', 'das', 'Zentrum', 'zu', 'eines der', 'waren', 'In', 'Frauen', ') beschäftigt', 'Kanun', 'Das', 'Männer', 'Zusammenbruch', 'sehr', 'nicht', '.', 'Muttertag', 'Juni', 'wieder', 'atheistischen', '?']

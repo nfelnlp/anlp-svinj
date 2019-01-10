@@ -1,1 +1,0 @@
-['Unfreiwilliger', 'Wehlen', 'Sachsen', 'Eisele/', 'Getty', 'Halb Deutschland', 'bereist die', 'hatte dem', 'Schnitt', 'es', 'die', 'Zwickau', 'Passau', 'längst', 'Dresden', 'Höchststand', 'bei', 'die', 'die', 'wechselweise', '2011', 'so', 'Die', 'wird ,', 'ein', 'dass', 'Als der']

@@ -1,1 +1,0 @@
-['Budapest', 'Kovacs', 'wegen Spionage', 'an', 'Das', 'Parlament hatte', 'Kovacs', '20', 'Russin', 'als', 'Entstehungsjahren', 'Die', 'Staatsanwaltschaft', 'den', 'sollen', 'nicht', 'steht', ',', 'als', '.']

@@ -1,1 +1,0 @@
-['. Der', 'nicht wiedersehen', 'Wie', 'an', 'an', 'Easyjet verkauft .', 'an', 'in Österreich', 'zweites', '.', 'auf', 'teilte', 'widerspricht', 'die zur', 'stehenden']

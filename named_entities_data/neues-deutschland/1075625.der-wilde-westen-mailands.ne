@@ -1,1 +1,0 @@
-['Giambellino', 'Mailand', 'Giambellino', 'Luigi', 'Polizei', 'Polizei', 'Expo', 'wichtiger', 'eine', 'diese', ', Stärke', ':', 'bereisen']

@@ -1,1 +1,0 @@
-[',', 'der', 'ist', 'Fußballverein', '(', '( RSL', 'und zwar', ': Mitglieder', 'Halle', 'Thüringen', 'Angehörige', 'wurden', 'Redner', 'nicht vorbereitet', 'und', ', die', 'des', ',', 'die', '.', ',', 'seien', 'gegen', 'nach', 'habe', '»', 'seien', 'sitzt', 'eine', 'enormes Interesse', 'weil ,', ',', 'regelmäßig', 'Einzelfall', 'Rasen und', ',', 'einem', '–', 'die Punkte']

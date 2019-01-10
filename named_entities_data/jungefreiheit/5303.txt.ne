@@ -1,1 +1,0 @@
-['einberufene', '.', ':', '? Oder', '. einmal ausführte :', 'beim Konzilgedächtnis am', 'las', '``', 'Es wird', ',', 'gegen die', 'nunmehrigen', '``', '.', 'durch viele Kanäle vermittelt', 'tätig', '!', 'Kirche', "'' sein", 'streng', 'machen', 'Veröffentlichungen', 'er sich', 'der', 'katholischer', 'Buch', 'es', "den Menschen ''", ':']

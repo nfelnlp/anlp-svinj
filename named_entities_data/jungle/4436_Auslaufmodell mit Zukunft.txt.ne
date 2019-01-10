@@ -1,1 +1,0 @@
-['Bundesregierung', 'Andrea Trumann', 'DDR', 'Westdeutschland', 'wohligem Schauer', 'BRD', 'DDR', 'Herumtrödeln', 'haben', '.', 'vorausgegangen', 'mit dem', 'Geist']

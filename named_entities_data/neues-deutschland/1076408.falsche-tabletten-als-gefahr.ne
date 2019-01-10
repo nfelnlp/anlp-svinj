@@ -1,1 +1,0 @@
-['Erfurt', 'Thüringen', 'mitteilte', ',', 'und Mecklenburg-Vorpommern seien', '139', 'bearbeitet worden ,', 'Fälle', 'seit', 'seit einigen', 'werden deutschlandweit', 'Auch', 'Auch die', ',', 'wir', 'und']

@@ -1,1 +1,0 @@
-['Europa', 'Geburtenschwund', 'Frankreich', 'Deutschland', 'Frankreich', 'französischen', 'National', 'Bezugnehmend', 'Deutschland', 'rechnen', 'der', 'Maßnahmen', 'Geburtensteigerung', 'Müller .', 'nicht verstanden', 'wie ``', 'demographischen Wandels', 'Suhrkamp', 'Euro', 'und Büroflächen in', ':']

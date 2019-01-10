@@ -1,1 +1,0 @@
-['Der große', 'sprach hierzu', 'vom Internetportal', ', Sie', 'Und der', 'als', 'als in', 'die', ', kannte', 'per', 'auf', 'Menschen', 'die', 'Altersarmut', 'die', 'von', '.', 'Das', 'Versicherungen', 'er', 'Rentensystem', '„Ich gehe', 'falschen', ',', 'gewollt und', 'denken', '?', 'Als', 'tätig ,', 'Wernicke finden', 'neue']

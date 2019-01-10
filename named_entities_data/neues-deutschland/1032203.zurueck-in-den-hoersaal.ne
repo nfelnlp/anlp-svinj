@@ -1,1 +1,0 @@
-['auf', '« zeigt ,', 'Lokale Protestgruppen und', 'Lokale Protestgruppen und einzelne', 'über', 'ein', 'Zentrum']

@@ -1,1 +1,0 @@
-['Detlef', 'Belgien', 'belgische', 'Fukushima', 'Belgien', 'Doel', 'Doel', 'Tihange', 'Frankreich', 'Belgien', 'Suez', 'belgischen AKW-Betreibers', 'bei', 'seiner', 'klar', 'Ausnahme', 'Ermittlungen', 'ihn', 'eine Klage', 'weiteren', 'die belgische Regierung', ', um eine', 'Rissen', 'deutschen Umweltpolitik wären', 'überzeugender ,', 'bekannt']

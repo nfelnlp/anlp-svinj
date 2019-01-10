@@ -1,1 +1,0 @@
-['.', '. Im', 'den EU-Behörden einen', 'Kronzeugenregelung', 'bestätigte damit entsprechende', 'sei', 'für', 'vorgelegt', 'Volkswagen', 'es', 'Medienberichten', 'auch', '. Laut der', 'auf', 'bei', 'Volkswagen', 'Angaben', 'Tagesgeschäft', 'den', 'hatte', 'überhaupt', 'legten', 'deutlich', 'Umsatz', '3,46', '3,46 Milliarden', 'Freitag', 'Mitarbeiter hätten']

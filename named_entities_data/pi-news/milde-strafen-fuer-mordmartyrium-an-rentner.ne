@@ -1,1 +1,0 @@
-['J.D', '„fünf', 'vier Angeklagte lediglich', 'Eigentumsübertragung', '2014', 'Rentners', 'Stromschlägen , Fausthieben', 'er', '.', 'des Krefelder', 'bemerkenswerten', 'K. ( 19', 'Jahre', 'zwischen', '§ 251 StGB', 'überwältigt', 'Mann', 'Boden', 'auch', 'Elektroschocker', 'Täter', 'im', 'Mann', 'sie seinen', 'der', 'dabei', 'ertappt : Der', 'war übrigens leer :', 'Orange']

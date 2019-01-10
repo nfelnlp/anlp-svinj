@@ -1,1 +1,0 @@
-['am', 'am Main . Im Steuerskandal', 'vergangene Woche', 'in', 'die', 'war von der', 'weil']

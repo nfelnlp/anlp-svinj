@@ -1,1 +1,0 @@
-['.', '. Deutschland', 'sich', 'internationalen', 'bedauerlich', 'EU-Delegation', 'Gesprächen', 'seit', 'appellieren', 'den', 'weltweiten', 'von Bürgern', 'Belegschaften', 'richten', 'Menschenrechte', 'Danach']

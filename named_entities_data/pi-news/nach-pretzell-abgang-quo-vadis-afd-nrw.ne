@@ -1,1 +1,0 @@
-['? “', 'nach', 'wird dafür', 'seiner Ehefrau', '– im', 'Pretzell', 'als', 'nur', 'gesteuerten', 'die', 'und', 'die', 'der', 'die', ',', '„Meister', 'immer', ',', ',', 'deshalb', ',', 'sieben Thesen', 'NRW-AfD nach', 'die Glaubwürdigkeit', 'von', 'kommende', 'Partei', 'Handeln', 'Fraktionsvorsitzenden']

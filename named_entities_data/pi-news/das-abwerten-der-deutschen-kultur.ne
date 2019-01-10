@@ -1,1 +1,0 @@
-['frenetisch', 'aufgeladenes', 'Herrenmenschentum', 'hierzulande', 'ist', 'man', 'als auch', '“', 'auf', 'rühmliche Ausnahmen', 'den', 'den übermäßigen', 'mit', 'der', 'gebracht', 'er', 'die', 'fürderhin', 'mehr', 'führen', 'So', 'momentan', 'auch']

@@ -1,1 +1,0 @@
-['Stockholm', 'Lisa Tamm', 'Rinkeby', ',', 'arbeitet', 'ist ab 2018', 'Um', '.', 'zitierten', 'dazu mit', 'in', 'Krieg', 'anderen Teilen', 'Bezirken', 'No-Go-Zonen', 'Gebrauch']

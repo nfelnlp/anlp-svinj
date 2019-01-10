@@ -1,1 +1,0 @@
-['Brasilien', 'Christian Russau', 'São Paulo', 'brasilianische', 'ganze', 'hat']

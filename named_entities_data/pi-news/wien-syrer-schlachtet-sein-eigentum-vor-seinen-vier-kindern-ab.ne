@@ -1,1 +1,0 @@
-['Wiener', 'zuletzt eine', 'Die Hintergründe zur Tat', 'Syrer dürfte', 'als', 'ihn', 'worden', 'Wiener Gemeindebezirks . Bereits im Jahr', 'positiv', '“', ',', 'Perspektive', 'die Zuwanderung', 'positive', 'in', 'als', ',', 'hat', 'fälschlicherweise ,', 'trat', ',', 'annahm', 'die', '’', 'Araber']

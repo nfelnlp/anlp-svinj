@@ -1,1 +1,0 @@
-['Malmö', 'aufzeigen', '.', 'dem', 'Prozent', 'sogar', 'über', '2015', ',', 'als', 'Die', '55', 'Der', ', Verbrechen', 'Besonders', 'Unmengen', 'konfiszierten']

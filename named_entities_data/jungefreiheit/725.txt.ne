@@ -1,1 +1,0 @@
-['dem', 'den', 'Während große Teile', 'durch', '.', 'einer nur sehr', 'bis', 'Erfahrungen', 'Länder', 'derUSA ,', 'Deutschlands', 'entsteht', 'geringer', 'eine', 'der', 'Orientierung', 'eine', 'an', 'den', 'in', '10 .', '1999 , aber']

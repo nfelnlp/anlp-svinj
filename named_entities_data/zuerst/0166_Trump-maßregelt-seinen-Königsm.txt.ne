@@ -1,1 +1,0 @@
-['Washington', 'und seinem', 'kriselt es weiter', '–', 'auf', 'August', 'verlassen und', 'hat sich', 'Grund dafür', 'Jr.', 'Woche erscheinenden', 'der Rußland-Affäre', '.', 'nichts', 'zu tun', '”', 'Seine Kritik', 'auf', 'auf ein', 'Anwältin mitten', 'ging', 'wegen der vermeintlichen „Rußland-Affäre', 'der', '.']

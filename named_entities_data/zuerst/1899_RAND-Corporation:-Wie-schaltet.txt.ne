@@ -1,1 +1,0 @@
-['Monica', 'US-Denkfabrik RAND-Corporation', 'US-Verteidigungsministerium', 'aufgerufen', 'Ostsee-Exklave', '(', 'könnte', 'geht', 'einem', 'Rußlands', 'die', 'Antwortreaktion', 'NATO', 'werden.', 'darüber', 'starken', 'Allianz', 'Länder', 'Erklärungen', 'das', 'zehn', 'Achtfache', 'die']

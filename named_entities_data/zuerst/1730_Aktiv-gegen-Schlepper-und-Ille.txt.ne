@@ -1,1 +1,0 @@
-['Catania', 'Europa', 'zur', 'eines', 'Küste', 'ausstatten', 'aktivistische', 'Sie']

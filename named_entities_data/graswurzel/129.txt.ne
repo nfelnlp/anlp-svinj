@@ -1,1 +1,0 @@
-['Name Luigi', 'Anarchist der', 'der', 'Portmann ,', ')', 'plädierte', 'Revolution', 'als', 'Richtung']

@@ -1,1 +1,0 @@
-['nie', "''", 'der', 'CDU', 'der', 'ihren', 'geboren', 'schwer', 'laufende', 'Funktion', 'gelungen', 'rücken', 'sie', 'vollends', 'immer', 'der', 'ausgeschaltet', 'damit', 'leider', 'derzeitige', 'gegen Rechts', ',', 'um', 'ungeachtet', 'die Väter', 'würden', 'hinein in', '``', '9', 'Bürger sich', 'Staat', 'klingeln ,', 'Jetzt', 'den bekannten', 'braunen )']

@@ -1,1 +1,0 @@
-['Missionare', 'Cowboyhut trägt .', 'We Come', 'erst', 'hat', 'Land', 'einer', 'er', '»', '.', 'über', 'die am', 'an', 'geht', 'zurück . Eine']

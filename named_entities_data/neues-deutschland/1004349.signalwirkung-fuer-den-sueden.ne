@@ -1,1 +1,0 @@
-['für die', 'und', 'wird', ',', 'wird', 'gilt', 'USA', 'Nachsorgeprinzip', 'und', 'Signalwirkung', 'den', 'Sojaplantagen', 'von', 'die Welt']

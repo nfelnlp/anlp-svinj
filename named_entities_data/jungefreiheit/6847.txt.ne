@@ -1,1 +1,0 @@
-[',', '; der', 'allgemeiner', 'Stolz', 'schon obszöne', 'sein', 'Welt', 'Sprache', 'in der', 'Anders\x92 nur', 'Kultur und', 'zu erlösen :', 'Jahre', 'Stichwort', '.', 'hundert', 'auf', 'an andere als', 'lebt ja', 'bewirken als der', '. Auch sie']

@@ -1,1 +1,0 @@
-['Images', 'Tradition', '153', 'vergangenes Jahr', 'paar', 'Raucher']

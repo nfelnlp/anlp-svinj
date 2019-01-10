@@ -1,1 +1,0 @@
-['SPD-Oberbürgermeister', 'hätte in', 'schon', ',', 'Beginn der', '(', 'zu', 'Lebens-', ',', 'ist', 'den', 'ihrer', 'nicht', '!', 'Im Frühjahr', 'schwacher', 'sogar', 'und', 'mehr']

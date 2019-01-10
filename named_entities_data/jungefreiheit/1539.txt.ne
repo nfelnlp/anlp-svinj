@@ -1,1 +1,0 @@
-['CDU', 'sich', 'Die', 'Partei', 'des', 'nicht', 'immer', 'jetzt gerade', 'erteilen', 'wollen', 'die', 'darüber ,', 'Also', 'Verantwortung', 'den', '.', 'und', 'Nur', 'gerne', 'die', '?', 'erfahren', 'nicht', 'steht ,', 'recht .', 'Grunddebatte diese', 'werden ,', 'gefährdet', 'wir müssen', ', daß', '. 1967', 'sie']

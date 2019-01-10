@@ -1,1 +1,0 @@
-['Peter M. Messer |', 'Kohl ist', ', sondern', 'gewesen', 'Geisterpferd', 'Partei', 'und', 'das', 'von', 'ihn', 'seine', 'dem', 'als', '.', ',', 'Helmut', 'gelegt ,', 'nicht', 'als', 'darum', 'Grundlage', 'von', 'und', 'man', 'rauskommt –', 'Nazizeit ein', 'jederzeit', 'Helmut', 'zusätzlicher', 'Wort', ', der']

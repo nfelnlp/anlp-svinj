@@ -1,1 +1,0 @@
-['bereitet die', 'dem', ', Krüppel', 'ein', 'Sie', 'aus der', 'Schulen', 'sich', 'durchgerungen', 'Flüchtlingen', 'an Deutschland', ',', 'zurückweisen', 'gleichzeitig', 'aussieht', 'Ausruhen']

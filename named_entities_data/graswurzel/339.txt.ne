@@ -1,1 +1,0 @@
-['Cohen', 'Cohen', 'Nick Cave', 'Australien', 'Cohen', 'New York', 'Er', 'die', 'ganz', "'' ,", 'eine', 'und', ', findet', 'im', 'Krieg', 'an', 'Religion', 'und', 'Studio-Alben', '1980ern', 'wenigen', 'erfolgreichen', '``', 'ist', 'Musik', 'Welt', 'schon', 'er', 'davon , dass', 'Musik', 'sie bauen', 'Menschen', 'wird ,']

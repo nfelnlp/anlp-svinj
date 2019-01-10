@@ -1,1 +1,0 @@
-['M. Gabler |', '.', '2010', 'Deutschland “', 'in der gleichen', 'in der gleichen Rede', 'der', 'einzelnes', 'an', 'Jahren', '.', 'Wir', 'eigenen', '.']

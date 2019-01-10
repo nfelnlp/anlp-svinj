@@ -1,1 +1,0 @@
-['Die Besten', 'ultralinken Kampfhennen', 'die man', 'Diese', 'mehr', 'das', 'die freie', 'den', 'historische', 'werden', 'Dies', 'und', 'Kanzlerinnen-Partei', 'wird', 'Hofreiter', 'Inkompetenz', 'diesen', 'derartige', 'auf', 'Wirkung in', 'schützender', 'Gerechtigkeit', 'Fürchten', 'explizit nicht', 'eben']

@@ -1,1 +1,0 @@
-['der', 'Basics', '.', 'der', 'welche', 'und', 'Chefetagen –']

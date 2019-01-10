@@ -1,1 +1,0 @@
-['Damaskus', 'Syrien', 'Provinz Deir ez-Zor', ',', 'syrischen', 'erklärte', ': „Im', '“ Von', 'drei', 'vom', 'Mossul', 'Raqqa', 'nur noch', 'und', 'umkämpft', '.', 'belagerten', 'Munition', 'Deir ez-Zor', 'Irak', 'werden planmäßig vernichtet', 'gerade', 'anderen']

@@ -1,1 +1,0 @@
-['Bukarest/Brüssel', 'Nachdem', 'Einleitung', 'Denn', 'drohender Einschränkungen', 'und', 'ebenfalls', 'rumänische', 'nach', 'von', ')', 'Jetzt', 'einer', 'Polens', 'Johannis', 'Folgen', 'sie', 'Ermittlungsschritte', 'Gefahr', 'Union']

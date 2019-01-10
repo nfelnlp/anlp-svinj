@@ -1,1 +1,0 @@
-['immer wieder', 'es', 'kleinlaut', 'Generationen', 'Vorstellungen', 'die', ':']

@@ -1,1 +1,0 @@
-['.', 'am Montag', 'Deutschen', 'Gewerkschaft', 'Töchtern sowie', 'auch', '1', 'Norbert Hansen', 'Bahn die', 'Krauß', 'wieder', 'nehmen ,', 'erfolgreichen', 'und', 'in', 'Köpfen', 'Eindruck', 'anhaltenden', 'Fläche . Die', 'Eisenbahnbetrieb in', 'deutlich', 'inzwischen', 'beklagenswerten', 'Bundestag .', 'in den', 'Unternehmensteile', 'dann', 'wieder', 'kampfbereit die EVG']

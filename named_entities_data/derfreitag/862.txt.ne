@@ -1,1 +1,0 @@
-['Facebook', 'sich', '.', 'kein', 'gut', 'Slogans', 'vom', 'an', 'Ein', 'die', "AfD ''", 'der', '12.00', 'dem']

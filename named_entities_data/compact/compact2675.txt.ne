@@ -1,1 +1,0 @@
-['!', 'angeblich', 'aber', 'Deutsche Medien', 'einen', '“', 'Berichterstattung', 'skandalös :', 'Danckwardt interviewt', '.', ',', 'Lisa', 'nicht', ':', 'Eindruck', 'dass', 'auf', '.', '“', 'Sie', 'Nein', 'genauen', 'in', 'Dankwardt', 'den', 'werden', 'Beispiele', 'dazubekommen', 'und', ',', 'etwas', 'habe', 'macht', 'macht Sie', 'von', ',']

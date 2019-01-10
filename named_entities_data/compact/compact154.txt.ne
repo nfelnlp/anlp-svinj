@@ -1,1 +1,0 @@
-['steht', 'hat', 'niemand', 'an', 'und Innenminister', 'die Gefahr', '„was', 'zukünftige Opfer', ':', 'von', 'die', '.', 'in', 'Versammlungsrecht', 'dass', 'dazu', 'der', 'Foto', 'von', 'Politik', 'wie', ',', 'Demontage', ', finden', 'aktuell', 'Es', 'und', ':', 'für', 'unsere', 'zum', 'lasst', 'die', 'Bewegung', 'Ihre', ', der', 'Deutschland']

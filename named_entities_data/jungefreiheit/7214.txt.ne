@@ -1,1 +1,0 @@
-['James Bacque', 'seien', 'Dwight D. Eisenhower initiierten', 'erscheinenden', 'Benutzern', '1973', 'Bandes zu', 'die', 'Realisierung', 'hatte', 'neunziger Jahre', 'belegbaren', 'diese Methode in Konflikt', 'der', 'so', 'kommen', 'hier ein Forscher aus', 'weite Strecken', 'mehrere', 'ein', 'den', 'in', 'indes mit']

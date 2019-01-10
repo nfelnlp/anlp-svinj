@@ -1,1 +1,0 @@
-['transmediale', 'Planetenstatus', 'Back', '.', 'herauf', 'Sind', 'visuelle', 'Webseiten ,', 'denkst', 'Wegen', 'Verletzungen der', 'Bennett', 'ernstzunehmenden Klage', 'für', 'Tarkovskys', 'Nutzung', 'wir sie', 'The Zone', ',', 'Das Programm', 'liegt', 'lenken ,']

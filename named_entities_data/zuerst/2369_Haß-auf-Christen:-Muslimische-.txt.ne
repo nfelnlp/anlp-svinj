@@ -1,1 +1,0 @@
-['Palermo', 'auf', 'wieder', 'die', 'Ghana', 'und', 'hatte', 'wie']

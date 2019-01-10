@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'Österreich', 'Österreich', 'für', 'Prozent', 'Prozent', 'Prozent', 'noch', 'hat']

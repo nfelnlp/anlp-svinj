@@ -1,1 +1,0 @@
-['(', 'räumten', ',', 'Chips', 'potenziell', 'Informationen', 'Microsoft', 'Windows', 'auf', 'Tag', 'der', 'Diese']

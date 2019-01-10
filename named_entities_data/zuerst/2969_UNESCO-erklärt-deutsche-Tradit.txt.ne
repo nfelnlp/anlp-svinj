@@ -1,1 +1,0 @@
-['Gesellschaft 2', 'Gesellschaft 2 Berlin', '„Das', 'für', 'Äthiopien ,', 'Kulturtraditionen', 'den', 'aufgenommenen', 'der Deutschen', ') ,', 'ihre genossenschaftliche Idee', 'Selbsthilfe schnell durch Selbstfinanzierung', 'Lesen', 'ausführliche', ': http', 'Sie']

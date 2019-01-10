@@ -1,1 +1,0 @@
-['Deutschland', 'Ronny Zasowk', 'Türkei', 'USA ...', 'USA ... von', 'Nach dem', 'unterschiedlichste', 'die', 'Einfluss', 'wollen', 'den', 'Kauf', 'Erdogan nach dessen', 'drei', 'Trennung', 'islamischen', 'deutlich', '„Er', 'Regimekritiker', 'wird', 'führen', 'Auseinandersetzungen', 'zu']

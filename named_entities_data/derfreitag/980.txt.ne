@@ -1,1 +1,0 @@
-['Jürgens', 'Es', 'in', 'Mund genommen', 'mehr .', 'und dann', 'dreckige', 'den', 'Eltern geschoben', 'gewesen sein', 'es eben', 'Die damals', 'lauten', 'besonderen Künstler', 'mich', 'Eltern', 'Bekannte', 'fand', '(', ', was', '. Ich', ') mochte', ') mochte ich', '“', ',', 'der', '“', 'ein', 'des Öfteren']

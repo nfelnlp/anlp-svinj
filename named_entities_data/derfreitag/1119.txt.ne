@@ -1,1 +1,0 @@
-['man', 'füllen', 'der', 'Muntermacher', 'Off', 'stolz', 'Frage', 'über', 'Rothschilds', ')', ',', 'Hirnfurz', 'weil ich', 'Richtiges', 'der', 'Rechtsrutsch', 'Richtung', ')', 'der Flüchtlingsfrage festzumachen', 'dem', 'wirklich', 'im', ',', "'' politik", ',', 'Geister', 'SPD-Parteitag']

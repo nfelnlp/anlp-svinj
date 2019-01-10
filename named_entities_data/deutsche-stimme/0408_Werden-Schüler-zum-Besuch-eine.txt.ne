@@ -1,1 +1,0 @@
-['war', 'Euro', 'Dame bereits', 'dem', 'das Schulgesetz .', 'ordnungswidrig', ', zu sagen', 'nach', 'uns', 'Deutschland', 'europäischen', 'als', 'Kraft ,', 'für Jahrhunderte Spanien', 'Tags']

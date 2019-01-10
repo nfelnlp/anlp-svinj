@@ -1,1 +1,0 @@
-['. Die', '( ÖBB', 'betreiben', 'ersten', 'vor knapp', 'Kurt', 'Deutschen Presse-Agentur', '. Damit sei die', 'erfüllt', 'aber', 'bisherigen', '10', 'und', 'im']

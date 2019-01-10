@@ -1,1 +1,0 @@
-['einem', 'Recht', 'als', '.', 'in', ',', 'der', ', gegenüber', ', gegenüber » nd «', 'aufzulösen .', 'gerüstet', 'Arbeitgeber', '.', 'dass', 'ein', ',', 'sich etwas', '« Angesichts', '« Angesichts der Massenarbeitslosigkeit um', 'Tarifbindung', 'die', 'unterschiedlich bewertet', 'betont', 'gegenüber » nd', 'Westen', 'den', ',', 'sei', 'schon', 'schon deshalb']

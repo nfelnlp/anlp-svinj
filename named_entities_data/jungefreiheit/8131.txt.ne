@@ -1,1 +1,0 @@
-['Auch die', 'den', 'zugeordnet', 'Grόnden', ',', 'die', 'der', 'zδhlen', 'von', 'Versorgung', 'daί', 'Zivilschutzeinrichtungen', 'verschiedene', 'derzeit', 'die', 'Katastrophenschutz-Beauftragte schaffen ,', ') bekannt', 'zum Schutz der', 'Terrorangriffe', ',', 'hohe', 'sowie', 'Naturereignis', 'zu', '53 Prozent', ')', 'Schuld', 'Sprecherin des', 'Feuerwehrverbandes']

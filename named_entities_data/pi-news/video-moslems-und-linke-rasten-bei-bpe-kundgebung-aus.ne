@@ -1,1 +1,0 @@
-['( BPE', ',', 'das', 'nur', 'zu', 'führt', 'kleiner', 'kaum', 'Die Zeiten', 'absolut befürwortet', 'mit', 'Pressesprecher', 'Strauß-Tochter Monika', 'Partei', '.', 'bisher', 'über seine Facebookseite']

@@ -1,1 +1,0 @@
-[', Vorsitzender', ',', 'Einigung im', 'und', 'in Massachusetts', 'Es', 'spekuliert', 'Dies', 'Arbeitsplätze in', 'schon', 'umso']

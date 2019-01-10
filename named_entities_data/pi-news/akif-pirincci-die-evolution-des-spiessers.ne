@@ -1,1 +1,0 @@
-['anzuecken', 'Andersdenkende', 'Baden', '.', 'Obgleich', 'Elite', ',', ',', 'der', 'auf', 'den', 'nämlich', 'Genitalarchäologen aufdeckte', '“', 'Pirinçcis bald']

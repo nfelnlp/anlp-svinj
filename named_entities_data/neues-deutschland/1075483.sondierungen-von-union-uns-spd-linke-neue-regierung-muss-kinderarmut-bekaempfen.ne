@@ -1,1 +1,0 @@
-['. Die', 'Bundestag', 'SPD', ',', 'Deutschland', '.', 'wies darauf', 'Eurostat', 'Betroffene', '. Zimmermann', 'der', 'ein', 'dpa/nd']

@@ -1,1 +1,0 @@
-['Andreas Rieger', 'Deutschland', 'Roben', 'Ratzinger', 'Kölner', 'Konservativen', 'Europa', '–', 'Günther Jauch', 'nur', 'einst formulierte', 'Demokratie', '–', 'Macht', '.']

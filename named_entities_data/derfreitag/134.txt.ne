@@ -1,1 +1,0 @@
-['Sabine Gudath/Imago', 'Social', '.', 'auch', 'forderte', 'Bundestag auf ,', 'dieser Frage', 'tätig', "werden '' ,", "werden '' , sprich", 'identifizieren', 'Jeder politische', 'den sozialen', 'Grundlage des', 'sollen', 'Problem sein', 'von', 'gehe', 'sei eine', ',', ',', 'Teilen :']

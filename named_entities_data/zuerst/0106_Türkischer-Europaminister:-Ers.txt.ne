@@ -1,1 +1,0 @@
-['Ankara', 'FPÖ', 'Österreich', 'kritisiert', 'jetzt', 'die', 'als', 'getroffen', ', beweist', '“', '”', 'EU', ':', 'gegen', 'Türkei', 'sollte', 'beantwortet', 'halluzinierten türkische', 'in']

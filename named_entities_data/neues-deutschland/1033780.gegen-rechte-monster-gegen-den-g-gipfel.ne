@@ -1,1 +1,0 @@
-[',', 'protestieren', 'Am Wochenende', 'erste', '.', 'Polizei', 'außerdem']

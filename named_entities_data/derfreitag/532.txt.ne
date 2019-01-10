@@ -1,1 +1,0 @@
-['Images', 'Herr', 'de', 'diese Zeilen', 'der', 'bei', 'Rolle des', 'vorerst', 'genug', 'nicht', 'Bürgern', ',', ',', 'Damals', 'ernst', 'sicher', 'Herr', 'Sie', 'ich']

@@ -1,1 +1,0 @@
-['Matisse', 'West', 'Rußland', 'Matisse', 'Matisse', 'die', 'dagegen', 'nun', 'seinen', 'wie', '.', 'Ordnungssinn', 'Ureigen', 'die', 'die', 'sie', '.', 'das', 'Schon', 'Dieses', 'Genius', '1948-51', 'so', 'immer', 'Nu bleu', ', in Düsseldorf', '.']

@@ -1,1 +1,0 @@
-['Maane ist eine', 'ihrer', 'erzählen', 'und ganz der Arbeit', 'Afrika', 'diskutiert', 'Freiwilliges Soziales', 'Sie besucht', 'zu', 'bemerkenswert', 'STEPS . Das Projekt', 'und', 'dem', 'Kampagnen- und', '?', 'konnte den Menschen', 'Neugeborener', 'haben', 'der']

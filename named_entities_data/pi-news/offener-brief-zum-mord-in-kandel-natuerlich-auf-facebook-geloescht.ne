@@ -1,1 +1,0 @@
-['Deutschland', 'Täterschutz-Justiz', 'wie Hass-Domina', 'Bertelsmann-Arvato', 'vom Blog', ',', 'dem', 'Nachteil einer', 'von', 'malträtierten', 'im', '.', 'erstochen', 'habe', 'Freunden getippt', 'da', '.', 'die', 'der', 'einfach', 'ist', 'drohen uns', 'der', 'ist', '.']

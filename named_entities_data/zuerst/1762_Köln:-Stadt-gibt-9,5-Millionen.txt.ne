@@ -1,1 +1,0 @@
-['Gesellschaft 4 Köln', ', am', 'Eigentümer', ',', 'auch', 'Kostensteigerungen', ', das']

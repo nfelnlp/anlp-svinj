@@ -1,1 +1,0 @@
-['Nauen', 'Potsdam', 'NPD-Politiker', 'Staatsschutzkammer', 'Pkw', 'mit', 'Synagoge', 'sich', 'Partei', 'Medien ,']

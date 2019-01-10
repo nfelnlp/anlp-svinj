@@ -1,1 +1,0 @@
-['Berlin', 'SPD', 'Union', 'Horst Seehofer', 'CSU', '. Alexander', 'der CSU', 'meinte', ')', 'Klöckner', '„Neuen', '“ erläutert', 'man', 'so', '„der', 'Umgang', 'wünschen übrig']

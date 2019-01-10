@@ -1,1 +1,0 @@
-['Syrien', 'UNO', 'Internationale Organisation für', 'Binnenvertriebene', 'Türkei', 'Libanon', 'Irak', 'Jordanien', 'Aleppo zurück', 'in']

@@ -1,1 +1,0 @@
-['Deutschland', 'Marcus Meier', 'Deutschland', 'Arbeitsschutz', 'Dortmund', 'Behörde']

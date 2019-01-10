@@ -1,1 +1,0 @@
-['Berlin', 'alliance', 'dpa', 'Berlin', 'Der', 'Überall', 'des', 'Mecklenburg-Vorpommern im Straßenverkehr', 'Leben zu kommen', 'stellt', 'Freiheit', '.', ',', 'so', 'mal', 'Selbst', 'Rad', 'anbietet .', 'auch', '– dort allerdings', '.', '.', 'es', 'verwechseln', 'Freiheit', 'Die', 'die', 'ist', 'Millionen –', ',', 'Es', '.']

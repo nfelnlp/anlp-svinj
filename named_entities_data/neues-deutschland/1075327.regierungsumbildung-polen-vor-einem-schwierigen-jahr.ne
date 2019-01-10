@@ -1,1 +1,0 @@
-['Polen', 'Wojciech Osinski', 'Warschau', 'Kaczynski', 'Polen', 'Mateusz Morawiecki', 'Morawiecki', 'Budapest', 'Viktor Orbán', 'Warschau', 'Brüssel', 'EU', 'Duda', 'EU-Kommission', ',', 'Weg']

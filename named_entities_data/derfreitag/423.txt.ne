@@ -1,1 +1,0 @@
-['Tierschutzaktivisten', 'DRACHEV/AFP/Getty', 'SLAPP', 'ein', 'Ohrfeige', 'erster Linie', '.', 'wigner', 'Das', 'antwortete prompt', 'Das', 'in', 'eines', 'reichte', 'Fotografien ihrer', 'Gegenteil', 'viele', '.', 'geboten', 'in', 'Beschwerden', '``']

@@ -1,1 +1,0 @@
-['Willy Wimmer', 'Hilfswerken', 'Philippinen', 'Haiti', 'EU-Bau', 'Kriegsflüchtlinge', 'Kaukasus', 'hat', 'Rom', ',', 'Nahen', 'besichtigen', 'um die', 'Geldtransfers', 'einer', 'zur', 'gehört', 'Union', 'ihrer Probleme', 'mit diesen', 'Jahren dazu', 'von', 'könnte', 'Bundesland', 'wenn', 'umtreiben', '„Kultur', 'kein']

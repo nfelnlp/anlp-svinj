@@ -1,1 +1,0 @@
-['über', 'ununterbrochen', 'sondern', '»', '. »', 'abgesegnet wurden. «', 'ihre', '.', 'Mal', '2015', 'Anti-Terror-Operation', '»', ',', 'Vorwürfen', 'wesentlicher', 'zwischen', 'Verlauf', 'Minsker', 'werden', 'das', 'allem', ',', 'fast', 'Befugnisse im', 'eine Straftat', 'Befürworter des', 'das', 'das', 'Parlamentswahlen']

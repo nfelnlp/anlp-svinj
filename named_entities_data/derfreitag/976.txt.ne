@@ -1,1 +1,0 @@
-['Foto', 'Getty', 'Dieser', 'kürzlich', 'bekundet', 'Spiegel Entsprechend hart war', '. Das', 'Rainer Hank von', ', ``', 'der', 'jetzt']

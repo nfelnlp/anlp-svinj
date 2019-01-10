@@ -1,1 +1,0 @@
-['Petry', 'Petry', 'Frauke Petry', ',', ',', ',', 'Partei', 'sie', 'zur', 'Außenstehenden', 'hier', 'hier abschließen']

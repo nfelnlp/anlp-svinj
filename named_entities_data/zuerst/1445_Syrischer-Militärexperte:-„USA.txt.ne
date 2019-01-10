@@ -1,1 +1,0 @@
-['Damaskus', 'USA', 'Syrien', 'syrische', 'Hasan Hasan', 'seit', '„Wo Terroristen', 'Natürlich', 'voran', 'US-Pläne zunichte', 'Syrien', 'werden', ',', 'Syrien', 'Al', 'der', 'wurde .', 'Hasan', 'geopolitischen', '( mü']

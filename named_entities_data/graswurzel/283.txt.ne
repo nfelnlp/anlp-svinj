@@ -1,1 +1,0 @@
-['Afrika', 'Vega von', ']', ', wenn', 'stark', '?', 'ich', 'Rechte', 'Brüssel angereist', 'trotz', 'der', 'Party dominiert wurde .', ', welcher', 'Frage ,', 'ihre', 'auf dem', '``', 'zu diskutieren und den']

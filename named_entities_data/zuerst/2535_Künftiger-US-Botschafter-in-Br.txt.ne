@@ -1,1 +1,0 @@
-['Washington/Brüssel', 'Gut', 'Amtsantritt als', 'aus', 'blasen', 'Wirtschaftsprofessor gilt', 'Anwärter', 'letzte', '.', ',', 'habe', 'es', 'bereits', 'die', 'verweigern .', 'er', ',', 'widersetzen', 'habe']

@@ -1,1 +1,0 @@
-['Warschau', 'Szydlo rief', 'dazu', '“ Und', '?', 'Schlaf', 'Präsidentin', ', Ungarn und', 'Sanktionen', 'sollten', 'Länder', '„Flüchtlings', 'die']

@@ -1,1 +1,0 @@
-['Abidjan', 'EU-Afrika-Gipfel', '“', 'dem', 'teil und', '.', 'Politik', 'daß', 'Minister', '.', 'kein', '“', 'die Außenminister', ',', ',', ',', 'und', '. Mehrere', 'teilten', 'ungarische', ',']

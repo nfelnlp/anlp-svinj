@@ -1,1 +1,0 @@
-['.', '. Rund', 'wie', '» akzeptablen', 'die Quote', '«']

@@ -1,1 +1,0 @@
-['mexikanische', 'Emmanuel Guillén Lozano', 'Ayotzinapa klafft', 'Iguala', 'Mexiko-Stadt .', 'reisen', 'so', 'neue', 'sofort', 'kaufte', 'Als', ',']

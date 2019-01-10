@@ -1,1 +1,0 @@
-['Deutschland', 'Deutschland', 'Deutschland', 'gGmbH', 'Günter Nowald', 'Großmohrdorf', 'Mecklenburg-Vorpommern ) der', '.', 'wo', 'über', 'Kranichen kommt demnach', 'Tiere', 'können', 'skandinavische', 'Frankreich', 'Bisher', 'vor', '.', 'Kraniche']

@@ -1,1 +1,0 @@
-['Benny Claessens', 'Rudolph Moshammer', 'Sandra Hüllers', 'Julian Röder', 'Frauenkleidern –', 'Eva Veronica Born', 'Münchner Kammerspiele', 'Davotor', 'Elfriede Jelinek', 'Johan Simons', 'München', 'das Spiel', 'gar', 'zusammengefaltet in einer', 'Händen', 'die', 'Benjamin', 'für den', 'zuständig ,', 'und', 'ja', 'Eises', 'x-fach überzeichnete', ', in', 'Kühe', 'Stadt', 'Der']

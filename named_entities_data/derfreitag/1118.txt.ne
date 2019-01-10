@@ -1,1 +1,0 @@
-['Giuseppe Cacace/AFP/Getty', 'Mit', 'und', 'für jeden', '.', 'opulente', 'wieder', 'dass ich den', 'Leute', 'kannst', 'kannst du', '.']

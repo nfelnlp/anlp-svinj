@@ -1,1 +1,0 @@
-['Paris', 'Frankreich', 'Christian de Moliner', '?', 'de', 'anders nicht', ': ein', 'eine', 'anderen', ':', '„Soumission “', '.']

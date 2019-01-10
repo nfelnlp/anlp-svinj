@@ -1,1 +1,0 @@
-['. Die', 'Weimar in Thüringen', 'über', 'Nikolaus', 'der dpa .', '100', 'April', 'Bauhaus-Wiege von', 'Marcel Breuer', 'Kathedrale «', 'das neue', 'die frühe', ':', 'Deutschen', 'Weimarer', 'Weimarer Republik', 'Die Stiftung', 'ehemalige Kulissenhaus', 'zurückgeben', 'Es', 'von', 'Sie', 'noch', 'aus', '»', 'mit', 'im', '.', 'auch', '16', '.', 'Sonntag', 'Sonntag von', '.']

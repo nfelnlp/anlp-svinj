@@ -1,1 +1,0 @@
-['Peking', 'China', 'in Peking', 'Jörg', ', im', 'Ob', 'hinzu', 'China ,', 'die', 'Geldmengen', 'Wuttke .', 'führte', 'auch', 'voran', ',', '.', 'westlichen', 'immer noch', 'China.', 'auf', 'Herausforderung', 'noch', '.']

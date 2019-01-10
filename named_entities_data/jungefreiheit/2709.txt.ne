@@ -1,1 +1,0 @@
-['RWE', 'Yello', 'diese Subventionierung', 'Geschäft mit den', 'Sache', 'französischen', 'auch', 'Kilogramm . Die', 'Brunnen', 'haben', 'Main', 'hätte', 'Es', '? Ritter', '.', 'Leitungswasser getrunken wird', 'menschliche', 'durchaus', ',', ',', 'allgemeinen Gebrauch', 'interessierte', 'und', 'Für', 'Wertheim', 'für']

@@ -1,1 +1,0 @@
-['Straßburg', 'Straßburg', 'Osten', 'zu', 'Zwangsumsiedlung', 'im', 'wird', 'in', 'zu', 'Israel', 'und', 'schwelt', 'sich', 'Palästinenserstaat', 'aber bis heute']

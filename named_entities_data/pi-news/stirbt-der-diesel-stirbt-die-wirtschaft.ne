@@ -1,1 +1,0 @@
-['CANTALOOP', 'einzugehen', 'die', 'können', ',', 'die', 'die Quantität', 'maßgeblich', 'Zenit ihrer', 'durchaus seine Verdienste', 'den', '.', 'selbsternannte Umwelt-Retter diese', 'zahlreicher', ', die diese', 'weiter', 'sein', 'erhalten .', 'solls endlich', 'Politische', 'auf', 'diese', 'und', 'der', 'nahezu', 'von', '.']

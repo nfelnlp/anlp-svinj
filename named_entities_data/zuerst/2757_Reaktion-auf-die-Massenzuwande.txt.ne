@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'jetzt', '.', 'sogenannte', 'Verkauf', 'wie']

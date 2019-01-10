@@ -1,1 +1,0 @@
-['Berlin', 'CDU', 'CSU', 'Seehofers in', 'vertuschen', '„Obergrenze', ',', ', sprechen', 'finden .', 'verkündete ,', 'da', 'und', 'ihrer plumpen', 'nach', 'hin', 'Vorhersage', 'Finanzleistungen', 'und', 'der', '„Gesetz', '“', 'Jubel', 'Katrin', 'ändern']

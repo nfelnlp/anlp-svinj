@@ -1,1 +1,0 @@
-['Syrischen Armee', 'türkischen', 'Rojava', 'Würden', 'ich', 'sage', '.', ',', 'auf', 'Afrin ist', 'Rest', 'das', 'Vergangenheit', 'bei', ', sie', 'andere', 'einschreiten', 'Wir', 'zu', 'eine Flugverbotszone', 'eine Flugverbotszone ,', 'Anti-IS-Koalition', 'als', 'und', 'der', 'aktiv .']

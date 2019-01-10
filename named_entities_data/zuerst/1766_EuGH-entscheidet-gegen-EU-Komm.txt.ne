@@ -1,1 +1,0 @@
-['Luxemburg', 'Europäischen Union', 'Europäische Gerichtshof', 'EU-Gesetzgebungsverfahren', 'Streit', 'der', 'Verhandlungsmandat', 'TTIP', '.', 'geplante', ')']

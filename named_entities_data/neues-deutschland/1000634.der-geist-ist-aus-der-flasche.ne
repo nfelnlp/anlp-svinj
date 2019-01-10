@@ -1,1 +1,0 @@
-['Charité', 'Belegschaften', 'Charité', 'Saarland', 'Schleswig-Holstein , Nordrhein-Westfalen', 'Hessen formieren sich', ',', 'rund', ',', ',', 'müssen']

@@ -1,1 +1,0 @@
-['Caen', 'Charly Triballeaud/AFP/Getty', 'Worüber', 'man', 'Dieser', 'ein ,', 'Valls auf Tour', 'Land', 'Land zu schicken', 'Die', 'den', 'von', 'ausführt', 'ausspielen', 'beschäftigen', '.', 'Nachteil', 'den', 'die Konsumenten', '.']

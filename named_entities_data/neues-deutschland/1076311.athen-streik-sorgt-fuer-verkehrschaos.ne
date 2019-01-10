@@ -1,1 +1,0 @@
-['.', '. In', 'ein', 'Nahverkehr', 'Ende', 'die', 'die', 'Tsipras', 'es seien', '»', 'Sparprogramm']

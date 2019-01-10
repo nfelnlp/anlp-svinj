@@ -1,1 +1,0 @@
-['bekomm ständig', 'vor ein', 'Metal in den', 'Bangen', 'zum', 'Schleswig-Holstein', 'Sonne brennt', 'Füße reinhalten ?', 'harder', 'Massenspektakel', '.', 'strömen jährlich', 'kommen', 'bierselig', 'im', 'Welt', ':', '.', 'enden', ',', ',', '“', 'so', 'sie', 'anders', 'Pepe', 'plauderten', '.', 'verbringen', 'es', 'nun', 'Kamera']

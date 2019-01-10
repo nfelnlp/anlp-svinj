@@ -1,1 +1,0 @@
-['Gesellschaft', 'hat', 'Cem', 'Gründung eines', ',', 'Özdemir', 'versäumt', ',', 'zwar', 'politisch', 'Deutschland', 'allen', 'kulturell', 'gegen', 'sei', 'geben', 'meint', 'um', 'zu', 'er', 'die']

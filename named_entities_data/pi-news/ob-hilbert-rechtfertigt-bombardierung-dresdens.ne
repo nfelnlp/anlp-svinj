@@ -1,1 +1,0 @@
-['Dirk Hilbert', 'FDP', ',', 'sowie', 'unschuldige', '. Und', 'sind', 'Es', 'Politik für', '.', 'Verachtung', 'Staatsschutz', 'Jahren', 'während', 'Stadt', '.', '!', 'sollen .', 'der']

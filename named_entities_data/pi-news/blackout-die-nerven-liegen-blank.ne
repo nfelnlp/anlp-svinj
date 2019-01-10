@@ -1,1 +1,0 @@
-['British-Airways-Kunden am letzten', 'ihren', '.', 'jedoch nicht', 'Mitmenschen', 'nicht', 'verantwortlich .', 'Bevölkerung im August', 'in die', 'schuld', ', ihrerseits', 'wirft seit', 'aus', '.', 'Sie', 'und']

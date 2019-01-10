@@ -1,1 +1,0 @@
-['Otto', 'gefaucht', 'Pawlow-Power ,', 'da', 'Aufschwung', 'local', 'sehen', ',', 'Viertelprozent', 'bleiben']

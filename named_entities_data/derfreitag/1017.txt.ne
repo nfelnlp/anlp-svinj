@@ -1,1 +1,0 @@
-['Jakob Augstein', 'Augstein', 'Blome', 'DiLorenzo', 'Guttenberg', 'Lorenzos', 'pectore', 'ZEIT-Chefs', 'die', ',', 'die', 'Wahl']

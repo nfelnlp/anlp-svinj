@@ -1,1 +1,0 @@
-['Kairo', 'hat', 'IS', 'dem', 'in', 'Bisher', 'fast', 'Der', 'mit allem', 'Nordsinai', ',']

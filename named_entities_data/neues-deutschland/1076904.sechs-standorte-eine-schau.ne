@@ -1,1 +1,0 @@
-['Sachsen', 'Chemnitz', 'Chemnitz', '4', 'Stange', 'SPD )', 'Schauplatz', 'einen', 'statt', 'Horch-Museum', 'Tradition', 'wird', 'Bergbaumuseum', 'sowie', 'Silberstadt', '.', 'zunächst', 'der', ',', 'Ausstellung', 'saniert', 'sind', 'die', 'Angaben', 'Zudem', 'Einigung', '128', 'Tradition und', 'Leben .', '»', 'regia', 'und']

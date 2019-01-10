@@ -1,1 +1,0 @@
-['. Wie', 'Wo', 'zählt', 'Wehrbauten', 'der', '(', 'Die', 'schon vollständig erfasst', ', sagt EBI-Leiter', 'Friedrich', 'fast', 'Wegen der langwierigen', 'begrenzten', 'könnten', 'die', 'war', 'wir uns', 'bundesweit ausgerichtet hatten und damit', 'erfassen', 'Burgentyp', ',', 'Belege', 'ist nicht', 'ihr', 'Standort', 'Meter über', 'unten )', 'dpa/Fredrik', 'Rumpenhorst', 'ihn']

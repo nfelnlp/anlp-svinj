@@ -1,1 +1,0 @@
-['München', '“', 'gut', 'kurz', 'und', 'und', 'beschreiben', 'groß', '03.00', 'bei', ',', 'in', 'Haaren', 'auf', ',', 'sie', 'durch', 'Vorfall', 'südländisch', 'ca', '25', 'nach', 'auf', 'der', '.', 'liefen', 'in', 'Täters', 'Hose', '.', 'Mann', 'hatte', 'blau-weißen', 'auf']

@@ -1,1 +1,0 @@
-['Aalen-Crailsheim', 'Eine', 'Vergewaltigung', 'das', ', hat', 'gelernt', 'sich', '03:45', 'gibt', 'befinden', 'in', 'Frauen', 'dem', '.', 'der', 'Frau', 'flüchten', 'Uhr', 'Belästigungen', 'weibliche', 'des', '.', 'fest', 'des', 'Lüneburgerin', 'in', 'den', 'Frankfurt', 'ca', '185', 'kurzgeschnittenen', 'dunklen', 'Mann', 'Aue ermittelt nach', 'stieg', 'davonfuhr']

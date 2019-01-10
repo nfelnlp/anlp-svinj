@@ -1,1 +1,0 @@
-['. Derzeit', 'haben 40 Prozent', 'von', 'US-Regierung', ',', 'spδter', 'US-Bildungsministerium', ',', 'von', 'um', 'gφnnte', 'sondern', 'mit', ',', '\x96', 'haben', 'auch', '26.000', 'deutschen', 'entstanden', 'dabei', 'explodieren', 'weitere Bleiplatte ,', 'eine Erholung von dieser', 'muί', 'Prof. Dr.', 'Das', 'Billionen', 'and']

@@ -1,1 +1,0 @@
-['Van der Bellen', 'Hofer (', 'Images', '–', 'das', 'Bellen', 'und nicht der', 'österreichischen', 'wurde .', 'im Amt', 'war', 'Situation', 'ist', 'das', 'Stammwählerpotenzial', 'der', '( europäische', 'gibt', 'den', ',', 'auch', 'das Wesen', 'Stichwahl .', ')', 'weil er', 'Grüner', 'die', 'Norbert', 'Diese', 'Unendlichkeit (', '.', 'jedenfalls', '.', 'jetzt']

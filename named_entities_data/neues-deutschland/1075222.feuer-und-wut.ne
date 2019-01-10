@@ -1,1 +1,0 @@
-['später', 'eigenen Angaben', 'Mitarbeitern und', 'vorab', ',', '2017 eine', 'jedoch verlangte', '50 Millionen', 'Siegesnachricht', 'einen schockierten', 'langsam', 'Treffen', 'Material über', 'liefern', 'Bannon macht', ',', 'ohne', 'mehrfach', 'In', 'auch', 'der', 'dies', 'wie der', '.', '«', 'Pressesprecherin Sarah', 'Als er gefeuert', 'ist', 'geschickt']

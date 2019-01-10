@@ -1,1 +1,0 @@
-['London', 'Irak-Krieg', 'angeblicher', 'in das', 'wurde festgenommen', ', ein', 'mit', 'verhört', 'Medien', ',', 'the', ') . Außerdem', 'Saddam', 'Volk', 'keine Kurden', 'Saddam', 'seine', 'Regierungsgeschäfte', 'vor', 'Schreibzeug', 'deswegen', 'im', 'Ortschaft', 'Saddams', 'bieten', 'Diese', 'andere', 'dem', 'vom', 'nur', 'CIA-Führung', '„Jasagern', 'zu', 'gestürzt', 'habe']

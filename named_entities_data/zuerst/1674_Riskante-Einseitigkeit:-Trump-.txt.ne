@@ -1,1 +1,0 @@
-['Riad', 'sich', '.', 'geführte', 'als', 'Art regionaler', 'seine', 'seiner', 'sein Land in', 'Dollar', 'Saudi-Arabien', '”', 'Rex', 'Rex Tillerson .', 'Kurz- und', 'Munition', 'Konflikte', '(', ')']

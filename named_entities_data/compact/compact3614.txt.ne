@@ -1,1 +1,0 @@
-['täten', 'Springers', 'erwarten', 'See', 'idealisierenden', 'kollektiven Aufklärungsdrang', 'anderes', 'Projekte', 'posthum', 'Snowden', 'garantieren', 'page for license', 'so nun', 'noch eine', 'sollen…', 'Wenn', 'die']

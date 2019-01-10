@@ -1,1 +1,0 @@
-['Brüssel', 'ausdrücklich', 'hatte', 'im Europaparlament', 'EVP', ',', '.', ',', 'im Europaparlament', 'von', 'Rußland', 'jüngste', 'ein', 'Putin-Partei', 'unterzeichnet', 'National', 'sogar', 'Finanzierung', 'der', 'dürfte', 'gibt', 'der', 'gemeinsam mit', 'Liberalen (', 'auf', 'und', ',']

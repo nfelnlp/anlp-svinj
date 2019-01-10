@@ -1,1 +1,0 @@
-['Monika Ebeling', 'Goslar', 'jetzt eigentlich', 'Debatte darüber ist', 'gar', ',', 'ausfüllen', 'sehr', 'Will', 'zu zeigen', 'dass die', 'und der', 'aus', 'von', 'sind', '. with', 'die man in', 'Land', 'scheint . Vielleicht', 'vergangenen', 'Gewalt', 'weibli\xadche Opfer', 'müssen aber', 'anscheinend', 'im Mai', 'Kita', 'habe']

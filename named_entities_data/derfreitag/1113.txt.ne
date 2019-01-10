@@ -1,1 +1,0 @@
-['Angela', 'als', 'für', 'umherreist', 'schon', 'als gebe', ',', 'neun', 'behacken sie sich', 'das', ',', 'soziale', 'der', 'zerschlagen', 'sind', 'politischen', 'ergänzt', 'Politisch', 'Zeit', 'in', 'Milliarden Euro', 'Pleite', 'Unternehmen', 'und Zentralbanken', 'Dynamik', '.', 'ersten', 'haben', 'der', 'Treppenwitz allerdings besteht', '.', 'Als']

@@ -1,1 +1,0 @@
-['Gesellschaft 2 Berlin', 'Berlin', 'Salafisten', 'Berlin', 'Syrien-Irak', 'sein', 'Hälfte', 'den', '.', 'PKK )', 'Behörden', 'es', 'etwa', 'erst', 'gewesen', 'tw']

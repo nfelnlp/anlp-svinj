@@ -1,1 +1,0 @@
-['präsentieren', 'Skipis ,', 'als', 'ein', ':', '4.1', 'Stand', 'der', ',', ',', 'Dimitrios Kisoudis und', 'Gauland .', 'erscheint', 'die Buchversion', '„Acta diurna', 'mit Mencken stellte', 'will', 'er werde', 'Wörtchen', 'Antaios', 'zu', 'werden', 'Hauptwerke ; auf', 'ist völlig', 'linksgescheitelten', 'widerspräche', 'Überfall']

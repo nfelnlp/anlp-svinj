@@ -1,1 +1,0 @@
-['Krefeld', 'Bockum', 'sie', 'die', '.', 'werden', 'Merkels', 'Körperverletzung', 'Stuttgart', 'kurz nach', 'ein', 'auffällige', 'Am', 'worden', 'statt', ',', 'Der', 'Teint', 'Celle', 'auf', 'nach Hause', 'in', 'vermutlich', 'Herkunft', 'sei', 'Senden', 'nach', 'den', 'einem', 'Zeugen', 'Parkgelände', '.', 'Täter', 'wie', ': 30', ', südländisches Erscheinungsbild']

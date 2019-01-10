@@ -1,1 +1,0 @@
-['Unerträgliches', '(', '.', '. In', 'geschlechtertechnisch']

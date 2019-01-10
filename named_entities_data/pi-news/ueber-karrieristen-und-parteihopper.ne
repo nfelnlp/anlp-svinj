@@ -1,1 +1,0 @@
-['Nadine Hoffmann', 'Brüssel', 'Deutschland', 'AfD', 'Oskar Helmerich', 'Bernd Luckes', 'einzutreten', 'jetzt', 'SPD ,', ',', 'ins', 'Helmerich gemerkt', 'im', 'inzwischen', 'geht', 'ausgegrenzt werden', 'der', 'findet sich eine', 'Ausländerwahlrecht', '.', 'sind', 'nur', '.', 'immerhin']

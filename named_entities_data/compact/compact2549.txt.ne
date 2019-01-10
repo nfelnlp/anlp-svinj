@@ -1,1 +1,0 @@
-['Sachsen-Anhalt & #', '“ , titelte', 'Wahlsonntag', 'politischen Wende in', '_von', ',', ',', '. Allmählich oder', 'war', 'werden', 'ganzen Abend', 'Euphorie sprach', 'den wunden', 'einzuziehen', ',', 'einmal auf', 'zwischen', 'und patriotisch', '’', 'Berichterstattung gegenüber der', 'sondern', 'zum', 'die Möglichkeit', 'Genauso wie']

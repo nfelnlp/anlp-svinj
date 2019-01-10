@@ -1,1 +1,0 @@
-[',', 'Meuthen in', 'Hübner )', 'das', 'hin', ',', 'in', 'Anspielung', 'den nordkoreanischen Diktator .', 'Einigkeit', 'Wahlkampf', 'an den', 'ohne', '„Realos', 'Meuthen', 'selbst', 'von', 'Feinden', 'der', 'und', 'untadeliger bürgerlicher', 'diese', 'abweisend die', 'notwendig', ',']

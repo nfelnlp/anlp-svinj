@@ -1,1 +1,0 @@
-['Dortmund', 'von', 'übrigens', 'war', 'einem', 'Bekannten', 'gewesen', 'als', 'Aufenthaltserlaubnis', 'in Ruhe zu', 'ihr', 'alt', 'Das', 'Berufskraftfahrer arbeitet', 'die', 'frühen', 'Weg', 'Frau', 'die', 'Hochtouren', 'Deutsch', 'Uhr', 'Vorfall', '.', 'ein ähnliches', 'schlank', 'Er', 'und', 'Opfers', 'Schal', ',', 'Gesäß', 'und', '64-Jährigen', 'mit', 'Mann', '180', 'Haare']

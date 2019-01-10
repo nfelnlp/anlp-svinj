@@ -1,1 +1,0 @@
-['Lederhose Union', 'Bayern', 'Johannes Hartl', 'Bayern', 'Bayern', 'CSU-Kabinett verstreichen', 'CSU-Kabinett verstreichen ,', 'zunehmend', 'und', 'beispielsweise', '5G-Forschung']

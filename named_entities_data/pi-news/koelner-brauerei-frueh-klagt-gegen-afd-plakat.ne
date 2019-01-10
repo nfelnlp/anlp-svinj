@@ -1,1 +1,0 @@
-['Parker', '.', 'wurde', 'anfangs', 'wie', 'ließ', 'sieht', 'nach', 'wurde']

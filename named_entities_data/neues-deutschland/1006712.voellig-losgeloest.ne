@@ -1,1 +1,0 @@
-['Julia Macher', 'Barcelona', 'Müsli', 'Banken', 'Piquete']

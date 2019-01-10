@@ -1,1 +1,0 @@
-['Dietrich Mateschitz', 'Graz', ',', 'mit', 'ausradiert', 'Timmermans', 'mache hoffentlich', 'nur ich', '“ Mateschitz kritisierte', 'schon aus', 'ist', ',', ', sollte', 'Leser', 'Schwertner', 'diese', '(', ') Dieser', 'Sie', 'des Deutschen']

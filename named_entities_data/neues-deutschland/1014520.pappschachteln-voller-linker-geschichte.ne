@@ -1,1 +1,0 @@
-['Conne', 'Peter Nowak', 'Berlin', 'Deutschland', 'Bacia', 'Arbeitsbegriff', 'Cornelia']

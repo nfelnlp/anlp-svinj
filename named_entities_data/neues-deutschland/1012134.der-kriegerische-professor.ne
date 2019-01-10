@@ -1,1 +1,0 @@
-['SDS', 'Halle', 'Bundeswehr', 'NATO', 'Max Zeising', 'Universität Halle', 'Bundeswehr', 'NATO', 'Martin-Luther-Universität Halle-Wittenberg ( MLU ) gibt es', 'Martin-Luther-Universität Halle-Wittenberg ( MLU ) gibt es seit', 'der', 'Seite und', 'der', 'Beziehungen und', ',', 'Varwick', 'Varwick sind kritisch', 'den LINKEN']

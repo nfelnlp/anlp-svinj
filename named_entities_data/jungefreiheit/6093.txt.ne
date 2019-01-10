@@ -1,1 +1,0 @@
-['deutsche', 'Deutschland', 'kennen', ',', ',', "''", 'Dann', '.', 'kämpfen', "''", 'Deutsche', 'noch']

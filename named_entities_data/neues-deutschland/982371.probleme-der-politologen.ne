@@ -1,1 +1,0 @@
-['und erklärt', 'Pegida', 'diese', 'sind', '. Es orientiert', '»', 'Kritiker der']

@@ -1,1 +1,0 @@
-['Vorstoß', 'Merz', ',', 'wird', 'tun hat', 'bestenfalls eine', 'Gefecht immer', 'in', 'der', '1999 ,', 'ausdrücklich', 'europäischen', 'äußerte', 'mehr', 'Recht', 'der', 'ihre', 'bis', 'Spektrums .', 'gehört', ')', 'in ihrer', 'Konsequenz', 'macht', 'geht zuletzt immer darum', 'her', ',', ',', ',']

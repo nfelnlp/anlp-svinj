@@ -1,1 +1,0 @@
-['leiden', 'und', 'könnte', 'Hettwer Herr', 'von', 'Ende', 'keine', 'Antibiotika-resistenten', 'ohne', 'der', 'billiger', '.', 'werden', 'potentiellen', '“', 'Mindestlohn', 'Das', 'natürlich besonders', '.', 'bisschen', 'recht', 'Forderungen aus', 'nicht', 'Ich', 'Damit', 'in', 'Freihandelsabkommen', 'Agrarfabriken .']

@@ -1,1 +1,0 @@
-['Bowie', 'Images', 'mit', 'Nichts', 'im', 'feinsinnigen', 'zurückhaltenden', 'Dieser', 'vom', 'auch Bowies neues', 'The', 'liegt allerdings', 'gerieren', '.', 'erinnern', 'das', 'Day ebenso wenig', '. Stattdessen', 'Itunes']

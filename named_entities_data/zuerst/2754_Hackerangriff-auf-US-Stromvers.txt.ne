@@ -1,1 +1,0 @@
-['Washington', 'Post', 'von', 'vergangenen Freitag', '.', 'keiner Zeit gefährdet', 'Hacker-Angriffe', 'Hacker-Angriffe nutzten . Anders', 'erkennbar', 'Behörden', 'in']

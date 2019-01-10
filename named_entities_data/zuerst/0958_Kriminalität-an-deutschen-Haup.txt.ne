@@ -1,1 +1,0 @@
-['Deliktzahlen', 'Frankfurt', 'Main , München', 'Köln', 'Stuttgart', 'Berlin', ',', 'Düsseldorf', 'Berlin-Friedrichstraße', 'Berlin-Ostkreuz. “ Besonders', 'dies', 'laut', ':', '( GdP', 'der Gesellschaft', 'an', 'sagt', 'zu', 'abgezogen', 'es', '„Der', '“', ',']

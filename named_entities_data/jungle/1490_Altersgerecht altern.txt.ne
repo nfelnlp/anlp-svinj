@@ -1,1 +1,0 @@
-['Ralf Königs', 'neues Buch', 'Anzeige', 'alt und', 'was', 'ziehenden Titel', '.', 'Helden', 'eine', 'eine', 'der schwulen', 'der', 'steht', 'Sie', 'und', 'gegangen', '.', ',', '.', 'wird', 'Seniorenwandergruppe', 'wahrgenommen', 'Eine Schreckensmaske', 'Jobs finanzierten Tattoos', '.', ',', 'den', '»', 'Buch', 'eine', 'lege', 'Ein']

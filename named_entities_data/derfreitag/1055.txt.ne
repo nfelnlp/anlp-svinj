@@ -1,1 +1,0 @@
-['Jetzt', 'wo der', 'leichter', 'zu', 'Ebene', 'die', 'dienen', 'großen Teil', 'anderer', 'ein', 'Wahlberechtigten', 'Wahlgang', 'Wählerwillens', '.', 'Handlungsfähigkeit der', 'einzelnen Abgeordneten', 'müssten']

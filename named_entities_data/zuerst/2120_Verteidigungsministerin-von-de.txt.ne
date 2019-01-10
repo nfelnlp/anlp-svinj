@@ -1,1 +1,0 @@
-['Gesellschaft 1 Berlin', 'Ursula von', 'Leyen', 'CDU', 'Bundeswehr', 'Verhalten', 'das', 'Kritik', 'die', 'dem', 'zum', ',']

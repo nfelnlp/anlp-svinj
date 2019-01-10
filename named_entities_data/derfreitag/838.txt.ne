@@ -1,1 +1,0 @@
-['Harrison/Getty Images', 'Facebook-Seite', 'sozialen', 'nun', 'US-Magazin', 'ersten', 'als', '„zu', 'die', 'York', 'Ronda Rouseys Haltung', 'und']

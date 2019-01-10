@@ -1,1 +1,0 @@
-['Jürgen Elsässer', 'Der unerwartete Einzug eines', 'Höcke die', 'erobern ?', 'der Political', 'gesagt', 'sich', 'Amerikaner', 'the', 'war', ',', 'wir', 'er', 'noch', 'wählt', 'das', 'sind', ',', ',', 'Ihr', 'etwas', 'gemacht', 'verzichtet', 'seine', 'ein Mandat']

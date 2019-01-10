@@ -1,1 +1,0 @@
-['Luxemburg', 'Österreich', 'Kroatien', 'Gerichtshof', 'Dublin-Regelung', 'EU-Land', 'er', 'Klagen', '“', ',', 'unterstrich', 'der', 'Visum', 'gewesen', 'wenn', 'Ein', 'Asylbehörden', 'EuGH', 'die', '“ strom']

@@ -1,1 +1,0 @@
-['Frauenrechte', 'Zafari', 'vor zwei', 'sich', 'Interview', '- 1999', 'Anarchist', 'seines Freundes', 'zwangssterilisierten', 'das', 'Naziarzt benannten', ': Sonntag,11.30', 'Paul Wulf', ', Verlag', '( Clubraum', ') : Gewaltfreie', ') : Gewaltfreie Aktionen', 'gewaltlose Revolution', '``', 'unterdrückte Strom der Zurückweisung', 'Bürgerrechtsbewegung noch', ',', 'sich einig']

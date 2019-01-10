@@ -1,1 +1,0 @@
-['und auf', '. Von', ', Chefredakteur', 'russischen', 'Druck', 'und', '.', 'nur', 'drangsalieren', '.', 'zu', 'Teilnehmer', 'vielfältig', 'sich', 'gut und', 'ein', 'feige', 'ihre', 'insbesondere gegen', 'russischen Gäste', 'die Proteste', 'Ausschusses', 'Duma', 'Ort', 'Sarrazin', 'In', 'Angriffe auf', 'veranstaltet', 'fand', '. Um', 'gilt', ',']

@@ -1,1 +1,0 @@
-['Brüssel/Moskau', 'Die', 'Rußland', 'der', 'Rußland', 'Eskalation', 'Schadensersatz', 'WTO', 'erhoben .', 'Strafe', 'dem', '2013', 'Ursprünglich', 'Polen', 'Sanktionen', 'für', 'einen', 'der', 'Schadenersatzklage aus Brüssel', 'in', '60', 'Konsequenzen', 'als „Willkür', 'bezahlen', 'Die', 'Rußland', 'fügte', 'Wirtschaftsausschusses', 'ähnlich .', 'sind', ',', 'und', 'mü']

@@ -1,1 +1,0 @@
-['Cherry-Cherry-Lady', 'eine', 'Männersache', 'ist', ',', 'würde sich', 'anzünden und', 'die', 'Bitter', 'Bitter ist', 'aus', 'der ganzen Menschheit', 'ihrem postpubertären', '!', 'profanen Ende', 'Rache .', 'männlichen', 'aus', 'kein']

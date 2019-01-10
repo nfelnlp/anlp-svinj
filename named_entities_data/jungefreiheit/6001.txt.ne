@@ -1,1 +1,0 @@
-['der Universität', 'diese Entwicklung', 'die', 'Prozent', '68', 'hat', '2050', 'zu', ', da', 'Soziallasten verteuern', ', so', 'Weltarbeitsmarkt', 'Super-Reichen stehen', 'postproletarische', '.', 'nicht', '1999', 'der', 'der', 'Prognose nicht', 'JF', ':', 'Prater :']

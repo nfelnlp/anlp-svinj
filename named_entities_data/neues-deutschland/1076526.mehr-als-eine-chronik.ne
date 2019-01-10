@@ -1,1 +1,0 @@
-['im vergangenen', 'frühere', 'sie', 'Farid repräsentieren drei', '.', 'Ägyptens', '.', 'S.']

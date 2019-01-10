@@ -1,1 +1,0 @@
-['.', '. Ein', 'sich für die', 'engagieren', 'Nachdem', '.', 'Initiatoren wollen', '«', 'Ostseeküste', 'auf', 'guten', '.', '.', 'Berliner', 'sie', 'Züssow', 'des', '95', 'Euro', 'Finanziert', 'könnte', 'sagte', 'oftmals', 'Mit', 'Bau', 'saniert', 'Urlauber', 'auch', 'hohen']

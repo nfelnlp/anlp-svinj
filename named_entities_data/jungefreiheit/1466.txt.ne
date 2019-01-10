@@ -1,1 +1,0 @@
-['Verwaberung', '.', 'Aber', 'Wie', '.', 'habe', '.', 'ist', 'und', 'wollen', 'Neues', 'zu', 'nicht', 'Schilcher', 'nämlich', 'Herr', 'passiert', 'Sozial-', 'den', 'und', 'mehr', 'Europa', ',', 'oder der', 'Sinn', 'Öffnung', 'wird', ',', ',', 'das', 'wir', 'wir eine', 'so', "Republik '' gehört hat , das", "Republik '' gehört hat , das war"]

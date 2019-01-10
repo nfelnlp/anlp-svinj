@@ -1,1 +1,0 @@
-['Political Correctness', 'Political Correctness :', 'NachDenkSeiten .', 'unserer', 'in', 'auch als', 'zeichnen', 'und', 'ist', 'das stärkste', 'es', 'darüber', ', die', 'hier falsch', 'wie einseitig', 'Ein', 'von', 'gäbe es', 'um alle gemeinsam', 'entziehen', 'als', 'Lesetipp']

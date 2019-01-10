@@ -1,1 +1,0 @@
-['Rousseau', '/', 'Images', '.', 'Philosophen', 'im Jahre 1749 an', ',', 'Frage', 'Kunst', 'klar , welche Rolle', '“', 'tun', 'verwandt', 'Abhandlung', 'nach den Eltern', ',', 'und', 'des', 'Einspruch', '.', 'und', 'nicht', '.', 'ihm', 'Genf', 'Bodensee', 'Bauernhöfe in gehörigem', 'mit', '.', 'sein', 'in', 'Schriften', 'gleichgültig', ', ob man das', 'kommen', 'zu', 'Teilen']

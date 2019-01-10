@@ -1,1 +1,0 @@
-['Google', 'Schleswig-Holstein und Nordrhein-Westfalen', 'die der AfD', 'Frau ,', 'zur Bundestagswahl', 'homosexueller', 'jenen den', 'Selbstverständlich', 'einer rechtsorientierten', 'den', 'wird über', ', sich', 'Minderheit', 'sich', ',']

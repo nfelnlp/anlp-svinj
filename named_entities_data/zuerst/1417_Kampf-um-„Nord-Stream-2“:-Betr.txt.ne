@@ -1,1 +1,0 @@
-['Moskau', 'EU', 'USA', 'europäischen', 'unsicheren', 'Ukraine', '.', 'das Projekt', 'zu', 'Beurden', 'um dabei für', ',', 'und Wintershall', 'auf', 'Stream', 'Euro', 'geführt', 'In', 'in', 'darum', 'Kritik bei .', 'beim', 'Putin das', 'die', 'Medien', 'Stream 2', 'dem', 'Chinesen an', 'Möglichkeit', 'er', 'Kremlchef', 'gab', 'dem', 'zuversichtlich', 'habe alle', 'zu']

@@ -1,1 +1,0 @@
-['Gesellschaft', 'wird', 'und Schleswig-Holstein in', 'Jahresberichten geführt .', 'Özdemir', 'SPD-Politiker Manuela', ',', 'Barley und', '.', 'nur die', 'Politiker ,', 'auch militante', 'Spitzenpolitiker', 'bleibe solidarisch', 'die', 'ist', 'größte']

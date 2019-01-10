@@ -1,1 +1,0 @@
-['Peter Cornelius', '?', 'erläutert', ',', 'Bauer via', '?', 'eine', 'glaube', 'Auslöser', 'Was', 'umgekehrt', 'machen', 'EU', 'man sich', ',', 'niemand', 'sind', 'von', 'Belgien', 'ist', 'Dieser', 'erzählen', 'werden', '.', 'um', 'es', 'Lied', 'der', 'im', '20.000', 'ist', 'Länder', 'Er', 'verhalten', 'Frisur', 'Frisur . Es']

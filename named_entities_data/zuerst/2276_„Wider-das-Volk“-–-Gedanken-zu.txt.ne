@@ -1,1 +1,0 @@
-['NPD', 'am', 'des', ') eine deftige Klatsche', 'bekommen', 'aber', '2000 ein', 'beziehungsweise Abstammung', ', als', 'kommentierte :', 'Parteien', 'Patriotenverfolgung mit', '.', 'Welchen', 'jetzt', 'gewisse', 'es', 'man nur das', 'systemimmanenten', '! sind']

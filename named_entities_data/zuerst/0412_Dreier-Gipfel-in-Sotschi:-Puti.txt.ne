@@ -1,1 +1,0 @@
-['Sotschi', 'Präsidenten', 'Türkei', 'bekundet', 'dabei das', 'drei', 'Kämpfe', 'Ende', 'Dreiergruppe', 'sei', '.', 'betonte', ',', 'massiv', 'nützlich']

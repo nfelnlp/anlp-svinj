@@ -1,1 +1,0 @@
-['.', '. Sie', 'mehr', 'Erhöhung', 'sei die', '»']

@@ -1,1 +1,0 @@
-['/ AFP/', 'Images', '!', 'Buch teil', 'uns', 'begrüßt', 'zweiten', ',', 'eingesetzt', 'Brennnessel', 'dass', 'davon', 'Boden', 'zerstören', 'gebe']

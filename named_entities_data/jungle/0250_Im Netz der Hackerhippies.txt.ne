@@ -1,1 +1,0 @@
-['Hacker', 'heute eher', '.', 'zu', ',', 'verwirklichen', ',', 'man', 'darin finden', 'im', 'wie', 'sein', 'die', 'Der', 'sollte', 'Maschine', ') erfand', 'es heute', 'in', 'sein.', ',', 'und', 'Master', 'sie in', ',', 'Telefonnetze', 'der']

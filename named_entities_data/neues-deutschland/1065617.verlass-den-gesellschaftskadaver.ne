@@ -1,1 +1,0 @@
-['Unsichtbare', 'Buch', 'Tausende', 'Reformen', 'keine', 'die', 'es )', 'die', ',', 'einer Art', 'Machtlosigkeit', 'schlüssige', 'es vor', 'Hamburg', 'militante', 'Blöcke', 'medienwirksam', 'Frankreich', 'Macron', '.', 'jungen']

@@ -1,1 +1,0 @@
-['Stockholm/Washington', 'Das', 'in', 'den', 'Dies', 'aber', 'von', 'Nuklearsprengköpfe', 'den', 'Bombe', 'entwickeln', 'wie bei den bisherigen']

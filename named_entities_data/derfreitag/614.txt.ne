@@ -1,1 +1,0 @@
-['Snowden', 'andersen/afp/getty', 'Ich', 'ehrlich', 'habe', 'natürlich überhaupt', 'ich', 'die', 'lang', 'ersten', 'der', 'Kontakt', 'sich bei', 'mir .', 'ein Treffen', '. Ich', 'brauchte', 'ihn', 'gehandelt', '.', 'selbst', 'ihm zuweilen', 'einer', 'ein', 'Bundesregierung', ',', 'ist stellvertretendes Mitglied', 'NSA-Ausschuss']

@@ -1,1 +1,0 @@
-['Jung', 'unwohle', 'einer neuen Generation politischer', 'es', 'bei', 'Fast', 'gewann', '.', 'im', 'Die', 'wie', 'gegen', 'überschwemmt ,', '.', 'bestimmten so', 'mich', 'für', 'urplötzlich auftretende', 'an', ', allerdings', 'Notwendigkeit', 'der', 'zu', 'Zensur', 'ehemaligen', '“', 'Think-Tank-Portal „atlantic', 'amerikanischen', 'Brzezinski angehört', 'dem', 'Opposition']

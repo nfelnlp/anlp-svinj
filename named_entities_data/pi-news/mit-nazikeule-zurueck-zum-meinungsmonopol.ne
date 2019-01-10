@@ -1,1 +1,0 @@
-['Facebook', '( Foto', 'Hier', 'darum', 'Doch PewDiePie', 'hat', 'Nazizeit', 'betreffenden', 'mit', 'auf', '?', 'lästiger', 'Dreck am', 'damit', 'Mann', ',', ',', 'Demo gezeigt', 'Hitlerbärtchen beim', 'Rede “', 'einige bekannt gewordene', '.', ': Warum', 'wir']

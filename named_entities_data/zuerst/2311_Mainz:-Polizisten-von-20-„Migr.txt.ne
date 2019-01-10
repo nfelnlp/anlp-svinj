@@ -1,1 +1,0 @@
-['Gesellschaft 10 Mainz', 'Hessen', 'herbeieilenden', 'Achim Zahn', 'Hessen', '„Das', '.', 'entgegenschlägt', 'nur']

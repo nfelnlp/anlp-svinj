@@ -1,1 +1,0 @@
-['Kiew', 'Ukraine', 'NATO-Kurs', 'Viktor', 'mitgeteilt ,', 'mit NATO-Standards', 'seien', 'zeigt', ',', 'ihre', 'der', 'sein', 'zu', 'vernichtet worden', 'in den', 'das', 'durchaus', 'durchaus auch', 'Behörden', 'haben', 'diesem', 'die', '”', 'Präsident', 'Erlaß', 'hatte ,', 'Dafür']

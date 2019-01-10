@@ -1,1 +1,0 @@
-['Berlin', 'wurden', 'nur noch', 'weitere', 'sich', 'besetzt', 'Klaus', 'neue Hauptstadtregierung', 'schnell demaskieren']

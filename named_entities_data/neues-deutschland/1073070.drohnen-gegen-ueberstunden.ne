@@ -1,1 +1,0 @@
-['schottische', 'auch', 'außen zu demonstrieren', '«']

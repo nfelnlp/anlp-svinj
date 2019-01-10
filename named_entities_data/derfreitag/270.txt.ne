@@ -1,1 +1,0 @@
-['Boston-Attentat', 'twitterte am', ', sie', ',', 'die', '.', 'Twitter', 'was', 'und Notrufnummern', '24 Minuten', 'seit', ',', 'trennen']

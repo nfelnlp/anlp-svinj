@@ -1,1 +1,0 @@
-['Sean Gallup/Getty', 'Die', 'sorgte mit', 'im', 'Kranken-', 'den', '–', 'führten', 'radikalen', 'entwertet', 'Gerhard', 'an der', 'Müntefering', ',', 'Altersvorsorge', 'finanzieren', '.', ',', 'emanzipatorische', '.', ',', 'wird', 'Dierk', 'ist seit']

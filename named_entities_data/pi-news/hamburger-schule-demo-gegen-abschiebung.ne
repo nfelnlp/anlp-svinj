@@ -1,1 +1,0 @@
-['NDR-Hamburg-Journal', 'ab', 'mit', 'Familie', 'stellte', 'die', 'seiner', '. Er', '[', 'fast', 'kommen', '.', 'so', 'schwer', '.', 'rechtskräftige', 'nicht', 'adrett', 'Aufenthaltstitel für', 'ein', 'Jahre', '»', ': 040/645', ': 040/645 895-20 Mail', 'www.waldorfschule-wandsbek.de']

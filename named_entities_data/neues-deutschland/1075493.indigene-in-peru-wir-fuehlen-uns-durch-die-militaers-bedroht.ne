@@ -1,1 +1,0 @@
-['Rohstoffförderung', 'Brasilien', 'Wasserstaudämme', 'Preis erhalten']

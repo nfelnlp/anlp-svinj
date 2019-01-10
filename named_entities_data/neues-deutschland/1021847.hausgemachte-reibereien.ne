@@ -1,1 +1,0 @@
-['Das', 'am', ',', 'des BAMF', 'Dann fahre', 'Juni', 'nd «', 'Er', 'der', 'derartige', 'der', 'der', 'Hartmann', 'sei der', 'Druck', 'schon', 'weiter', 'Teil', 'Es habe', 'Neueingestellten', 'an', 'Arbeitsverhältnisse', 'das', 'Ordnungsgelder', 'Haftstrafen', 'Das', 'zwar', 'letzten', 'geändert', 'gab', 'der', 'wollte']

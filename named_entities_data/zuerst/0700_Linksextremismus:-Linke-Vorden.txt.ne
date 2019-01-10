@@ -1,1 +1,0 @@
-['Linksextremisten', 'Deutschland', 'Laquer von', 'des', 'Telefonanrufen', 'Dort heißt', 'ließ', '„Spiegel']

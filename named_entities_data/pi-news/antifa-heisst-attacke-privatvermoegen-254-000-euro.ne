@@ -1,1 +1,0 @@
-['Bank', 'Fabian „Fabi', '„Fabi', ',', '„Antifa', 'mit', 'Eltern', '.', 'Fabi', 'Großvater', 'Fabi', 'noch', '.', 'Kinderheime', ',', 'Oma', 'wird', 'Ausgaben', 'ist', 'Denkschema', 'ist', ',', ', Kampf', '.', 'Der', 'am', 'Antifaschisten aber', 'mal', 'Gestalten', 'genau ,', 'sehr', '.']

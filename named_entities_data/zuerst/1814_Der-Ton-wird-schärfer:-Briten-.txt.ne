@@ -1,1 +1,0 @@
-['Brüssel/London', 'Gerne', 'Mächten', 'die', 'Doch', 'selbst', 'nicht näher', ',', 'nicht', 'London', 'EU-Kommission', 'Großbritannien', 'versucht ,', 'versucht , die', 'glätten :', ', bei den im', 'May', '”', 'In', 'die Vorwürfe', 'Arbeit', ',', 'unsere Interessen', 'Europäischen Geschichte']

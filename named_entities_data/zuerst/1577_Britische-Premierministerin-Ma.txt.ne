@@ -1,1 +1,0 @@
-['London', 'May', 'London', 'IS', 'im', 'Aber', 'würde', ':', 'Pressekonferenz einen', 'etwa', ':']

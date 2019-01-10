@@ -1,1 +1,0 @@
-['mit', 'vermittelt', 'verdienen', 'ein', 'ihre', 'Eigentlich', 'sie', 'der', 'eine Studie', 'Die Hälfte der Befragten verdient', 'Deutschlands ,', 'Gewerkschaft', 'die ausstehenden Löhne', 'kam', ',', ', wo', 'informieren und austauschen können ,', 'Beispiel', 'über', 'arbeiten', 'gerade', 'auf', '.', 'die', 'los ist']

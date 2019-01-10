@@ -1,1 +1,0 @@
-['der', 'mit', 'Mann tat als', 'in', 'Batallion', 'Länder', 'registrieren', 'nur', 'geführt', 'und', 'Wien-Schwechat', ', die er', 'führte', '16', 'Mobiltelefone', 'Computer', 'Laut', 'soll', 'Mann', 'diskreditieren', 'riecht', 'sein könnten', 'geklärt', 'Der 24-jährige', 'dar', 'hasst', '„Das ist', 'dass']

@@ -1,1 +1,0 @@
-['. Ein', 'elf', 'Lufthansa', 'der', 'Frankfurt', 'Main', 'gestrichen . Der', 'gilt als', 'gilt als einer', 'Welt ,', 'Tausende', 'auf', 'mehr', 'Nach', 'Angaben wurde']

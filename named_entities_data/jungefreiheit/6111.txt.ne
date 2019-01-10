@@ -1,1 +1,0 @@
-['Jesaja', 'Thukydides', 'Vorsichtiges', 'dem', 'Scheuch , Helmut Schoeck', 'Hans Maier', 'und dezidiert', 'Friedrich Tenbruck', 'Helmut Schelsky', 'Joachim Günther', 'Soziologen ,', 'der FAZ', 'der', 'Autochthonen', 'kommen', 'deutschen', 'daß', 'Die Debatte', ', 1803-1812 )']

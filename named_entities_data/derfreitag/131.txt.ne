@@ -1,1 +1,0 @@
-['Iran', 'Hassan Rouhani', 'AFP', 'Getty', 'Hassan Rouhanis', 'iranischen', 'Ali Chamenei', 'Teheran', 'sogleich', 'sogleich zum', 'wird', ', als', 'als Sicherheitsberater', ', war', 'Amtsantritt', 'solcher', 'er', 'als', 'Prestige und', 'nahtlos', 'im iranisch-irakischen', 'die neuen', '.', 'angezettelten', 'des', 'die', 'ohne', 'Assad', 'stehen', 'Rouhani', 'versehen']

@@ -1,1 +1,0 @@
-['ZDF-Magazin', 'nicht bloß', 'Satire', '. (', ') Nun', 'im Halse', ', sondern', 'so', 'wandte', 'in einem', 'Kurt', 'Vorsitzenden', 'geehrter Herr Beck', 'die', '“', 'dortigen', 'Sendung der Präsident unseres', 'geistige', 'geschichtliche Bewertung', 'Sachverhalts', 'Fake-News zu', 'so einem', '–', 'die', 'Fauxpas']

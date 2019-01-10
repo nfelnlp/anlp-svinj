@@ -1,1 +1,0 @@
-['Nemec', 'und dem', ', die', 'auf', 'und', 'erreichen', 'am rechten', 'nächsten', 'antizipieren', '„Überzeugend', 'die', 'Versicherungen nicht', 'Hamburg-Mannheimer', 'Skandals', 'Mut', 'die', 'aufschlagen', 'ist', 'um einer', 'Nachdruck', '„Think', '“', 'Markt', 'Je', 'neuen']

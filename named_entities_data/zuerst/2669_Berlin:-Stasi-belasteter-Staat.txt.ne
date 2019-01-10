@@ -1,1 +1,0 @@
-['Gesellschaft 5 Berlin', 'Stasi-Mitarbeit', ') zurück', ',', 'forderte öffentlich', '.', '„Heute', 'Berlins', ', zuvorgekommen', 'Bis', 'Holms Entlassungsantrag', 'Senat', 'Der', 'in', 'angestellt war . Holm', 'Koalitionskrach', 'nicht', '.']

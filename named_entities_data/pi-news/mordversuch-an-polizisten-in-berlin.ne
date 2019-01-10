@@ -1,1 +1,0 @@
-['Polizei', 'Polizei', 'Polizei', 'Berlin', 'Friedrichshain', 'Polizei', 'Liebigstraße', 'geworfen', 'mit', 'Unterstützungskräfte wurden', ',', 'der', 'Haus', 'nicht', 'vielleicht die', 'mehr', 'sich', 'Innensenator', 'aus', ']']

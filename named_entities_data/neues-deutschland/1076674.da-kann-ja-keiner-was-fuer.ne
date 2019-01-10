@@ -1,1 +1,0 @@
-['Due', ', tönt es', 'Donnerstag', 'Barbara', 'aus', 'in Westfalen', 'einen', 'hinter', 'kann', 'sitzen', 'stärkerem', 'Meter']

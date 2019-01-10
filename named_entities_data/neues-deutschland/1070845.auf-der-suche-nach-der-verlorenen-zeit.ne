@@ -1,1 +1,0 @@
-['. Bauarbeiter', 'Baden-Württemberg', 'durch den Tunnel', 'Rahmen', '.', 'Sitzung des', 'Neubaustrecke', '-', 'in', 'zu', 'zu', 'Zusammenhang :', 'Es', 'verwies', 'überall', 'nächsten', 'dpa/nd']

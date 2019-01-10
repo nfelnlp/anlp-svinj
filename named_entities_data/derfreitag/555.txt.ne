@@ -1,1 +1,0 @@
-['UAVs', 'Jedenfalls', ', das', 'den', 'Daneben', 'einem', 'von', 'Jemen', 'Somalia', '.', 'John', 'Rede .', 'auf die', 'auf die Drohnen-Tötungsliste', 'sich', 'New', '. Mit', 'wächst', 'viele']

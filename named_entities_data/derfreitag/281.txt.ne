@@ -1,1 +1,0 @@
-['steht bei uns', 'Miss', ')', 'grassierenden', '“', 'freiwillig', 'Verteidigungsminister', 'habe', '„Mumien', '.', 'gearbeitet .', '.', 'eine', 'will', 'oder', 'wer', 'Preis', 'Mark', 'Mark (', 'ja', 'keinen', 'zum', 'Grimme-Preis', 'sollte', 'rote', 'wie', 'zu', 'so', ',', '.', 'Nachfolger', '„BRAVO', 'echt gut', 'das', 'Hinter den Herd', 'meiner', 'kopierte', 'reichte']

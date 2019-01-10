@@ -1,1 +1,0 @@
-['.', '. Bei', 'nach', 'Innenministerium', 'am Dienstag', 'die Unruhen als', 'Volk', 'Islam', 'ist', '«', 'das', 'die', 'verantwortlich . »', ',', 'stinkreichen', 'sagte', 'der', 'die']

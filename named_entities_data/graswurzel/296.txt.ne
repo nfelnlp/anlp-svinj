@@ -1,1 +1,0 @@
-['Istanbul', 'Eren Keskin', 'Türkei', 'Fatma Karakas', 'Istanbul', 'zur', 'dem', 'Polizeipräsidium', 'eine', 'der EU-Kommission', 'jüngster Reformen ohnehin', 'Kriterien', 'hinsichtlich', 'Regierung', 'Ärztinnen', 'wahlweise', '`` Verunglimpfung', 'der', 'an', 'Fatih', 'Eren Keskin', 'Eine', 'zwar']

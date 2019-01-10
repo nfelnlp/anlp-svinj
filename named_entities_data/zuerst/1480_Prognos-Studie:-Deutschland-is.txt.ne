@@ -1,1 +1,0 @@
-['Bundesrepublik Deutschland', 'bayerischen', 'und', 'Das geht', 'Jobs', 'die', '“', '620', 'Industriegüter', 'Ungarn und', 'ein', 'der', 'in', 'Berliner', 'deutsche', 'deutsche Wirtschaft', 'hier', 'Prozent der']

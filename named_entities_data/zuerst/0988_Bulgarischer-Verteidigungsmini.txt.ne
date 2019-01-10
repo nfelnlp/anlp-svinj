@@ -1,1 +1,0 @@
-['Ungarn', 'begonnen', 'seinen', '.', 'Verteidigungsminister', 'Karakatschanow jetzt', 'dazu', 'Grenzabschnitt', 'werden', 'zu', 'und', '„Flüchtlingen', 'durch', 'wurde', 'Migranten', ',', 'Italien', 'NATO', '”', 'mü', ':']

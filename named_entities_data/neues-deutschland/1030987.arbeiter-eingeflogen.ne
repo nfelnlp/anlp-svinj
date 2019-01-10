@@ -1,1 +1,0 @@
-['Selbecke', 'der', 'Automotive Systems zu', 'und Geschäftsleitung', 'Werkverträgen', ')', 'Beim', 'Dura . Arbeitsminister', '(', 'berichtete den', 'den', ',', 'Rahmen', ') gegenüber »', '«', ',']

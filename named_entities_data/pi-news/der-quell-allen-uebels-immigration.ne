@@ -1,1 +1,0 @@
-['Afrika', 'auf', 'und', ', wenn', 'mit', 'an', 'in Berlin', 'eine', 'über das Integrationsverhalten von', 'über das Integrationsverhalten von Muslimen', 'in', 'die', 'nie', 'seine', 'Politik', 'Erosion', 'Einhalt', 'stellen', 'Milliarden', 'optimistischer', ',', 'die Immigration', 'Kostenneutralität erreicht', 'angespannte', 'dem', 'er', 'ein', 'Flüchtlingspolitik']

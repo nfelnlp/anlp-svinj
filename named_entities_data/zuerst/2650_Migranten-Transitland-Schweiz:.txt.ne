@@ -1,1 +1,0 @@
-['Bern', 'Schweiz', 'Schweiz', 'Libyen', 'Italien', 'Fabrice Leggeri', 'EU-Grenzschutzbehörde', 'auch', 'zurückzunehmen', 'Jahr', 'der']

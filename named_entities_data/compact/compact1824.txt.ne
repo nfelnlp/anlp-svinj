@@ -1,1 +1,0 @@
-['Hartz', 'Hartz IV-Empfänger', 'ist', 'landen ,', 'kämpfen', 'diese Module', 'jedoch', 'nie', 'Armut', 'noch', 'oftmals', 'Zahl', 'über', 'Bildung', ',', 'Geburt', 'staatlichen']

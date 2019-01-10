@@ -1,1 +1,0 @@
-['Hart', 'Nacional de Protección', 'Nationalen', 'Facatativá', 'Gallego . Er', '.', 'Bevor er die']

@@ -1,1 +1,0 @@
-['Tino Perlick', 'seit', 'seit 2015 aktiven', 'mit', 'und', 'und Mimikry', 'benutzen einen', '.', 'Gesinnungsdikatur', ')', 'Breivik', 'islamkritische «', 'ist keine', 'Rassismus , abgelehnt', 'stattdessen', 'Fällen', '.', 'würden', 'Dennoch', 'die', 'ihnen', '. “', '«', 'wähnen', 'wähnen sich', 'völkischen', 'Sie']

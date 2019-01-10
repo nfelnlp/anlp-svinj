@@ -1,1 +1,0 @@
-['HANS S. MUNDI', 'Ureinwohner', 'allen', 'Partei rausgeflogen', 'Aber', 'kein gebürtiger', '.', 'Wind riecht', 'eindeutigen Signale', 'höchste', 'bewußte', '(', '„Ich', '.', '„Chance', 'Hände', 'Großreinemachen', 'Ein', 'Israel-Hasser', 'Alles', ',', 'ist', 'Bei', 'auf', ':', 'man mit', 'Wir', 'die', 'die', 'einen', 'haben', 'blaue', 'helle', '.', 'NOCH', '?']

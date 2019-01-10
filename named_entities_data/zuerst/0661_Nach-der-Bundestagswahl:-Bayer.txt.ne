@@ -1,1 +1,0 @@
-['München', 'CDU', 'Joachim Herrmann', 'CSU', 'heute', 'daß', '„Wir', 'können', 'nicht', ':', 'Flüchtlingszahlen stetig', 'das hat', 'nie', 'sp']

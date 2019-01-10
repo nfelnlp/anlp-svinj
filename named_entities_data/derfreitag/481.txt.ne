@@ -1,1 +1,0 @@
-['Springer-Presse', 'Getty Images', '“', 'Jahr im', 'ihre', ',', 'oder', ',']

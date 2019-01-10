@@ -1,1 +1,0 @@
-['Fischer |', 'dem', 'Fischer |', 'sich', ',', '.', 'seit', 'das', 'der', 'pixelio.de', 'Und', 'Christian', 'der', '2013er Bilderberger', 'Die', 'Vermassung der', 'Metropolis', 'Wächter', 'sie', 'Abweichler']

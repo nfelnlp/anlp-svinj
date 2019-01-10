@@ -1,1 +1,0 @@
-['Blocks', 'ihr', 'reinwirft', 'der', 'Wurzel', 'beschrieben', 'das', 'm', ',', 'noch', ',', 'Sinnfragen', 'ich', 'bei', 'weisen', 'historischer', "''", 'Augstein', 'schlechter', 'eher', 'angeblich', 'wollen doch', '.', 'immer', 'dann', 'man', 'ist', 'wird', 'liebe']

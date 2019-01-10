@@ -1,1 +1,0 @@
-['Ich', 'gern', 'der', 'Muskelpaket ?', 'So', 'nicht', ',', ',', 'gibt', 'tausende', 'privat', 'selten', 'Tempo', 'Marathonläufer', 'offenbar', 'regelmäßig über']

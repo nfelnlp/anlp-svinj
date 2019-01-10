@@ -1,1 +1,0 @@
-['ging an', 'in', 'Dorsten', 'Bielefeld', 'Gladbek', 'Münster', 'Hamm', '…', 'die', 'Cola', 'Partners ( CCEP', 'die NGG liegen in', 'in der', 'Anfang', 'die', 'rund', 'Es', 'Festbetrag ein']

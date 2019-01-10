@@ -1,1 +1,0 @@
-['John Magufuli', 'Tansania', 'John Magufuli', 'Magufuli']

@@ -1,1 +1,0 @@
-['Ukraine', 'Bernhard Clasen Ruslan Kotsaba', 'Ukraine', 'ukrainischen', 'Petro Poroschenko', 'Ruslan Kotsaba', 'Youtube', 'Allen', 'verhaftet', 'in', ',']

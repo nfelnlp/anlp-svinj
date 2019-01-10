@@ -1,1 +1,0 @@
-['Wien', 'OSZE', 'OSZE-Sonderbeauftrage', 'erklärte am', 'daß', 'IS', 'in', '„kann', 'Terrorismus', 'österreichischen', 'einen Bericht', 'die', 'laut', 'sogenannte', ',', 'Weg gemacht haben', 'im', 'Minderheiten', 'auszulöschen', 'zurück', 'andere', 'sind', 'in', 'daher']

@@ -1,1 +1,0 @@
-['Nigerias', 'Sam Olukoya and Kristin Palitza', 'Maiduguri', 'Maiduguri', 'Borno', 'Nigerias', 'Mariam Abdullahi', 'Hajara', 'Hajara', 'Nigeria']

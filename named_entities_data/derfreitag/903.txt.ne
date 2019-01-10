@@ -1,1 +1,0 @@
-['Frauke Petry', 'offen', 'Die aktuelle', 'anlässlich der', 'der Analyse der Landtagswahlen', 'in', 'Befürchtungen', '.', 'ultrakonservativen', 'Die', '„Genderismus “ könnte', '.', 'einer', 'Jahre wieder auferstehen würden .', 'die']

@@ -1,1 +1,0 @@
-['Weinstein', 'Spencer Platt/Getty', 'Die', ': Die', 'gefeuert', 'gefeuert ,', 'Guild', 'angekündigt – vorher soll', ',', 'weil', ',', 'der Dinge', 'womöglich', 'geahndet', '.', 'spielen', '.']

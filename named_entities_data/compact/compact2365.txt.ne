@@ -1,1 +1,0 @@
-['Sudden', 'Deutschland', 'Fußballeuropameister', 'Oliver Bierhoff', 'Oder', 'die', 'eine', 'die', '80.000', 'was', 'Moscheen', 'häufig', 'alle', 'schon', 'schießt', 'alternative']

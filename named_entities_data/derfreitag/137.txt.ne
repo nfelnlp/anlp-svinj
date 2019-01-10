@@ -1,1 +1,0 @@
-['Wilson Foto :', 'Wilson Google unterteilt seine', 'Sie', 'Andrew', 'selbst für ein', 'bei Google gearbeitet', '“', '?', 'Ich', 'an', 'noch', 'nur', 'Thema', 'Mayer', 'danach ging', 'zeitgenössisch', ',', 'zeige', 'in', 'Scans', 'andere', 'Google', 'und', 'bewusst', 'Positionen', 'Aber eigentlich werden', 'Seiten von', 'zu', 'Projects', '18.30']

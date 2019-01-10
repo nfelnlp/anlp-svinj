@@ -1,1 +1,0 @@
-['CANTALOOP', 'und', 'und Warnungen', 'wollen', '“ der Gesellschaft', 'raumgreifende', 'und alsbald', 'In']

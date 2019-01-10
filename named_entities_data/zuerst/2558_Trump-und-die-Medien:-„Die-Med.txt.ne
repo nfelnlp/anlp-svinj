@@ -1,1 +1,0 @@
-['Washington', 'US-Administration und', 'Bannon', 'scharf an', 'Fox News-Interview', 'US-Medien', 'York', 'haben immer noch nicht', 'warum', 'halten', 'politischen Gegner begreife', 'politischen Gegner begreife .', 'seid', 'sagte', '„Nicht', 'Die', 'sind', 'wiesen', 'empört', 'kündigten unterdessen', 'und']

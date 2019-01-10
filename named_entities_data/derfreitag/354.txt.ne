@@ -1,1 +1,0 @@
-['Dylan hat', 'nicht', 'nötig', 'das', 'an', 'und', 'es gewissermaßen', 'Tisch', 'nämlich in', '.', 'Einschätzung kultureller', 'kein', 'und', 'Härtegrad', 'Härtegrad und', 'haben', 'Lesevorgang', 'Homesick', 'Publikum', 'ein', 'gewissen Sinn', 'Antwort', 'ein', 'Dichter', 'es kaum', '„Slow', '„Lovesick', 'den', ',', 'ein', 'literarischen', 'fragte', '.']

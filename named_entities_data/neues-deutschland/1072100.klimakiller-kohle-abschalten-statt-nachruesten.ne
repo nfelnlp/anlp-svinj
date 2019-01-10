@@ -1,1 +1,0 @@
-['mehr', 'den', 'vor .', 'die', 'ab', 'der', 'dieses', 'in', 'gesetzt', 'die', 'Kosten', 'bis', '.', 'eine', 'verfügen', ':', ',', 'und', '.', 'Der', 'Klimavertrag', 'Vorschriften', 'Luftreinhaltung', 'praktisch', 'erfüllt', 'die Abschaltung', 'falsch', 'ließ', 'zuständige Bundesumweltministerium Mitte', '-', 'des Bonner Klimagipfels', 'Nachfrage', 'ließ', 'das', 'Offenbar']

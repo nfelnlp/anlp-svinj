@@ -1,1 +1,0 @@
-['viele', 'Kreis', ') . Der Fahrer', 'Zollverwaltung in', 'stellvertretender Leiter der', 'Mitarbeiter', 'so', 'Tariflohn', 'bezieht', 'für', 'Anklage', 'Unregelmäßigkeiten und veranlassten', 'Schwerin', 'In', 'Schwerpunktaktionen wie']

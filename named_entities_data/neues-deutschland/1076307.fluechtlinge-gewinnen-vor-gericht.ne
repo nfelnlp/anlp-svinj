@@ -1,1 +1,0 @@
-['.', '. Flüchtlinge', 'der', '( LINKE', ',']

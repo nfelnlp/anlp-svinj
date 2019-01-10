@@ -1,1 +1,0 @@
-['keineswegs der', 'ihrer Social-Media-Plattform . Es', 'Produkt', 'York bis', ':', 'Staaten auf', 'den', 'lδngst', 'anhaltende', ', warnte', 'Lembke', 'ein', 'Untersuchungen', 'Dδmpfer', '2020', 'Entwicklung', 'das', 'Geschδftsraum vom', 'Forschungsinstitut', 'online ,', 'wird dabei', 'ihrem', 'in', 'beweisen']

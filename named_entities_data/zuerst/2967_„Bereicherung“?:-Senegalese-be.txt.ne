@@ -1,1 +1,0 @@
-['Gesellschaft 9 München', 'Bundespolizei']

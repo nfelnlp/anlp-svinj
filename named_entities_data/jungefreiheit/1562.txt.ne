@@ -1,1 +1,0 @@
-["''", 'Nehmen', 'jungen', 'in', 'Musik', ', Uniformen', 'Fremdenlegion', 'Es war', ', zu', ':', 'ist', 'hergeholt sind', 'Hierarchien ,', 'für die', 'zum', 'und Selbsthaß', 'des', 'militärisches', 'Träger', 'jede', 'Helden', 'spiegelt :', 'Alles', 'Wirklichkeit', 'Denis abgebildete', '\x96', 'kann', 'ein', 'auf', 'legt und']

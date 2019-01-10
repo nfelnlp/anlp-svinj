@@ -1,1 +1,0 @@
-['Budapest', '„Radio Kossuth', 'Ministerpräsident', 'Orbán jetzt', '. Dieser', '.', 'nun', ':', 'anderem', 'Europäische', 'ausgeübt ,', 'könne', 'Maschinerie', 'Orbán', '“', 'an', 'soll', 'wir']

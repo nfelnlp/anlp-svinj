@@ -1,1 +1,0 @@
-['*Achselzuck*', '8', ': Sechshundertachzigtausend', 'Hamas', 'Al-Qadia', '„anderen', '„anderen “', 'niemand', 'ist', ', die', 'man', 'den', 'seitenlange', 'die', 'geshrugged', '. Elf', 'Wie gut', 'übrigens', '.', 'Daten']

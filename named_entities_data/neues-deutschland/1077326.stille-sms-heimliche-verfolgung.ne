@@ -1,1 +1,0 @@
-['die', '. » Durch', 'Geheimdiensten', ')', 'Fahndungsmethode', 'den', 'digitale', 'dürften', 'digitalen', 'dass', 'zur', 'Medienbericht', '2017', 'Abhören']

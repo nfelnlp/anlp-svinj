@@ -1,1 +1,0 @@
-['Dalian/Peking', 'Das', ',', 'Dalian', 'Medienberichten', 'soll', 'Ukraine', 'Träger', 'modernisiert', 'gestellt', 'laut', 'den', 'einen ausführlichen Bericht zu', 'bis', ',', 'den derzeit', 'angekündigt']

@@ -1,1 +1,0 @@
-['Ursula von', 'Leyen', 'Sean Gallup/', 'Getty', '„Dann', 'ihrer Parteikollegin', 'von', 'Sonntagabend zukommen', ',', 'Frauenquote', '. Dieser', 'liefert', ', gehört', 'mit der', ',', 'die', 'dem', 'wie', '„wech “', 'wird , steht dahin']

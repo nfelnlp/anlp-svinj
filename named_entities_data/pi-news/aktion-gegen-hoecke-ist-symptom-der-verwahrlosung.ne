@@ -1,1 +1,0 @@
-['Höcke und', '(', 'mit', 'seiner Familie', 'wie', 'Ausstellungsräumen', 'Konsequenz', '3:15 –', 'Hübner', '“ (']

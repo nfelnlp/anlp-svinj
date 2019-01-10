@@ -1,1 +1,0 @@
-['Calais', 'Calais', 'und', ',', 'sie', 'sie seien', 'Attacken', 'Richard', 'wird', 'wird nun', 'Medien dazu', 'Behörde', 'Vehicle Crime', ',', 'sich auf Kfz-Kriminalität spezialisiert', ',', ', daß', 'Oktober', 'Jahres', 'aus']

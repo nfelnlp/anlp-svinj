@@ -1,1 +1,0 @@
-['CDU', 'Parteipflicht', 'geben', '.', 'aufschlagen', 'Obergrenze', 'dass', 'steht', '2015', 'Satz', 'englische', 'haben', 'ungeheuerliche', 'sowie', 'Denn', 'eine', 'selbst', 'Variante', '„Umsiedlung', 'im', 'als', 'Dazu', '“', '.', 'und', 'betreiben', '.', 'völlig', 'Wählern', ',', 'als', '„polemisch', 'und', '63', 'die', 'bekannt']

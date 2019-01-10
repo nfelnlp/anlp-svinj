@@ -1,1 +1,0 @@
-[',', 'und', 'unternahm', 'in', 'gegen', 'verweigerte', 'ohne', 'gewünscht', 'aus', 'getan', 'mit', '.', '.', '(', ')', 'Oberleutnanten', '.', 'Straftat', 'er', 'des', ',', '.', 'mehr', ',']

@@ -1,1 +1,0 @@
-['Großbritannien', 'Birmingham-Attentäter', 'ihre', 'lassen', 'ausgetauscht', 'ist', 'mehr', 'zu']

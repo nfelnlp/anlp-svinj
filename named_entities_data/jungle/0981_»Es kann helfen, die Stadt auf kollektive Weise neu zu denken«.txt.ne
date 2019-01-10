@@ -1,1 +1,0 @@
-['Mexiko-Stadt am 19', 'im', 'im Stadtzentrum', ',', 'den', 'zehn', 'zahlen', 'noch', ',', 'Menschen', 'Wochen haben sich', 'Vielfalt', 'mit', 'die Hauptstadt', 'zu den', '.', 'hat bisher nicht', 'beim Wiederaufbau der', 'des', 'philanthropisches', 'wie', 'für einen', 'meiden', 'dem Erdbeben mein']

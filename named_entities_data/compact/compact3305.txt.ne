@@ -1,1 +1,0 @@
-['Swantje Köhler', 'Hamburg', 'Deutschlands', 'das', 'sie', 'taten', 'gute', ', durch ihren', 'Einfluss', 'Bildungsverständnis .', '.', ',', 'laut', 'G9', 'der', 'rauben', 'unsere', 'ihr', ',', 'wieder', 'G9', 'in', 'eine Wahlfreiheit zwischen', 'führte', 'erwägt', 'Wahlfreiheit zum G9', 'anderen Bundesländern allen', 'geben']

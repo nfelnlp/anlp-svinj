@@ -1,1 +1,0 @@
-['Peking', 'China', 'Lanka formell', 'im', '.', 'mehr', 'vertritt', '„Perlenkette', 'die', 'geopolitische', 'verpachtet', 'der', 'Souveränität', 'Souveränität über das', 'der', 'Südostasien', 'derzeit', ',', 'Bangladesch', 'Für', 'Jahre', 'Im', '2017', 'Dschibuti', ')']

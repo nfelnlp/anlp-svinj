@@ -1,1 +1,0 @@
-['Gesellschaft 4 Berlin', 'Akmann ,', 'Geisel (', ')', 'von', 'Zelle', 'Gewalt', ',', 'der', 'in', '„Wir haben']

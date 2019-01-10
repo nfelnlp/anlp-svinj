@@ -1,1 +1,0 @@
-['Brüssel', 'EU', 'die', 'lediglich', 'junge', 'bekräftigte', 'Zusammenhang', 'der', 'die', 'müsse erst', 'Großbritanniens', 'er', 'Politiker gerne', 'der', 'werden', 'nach', 'Ausscheiden', 'der', 'Ukraine', 'geändert', 'und', 'rund']

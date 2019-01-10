@@ -1,1 +1,0 @@
-['Teheran/Brüssel', 'Darüber', 'Today', 'Ausmaßes', 'der', 'Konkret', 'und', 'mangelnder', 'kritisiert', 'Postverpackungen', 'Drogenhandel', 'iranischen', 'reagiert hat']

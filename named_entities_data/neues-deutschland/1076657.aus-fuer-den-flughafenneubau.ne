@@ -1,1 +1,0 @@
-['Nantes ist', 'aufgegeben', '.', 'sind', ', auf der', 'der aus', 'Befürworter', 'Innenminister Gérard Collomb vor allem', 'jahrelange Blockade', 'der', 'Euro', 'Abfindung verhandelt', 'und', 'und bekämpft', 'und', 'dass sein', 'innenpolitische Niederlage', '»', 'der', 'und der', '.', '. Danach']

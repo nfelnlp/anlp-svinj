@@ -1,1 +1,0 @@
-['Schwarz', 'Oetinger', 'Astrid Lindgrens', 'Otfried Preuяlers', 'LangstrumpfУ', 'wogte', 'Man', 'Natьrlich', 'daя', 'George Orwells Roman', 'denn', 'etwa seine', 'die', ',', ', die', ',', 'quasi', 'Preuяler sind', 'davon geprдgt', 'Hцren', 'Erwachsenen', 'worden', 'bevor', ', denn', 'am', 'des', 'und Pдdagogik', 'Mьnchen', '(', ':', 'bis', 'ДSchablonenhafte', 'ausmacht .']

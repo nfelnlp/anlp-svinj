@@ -1,1 +1,0 @@
-['Simon Strauß', 'Simon Strauß', 'Hieronymus Cock. ,', 'Strauß zu', 'Weimer berichtet', 'ganz', 'seinem', 'verblüffend', 'sich', 'also', 'romantische', 'Gehör', 'Antworten', 'Leute', ':', 'wir', 'Ein', 'Vergangenheitsbezug', 'sich derzeit', 'der', 'die Torstens und', 'als', 'an', 'Kubitschek', 'Hadern', ', den', 'bot und', 'war', 'noch', 'Feuilleton', ', die', ':']

@@ -1,1 +1,0 @@
-['von', 'Tragödien', 'gibt', 'zur', 'Manche', 'als eine', 'haben', 'Aufmotzen', 'antidemokratischen', '(', ')', 'extremistischen Teilen', 'sich', "Volk ''", 'Konservativen', '``', 'aber', 'daß', 'ersetzt', 'Fall daran']

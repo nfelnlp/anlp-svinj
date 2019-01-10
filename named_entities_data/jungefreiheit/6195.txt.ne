@@ -1,1 +1,0 @@
-['daß', ',', 'sehen', 'Bundesgerichtshof hatte', 'gegensätzlichen', 'in', 'fremde', 'Ehrlichkeit', ',', 'seiner Emeritierung Inhaber', 'Staats- und', 'an', '1971 Mitglied des Institut de Droit', ': Justitia : Die', 'dann , wenn']

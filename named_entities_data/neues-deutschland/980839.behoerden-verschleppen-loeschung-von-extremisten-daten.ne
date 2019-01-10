@@ -1,1 +1,0 @@
-['. Während', 'BKA erst', 'Aufforderung', 'zur']

@@ -1,1 +1,0 @@
-['Mitte', ', die', ',', 'Tatsächlich', 'Vertrag', 'um', 'über', '.', 'der', 'die', ',', 'ist']

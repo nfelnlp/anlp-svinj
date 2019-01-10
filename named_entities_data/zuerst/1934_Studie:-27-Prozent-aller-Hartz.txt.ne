@@ -1,1 +1,0 @@
-['Bundesrepublik Deutschland', 'am', 'Inzwischen', 'Ausgaben für', 'nicht', 'Bundesrepublik', 'die', 'beschäftigt sind', 'der', '.']

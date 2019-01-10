@@ -1,1 +1,0 @@
-['Stefan Zeitz/Imago', 'überfälligen Gesetzentwurf', 'Und', 'Gesetzentwurf', 'wird', 'Luft', 'Kern', 'Sturm laufen']

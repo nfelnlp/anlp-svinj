@@ -1,1 +1,0 @@
-['Nelli', 'Journalist', 'hat in', 'die', 'der', 'der türkische', 'AKP )', 'alle', 'schon']

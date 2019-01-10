@@ -1,1 +1,0 @@
-['Berlin/Moskau', 'Seit', 'im', 'Krim', '“ .', 'diese', 'Westen', 'Studien', 'und', 'sorgt', 'Dem Bericht', 'Frappierende', '“', 'ob', 'ob sie', ',', 'sagten', 'als', 'Ukraine', 'in', 'Krim-Bürger', 'außerdem', 'zufrieden', 'friedlich', 'Putin', '(']

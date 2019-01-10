@@ -1,1 +1,0 @@
-['Ziguinchor', 'rund', '.', 'es', 'der', 'übernommen', 'seit', 'Nach']

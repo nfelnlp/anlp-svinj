@@ -1,1 +1,0 @@
-['Musikindustrie', 'jammern Jörg Augsburg', 'Helene Fischer', 'Ronny Hartmann/AFP/Getty', 'Patrick', 'war mal', 'war mal Gründer und', 'heißesten Indielabel', '.', 'von Universal', 'größten Konzern ,', 'einen', 'allem', 'mal', 'Musikmesse', 'Geschäftsberichte', 'er', '.', 'wenn', 'und', 'umgesetzt', 'sehr', 'war es', 'Fakten', 'Absicht']

@@ -1,1 +1,0 @@
-['Merkel', 'Jetzt', 'Deutschlandtag', 'in Dresden', 'auf', 'aus', '( NRW', 'an', 'zwar', 'Raute', 'zu', 'lauter', 'Nur , macht', 'in', 'aus', 'konservativen', 'CDU', ',', 'der Redetext', ', Sie', 'Wahlkampf zu', 'bei dieser', 'das schlechteste', 'verstehen', 'am', 'frage ich', ', die', ', die auch', 'ist', ':', 'sagen', 'zu', 'können']

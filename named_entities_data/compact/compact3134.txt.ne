@@ -1,1 +1,0 @@
-['Eggert Die', 'französischen', 'unter', ', dass nachträglich', 'deutschen', ',', '.', 'zwar', '„vermutlich', ',', 'Reisegeschwindigkeit bis', ',', 'sagte', 'bestätigen', 'dabei', 'Behörden', '–', 'Box', 'Bewertung', 'stehenden Geräusche', 'in', 'nicht', ',', 'Folgt', 'oder', '37.975', 'ihrem', 'Zwischen']

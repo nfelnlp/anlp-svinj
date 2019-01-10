@@ -1,1 +1,0 @@
-['.', '. Ein', 'selbstverwaltetes', 'Polizei', 'des', '.', 'Erst', '. Die', 'Angriff', 'und', 'dieser']

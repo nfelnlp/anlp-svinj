@@ -1,1 +1,0 @@
-['London', 'kündigte vor', 'weiterhin', 'aktiv', ',', 'jetzt in', 'erläuterte die', 'die', 'Plan', '„Seit', 'das', 'das ein', 'das ein langfristiges', 'den Hauch', 'Insofern', 'unumwunden', '„Weil', 'eines', 'zu', 'rechtswidrig.', 'Das']

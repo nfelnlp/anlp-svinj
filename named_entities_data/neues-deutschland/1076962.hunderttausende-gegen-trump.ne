@@ -1,1 +1,0 @@
-['. Ein', 'gegen die', 'kritisierten', 'protestierten am', 'gab die', 'Chicago', 'Denver', 'Boston', 'anderen', ', aber', 'dpa/nd']

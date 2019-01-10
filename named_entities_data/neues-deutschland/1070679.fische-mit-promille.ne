@@ -1,1 +1,0 @@
-['.', '. Der', 'Kreis', ') ist mit zwei', 'Jahre', 'sprach von']

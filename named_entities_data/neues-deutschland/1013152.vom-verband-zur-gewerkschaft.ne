@@ -1,1 +1,0 @@
-['Metall', 'ver.di', 'Jörg Meyer', 'DGB-Familie', '150', 'Jahre', 'die', '.', 'Deren', 'mehreren Gewerkschaften', 'Druck', 'fünf', 'grober', 'ist .', 'von']

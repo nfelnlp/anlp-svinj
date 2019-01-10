@@ -1,1 +1,0 @@
-['Kiew', 'und', 'in', '.', 'Wirtschaft', 'Ukraine verlor', '.', 'in', 'erhöhte', 'Eurostat', 'Ukraine', '14', 'Euro', 'aus', 'nur', '%', 'ukrainische', 'von', 'auf', 'Stimmen', 'sei', 'kleinen', 'gibt', 'Freihandelsabkommen', 'und', 'verringern', 'mü']

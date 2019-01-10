@@ -1,1 +1,0 @@
-['Washington', 'geltende', 'Stephen', 'das Weiße', 'Sarah', 'bekanntgegeben ,', 'John', 'darauf geeinigt', 'Schritt', '„in', '”', 'rechte', 'sich', 'Trumps', 'Hinzu', 'gilt gemeinsam', 'Miller', '-Strategie', 'strikt anti-globalistisch', 'Auch daß', 'Trumps Umfeld']

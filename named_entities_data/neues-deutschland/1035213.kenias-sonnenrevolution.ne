@@ -1,1 +1,0 @@
-['Annan', 'dass die', 'gegenüber dem', '.', '» Die', 'bei', 'einmal', 'Afrika', 'für', '.', 'scheint', 'Eine', 'neue', 'gekoppelt', 'Adnan Z.', 'Kenianer alles über ihr', 'die', 'Haushalte', 'der Energiemärkte', 'African Business']

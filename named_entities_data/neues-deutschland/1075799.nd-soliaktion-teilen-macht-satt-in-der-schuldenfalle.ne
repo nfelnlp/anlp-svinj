@@ -1,1 +1,0 @@
-['lange', 'Kreditschulden bei', 'aufgenommen hat ,', '- haben', 'ihre', 'zwar', 'dass', 'eine', 'importiert', '.']

@@ -1,1 +1,0 @@
-['London', 'London', '” und', 'Verständnis', 'Verständnis : Salman', ',', 'fördert weder', 'gegen Homosexualität', ',', ',', 'Khan', 'in', 'ersten Mal', ')']

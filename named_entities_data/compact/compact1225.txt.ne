@@ -1,1 +1,0 @@
-['hatte', 'aber', 'auf', 'Doch', 'bestehen', 'überlegen', 'nicht', 'ihrer', '“', 'erklärt ,', 'der ARD', '.', '.', '. Es']

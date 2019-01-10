@@ -1,1 +1,0 @@
-['Hartmut Grebe', 'USA', '_von Hartmut Grebe', 'USA', 'FAA', '.', 'Flugschüler im', 'dass', 'wenn', 'Pflichtseminare', 'Pflichtseminare für Fluglehrer', 'einschätzbar ist', 'Reaktionen', 'und', 'sehr', 'erreichen', 'nicht', 'mir', 'Ton ( den', 'denn', 'Meine', 'cross', 'wenn', ',', 'die', '.', 'tatsächlich', '(', 'bedeutet', 'Pazifik', 'vorbeigeflogen', '.', 'ihre']

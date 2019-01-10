@@ -1,1 +1,0 @@
-['Der Held', 'nicht', 'Mitherausgeberin der', 'die Eleganz', 'als dysfunktional', ', was', 'größte Projekt', 'und', 'dazu äußern', 'dazu äußern .', 'Die', 'Die Förderung eines', '.', '.', 'Arbeitsräume', 'Sag alles ab']

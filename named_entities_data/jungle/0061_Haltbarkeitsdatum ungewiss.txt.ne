@@ -1,1 +1,0 @@
-['slowenischen Ljubljana', 'slowenischen', 'Ljubljana', 'Dewitz', 'In', 'sowohl', 'sowie', 'der', 'Nutzerinnen', 'Militärgefängnis', 'zu', '. Er', 'ist', '»', ',', 'war in', 'junge', 'Vertreter', 'erhalten ,', 'uns', 'erst', 'Iluminirana', '( 1964', 'ist schon', 'Rog aktiv', '» Ohranimo', '»', 'Ort.']

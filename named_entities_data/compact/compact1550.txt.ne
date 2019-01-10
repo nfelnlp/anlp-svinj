@@ -1,1 +1,0 @@
-['Gut', 'welche', 'vorhersagen soll', '«', 'der', ',', 'der entwickelte Algorithmus der']

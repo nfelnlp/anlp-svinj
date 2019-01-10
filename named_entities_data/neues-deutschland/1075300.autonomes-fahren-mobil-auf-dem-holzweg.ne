@@ -1,1 +1,0 @@
-['Imperiale Automobilität', 'den', 'Wirtschaft', 'bemerkt', 'produziert', 'Drittel', 'von', 'globalen', 'USA', 'durch', 'die', 'Fluchtursachen in', ')', 'müsste', 'Deutschland', 'Europa', 'eine', 'von', 'mit dem', 'Export-', 'hin', 'Berlin . Sein', 'Unsterblichkeit', 'den', 'in', 'Elektro-', '-', 'Lücke', 'des', 'Diskussion', ',', 'Lärm']

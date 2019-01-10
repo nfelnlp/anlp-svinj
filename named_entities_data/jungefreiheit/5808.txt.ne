@@ -1,1 +1,0 @@
-['Nord', 'Vereinten Nationen', 'UN-Jahres', 'und er meinte', ',', 'Lebenslagen', 'besteht', 'allem', 'Echo-Deuter', 'von', 'den', 'speziell der Tragödienmusik', 'gemieteten', 'Schiff', 'gesprungen war', 'und', 'die', '. Der', 'zugesetzt', 'daß', 'Vorkommen']

@@ -1,1 +1,0 @@
-['Real', '–', 'zu', 'progammiert ,', 'es', 'Walden', 'die']

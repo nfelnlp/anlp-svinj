@@ -1,1 +1,0 @@
-['Schweiz', 'Europa', 'Ozeaniens', 'Australien', 'Neuseeland', 'wie eh', ',', 'Proleten', '-', 'übersehen ... .']

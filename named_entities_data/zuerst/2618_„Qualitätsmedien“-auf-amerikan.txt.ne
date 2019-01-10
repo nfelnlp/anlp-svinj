@@ -1,1 +1,0 @@
-['Washington', '„Qualitätsmedien', ':', 'vorwerfen', 'Trump am', 'die', 'seine', 'schockiert', 'Trump-Gegnern', '„Durchgeknallten', 'seiner', 'Pressekonferenz', 'vor', ':', 'gemeint']

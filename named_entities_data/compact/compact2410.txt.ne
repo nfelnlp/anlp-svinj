@@ -1,1 +1,0 @@
-['Rico Albrecht', 'Merkels Einwanderungspolitik zusammenfassen', 'und', 'schlagartig', '113', 'die', '.', 'und', 'Gesellschaft', '.', 'in', 'demokratischen Zustimmung des', 'Verwerfungen', 'damit', 'Ein', 'Umsiedlung', 'hätten', 'Krieg', 'Frauen', '„Wer illegal']

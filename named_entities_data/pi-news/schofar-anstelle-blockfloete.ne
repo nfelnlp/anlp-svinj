@@ -1,1 +1,0 @@
-['RENATE', 'Weihnachtsmärkten', 'Deutschland', '“', 'womit', 'zeigen', 'die', 'vor', 'September 2015', 'geantwortet :', 'Islam', 'beim', 'das', 'es', '.', 'Blockflöten', 'wir', 'der', '„Und', 'wir', 'der', 'die', 'Gottes', 'Der', 'des', 'kein', 'gegen', ':', '2', 'zu']

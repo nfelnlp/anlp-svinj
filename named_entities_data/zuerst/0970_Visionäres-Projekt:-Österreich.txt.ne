@@ -1,1 +1,0 @@
-['Wien', 'Jörg Leichtfried', 'SPD', 'Österreich', 'Kaschau', 'China', 'Slowakei', 'Österreich', 'Preßburg', '–', 'Slowakei', 'Leichtfried', 'für', 'gelte', 'erklärte', 'Minister', 'ob']

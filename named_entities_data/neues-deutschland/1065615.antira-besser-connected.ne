@@ -1,1 +1,0 @@
-['zu', 'und deutsche', 'mehr', ', will das ändern .', '»', '-Credo', 'würfeln', 'migrantische Communities in', 'Workshop', 'Aktivistin', 'Rosa-Luxemburg-Stiftung veröffentlichten Broschüre', 'regelrecht besessen', 'regelrecht besessen waren', 'regelrecht besessen waren von dieser']

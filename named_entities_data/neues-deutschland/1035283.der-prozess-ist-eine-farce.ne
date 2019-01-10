@@ -1,1 +1,0 @@
-['.', 'dem', 'gegen', 'des', 'Das', 'Das Verfahren', 'Unterstützerkreis nennt', 'die', 'Unterstützung']

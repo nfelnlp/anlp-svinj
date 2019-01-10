@@ -1,1 +1,0 @@
-['Barcelona', 'Spanien', 'Mallorca', 'Barcelona', 'Sprüh-Graffitis', '.', 'auf', 'Vermummte hätten', 'Gefährt', 'später', '.', 'ab 2018 gegen']

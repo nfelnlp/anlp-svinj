@@ -1,1 +1,0 @@
-['Warschau', 'Polen', 'ungarische', 'Orbán', 'polnische', 'Andrzej Duda', 'Parlament', 'Duda', 'laut', 'ablehne', 'Volksentscheid', 'Referendum', 'Ungarn', 'die', 'von', 'erklärte', ',', 'Quoten', 'irgendein', 'Mehrheit', 'ab']

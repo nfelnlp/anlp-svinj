@@ -1,1 +1,0 @@
-['Duschgel', 'in', 'hat die', 'in der', 'die', 'darunter', 'den', 'andere von', 'Procter', 'dem', 'Konzern PT Torabika', 'Diese', 'allein auf den', 'verantwortlich', 'von Greenpeace', 'Greenpeace Philippinen', 'die Tütchen', 'dass', 'und', 'Meeressäugetiere', 'Plastik', 'Ursache', 'Müll', 'verstopften', 'der', 'weg. «']

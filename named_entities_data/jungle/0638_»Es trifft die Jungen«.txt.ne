@@ -1,1 +1,0 @@
-['Butterwegge', 'Christoph Butterwegge', 'Carl Melchers', 'Butterwegge', 'Universität Köln', 'Partei » Die', 'Grünen', '\xaderneut', 'in der', 'Großen Koalition', 'Betriebsrente', 'entwickeln', 'die', 'die', 'Milliardär ,', '.', 'kontrollieren ,', 'der', 'Europa', 'vermeiden', 'von', 'auf 41,7', 'Qualifikationsschutzes', 'noch']

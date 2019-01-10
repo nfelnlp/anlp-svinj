@@ -1,1 +1,0 @@
-['Moskau/Berlin', 'Laut', '(', ')', 'AHK', 'über', '. Die', '2014', 'beteiligt', 'Kritiker', '.', 'mich', 'Nord', 'werden']

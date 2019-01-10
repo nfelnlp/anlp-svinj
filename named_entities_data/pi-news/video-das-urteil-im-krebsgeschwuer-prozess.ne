@@ -1,1 +1,0 @@
-['München', '“ unter', 'Stürzenberger )', 'Nürnberg Auszüge', ',', 'frauenfeindlichen', 'Gefahr', 'sei', 'Um', 'gab', 'Meinung', 'Religion', 'Zusammenhang', 'Angeklagten', 'aus der', '58/85 )', ',Beschimpfens “', 'Betrachtung fordert', 'Norm ,', 'Norm , dem', 'keinen', 'der', 'auf', 'Unerheblich', 'verlässt', 'die', 'noch']

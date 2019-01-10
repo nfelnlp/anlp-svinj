@@ -1,1 +1,0 @@
-['Von', 'mit', 'Radiosendung', ',', 'die Frage', 'sind', 'Bewusstsein', 'vor .', 'der', 'Äußerungen nicht', 'gebe', 'Beschluss', 'ver.di zur', 'beschäftigt', 'erklärt', ',', 'und', 'Verbände']

@@ -1,1 +1,0 @@
-['Staat', 'zu', 'zur', 'Dresden', '„Propagandablättchen', 'Herunterspielen', 'Gefahr', 'meint das nicht', '„Bild', 'Universitäten', 'verstehen.', 'kalifornische', 'Ungläubigen', 'fordert', 'Die', 'trieft und', 'der', 'der Prophet', ',', 'Libyen', 'der', 'schützen', ',', 'das', 'nun', 'in', 'im', 'warten', 'das']

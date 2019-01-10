@@ -1,1 +1,0 @@
-['Berlin/Peking', 'Erstmals', 'der', 'den', 'Das', 'wichtigster Partner', 'noch', 'ausgebaut', '.', 'wie', '.', 'war', 'Staaten Währungsmanipulationen', 'Gegenmaßnahmen', 'gebracht', '(']

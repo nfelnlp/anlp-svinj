@@ -1,1 +1,0 @@
-['will', '.', 'gepflastert', 'Bräth', 'Zeitschrift eine', 'Bräth', 'der', 'für', 'Sitzungen im', '1973 auf', 'Der kleine Herausgeberkreis', 'Name', 'in einer', 'BRD', 'Redaktionsräume', '. Kein Wunder', 'Josef', 'Terrorregime', 'Chile . Ein', 'keine', 'Luminoso', 'dem', 'der', 'Lateinamerikas', '« Will', 'andere', '.', 'die', 'einmal', 'LN . » Denn']

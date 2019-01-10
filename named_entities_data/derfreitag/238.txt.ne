@@ -1,1 +1,0 @@
-['Marius', 'Lekfeldt/', 'Getty', 'Warum', '?', 'und', 'und', 'ist', ',', '.', 'die Giraffe', 'weil', 'Euro', 'nun', 'sollte', 'Netz', 'Tod', 'manchmal', 'die Bild-Zeitung', 'Volk', 'Grundlage', 'zu', 'ist', 'Blutend', 'Ob', 'Das', ', eben', ', sie', 'in denen']

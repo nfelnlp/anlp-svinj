@@ -1,1 +1,0 @@
-['Die', 'schrieb vergangene', 'in', 'dem', 'Einblick «', '»', 'sich ›Opfer‹', 'der Zeit', 'metoo sogar', ',', ', queere', ')', 'ist ,', 'größeres Problem', 'machen', ',', 'Gruppen', 'von', ') ,', ', »', '« der', 'größeren']

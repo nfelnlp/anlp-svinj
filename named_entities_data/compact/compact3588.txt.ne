@@ -1,1 +1,0 @@
-['Politischen', 'konsterniert', 'Frank Schirrmacher', 'NSA-Skandal', ', der', 'gerade', 'Merkel', 'Merkel heute steht', 'hat in', 'im', 'Egal', 'man', 'Nach', 'einfache', 'Verfügung', 'der', 'das', 'Mannes', 'es', 'Nationalsozialismus', 'assoziieren', 'neuartiger']

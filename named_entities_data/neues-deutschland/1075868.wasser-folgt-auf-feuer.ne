@@ -1,1 +1,0 @@
-['. Erst', 'mindestens', '.', 'hatten bis', 'Boden', 'ein', 'Mädchen', 'weggerissen', 'in', 'NBC', 'ich', ',', '. Mehrere', 'Dutzend Menschen', 'Dutzend Menschen würden', 'gerannt und', 'Bett', 'quasi', 'Regenfälle waren', 'Bundesstaats', 'mehr .', 'überschwemmten', 'überschwemmten Region', 'kein Fluss .']

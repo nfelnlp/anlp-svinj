@@ -1,1 +1,0 @@
-['Sebastian Edathy', 'Christian Noll', 'Verden', 'Koerner/AFP/Getty', 'Am', 'endete', 'stellte', '.', ',', 'des', 'Das', 'Prozess', 'des', 'eindeutige', 'es', 'empfangen', ',', 'beharrt', 'zu', 'innenpolitischen Sprecher', 'Informationen vom ehemaligen', 'dem', 'der SPD', 'Oppermann', 'streiten', 'Darstellung ab', 'vor', 'Strafvereitelung', 'Edathy nicht', 'als', 'Viel']

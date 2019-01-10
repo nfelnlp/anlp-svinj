@@ -1,1 +1,0 @@
-['Washington', 'noch', 'sich', 'Immerhin', 'davon', 'Unter', 'Europäer', '.', 'in', 'mit', 'am', 'harten Durchgreifen', 'eine Rückkehr', 'hatte Trump im']

@@ -1,1 +1,0 @@
-['. Bundeslandwirtschaftsminister', 'Schmidt ( CSU', 'hält', 'gut', 'Zeitungen', 'Jetzt', 'verhindern', 'Die', '»', ',', 'etwa', 'ist', ',', 'Hygienemaßnahmen', 'desto', 'Länder', 'gemeinsam mit', 'Berlin', 'Thema', 'Bedingungen', 'den Jägern', 'werden', '(', '000 Wildschweine geschossen', ',', 'Anstrengung beim Kampf', 'sollten aufgehoben und']

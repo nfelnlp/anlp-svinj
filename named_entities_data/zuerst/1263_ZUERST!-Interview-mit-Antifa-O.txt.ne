@@ -1,1 +1,0 @@
-['Gesellschaft', 'Sven Lohse', 'Aukrug', 'Antifa', 'Lohse', 'für Veranstaltungen zur', 'Schwarzen', ', der', ',', 'eine', 'In', 'Das', 'nicht', 'Brut', 'Ihnen']

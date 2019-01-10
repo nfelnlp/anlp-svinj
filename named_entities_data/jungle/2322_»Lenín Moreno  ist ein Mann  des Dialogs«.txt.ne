@@ -1,1 +1,0 @@
-['Joaquín Vásquez', 'Lenín Moreno', 'Joaquín Vásquez', 'Interview', 'und Besitzer', 'neuer Präsident', 'sieht die', 'die Verteilung', 'Die', 'sind', 'Landkonflikte', ',', 'eine', 'eine', 'Bei den', 'es hat', 'Mann des', 'zu', 'der', 'Dialogs', 'auch', 'der', '.', 'sich', 'muss', ',']

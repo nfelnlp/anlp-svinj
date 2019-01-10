@@ -1,1 +1,0 @@
-['Paris', 'hat sich', 'gemacht', '–', 'der', '.', 'ihrerseits', 'selbst', 'unterziehen', 'töten ,', 'töten , da', 'um', 'verschieben']

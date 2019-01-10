@@ -1,1 +1,0 @@
-['. Die', 'Pronold ( SPD', 'am', 'Auftakt', 'Europäischen', 'Wege', 'von', 'würden wertvolle', 'gesetzlich verpflichtet werden', 'ökologischen', 'Abfall', 'doppelt', '?', 'teilen', 'doch', 'anderen']

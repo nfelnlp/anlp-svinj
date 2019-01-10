@@ -1,1 +1,0 @@
-['Gesellschaft', 'Weißenburg', 'Linken-Stadtrat', 'die', 'ihn', 'sich', 'nur', 'Stadt-', 'Staub']

@@ -1,1 +1,0 @@
-['in ihrem Essay ``', 'der', 'das', 'Rassenhygiene im', '`` lebenswert', 'zelluläre']

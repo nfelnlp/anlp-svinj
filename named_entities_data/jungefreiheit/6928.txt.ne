@@ -1,1 +1,0 @@
-['Mooresche Gesetz', 'Moore', 'aus', 'Wissens', 'die', 'daß', 'können', 'Man', 'vergessen', 'ihrer', 'kommen', 'wäre', '.', 'das', 'Die Fortschritte bei', 'Gen-Sequenzierung etwa steigern', 'dort', 'ebenso', 'haben', 'gezüchtet', 'die', '?', 'nicht', 'daß', 'daß uns', 'zur', '.', 'wir vom Öl']

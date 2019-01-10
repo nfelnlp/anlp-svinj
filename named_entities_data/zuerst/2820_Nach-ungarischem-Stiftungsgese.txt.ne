@@ -1,1 +1,0 @@
-['Gesellschaft 0 Wien/Budapest', 'Ein', 'der jetzt komplett', 'Das', 'um', 'Anfang 2016', ', bei', 'sich', 'soll', 'Otto-Habsburg-Archiv', 'wie es', 'wie es jetzt', 'Regierung', 'eigenes Gesetz', 'eigenes Gesetz erließ', 'eigenes Gesetz erließ . Damit', 'wissenschaftlich']

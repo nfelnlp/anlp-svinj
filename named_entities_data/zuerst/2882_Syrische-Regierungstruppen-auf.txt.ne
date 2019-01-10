@@ -1,1 +1,0 @@
-['Moskau/Damaskus', 'Kremlchef', 'hat nach', 'die', 'der', ',', 'Schritt', 'verhandeln', 'Gespräch', 'Das', 'am', 'Vonseiten', 'sogenannten „Opposition', 'Signale', 'Verhandlungsbereitschaft', 'der', 'nächsten', 'zu', 'auch', 'nun', 'nun', 'nun durch', 'wurden bereits aufgabewillige', 'der', 'von', 'ihrer', 'Aufständischen', 'nun']

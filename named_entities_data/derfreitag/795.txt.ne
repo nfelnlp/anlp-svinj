@@ -1,1 +1,0 @@
-['Francois Hollandes Liebesleben', 'Valérie Trierweiler', '/ Getty', 'Das', 'war', 'Normalo ,', 'Viele', ',', 'Royal', 'mit', 'Strauss-Kahn', '.', 'nun', 'neue', 'will', 'zweifeln', '?', '„Wir erwarten', 'führen', 'bei der']

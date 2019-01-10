@@ -1,1 +1,0 @@
-['ALSTER', 'bis', 'Deutsche tötete', 'Männer', 'Laudationen über', '„Ungläubigen', 'wollen', 'tapfere Eingreifen', 'den Hintergrund', 'von', 'die', ',', ',', 'Ehrung', 'auseinander und verwies', 'eine Religion der Barmherzigkeit', 'und', 'friedliche Prediger', 'Meter', 'Sure', 'Fake-Aussagen', 'in der']

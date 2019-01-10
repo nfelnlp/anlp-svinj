@@ -1,1 +1,0 @@
-['Moskau', 'Rußland', '.', 'Matthias', 'der AHK', 'ist', 'aber', 'sie', '2016', 'gesamten', 'fiel', ')']

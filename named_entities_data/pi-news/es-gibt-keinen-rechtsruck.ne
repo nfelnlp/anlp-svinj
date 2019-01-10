@@ -1,1 +1,0 @@
-['eine Leitkultur', '? Ein', 'schon', 'dazu', ',', 'waren', 'ist', 'eine', 'des', '!', 'dagegen', 'die', 'begründet', ')', '.', 'mobilisieren', '?', 'längst', ',']

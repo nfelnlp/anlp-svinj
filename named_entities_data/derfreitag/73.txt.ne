@@ -1,1 +1,0 @@
-['Images Dass', 'Flüchtende', 'Mittelmeer', 'Dass', 'Seit', 'geben', 'Iraner', '. Am', 'führt die', ',', 'die durch', ',', 'sich der', 'er', 'Tod', 'kleine', 'Misshandlungen', 'griechische', 'versucht', 'zu', 'Zeiten', 'wie']

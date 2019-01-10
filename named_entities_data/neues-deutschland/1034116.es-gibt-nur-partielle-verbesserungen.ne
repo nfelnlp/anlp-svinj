@@ -1,1 +1,0 @@
-['Daniel Hawkins', 'EU', 'Kolumbien', 'EU-Botschafterin', '.', 'und Kolumbien', 'In', 'wo', 'wollte', 'sehr']

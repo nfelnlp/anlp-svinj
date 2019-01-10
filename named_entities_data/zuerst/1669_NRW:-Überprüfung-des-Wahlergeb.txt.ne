@@ -1,1 +1,0 @@
-['Düsseldorf', 'Nordrhein-Westfalen ( 14', '„Rheinischen', 'sollen', ')', '7,6 Prozent der', 'das', ') bei der', 'zulasten einer politisch', ',', 'habe']

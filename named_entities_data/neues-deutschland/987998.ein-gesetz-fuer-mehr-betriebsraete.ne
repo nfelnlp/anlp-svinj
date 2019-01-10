@@ -1,1 +1,0 @@
-['Linkspartei', 'Jörg Meyer', 'Betriebsräten', 'Burger King', 'Schlecker', 'LIDL', 'Grüne', 'LINKE', 'Bu ...']

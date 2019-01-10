@@ -1,1 +1,0 @@
-['Ottawa', 'Kanada', 'demonstrativ als', 'mit', 'Druck', '– nicht', 'Osten', 'sondern', 'wegen', 'ursprünglich', 'nun', 'Schon', 'sich', 'mit', ',', '700', 'des interreligiösen', 'die', ': „Menschen', 'Ministerpräsident', 'neue', '.', '„verfolgt', 'erklärte', ',', 'Grenzschutz mehr', '.']

@@ -1,1 +1,0 @@
-['Kaltblütig', 'mehreren', 'Zeugen', 'Dexheimer ist', 'Geschäftsstelle', 'er', 'Flüchtlinge', '.', 'völlig zu Unrecht', 'etwas', 'Ich', 'der', 'sie', 'Sprichwort', 'das', 'in der Verfassung', 'aber darf', 'Exekution', 'noch', 'dominant. “ Das', 'sie', 'erlebt ,', 'Flucht', 'auf', 'Porsche und', 'übergeben bekommen', 'aber', 'sieht', 'Zeit', 'tausend']

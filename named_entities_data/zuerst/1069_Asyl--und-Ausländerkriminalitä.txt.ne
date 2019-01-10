@@ -1,1 +1,0 @@
-['Gesellschaft', 'Deutschland', '.', 'Dabei', 'Barcelona', 'B.', 'B. festnehmen , der', 'ermordet', 'soll', 'des', 'betrunkene', 'Eritreer', '.', '. Zunächst sprach', 'bevor er', 'dem']

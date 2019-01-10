@@ -1,1 +1,0 @@
-['Muslim-Brüder', '/ AFP', 'der', 'Land', 'und', 'mit ihm verbündete', 'Februar 2011', 'Generäle', 'Die', ',', 'ein Repräsentant des', 'hat', '.', '.', 'einem', 'Obersten', 'extrem', 'Kulissen', 'zivilen', 'den', 'Shafiqs', 'vorwarfen ,', 'zementieren', 'Möglichkeit', 'auf', 'repräsentiere', 'Kandidaten', 'die', 'Jemanden', 'El-Baradei', 'signalisieren', 'wird . Die']

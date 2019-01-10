@@ -1,1 +1,0 @@
-['JÖRG B .', 'gibt', 'noch', '.', 'Land', 'GEZ', 'der']

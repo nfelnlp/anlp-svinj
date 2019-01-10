@@ -1,1 +1,0 @@
-['die', 'im', 'Sekler-Grenzjäger-Bataillons', 'offizielle', 'der Katastrophe', 'Bellö', 'Festvortrag', 'der']

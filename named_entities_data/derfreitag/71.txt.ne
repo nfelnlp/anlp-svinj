@@ -1,1 +1,0 @@
-['der Fastenzeit', 'den', 'Vegetariern', 'Dabei gäbe', 'zu', 'sahnetriefende', ',', 'Schwere', 'Restaurants', 'es', 'Sie', 'Läden', 'den', 'während', 'an', 'verzehrt', ',', '„auf die Hand', 'höchstens', 'der', 'exotische', 'der', 'geblieben', 'Tatsächlich', 'darin', 'anderem ,', 'Vereiterungen', 'er', '„für', 'ein', 'Menschen', 'sein', 'schmackhaft']

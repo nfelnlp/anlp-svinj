@@ -1,1 +1,0 @@
-['für viele', 'verschiedener', 'geradezu', 'davon', 'sich']

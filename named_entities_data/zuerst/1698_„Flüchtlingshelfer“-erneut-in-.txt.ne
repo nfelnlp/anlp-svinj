@@ -1,1 +1,0 @@
-['Brüssel', 'schwere', 'Griechenland .', 'Fälle', 'näher', 'Die', 'der', ', wenn', 'Verletzung', 'zutagegefördert', 'in den', 'Italien', 'In']

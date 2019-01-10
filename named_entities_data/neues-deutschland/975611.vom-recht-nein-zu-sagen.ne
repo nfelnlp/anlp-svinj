@@ -1,1 +1,0 @@
-['alle', 'informierte per E-Mail', 'informierte per E-Mail ,', 'erste', 'verhalten', 'Zu', 'von']

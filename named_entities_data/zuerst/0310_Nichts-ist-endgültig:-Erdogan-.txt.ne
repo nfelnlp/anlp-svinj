@@ -1,1 +1,0 @@
-['Athen', 'türkische', 'Erdogan', 'Griechenland', 'Lausanne', 'Erdogan', 'Athen', 'Prokopis Pavlopoulos', 'Griechenland', 'Pavlopoulos', 'Europäischen Union', 'forderte eine', 'in', 'Für', 'zudem', 'hohen', 'Freiheiten', 'gerecht', 'in', 'hatte', 'der', 'dicht vor', 'türkischen']

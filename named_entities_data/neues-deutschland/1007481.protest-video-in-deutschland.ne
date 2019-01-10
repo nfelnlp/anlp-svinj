@@ -1,1 +1,0 @@
-['gab es', '2004', '»', '» Freundeskreis', 'eine', '»', 'und', 'aus', '»', '«', 'Die', 'aus', '.', 'Leftvision «']

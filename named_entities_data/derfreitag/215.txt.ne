@@ -1,1 +1,0 @@
-['Peking', 'Mike Clarke/AFP/Getty', 'Noch', 'wenigen', 'Ausgehviertel', 'weiß', 'welchen', 'dem', 'schon', 'Rauchverbot', 'beigebracht ,', 'viel', 'Tobacco', 'dem auch die Zentralregierung']

@@ -1,1 +1,0 @@
-['Klagenfurt', 'Klagenfurt', 'österreichischen Freiheitlichen Parteichef', 'österreichischen Freiheitlichen Parteichef Heinz-Christian Strache mit einem', 'Akzente', 'Bogen', 'und', '”', 'Umgang', '”', 'hingegen', '.', 'der', 'aus', 'noch', '”', 'fragte', 'seinem', '2013', ')']

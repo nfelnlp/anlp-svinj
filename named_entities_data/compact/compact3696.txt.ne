@@ -1,1 +1,0 @@
-['könnte', 'Weise', 'Asyl', 'sich jedenfalls', 'Mit anderen', 'wie Jebsen', 'In', 'Souveränität', '»', 'Produkte', 'inoffiziellen', 'eng', 'Jetzt', 'fatal', 'philosophische', 'noch einen', 'das Brief- und', 'Burgherr alter', 'von «', 'Schmitt', 'gesellschaftliches Klima', 'auf', 'Medienmacher und', 'Zaun', 'anderen Seite', 'Sekunden', 'die', 'und', 'erst am']

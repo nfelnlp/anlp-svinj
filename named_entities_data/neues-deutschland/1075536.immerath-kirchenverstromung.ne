@@ -1,1 +1,0 @@
-['Greenpeace-Kletterer', 'an', ',', '.', 'Ausflug', 'Pfarrer', 'am', 'nicht', 'und alle', 'aus der', 'Antworten', 'Ina', 'besonderen', 'Schöpfung', 'Lob', 'dann', 'durchkreuzen', 'dringen', 'der', '.', '.']

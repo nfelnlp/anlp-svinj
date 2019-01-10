@@ -1,1 +1,0 @@
-['Robert Zions', 'Zion', 'in seiner', '(', 'umgekehrt die', 'ist', 'die', 'Befürwortern', 'oder', 'weiß']

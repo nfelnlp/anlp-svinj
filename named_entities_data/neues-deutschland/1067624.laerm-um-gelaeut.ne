@@ -1,1 +1,0 @@
-['sich', 'Der', 'fühlt sich', 'Die', 'gepachtet']

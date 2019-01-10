@@ -1,1 +1,0 @@
-['Parlament selbst', 'umstrittenen Handlungen', 'Reform', 'am Donnerstag', 'führenden', 'um', 'zum', 'und Sozialausgaben', 'sie', 'Frist', 'planen', 'Senats', 'die']

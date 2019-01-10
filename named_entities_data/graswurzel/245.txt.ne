@@ -1,1 +1,0 @@
-['repressive', 'BRD', 'hat dankenswerter', 'die', 'werden', 'oder', 'eher', 'kann ,', 'auf', 'stößt', 'kaum', 'Erziehung', 'von', 'neuen Möglichkeiten', 'sein', 'Luzie Morgenster']

@@ -1,1 +1,0 @@
-['Rom', 'Katalonien', 'Spanien', 'italienische', 'italienische Lega', 'italienische Lega Nord', 'Norditalien', 'Nord erstmals', 'mausern', 'konkurrierenden', 'künftig', 'künftig auf', 'künftig auf dem', 'Laut', 'soll die', 'verstärkt', 'Bisher', 'bleiben', 'bleiben eine', 'ein', 'den Regionen', 'über', 'Millionen']

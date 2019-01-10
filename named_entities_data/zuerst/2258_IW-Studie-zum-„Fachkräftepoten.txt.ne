@@ -1,1 +1,0 @@
-['Köln', 'deutschen', '„ein', 'noch', 'über', '17', '19', 'Asyl-Ansturm', 'Ausländern', '„Für']

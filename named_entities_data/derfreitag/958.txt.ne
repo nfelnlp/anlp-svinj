@@ -1,1 +1,0 @@
-['die', 'es', 'richtig', 'Ley', ') ,', ',', 'die', ',', 'nachts', 'Zivilisten', ',', 'Film', 'geht es', '45', 'Selbstmordanschlag', 'sich', 'im', 'im Film', 'der', 'Matthias Brandt', 'den Zeugen', 'sondern', 'voller Männer-Sprüche']

@@ -1,1 +1,0 @@
-['Piel , Sie', 'Warum', 'Habeck schon', 'Kandidaten ,', 'haben', 'und', ',', 'Jetzt', 'Jahren mit', 'müssen', 'kriegen', 'das', ', um', 'geredet .', 'schließen', 'und', 'den', 'Umbau', 'Piel ,', 'Piel , Grünen-Fraktionschefin', 'niedersächsischen Landtag', 'in Sachen', 'von', 'Groko-Sondierer', '.']

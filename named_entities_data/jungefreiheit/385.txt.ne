@@ -1,1 +1,0 @@
-['so', 'konnten . Seit', 'Studenten', 'mit', 'diese', 'kann', 'Daß', 'Studentenschaften', 'Bundesverwaltungsgericht', 'erkannt', 'Trotzdem']

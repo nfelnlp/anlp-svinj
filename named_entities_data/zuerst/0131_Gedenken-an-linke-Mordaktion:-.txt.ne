@@ -1,1 +1,0 @@
-['Rom', 'Rom italienische', 'italienischen', '-Morde', 'an der', 'CPI )', 'auf', 'Januar', 'hatten', 'als', 'ihr Hauptquartier', 'Tradition', 'Mussolini', '. Mit', ',']

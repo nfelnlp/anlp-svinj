@@ -1,1 +1,0 @@
-['Rom', 'behauptete sich', 'größten', 'größten am Urnengang', '’', '.', 'Wind des', 'weht', 'Renato', 'Städten Allianzen', 'der Lega', 'Matteo', 'ein', 'PD )', 'Ex-Premier Matteo', 'Enttäuschung nicht', '” ,', 'Juni']

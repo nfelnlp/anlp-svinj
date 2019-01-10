@@ -1,1 +1,0 @@
-['GWR', 'lebt', 'erwünscht', '1 . Januar', 'uns', 'wird', ',', 'mangels', 'Leute', 'umgekehrt', 'und', 'uns', 'Menschen', 'unterstützen']

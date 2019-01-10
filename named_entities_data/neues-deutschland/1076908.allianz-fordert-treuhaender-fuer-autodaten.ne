@@ -1,1 +1,0 @@
-['.', '. Nach', ', Chef', 'Deutschland', 'mit', 'dass', 'ist', '.']

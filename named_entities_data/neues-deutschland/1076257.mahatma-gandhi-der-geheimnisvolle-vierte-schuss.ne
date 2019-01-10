@@ -1,1 +1,0 @@
-['Mahatma Gandhi', 'Delhi', 'Karamchand', 'Mahatma « Gandhi', 'Indien', 'Mahatma Gandhi', 'indischen', 'Delhi säumten', 'Gandhi', 'Punjab', 'Bengalen', 'Gandhi', ', der', '( BJP', 'Modi', 'am', ', der', 'Ingenieur', 'eingereicht hat', 'in', 'im', 'Damit', 'der', 'in der', '. Selbst', 'seine', ',', '( unter']

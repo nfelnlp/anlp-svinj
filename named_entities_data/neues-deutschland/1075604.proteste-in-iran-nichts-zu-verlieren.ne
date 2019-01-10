@@ -1,1 +1,0 @@
-['Das', 'Iran', 'NWRI', 'Verfügung', 'konnte', 'Straße', 'Khamenei', 'Zum ersten Mal', '2009', 'ein', 'sie', 'doch', 'Regierung einen massiven', 'Sie', '»', 'dieses', 'Art', 'aufregend', 'sich', 'wünscht', 'erschossen']

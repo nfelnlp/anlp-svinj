@@ -1,1 +1,0 @@
-['Munkaila', 'Europa', 'Tamale', 'African Development Organisation for Migration', 'Munkaila', 'Martin Ling', 'Angela Merkel', 'Ghana', 'Europa', 'Ghana']

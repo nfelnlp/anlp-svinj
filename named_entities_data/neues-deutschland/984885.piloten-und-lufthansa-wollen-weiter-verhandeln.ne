@@ -1,1 +1,0 @@
-['am', 'am Main . Verhandeln statt', 'VC', 'Lufthansa', 'am', 'einem', 'streiken', 'Lufthansa Cargo und Germanwings', 'die', 'nach', 'gemeinsame', 'dpa/nd', 'Artikel']

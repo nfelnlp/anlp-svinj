@@ -1,1 +1,0 @@
-['Harvey Weinstein', 'Pooth entschuldigte', ',', ',', 'mit', '.', 'Modell', 'US-Säbel', '!', ', das', 'zu', 'halten', '! Wir', 'zum', 'des', 'und irgendwelchen', 'sie damals', 'ausschließlich dem', 'entschuldigt', 'unzüchtigen', 'gemeinhin', 'als', 'des', 'deklarieren']

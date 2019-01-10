@@ -1,1 +1,0 @@
-['SPD-Chef', '( l', 'Hoffmann', 'Bekenntnis zu', ') am', 'in', 'von', '»', 'gute', 'für', 'der', 'die Stabilisierung', 'Arbeitsverträgen', 'sei', ',', 'dankbar ,', 'er', 'lassen «', 'die', 'Der', ',', 'stelle', 'den Klimaschutzzielen', 'in', 'stattfindet', 'Solidarität.Vielfalt.Gerechtigkeit', 'Sie', 'Zahlen', 'Tarifflucht', 'Auch', 'Februar', 'sich', '.', 'und', 'große']

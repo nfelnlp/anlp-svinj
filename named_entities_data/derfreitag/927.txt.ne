@@ -1,1 +1,0 @@
-['Galai', 'Getty', 'Régime', 'Régime .', 'von', ',', 'lesen', 'Fitnessmodel und', 'aber nicht', 'im', '.', 'Man', 'immer', 'sich', 'beginnt', 'Freitag regelmäßig']

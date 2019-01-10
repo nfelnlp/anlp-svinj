@@ -1,1 +1,0 @@
-['Berlin', 'Polizei .', ',', 'Marathon', 'Obama ,', 'Berlin absteigt', 'und', 'Anschläge', 'berichtet', ') dürfte', 'die', 'nahezu', 'GdP ,', 'Polizeigewerkschaft']

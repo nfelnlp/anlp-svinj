@@ -1,1 +1,0 @@
-['trotz', ')', ', erzwang', 'eine eigene', '.', 'PR-Beraterin natόrlich', ',', 'den', 'uns', 'als', 'reprδsentativ', 'Zum', 'Vorbildfunktion', 'Gesellschaft', 'in', 'und', 'eine', 'eine', 'φkonomisch', 'wurden', 'des', 'des Mannes', 'Sorgen', 'Menschen', 'zu tun', 'auch', ', daί', 'zu', 'Deutschland', 'den Medien', 'Frauen', 'ihre', 'erinnern']

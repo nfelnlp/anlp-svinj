@@ -1,1 +1,0 @@
-['Images Jeder', 'Industrial-Look', 'im', 'Freelancer', 'nicht', 'Hintergrund', ', wie']

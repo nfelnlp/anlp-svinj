@@ -1,1 +1,0 @@
-['Gesellschaft', 'Klagenfurt', 'Österreich', 'Grünen-Landeschefin', 'Gegenspieler', '. Der', ', Thomas', ', meldete', 'Parlamentswahl im', 'Pilz überlegt', 'und den']

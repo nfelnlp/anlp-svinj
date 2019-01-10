@@ -1,1 +1,0 @@
-['eigentlich', 'einem', '.', '. Schon 2001', 'Machtantritt', 'Wir', 'wohl', 'eine', 'kann', 'darf .', 'Die', 'einem', 'einem großen Verlust', ', war', 'des Türkentums', 'Ein', 'machtversessene', '.', 'Türen', 'ohne', 'seinen', ':']

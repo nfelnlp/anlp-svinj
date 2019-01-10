@@ -1,1 +1,0 @@
-['. Während', 'der', 'Schneemassen', 'Gefahr', 'Zermatt', 'am', 'die', 'bereits', '.', 'Österreich', 'die', 'Anton und', 'Paznauntal', 'Touristen', 'Sonntag', 'Geigelsteingebiet', 'angespannt', 'von', 'Schweizer', 'eine', 'eine', 'im Skiort', 'wurde', 'Verkehr mit', 'dolina', 'einem Lawinenunglück']

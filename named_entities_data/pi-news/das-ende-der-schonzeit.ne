@@ -1,1 +1,0 @@
-['SELBERDENKER', 'Deutschland', 'Mohammed', 'rund', 'und', 'nicht', 'Stärke', 'Gott', 'Konstantinopels', 'Heerführer', 'eine', 'war oder geworden', 'auch', 'übrigens', ',', 'von', 'aus', '.', 'zumeist', '„friedlichen', 'unterstützen', 'redet', 'Machthaber', 'gar', 'sich', '.', 'der', ',', 'ohne', 'der', '– SAPERE', ',', '1394', 'was Mohammed Neues gebracht hat', ',', 'noch']

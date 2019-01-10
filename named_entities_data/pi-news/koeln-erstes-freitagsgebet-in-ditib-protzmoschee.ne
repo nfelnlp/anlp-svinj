@@ -1,1 +1,0 @@
-['Verena B. ,', '|', 'Beginn', 'Freitagsgebet übergeben .', 'kein', '.', 'Kalifat Köln', 'der', 'Moscheebauten sind', 'sichtbares', '“', 'warb eine', 'türkische Geheimdienst', 'Baumängel', 'christliche Utensilien in die', 'Moschee', 'er', 'Köln passt', 'zum', 'Drittel', 'gedeckt', '.', 'Ob Ministerpräsident', 'wird ,', 'Dialüg , noch', '15 –', 'Die']

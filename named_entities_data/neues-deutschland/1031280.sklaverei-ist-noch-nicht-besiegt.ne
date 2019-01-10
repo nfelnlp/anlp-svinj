@@ -1,1 +1,0 @@
-['Afrika', 'Anne Gonschorek', 'Kapstadt', 'Europa', 'Osten']

@@ -1,1 +1,0 @@
-['Ägypten', 'Mohamed El-Shahed/AFP/Getty Images', 'Zeit', 'sich', 'Land', '–', 'habe', 'Video', ',', ', dass', 'angefeindet', 'waren', 'unter beschämenden Umständen entlassen', 'in', ',', '„Verlässlicher', 'Staatstrauer', 'al-Fattah', 'sofort ein', 'das Stellungen', 'angriff', 'Bastionen', 'Tripolis', ', dass einige', 'mit', '.', 'Fehde', 'Auch', 'er', 'allen Ehren als', '“ zu']

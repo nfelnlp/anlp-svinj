@@ -1,1 +1,0 @@
-['des Männergefängnisses', 'seit', 'Frontal', 'L. genannt .', 'ihren Mithäftlingen werden', 'nicht entschuldbare', 'Frust', 'in dem', '«', 'ein organisiertes Netzwerk', 'des deutschen']

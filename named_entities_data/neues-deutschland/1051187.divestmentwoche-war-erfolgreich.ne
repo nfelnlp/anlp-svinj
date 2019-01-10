@@ -1,1 +1,0 @@
-['Göttingen', 'Bremen', 'Verena Kern', 'deutsche', 'Göttingen', 'Grünen', 'CDU', 'St']

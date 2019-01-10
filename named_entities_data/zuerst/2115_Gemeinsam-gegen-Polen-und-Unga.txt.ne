@@ -1,1 +1,0 @@
-['Brüssel', 'EU-Kommission', '.', 'ist', '.', 'Niederländer Frans Timmermans', 'in einem', 'und', 'Ministerpräsidenten', 'Kaczynski .', 'anderen müssen klarmachen ,', 'ein', 'im', 'jeder', 'im', 'dem', 'wir']

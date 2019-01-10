@@ -1,1 +1,0 @@
-['lügt', ',', 'ganz zu', ':', 'Mutterschaft', 'daß', 'Zauberwort', 'Gemeinschaft', 'des', 'Mutter', 'Kind', 'das', 'die', 'die', '.', 'Frau', ', ist']

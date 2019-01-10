@@ -1,1 +1,0 @@
-['Amazon', '. Ich', '.', 'bei', 'Jahren', 'zu', 'ich', 'ein', 'noch']

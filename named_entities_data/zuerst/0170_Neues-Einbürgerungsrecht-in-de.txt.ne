@@ -1,1 +1,0 @@
-['Bern', 'Schweiz', 'Schweizer', 'Zürich', 'Corine Mauch', 'Schweiz', 'Schweizer Staatsbürgerschaft', 'C-Bewilligung']

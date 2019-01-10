@@ -1,1 +1,0 @@
-['Erdogan-Anhänger', '!', 'bei', 'nette', 'Hansestadt Hamburg', '„Hunde-Clan “', 'Korinthenzähler', ',', ',', 'so', 'Gott', 'schlucken…', 'Februar', 'noch', 'Fisch stinkt', 'Kopf', 'zweifelhaft.', 'also nur', 'sich als', '„Die', 'Einschätzung :', 'gegen', 'So', 'Deutsche', 'Sprecher', 'Sellner', 'mag', 'mag es sich', 'Sie', '?', 'Politologie', 'und', 'unseres', ',']

@@ -1,1 +1,0 @@
-['Schwangerschaftsabbrüche/', 'Ewald Abtreibung', 'und', 'Teilnehmende', 'der']

@@ -1,1 +1,0 @@
-['PETER M. MESSER |', 'verglichen', 'Ditfurth ,', 'nach', 'den', ':', ',', 'bestreiten', 'nicht wirklich', 'oder', ',', 'die', 'jedoch', 'fiel', 'als', 'diese', 'schade', 'AfD', 'wirklich', ',', 'immer', 'AfD', 'dass', 'sie', 'also', 'Möglichkeit', 'vielleicht', 'ein', ',']

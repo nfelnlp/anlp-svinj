@@ -1,1 +1,0 @@
-['Images In', 'kontrollierten Stube', 'dieser', 'USA', '.', 'allen', 'wie', 'Verhandlungsrunden', 'Vagen', 'sind einer', '.', 'höchstens', 'eine']

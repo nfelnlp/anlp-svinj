@@ -1,1 +1,0 @@
-['Schweden', 'Schweden', 'Schmiester (', 'Stockholm', 'ein', 'einem', 'Entsprechend ist', 'Musterland', ': Ende', 'hatte', 'von', 'Kronzeugin', 'die', 'waren', 'sagen', 'sich an', 'das', 'Staatsoberhauptes', 'uns', 'das', 'Beschwörung', 'Landes', '.', 'Auswirkungen', 'auch', '“', 'nicht', 'der', 'deshalb', 'Ausflug', 'Åsa']

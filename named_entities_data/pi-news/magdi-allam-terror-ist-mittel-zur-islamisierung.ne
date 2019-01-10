@@ -1,1 +1,0 @@
-['Magdi Cristiano Allam', ',', 'Lehrstunde', 'von', ',', 'wo', 'italienischen', 'für kontraproduktiv', 'islamischen', 'dem', ',', 'Deutschland', 'herumreiste', 'Wölfe', 'Islam-Prediger', 'sich', 'islamischen', 'hat', ':']

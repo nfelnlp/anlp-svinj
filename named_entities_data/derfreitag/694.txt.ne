@@ -1,1 +1,0 @@
-['Images Die', 'bei', 'vergangenen', 'an der', 'dahinter –', 'die', 'nämlich', 'Augen einer', 'und', 'wähnen', 'wieder', 'Störfällen', 'direkt', 'Hybris', 'ist', 'eigentlich', 'Carl von', 'The', 'The Organization of', 'The Organization of Hypocrisy :', ', and', ':']

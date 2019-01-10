@@ -1,1 +1,0 @@
-['Burgmer', 'Michael Briefs', 'mehr', 'vor', 'interviewt .', 'Sie', '2006', 'Gleichzeitig repräsentiert', 'der']

@@ -1,1 +1,0 @@
-[')', 'Bildquelle :', 'eloquent', 'hat', 'birgitH', 'weiter', ',', 'der', 'schwammiges', 'rotten sich', ',', 'unterwarfen', 'denunzieren', ',']

@@ -1,1 +1,0 @@
-['Meyer/', 'Thema', 'der', 'Sorgen', 'würden einen', 'auf', '“ nicht', ', ihn', 'Gesetz eingegangen', 'Lager', 'Zum', 'wurde', 'Innenminister', 'jedenfalls bis heute', 'der', 'Datenschutz wird', 'von', 'TÜV', 'die', 'Informationen', 'Unionspolitiker –', 'zugleich', 'die', 'Jahren', 'sich', 'Empörung', 'scheint']

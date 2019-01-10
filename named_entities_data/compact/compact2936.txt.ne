@@ -1,1 +1,0 @@
-['G. Bruno Kretschmann von', 'der geringe', 'für', 'an', '. Innerhalb', 'der Anteil', 'vielleicht', 'Japan', 'unkontrollierte', 'regeln', 'für', 'haben', '17.8.2015', ',', 'Fahrkarten', 'Ausweisen', 'Focus', '17.8.2015', 'gesetzlich', 'das', 'sowie', 'sie von', 'auf', 'nicht', ',']

@@ -1,1 +1,0 @@
-['Allianz', ',', 'amerikanische', 'zu', 'die', 'konservative', 'wenn', 'am meisten', 'vom', 'monotheistisch-abrahamitische', 'auf', 'um', 'Hinterfragung und', 'fremd', 'ist', 'wenn', 'in', 'eine όberlebenswillige', 'wόrde', 'kφnnen']

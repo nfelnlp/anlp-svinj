@@ -1,1 +1,0 @@
-['Polizei', 'Polizei-Studenten', 'Wirtschaft und Recht', 'Doppelgänger engagiert haben', 'erklärte', 'uns', 'kontrollieren', 'einen', 'bei', '.', 'bei der', 'des', '.', 'derzeit', '“', 'den', '?', 'sieht', 'Polizei', 'angesprochen', 'Polizei', 'über', 'Muslime', '»', ':']

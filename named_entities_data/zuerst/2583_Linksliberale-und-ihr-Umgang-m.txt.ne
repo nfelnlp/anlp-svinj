@@ -1,1 +1,0 @@
-['Washington', '„Women´s March', 'das', 'nehmen .', 'mit', 'eines „aufkommenden', '”', '” .', 'selbst', 'zurück', 'versucht', 'am', 'soll', 'töten', 'hierzulande völlig ungestraft', 'auf', 'erörtert', 'der linken', 'Haus']

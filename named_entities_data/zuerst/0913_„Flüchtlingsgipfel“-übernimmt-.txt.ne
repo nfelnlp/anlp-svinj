@@ -1,1 +1,0 @@
-['Paris', ',', 'und', 'haben', 'einem', 'von', 'Flüchtlingsfragen (', 'anderen', 'für', 'europäischen', 'in', ',', 'ihrem', 'zukunftsweisendes', 'geht ,', 'offenherzig']

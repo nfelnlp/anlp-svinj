@@ -1,1 +1,0 @@
-['Valletta', 'Volkspartei (', ')', 'der', 'Christdemokraten', 'der auf', 'verabschiedet', 'zunehmenden', 'Osten', 'die', 'zu', 'im', ',', 'gibt.', ',', 'instabilen', 'Ukraine', 'den', 'gegenüber', 'aber', 'Politik', 'gemacht haben', 'ist']

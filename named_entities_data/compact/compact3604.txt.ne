@@ -1,1 +1,0 @@
-['Schachtschneider : Die', 'Die', 'verletzt', 'ist', ',', 'der', 'jeder', 'hört', 'mit', 'versucht', 'jemand', ',', 'beherzigt']

@@ -1,1 +1,0 @@
-['Bowie', 'ist nicht', 'Bob Dylan', ', denn', ',', 'dieses fantastische', 'noch', 'Er', 'mussten', ',', 'Aleister Crowley ,', 'mit Ryūichi', 'mit Nicolas', 'anderen .', 'ich meinen', 'halbwegs', 'Mal', 'Fantasie', 'Großartigkeit', 'blieb', 'shoes', 'hat', 'die']

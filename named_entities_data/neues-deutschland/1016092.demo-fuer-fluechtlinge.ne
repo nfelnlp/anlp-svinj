@@ -1,1 +1,0 @@
-['. Tausende', 'die', '.', 'an', 'rund', '. Die', 'zu', 'in', 'wollen', 'in', '.', 'in', 'Ceuta und Melilla', 'gelangen', 'das', 'kamen', '1']

@@ -1,1 +1,0 @@
-['Merkel', 'sprechen', 'und', 'Handlungen an', '180', '180 Zentimeter', 'von', '–', 'oder', 'Stadt so', 'ein', '.', 'Verdächtigen', '.', 'geflüchtete', 'Staatsanwaltschaft', 'Gericht', 'Donnerstag', 'nämlich', 'ihrem Besuch den heimischen', 'unterstützt', '2013', 'der Bühne', 'die Plätze', 'Unionspolitikerin 2013 in', '3.000']

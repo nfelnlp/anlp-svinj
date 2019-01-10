@@ -1,1 +1,0 @@
-['Gesellschaft', 'Uppsala', '–', 'Schweden', 'Donnerstag', 'Sitzung', 'die Kirchenzeitung']

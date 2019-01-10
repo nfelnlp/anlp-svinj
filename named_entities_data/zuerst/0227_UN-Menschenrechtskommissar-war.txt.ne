@@ -1,1 +1,0 @@
-['Genf', 'UN-Hochkommissar', 'Menschenrechte', 'al-Hussein , die', 'österreichische', 'Entwicklung', 'politischen', 'der Migrationspolitik Positionen', 'sich', 'der', 'Zuwanderung und', 'von', ',', 'sich andere Politiker in', 'hier', 'gibt.', 'Ausdrücklich', 'Rechte', 'gründlich', ',', 'am', 'gar', 'daß man', 'gegen', '(']

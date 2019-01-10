@@ -1,1 +1,0 @@
-['risikoreiche', 'Hochschule', 'ums Überleben', '.', ') im', 'auf Wirtschaftsstudien', 'Kommunikationsmanagement', 'Euro .', 'dem', 'nicht', '.', '.', 'dem nächsten']

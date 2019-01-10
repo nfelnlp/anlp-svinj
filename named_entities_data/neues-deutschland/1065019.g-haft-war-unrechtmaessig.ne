@@ -1,1 +1,0 @@
-['rechtswidrig', 'zu', 'Kosten des', 'Alevitischen Jugend', 'frühen', 'zur', 'der', ') erklärte', 'im', 'vor']

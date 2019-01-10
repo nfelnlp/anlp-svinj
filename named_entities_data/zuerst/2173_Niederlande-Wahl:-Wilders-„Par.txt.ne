@@ -1,1 +1,0 @@
-['von', 'Rutte liegt', 'Red. ] . Danach', 'mit 13,1', 'Knapp', 'kommen', 'für Freiheit', 'Demokratie ( VVD', '.', 'Partei', 'die', '.', 'Initiative', ')', 'Parlament', 'den']

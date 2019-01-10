@@ -1,1 +1,0 @@
-["'' erklärt", ') ,', 'sie', 'Selbst', 'kann', 'tollen neuen', 'Normalverdiener']

@@ -1,1 +1,0 @@
-['\x84patron\x93', 'PG', 'und', 'nachdem', 'und', 'den', 'weil', 'langsam', 'von', 'Minen', 'Zahl', 'daß', 'noch', 'Repatriierung', 'in', 'für', '. Von Ende', '1947', 'Gefangenen']

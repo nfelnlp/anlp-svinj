@@ -1,1 +1,0 @@
-['. Die', 'SPD', 'das', 'Berlin', 'Sondierungsgruppe', 'Energie', 'vorliegende', ',', 'niedersächsischen', 'Stephan Weil', 'SPD', 'Thomas Kreuzer', 'Arbeitsgruppe', 'am', 'Sechserrunde der', 'bis 2020', 'werde', 'Wahlversprechen', 'Ziel unmittelbar', 'warf', 'auch SPD-Chef Martin', 'noch', 'zugesichert']

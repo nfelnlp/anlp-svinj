@@ -1,1 +1,0 @@
-['deutsche', "''", 'SS', 'und', 'Ausführenden', ', an', ', an Zerstörungen', 'meisten', 'Eben', 'Juden', 'nicht', 'der', 'Minderheiten', 'Ist', 'neue', 'Anspruch', 'je']

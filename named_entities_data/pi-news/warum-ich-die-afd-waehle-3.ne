@@ -1,1 +1,0 @@
-['CHEVROLET', 'Deutschland', 'Deutschland', 'Südafrika', 'Argentinien', 'Deutschland', 'Übersee', 'war', '“', 'schneller in', 'ja', 'letzten', 'noch', 'EU', 'Europa', 'ein', 'die', 'Kern', 'unter', 'fühlen', 'wird', 'unmöglich', '.']

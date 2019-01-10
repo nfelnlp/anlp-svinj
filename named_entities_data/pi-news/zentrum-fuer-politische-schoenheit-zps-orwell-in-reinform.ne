@@ -1,1 +1,0 @@
-['SELBERDENKER', 'George Orwell', 'Herbert George Wells', 'Aldous Huxley', 'Romanform', 'Orwells', '“', 'ausdrücklich', ',', 'allein', 'Spitzeltum', ')', '(', 'dem', 'Gegenteil von', 'bestraft', 'muss', 'aufhören', ', wie', 'der', '“', 'auch']

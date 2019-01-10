@@ -1,1 +1,0 @@
-['Männersache', 'Befragung', 'Akademiker', 'Liebe']

@@ -1,1 +1,0 @@
-['die', 'ihrem', 'illegal', 'Kleinen', 'mit der', '.', 'langer Zeit hatte', 'Herr', 'Vielfalt', 'auch', ',', 'Januar', '.', '.', 'ehemalige', 'der', ',', '“', 'der', '“ beherbergt', 'die', '„handgreifliche', 'worden', 'Bescheid', 'alle', 'alle brauchen', 'niemand in', 'den', 'Köterrasse', 'die', 'einmal ,', 'im', 'wert', 'Verbrechen', 'nach', 'sind']

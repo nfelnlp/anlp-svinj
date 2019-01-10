@@ -1,1 +1,0 @@
-['Frankreich', 'Korsika', 'Frankreich', ')', 'auf', '( 3,3', 'Gilles', 'Hehl daraus', 'Franzosen', 'die', 'verhandeln', 'Jean-Guy', 'starke', 'Nation . Wir sind', 'Demokraten', 'Korsen', 'oder', '(']

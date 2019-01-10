@@ -1,1 +1,0 @@
-['Washington', 'In', 'In Afghanistan', 'USA', '. Mehrere', '”', 'einer', 'Trump selbst', 'in', 'den', 'ihn aber', ',', 'Regierung', 'wieder', '.', 'die', 'Mujahid', 'Medien', 'US-Soldat im', 'Angst', 'Realitäten', '.']

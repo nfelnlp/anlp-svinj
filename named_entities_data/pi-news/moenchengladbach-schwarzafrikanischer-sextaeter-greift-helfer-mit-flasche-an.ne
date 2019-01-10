@@ -1,1 +1,0 @@
-['ebenfalls', 'Mann', '35-Jährige', 'belästigt wurden', '1.1.2017 Uelzen', 'Ingewahrsam', 'des', 'stellten', 'Uhr', 'ersten', 'der', 'zwischen', 'zu', 'den', 'verfehlte', 'Dabei', 'Kräftige Statur', 'Markenschuhen', 'blaues', 'Gruppen', 'Vergangenheit bereits zu', 'es', 'in']

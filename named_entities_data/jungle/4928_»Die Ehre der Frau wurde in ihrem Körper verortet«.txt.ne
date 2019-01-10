@@ -1,1 +1,0 @@
-['Mithu Melanie Sanyal', 'Melanie Sanyal', 'Deutschland', 'Großbritannien', 'USA', 'Gesetzgebung', ', hat', 'Winkelmeier-Becker', 'CDU', 'Deutschland', 'Deutschland', 'Großbritannien', 'Samantha Geimer', 'Roman Polanski', 'Samantha Geimer', 'Gina-Lisa Lohfink : Es', 'das', 'möchte']

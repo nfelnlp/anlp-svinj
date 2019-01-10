@@ -1,1 +1,0 @@
-['Sebastian Kurz', 'Franz ,', ')', 'konnte', 'den', 'kann', 'durch', 'der', 'Küste', 'möglich', 'erfolgt', 'Herkunftsländer', 'Orient', 'helfen', 'wird', 'Telefonbetreiber', 'lokalen', 'in den', 'Ländern', 'diese hier', 'Lebensgefahr', 'auf']

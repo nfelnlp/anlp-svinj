@@ -1,1 +1,0 @@
-['Washington', ',', 'mit', 'brandneue', 'für künftige Präsidenten', 'sein', 'Demgegenüber', 'Todd', 'reagierte', 'Trumps Twitter-Mitteilung', '„Wir', 'Höhe von 170 Millionen', 'zum besten Wert', 'Boeing', '2024']

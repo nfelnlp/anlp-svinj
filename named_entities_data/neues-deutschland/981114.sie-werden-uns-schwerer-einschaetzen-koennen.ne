@@ -1,1 +1,0 @@
-['Ole Spitzer', 'ver.di', 'Die', 'Beobachter', 'offizieller', 'wir']

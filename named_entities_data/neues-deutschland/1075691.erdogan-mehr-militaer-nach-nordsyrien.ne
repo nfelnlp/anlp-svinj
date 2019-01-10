@@ -1,1 +1,0 @@
-['. Staatspräsident', 'Erdogan hat am', 'Manbidsch', '.', 'die', '(', 'ausweiten »', 'syrischen', 'vorgeworfen', 'nicht Dschihadisten', '(', 'Orte', 'in elf', 'für', 'dominierte', 'dominierte Bündnis', 'dominierte Bündnis Tahrir al-Scham', '.', '. Derweil', 'Angaben des', 'nicht', '.']

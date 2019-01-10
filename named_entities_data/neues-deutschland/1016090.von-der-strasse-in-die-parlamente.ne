@@ -1,1 +1,0 @@
-['Nikolai Huke', 'spanischen', 'Florian Schmid', 'Missmut', 'Spanien', 'Madrid', 'Krisenproteste', 'Spanien', 'Nikolai Huke', 'Huke']

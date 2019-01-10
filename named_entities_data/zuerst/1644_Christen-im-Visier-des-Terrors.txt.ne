@@ -1,1 +1,0 @@
-['Kairo', 'mindestens', 'verletzt', 'Al-Minja von Bewaffneten', 'Umgebung', 'In', 'Christen', 'Ziel', '45', 'Taten', ',', 'der', 'noch !', 'rund', 'der mehr als']

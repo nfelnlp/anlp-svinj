@@ -1,1 +1,0 @@
-['Eggert Es', 'Denn', 'Polizei', 'staunenden', 'man das', 'macht', 'sie', '.', 'noch', 'wie', 'ihnen', 'Wasser', 'Gesicht', '.', 'nur', ',', 'Jörg', 'eine –', '“', 'hoher', 'Aufzeichnungslücken', 'uns', 'den']

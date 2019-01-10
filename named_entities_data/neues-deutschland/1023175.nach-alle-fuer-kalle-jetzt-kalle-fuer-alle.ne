@@ -1,1 +1,0 @@
-['» in', '«', '« sagte', 'im', 'gegen', 'avancierte', 'ausziehen .', 'aber', 'Mieteranteil', 'Kreisverband ist', 'bekannt', 'aber']

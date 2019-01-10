@@ -1,1 +1,0 @@
-['ver.di', 'Medien', 'ver.di-Mitglieder', 'damit', 'gerichteten', 'offensiv', 'die']

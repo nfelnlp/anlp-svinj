@@ -1,1 +1,0 @@
-['der', 'beim', 'immer', ', noch', 'der', '?', 'Zahlen', '&', 'dann', '&', 'Job . Dafür', 'in', 'Umfang', 'der Aufgabe', 'der Aufgabe betraut', 'Nr', '.']

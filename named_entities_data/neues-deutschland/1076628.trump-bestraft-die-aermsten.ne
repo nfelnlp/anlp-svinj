@@ -1,1 +1,0 @@
-['Al-Shati im nördlichen', '.', 'lässt', 'in', 'israelischer', 'der Gaza-Streifen', 'der', '.', 'ihnen', 'Geheiß hin', 'Hälfte', '.', 'in', 'Nahostpolitik', '.', 'sich', 'als eigenständiger', 'Wir', 'müssen', 'auch', 'starker', 'die', 'nicht', 'EU', 'in', 'Frage', 'gespalten', 'so', 'Seite']

@@ -1,1 +1,0 @@
-['Simon Poelchau', 'Zeitung .', 'auf']

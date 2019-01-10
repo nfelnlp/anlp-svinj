@@ -1,1 +1,0 @@
-['das', 'beim', 'Licht', ', also', 'aus', 'Schoigu', 'setzte', 'mit der Begründung', '. Da legte', 'vor', 'mit', 'der', 'haben', 'Nun', 'haben', 'erhoben', 'Alexander', 'zeigt stolz', 'Ausweis', 'der im', 'gewählt', 'John Snow', 'zu Russland', 'und', 'sei', 'und', 'heiraten', 'sich vor']

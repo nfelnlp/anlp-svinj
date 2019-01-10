@@ -1,1 +1,0 @@
-['ALSTER', 'SD', ',', ', auf', 'Am', ',', 'Imame', 'dieses', 'weit', 'zu', 'den', 'für', '.', '.', 'immer', 'aktuelle', 'kurz zuvor', 'einem', ',', 'es', '– „Allahu', 'von 1912', 'Daran', 'aus']

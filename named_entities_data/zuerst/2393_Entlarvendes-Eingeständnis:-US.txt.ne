@@ -1,1 +1,0 @@
-['Washington', 'Kampf', ')', 'umstrittene', 'da', 'auf', 'November', 'der Großstadt', 'der Großstadt Deir', '. Ein', 'Protokoll ,', 'die', 'Kosovokrieg', 'Aufgrund', 'heute', 'erwiesen']

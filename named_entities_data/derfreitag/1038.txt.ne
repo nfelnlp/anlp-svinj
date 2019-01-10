@@ -1,1 +1,0 @@
-['Das', 'Forsythe ,', ',', 'Berlin zu sehen', '.', 'der', '.', 'verließ ,', 'verließ , provozierte', 'schwarzen', 'Pfeiftönen (', 'entfesselte Gliederpuppen', 'elisabethanischen Theaterstückes', 'historischen', 'die', 'in', ', in', 'der Pappen', 'Hüpfburg', 'die Kräfte']

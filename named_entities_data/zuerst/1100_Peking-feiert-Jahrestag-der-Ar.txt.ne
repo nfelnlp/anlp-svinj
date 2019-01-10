@@ -1,1 +1,0 @@
-['Peking', 'Xi Jinping', 'Gründungsjubiläums', 'Volksbefreiungsarmee', 'von', '”', 'hatte bereits', '1', 'zur', 'gezwungen', 'seine', 'Beweis', 'einsatzbereit sein', 'von', 'seines']

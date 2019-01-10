@@ -1,1 +1,0 @@
-['Die', 'von Weizsäcker propagiert diese', 'zu Löwenstein', 'seines', 'Während', 'Preise', ',', '–', 'Tag', 'Lebensmittelproduzent', 'Geld', '.', 'sich', 'wiederum', '„eigentlich', 'Bourgeois möchte', 'liebt', 'angekommen', 'wollen', 'Selbstverständlich', 'immerhin', '.', 'die Position', 'mehr „Ressourcenproduktivität']

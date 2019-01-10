@@ -1,1 +1,0 @@
-['SS-Kaserne', '.', 'Leopardenfell ,', 'den', 'Nach', 'Besuch', 'PC-Programm', 'nicht', 'antwortete', 'und', 'Euro', ',', 'er', 'von den', 'widersprach', '.', 'warf', 'gehe', 'unsinnigem', 'allesamt', '?']

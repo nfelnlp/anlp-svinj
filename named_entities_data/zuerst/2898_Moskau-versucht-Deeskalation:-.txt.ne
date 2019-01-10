@@ -1,1 +1,0 @@
-['Moskau', 'Rußland', 'Bundeskanzlerin Merkel', 'auf', 'haben', 'zu', 'Rußland', 'Zusammenarbeit', 'Kriseneinsätzen', 'russischen', ':', 'offen für', ',', '“ Der', 'russische', 'zusammengearbeitet', 'wären', ',', 'Zusammenarbeit', 'rechtliche']

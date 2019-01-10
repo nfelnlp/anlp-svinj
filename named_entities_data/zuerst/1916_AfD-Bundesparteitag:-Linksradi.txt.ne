@@ -1,1 +1,0 @@
-['Gesellschaft 4 Köln', 'heute', 'die', 'und', 'Holzlatte zu .', ':']

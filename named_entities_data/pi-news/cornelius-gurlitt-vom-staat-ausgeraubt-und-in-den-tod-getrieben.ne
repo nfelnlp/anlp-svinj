@@ -1,1 +1,0 @@
-['KEWIL', ', war', '.', 'Zoll/Bundespolizei', 'Euro', 'Staates', '.', 'so', 'Rechtslage einen', 'auch dann', 'wurde', 'sofort', ',', 'aufzupolieren', 'das', 'immer', 'sich', 'fast', 'vermachen', 'Münchner', 'und', 'Jetzt', '“', 'und', 'implizierte', 'kranke Mann im', 'dreiste', 'Deutschland', 'der', 'Gurlitts', 'Remy', 'Der', '; Europa Verlag', ',', 'Antaios']

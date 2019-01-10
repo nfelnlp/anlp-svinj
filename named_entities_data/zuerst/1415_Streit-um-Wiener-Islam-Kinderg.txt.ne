@@ -1,1 +1,0 @@
-['Wien', 'ÖVP', 'islamischen', 'Ihm zufolge', 'in', 'Islam-Kindergarten', '.', 'in', 'umstritten', 'Antragsteller', ',']

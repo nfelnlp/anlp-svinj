@@ -1,1 +1,0 @@
-['Wien', 'OSZE-Mission', 'Alexander', ', gewarnt', 'jederzeit', 'in', 'ruhige', 'OSZE-Sonderbeauftragte', 'sich', 'Zwischen Kiew', 'gebe', 'Beobachter', 'und', 'säumig beim', 'trotz', ',']

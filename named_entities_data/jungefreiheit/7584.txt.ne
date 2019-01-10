@@ -1,1 +1,0 @@
-[',', 'Zuhause', 'ist', 'ganz', ',', 'und', '.', 'zum', '.', 'Glόcksgefόhle', 'φkonomische', 'an', 'sie ihren', 'nicht mehr', 'Hoffnung\x93', 'Anspruch', ',', 'man', 'liege einfach nur', 'und', 'nicht sein', 'Fesseln begreifen', 'kinderlos und das', ',', 'schon', 'ein Buch', 'habe', 'Autorin', 'hat', 'dann']

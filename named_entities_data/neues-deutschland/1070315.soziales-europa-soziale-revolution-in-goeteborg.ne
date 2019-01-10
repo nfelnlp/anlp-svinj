@@ -1,1 +1,0 @@
-[', wird', 'Freitag', 'auf', 'dem', 'Großbritannien hat', 'das', 'aber seit', '.', 'Sommer', 'Sommer , dass die 20', ', aber', 'nie', 'Wesentliches', 'der', 'Mitgliedstaaten', ',', 'Mitgliedstaaten', 'bekannt', 'Sie', 'Kommission', 'Diese', 'auch einen', 'Sie', 'nach einem', 'Dennoch', 'Was', 'sowohl', 'werden', 'Vorstellungen', 'keinen']

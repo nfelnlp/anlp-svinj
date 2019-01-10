@@ -1,1 +1,0 @@
-['Moskau/Damaskus', 'Im', '.', 'weitere Geländegewinne', 'nach Angaben', 'Angriffe', ')', 'Idlib ,', 'und', 'bombardiert', 'Dabei', ',', 'Funkverkehr deutet nach', '“', 'IS wegen', 'syrische', 'al-Ghab-Ebene', 'der', 'benachbarte', 'Bildformat bearbeitet']

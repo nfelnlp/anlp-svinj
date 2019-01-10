@@ -1,1 +1,0 @@
-['Washington', 'per Twitter', 'einen', 'getwittert', '„Boeing', 'brandneue', 'für künftige Präsidenten', 'Trump', '. Danach', 'er', ':', 'der', 'Dollar ( 159', 'Euro', 'Boeing im', '„Air', 'One', 'vom Typ 747-8 sollen']

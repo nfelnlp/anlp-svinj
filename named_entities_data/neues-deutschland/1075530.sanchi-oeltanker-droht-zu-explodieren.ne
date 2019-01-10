@@ -1,1 +1,0 @@
-['Verkehrsministerium', 'chinesischen', 'Ku Lang', 'Irvash vom', 'Konsulat', 'dem', 'Staatsrundfunk', '.', '300', 'mit', 'CF Crystal « zusammengestoßen', 'Greenpeace erklärte', 'Wei Xianghua von', 'Universität Peking .', 'hatte', 'entsandte', 'Küstenwache sei', 'Oktober', 'US-Marineschiffe', 'mit einem Tanker aus', '.']

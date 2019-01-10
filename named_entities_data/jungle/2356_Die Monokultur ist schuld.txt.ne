@@ -1,1 +1,0 @@
-['Anzeige Nachdem', 'die', 'den', '90', 'zum', 'spät', 'sollten', 'System', 'sammeln', '.', 'die', ',', 'verschlüsselt', '.', 'selbst', 'überwachen', 'nicht', 'Sicherheitsprobleme', 'erlaubt', 'nennenswerte', 'zu', ',', 'schützen', 'Anwender', 'die', ':', 'ist', 'weitgehend', ',', 'Ziel', 'gemeinsame']

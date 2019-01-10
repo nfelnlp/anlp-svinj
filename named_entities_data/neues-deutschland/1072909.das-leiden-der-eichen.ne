@@ -1,1 +1,0 @@
-['( parteilos', 'an', 'der', 'Günther betonte', '»', 'versorge', 'Oktober', '46', 'geschädigt', '»']

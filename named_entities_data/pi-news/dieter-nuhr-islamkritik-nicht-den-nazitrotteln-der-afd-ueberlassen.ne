@@ -1,1 +1,0 @@
-['Dieter Nuhr', 'ARD-Sendung', '„Institut für', 'Nuhr', 'den', '.', 'Juden', 'Israel', 'schließlich', 'auch', 'niemals', 'ideologischer', '.', 'absolut', 'sollen', 'mit diversen', 'von', 'Ländern', 'Juden', '.', '„Islamisten', 'gefährlich', 'viele', 'den gutgläubigen', '“', '.', 'er', 'Linie']

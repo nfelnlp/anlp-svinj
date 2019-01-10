@@ -1,1 +1,0 @@
-['Elite', ',', 'der', '.', 'Anteil', 'der', ',', 'daß', 'sogenannten', ', Richard', ', Benedetto', ', Arnold', 'oder Wolf', 'Siedler stehen', 'eine bürgerliche', ', die sich', "Zeit ''", 'die Herkunft', 'die', 'in', 'er', 'mit', 'Kraft', 'Kultur äußert', 'von', 'Woher', 'einer', 'humanistische', 'in', 'Geschichte', 'Literatur und Geschichte .']

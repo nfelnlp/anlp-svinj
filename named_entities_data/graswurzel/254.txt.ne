@@ -1,1 +1,0 @@
-['. In', 'englische', '...', 'verzichten', '.']

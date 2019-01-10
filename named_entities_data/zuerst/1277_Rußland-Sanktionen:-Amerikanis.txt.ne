@@ -1,1 +1,0 @@
-['Washington', 'USA', 'Rußland', 'Street', 'und', 'gegen', '.', 'der Regierung', 'Nicht-US-Unternehmen', 'Petroleum', 'der wichtigste', 'Öl- und Gasindustrie', ',', '.', 'und Industrien', 'Veto', 'des']

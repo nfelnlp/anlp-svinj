@@ -1,1 +1,0 @@
-['MARKUS WIENER*', 'ein', '“', 'ziehen', 'es', 'oder', '„Nafris', 'vor Ort', 'Anreise', 'warum', 'angebliche', 'im Blick', 'Frage nach', 'solchen', '. Die', ',', 'überlegen', 'Tatsachen', 'Unversehrtheit']

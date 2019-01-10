@@ -1,1 +1,0 @@
-['Stuttgart', 'Bürgerbewegung Pax Europa', 'Stuttgart-Weil', 'sind', 'Erstarken', 'argumentiert', 'den', 'sagt', 'was', 'Demos', 'den Moscheebau', 'auch', 'der', 'der ganz', 'Spionage', 'mit', 'aufnehmen']

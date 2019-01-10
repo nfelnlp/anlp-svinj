@@ -1,1 +1,0 @@
-['Inhaber', 'Explosion die Gaststätte', 'und', 'Lebensgefahr', '–', 'wollen .', 'sich', 'über', 'von', 'verurteilte', 'einer', 'und Vortäuschens', 'den', 'die', '“ Mit', 'und', '.', 'Gericht', 'Es', 'Der', ',', 'offenbaren', 'hatte', 'Autodafé zu', 'Delinquenten', '.', 'bedank\xadte', 'wird er auch', 'neuen']

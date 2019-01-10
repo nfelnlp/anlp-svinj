@@ -1,1 +1,0 @@
-['honoriert', 'Jury', 'in', 'Radio-DJ', 'Musikliebhaber', 'Internetradio', 'bloß', 'üblich', 'der', 'Popkultur']

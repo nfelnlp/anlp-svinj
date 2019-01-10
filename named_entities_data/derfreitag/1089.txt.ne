@@ -1,1 +1,0 @@
-['dass', 'Glavcom', '.', 'Ukraine', 'müssen', 'Wärmekraftwerke', 'sie', 'Gas', 'das', '30', 'Kiewer', 'nicht mehr', 'hätte', 'Glavcom', 'dass', 'Ukraine', '(', '( knapp', 'war', 'schon', 'mit', 'Kiew', 'eine', 'nennen', 'es', 'es nicht', 'rational', 'der', 'paramilitärischer', 'Sektors', 'grosse', '.', 'und', 'Ukrainern', 'von', 'kultureller']

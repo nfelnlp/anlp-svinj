@@ -1,1 +1,0 @@
-['Jobcenter', 'ver.di', 'Herne', 'Marcus Meier', 'Jobcenter-Watch aus', 'bei', 'Doch', 'anprangert', 'der', 'Initiative', 'sich', 'kein', 'kein Gewerkschaftsrechter', 'auf die', 'die', 'die »', 'ob', 'Gewerkschaft', 'die Mitarbei']

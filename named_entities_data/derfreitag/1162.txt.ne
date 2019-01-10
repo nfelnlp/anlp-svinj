@@ -1,1 +1,0 @@
-['Kathryn Bigelows', 'Osama', 'Thirty .', ',', 'in dem man', 'zu', 'Sinn', '. September', 'vor', 'kritisch', 'vom', 'den', '.', 'Apologie', ', wo', 'halben', 'völlig', 'wie', 'das', 'die', 'diese', 'Sachtheitschoreografie', 'toten', 'Personen', 'in diesem', 'die Bestechung', 'Spur', ',', 'nicht', 'einem', 'mit Metal-Band', 'die', 'Mitarbeiterin', '(']

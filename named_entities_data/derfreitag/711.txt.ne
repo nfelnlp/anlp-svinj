@@ -1,1 +1,0 @@
-['J.RICHARDS/', 'Getty', 'Als', ',', 'Zweifel am Treiben', 'die', 'NSA', 'Bespitzelung', 'Politik', 'diese', 'holten', 'die', ':', 'Jahren', 'ausdehnen', 'die', 'Staatsbürger', 'sein', 'Wenn', 'uns', 'einem', 'Neugier', 'einflussreichsten US-amerikanischen', '.']

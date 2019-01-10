@@ -1,1 +1,0 @@
-['Oskar Lafontaine', '„DIE LINKE “', 'die', 'für', 'verdanken', 'abtrünnigen', 'enttäuschend', ',', ',', 'macht', 'heutige', 'Eine', 'Lafontaine', 'Arbeitslosen', 'für', 'DIE', 'Parteien', 'haben', 'wenn', 'Lasten', 'richtig', 'bei', 'Richtung', 'Asylpolitik', ',', 'zu', 'der', 'sorgt', 'des']

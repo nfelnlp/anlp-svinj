@@ -1,1 +1,0 @@
-['Lesbos', 'griechischen', 'Lesbos', 'Spyros Galinos', 'Lesbos', 'an']

@@ -1,1 +1,0 @@
-['Brüssel', 'EU', 'EU-Statistikamt', '.', '(', 'Finnland', 'je', 'den', 'Österreich', 'Italien', 'je', 'Lettland', 'je', 'Estland', 'je', '17', 'Bulgarien', 'der', 'je', 'gemeldet (', 'von', 'der', '37', 'weniger', 'gesamten']

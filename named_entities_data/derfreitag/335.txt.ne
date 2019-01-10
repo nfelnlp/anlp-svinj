@@ -1,1 +1,0 @@
-['du', ',', '.', 'ihre', 'die', 'wir', '.', 'cool', 'klare', 'nicht', 'später', 'Christian Wulff', 'halb so', '. Auch', 'schmeckte .', 'Bord', 'hat es', 'was', 'Sendezeit , jeder', 'dir', 'lauert', 'ZDF', 'Rechner', 'getrieben', '``']

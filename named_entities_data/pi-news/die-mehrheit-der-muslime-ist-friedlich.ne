@@ -1,1 +1,0 @@
-['vor', 'die', 'oder', 'Ruhrgebiet', 'sind', '“', 'Wer als', 'gegen seine', 'Provenienz', 'zynischer', ',', 'desaströsen', 'treffen', 'jedoch', 'aus', 'Tat', 'von', 'gar', 'Kräfte']

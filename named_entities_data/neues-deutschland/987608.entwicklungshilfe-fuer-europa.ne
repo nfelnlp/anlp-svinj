@@ -1,1 +1,0 @@
-['Bolivien', 'Luis Trunk de', 'Luis Trunk de Flores', 'El Alto', 'La Paz', 'Iván Nogales', 'Arbeit', ',', '. Mehr']

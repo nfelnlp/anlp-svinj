@@ -1,1 +1,0 @@
-['Prag', 'Tschechische', 'Tschechische Republik', 'tschechische', 'Martin Stropnicky', 'Brünn', '.', 'In', 'um', 'Arbeitslosigkeit', 'beim', 'zur', ',', 'bis 2020', 'ist Prag', '(']

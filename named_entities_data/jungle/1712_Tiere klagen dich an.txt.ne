@@ -1,1 +1,0 @@
-['Burgrieden', 'Baden Württemberg', 'Stefan', 'David Slater', 'Tierrechtsorganisation Peta', '2011', ',', 'der', 'Wikimedia', 'Commons', 'und', 'entschieden', 'jener', 'Die', 'Revision', 'Der Prozess', 'Obwohl', 'Monate', 'Prozess', 'wohl »', 'diesem', 'es ihm gelungen ,', 'in', 'Tiere', 'ihre Jungen , die an', 'Ausdruck einer', 'der Rechtsform']

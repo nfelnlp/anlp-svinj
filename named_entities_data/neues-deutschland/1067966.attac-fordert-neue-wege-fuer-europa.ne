@@ -1,1 +1,0 @@
-['für', 'Main gekommen waren', 'insbesondere', ',', 'von der', 'bei', 'unterschiedliche', 'gemacht', 'aus dem', '.', 'wie', 'zuversichtlich', 'dass', 'Kongress', 'in', 'diskutiert', 'Konzept', '»', 'Institutionen «', 'der', '.', 'Madrid', 'Republik', 'Konföderation', 'die Bewegung', 'und', 'könnten', 'in', '»', 'Protesten', 'sich', 'der']

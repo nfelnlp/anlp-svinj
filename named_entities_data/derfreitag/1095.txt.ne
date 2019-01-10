@@ -1,1 +1,0 @@
-['Pete Doherty', 'Rock', 'den', ',', 'oder', 'so', 'erreicht', 'bekannten', 'Synergien und verbessert', 'auch', 'im', 'man', 'es auch', '.', 'leisten', 'deutlich', 'den', 'Die', 'lange Zeit', ',']

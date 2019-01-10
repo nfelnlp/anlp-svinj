@@ -1,1 +1,0 @@
-['Perspektiven', 'Aktivisten', ', eine', 'über', 'her', 'Die', 'über die', '. Smartphones', 'Data', '.', 'Gesundheitskarte', 'gesprochen', 'stelle']

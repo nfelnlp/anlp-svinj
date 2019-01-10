@@ -1,1 +1,0 @@
-['Budapest', '„unbotmäßige', '„unbotmäßige “', 'wie', 'Interview', 'hat', 'jetzt', 'Die', 'Nachrichtenagentur', 'Die', 'der', 'Nationalrat', 'eine Pressekonferenz', 'als', 'Freunde', ',', 'Budapest einen', 'Budapest einen anderen', 'Ungarn', 'verleugnet', 'Unternehmen', 'nicht unkommentiert', 'zuvor', 'teilnehmen und']

@@ -1,1 +1,0 @@
-['Washington/Kairo', 'Im', 'ägyptische Präsident', 'in dem', 'und', 'arabischen Berichten zufolge', 'Mann', 'Präsidenten', 'wolle .', 'verlangen', 'US-Regierung', 'die', 'der', 'einzustufen . Trump', 'nachzukommen', 'Terrorgruppen', 'Muslimbruderschaft , die', 'den', 'Meldungen', 'und', 'sich', 'sich unterdessen', 'Falschmeldungen', 'der', 'des']

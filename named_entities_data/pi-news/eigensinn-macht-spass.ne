@@ -1,1 +1,0 @@
-['beherzigen', 'Blockparteien', 'jeweiligen', 'und', 'wird', 'schauen', 'einzige', '„Schäflein “ vor', 'erteilt', 'seinem', 'offenbar', 'vor', 'anstatt', 'ihre', 'Gewerkschaftskreisen', 'angemeldete', ',', 'den', 'die', 'schlechthin', 'mit', 'nur', 'die', ',']

@@ -1,1 +1,0 @@
-['Ronald Gläser', 'Ronald Gläser', 'Henkel hat', ': Das', 'eine', 'ihnen', '.', 'Die', 'Wahlen', ':', 'Die', '.', 'auch aus Mecklenburg-Vorpommern', 'Mitglieder aufgefordert ,', 'etwa', 'Aber', 'ein']

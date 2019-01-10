@@ -1,1 +1,0 @@
-['Dresden', 'Chemnitz', 'Magdeburg', 'Magdeburg', 'NPD', '] und', 'Miteinander e.V .', 'einer', 'einer demokratischen', 'und', 'kommende', 'gleiche', 'Ereignisse', 'vom', '»', 'waren', 'Jahrestag .', 'Magdeburger', 'stelle einen der']

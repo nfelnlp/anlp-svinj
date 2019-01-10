@@ -1,1 +1,0 @@
-['Rosa-Luxemburg-Stiftung .', 'Rosa-Luxemburg-Stiftung . Fanny', 'hat', 'organisiert Am', '» Gemeinsam', '» Gemeinsam gewinnen', '» Gemeinsam gewinnen « .', 'Die']

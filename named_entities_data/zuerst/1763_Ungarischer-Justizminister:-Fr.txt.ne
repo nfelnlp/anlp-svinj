@@ -1,1 +1,0 @@
-['Budapest', 'Ungarn', 'Justizminister', 'Trocsanyi in', '„Man', 'Länder', 'die', 'Verbindung', 'werden', 'nämlich', '“', '„Wie', 'Umverteilungsregelung']

@@ -1,1 +1,0 @@
-['anarchistisches', 'gestellten', ', Roots', 'Januar', 'damit', 'jetzt', 'Bericht', 'Tatsache', 'zwei', 'Druck', 'des anarchistischen', 'großem Besucherinteresse', 'Daran', 'hatten', ': Duo', "''"]

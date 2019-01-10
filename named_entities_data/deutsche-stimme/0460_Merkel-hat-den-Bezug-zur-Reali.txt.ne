@@ -1,1 +1,0 @@
-['Merkel', 'Ronny Zasowk', 'Angela Merkel', 'ihre fatale', '-Äußerung wiederholte', 'der', 'Flüchtlinge', 'ignoriert', 'Ansbach auf', 'Flüchtling', 'der', 'mit', 'zu', 'zehntausend', 'in', 'Merkels', '.', 'in Deutschland', 'ein', 'geglaubt', 'zu', 'Auch', 'das Fischen ohne', 'wird', 'jedoch nicht', 'werden']

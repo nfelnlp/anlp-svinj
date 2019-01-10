@@ -1,1 +1,0 @@
-['Fluggesellschaft', 'offenbar Wirkung', 'das', ',', 'gehört', ',', ',', ',', 'und', '.', 'am', '’ Leary erklärte', '.', 'musste', 'angekündigt', 'aber', 'hat', 'folgen', 'auch', 'aufgerufen', 'wahrlich', 'Ermittlungen', 'Verdachts', 'auch', 'hat', 'vor', '400', 'hierzulande', '. Bislang', '30', 'die', 'Millionen']

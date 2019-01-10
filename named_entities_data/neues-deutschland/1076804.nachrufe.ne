@@ -1,1 +1,0 @@
-['Thomas Leif', '.', 'Thomas Leif', 'Leif', 'Otto-Brenner-Preises', 'der', 'über', '.', 'in dem', 'mit', '1925 – 11', '. Der Arm des', 'von', '(', 'Klan «', 'kein', 'allem', 'bewegenden', 'und', 'der']

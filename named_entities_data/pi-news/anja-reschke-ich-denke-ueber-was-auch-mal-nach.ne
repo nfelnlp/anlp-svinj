@@ -1,1 +1,0 @@
-['ARD', 'nicht', 'Anja', 'via Facebook-Livestream', 'Intention', 'zu', ',', 'dann meist mit', 'bloß', 'in', 'der', 'auch', 'Beispiel', 'Deckung', 'Betrachtung']

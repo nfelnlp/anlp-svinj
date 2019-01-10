@@ -1,1 +1,0 @@
-['. Nach', 'etwa', 'ein', 'Fingerkuppen', 'mit', ', dass', 'bei', 'nach einer', 'keinen', 'keinen Baum']

@@ -1,1 +1,0 @@
-['Deutschland', 'gezeugte', 'könne']

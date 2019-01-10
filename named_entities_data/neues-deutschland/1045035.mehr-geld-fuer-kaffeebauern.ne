@@ -1,1 +1,0 @@
-['wo', 'Kaffee', ',', ', laut', 'zumindest', 'sind', 'in', 'eine', 'das', 'Lage', 'ständig', 'zum', 'auch', 'Das Land', 'wird', 'harten', 'dagegen', 'in', 'und Tadesse', 'sie', 'dabei auch', 'genaue', 'vor', 'Caféhausketten', 'aus etwas', 'pro', '«', '» Es']

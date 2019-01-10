@@ -1,1 +1,0 @@
-['Mario', 'Daniel Roland/', 'Getty', 'Präsident Mario', 'und der', '( EZB', 'haben', 'Instrumentarium', 'das', 'verfehlten Krisenpolitik', 'inzwischen', 'mit', 'minder', 'täten', 'Nur', 'Deutschland', ',', 'Abstand', 'arme', 'Arbeitsmarkt', 'indem']

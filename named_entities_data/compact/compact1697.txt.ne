@@ -1,1 +1,0 @@
-['–', 'nun', '.', 'wollen', 'nur', 'wollen sie wirklich', 'soziales', 'ist', '“', '– klar', ',', 'die Ministerin', '– Frau', 'meinen', 'wäre doch', 'die', 'dann', 'eine', '.', 'Problemstellung', 'die', 'allen Bereichen', ',', '.', 'SPD', 'geändert , vorausgeplant .', 'einmal grundlegend']

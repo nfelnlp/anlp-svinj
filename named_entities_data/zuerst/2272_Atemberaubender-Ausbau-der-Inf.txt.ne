@@ -1,1 +1,0 @@
-['Peking', 'Trump und', 'Anderes', 'dauerhaften']

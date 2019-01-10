@@ -1,1 +1,0 @@
-['|', 'Bundestag', ',', 'der', '“', 'unerreichbar ist', 'die', '.', 'aber betrifft dieses Prinzip', 'sondern', 'weil', 'Leute']

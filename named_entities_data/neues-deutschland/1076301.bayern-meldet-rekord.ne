@@ -1,1 +1,0 @@
-['.', '. Der', 'München', '.', 'Zahlungen', 'Seehofer in', 'kommenden', 'bayerischer Ministerpräsident', 'eigenen', 'Euro', 'in', 'in', 'dann', 'Die', 'dürfte nach den', 'des', 'erneut']

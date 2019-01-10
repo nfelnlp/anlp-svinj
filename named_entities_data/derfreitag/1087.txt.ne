@@ -1,1 +1,0 @@
-['Torsten Blackwood/', 'Getty', 'Ich', '30', 'Forschung in Rostock ausgerechnet', 'Deutschland', 'nicht', 'wie noch', '.', 'Resource Panels', 'Frage', 'wie Fortschritt', 'kann und', 'unser Wohlstandsmodell ökonomisch und', 'werden', 'sind']

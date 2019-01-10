@@ -1,1 +1,0 @@
-['Wien', 'ukrainische', 'Pawlo Klimkin', 'gewarnt', 'wörtlich', 'Das', 'Klimkin', '„Rußland', 'und', 'wäre', '“', 'gehe', 'Neuteilung', 'Kontrolle', 'ihn', 'für', 'mehr', 'eigenwilligen', 'westlichen', 'als', 'Klimkin', 'in', 'das', 'NATO-Beitritts', '“', 'Erfahrungen']

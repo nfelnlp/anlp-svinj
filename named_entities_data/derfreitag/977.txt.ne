@@ -1,1 +1,0 @@
-['Otto Knoblauch', 'Knoblauch', 'Amateure', 'Knoblauch', 'Knoblauch', 'durch']

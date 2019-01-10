@@ -1,1 +1,0 @@
-['Washington', 'USA', 'Donald Trump', ',', 'Bannon ,', 'der', 'hatte sein Amt', 'dem', 'zeitweise Mitherausgeber', 'jetzt', 'den', '–', 'zu', 'Kriegsverbrechern der', 'stellen “', 'schreibt', 'Was', 'ehrlicher', 'bräuchte', ',', 'Wahrheit', 'oder', 'die']

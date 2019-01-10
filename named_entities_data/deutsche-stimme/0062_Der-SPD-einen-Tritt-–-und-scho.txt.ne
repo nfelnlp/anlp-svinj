@@ -1,1 +1,0 @@
-['Man', 'anderes', 'ein', 'den', 'aufregt', 'gefährden', ':', 'in', 'AfD', 'an', 'Umstand und', 'Bürgerversicherung', 'verdächtig', '!', 'keine', '?', 'inzwischen', 'Nun', 'leider']

@@ -1,1 +1,0 @@
-['war 30', '2016', 'Auszug aus der', '. Als', 'kontinuierlich abgesenkt', ', Grundlagen', 'die Fläche', 'gelernt und', 'werden', 'spärlich zum', 'Routinegewinnung', 'der Lage', 'gewollt .']

@@ -1,1 +1,0 @@
-['Was', 'betritt die', 'Orson Welles', ', das', 'ehemaligen Nachrichtenmagazins', 'fragen .', 'auf', 'ja', ',', ',', 'ermutigt', 'gegen', 'das', 'Frau', ',', 'Sie', '–', 'hat', 'ohne', 'Bannon', '? Ist', 'Spiegel-Auflage abstürzt .', ',', 'hätten im', 'ungestört', 'Jetzt', 'bequem']

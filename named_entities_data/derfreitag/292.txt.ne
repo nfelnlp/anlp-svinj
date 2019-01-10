@@ -1,1 +1,0 @@
-['in', 'mehr', 'ihrer', 'Sparpolitik', 'sie', 'entfalten', '.', ',', ',', 'Auch sollte', 'durch', 'geraten', 'Land', 'hat', 'Völkern']

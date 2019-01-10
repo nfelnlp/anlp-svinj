@@ -1,1 +1,0 @@
-['Professor', '\x96 hat', 'sprach', 'Heute', 'das alles', 'an', 'wesentlich', 'viele', 'bezweckte diese', 'Europa', 'aus', 'sind', 'einer', 'Leitkultur', ',', 'wie', ',', 'inneren', 'die', 'dafür', 'Dann', 'die Vorstellung', '.', 'FDP-Justizminister', '.', 'die', 'irgendwann', ':', 'Angeblich kommt man auf', ': zu hohe', 'mit', 'in', 'Höhe', 'Barbaren die', 'in']

@@ -1,1 +1,0 @@
-['Saudi-Arabien in einer', 'Sozialrates', 'Vorsitz für', 'Frauenrechte', 'über', 'Rechte', 'wird', 'Alwasil', 'Thema', 'KLEINER-AKIF-PRESS :', 'den', 'War es eine', 'Verhalten', 'KAP :', '.', 'Frauenfäkalien', 'Ich', 'Welt', 'bei', 'eine', 'war es', 'Dort']

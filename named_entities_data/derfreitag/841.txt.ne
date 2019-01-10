@@ -1,1 +1,0 @@
-[':', 'Images Das', 'soll', 'Machtverhältnissen', 'Facebook auf', 'irreführenden', 'dass', 'Plattformbetreiber', 'ungleich', 'zuverlässig', 'den']

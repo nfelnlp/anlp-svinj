@@ -1,1 +1,0 @@
-['«', 'noch', 'die', 'auch', 'werden', 'Zahl', 'am', '»', 'Superette del', 'stark vertreten', 'Das', 'So', 'So hat das', '.', 'dass', 'Expansion', 'Minimärkte', 'Gigant', 'größte', 'Tag']

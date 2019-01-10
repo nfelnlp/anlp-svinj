@@ -1,1 +1,0 @@
-['Kiew', 'Kiew', 'Ernst Reichel', 'ukrainische', 'Reichel', 'Rußland', 'Ukraine', 'Kiew', 'Rußlands', 'Moskau', 'Reichel', 'Ukraina', 'gehißt', 'hätten', 'mit', ',', 'auf', '. Die', 'mit solchen', '.', '. Reichel', 'ukrainische', 'sei', 'Poroschenko angehört', 'deutschen', 'dort']

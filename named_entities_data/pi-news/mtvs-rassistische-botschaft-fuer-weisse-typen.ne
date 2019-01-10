@@ -1,1 +1,0 @@
-['MTV', '„Hey', 'mit', 'Ich', 'Oh', 'Du', 'zuvor', 'selbst', 'nicht', 'männlichen ,', 'Amerikanern', 'macht', 'ein', 'Ostblock galt dieser', 'der Freiheit', 'in', 'lebten in den USA', 'Und', ',']

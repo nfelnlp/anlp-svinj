@@ -1,1 +1,0 @@
-['Rom', '.', 'sich unlängst', 'unkontrollierte', 'unkontrollierte Einwanderung', 'Zufahrtsstraße', 'um', 'in', 'und Castell', '(', ')', 'Örtliche', 'Örtliche Bürgermeister', ', Andrea Cipani', 'jede weitere', 'und']

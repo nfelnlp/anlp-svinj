@@ -1,1 +1,0 @@
-['die', 'deshalb', 'hatten', 'auf', 'deswegen', 'Union Deutschland « .', 'Michail', '. Dieser', ', der', '.', 'Mitstreiter', 'Zeitpunkt', 'Hütte', 'gehörte', 'Vorsitzende des', ', leitet', 'Vereinsmitglied daraus auch einen', 'demokratischen', 'die']

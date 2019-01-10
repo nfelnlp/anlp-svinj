@@ -1,1 +1,0 @@
-['JF', 'eine', 'Prozent', '(', 'weshalb man', 'freut', 'und', '63', '90,1', 'informiert', 'Südosteuropäische', '48,9', 'Arbeitslose']

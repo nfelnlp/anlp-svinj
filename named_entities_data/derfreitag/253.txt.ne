@@ -1,1 +1,0 @@
-['Bofinger', 'Bürgle', 'ist', 'Keynesianer', 'Flüchtlingen', 'einmal ist', '.', 'wie', '.', 'halten', 'die', ',', 'Japan', ':', ',', ', hat', '1978', 'studiert', 'seit 1992', 'Vermögen', 'und', 'hatten', 'Rede', 'könnten', 'richtig', '.', 'zweitgrößte', 'kommt', 'Ausputzer', 'lässt', 'Amtszeit geht', 'und', 'Jahr']

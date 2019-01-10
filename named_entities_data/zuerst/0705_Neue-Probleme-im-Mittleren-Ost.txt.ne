@@ -1,1 +1,0 @@
-['Nordirak', 'Wahlkommission', 'irakischen', 'Bagdad', '„nicht', '“', 'Ministerpräsident', 'will das', 'in', 'Gebiete', 'und', 'zur']

@@ -1,1 +1,0 @@
-['Johanna Wanka', 'CDU', 'CDU )', 'den', 'waren', 'Bei', 'sie mehr auf']

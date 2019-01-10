@@ -1,1 +1,0 @@
-['Häftlinge', ':', 'ernsthafte', 'verlangt', 'ihnen']

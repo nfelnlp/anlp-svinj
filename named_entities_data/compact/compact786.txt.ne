@@ -1,1 +1,0 @@
-[',', ',', ',', ',', ',', 'gefallen', 'sie', ',', 'gegebenem', 'von', 'Denglisch ,', '.', 'Passen', 'In-Group', 'Dennoch', 'ausdrucksstärkste', 'Schwingen', 'Zweige , das', 'das', 'will', 'um', 'Mixer', 'brachte', 'Party', '.', 'in', 'stehen', 'der', 'mit', '. Das', '.', 'One', 'auch die', 'lärmenden', 'nicht', 'Softie']

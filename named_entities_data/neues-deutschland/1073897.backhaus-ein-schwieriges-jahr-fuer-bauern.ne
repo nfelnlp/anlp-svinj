@@ -1,1 +1,0 @@
-['. 2017', '(', 'für', 'schwieriges Jahr .', 'es', 'im', 'Ernte-', 'die', 'Milchviehhalter seit 2014', 'die', 'in', 'zum', 'der Hälfte der', '.', 'für', 'Herde']

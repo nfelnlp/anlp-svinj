@@ -1,1 +1,0 @@
-['Uni Würzburg', 'Antifa', 'für', 'Gisela Müller-Brandeck-Bocquet', '“', 'Die', 'Wunsch', '.', 'dass', 'ihr', 'mutige', 'anderen', '.', 'Sie', 'Medienvertretern', 'Hörsaal', 'Deutschland', ',', 'drückt', 'Aussagen', '( fehl )', '. Diesem', 'geboten', 'und', '„Die', 'Hörsaal', '.', 'und', 'anderen', 'also']

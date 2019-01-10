@@ -1,1 +1,0 @@
-['ungeheuer', 'ausdrucksstark und', 'aus .', ') durch ein', 'Bühne und', 'der Bühnendecke fallen', 'das', 'Brüdern Jean', 'Christian Schneeweiß', 'Czeremnych', 'zu ihrem', 'Arbeit', 'Geschäft', 'der Krise', 'ihres', 'sie später', 'Arbeitsbedingungen', 'lassen .', '43.000', ',', 'Rechte']

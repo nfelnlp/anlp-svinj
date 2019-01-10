@@ -1,1 +1,0 @@
-['Kitwood/Getty', 'nach Holland', ',', 'gehandelt', 'Bitcoins', 'Bitcoins', 'heute', 'einem', 'Strom', 'ungefähr', 'mit', 'völlig entgegenläuft', ',', 'aus dem', 'Dollar']

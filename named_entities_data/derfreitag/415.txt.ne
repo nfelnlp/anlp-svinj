@@ -1,1 +1,0 @@
-['glücklich', 'in Rostock', 'seiner US-amerikanischen Kollegin', 'welche', '. 7.000', 'aus Deutschland', 'ihrer', 'mit', 'früher']

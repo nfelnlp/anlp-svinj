@@ -1,1 +1,0 @@
-['Widerstand', 'Schlagzeilen', 'Sprecher', 'ihrerseits von «', 'Orten', 'Verein', 'Befreite', 'Bure', 'war', 'den', 'Tagen', 'spontanen', 'Menschen', 'Auch', 'sprachen', 'gefährlichen Polizeigewalt', 'als', 'von Blendgranaten', 'von', 'Umweltminister', '»', '«', '.', 'verschleiert', '(', 'nun']

@@ -1,1 +1,0 @@
-['Straßburg/Budapest', 'Das', 'der', 'Sachen', 'für Menschenrechte ( EGMR', 'Ungarn', 'der', 'Orbán', 'Freitag', 'eingereicht', 'die zwei', 'die zwei betroffenen', 'fand', 'internationale', '[', 'Das Urteil', 'Erst', 'Asylanten', 'rote', 'die', 'nach', 'krise', ',']

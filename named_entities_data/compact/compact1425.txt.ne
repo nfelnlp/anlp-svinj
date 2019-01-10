@@ -1,1 +1,0 @@
-['Edward Snowden', 'Berlin', 'USA', 'Silicon Valley', 'Vint Cerf', 'an', 'und leitete', 'Agency', 'eine', '.', 'mit', 'massenhafte', 'eine', 'vom', 'Glasfasernetz', ', dass', 'über', 'wird', 'großer', '.', 'Norwegen', 'sich', 'deren', 'Standard', 'im', 'Ganzen', 'wenn', 'der', 'an einem', 'COMPACT']

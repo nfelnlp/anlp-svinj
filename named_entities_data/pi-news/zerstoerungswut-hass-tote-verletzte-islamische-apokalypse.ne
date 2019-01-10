@@ -1,1 +1,0 @@
-['ALPHACENTAURI', 'Defensive', '“', '“ ( „Syrian', 'die IS-Hauptstadt Rakka', 'das', 'Dinge', 'Mit der', '„Gottes', 'Aber auch', 'die', 'die ihre Angehörigen', 'und', '“ nicht', 'Seite', 'islamische', 'verdeutlichen', 'Islamisierung', 'es', 'Islam', ',', 'es', 'Toleranz', 'Dort', 'die', 'und', 'Koran', 'für', ':']

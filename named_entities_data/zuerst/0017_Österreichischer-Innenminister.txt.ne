@@ -1,1 +1,0 @@
-['Wien', 'EU-Innenminister', 'sich', 'FPÖ', 'gegen', 'kündigte', 'die', 'daß', 'weitere', 'zudem', 'absolut', 'Initiative', 'wirken', 'Und', ',', 'auftritt', 'Das', ',', 'allen', 'Algerien', ',', 'während', 'nach', 'mit', 'belasten', 'und', 'die', 'besonders', '(']

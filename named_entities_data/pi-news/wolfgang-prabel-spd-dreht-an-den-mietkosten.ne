@@ -1,1 +1,0 @@
-['Schulz', 'SPD', 'SPD', 'SPD-Bundesminister', 'erwähnte', 'für die', 'Und', ') –', 'befindlichen Energieeinsparverordnung', 'war', 'war die', 'mitbezahlen', '7', 'einige', 'und', 'B', '12', 'Martin Schulz', 'die WELT', 'gab es', 'Verhältnis', 'heraus', 'aber', 'Personal', 'jagt Phantomen', 'Lichtjahre']

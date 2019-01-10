@@ -1,1 +1,0 @@
-['Tata', 'Europa', 'Stellenabbau', 'Thomas Berger', 'Indien', 'Tata Steel', 'ArcelorMittal', 'Tata', 'ThyssenKrupp', 'britischen', 'sin']

@@ -1,1 +1,0 @@
-['Alexander Van der', 'Franz ,', ')', 'gemeint', 'Kopftuch', 'ablegen', 'der', 'Houellebecq', 'seinem berühmten', 'EU-Politikers', 'mit', 'akribisch', '.', 'Kritiker der', 'Frankreich', 'werden', 'zurück', 'jetzt', ',', 'dass', 'Überfluss', 'viel Leid', 'solche', 'dem', 'einen', 'die', 'Die']

@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'österreichische', 'Sebastian Kurz', 'erhalten', 'Geldtransfers der', 'dort', '“', 'in', ',']

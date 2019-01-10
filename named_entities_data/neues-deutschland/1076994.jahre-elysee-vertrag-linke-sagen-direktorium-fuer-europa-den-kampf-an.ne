@@ -1,1 +1,0 @@
-['nachdem', 'und', 'ändern', 'Die', 'und', 'bei ihrer', 'letzten Freitag', 'FDP', 'nicht', 'die', 'LINKEN', 'LINKE', 'in', ')', 'Jean-Luc', 'Dietmar Bartsch dem Élysée-Vertrag', 'Wirkungen auf', 'Zusammenarbeit beider', 'sich', 'allem', 'den', '.', 'in', 'Élysée-Vertrages', ',', 'europäische']

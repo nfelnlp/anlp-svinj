@@ -1,1 +1,0 @@
-['.', '. Der', 'am Donnerstag', 'Porsche', 'Warnstreik', '. Auch beim', 'Havel legten nach Gewerkschaftsangaben', 'Beschäftigte', '»', ',', 'Warnstreik sei', 'Provokation', 'Metaller beim Autogetriebeherstellers ZF', 'Standort gehört', ':', 'Woche', 'mit']

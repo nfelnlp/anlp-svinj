@@ -1,1 +1,0 @@
-['Nation', ', Wells', ', Wells Fargo', 'Citigroup und', 'Sachs', 'Die Banken', 'in seinem', 'belegt', 'dem', 'seine', 'Berlin', '.', 'Beitrag «', 'Finanzhäuser', 'Die', 'und vernichtend', 'Der', 'Dr.', 'von 37', 'die', 'gibt', 'von', 'sind', 'Diese', ',', 'und', 'das', 'der staatlichen', 'einer']

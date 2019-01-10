@@ -1,1 +1,0 @@
-['( 33', ',', 'Und', 'Dreiteiler gemacht hat .', 'ja', 'gehts', 'arabische', ':', 'Söhnchen', 'gewollt', 'von', ',', 'paar', 'Symbolfinger', 'bin !', 'Kinderwagen', 'schwul', 'hin', 'Rama', 'sie', 'Stärke ,', ',', 'sich']

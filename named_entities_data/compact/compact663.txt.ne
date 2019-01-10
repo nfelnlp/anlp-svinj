@@ -1,1 +1,0 @@
-['Heiko Maas', 'wirft der', 'in', 'Forderungen der', 'einmal', 'wie', 'sich', '“', 'Ex-Muslima', 'Um', 'nur', 'islamische', 'der', 'als', 'die Moschee', 'bestätigt', ', die', 'Albrecht', ') folgendermaßen :', '20', '& Hintergründe']

@@ -1,1 +1,0 @@
-['Gesellschaft', 'Naumburg', 'syrischen', 'Naumburg', 'Sachsen-Anhalt ) Polizisten', 'es', 'Herausgabe', 'und', 'das', ',']

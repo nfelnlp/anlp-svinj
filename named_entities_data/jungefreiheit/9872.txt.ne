@@ -1,1 +1,0 @@
-['Rφcke in', 'und', '1947', 'Triumphiert', ',', 'Zeiten', 'sich', 'in', ',', 'die', 'der', 'des', 'innere', ',', ',', 'zu', '. In vielen Details sind', 'Man', 'konventionellen', 'Qualitδt', 'Romane', 'von der', '. So', 'Androids Dream', 'ist', 'Skepsis', 'verstand', ',', 'Paranoia', 'Eingeweihten', '\x84anderes', 'Variable sich δndert \x93', 'gewirkt . Und']

@@ -1,1 +1,0 @@
-['. Die', 'seiner Wahl', 'Monate als', '. Sie', 'dass', 'ein', 'gewünscht', 'der', 'Anträge', 'vor']

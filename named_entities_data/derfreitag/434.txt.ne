@@ -1,1 +1,0 @@
-['/ AFP', 'Getty', 'Seit', 'Internet-Spionage gegen', 'und', 'mal', 'werden', 'Deutschland', 'endlich', 'mitballern', 'man', 'der', 'weniger', '-', 'nur', 'Subalterner', 'wahrscheinlich', 'Münchner', 'absurd', '! —', 'ordentlicher Zeuge', 'eine', 'zur', 'einem', 'nach', 'zu', 'Tatsachen', '(', '( netzpolitik.org', 'können ,']

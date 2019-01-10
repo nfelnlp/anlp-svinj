@@ -1,1 +1,0 @@
-['Tobi –', 'dem dieser', 'in', 'einen', 'Westdeutschland', ',', 'die', 'in', 'Zivilisation', 'der', 'vor', 'Begriffsdefinition', 'Flaig ,', 'rituell', 'entstand', 'nach', 'hatten', 'heute', '.', 'maßgeblich', 'Wobei', 'etwa', 'analog', 'Sklaven', 'Nordamerika', 'eine', '.', 'Ernährung', 'unterbanden', 'und', 'europäischen', '.', 'die in']

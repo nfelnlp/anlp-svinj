@@ -1,1 +1,0 @@
-['und', 'Beschäftigten', 'Eifel', 'dem', 'lagern', 'die', 'Leopard-II-Panzer', 'Leopard-II-Panzer produziert', 'nach', 'kein Soldat der', 'obwohl', 'wegen', 'sprachen', 'allem', 'einer', 'einer Übereifrigkeit', 'Verdacht erweckt', 'Völkerrecht', 'Jahrzehnten', 'hat', 'seitdem', 'die', 'einer', 'Freisprüchen', 'Berufungsverfahren', 'Weil', 'der']

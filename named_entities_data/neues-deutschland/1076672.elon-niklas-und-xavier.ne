@@ -1,1 +1,0 @@
-[',', 'fordert', 'Österreich', 'der', 'Meteorologen', 'von', 'richten im', '»', '«', 'Bilanz : Schäden', '.', 'Dezember', 'über', 'ohne', 'im Oktober', 'über', 'Mindestens', 'Menschen', '.', 'Europa', 'bundesweit', 'im', 'knapp', ',', 'im', 'der']

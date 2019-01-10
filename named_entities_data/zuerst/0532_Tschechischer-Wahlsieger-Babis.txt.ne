@@ -1,1 +1,0 @@
-['Prag', 'Babis', 'hat erste', 'schrillen', 'angekündigt', 'für', 'wollen', 'er', 'gegen', 'die', 'vertrete', 'Haltung', 'hatte', 'zu', ',', 'Politiker', 'abzuriegeln', 'Kraft', '(']

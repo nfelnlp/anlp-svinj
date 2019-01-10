@@ -1,1 +1,0 @@
-['Grosche', 'Deutschen Bank', 'Frankfurt am Main', 'Freizeitkleidung', 'Mahnwachen', 'Mahnwache']

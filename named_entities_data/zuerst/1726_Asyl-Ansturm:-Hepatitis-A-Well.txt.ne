@@ -1,1 +1,0 @@
-['Gesellschaft 1 Berlin', 'Seit', 'Lageso', 'Syrien', 'nur', 'Impfung', 'Anstiegs', 'Gesundheitsämtern', 'Gesundheitsämtern und Schwerpunktpraxen', '„In geradezu']

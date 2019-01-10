@@ -1,1 +1,0 @@
-['Washington', 'US-Regierung', 'verschiedene', 'Einsatz', '(']

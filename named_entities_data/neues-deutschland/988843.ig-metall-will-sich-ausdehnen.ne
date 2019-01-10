@@ -1,1 +1,0 @@
-['am', 'am Main . Die IG', ', auf', 'Main an .', 'zwei', 'Organisationsbereich', 'die', 'Metall', 'der', 'sehen', 'Ordentliche']

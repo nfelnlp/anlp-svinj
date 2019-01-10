@@ -1,1 +1,0 @@
-['Rheinland', '2017', '„Klassenfeindes', 'Blockwarte', 'strikten', '.', '.', 'Steinmeier', 'einen', 'mehr', 'Volkskammer', 'dem', 'Verblendung', 'noch', 'seitens', 'Mit', 'der', 'nehmen', '.', 'wie', 'Zeit']

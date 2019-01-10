@@ -1,1 +1,0 @@
-['. Anlässlich', 'den', 'Bürgerrechtler', 'Plebisziten', 'befassen', '«', 'Demokratie Deutschland', 'Wert', 'Parlament', 'die', 'Volksgesetzgebung', ',']

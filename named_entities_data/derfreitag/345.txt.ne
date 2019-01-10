@@ -1,1 +1,0 @@
-['Schäuble', 'Sean Gallup/Getty', 'Solch', 'Familien', 'FDP', 'dagegen', 'mit einem', 'Projekt', 'mächtigster Mann im', 'als', 'im', 'Koalition', 'spielen', 'Beschluss zur', 'mühsam in', 'Griechenland-Misere', '.', 'für beschädigt', 'Gebot', 'hochrangigen']

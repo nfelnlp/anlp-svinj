@@ -1,1 +1,0 @@
-['Wahlprogrammen', 'KV', 'DIW', 'und', 'die', 'betreibt', 'der', 'dagegen', ',', 'der']

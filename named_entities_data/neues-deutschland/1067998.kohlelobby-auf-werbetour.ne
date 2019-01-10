@@ -1,1 +1,0 @@
-['ein', 'sorgen', ', der', ', und', ',', ', Präsident', 'ACM', 'Der', 'viertgrößte', 'um', 'Santos seinem Minister', 'bei der', 'protestieren', 'Minister', 'als', ',', 'ein', ', die', 'von Urgewald', 'hingegen', 'vom katholischen', 'Misereor', 'ein Joint Venture', ', durchblicken']

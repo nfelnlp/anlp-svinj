@@ -1,1 +1,0 @@
-['Vor einigen', 'dem', 'würde']

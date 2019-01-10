@@ -1,1 +1,0 @@
-['AFP/Getty', 'via', 'Agency ( NSA', 'hat', 'es', 'kriminelle', ',', 'für', 'China', 'dass die', 'dem', 'des', 'nach dem', 'Überwachung wurde', 'Was', 'hacken alle', 'und', 'das', 'vier Männern', 'eine Sicherheitskonferenz', 'beantragen', 'hat', '.', 'Kong interviewt', 'Interview', 'eine Zusammenfassung', 'Holger', 'Holger Hutt']

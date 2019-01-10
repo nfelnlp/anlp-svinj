@@ -1,1 +1,0 @@
-['( CDU', 'im', 'Schlupp ( CDU', 'unterbrach', 'und']

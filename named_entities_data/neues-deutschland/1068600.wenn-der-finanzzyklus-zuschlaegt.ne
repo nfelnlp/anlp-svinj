@@ -1,1 +1,0 @@
-['und heimlich', 'ihrer', 'Tagen lediglich eine', 'Wirtschaft', 'hatten', 'in', ',', 'Zusammenschluss', 'BIP', '200', 'die', 'sind', 'Zyklus', 'eine scharfe Rezession der Weltwirtschaft', 'Trumps', '. Eine', 'USA nach', 'Japan', 'Blick', '.', 'das', 'für', 'Leitzinsen']

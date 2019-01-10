@@ -1,1 +1,0 @@
-['Was', '.', 'Rechte', 'Entstehung', 'zur', '(', ') ,', 'und', '. Im', '2010', 'die', 'die für', 'die für Copyright', 'mit', 'Erstellung', 'Journalistinnen- und', 'facto', 'aus', 'Hinweis', 'Pressefreiheit auch', 'sein', 'auf .', 'Gerade die', '.', '. Kurz']

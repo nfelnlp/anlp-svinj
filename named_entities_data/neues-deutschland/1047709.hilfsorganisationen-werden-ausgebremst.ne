@@ -1,1 +1,0 @@
-[',', 'ein', 'Die', 'werden', 'filmt', 'Verteilung', 'denen', 'einen', 'Geld', 'Wir', 'der in', 'sechs', 'keine', 'etwa', 'zu', 'Überfällen', 'März', 'ist', 'vereitelt', 'lebenswichtigen Gütern', 'verweigert und', 'betroffenen', 'verhungern', ',']

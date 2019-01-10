@@ -1,1 +1,0 @@
-['Beispiele', 'Seele', 'ein', 'All-you-can-eat-Chinesen', 'sich', 'genug', '. Die', '?', 'gerade', 'ich', 'und', 'machte', 'Pappbecher', 'bemerkt', 'Rolltreppe', 'oft', ',', '.', '!', 'Hotdog', 'dort', '.', ',', 'drei', 'gefesselt', 'ökologischen Sinne', '.']

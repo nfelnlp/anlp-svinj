@@ -1,1 +1,0 @@
-['Wolf H. Wagner ,', 'Annahmen', ',', ',', 'Tauro ,', 'und', '.', '.', ',', 'und', '.', ',', 'nur', ')', 'Catanzaro )']

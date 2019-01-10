@@ -1,1 +1,0 @@
-['Martin Rapp', 'südafrikanischen', 'Mpumalanga', 'Johannesburg', 'Witbank', 'Middelburg', 'Internationalen Währungsfonds', 'ANC-Regierung', 'auf Steinkohle', 'die', 'RWE', 'EnBW', 'STEAG', 'zwei']

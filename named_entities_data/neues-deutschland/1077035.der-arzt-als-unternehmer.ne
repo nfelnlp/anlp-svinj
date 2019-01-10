@@ -1,1 +1,0 @@
-['-', 'dies', 'Gynäkologen', 'der', 'wenige', 'GmbH .', 'auf', 'als']

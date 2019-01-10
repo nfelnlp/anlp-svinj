@@ -1,1 +1,0 @@
-['Wolfgang Eggert', 'die', 'Oder', 'die', 'Der „Ivan “', 'im Sommer', '„Überzeichnung', 'bemüht', 'was auf', 'bei', 'anonymen französischen Armeeangehörigen', 'Understatement', '.', 'noch', 'macht', '.', 'Depressionen schwer', '“', '– er', 'halbblind', 'vergesst', 'werden', 'einem Volvo-Klassiker gegriffen', 'Bücher', 'über']

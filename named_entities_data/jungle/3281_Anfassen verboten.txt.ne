@@ -1,1 +1,0 @@
-['Deutschen Nationalbibliothek', 'Frankfurt', 'Leipzig', 'Deutsche Nationalbibliothek', 'Generaldirektorin Elisabeth Niggemann', 'Ute Schwens', 'Frankfurter', 'Michael Fernau', 'FAZ', 'schwenkend', 'Schwens', 'Fernau', 'Niggemann', '»', 'Ausland', '.', 'oder', 'Bücherei', 'Rahmen', 'machen .', 'Agonal', 'bisschen', 'für', ', alles', 'Kraft']

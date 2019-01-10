@@ -1,1 +1,0 @@
-['Washington', 'hat unmittelbar', '. Trump unterzeichnete noch', 'sollen', 'sieht', 'und schädigend “ seien', 'ursprünglichen', 'er', 'beide', 'heißt', 'zu', 'das', ',', 'auf']

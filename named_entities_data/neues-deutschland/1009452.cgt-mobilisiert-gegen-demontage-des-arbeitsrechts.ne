@@ -1,1 +1,0 @@
-['CGT', 'Frankreich', 'Ralf Klingsieck', 'Paris', 'Confédération', 'du travail', 'CGT', 'Frankreich', 'französischen', 'CGT', 'François Hollande', ',', '.', '2009']

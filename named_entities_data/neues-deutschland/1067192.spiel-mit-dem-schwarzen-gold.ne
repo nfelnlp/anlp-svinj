@@ -1,1 +1,0 @@
-[', bei', 'Aufsehen', 'die', 'verabschiedet', '« über', 'PiS', 'Wirtschaftsfachleute', 'hell-hörig', 'Klimaschutz', 'beruhte', 'die', 'an', 'der Polen', 'von', '»', ')', 'wiederholt eine', '?', 'Goldes', 'zerschlagen', 'Staat diese', 'aus Brüssel', 'Millionen', 'kaum', 'Die', 'in', 'Kachelöfen', 'noch viele', 'wenn', 'Erhalt', 'Ausbau', 'spannend', 'dem »']

@@ -1,1 +1,0 @@
-['L.S.GABRIEL', 'und', 'Schädelbruch', 'war', 'Gewalttäter', 'das', 'diskreditieren', 'von DIE', 'Schuld', 'die', 'sich', 'die als auf', 'er', 'Der', 'Demonstration', 'jeden Zweifel', 'der Polizei', '“', 'Demonstration', ',', 'Szenen', 'Und', 'passend :', 'weitere', 'den', 'auch', 'weitere', 'mit Verständnis rechnen “', 'Hamburg auch', 'melden', '„Protest', 'TV']

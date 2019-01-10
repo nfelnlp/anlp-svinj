@@ -1,1 +1,0 @@
-['abgeschlossen', 'des']

@@ -1,1 +1,0 @@
-['die', 'die', 'vor', 'es', 'völlig', '.', 'bereits', 'holt', 'Rosenheim', 'von', 'und', 'deren', 'Identitäten', 'gäbe', 'um']

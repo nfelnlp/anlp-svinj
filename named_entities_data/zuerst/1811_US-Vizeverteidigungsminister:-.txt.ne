@@ -1,1 +1,0 @@
-['Washington', 'seine Besorgnis', 'Work', '„Seit', 'Einschätzung', 'die', 'Rußlands', '.', 'Niveau', 'überragende', 'die', 'Konkurrenten', 'China', 'noch überlegen seien']

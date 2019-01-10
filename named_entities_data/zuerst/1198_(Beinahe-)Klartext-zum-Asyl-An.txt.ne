@@ -1,1 +1,0 @@
-['Gesellschaft 0 Hagen', 'Griff', 'das', 'der', 'es', 'das', 'nur']

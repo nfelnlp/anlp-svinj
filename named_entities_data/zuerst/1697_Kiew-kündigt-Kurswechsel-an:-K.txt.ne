@@ -1,1 +1,0 @@
-['Kiew', 'ukrainische', 'ukrainische', 'Stepan Poltorak', 'Poltorak', 'Kiew', 'Donbass-Region', 'Ende', 'ukrainisches', 'sind', 'im', 'der', 'eine', 'der ukrainischen', '.', '„Meter', 'die ukrainische', 'die abtrünnigen', 'von', 'gesprochen']

@@ -1,1 +1,0 @@
-['Belgrad/Brüssel', 'Der', 'eine', 'Mittelosteuropa', 'in', '.', 'Ukraine', 'Dauer-Krisengebiet', 'die', 'Land', 'serbische', 'demonstrativen', 'mit Rußland', 'gesunken', 'Montenegro', 'der', 'der', 'Vedran', ':', 'Kulminationsjahr', 'Westbalkan', 'Der', 'normativen', 'ist', 'ist', 'in', 'Als', 'ein', 'der']

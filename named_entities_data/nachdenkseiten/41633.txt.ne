@@ -1,1 +1,0 @@
-['Der Diesel-Skandal', 'seit zwanzig', 'verfügbar .', 'den', 'ist', 'Medien', 'Kenner', 'denkt', ':', 'unter', 'war', 'Abgasprüfungen im', 'so lange', 'wurden', 'bis', 'überhaupt', 'denn nun', 'weiterentwickelt', 'und', 'wird', 'Nun', 'vom', 'und alle', 'dorthin']

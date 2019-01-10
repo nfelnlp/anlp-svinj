@@ -1,1 +1,0 @@
-['Mo Yan', 'Getty', 'Das', 'als', 'Stockholm', 'dem Nobelpreis', 'Literatur', 'geboren', 'der Kulturrevolution', 'noch', 'Beobachtungen eines', 'dass', 'zunächst', '. Das', 'die Übersetzung', 'ins Deutsche']

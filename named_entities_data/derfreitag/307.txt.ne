@@ -1,1 +1,0 @@
-['Images Ein', 'Monument', 'Charlie “ wäre', 'Weg', 'einer Kundgebung', 'dort', 'unter', 'unverrückbar', 'Keupstraße', 'der', 'geschweige']

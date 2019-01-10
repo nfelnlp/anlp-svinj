@@ -1,1 +1,0 @@
-['Belgrad', 'Ungarn', 'Kroatien', 'Serbien', 'Volksdeutschen', 'Aleksandar Vucic', 'Jarek', 'Novi Sad', 'Kurswechsel', 'Donauschwaben', 'zusammen mit', '“', 'den', 'nach', ',', 'jedoch', 'auf', 'noch']

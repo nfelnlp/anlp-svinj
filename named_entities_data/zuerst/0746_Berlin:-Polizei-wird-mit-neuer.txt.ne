@@ -1,1 +1,0 @@
-['Berlin', '( SPD', 'hat', 'persönlich', '–', ',', 'und', 'heutigen', 'Menge', 'Polizeipräsidenten']

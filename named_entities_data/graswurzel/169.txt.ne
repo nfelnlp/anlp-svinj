@@ -1,1 +1,0 @@
-['Jean-Luc Mélenchon lange Zeit', '(', 'denen , die drinbleiben', 'Staat', 'Außendienstmitarbeiter', 'der', 'den', 'CAC', 'Zehnmilliarden', 'an', 'Aktionäre', 'Arbeitsgesetze infrage', 'der', 'oder', 'oder', 'Obgleich', 'untereinander', 'die', 'uns']

@@ -1,1 +1,0 @@
-['Budapest', 'Ungarn', 'begründete die', 'es', 'und', 'seinen', ':', 'Lösung', 'Arbeit', 'der sichersten', 'gibt es', 'Orbán', 'zu', '.', 'selbst und', '3000', '3000 Stellen', 'Grenzschutz']

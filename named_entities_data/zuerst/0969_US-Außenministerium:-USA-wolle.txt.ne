@@ -1,1 +1,0 @@
-['Washington', ', bei', 'Präsenz', 'der', ')', 'Koalition', 'Sieg', 'Nauert', ':', ',', 'ist', 'nichts', ',', 'anderen Kräften', 'Sieg', 'Die', 'nur', 'und', 'letzten', 'Kräfte', 'Ende', 'Syrien', ',', ',']

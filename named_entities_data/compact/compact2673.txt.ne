@@ -1,1 +1,0 @@
-['uns', 'es um', 'App', 'um', 'Welt', 'der', 'und', 'pompösen', 'Hälfte des', 'als', 'Soros', 'Was', 'nach', 'eines', ',', 'Zureisenden', 'wir', 'mit', 'mußte', '$', ',', ', offen für alles', '. Diese', 'Sozialen', ',', 'von', 'hier', ',']

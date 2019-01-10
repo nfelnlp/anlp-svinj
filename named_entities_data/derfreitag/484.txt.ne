@@ -1,1 +1,0 @@
-['Frankreich', 'Fred Dufour/AFP', '–', 'doch noch', '( FN', 'im', 'un Mouvement Populaire ( UMP', ',', 'Geist', ',', ', der', ', der Chefin', '15', 'Wahlgang', 'Die', 'Lektion begriffen', 'Schwere Bürden', 'Ayrault', '–', 'Frankreich', '.', '13', 'Kampf um', 'Diese gewann', 'in', 'auch', 'noch', ',', 'Bundeskanzlerin', 'dem EU-Gipfel', 'der']

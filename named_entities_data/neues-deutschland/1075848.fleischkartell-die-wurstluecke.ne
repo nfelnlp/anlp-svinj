@@ -1,1 +1,0 @@
-['Tönnies Schlachttiere', 'Deutschland', 'Giga-Schlachtanlagen', 'Salami', 'ist', 'ist', 'Udo', '-', '. Die', 'einigten sich', 'Preisspannen für', 'Millionen', 'Buße', '.', ', der', 'GmbH', 'über 6 Milliarden', 'mit Stammsitz', 'Sein ausgekochter Streich', 'zu', 'zu der', 'Signal', 'Sommer', 'die Wurstlücke', 'man', 'Geschäftsführung']

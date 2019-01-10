@@ -1,1 +1,0 @@
-['Frédéric Jaeger', 'in „Drive', '(', 'the', '„Elegisch', '“', 'die Action-Filme der', '– stärker', 'Spezifische', 'sich damit', 'könnten', '. Beim', 'Yorker', ',', 'genötigt ,', 'die', 'den', 'selber', 'gar', 'von', 'Kategorien', ',', 'wären', ', als', 'nun nichts', 'fast', 'in', 'Liebe', 'Erscheinung', 'Ist', 'Verengung', 'Konsens', 'werden sollen']

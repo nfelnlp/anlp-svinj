@@ -1,1 +1,0 @@
-['Trump', '„Ich', 'in', 'dem Ausbruch', 'in', 'nicht an', 'Volkswirtschaften', 'der', '.', 'einen unaufhaltsamen', 'sie', 'eine', 'ist der', 'Schock', 'und', 'es', 'zu', 'der', 'her', 'Wir', 'und', 'kühnen', 'einem', 'Ökonomie', 'Verleugnungsreflexe', 'Alltag', '.', 'erreicht', ',', 'als', 'als', 'voll', 'und', 'ist die', 'als', '.', 'ist', '.', 'gewann']

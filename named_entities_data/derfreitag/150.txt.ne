@@ -1,1 +1,0 @@
-['Wer', 'Damit springt', 'Strudel', 'diese Opfer', 'verantwortlich dafür']

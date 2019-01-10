@@ -1,1 +1,0 @@
-['…', 'Würzburger Universität', 'Schleich', 'Du', 'Gisela Müller-Brandeck-Bocquet', 'von', 'säkularer', 'negierend', 'man', 'an', 'Heiliges', 'Hals', 'liefen', 'aufs', 'Aber', 'Erklärung', '“', 'auf', 'Heimreise']

@@ -1,1 +1,0 @@
-['LM', 'Niedersachsen', 'weiter', 'gewillt', '. Die Obergrenze', '.', 'drauf', 'Auch', 'pro', '.', 'Billigmacher', '. Bis', 'den', 'näheren', 'direkten', '.', 'die', ',', 'wichtiger', 'wollte .', 'in', 'bei', 'Bundestagswahl', 'Ruder', 'aufgemischt']

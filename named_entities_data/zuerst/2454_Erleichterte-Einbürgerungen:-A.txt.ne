@@ -1,1 +1,0 @@
-['Bern', 'Schweiz', 'Schweizerische Volkspartei', 'SVP', 'als', 'und', 'hatte', '„Nein “', 'gegangen', '“', 'Einbürgerung']

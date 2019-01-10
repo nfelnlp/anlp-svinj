@@ -1,1 +1,0 @@
-['Elke Bunge', 'Mercator Research', 'Global Commons', 'MCC', 'Berlin', 'Asien', 'Afrika', 'Asien', 'Afrika']

@@ -1,1 +1,0 @@
-['bento', 'Süddeutschen', 'ihr', ',', 'besser', 'behandelt als', 'mit', 'Kartoffeln', 'die', 'sich als', 'gegenseitig', 'näherbringen', '“', 'Tourette-Syndrom', 'beim', 'bloß', 'aber', 'Nahrungsweitergabe', '. Das', 'Interessen', '– entweder', 'progressiven', 'oder', 'Heteronormativität']

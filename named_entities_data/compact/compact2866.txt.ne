@@ -1,1 +1,0 @@
-['Petr Richard Ortek', 'tschechischen', 'tschechischen Independent-TV-Sender', 'televize', '–', 'Behandlung', 'die', 'abschließen', 'sie', 'gehe', 'unter diesen', 'Mittelost', ')', 'Wenn', ',', 'Hinblick', 'Religionszugehörigkeit', 'mit', 'starb', 'mich', 'und']

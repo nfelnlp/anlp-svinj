@@ -1,1 +1,0 @@
-['Rom', 'Italien', 'Mafia', 'beruft', 'will', 'es', '5000', 'weit', 'Geld aus', 'Die', 'überholt .', 'wiederum profitiert die', '“', 'ihr']

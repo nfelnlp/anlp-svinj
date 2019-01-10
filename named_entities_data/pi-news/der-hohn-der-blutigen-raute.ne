@@ -1,1 +1,0 @@
-['Angela Merkel', 'Gefühlskälte', 'Merkel –', 'die Frau', 'nicht', '.', 'ziemlich', '.', 'Besonderheit', 'verhöhnt', 'die', 'wieder', 'wenn', 'sehr', 'verheerende', 'und Meinungsfreiheit .', 'und Meinungsfreiheit . Der', 'der „Bürger', '.']

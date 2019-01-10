@@ -1,1 +1,0 @@
-['hießen', 'oder', 'erst', 'spielen', 'ihre sieben', 'Familie', '. Die Familie', '2008 als', ', also kaufte', 'und ihre', 'logierten', 'gewöhnlich', ':', 'Le', 'der belgischen Menschenrechtsorganisation', '.', 'Verein', 'die', '„Generalverdacht “ zu', 'Die', 'ist', 'behandeln', 'ist', 'die angeklagten Frauen', 'mit', 'solche', '.', 'bekannt', 'er dafür']

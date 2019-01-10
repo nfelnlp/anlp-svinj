@@ -1,1 +1,0 @@
-['MRSA', 'ein', ',', 'die', 'Kurzform', 'zurück', 'Jahre zuvor', '94.000', '18.000', 'würden', 'Das', 'möglicher', 'es', 'Betriebe']

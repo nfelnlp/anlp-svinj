@@ -1,1 +1,0 @@
-[',', '.', 'Birnbach', 'gerade', 'der', 'in Deutschland vor ,', 'Der', ',', '. Die 5800-Seelen-Gemeinde', '. Die 5800-Seelen-Gemeinde Bad', 'Bäderdreieck unweit', 'Kurgäste vom', 'Fuß', '» Straße', 'damit', 'ohne eigenes', 'dahin', 'Ansonsten', 'der', '. Und', 'Auto']

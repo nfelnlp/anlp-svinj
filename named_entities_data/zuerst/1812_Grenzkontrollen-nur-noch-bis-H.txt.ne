@@ -1,1 +1,0 @@
-['Wien', 'EU-Kommission , die', '.', 'in', 'dieser', '„unter', 'Jahr', 'gestellt', 'daß', 'Grenzkontrollen', 'im', 'der', 'allem', 'die', 'kontrolliert', 'sollte']

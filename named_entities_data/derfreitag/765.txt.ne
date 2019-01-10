@@ -1,1 +1,0 @@
-['Rio', 'Rio', 'Brasilien', 'Landes', 'Velasco', 'AP/ dpa', 'touristischsten', 'eine brasilianische Frau', 'Männern', 'junge', 'Artikel', 'Überwachungskameras', ',', 'die', 'genommen', '–', 'gekürt', 'Brasilien', 'dem', 'Die', 'wurden', 'Rio', 'und die', 'Rio', '2012', 'in', 'zeigen', 'und', 'heiraten', 'unser', 'des', 'dem Verbrechen', 'Man', 'der', 'der Freitag-Redaktion']

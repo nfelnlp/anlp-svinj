@@ -1,1 +1,0 @@
-['Berlin', '.', 'stammen', 'Deutschland .', 'der', 'Herkunftsländer', 'Südostasien', 'die', 'gefolgt']

@@ -1,1 +1,0 @@
-['/ AFP', 'Getty', 'Stefan', 'hat im', 'ein ,', 'ehemaliger', 'dem in der Mannschaft', 'im', 'beim', 'vor den Konkurrenten', 'Di', ', Michael', 'und Alejandro Valverde', 'allesamt Fahrer', 'die inzwischen', 'Dopings überführt', '?', 'in', 'Lance Armstrong', 'wir nun', 'nicht nur', 'Managergehalt das']

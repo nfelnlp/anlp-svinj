@@ -1,1 +1,0 @@
-['Premier', 'Premier Valls', 'Frankreich', 'Faget/AFP/Getty Images', 'erlebte', 'Kampagne', 'nichts Geringerem als', 'einigen der', 'Regionen', '(', 'Sammlungsbewegung „aller', 'sieben', 'Das', 'Prozent ,', 'aus', 'Spruch', ',', 'keines', 'weitergewurstelt', 'versuchen', 'indem', 'die']

@@ -1,1 +1,0 @@
-['Groß-Enzersdorf . Schadenfreude', 'auch', 'verhehlen', 'Wiener', '. Der', 'für', '.', 'ihrem Flyer ,', '31', 'Pikant', 'dort', 'seit', 'Stadtregierung sitzen .', 'örtliche', 'So', 'habe er', 'nur', 'für']

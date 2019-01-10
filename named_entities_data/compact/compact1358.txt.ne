@@ -1,1 +1,0 @@
-['einen', 'dass sie', 'auf', 'auf Ihren', 'Ihnen absolut', ';', 'haben ,', 'politischen', 'verhindert', 'gewandt ,', ', dass', 'präsentieren an', 'die', 'kann', 'ergeben .', 'eher die', 'den', '.']

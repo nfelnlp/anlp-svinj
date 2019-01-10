@@ -1,1 +1,0 @@
-['Qantas', 'dass', 'Hongkong', 'der', 'eine', ', deren', 'nur', 'hochemotionalen', 'Vorige', 'Tibet', 'eigenständige', 'und', 'und die', 'Die', 'China', 'sich', 'die', 'erklärte', 'Ausländische Unternehmen', 'Macau', 'Taiwan', ',', 'alle', 'Die', 'dass diese', 'Seine', 'wohl', 'andere', 'möchte', 'Peking einzuknicken', 'zu']

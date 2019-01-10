@@ -1,1 +1,0 @@
-['rausfliegt', '25', 'bei', '. Modellhaft', 'diesen', 'auch', 'der', 'im Rahmen', 'Ausbildung', '.', ', welche', 'schon', 'Vorstellungen', 'Berufen', 'läßt', 'wird zum', 'JAW', 'Erfolg Gearbeitet', 'eine', 'Lebens', 'von', 'sich', 'allem']

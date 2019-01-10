@@ -1,1 +1,0 @@
-['Gutmann', 'gegenübersitzt', 'Aug.', 'lebend', 'Gutmann im', 'gegen', 'der 2011', 'zum', 'dass', 'sind', 'Rache', 'ebnete', 'der mit', 'entfliehen', ', hat', 'und', '1927', 'war das', 'stammte', 'US-Staates Utah ,', 'und', 'heute deren', 'Dort', 'Vereinbarung', 'auf', 'Boden ,', 'von', ';', 'allem Mitherausgeber der']

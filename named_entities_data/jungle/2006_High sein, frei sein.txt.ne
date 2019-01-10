@@ -1,1 +1,0 @@
-['Deutschland', 'von der', '.', 'den', 'Äußerlichkeiten', 'Anzeige', 'Liebeswerben gibt', '. Zu Monatsbeginn', 'er einen', 'an', 'in dem', 'zunächst', 'hauptsächlich', 'Konsumenten', 'wichtigen', 'der', 'Handel', 'letztlich', 'am 14 .', 'ihrem', '. Ganz', 'Betroffene', 'Jahr', 'Im', 'Image', 'gerade', 'rechtlichen', 'Lifestyle-Fragen', 'eine', 'Sie heißen']

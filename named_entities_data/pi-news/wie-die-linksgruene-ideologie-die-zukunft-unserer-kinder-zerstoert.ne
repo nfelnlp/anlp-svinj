@@ -1,1 +1,0 @@
-['Taliban', 'Kassenbeiträgen', 'Erstklässlern', 'und']

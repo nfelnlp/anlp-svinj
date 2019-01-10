@@ -1,1 +1,0 @@
-['Kosovo', 'Bedszent sammelt', 'Kurz und', ',', 'ist', 'Kurz', 'aus', 'sind', 'Thema', 'beleuchtet', ',', 'geraten', 'und', '.', 'Schluss', 'und', 'imperialen', 'ja', 'zunehmend', "''", 'eine kritische']

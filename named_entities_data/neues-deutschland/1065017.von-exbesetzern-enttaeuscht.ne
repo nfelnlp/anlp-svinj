@@ -1,1 +1,0 @@
-['Barcelona', 'Comú', 'Fabian Hillebrand', 'Jonathan Welker', 'Barcelona', 'Barcelona', 'Comú', 'Monica Garcia', 'Sants', 'Barcelona', 'Barcelona en', 'Barcelona en Comú', 'BeC', 'Mittelmeer-Metropole', 'und', 'auch die']

@@ -1,1 +1,0 @@
-['wie', 'es', 'Grenzen', 'Rande', 'entwickelt', '. Zwischen', 'Kernberg :', 'auch die', 'Lutolf 1988', ', 1990', 'und', '1987 )', 'durch', 'für', 'und', 'Ausdruck', 'dem']

@@ -1,1 +1,0 @@
-['RLS )', 'RLS ) mit', '700', 'die dritte Veranstaltung', 'im', 'auch', 'den Sozial-', 'spüren', 'fand', 'Ladenketten', 'Belegschaft', ',', 'um', 'Euro', '( NGG', 'bis 48-Jährigen sich', 'bis 48-Jährigen sich »', 'Eins', 'Betrieb', 'Bevölkerungsmehrheit unterstützte', 'gegen', 'Schulterschluss', 'Die Konzerne', 'vernetzt', 'machen .']

@@ -1,1 +1,0 @@
-['Europäische Union', 'EU-Befürwortern', ',', 'ist', 'wie', 'holen', 'an', 'die', 'Russland', 'auf', 'vor', 'eine verbindliche', 'Doch', 'hat', 'schlichtweg', 'Lust', 'Überfremdungsphantasien', 'in', 'aussehen', 'Ist', 'nicht', 'werden', 'Findet', 'Breslau', 'und', 'das', 'und', ',']

@@ -1,1 +1,0 @@
-['da', 'Liste . Aber', 'bin', '] .', 'etwas', ', wenn er als', 'gut', 'gegen', 'haben', 'dass', 'Atomenergie', '10.000']

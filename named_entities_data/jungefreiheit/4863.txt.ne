@@ -1,1 +1,0 @@
-['subkutan', 'Luther', 'Kaiser Maximilian I .', 'Gesetzesfrieden', 'Verleumder', 'Und', '``', ',', 'dann', 'mit', 'die', 'zusammenschlagen', 'ihn', ',', 'ihr', ',', 'begierig', 'empfing die', 'vom', 'auch', 'Sachen', 'Augenblick', 'Dennoch']

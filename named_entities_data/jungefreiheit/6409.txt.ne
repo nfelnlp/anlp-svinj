@@ -1,1 +1,0 @@
-['die', 'in', 'Tendenz', 'durch', 'wird', 'Kampf', 'steht', 'gehört', 'Sozialist', 'kulturbiologischer', 'auf', 'geschichtlichen', ',', ', sondern (', 'Großteil', 'Identität', 'unseren', 'beziehen', 'Der', 'manchen Konservativen und', 'einigen', 'hinter', 'veritables', 'Heute', 'in', '.', 'wir', 'Langzeitwirkungen', 'hinter', 'technischem', '.', 'sichern . Man', 'ein']

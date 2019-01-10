@@ -1,1 +1,0 @@
-['Gesellschaft', 'Wien', ', der', 'hat', 'Gesichtsverhüllungsgesetz', ',', '.', 'sich', 'ins', 'am', 'folgte', 'des']

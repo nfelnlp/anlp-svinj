@@ -1,1 +1,0 @@
-[')', 'Liberalisierung', 'Hafenarbeit', '»', 'Tränen in die', 'Nationalen', 'ausweichen', '.', 'dort', 'Empfehlungen', 'Chef der Vereinigung', 'zeigte', 'auch', 'eine', '-', 'Tanger', 'Marokko', 'zulassen', '.', 'dem', 'zu', ', an', '.', 'zeigen', ',', ',', 'verschlafen', 'Hafenbetriebe', 'Praxis', 'spanische Regierung', 'Urteil', 'diesem']

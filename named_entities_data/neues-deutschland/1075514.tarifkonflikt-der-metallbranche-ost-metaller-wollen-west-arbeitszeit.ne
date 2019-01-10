@@ -1,1 +1,0 @@
-['Volkswagen', 'Chemnitz', 'VW-Motorenwerk', 'Band', 'Golf', 'dem', 'vor', ', Chef', 'Pritsche', 'sich', 'und', '.', 'für', '. Bevollmächtigte', 'Metall', 'vor den', '.', 'Betriebsrates .', 'Metaller', 'Woche', '. Das', 'hinzu', '«']

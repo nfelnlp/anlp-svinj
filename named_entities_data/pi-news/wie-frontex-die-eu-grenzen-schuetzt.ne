@@ -1,1 +1,0 @@
-['einzudringen', 'auf', 'bringt', 'verstärkte', 'sicherstellen', 'Außengrenzen', 'ermöglicht werden , den', 'Seite', 'kamen', 'niemals', 'Erkenntnis', 'die', 'die Balkanroute', 'Missionaren', 'aber', 'auch', 'Sahara', 'zum', 'die', 'auch', 'undurchsichtigen', ': Die', 'Libyen', 'gebe', 'geht .', ', ihre', 'kommen ,', '.', 'wäre das', 'können', 'in', 'so', '2016']

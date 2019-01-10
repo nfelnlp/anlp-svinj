@@ -1,1 +1,0 @@
-['Jangtse', ',', 'der', 'ins', 'Indien', 'Abstand', 'Umweltforschung', 'für', 'Weihenstephan-Triesdorf zusammengetragen haben , liegen', 'der', '88', '.', '.', 'der', 'der', ',', 'Tonnen', 'sichtbar', 'am', 'aus', 'Euro', 'an . Der', 'einsetzt .', 'um', '.', 'sollte mehr', 'würde', 'fundamental']

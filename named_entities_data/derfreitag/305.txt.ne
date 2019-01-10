@@ -1,1 +1,0 @@
-['Images', 'weil', 'allem', 'Aufsatz berichten Wissenschaftler darüber', 'zwei Drittel', 'Informationen', 'Guardian Teilen']

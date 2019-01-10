@@ -1,1 +1,0 @@
-['Britannia', 'Royal Mint', 'beziehungsweise', 'in', 'Art :', 'der', 'stattdessen', 'meinen', 'ist', 'das', '.', 'Brexit-Referendums irgendwas', 'Königreichs', 'Anlagemünze .', 'kann auch', 'l', 'n', 'Rogers warnt', 'einsteigen .', 'ist erhaben', 'vielleicht', 'einen Trip']

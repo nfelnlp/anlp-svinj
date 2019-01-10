@@ -1,1 +1,0 @@
-['Gregory Baldwin', ',', ', der', '. Der', 'des', 'davon', 'festangestellten Lektoren', 'können', 'Die anderen', 'dem', 'es', 'lassen', 'ein', 'diese Schwierigkeiten', 'besorgen', 'diese nicht', 'verwertet', 'Rechtsstreits', 'und dem', '»', 'Zeit']

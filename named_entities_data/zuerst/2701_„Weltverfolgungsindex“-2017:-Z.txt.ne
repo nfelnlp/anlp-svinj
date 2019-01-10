@@ -1,1 +1,0 @@
-['Kelkheim', '“', ':', 'etwa', 'in', 'und', 'unter', 'Verfolgung', 'Terrororganisation', 'Afghanistan ,', 'Sudan', 'Syrien', 'Irak', ',', 'und', '.', 'verschlechtert', 'sich', 'Lage', 'um', 'nach', 'Doors', 'Bischofskonferenz', 'Bischofskonferenz ist', 'Hilfswerkes offenbar', 'Umgang', ', zeigt sich', 'und', '„Dort ,', 'die']

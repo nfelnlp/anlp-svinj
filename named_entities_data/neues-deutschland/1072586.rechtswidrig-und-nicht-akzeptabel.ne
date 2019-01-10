@@ -1,1 +1,0 @@
-['. Die', 'Doch fehlen nach', 'Donnerstag in Schwerin', 'des', 'bei .', 'Die', 'Anwendung', 'die', 'sei']

@@ -1,1 +1,0 @@
-['St. Petersburg', 'St. Petersburg .', 'St. Petersburg . Kremlchef Putin hat', 'Petersburger', 'kleine', 'bewogen', ':', ',', 'der', 'Folgen', ',', 'zerstört', 'Tunesien', 'Äußerste', '.']

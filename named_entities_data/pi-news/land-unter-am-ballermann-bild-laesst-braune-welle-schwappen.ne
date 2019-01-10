@@ -1,1 +1,0 @@
-['“', 'Julia', 'Bierkönig .', 'Party-Lokal', 'Mallorca', 'aus', 'wissen', ',', 'noch', '„Störkraft', '“ ,', 'werden', 'die', 'Und soll', ', der', '. 15', 'Und', 'Nazis', 'kommt es', 'halt gerade Mode „gegen rechts', 'kein Einzelfall', 'nach', 'dem', 'Aber Moment', 'sogar', '„NACH', 'Partymeile', 'mit', ',', 'Nachts', 'sie']

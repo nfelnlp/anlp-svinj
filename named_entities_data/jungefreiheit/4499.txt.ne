@@ -1,1 +1,0 @@
-['einhegen', 'Barthold Heinrich Brockes', 'unverbesserliche', 'Bösen', 'Lange', 'Francis Bacon', 'René Descartes', 'machtvoll', 'Sturm', 'Rousseaus']

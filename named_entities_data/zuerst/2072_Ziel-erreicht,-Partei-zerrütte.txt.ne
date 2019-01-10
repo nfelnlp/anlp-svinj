@@ -1,1 +1,0 @@
-['London', 'EU-kritischen', 'Carswell', 'Partei im', 'der', 'vom Posten des', 'Partei', '.', 'Fällen', 'einem Ziel', '.', 'schließen nicht', 'er', 'weshalb']

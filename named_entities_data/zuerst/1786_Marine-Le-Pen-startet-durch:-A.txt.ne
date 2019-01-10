@@ -1,1 +1,0 @@
-['Paris', 'Frankreich', 'Marine Le', 'Marine Le Pen', '” – so', 'Dupont-Aignan', 'ersten Oppositionskraft', 'Programm', 'Landschaft', 'zwischen', 'der', 'werde', 'mehr', 'zu', ', seine', 'diagnostizierte unterdessen nach der Wahlniederlage', 'habe', 'der', 'ins', '.', 'der Einwanderung', 'mü']

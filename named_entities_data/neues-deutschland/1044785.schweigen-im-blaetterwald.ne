@@ -1,1 +1,0 @@
-['pädagogischen', 'schlossen laut der', 'Tageszeitung', 'guardian', 'Kinderkrippen', 'Posten', 'Soweit', 'spärlichen', 'Streiks', 'hatten', 'Warum', 'im', 'weiter', ',', 'In', 'In', '78', 'In', 'Frauenbewegung', 'und', 'für', 'durften , wurde', 'Warum']

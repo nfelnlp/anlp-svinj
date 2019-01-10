@@ -1,1 +1,0 @@
-['David McNew/AFP/Getty', 'Jess', ':', ', Rebecca', 'vielen', 'ganze', 'mir dabei', 'du als', ':', ',', 'als wenn', 'bis Sonntag', 'Cousin', 'hätte', 'passiert', 'ich', 'es', 'auf Malcolm zukommt und fragt :', '„Nichts', 'nicht', 'entscheidest', 'So', 'mich', 'aufs', 'einsetzen', 'bist und', 'zählt', 'es gibt .', 'ist das', 'Totschlags angeklagt', 'Das wird', 'angeklagt']

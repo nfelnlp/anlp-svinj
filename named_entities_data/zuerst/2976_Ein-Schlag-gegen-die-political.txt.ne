@@ -1,1 +1,0 @@
-['Gesellschaft 2 Berlin', 'das', 'berichtet', 'dieser', 'wurde die', 'nur', 'der sich', 'keine', 'in', 'und', 'den', 'Fälle']

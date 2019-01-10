@@ -1,1 +1,0 @@
-['will die', 'Personalausgaben', 'Leonhard (', ')', 'den Tarifabschluss', 'refinanzieren', 'Branchenkennern', 'etwa', 'Mehmet', 'vor .', 'habe', 'noch', 'Wir', 'abdeckt', 'die', 'um', 'dies', '-Chefs', '.', ', so', 'zur', 'allen', ', sagt', '.']

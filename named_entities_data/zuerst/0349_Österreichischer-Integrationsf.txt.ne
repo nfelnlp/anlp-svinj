@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'Peter Hajek', 'Österreichischen', 'Österreich', 'Österreich', '2050']

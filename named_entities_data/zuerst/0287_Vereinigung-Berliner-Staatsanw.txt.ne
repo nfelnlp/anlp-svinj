@@ -1,1 +1,0 @@
-['Berlin', 'Ralph Knispel', 'Dirk Behrendt', 'Peter', 'Thomas Heilmann', 'CDU', ',', 'Und', ', viele Tausende', 'der']

@@ -1,1 +1,0 @@
-['aus', 'Montag', 'während', 'teilnehmen', 'selbst', 'wiederholt', 'wenn', 'aufkommen', '?', 'eine']

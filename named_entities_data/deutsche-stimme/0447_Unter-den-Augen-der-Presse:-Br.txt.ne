@@ -1,1 +1,0 @@
-['Magdeburg', 'Magdeburger', 'Bundespolizei', 'Kfz', 'angezündet', 'bereit', '.', 'im', '14', 'Hauptzollamtes', 'Stadtteile', 'allen', 'Sachsen-Anhalt', ',', 'der', 'Fahrzeuge beschädigt worden', ',', 'Volksstimme', 'Form', 'Blick', '.', 'Pflaster', 'scheuen']

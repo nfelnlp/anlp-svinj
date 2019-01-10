@@ -1,1 +1,0 @@
-['Elke Steven', 'Komitee', 'Grundrechte', 'die Sexarbeiterinnen', 'Diskussionsbeitrag in', 'beamteten', 'GWR Nr', 'wert', 'aktuellen', 'jedoch ausschließlich', '5 .', 'Frauen heute', 'den']

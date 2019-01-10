@@ -1,1 +1,0 @@
-['Brüssel', 'EU', 'Ukraine-Krise', 'Sanktionen', 'die', 'am', 'Beschlusses', 'ein', 'der', 'mü']

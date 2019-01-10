@@ -1,1 +1,0 @@
-['SPIEGEL-Autorinnen', ':', '.', '. Weil', ':', 'für Kriminologie', 'laut Kriminalstatistik', ':', 'ausgewiesen', ': „Der', 'Anzeigenbereitschaft', 'jede', 'doch', '„Der', 'jedem', 'die', '?', 'das', 'Im', 'Es', 'dem Argument', 'entschuldigen .', 'eine', 'die', 'auf', 'oder', 'bereits', 'Der Herr', 'Wenn', 'durchgefüttert', 'sind', ', gnadenloser', 'WELT-Autorin', '.', 'Welten']

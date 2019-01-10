@@ -1,1 +1,0 @@
-['Ankara', 'EU-Beitritt', 'jetzt', 'der', ':', '“', 'machen', 'kann', 'Positionsbestimmung', ',', 'ermöglichen', 'Türkei', 'dagegen', 'halt', ',']

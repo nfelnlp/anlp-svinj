@@ -1,1 +1,0 @@
-['(', 'keine', 'nur auf', 'Auto', 'nicht alle', 'ein ganz', 'Landshuter Zeitung', 'dabei aber', 'in die', '.', 'Nach', '.', 'Person , die', 'zum', 'die LZ', 'erhalten', ', dass sich', 'hat', 'gilt', 'genug', 'prominenter', 'noch die Adresse', 'dass die LZ-Redaktion', 'man', 'um', 'sein', 'die', 'ausgelöst', ',']

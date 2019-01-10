@@ -1,1 +1,0 @@
-['Facebook', 'Heiko Maas', 'SPD', 'sowie', 'US-amerikanischer', 'weltweit', 'seinen Mitgliedern –', 'Informationen', 'für', 'dann', 'mich']

@@ -1,1 +1,0 @@
-['Washington', 'versucht seinem', 'offenbar ein', 'am', ',', ', die', 'und', 'George W. Bush ernannt', 'Während Trumps Amtseinführung kommandiert', 'Mitglieder', 'anderen Bundesstaaten', 'anderen Bundesstaaten .', 'absichert', 'dann', 'nennt', 'nicht', 'breite', '„Zerohedge', 'extrem', '„New York', 'Namen der Menschlichkeit', 'Namen der Menschlichkeit weigern', 'Unter', '–']

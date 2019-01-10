@@ -1,1 +1,0 @@
-['.', '. Ein', 'worden', 'Gietzen . Bei', 'zahlen .', ', für', 'Vertreter', 'argumentierten laut', 'Rauch', '140 Alarme', '. Insgesamt', 'die']

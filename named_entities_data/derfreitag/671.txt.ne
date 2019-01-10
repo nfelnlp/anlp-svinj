@@ -1,1 +1,0 @@
-['Sean Gallup/Getty', 'Reden', '. und Ludwig', 'die Vorschriften ,', 'Doch', ',', 'stoße', 'Sauerbiere', 'Mischgetränk', 'lese', 'wird', 'die', 'Kunden', 'ist', 'Küchen- und']

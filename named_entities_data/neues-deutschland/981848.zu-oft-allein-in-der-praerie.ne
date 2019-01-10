@@ -1,1 +1,0 @@
-['Gewerkschaften in', 'es', 'vor 15', 'Bedingung', 'Beachtung', '.', 'Georgetown-Universität in', 'in der im', 'der', 'der Friedrich-Ebert-Stiftung', 'bröckelnden Tarifsystems ? Gewerkschaften und', 'der US-Bevölkerung', 'gewerkschaftlich', 'nur', 'der']

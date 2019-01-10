@@ -1,1 +1,0 @@
-['Wir', 'sind', 'berichten', 'vor', '.', 'fragen', 'niederländische', 'jüdische Philosoph', 'Welt', 'Toleranz und', 'Intoleranz', 'in', ',', 'Er', 'mich', 'Verhetzung', 'unglaublich', 'und', 'erschienen auf', 'Englischen von Renate']

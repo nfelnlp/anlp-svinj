@@ -1,1 +1,0 @@
-['Pest', 'Pirinci', 'gesamten', 'der', 'diese', ',', 'sich', 'der Sache', 'Nachschub', 'einen', 'keinerlei']

@@ -1,1 +1,0 @@
-['imago Wien', 'BZÖ', 'an', 'Dessen Klubchef', 'hat bereits', 'die', 'hinausgeworfenes', 'ihre', 'sich', 'die', 'die', 'stabil', '?', 'informeller', 'auch', 'ebenfalls', '%', 'Enorm', 'die']

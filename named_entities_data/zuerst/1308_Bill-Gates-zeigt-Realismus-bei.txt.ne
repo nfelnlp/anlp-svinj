@@ -1,1 +1,0 @@
-['Hamburg', 'Anders', 'Microsoft-Gründer', 'die Zuwanderung', 'jetzt', '„Der', 'Möglichkeit', 'zuletzt', 'Flüchtlinge', '„Deutschland', 'benutzen', 'unterstützt', 'seiner', 'Bill', 'gegen extreme Armut', 'gegen extreme Armut und Krankheiten', 'Wasser']

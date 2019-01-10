@@ -1,1 +1,0 @@
-['. Die', 'die', 'im', '( CDU', 'getroffene', '( DGB', 'ist', '»', 'Arbeitgebern von', '.', 'zu', 'dieses', 'Mai', '»', 'Niedrigzinsen']

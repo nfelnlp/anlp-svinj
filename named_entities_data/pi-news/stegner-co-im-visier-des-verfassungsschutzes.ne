@@ -1,1 +1,0 @@
-['INXI', 'Ralf Stegner', 'SPD', '( GRÜNE', ',', '( SPD', 'und', '( GRÜNE', '–', 'dieser', 'Kampagne', 'der', ',', 'sich', 'beim', 'besten', 'mit', 'was', 'Weise', 'muss Positionen', 'linken', '.', 'und Diffamierungen auf', '.', 'für', 'ist dazu zu', ', Parteien und', '“ zu bekämpfen', '„Aufstehen', 'AfD', 'Rolle']

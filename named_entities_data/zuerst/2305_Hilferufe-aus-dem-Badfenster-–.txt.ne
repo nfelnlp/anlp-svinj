@@ -1,1 +1,0 @@
-['Gesellschaft 0', 'Gesellschaft 0 Linz', 'Linz-Ebelsberg', '.', 'bestreitet', 'Afghanen', '31jährige']

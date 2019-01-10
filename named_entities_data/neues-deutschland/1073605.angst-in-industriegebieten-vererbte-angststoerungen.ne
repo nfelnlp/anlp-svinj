@@ -1,1 +1,0 @@
-['befragte 400', 'Social Psychology « veröffentlichten', 'Wales', ',', 'Psychologischen Klinik', 'die Ergebnisse zusammen', 'Potenzial', 'aus', '.', 'England', 'wurden', 'US-Wissenschaftler', 'Die', 'Ko-Autor der', 'Dabei sollten auch erkannte', 'Dabei sollten auch erkannte positive']

@@ -1,1 +1,0 @@
-['Getty', 'Eurozone', 'Madrid', 'Spanien', 'EU', 'Internationalen Währungsfonds', 'IWF', 'Spanien', 'Griechenland', 'Irland', 'Portugal', 'Madrid', 'für', 'Regierung', 'Finanzstabilisierungsfazilität', 'sie', 'allerdings', 'noch', 'verlangt', 'neuer', 'Auch', 'Rampenlicht', 'Märkten', ',', 'IWF', 'wären', 'ihn', 'etwas', 'zu', '.', '.', 'aus', 'das', 'Direktorin', 'Anbieter von']

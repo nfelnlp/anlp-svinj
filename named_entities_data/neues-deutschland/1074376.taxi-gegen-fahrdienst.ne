@@ -1,1 +1,0 @@
-['.', '. Das', 'und', 'Müller', 'der »', '«', 'Mitfahrangebote', 'die', '.', 'Vans', 'später', 'Startup', ',', 'dem', 'Bahn', 'VW arbeitet', 'einem', 'mit', 'dpa/nd']

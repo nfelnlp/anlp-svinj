@@ -1,1 +1,0 @@
-['Merkel', 'Fred Neubauer', 'Heidenau', 'Polizei', 'redlich', ', vor', '.', 'ein', 'aus', 'der', 'und ,', 'wird ,', 'in', 'rund', 'die', '.', 'mit', 'Steinen', 'einen', 'Tagen', ') muss bei', 'etwas', '“', ',', 'dass', ',', '„Hier', 'der Ferne', 'der', 'genannt', 'knapp', ',', 'Kopfhörer', 'werden', 'in', 'Das passiert', ',', 'gesagt', '?']

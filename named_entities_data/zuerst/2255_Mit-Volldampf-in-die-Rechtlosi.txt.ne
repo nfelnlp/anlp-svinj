@@ -1,1 +1,0 @@
-['Pretoria', 'Südafrika', 'und', 'schlechtem', 'angekündigt ,', 'als', 'In', 'Teil']

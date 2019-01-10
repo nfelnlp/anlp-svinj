@@ -1,1 +1,0 @@
-['Baleni sollte recht', 'Der', 'Zentrum', '» GroundUp', 'Angst', 'dass', 'in', '»', 'mit', 'weiter', 'die']

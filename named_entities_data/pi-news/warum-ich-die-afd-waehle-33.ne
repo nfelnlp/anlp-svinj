@@ -1,1 +1,0 @@
-['WOLFGANG R. |', ',', 'vor 50', '. Das', ', Roland', 'und viele', ', die sich', 'entgegenstellen ,', 'in allem', ', aber', 'bekommt']

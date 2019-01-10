@@ -1,1 +1,0 @@
-['Oprah Winfrey', 'Golden Globe', 'USA', 'Oprah', 'Golden Globes', 'ihrer', 'Rede offenbar', 'aus', ',', 'sorgt', 'mehr als zehn', 'Talkshow und', 'of Capital', 'fänden', 'Rolle politischer', 'Aschoff', 'rate', 'An', 'Duktus', 'indem sie die', 'Autorin', 'der', ',']

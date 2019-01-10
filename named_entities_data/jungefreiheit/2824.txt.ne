@@ -1,1 +1,0 @@
-['NS-Parolen', 'je', 'Erkenntnissen', 'des', 'Rechtsextremismus wird', 'weitgehend', 'verbundene', 'viel', 'den', 'Verwenden', '.', 'Folkmar']

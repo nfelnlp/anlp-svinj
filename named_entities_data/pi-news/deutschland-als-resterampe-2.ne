@@ -1,1 +1,0 @@
-['Deutschland', 'Euro', 'sich', 'der', 'Kredit in', 'Stand', 'Unternehmen', 'mehrfach', ',', 'für den', 'Und', 'Garant', 'durch', 'sich', 'entmachten', 'eigentlich für', 'So', 'nur', 'Es', 'liegt', 'beibehalten', 'Unternehmen', 'folglich', 'sich', 'Deutschen', 'Gehen']

@@ -1,1 +1,0 @@
-['Helmut Schmidt', 'Türkei', 'Merkel', 'dies', ': Die', '.']

@@ -1,1 +1,0 @@
-['. Tausende', 'gegen die', 'von', 'Stahlsparte', 'Knapp 8000', 'von', 'nahmen an der', ',', 'Tata', 'September', ', ihre', 'europäischen', 'bis zu', 'weitere Stellenstreichungen', 'Aufsichtsrat', ', verlangte', 'ein , zwei', 'Prozent auf 547']

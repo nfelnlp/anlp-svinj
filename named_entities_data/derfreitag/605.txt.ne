@@ -1,1 +1,0 @@
-['man', 'Friseur', 'ich', 'Blickes', 'stark', 'und', ',', "''", 'irren/', 'auch', 'manchen', 'Gewesenen', 'Sensation']

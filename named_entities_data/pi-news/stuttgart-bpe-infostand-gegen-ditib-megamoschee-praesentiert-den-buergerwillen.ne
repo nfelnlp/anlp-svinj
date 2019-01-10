@@ -1,1 +1,0 @@
-['Pax Europa', 'Stuttgart-Zuffenhausen über den', 'Mega-Moscheebau', 'steuerten', 'auf die', 'getragen', 'seinen', 'Darlehen', 'die', 'die', ',', 'da', 'besser', 'Ditib-Bauvorhaben', 'steht', 'vom', 'Dr.', 'Maier', 'in', 'das Bauvorhaben', 'PI-Berichte', ',']

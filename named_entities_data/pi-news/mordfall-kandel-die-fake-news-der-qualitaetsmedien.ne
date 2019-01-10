@@ -1,1 +1,0 @@
-['PLUTO', 'und', 'sich', 'mutmaßlich Afghanistan', 'nun', 'sind', 'genannten Printausgaben von Freitag ,', 'wichtigen', 'die', 'geneigte', 'Altersangabe', '-Zeitung', 'falsch und', 'daraus', 'bekannt , dass', 'Fällen ausschließlich auf']

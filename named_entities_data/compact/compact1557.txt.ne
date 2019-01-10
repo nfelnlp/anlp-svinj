@@ -1,1 +1,0 @@
-['Ellen Kositza', 'Ellen Kositza', 'Kositza COMPACT', 'kurzzeitigen Empörung', 'nur', 'halb', 'einem', 'wir', 'hochschwangerem', 'erschossen', 'Mutter', 'fünf', 'einem', 'gewarnt .', 'Die', 'sie', 'Griff bekommen', 'Vergewaltigung', 'anno 1997', 'bereits so', 'von', 'und']

@@ -1,1 +1,0 @@
-['kniehoch', 'als ein', 'eine', 'Stadtpatrons', 'Dominikanermönch', 'dem', 'reichen', ',', ', ein', 'weltweit', 'läßt', ',', 'trockene', 'Ort', 'wird der', '.', '``', 'Plastikplanen', ',', 'staut']

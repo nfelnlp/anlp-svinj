@@ -1,1 +1,0 @@
-['Judith Levine', 'Schriftstellerin ,', 'sexuelle', 'wollte', ',', 'einen', 'und', 'Gewalt', 'Violence Against', 'einen riesigen Gesetzeskorpus', 'dieses', '»', 'Das Prinzip', 'hat ,', 'sie', 'gegeben', 'Anzahl']

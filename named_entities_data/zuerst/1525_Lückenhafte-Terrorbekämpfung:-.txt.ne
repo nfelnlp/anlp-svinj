@@ -1,1 +1,0 @@
-['Brüssel', 'über', 'Personalmangel', 'Feststellung', 'wir die Verantwortlichen', 'diesem', 'der', 'drei', '.']

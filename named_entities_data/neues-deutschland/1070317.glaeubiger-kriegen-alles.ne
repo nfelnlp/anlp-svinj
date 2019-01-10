@@ -1,1 +1,0 @@
-['am', 'am Main . Neun', 'das', 'AG werden vollständig entschädigt', 'mit der', 'allem', ',', ',', 'bei', 'gespielt', 'Zeitschrift', 'über', 'nach Institut führten']

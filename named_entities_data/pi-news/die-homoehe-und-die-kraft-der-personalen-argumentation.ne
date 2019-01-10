@@ -1,1 +1,0 @@
-['PETER M. MESSER', 'fühlt', 'für ihren', 'das', 'Tett hat', ', die', 'untersucht', 'auf', 'zu', 'Homoehe ein', 'vorgestellt', 'der persönlichen']

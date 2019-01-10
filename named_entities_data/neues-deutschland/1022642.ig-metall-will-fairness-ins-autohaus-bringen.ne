@@ -1,1 +1,0 @@
-['Schleswig-Holsteins Kfz-Betrieben arbeiten', 'Schleswig-Holsteins Kfz-Betrieben arbeiten tarifgebunden', 'Fair Trade', 'in', 'Mittlerweile', ',', 'Partner', 'Leben gerufen', 'nun', 'zunehmend bewussteren Kauf-', ', dass']

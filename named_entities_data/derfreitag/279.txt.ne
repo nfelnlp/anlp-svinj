@@ -1,1 +1,0 @@
-['Antonio Pietrangelis', 'Michelangelo Antonioni', 'berauscht', 'Gemüt', 'Mario Adorf', 'Nero )', 'Goggomobil', 'klirrt', 'zwar', 'doch', 'Strand', 'wie', 'mit', 'wie', 'Ich habe', 'heiligen', 'Glitzer', 'abwanderte .', 'leicht und sorglos', ') ,', '. Wo', 'tapst', 'dieser', 'hätte', '1965 )', ',', '€']

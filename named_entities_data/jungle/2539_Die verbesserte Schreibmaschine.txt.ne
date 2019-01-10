@@ -1,1 +1,0 @@
-['zwischen', 'US-amerikanischen', 'Kevin Spacey', 'Politthrillern vorhergesagt', 'Goodwin und', 'Sharp .', 'gegeben', 'beiden', 'Frage', 'Intelligenz (', 'Künstler', ', stellt sich diese', 'davon', 'Badehose und', 'rezitierende', '«', 'sagt', '. Der', 'Filme.', 'drei', 'des', 'Werk', 'findet', 'Interesse an', 'Aufgaben', '.', '«', 'schreiben', 'A.I', 'Teil .', '«', 'groß']

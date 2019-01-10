@@ -1,1 +1,0 @@
-['Mafia', 'Bestmöglich', 'einem', 'Nicht nur', 'Tonkin', 'die', 'Reagans', 'der', ',', 'vielen', 'glauben', 'Dunkelmänner', 'man', 'die', 'Stories', 'alle', 'darüber berichten', 'geglaubt', ',', 'im']

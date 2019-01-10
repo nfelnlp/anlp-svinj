@@ -1,1 +1,0 @@
-['Tom Strohschneider', 'Elsa Koester', 'Tom Strohschneider', 'DiEM', 'Yanis Varoufakis']

@@ -1,1 +1,0 @@
-['Riesterland', 'Nestlé Deutschland', 'Susanne Ferschl', 'Allgäu', 'LINKE', 'Hans-Gerd Öfinger Mitten im', ', der', 'Füssen', '80', ',', 'Kaufbeuren', 'traditionsreiche', 'derzeit', 'Ausbildung zur', '.', 'einer', 'Organisationsgrad', 'auf']

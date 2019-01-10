@@ -1,1 +1,0 @@
-['Paulitz', 'USA', 'Deutschland', 'Paulitz', 'diese']

@@ -1,1 +1,0 @@
-['Islam-Karikaturen', 'und', 'gilt', 'in', 'von', '?', 'Drohnen-Killer-Einsätzen..alle', ', dass', 'schuldig sind', 'sie wissen', 'dass', 'mit', 'natürlich', '.', 'hatte', 'als', ',', 'habe', 'Hamme', 'wirklich die', 'Land', 'Texas –', 'ist', 'Reste', 'dann', 'zu', 'nicht', 'sich andrerseits in ihren Gastländern nicht aufgenommen', 'hatte', 'in']

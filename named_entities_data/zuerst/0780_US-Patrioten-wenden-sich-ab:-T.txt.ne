@@ -1,1 +1,0 @@
-['Washington', 'hat jetzt', ': Trump', 'er', 'Wörtlich', 'in', 'gedrängt', 'Ku-Klux-Klan', 'News', ',', 'entsetzt', '.', 'geschluckt']

@@ -1,1 +1,0 @@
-['Washington/Moskau', 'Beobachter', 'Rückgabe der', 'durch', 'Vorher', 'man', 'Trump', 'deutlich', ',', 'sie', 'zurückgibt ”', 'der', 'des', '.', 'gab es', '.', 'russischen Parlaments', 'Forderung', 'Alle', 'auf', 'territoriale', 'Sprecherin', 'nicht unser', 'letzten', 'daß', '.', '„Wir']

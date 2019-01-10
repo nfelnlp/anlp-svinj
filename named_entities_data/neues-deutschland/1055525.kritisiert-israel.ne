@@ -1,1 +1,0 @@
-[',', 'Seibert', 'der sich', 'ganz', 'für', 'Züge', 'Rózsa', 'eine', 'Auch er', '.', 'lebt', 'und', 'und', 'wieder', 'Nina Röttgers', 'wurden . Letztere', 'Klaus', 'und kamen', 'von', 'des', 'mitgetragen', 'als', ',', 'wusste ,', 'ganz', ',', 'von', 'die', 'auch auf', ',', 'Klaus Rózsa', 'Aktivismus ,']

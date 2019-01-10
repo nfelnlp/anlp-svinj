@@ -1,1 +1,0 @@
-['Budapest', 'schwerer', 'Regierungspartei', ',', 'vor', 'Budapest', 'Der', 'George', 'Diese „Pseudo-Zivilen', ',', 'und', 'sich', '2017', 'wird', '.', 'November']

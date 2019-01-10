@@ -1,1 +1,0 @@
-['Stuttgart', 'Stuttgart-Bad', 'einen 32-Jährigen', 'Die', '15-Jährige', 'Samstag', 'Juli', 'im', 'von', '.', '. Ulm', 'der', 'Auseinandersetzung', 'Männer', 'Tatverdächtigen', 'stellen', 'ist', '1,75', 'mit', 'der', 'er', 'türkisches', 'Asylwerber', 'die', 'Einsatz', ',', 'Kollegen', 'fünf', 'sechs', '.', ',', 'der', 'Rücken', ',', 'der']

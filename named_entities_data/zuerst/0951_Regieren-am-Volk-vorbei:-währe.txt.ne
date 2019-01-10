@@ -1,1 +1,0 @@
-['Berlin', 'Dublin-Regelungen', 'Deutschland', 'diese', 'dem „Tagesspiegel', 'einer', 'des', 'für', 'mehr', '.', '„die']

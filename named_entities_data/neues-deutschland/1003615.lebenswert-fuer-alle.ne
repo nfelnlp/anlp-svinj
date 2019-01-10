@@ -1,1 +1,0 @@
-['liefert keine', 'in', 'die', 'als 4000', 'zu', 'seinem Buch', 'als', 'städtischen', 'vor', 'Tauschwert', 'sehr', 'Nazis', 'Kritik', 'lehrte', 'in Nanterre', '1968 ihren', '1968 ihren Ausgang', 'Aktivisten', 'Besetzung', '«', 'ging', 'nicht', 'um', 'besseres', 'ihn war', '18 €']

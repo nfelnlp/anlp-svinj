@@ -1,1 +1,0 @@
-['Karl-Jürgen Müller*', 'bösartiger', 'Seit 5.45', 'folgender', 'möglichst', 'möglichst', 'kurzem', 'Fragen', 'Fragen an', 'diese', 'Ukraine', 'als', 'des', ',', 'Experten', '. Warum', 'in', 'der', '»', '.', '. Warum', 'der', 'und', 'ukrainischen Radaranlagen', 'Wie', 'Wie', 'noch', 'kein', '»', 'Europa', 'Scholl-Latour', 'nach zwei Weltkriegen und', 'von', 'damit']

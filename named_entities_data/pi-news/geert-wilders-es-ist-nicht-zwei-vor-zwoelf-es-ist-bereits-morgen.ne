@@ -1,1 +1,0 @@
-['niederländischen', 'Geerd Wilders', '.', 'Slominski :', 'ist', 'in', 'ich', 'aufgefordert', 'Prozent', 'Menschen', 'worden', 'geben sich', 'Doch sie', 'sind', 'nicht', 'Anschlag', ',', 'die', 'darauf als erstes', ',', '.', 'Freiheit', 'der', 'Und', 'und', ',', '“', '“ Es', 'sie', 'zurückkehren', 'im', '?', 'auf', 'die die', '.', '“', 'das', 'nicht', 'es']

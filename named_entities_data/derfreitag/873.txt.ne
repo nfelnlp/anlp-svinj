@@ -1,1 +1,0 @@
-['Johannes Eisele', 'AFP', 'Getty', ')', 'sich', 'Gründung', 'ja', 'oder', 'Schäuble geäußert', '. Aber', 'der', 'CDU-Staatssekretär in', 'dürfte', 'nicht', 'bald wieder', '.', 'zu weiten', 'Plagiatsfall .', '–', 'Chaos', 'stärksten', 'ein', 'gerade', 'Kolumnist', 'Freitag', 'große', 'gearbeitet ,', '. Er lebt', 'Berlin']

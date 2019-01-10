@@ -1,1 +1,0 @@
-['mit', 'einem', 'sich', 'viele', ') will', 'und', 'zur', ',', 'unter', 'auf', 'zehn', 'der', 'würde', 'werden', 'für', ', ob', 'dem Gleichheitssatz', 'wieder', 'werden', 'öffentliche', 'dann', 'keine', 'Höhe', 'dort', 'direkt', 'damit']

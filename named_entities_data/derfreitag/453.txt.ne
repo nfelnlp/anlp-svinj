@@ -1,1 +1,0 @@
-['Anne Teresa de Keersmaeker', 'J.S', 'Bach', 'Bach als Tanz', 'de Keersmaeker ist es', 'angegangen .', 'Festival in den', 'Im folgenden', 'betreten', 'Nach', 'nach entsteht', 'ein', 'angenehmes', ',', 'Obwohl es', ',', 'Strukturen', 'Stück', 'my', 'das Gehen', 'die', 'Sonaten geheime', '– gibt hier', 'Teilen :']

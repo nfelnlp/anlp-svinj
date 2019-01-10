@@ -1,1 +1,0 @@
-['Berkeley', 'Political', 'USA', '.', 'Dawkins wegen', '.', 'sollte', 'in', 'zu', 'dem', 'Christentum gemäßigt']

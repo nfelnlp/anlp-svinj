@@ -1,1 +1,0 @@
-['Armstrong Roberts/Retrofile/Getty Images', 'Menschen', 'faul', 'schreiben', 'Erkenntnisse ist', 'nun', 'ganz', 'wird', 'daher']

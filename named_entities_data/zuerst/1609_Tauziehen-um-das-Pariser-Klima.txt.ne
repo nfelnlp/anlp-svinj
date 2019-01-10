@@ -1,1 +1,0 @@
-['Washington', 'zum', 'berichtet „Axios', 'dem Pariser', 'auszusteigen', '.', 'argumentieren', 'sei', 'menschengemacht', 'Abkommen', '.']

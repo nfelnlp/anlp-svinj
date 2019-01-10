@@ -1,1 +1,0 @@
-['Schweden', 'Schweden ... !', 'das', 'speziellen', 'Recht', 'zu', 'zurück', 'werden', 'Sobald', ',', 'und', 'und rechtens', 'formeller', 'Garantien', 'Oktober', 'die', 'Stefan', '``', ',', 'möglichen charakterlichen', 'Herrn', 'mehr', '.', 'stellvertretend', 'den', 'finden ,', 'Großbritannien', 'strafbar', 'Diese', 'kondom', '!', 'einen', 'es']

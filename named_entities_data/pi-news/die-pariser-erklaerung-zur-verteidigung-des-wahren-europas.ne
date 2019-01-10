@@ -1,1 +1,0 @@
-['ALSTER', '„wahren', 'Jahres', 'dominierende', 'lehnen', 'Europäer', 'zu', 'Wertschätzung unserer', 'wird immer', 'Regeln', 'europäischen Freiheit', 'Zeit', 'für', 'Berechtigung…', 'France )', 'Dalmacio', '–', '( Deutschland', 'Spruyt (', 'Storme (', ')']

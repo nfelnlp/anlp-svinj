@@ -1,1 +1,0 @@
-['erstritten', 'Molotow-Cocktails', 'bürokratischen', 'sind', 'anderem', ',', ',', 'und', 'und', 'der', 'verbreiteten', 'von', 'und', 'an', 'Nabil', 'eindrucksvoll über', 'Am Sonntag', 'über', 'Jan vom', '(', 'lokale', '.']

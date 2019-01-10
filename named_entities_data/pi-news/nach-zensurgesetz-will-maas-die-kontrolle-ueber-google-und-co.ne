@@ -1,1 +1,0 @@
-['L.S.Gabriel', 'gerne', '.', ', Grundlagen', 'der', 'einmal', 'die', 'ist']

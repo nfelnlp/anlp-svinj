@@ -1,1 +1,0 @@
-['Europa', 'Lateinamerika', 'Josephine Schulz', 'Josephine Schulz Internationale', 'Berlin', 'Venezuela', 'El Salvador', 'Europa', 'Lateinamerika', 'Europa', 'Südamerika', '» Internationalismus']

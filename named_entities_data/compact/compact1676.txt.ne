@@ -1,1 +1,0 @@
-['Das Durchzocken der', 'dem Landeswahlleiter gestern', 'Warum', 'Eckert : Vor', 'hier etwas', 'in der Mandatsprüfungskommission', 'man', 'bedingt unter', 'es zu', 'Versuch', 'Kategorie absolute', 'der Landeswahlleiter', 'AfD-Liste aufgrund', 'zwar die', 'Wir müssen', 'und', 'eine innerparteiliche', ', den', 'Abonnement']

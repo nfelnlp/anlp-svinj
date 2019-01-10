@@ -1,1 +1,0 @@
-['Pfullendorf', '„Ich', 'Schmidt gegenüber', ',', 'mit', 'von', 'hart ins', ':', 'Ministerin', 'der', 'der Kaserne']

@@ -1,1 +1,0 @@
-['B. kleine', 'und', 'groß', 'und', 'gibt', 'Abkömmlingen', 'Regierung', 'EU-Kommissars', 'Dimitris', 'bis', 'Migranten', 'Mensch', 'Vermischung', 'bei', 'in', 'und', 'sind', 'haben', 'dass', 'dar', 'das', 'nicht', 'befördert', 'den Grünen', 'es', 'Prävention', 'ist', '. Der', 'nicht', '.', 'als', 'ihre', 'verankern']

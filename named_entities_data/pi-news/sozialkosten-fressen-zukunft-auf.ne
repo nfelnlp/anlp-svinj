@@ -1,1 +1,0 @@
-['Bertelsmann-Stiftung zufolge wurden', 'sich', 'Anteil', 'Ausländern', 'Bevölkerung', ',', 'Hessens , beträgt', 'Millionen', 'kostet', 'der', 'Mainmetropole', 'Stadt', '2017', 'mehr', 'in']

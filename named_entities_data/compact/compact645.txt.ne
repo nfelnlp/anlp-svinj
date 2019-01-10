@@ -1,1 +1,0 @@
-['Porsche', 'das', 'selbsternannte', 'unseren Interviewpartner', 'Gespräch mit Oliver', 'des Vereins', 'hat', 'und Fernsehmoderator', 'und Schadstoffausstoß ausgelegt', '–', 'in', 'Gesundheit', 'Gesellschaft', 'COMPACT', 'hohem', '.', 'Jahren', 'zu Konservativen', 'Gewissen', ',', 'würde', 'eines', 'billigere', 'in']

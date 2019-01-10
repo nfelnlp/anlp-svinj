@@ -1,1 +1,0 @@
-['BRD-HipHop-Game', 'es', 'schon', ',', 'für', 'manche schon', 'haben sie', 'getan ?', '»', 'schon vor langer', 'Seite', '»', 'und', '.', 'diese', 'jetzt', 'ausgesprochen', '» Fickt', 'Shirt', 'Auf', 'habe', '.', '.', 'den', '\xadSatire', 'auf', 'Losern', 'Patientenkollektiv', 'ich', 'Identifikationsfiguren gewesen', 'mal', 'grölenden', 'mal', ',']

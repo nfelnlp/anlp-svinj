@@ -1,1 +1,0 @@
-['Lügenpresse', 'Sieferle „verschwörungstheoretisch “', 'und', 'des', 'das Gezeter', 'mit', 'NDR-Kultur-Redakteur )', 'schließlich', 'Fall', ',', 'Sieferle', '„Die Sieferle-Medizin “', 'unseres Monatsmagazins', 'eine ebenso klare', 'gegenüber', 'war .', 'sondern', 'Subkontinent', 'bestellen', 'Schlussfolgerung', 'Ausbeutung', 'betragen', 'Migranten', 'Raums']

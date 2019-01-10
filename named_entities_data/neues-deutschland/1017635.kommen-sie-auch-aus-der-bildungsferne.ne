@@ -1,1 +1,0 @@
-['Tanja Abou', 'Justice Training', 'reflektieren', 'auch', 'Forschungsbeiträge', 'Bewusstseinsprozess', 'die Broschüre']

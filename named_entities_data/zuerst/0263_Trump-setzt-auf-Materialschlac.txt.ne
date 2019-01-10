@@ -1,1 +1,0 @@
-['Washington', 'keinen Widerstand', 'Gesetz', 'Wahlkampf', 'Ziele', 'Bereitstellung', '.', '.', 'der', ',', 'durch', '(']

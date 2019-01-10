@@ -1,1 +1,0 @@
-['wurde', 'kommt', 'umtriebige', 'mit', 'Hilfe', 'Foto', 'die Liebe', 'sicher', 'Kultur', 'ihn als', 'ab', 'Zu gewinnen', 'Das', 'etwas', 'und', 'im', 'Zusammenhänge', 'unkritisch', 'der', 'die', 'und', 'pausenlos', 'er .', ',', 'verstecken', 'Schicksale', 'Die', 'dem Zusammenhang sogar', 'Kaddor', 'meinen Sie', ',', 'in', 'sich', 'diese', 'dass', 'die']

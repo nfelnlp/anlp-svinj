@@ -1,1 +1,0 @@
-['Düsseldorf', 'Nordrhein-Westfalen ins Haus', 'aktuellen', 'mit', '31', 'mit', 'Auftrag', '31', '30', '9', 'auf', 'Auftrag', 'Die', 'Prozent']

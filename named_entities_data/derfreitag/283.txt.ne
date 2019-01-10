@@ -1,1 +1,0 @@
-['.', 'war', 'über', 'von', 'auf', 'verschenkte', 'Aleppo', 'möchte', 'muss', 'Rowohlt 2015']

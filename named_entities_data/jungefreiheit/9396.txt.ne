@@ -1,1 +1,0 @@
-['Deutschland', 'mьssen', 'schьtzen', 'stдndig', 'wдre', 'jьngerer', 'Bundesrepublik', 'daя', 'Polizei', 'Letztverantwortlich', 'mьяten', 'Und', '?', 'die', '?', 'Was', 'vorstellen', 'Regierung', '.', '?', 'erst Gьltigkeit', 'dessen Gutachten zum', '. Vosgerau', ':', 'ist eine', '÷ffentliches Recht', 'ДDie', 'bei', 'Monaten']

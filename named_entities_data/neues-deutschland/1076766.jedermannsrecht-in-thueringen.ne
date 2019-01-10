@@ -1,1 +1,0 @@
-['.', '. Thüringen', 'den', 'Winter ( SPD', 'in', 'Mit', '.', 'Die', 'alle', 'Regelung', 'auf', 'die', 'Beratung', 'zur', 'bestehen']

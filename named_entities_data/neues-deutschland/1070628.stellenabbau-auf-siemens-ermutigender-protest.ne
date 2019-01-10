@@ -1,1 +1,0 @@
-['nicht', 'verrechnet .', 'schon', 'will', 'Gewinne', '-', 'vielleicht', 'und']

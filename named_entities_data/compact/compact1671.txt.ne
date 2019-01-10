@@ -1,1 +1,0 @@
-['Bries , Brüssel', 'junges', 'da', '– die', 'der', '“ .', 'und', 'die ihr', 'geachtet', 'unten', 'ausgeblendet', '“ organsierte', 'Richter ,', 'EU-Kommissar .', 'diesen', 'prostituiert ,', 'werden', 'bat', 'ging']

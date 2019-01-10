@@ -1,1 +1,0 @@
-['Horst Möller', 'von Unschuldigen', 'bis', 'zum', 'wie', 'hinaus', 'Rassen-Genozid und', 'systematischen', 'ausgeführt', ', die Widerstand und', 'zu', 'dieser', 'schließt', ':', 'jüdischen', '1941', 'Krieg', 'gesamte', 'seine', 'sie', 'Herrschaft', 'und', 'im', 'zu der', 'daß', 'überhaupt', ',', 'war', 'in', ',', 'Bauern', '.', 'sein', 'daß', 'Täter']

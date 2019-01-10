@@ -1,1 +1,0 @@
-['Ländern', 'EFFAT )', 'EFFAT ) hielten', 'Gewerkschafter', 'die', 'Deutschland waren', 'Coca-Cola-Belegschaften', 'permanenten', 'Auf', 'EU', 'Tagesordnung', 'eigenen', 'sklavenartige', 'Nach', 'fast', 'vielen', 'für', '.', 'deutscher', 'dem', 'nebenbei']

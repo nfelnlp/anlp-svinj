@@ -1,1 +1,0 @@
-['Osnabrück', '„Diesel', 'Landsberg ,', 'Städte-', 'den', 'Menschen', 'daß', 'Automobilbau “', ')']

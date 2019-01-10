@@ -1,1 +1,0 @@
-['Meyer Schultze', 'Bundesrepublik Deutschland', 'zum', 'an', 'Kishons Spaziergängen']

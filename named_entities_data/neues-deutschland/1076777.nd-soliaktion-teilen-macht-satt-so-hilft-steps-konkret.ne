@@ -1,1 +1,0 @@
-['Linda Mafuna', 'zur', 'Mafuna .', 'Khayelitsha', 'zeigen', 'nd-LeserInnen']

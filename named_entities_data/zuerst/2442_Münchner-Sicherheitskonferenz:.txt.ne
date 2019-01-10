@@ -1,1 +1,0 @@
-['München', 'Ischinger um', 'macht mir Angst “', '“', ',', 'nicht', 'Bauunternehmer', 'können.', 'Februar', 'Staats-', 'und der', '. (', ')']

@@ -1,1 +1,0 @@
-['.', '. Der', 'wächst im', '( CSU', 'bereits', 'Er', 'jährlich', 'Erhöhung', 'vor', 'dpa/nd']

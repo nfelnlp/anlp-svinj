@@ -1,1 +1,0 @@
-['Peter Nowak', 'Frankreich', 'Deutschland', 'Italien', 'Frankreich', 'Schweden', 'Polen', 'Paris', 'Frankreich', 'einer', 'Mittelpunkt']

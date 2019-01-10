@@ -1,1 +1,0 @@
-[',', 'Grau', 'Aufsehen ,', 'Sunday', '« im', 'er', 'ist', 'der linksliberalen', 'immer ,', ',', 'keine andere', '100', '.', 'sind die', ':', 'Herz', 'Fuß in', 'Gehälter zu', ',', 'mittleren', 'hat']

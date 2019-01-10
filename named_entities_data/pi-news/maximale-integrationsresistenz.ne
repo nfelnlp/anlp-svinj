@@ -1,1 +1,0 @@
-['Schimanski ) an', 'Abstammung', 'von', 'bei der', 'des', '. Um', 'e.V', 'Mazyek', 'Eine', 'viele', 'ihren', 'oder', 'ihren', 'weiter…', '.', 'ist doch', 'unserer', 'Viertel', ',', 'integrationsfördernd', 'wird', 'ihren', 'Maryam hat', 'Deutschen', 'und', 'Beten', 'A.', 'hat ,', 'Integration nicht', 'der', 'es', ',']

@@ -1,1 +1,0 @@
-['Vilnius/Moskau', 'Im', 'Linas', 'vorgeschlagen ,', 'Königsberg', 'Kaliningrad', 'von', '. Balsys', 'Argumentation', ', daß', 'Regel', 'Litauen', 'EU', 'Kaliningrad', 'abgelaufen', '.', 'eine', 'Auswärtigen Ausschusses', 'schlug', 'daß', 'Kaliningrader', 'solle', 'daran', 'Region', 'gehört', ',', '1917', 'und 1939', 'Litauen', 'das', 'was']

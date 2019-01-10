@@ -1,1 +1,0 @@
-['Kolumbien', 'Knut Henkel', 'Francisco » Pancho « Medina', 'Medina', 'wie', 'einem', 'Die', 'eine', 'Hier']

@@ -1,1 +1,0 @@
-['Jerusalem', 'obwohl', 'Eintrags', 'in', 'Kritik', 'Trump', 'der', 'manchem', '„Times', 'hat vergessen', 'schreiben', 'korrekt', 'sei „die', 'er']

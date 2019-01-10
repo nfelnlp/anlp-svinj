@@ -1,1 +1,0 @@
-['. Bundesinnenminister', 'Maizière ( CDU', 'hat', 'Högl', 'ihre Partei', 'die', 'Bundestages', '.', 'wollen', 'ab', 'auf', 'sich', 'ihren', 'für']

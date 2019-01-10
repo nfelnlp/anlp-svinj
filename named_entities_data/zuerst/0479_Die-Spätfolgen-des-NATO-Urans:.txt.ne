@@ -1,1 +1,0 @@
-['Belgrad', 'NATO-Überfall', 'der', 'will', 'Rechenschaft', 'bzw', 'der', 'Dokumente', 'Menschen', 'Stoffe', ',', 'Plan', 'daß', '.', 'der', 'ihnen', '.']

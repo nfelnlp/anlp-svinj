@@ -1,1 +1,0 @@
-['Maribor', 'serbische', 'Ivica Dačić', 'EU', 'Dačić', '–', '.', ',', 'sich', 'bei', ',', '„keine', 'kaum', 'haben', 'Bedingungen', 'das', 'dann', 'USA']

@@ -1,1 +1,0 @@
-['Volker Beck', 'Michael', 'Strauß', 'geblümten', 'Kai Pflaume', 'Mendelssohns Hochzeitsmarsch', 'den unzähligen', '»', 'Politikwechsel', 'Menschen', 'sagen', 'Problem', 'wieder in', 'endlich', 'viel', 'zu', 'stigmatisierenden', 'sonst', 'Schutzalter', 'gegen', 'Zueinander', 'Beziehungen', 'außerhalb', 'Graus .', 'ich', '. Für', 'diese Unterwürfigkeit']

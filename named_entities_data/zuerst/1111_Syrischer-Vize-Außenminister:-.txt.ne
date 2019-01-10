@@ -1,1 +1,0 @@
-['Damaskus', 'syrische', 'Faisal Mekdad', 'Mekdad', 'werden', 'Die', 'widerrechtlich', 'Frage', 'der', 'blockieren', '.', 'wiederholen']

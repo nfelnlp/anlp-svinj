@@ -1,1 +1,0 @@
-['Ute Weinmann', 'Russland', 'Sparauflagen', 'Jekaterina Tschatskaja', 'Jekaterina Tschatkskaja']

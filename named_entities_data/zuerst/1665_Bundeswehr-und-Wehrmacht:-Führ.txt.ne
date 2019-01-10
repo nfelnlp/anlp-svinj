@@ -1,1 +1,0 @@
-['Berlin', 'Bundeswehr', 'Schmidt in', 'der', 'Alexander', 'Journalisten in', 'Millionen', 'Haushalten', 'nun', '( CDU', ',', 'Bundeswehr', 'der', 'gibt', 'Wehrmachtoffizieren', 'AfD-Fraktionsvorsitzender', 'die', 'bis El', 'Das', 'auch', 'Grunde genommen', 'die', 'Junge ,', 'und', 'Berufssoldaten .', 'ein Verteidigungsbeamter mit']

@@ -1,1 +1,0 @@
-['Gesellschaft 34 Leipzig', '. Den', 'am', 'privaten', 'juristisch', 'unterkriegen', 'Geschichte']

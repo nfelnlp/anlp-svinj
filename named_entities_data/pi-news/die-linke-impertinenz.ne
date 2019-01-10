@@ -1,1 +1,0 @@
-['ja', 'ja', 'gesamtgesellschaftlichen', 'und', 'haben', 'ihre', 'Professoren', 'ähnliche', 'für das', 'die', '“', 'ohnehin', 'Normalität']

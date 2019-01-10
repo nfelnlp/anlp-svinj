@@ -1,1 +1,0 @@
-['Prag', 'rechtspopulistischen Partei SPD', 'jetzt', 'Arbeit', 'dessen', 'der', 'konservativen', 'ODS )', 'Es', 'Zeman zeigten', 'zweiten Parlamentskammer']

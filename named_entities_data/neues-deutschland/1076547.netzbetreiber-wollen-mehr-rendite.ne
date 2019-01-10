@@ -1,1 +1,0 @@
-['Wesel', 'Nordrhein-Westfalen ) Vor', 'seit', 'Zahlen', 'am', 'Kürzungen für', 'Verhandlung', ') .', 'mehr', 'Zum', 'Die Zinssätze', 'kam zu', '.', 'Entscheidung', 'Netzentgelte den']

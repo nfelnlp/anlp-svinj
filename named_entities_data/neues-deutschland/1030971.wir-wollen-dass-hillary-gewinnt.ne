@@ -1,1 +1,0 @@
-["McDonald's-Filiale", 'sie', 'diversen', 'Fast-Food-Beschäftigten in New', 'dieser Kolleginnen und', ',', 'Sie', '8,84', '.', ', mit', '-Bewegung', 'erfunden .', 'den Streiks', 'haben ,', 'dann', ',', 'die Präsidentschaft', 'eine Debatte']

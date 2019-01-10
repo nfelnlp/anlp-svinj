@@ -1,1 +1,0 @@
-['Werden Jungen', '.', 'das', 'untersucht', '.', 'und filmten den', 'Vielleicht']

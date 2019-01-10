@@ -1,1 +1,0 @@
-['die', 'CDU', 'CSU', 'davon', 'Verlags organisiert', 'Vorab', ', Pflegedirektor', 'auf', 'dieser', 'Spitzenverband', 'Gesetzlichen Krankenversicherung', 'Kliniken', 'die Vorgeschichte', 'an deutschen', 'den', 'und', 'Pflege', '8000']

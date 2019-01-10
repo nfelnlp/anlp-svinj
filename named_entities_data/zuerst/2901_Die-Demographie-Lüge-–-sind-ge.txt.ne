@@ -1,1 +1,0 @@
-['Deutschland', 'Deutschland', 'Ähnlich', 'die', 'in', 'sie', 'zuletzt 1970', 'unausweichliche', 'weniger', 'Kindern', ',', 'Dieser', '70', ',', 'bei', '60', 'und', '55', '.', '. Der', 'sie für', 'viel wichtigeren', 'der lebenslang', '.', 'und viel höhere', 'Ihnen', 'Dezember-Ausgabe )']

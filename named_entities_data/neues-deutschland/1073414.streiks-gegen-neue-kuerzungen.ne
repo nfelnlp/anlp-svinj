@@ -1,1 +1,0 @@
-['.', '. Aus', 'sind am', 'Mitglieder', '20', 'Motto']

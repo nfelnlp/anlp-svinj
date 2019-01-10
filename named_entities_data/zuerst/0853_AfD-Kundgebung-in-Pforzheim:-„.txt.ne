@@ -1,1 +1,0 @@
-['Pforzheim', 'Gauland ,', 'Saal eingeheizt', 'die', 'im derzeitigen', 'gehe', 'um', 'über', 'jetzt', 'AfD-Wahlkampf', 'ist', 'sagt', 'linker', 'aus der', 'beschleunigten', 'der']

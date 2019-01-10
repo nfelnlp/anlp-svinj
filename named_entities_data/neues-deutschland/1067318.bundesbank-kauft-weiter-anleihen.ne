@@ -1,1 +1,0 @@
-[') hat', 'auch', 'von', 'Ende', 'auf', 'auf 269,6', '.', 'die', 'Druck', 'Anleihenkäufe', 'und', 'mit mehreren', 'der Richter', 'gewichtige Gründe dafür ,', 'Karlsruhe', 'Luxemburger', 'Vorrang', 'die', 'Bundesverfassungsgericht', 'wieder', 'zurückgefahren', 'bis wann']

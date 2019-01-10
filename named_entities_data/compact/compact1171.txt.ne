@@ -1,1 +1,0 @@
-['Dabei', 'seiner', 'deren', 'Mum', 'Dad', 'Schwarzer', '.', 'die', 'Hause', 'Kumpel Roger vor', 'wissen', 'sind', '“', 'Peele mehr', 'angetan', '„bitterböse Bilanz', 'Integration', 'werden', 'Filmhälfte', 'genießen', 'verrückter', 'in einer', 'Wir', '.', '.', ':', '170', 'auf Platz', 'nämlich', 'Weißen', 'ja', '.', 'sehr', 'der anfangs', '.']

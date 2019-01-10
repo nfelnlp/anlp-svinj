@@ -1,1 +1,0 @@
-[':', 'Nicklen schoss', 'seinem', '(', 'arbeiten', 'Auch', 'Grünen', 'auf', 'gekoppelte', 'die Bären', 'kleinen', 'an', 'an der', '. Sollte', 'Fehler', ',', 'seit', 'machen oder', 'zuvor', 'behauptet :', 'die', 'kurze Naturgeschichte', ')', 'Gebiet', 'aus', 'wäre nur', 'Eisbären', 'es', 'Deutschlands', 'wechseln']

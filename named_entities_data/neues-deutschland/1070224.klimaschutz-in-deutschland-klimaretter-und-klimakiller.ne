@@ -1,1 +1,0 @@
-['Einem', 'nur', 'seinem', 'auf', '22', 'erst', 'geworden', 'Plätz', 'dafür', 'auf', '9', '.', ',', 'in', 'gab', 'den', 'am Index', 'hat , misst', 'wohl', 'Angesichts', 'an die', 'versprochen', 'dass', 'CO2-Emissionen', 'indes', 'für Deutschland', 'schließlich', 'starke', 'nun', 'anderen', 'schneidet', '»', 'für die', 'eigentlich']

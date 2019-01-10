@@ -1,1 +1,0 @@
-['verhaftet', 'in', 'Buch', 'Jobs &', 'Mark', 'kennt . Bei', 'Fotos', 'um wirkliche', 'Beispiel', 'assistierte )', 'New', 'ein', 'von', 'der', 'Ihre', 'In', 'als Therapie', '.', 'daher an']

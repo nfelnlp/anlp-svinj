@@ -1,1 +1,0 @@
-['Zentrum', '»', 'schon', 'es']

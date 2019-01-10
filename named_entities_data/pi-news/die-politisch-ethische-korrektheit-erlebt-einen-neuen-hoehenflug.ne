@@ -1,1 +1,0 @@
-['Flüchtlingsgewalt', 'Gro', 'fest', 'muss', 'nicht', 'könnte', '–', 'an', 'Firmenpolitik', 'eine', 'staatliche']

@@ -1,1 +1,0 @@
-['auch', 'von', 'übergangen', 'österreichische', 'tatsächlichen Absichten', 'Anzahl von', 'eigenen', 'Verrates', 'Jahren', 'Ein Feind an', 'die']

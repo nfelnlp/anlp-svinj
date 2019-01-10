@@ -1,1 +1,0 @@
-['NSU', 'M. Sattler )', '.', 'komplett', 'offizielle', 'des', ': Bis', 'und', 'Toten', 'politisch', 'ihrer', '“ im', 'Ausrede', 'solche', 'sterbende Deutsche', '.', 'Schädel', 'möchte']

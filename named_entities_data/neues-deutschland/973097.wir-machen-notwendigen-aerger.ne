@@ -1,1 +1,0 @@
-['Normale', ',', 'verstreut', 'Angeles', 'aber', 'in Mexiko', 'ist', 'für', '.', 'arbeitet', ',', 'wieso nicht', 'klüger', 'wir ,', 'Aktion', 'Aktion also', 'Aktion also ein Misserfolg', 'gegen', 'der Aufgaben', 'und', 'Unternehmern und', '.', 'Bewegung', 'Milliardäre', 'sechs größten Automobilproduzenten der', 'staatliche', 'sind', 'das', 'Onlinepetitionen', ',', 'dieser']

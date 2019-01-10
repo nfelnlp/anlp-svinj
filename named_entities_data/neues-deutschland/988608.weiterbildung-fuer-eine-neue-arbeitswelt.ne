@@ -1,1 +1,0 @@
-['Tim Höwing', 'IG-Metall-Jugend', 'teil', 'der', 'ist', 'anderswo']

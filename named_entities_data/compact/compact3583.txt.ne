@@ -1,1 +1,0 @@
-['NSA-Lauschangriffs', '.', 'Schäfer Es bedurfte', '.', 'geradezu aberwitzigen', 'dem', 'Land', ',', 'wie der', 'sofortige', 'war', ', dass', 'die', 'aber', ', die', 'dass', 'Person', 'auszusagen', 'der', 'für', 'gewagt :', 'er aus', 'Korrespondentenjahren in', 'USA', 'schon', '“', 'die', 'Studium', 'Studium Mitte', 'Mittleren Westen', ',', 'Verhältnis', 'den', 'Schäfer', 'von']

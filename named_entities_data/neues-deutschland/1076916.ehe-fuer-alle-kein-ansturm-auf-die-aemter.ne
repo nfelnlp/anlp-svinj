@@ -1,1 +1,0 @@
-['. Kein', 'Rahmen . Gleichgeschlechtliche', 'Januar', 'zwei', 'eine Eheschließung und', 'Ehe', 'eine', 'war', 'CDU in', 'Bei', 'Seit', 'von', 'im', 'nicht alles perfekt', 'der']

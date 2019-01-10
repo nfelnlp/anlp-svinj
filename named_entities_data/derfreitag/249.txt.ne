@@ -1,1 +1,0 @@
-['der', '.', 'Bundestags', 'gestärkt', 'Regierung', 'hatte', 'ESM', 'Parlamentariern', 'das', 'effektive', 'sicher', 'das noch']

@@ -1,1 +1,0 @@
-['Budapest', 'EU', 'für', '.', ', Direktor', 'for', 'for Euro-Atlantic', 'and', '( CEID )', 'für', 'Republik', 'einig', 'Ablehnung', ',', ', die sich', '„Flüchtlings', 'rechtskonservative', 'Ton', 'Ton an']

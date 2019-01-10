@@ -1,1 +1,0 @@
-['Wien', 'hat', 'Commenda ,', 'jetzt', '.', ',', '.']

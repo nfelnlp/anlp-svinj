@@ -1,1 +1,0 @@
-['Berlin', 'Diskussionsanlaß', 'spricht', 'behauptet', ', der', ') ,', 'in', 'hätten', 'Asylsuchenden in', 'abgelehnt', 'ein Asylbewerber', 'hier', 'wurden .']

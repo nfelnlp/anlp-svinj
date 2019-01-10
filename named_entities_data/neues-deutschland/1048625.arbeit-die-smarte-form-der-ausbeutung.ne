@@ -1,1 +1,0 @@
-['die', 'Industrie', 'Alle', 'überraschend , denn', 'Digitalisierung', 'wurde', 'der', '- Was wird']

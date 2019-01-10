@@ -1,1 +1,0 @@
-['Griechenland', 'EU-Land', 'Als', 'Ende', 'sechziger', 'wie man Krisen überwindet', 'ein Land', 'die', 'Leistungskraft', 'der', 'des', '2008', 'während', ',', 'ist', '?', 'Veränderungen', 'Das', 'ab', 'Was', 'Reformen', 'will .', 'gefeierten', 'Wirtschaftspolitik', '.', 'sechs', 'Griechenland', 'der', 'wird', '.']

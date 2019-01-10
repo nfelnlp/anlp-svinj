@@ -1,1 +1,0 @@
-['Griechenland', 'Brüssel', 'Griechenland', 'Athen', 'Griechenland', 'Mário', ', der', '.', 'alle', ',', 'bisher 95', 'Maßnahmen', 'internationaler', 'eines', 'der', '.']

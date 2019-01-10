@@ -1,1 +1,0 @@
-['Budapest', 'George Soros zeigt', 'Orbán fortzusetzen', 'jetzt auf', 'Land', '2018', '.', 'Soros', 'Senatoren', 'außerdem', 'die', 'Besuch', 'grünen', 'einen', 'Rechtsstaatlichkeit', '“', 'Budapest', 'Budai', 'des', 'Anhörung', 'Falles', ',', 'einer', 'auf , Maßnahmen', 'Copyright', 'Sebastian', 'Wikimedia/Sandstein/CC']

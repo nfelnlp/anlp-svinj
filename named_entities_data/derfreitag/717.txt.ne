@@ -1,1 +1,0 @@
-['wieder', 'ihrerseits', 'Berlin', 'der', 'ankündigte', '.', 'Einsicht', 'auf die', 'getriebene']

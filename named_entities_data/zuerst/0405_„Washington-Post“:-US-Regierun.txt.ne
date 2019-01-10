@@ -1,1 +1,0 @@
-['Washington', 'Syrien', 'USA', 'Syrien', 'Damaskus', 'Rußland', 'Post “', 'Post “ bestätigt', 'die', 'Syrien', '.', 'ebenfalls', ',', 'endet', 'US-Soldaten', 'Kurden', 'den', 'Umschweife', 'das', 'Washington', 'Syriens', ')', '.', '.', 'nichts']

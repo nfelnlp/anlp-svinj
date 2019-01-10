@@ -1,1 +1,0 @@
-['(', '.', 'Festakt zum', 'wollen Sozialpartnerschaft', 'wollen Sozialpartnerschaft so', '.', 'nicht öffentlichen', 'auch zahlreiche', 'Prozent', 'und Schwächung der', 'im', 'und', 'so', '«', '.', 'der', 'rund', 'Mitglieder und', 'den', 'Vorgänger', 'zum', 'wurde', 'hat er', 'erfolgreich']

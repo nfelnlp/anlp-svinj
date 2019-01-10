@@ -1,1 +1,0 @@
-['Gerald Haenel', '?', ', die', 'Zu meinem', 'andere Großschriftsteller', 'Beispiel .', 'Andere', 'hat sich', 'den', 'vertieft , dass', 'doch', 'hat', 'Finger', ', der', 'Ästhetik promoviert', 'in dem', 'wissenschaftlichen Publizistik', 'Da', 'man : „Mit', 'Mode .', 'Geisteswissenschaften', 'man', 'einer Promotionsordnung', 'Man kann', 'man']

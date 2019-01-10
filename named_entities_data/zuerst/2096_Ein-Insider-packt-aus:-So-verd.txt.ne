@@ -1,1 +1,0 @@
-['Wien', 'Traiskirchen', 'Franz Schabhüttl', 'Zuständen in den', 'wie', 'den', 'Rahmenbedingungen', 'wirf', 'einem Besuch', 'Hilfsorganisationen']

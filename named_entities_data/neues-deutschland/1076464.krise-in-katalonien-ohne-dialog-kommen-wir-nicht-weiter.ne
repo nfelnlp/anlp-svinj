@@ -1,1 +1,0 @@
-['Marie Kapretz', 'Republikanischen Linken ERC', 'Katalonien', 'in', 'Am', 'Parlament', ',', 'Regierung', 'geführten', 'Zentralregierung', 'hatte', ',', 'perplex']

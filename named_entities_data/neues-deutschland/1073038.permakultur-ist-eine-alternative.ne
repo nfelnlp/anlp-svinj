@@ -1,1 +1,0 @@
-['Expertengremium', 'ist', 'Menschenrechte hatte 2012', 'des Arbeitskreises', 'schwer', 'seinem selbst', 'Burkina Faso', 'zu unternehmen', 'man', 'pflanzte er', 'in', 'eine', 'Düne', 'Früchte', 'Unterstützung', 'durch', 'die', 'mit', 'not', 'das Wohlwollen der', 'um', 'Sierra Leone', 'Land', '.', '. Mit Druck', ',', 'französischen', 'und', '.', 'zum', '-', ':']

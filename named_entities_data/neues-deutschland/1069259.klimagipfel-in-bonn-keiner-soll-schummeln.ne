@@ -1,1 +1,0 @@
-['es', '?', 'wird', 'wenn', ',', 'bei', 'Kohleausstieg', 'Können', 'sich', 'Kohlekraftwerke', 'CO2-Minderungen von', '2015', 'Nordrhein-Westfalen', 'in', ', Armin Laschet', 'in', 'und', 'zu einer', 'gefährdet', 'zu', 'nicht', '?', 'eigentliche', '. Hoffentlich', 'an', 'Politik', ',', 'unter denen', 'Zudem', 'der 55-jährige studierte', 'einen raschen']

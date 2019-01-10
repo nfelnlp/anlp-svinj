@@ -1,1 +1,0 @@
-['( hans-bruegelmann.com', 'Einrichtung', 'Bereichen', 'am Aufstand', '(', ':', 'Land leistet', 'Rechten', 'eine »', 'Forderung', 'Investitionsoffensive', 'Schulen', 'Deutschland']

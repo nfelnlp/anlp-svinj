@@ -1,1 +1,0 @@
-['Gesellschaft 2 Berlin', 'Polizei', ',', '– ein großes', 'aufeinander eingestochen', 'aufeinander eingestochen “', 'so', ',', 'Högl', 'eine', 'Kontrolle gerade', 'Alexanderplatz', '(', ')']

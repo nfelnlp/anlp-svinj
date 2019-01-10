@@ -1,1 +1,0 @@
-['hat', 'schleichend', 'stellen', '.', 'Geburten', 'unbemerkt eine', 'im', 'die', 'als', '“', 'erkennen', ')', 'Stefan Lofven', ')']

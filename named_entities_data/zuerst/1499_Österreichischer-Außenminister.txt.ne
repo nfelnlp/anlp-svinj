@@ -1,1 +1,0 @@
-['Wien', 'Sebastian Kurz', 'Nachrichtenagentur', 'sagte', 'und', 'gebracht', '.', 'Angebot', 'bisher', '.', 'nach', 'für', '”', 'so', '.', 'vor', 'sei', 'sucht', '”', 'setzt', 'einen', 'sich', 'inzwischen', '.']

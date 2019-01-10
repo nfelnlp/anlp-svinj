@@ -1,1 +1,0 @@
-['der', 'Grüne )', ',', 'zu', 'aufgerückt ist', 'steht für die Erkenntnis', 'Treuhandgesellschaft', 'den', 'Streiks', 'die', 'zum', 'des', 'gegründeten', '» Who is Who', 'sitzen', 'Teil eines europa-', 'Privatisierung , Verdrängungswettbewerb und', 'Luftverkehr', 'wie']

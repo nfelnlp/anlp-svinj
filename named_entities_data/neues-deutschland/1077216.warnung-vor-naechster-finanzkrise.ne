@@ -1,1 +1,0 @@
-['.', '. Das', 'ein', 'des US-Finanzinvestors', 'dem Treffen', 'anderen', 'Großbank Barclays', 'Jahrzehnte', 'gleiche', ': Die', ':', '«', '.', 'Zinsen auf']

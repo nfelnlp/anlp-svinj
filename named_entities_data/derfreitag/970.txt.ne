@@ -1,1 +1,0 @@
-['Benjamin Geissler', 'Holzdielen', 'Falckenberg', 'Hamburg-Harburg', 'Ort', 'und', 'hat durch', 'grotesken', 'Dreharbeiten zu', '.', 'Fresken', '1942', '.', 'ihm einen', ',', 'Miniatur', 'Liebhaberin', 'Schulz', 'durch die', 'um', 'Kreissägen', 'der', ',', 'die', 'Teil', 'Ausstellung', 'Wandtexten', 'befremdlich', '„Verschleppung', 'Gedenkstätte', '.', 'Traum', 'ist ein', ',']

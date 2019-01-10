@@ -1,1 +1,0 @@
-['Harry Ebert', 'sorgt', 'seiner', 'Skandal', 'Rückzug des', '.', 'oben', 'ließ –', 'Verlautbarungen', 'Schwarzwälder Bote', 'Äußerungen', 'Prozent', 'als', '–', 'aber']

@@ -1,1 +1,0 @@
-['Gebirgsjäger', 'Kreta', 'Robert Andreasch', 'Rabatz', 'Kreta', '.', 'zum', 'zu', 'die Verbrechen', 'Hearing', '» Rabatz', '» Rabatz «', 'im', 'der Bad', 'Tagung', 'vom', 'an']

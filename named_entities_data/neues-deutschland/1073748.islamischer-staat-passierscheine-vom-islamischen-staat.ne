@@ -1,1 +1,0 @@
-['des', 'Unternehmen', 'geriet', 'Al-Nusra-Front und', 'mit', 'mit 200.000', 'es sich', 'bei den', 'später', 'fort', 'räumte', 'von', 'Außenministerium zur Sicherheitslage vor', 'Präsenz', 'uns', 'Das', 'sogar', 'und', 'den', 'Organisation', 'Ermittlungsrichter', 'jetzt ,', 'und', '.', 'die Spitzenmanager']

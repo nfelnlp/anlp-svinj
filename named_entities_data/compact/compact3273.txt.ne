@@ -1,1 +1,0 @@
-['Willy Wimmer', 'das', 'bestimmt gewesen', 'jeder', 'der', ',', 'Verfassung gibt', 'nicht', '«', 'glänzende Gewinne', 'für', 'Basel', 'da', 'mit', 'gehalten', ', als', 'wagte', 'Jörg', 'ein', '. Die', 'und', 'das', ',', 'gewählte', 'wegschauen ,', 'wegschauen , kleinreden', 'Eine', 'ganze', 'getroffen', 'aus den', 'Berlin .']

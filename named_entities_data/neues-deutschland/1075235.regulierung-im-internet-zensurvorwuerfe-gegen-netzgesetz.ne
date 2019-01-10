@@ -1,1 +1,0 @@
-['Kerem', '.', 'Twitter', '»', 'muslimische', 'löschte', 'denn', 'realer', '. »', 'Julian', 'Konsequenzen .', 'intransparenten Löschverhalten', '. »', 'auf eine Info-Seite', 'Medien :', 'Mordaufrufe', 'wovor', 'Deutscher', '»', 'entscheiden ,', '«', 'Seit 1', 'stumpfe Pracht.']

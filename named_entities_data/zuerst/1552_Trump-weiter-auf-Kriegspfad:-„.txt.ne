@@ -1,1 +1,0 @@
-['Washington', 'US-Präsident', 'im', 'schrieb', 'auf', 'CBS', 'der', 'Post', 'oder', 'Times ” verlassen', 'keine Chance auf die', 'Medienvertreter', '„Es handelt sich um', 'die er']

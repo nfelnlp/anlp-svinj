@@ -1,1 +1,0 @@
-['Junkies', 'Dezernenten', 'Kulturbeauftragte', 'Galeriebesitzer', 'diffamierte die', 'als', 'allesamt', 'Bahnhofsviertel', 'die', '«', '.', 'eine Wohnung', 'Viertel', ', profiliert sich', 'ins', 'zu']

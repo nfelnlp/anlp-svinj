@@ -1,1 +1,0 @@
-['Washington', 'nicht bricht', 'Pruitt', 'den Austritt', ',', '„Meiner', 'sagte', 'USA', ',', 'großen', 'an', 'umfassende', 'als', 'noch', 'Bannon', ', Trumps', 'dem Abkommen', 'bleibt', 'die sogenannten']

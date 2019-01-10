@@ -1,1 +1,0 @@
-['Brüssel', 'EU', 'Deutschland', 'Das', 'Brüssel', 'die', 'Kehrtwendung', 'In', 'März', 'für', 'nicht.', 'für', 'läuft', 'Dezember', 'der', 'der nunmehrigen', 'langfristig', 'Transitgebühren', '“', 'äußerst']

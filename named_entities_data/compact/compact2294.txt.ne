@@ -1,1 +1,0 @@
-['Katja Kipping', 'Linkspartei', 'Rüsten', 'Eines der', 'der', 'bislang', 'Bombardierung', 'am Kiosk', ',', 'Jugendverein', '.', 'erklärte', 'ein', 'damals', 'nun', 'man', 'ihrer zahlreichen', 'Zeugin', 'Bürgertum', 'Denn', 'tätliche', 'das', 'hätten', 'anreisenden', ')', 'einer', '2015', '“', 'Sport', 'auch', 'des', '“ .', 'von', ',', 'zu einer milden', 'stärkste', '3 ) https']

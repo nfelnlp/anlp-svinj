@@ -1,1 +1,0 @@
-['begann', 'die', 'ausländische', 'Petersburg', 'heutige Vorsitzende ,', 'ist sie', 'PSA', 'Die', 'ist', 'des', 'ganze', 'angehören', '.', 'gab es', 'ausschließlich', 'Instanz', 'vergleichbaren behördlichen']

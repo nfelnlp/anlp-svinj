@@ -1,1 +1,0 @@
-['europäischer', '.', 'Spanien', 'gar', 'weit', 'Doch', 'der', 'fast jeder fünfte abhängig Beschäftigte', 'wird', '» Der', 'so', 'Grund', 'gehören verboten', 'die', 'zu']

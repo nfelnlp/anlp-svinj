@@ -1,1 +1,0 @@
-['andere', 'der', 'COMPACT interviewt', 'sind ein-', 'eines Beweises', 'Ablichtung', 'Mehr', 'was', 'Identitären und eben', 'Identitären und eben PEGIDA.', 'Identitären und eben PEGIDA. “', ',', 'dem kleinen', 'Waffenhändlers', 'namens', 'eine', 'Die', '.', 'im', '.', 'den', 'Beginn', 'für das', 'auf…', 'das', 'der', 'des', 'sitzen', 'Verteidiger']

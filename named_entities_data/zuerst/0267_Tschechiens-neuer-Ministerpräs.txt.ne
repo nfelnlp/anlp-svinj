@@ -1,1 +1,0 @@
-['Prag', 'Babis seine', 'vereidigte die', 'und', 'im', 'ein', '”', 'an', 'striktes', '„Der', ',', 'Termin']

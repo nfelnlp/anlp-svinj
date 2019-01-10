@@ -1,1 +1,0 @@
-['Gesellschaft', 'Hamburg', 'Schulz ,', 'und', 'Sahra Wagenknecht', 'ähnlich', ',', 'Kriminelle', ',', 'oder', 'Pot', 'Robespierre', 'der', 'war', 'Gewalt', 'Bestandteil', 'G20-Gipfel', 'Polizeiwache', '(']

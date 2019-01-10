@@ -1,1 +1,0 @@
-['Moskau', 'Rußland', 'Wladimir Putin', 'Rußland-Infoportal', 'nicht', 'Zentrums für', ',', 'sich', 'einer', '%', 'der']

@@ -1,1 +1,0 @@
-['Brankica', 'Berlin', 'SAG', 'Frauen/Lesben-Kollektiv', 'hat in', 'studiert', 'war', 'nicht', 'jugoslawischen', 'und', 'und', 'wenn', 'in', 'und', 'Philosophen', '. Wir', ',', 'berufen', 'über', 'aber keine', 'verteidigen .', 'noch', 'durchbrechen']

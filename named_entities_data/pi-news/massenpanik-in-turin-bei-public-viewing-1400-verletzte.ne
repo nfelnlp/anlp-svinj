@@ -1,1 +1,0 @@
-['Public viewing', 'Turiner', 'und Real', 'an', 'an .', 'in', 'dass', 'Panik', 'er mit', ',', 'in', ', sind', 'mit', 'des', 'einem', '“', 'ein Ermittlungsverfahren', '“', 'wird', 'viele Luthers']

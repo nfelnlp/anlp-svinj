@@ -1,1 +1,0 @@
-[',', 'Staat', 'Sie', 'diesem', 'und', 'herrschen', '2017', '( Printausgabe der', 'Zeitung vom', 'und', 'Der', ', dann', 'Aufenthaltserlaubnis']

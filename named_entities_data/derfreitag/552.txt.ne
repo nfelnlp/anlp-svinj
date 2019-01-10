@@ -1,1 +1,0 @@
-['Schweizer', 'UBS', 'Court/AFP/Getty', 'Die', 'Länder', '.', 'drei Milliarden', 'Köder', 'NRW-Ermittler kündigten', 'an ,', 'Daten-CDs', 'wettern', '.', 'Strafgeld', ',', 'noch', 'einen', 'anklagte', 'Den', 'einer Verurteilung', 'Europäer', 'und sollten', 'Rücksichten', 'noch', 'so', 'aufgebaut', 'Teilen :']

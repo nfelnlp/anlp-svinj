@@ -1,1 +1,0 @@
-['Brüssel', 'EU-Spitze', 'den', 'sich', 'gegen eine veränderte Asylpolitik', '.', 'Menschen', '„Terrorismus-Generalverdacht', '„Rhetorik', 'Zeit', 'die', 'Informationen', 'auszutauschen']

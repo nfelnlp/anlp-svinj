@@ -1,1 +1,0 @@
-['sich', 'Norte', 'seit letztem Jahr', 'Angriffe', 'Save', 'Mehrzahl', 'jede', 'drei', 'später zwei der', 'Landraub', 'aus', 'worden . Die', 'zur', 'Bergbaus « erklärt']

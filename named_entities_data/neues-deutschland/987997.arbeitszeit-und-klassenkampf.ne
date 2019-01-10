@@ -1,1 +1,0 @@
-['Main', 'wird', '«', '500', 'stellen ,', '2013', 'Vorsitzender der', 'Vorsitzende', 'Vorschlag des geschäftsführenden', 'Frankfurter IG', ', Frauen', 'über', 'gliedert', '(', 'zu', '» .']

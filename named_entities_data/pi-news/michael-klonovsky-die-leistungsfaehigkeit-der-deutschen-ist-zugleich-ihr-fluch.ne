@@ -1,1 +1,0 @@
-['Donald Trump', 'so', 'alles', 'hier )', 'in', 'Zusammenhang für', 'wenn', ',', 'Umfragen', 'in', 'können', 'die', 'die', 'wird', 'zugleich ihr Fluch']

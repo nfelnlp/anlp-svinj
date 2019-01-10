@@ -1,1 +1,0 @@
-['des deutschen', 'EKD-Synodale', 'in', 'die', '.', 'des', 'lebensschützenden Effekt', 'abtreibungswillige ,', 'eindringlichen', "''", 'Klinikums', 'Zwar', 'Die', 'Ja zum', ') .', 'So', 'KALEB', 'bewußtseinsbildender Kraft']

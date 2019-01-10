@@ -1,1 +1,0 @@
-['CANTALOOP', '.', 'mit', 'Ambition', 'keiner', 'ebenfalls', 'für', 'überaus', 'Umstände', 'darüber', 'oder', 'Journalisten', 'eine', 'Jeder', 'partizipierendem', 'auch', 'geschützt', '.', '“', ',', 'unserer', 'Rassismus', ',', 'wird', 'noch']

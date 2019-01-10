@@ -1,1 +1,0 @@
-['L.S.GABRIEL', 'in', ', unter', '( kl', 'Foto', 'Polizei', 'Die', 'und', ')', 'Anhörung', 'Form', 'die', 'Sie', 'nur erkennbar', '[ .. ]', 'reden', 'Schule', ',', 'müsste', 'der', 'Abschiebung', 'ich', 'laut', 'für', '7', 'gew-bw.de', 'Kontroversen', 'der', 'der Sache', 'um eine höfliche', 'Ausdrucksweise']

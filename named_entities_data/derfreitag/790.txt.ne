@@ -1,1 +1,0 @@
-['Laura Lejeune', 'Laura Lejeune', 'Laura Lejeune', 'Laura', 'ein', 'spielt in', 'arbeitet', 'blutet', ',', 'Wests', 'Wests Themen sind', 'Armut in', 'Verflechtungen', '. Doch West', 'in', 'dass', 'Nazis und', 'Faschisten', 'heißt', '. Ob', 'Rotwein .', '.']

@@ -1,1 +1,0 @@
-['konnten', 'Zeit', 'und', 'ist', 'neue', 'erreicht', 'Crowdfunding-Plattform', 'und weiterhin', 'wirkt', 'VW', 'das', 'nicht', 'Erstaunlich', 'Kennt', 'er', 'ab', 'am Leben', 'und', 'mit »', 'eine', 'Ego-Shooter von', 'Ian Higton', 'dem Youtube-Redakteur', 'Er bemängelt unter', 'die Genre-Klassiker', 'Nukem', 'Gründen', '«', 'Neuerungen']

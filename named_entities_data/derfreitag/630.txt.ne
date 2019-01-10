@@ -1,1 +1,0 @@
-['“', 'forderten', 'sogar', 'Welt', 'Projekte', '.', 'einem', 'Rede', 'jetzt', 'Daimler-Chef', 'Fahrzeuge', 'habe .', 'der Autos', 'vorstellen', 'sind die', 'in', 'jedoch', 'an', 'diese', 'Pflänzchen', 'richtigen', 'am Vorabend']

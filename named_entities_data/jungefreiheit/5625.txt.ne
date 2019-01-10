@@ -1,1 +1,0 @@
-['Schmidt', 'reichen Wiener', 'Bergwanderung', 'und', 'Erbe', 'Das', ', sondern', 'viel', 'alles andere', 'Nachsommer', 'Erwerbsarbeit', 'der', 'verschmelzen', 'Hinterlassenschaft', 'ist', 'ein', 'Lebensbereichen', 'auch', 'nur']

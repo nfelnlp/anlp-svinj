@@ -1,1 +1,0 @@
-['Kommunisten', 'Titos', 'einer', 'und die', 'der', 'Damals', 'jeder', 'die', 'Mai', 'Inspizient', 'differenziert', 'alten', 'nicht', 'jenes', 'Österreich verbunden', 'anderer gewesen', 'Luftangriff', 'die', 'sich', 'kroatischen', 'zu', 'versucht', 'unfeine', 'zu', 'Prügel', 'der Streifen', 'von einem', 'scheint', 'uniformen', 'sie', 'alle', 'Rest', 'kein Ustascha']

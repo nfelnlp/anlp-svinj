@@ -1,1 +1,0 @@
-['L.S.Gabriel', 'Scharia-Behörde', 'der', 'den', 'Unterstützung', 'man', 'No-Go', 'als', ',', ',', 'von', 'Hunger', 'hätte', ',', 'schlichtweg', 'dass', 'solange', 'diversen', ', alles sich', 'Toleranztrunkenheit']

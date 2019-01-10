@@ -1,1 +1,0 @@
-['moritz hoffmann', 'Jonas Fedders', 'auf', 'einem', 'Hund « belegen will', 'Lothar Baier', 'Eike Geisel', 'in den', 'Religion', 'zurückzunehmen', 'Ebendies', 'Fedders', 'von Heidenau', '.', 'ist', 'der', 'deutschen', 'hinweisen', 'zu', '. Dabei geht es']

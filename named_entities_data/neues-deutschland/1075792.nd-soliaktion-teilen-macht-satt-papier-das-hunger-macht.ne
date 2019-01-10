@@ -1,1 +1,0 @@
-['vom Kleinbauernverband', 'ein', 'Portucel', ', die', 'Zambézia', 'wirbt selbst', 'in', 'Projekt', 'vorgeschriebenen', ',', 'einen', 'sich', 'dem', 'sich', 'die', 'zu', 'die', 'zukommt', 'Regierung']

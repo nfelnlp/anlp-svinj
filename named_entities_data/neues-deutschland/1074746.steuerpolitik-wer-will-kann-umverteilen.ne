@@ -1,1 +1,0 @@
-['senken', 'der', 'öffentlichen', 'ob', 'Umsatz', 'einer', ',', 'diese', '.', 'verwunderlich', 'wenn', ',', 'uns', ', die']

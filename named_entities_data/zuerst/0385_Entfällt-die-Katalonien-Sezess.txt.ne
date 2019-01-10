@@ -1,1 +1,0 @@
-['Barcelona/Madrid', 'In', 'sich', 'ab', 'von', 'ist', 'im', 'Umfrage', 'sprechen', 'sprechen sich', '21', 'bei', 'konnten', 'Unabhängigkeitsreferendum Anfang', 'und', 'und lag', 'Belgien', ')']

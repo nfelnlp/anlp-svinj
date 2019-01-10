@@ -1,1 +1,0 @@
-['habe gestutzt als', 'unlängst', 'einem', 'sagte', ')', 'man', 'schwarzen', 'schwarzen Kinder aus', 'unterrichtete']

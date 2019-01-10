@@ -1,1 +1,0 @@
-['Gesellschaft 7 Washington/Berlin', 'Im', 'die', 'und', 'aktiv', 'aktiv werden', 'Medienhoheit', '„Toleranten', 'die', 'jetzt', 'Rahmen', 'Personen', 'entwickelte', 'der sogenannten', 'des neuen']

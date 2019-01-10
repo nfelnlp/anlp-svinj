@@ -1,1 +1,0 @@
-['kriminellen', 'oder', 'wir']

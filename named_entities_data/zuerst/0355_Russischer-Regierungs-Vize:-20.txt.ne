@@ -1,1 +1,0 @@
-['auf', 'als', 'zwischen', 'N', 'dem', 'zu', 'Rußland', 'die', '–', '.', 'die', 'ist']

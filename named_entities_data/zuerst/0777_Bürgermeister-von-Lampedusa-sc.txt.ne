@@ -1,1 +1,0 @@
-['auf', 'Salvatore', ', einen', 'gerichtet', '180', 'wurde', ':', 'daß der', 'verließen', 'Probleme', 'Tagesordnung']

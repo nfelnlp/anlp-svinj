@@ -1,1 +1,0 @@
-[', die', 'arbeitet . Sie gehört', 'die', 'in', 'USA', '.', 'steigen', 'die', '750', 'sie', 'Frenzel', 'Wissenschaftsbereich weiter', 'wissenschaftlich', 'ver.di', 'das', 'November', 'der', 'die sich das Ziel', 'die sich das Ziel gesetzt hat ,']

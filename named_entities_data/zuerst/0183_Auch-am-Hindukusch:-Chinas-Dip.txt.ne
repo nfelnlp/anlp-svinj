@@ -1,1 +1,0 @@
-['Peking/Kabul', 'China', 'sich', 'kann', 'mit', 'des', 'Investitionsprogramm', 'dem', 'Taliban', 'Mit', ',', 'je', 'Beobachter', 'angegriffen haben', 'setzen', 'Regierung', 'Washington', 'am', '.', '.', '.', 'Rolle', 'im', 'Westasiatischen', 'durch Afghanistan', 'setzt', 'seinen', 'eigenen', 'auch', 'auswärtigen', 'ausgesetzt']

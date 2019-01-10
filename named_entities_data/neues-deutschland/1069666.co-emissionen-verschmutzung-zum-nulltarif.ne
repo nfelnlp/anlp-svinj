@@ -1,1 +1,0 @@
-['eine', 'das', ',', 'in', 'Parlament', 'Ministerrat', 'Kompromiss', 'worden', 'der', 'Der', '11', '2005', 'oder', '. Dadurch', 'für', 'lange', 'Zertifikate-Mindestpreis', 'bleibe das Emissionshandelssystem']

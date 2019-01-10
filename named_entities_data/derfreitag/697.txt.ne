@@ -1,1 +1,0 @@
-[',', '4 Teilen', '100', 'in die', 'Gelegenheit', ',', 'Pro', ':', 'von', 'Ende', ',', 'jedoch', 'bemerkenswerte']

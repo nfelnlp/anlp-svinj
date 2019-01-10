@@ -1,1 +1,0 @@
-['Wien', '–', 'gaben', 'mit', '(', '(', 'und', ')', 'Umgangssprache', 'es']

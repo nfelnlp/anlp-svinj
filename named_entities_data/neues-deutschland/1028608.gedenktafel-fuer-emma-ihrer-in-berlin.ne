@@ -1,1 +1,0 @@
-['.', '. In', '(', '.', 'der', 'unter', ', wie', 'Mittwoch', 'absolvierte', 'Putzmacherin', 'Nach', 'wo sie', 'für', 'die', 'Paris .', 'Vorstand', 'Zeitschrift']

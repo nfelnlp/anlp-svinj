@@ -1,1 +1,0 @@
-['handelt es', 'SPD', 'ihrem', 'Mittwoch', 'da', 'versprechen', 'Unionskollegen', ') , die', 'eher nach', 'geklungen', 'Aktuell', 'In', 'Gesetzes', 'weitergehende', 'Den', 'pro', ',', 'und', 'Gerade', 'hat', 'anteiligen', 'Kontingents', 'Lagern', 'Aussetzung', 'Weg', 'den']

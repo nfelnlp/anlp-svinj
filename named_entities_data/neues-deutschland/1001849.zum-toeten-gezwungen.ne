@@ -1,1 +1,0 @@
-['das', '. Der', 'Dezember', 'in eine', 'hatte', 'hatte', 'Wir', 'es', 'entlassen', 'sein', '1990 und', 'UNICEF', 'Ende', 'Minderjährigen', 'rekrutiert', '10000 ehemaligen', '» Nachdem']

@@ -1,1 +1,0 @@
-['Sänger', 'Avidan einen', '.', 'aus', 'Ausnahmeerscheinung', 'zur Musik', '. Es', 'Stimmen', 'Janis Joplin .', 'hoch gegriffen', '? Und', ', mit', 'Luft durch']

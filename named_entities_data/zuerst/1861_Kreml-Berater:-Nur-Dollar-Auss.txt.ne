@@ -1,1 +1,0 @@
-['Moskau', 'Rußland', 'Trump', 'Kreml-Berater', 'in einem', 'sind', 'das', 'Militärmacht', 'Benutzung', ',', ',', '.', 'Haus angesprochen', 'Kreml-Berater', 'über', 'er', 'Amerikas']

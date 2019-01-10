@@ -1,1 +1,0 @@
-['BENTO', 'SPIEGEL', 'sich', 'demnächst einen', 'er sich', 'einer', 'einer Hanna', 'es zu wissen', ', denn', '„Überfremdung', 'bestimmt', 'die', 'die', ',', 'noch', 'nicht', 'nennen', 'es', 'Definition', 'sehr', 'wie', 'die', 'wegen', 'läuft', 'kalt', 'das', 'wehren', 'unsere', 'noch']

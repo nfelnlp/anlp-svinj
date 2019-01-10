@@ -1,1 +1,0 @@
-['Eva Stotz', 'Eva Stotz', 'Eva Stotz', 'als', 'entstanden', 'du auf', 'Idee', 'und', '.', '.', 'hat', 'dir', 'am', 'und', 'mag', 'das', 'globalen', 'macht', '?', '``', '`` One', '.']

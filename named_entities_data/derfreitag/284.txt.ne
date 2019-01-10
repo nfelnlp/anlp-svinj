@@ -1,1 +1,0 @@
-['Lenz für', 'altbekannte und neue', 'sieht', 'man als', '.', 'die Angst', 'als', 'solche Modelle', ',', 'bei', 'auf', 'der Berliner', 'sie eine Vertretungsprofessur an', '2015', 'und Kreativwirtschaft', '.', 'München', 'nicht', '.', 'Bürojob “', 'ich', ',', 'der']

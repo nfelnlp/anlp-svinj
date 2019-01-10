@@ -1,1 +1,0 @@
-['Images Die', 'bleibt', 'aufs', 'diese Problematik', 'die Musik', 'spekulieren', 'eben', '.', 'Zeit der', 'nicht', 'erlernen', 'Entstehung', 'Öko', 'Komplexität', 'und', 'Protagonisten', 'Schon', 'Mandelstam', 'Achmatova', 'zu', 'Tarkowskis', 'eine', 'sich von', 'Grenzen der']

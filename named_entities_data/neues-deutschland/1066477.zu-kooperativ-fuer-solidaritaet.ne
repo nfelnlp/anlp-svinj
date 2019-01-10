@@ -1,1 +1,0 @@
-['zur', 'Flaschenwürfe auf', 'sind', ',', 'unterschiedlichen', 'von', 'Redakteur', 'Zeitschrift »', 'Anzahl', 'sozialer', 'Großen', 'zu einer dreijährigen', 'von', 'neun', ', die damals', 'am', 'am letzten', 'am letzten Wochenende']

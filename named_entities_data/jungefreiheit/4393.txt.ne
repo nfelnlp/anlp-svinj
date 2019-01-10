@@ -1,1 +1,0 @@
-['daß', '``', '. ``', ', ``', '-', 'strikt politisch zu begründen', 'zu', 'genannt hat', 'und keine Frage', 'ist ein Vorabdruck']

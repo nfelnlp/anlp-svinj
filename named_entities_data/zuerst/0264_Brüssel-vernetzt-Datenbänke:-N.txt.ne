@@ -1,1 +1,0 @@
-['Straßburg', 'EU', 'EU-Kommission', 'Avramopoulos', 'King', 'jetzt', 'einen entsprechenden', 'Grenzschützer', 'verfügt', 'schon', 'ausgeweitet', 'ausgeweitet wird', 'Die', 'beseitige', 'der', 'schließe']

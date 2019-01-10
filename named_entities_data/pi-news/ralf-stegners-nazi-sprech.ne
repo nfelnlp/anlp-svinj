@@ -1,1 +1,0 @@
-['SPD', 'LINKE', 'den', 'Thema , keine', 'Ausdruck auch', 'hatte', 'seinem', 'ihn', '.', 'kommt eben', 'am', 'wenn', '.', 'wie', 'aus', 'Jedem das', 'der erste', 'Illner und', 'unterschiedlich', 'je', '.', 'Stegner', 'Seine']

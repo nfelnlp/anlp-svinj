@@ -1,1 +1,0 @@
-['York/Budapest', 'Getroffene', 'George', 'der sich', 'seiner', 'den', ') ursprünglich auch den', 'die', 'jedoch', 'ersetzt', 'Mafia-Regime', 'sich', 'der sowjetischen', 'ihm', 'es', 'zu drängen . ( mü']

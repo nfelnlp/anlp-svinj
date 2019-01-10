@@ -1,1 +1,0 @@
-['In', 'Scheinselbstständigkeit', 'Werkverträge', 'Weniger', 'spricht in', 'Zusammenhang', 'Einzelhandel , der', 'Flex-Kräfte', '& M-Filialen', '.']

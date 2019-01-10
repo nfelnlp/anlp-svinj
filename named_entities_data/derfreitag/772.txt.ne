@@ -1,1 +1,0 @@
-['Artikel erschien in', 'meinem 14 .', 'ihnen hatte', 'mir', 'und', 'ich', 'ich', '.', '. Zu Weihnachten und zu', 'Westen', ',', ', Kerzenständer aus Holz', 'ja', 'in', 'das']

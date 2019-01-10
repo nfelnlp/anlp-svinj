@@ -1,1 +1,0 @@
-['Deutschland', 'Deutschland', 'Deutschland', 'Weihnachtsmarkt-Terrorist Anis', 'Auch', 'dem weitgehend', 'wurde', 'einer', 'Eisbergs', 'werden', 'nicht', 'trotz', 'dass']

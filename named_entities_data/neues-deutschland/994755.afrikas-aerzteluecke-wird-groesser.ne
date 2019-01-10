@@ -1,1 +1,0 @@
-['der', 'WHO', 'etwa', 'dem', 'einer der', 'Mischkonzerne', 'will', 'medizinischer', 'den']

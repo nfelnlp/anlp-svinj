@@ -1,1 +1,0 @@
-[',', 'Mit', '.', 'Erfahrungsaustausch', 'war', '.', 'weitere', 'und', '.', 'Längerem', 'als', 'die', '.', 'wo', 'stellte', 'auch', 'Make', 'inzwischen', 'Friday', 'an']

@@ -1,1 +1,0 @@
-['humanitäre', 'Mediziner', 'bezeichnet', 'Aufstandsbekämpfungen', 'zunehmende Instrumentalisierung', 'ohne Grenzen', 'ohne Grenzen und', 'Partner', 'Militärs', 'das eine absolute', ',', 'dass', ',', '.', 'sogar', 'Das geht', ',', 'auch', 'worden', 'Wir', 'wir']

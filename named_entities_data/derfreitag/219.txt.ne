@@ -1,1 +1,0 @@
-['CDU', 'CSU', 'SPD', 'Jung', 'Frisch', 'CDU', 'CSU', 'SPD', ', meint', 'mit', 'Teilen :']

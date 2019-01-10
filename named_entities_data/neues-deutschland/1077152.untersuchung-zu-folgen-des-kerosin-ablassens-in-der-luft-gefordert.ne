@@ -1,1 +1,0 @@
-['.', '. Nach', 'die Grünen genaue', '.', 'des Umweltbundesamtes', 'Einer Antwort der', 'insgesamt', '. Das Ausmaß']

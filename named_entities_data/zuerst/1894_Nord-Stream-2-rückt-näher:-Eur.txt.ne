@@ -1,1 +1,0 @@
-['Moskau/Berlin', 'Der', 'unterzeichnet', 'die', 'Wie', ',', 'und', 'jeweils', 'Durch', 'Pipeline', 'ab', 'direkt', 'strömen', 'Baubeginn', 'geplant', 'Unternehmen', 'den', 'zur Bau', '2', 'davor']

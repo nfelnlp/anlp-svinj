@@ -1,1 +1,0 @@
-['Friedensnobelpreis', 'zu einer', 'Die', 'im', 'Zug', 'Stunden', 'Hamburger', 'Reederei', 'Es', 'erste', 'vor', 'von', '. Das', 'Atomausstieg', 'einem', 'gasförmiges', ')', 'nd «', 'kleine', 'vielen', 'werde', 'Die', 'vorerst', '?', ',', 'Antworten vom', ',', 'der', ',', 'Mitstreiter kritisieren ,', 'auch', 'Urantransporte', '»', ',', 'Hexafluorid', 'Zug']

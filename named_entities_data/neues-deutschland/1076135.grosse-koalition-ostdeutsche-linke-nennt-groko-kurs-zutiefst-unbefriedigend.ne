@@ -1,1 +1,0 @@
-['Horst Seehofer', 'Angela Merkel', 'Martin Schulz Potsdam', 'Linkspartei', 'SPD', 'Union', 'Union', 'SPD', '– als', 'Die', '1,5', 'des', 'Spaltung', 'SPD vorgeworfen', 'Koalition', 'kleinem', 'Reparaturen', 'geben', 'sozialpolitische Zugeständnisse', ',', 'viel']

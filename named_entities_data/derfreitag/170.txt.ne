@@ -1,1 +1,0 @@
-['Roloffs', 'Side', 'Gallup/Getty Images', 'möchte', 'der', 'diesen Satz', 'Stasi-Überlebenden anhören', 'Die Stasi', 'Freund', 'und', '„Ich', ':', 'verdienenden', 'Mann', 'zu bespielen', 'aus', ', die', 'von', '.', 'später', 'zu', ',', 'er', 'Er', 'was', ',', 'Lederer', 'einen Vorteil', 'Er', 'Kultursenator', '.', '9', 'Erinnerung an']

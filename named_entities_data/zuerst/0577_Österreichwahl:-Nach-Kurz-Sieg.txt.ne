@@ -1,1 +1,0 @@
-['Wien', '„Die', 'von', 'dieser', 'triumphierender Sieger', 'Rennen', 'wird', 'raus', 'österreichischen', ', sondern', '„Liste', 'immitierte', ',', 'am', 'so', 'traditionell', '.', 'der', ', daß dies bei', 'gelten', 'ist', 'Tatsache']

@@ -1,1 +1,0 @@
-['„Erwerbslose kennen', 'blickt zum', 'So', ',', 'nutzte', ',', ': Es', 'erklärt .', 'in', 'drei', 'Leistungsempfänger', 'alle', ', wurde', 'der', 'an', 'Im', 'fünf', 'ist', 'es', ',', 'sehe', 'auf', 'evaluieren . Und', 'Umver-teilung .', 'inklusive Rente', 'Das in', 'Grundeinkommen', 'beschäftigen', 'finde', 'Bürgergeld', 'der Arbeitsagentur', 'besonderer']

@@ -1,1 +1,0 @@
-['Trump', 'CBS-Interview', 'gegen', 'Wichtigste aus Donald', 'übersetzt . Am', 'übersetzt . Am Freitag', 'und', 'in seinem', 'da drüben', 'Und', 'Angst', 'konzentrieren möchte', 'richtig', 'könnten', 'Millionen', 'in', 'gekommen', ',', 'worden war', 'ich', 'es', '?', 'Liga', 'Unser']

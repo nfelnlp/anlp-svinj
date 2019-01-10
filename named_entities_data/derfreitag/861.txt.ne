@@ -1,1 +1,0 @@
-['Pascal', 'Segretain/', 'Getty', 'Wie', 'das', 'Algorithmus', 'landen daraufhin', 'der Serie Die', 'verkuppelt', 'Die', ',', 'Algorithmus', 'dafür', 'hätte', 'old', '.', ',', 'Karikatur', 'nicht', 'Ende', 'und']

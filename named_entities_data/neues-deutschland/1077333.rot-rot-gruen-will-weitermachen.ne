@@ -1,1 +1,0 @@
-['.', '. Die', 'Grüne', 'sich', ') am', 'erklärt', 'hatte', 'Bau', 'das', 'an', 'bieten', 'ohne', '«', 'weitere', 'Investitionsoffensive in', 'den', 'Arbeit', 'ausgeglichen Etat', 'neue', ')', 'das', 'innerdeutschen Grenzstreifens']

@@ -1,1 +1,0 @@
-['Koepsel/Getty', 'Sustainable Futures der University', 'Technology Sydney ( UTS', ',', 'und', 'Aufsichtsbehörde', 'genommen . Dabei ging', 'Technology', 'Sydney', 'verfügen . Die', 'des', 'und', 'dem Blog The Conversation', 'bit.ly/PPDGai Übersetzung : Holger']

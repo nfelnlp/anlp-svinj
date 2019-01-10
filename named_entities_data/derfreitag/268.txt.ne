@@ -1,1 +1,0 @@
-['Otto', 'Kochs', 'Thymian', 'Dill', 'vor', 'sogar', 'den', 'Ich', 'zerrupften', 'Kräutern', 'neutraleres', 'die']

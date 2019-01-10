@@ -1,1 +1,0 @@
-['AFP/ Getty', 'Laut', 'Internetseiten', 'derer', 'wir', 'so', 'lassen ,', 'Millionen Schritte', 'weniger', 'von', 'ist']

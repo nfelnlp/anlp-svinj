@@ -1,1 +1,0 @@
-['Berlin', 'Peter Nowak', 'Berlin', 'den', 'weigert', 'Er', 'Bundesrepublik', 'wenn']

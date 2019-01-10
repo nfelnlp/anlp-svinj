@@ -1,1 +1,0 @@
-['Gute', 'Psychisch belastend', 'vor', 'jüngst erschienenen', 'Kosten', 'schnell', 'Jungle World', 'sich', 'Wir', 'fehle es', ',', ', führt', 'erkennen', 'mit', 'einer psychischen', 'Misere', 'trage', 'Nach', 'Auslastung', 'warten', 'sich', 'Klinik', 'Tisch']

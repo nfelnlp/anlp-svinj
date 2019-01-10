@@ -1,1 +1,0 @@
-['.', '. Langsam', 'in', 'Bayern', 'vor', '( Freie', 'für reibungsloses', 'schon', 'Und', 'gut befunden und', 'einstimmig', 'den', 'haben 5000', 'und', '« ,', 'Es', 'es weckt', 'werden', 'dauerparkende Anwohner']

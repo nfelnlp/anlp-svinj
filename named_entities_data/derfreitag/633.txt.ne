@@ -1,1 +1,0 @@
-['ich', '.', 'zunehmend Kapital zu', 'des', 'dabei', 'ist', '[', 'mal', '.', 'falsche', 'en ’', 'Tendenz zur', 'Systeme ,', 'Leben “', ', was', 'und gebe je', 'nachholenden', 'ist', 'letzten', 'letzten Notizen', 'Kunden', 'als', '.', 'Drittel', 'freiheitlich-kompetitiven Umständen', 'solcher Bedarfe/Bedürfnisse', 'Wirtssektors', 'vielen anderen', 'ist']

@@ -1,1 +1,0 @@
-['am', 'am Main . Der', 'deutliche', 'Lufthansa und Germanwings', 'mit', 'UFO', 'Mission zu']

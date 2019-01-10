@@ -1,1 +1,0 @@
-['Straßburg', 'Theaterdonner', 'polnische', 'Janusz Korwin-Mikke', 'für eine', '„Natürlich', 'seit', 'Wochen', 'ist ,', 'keinen', 'Polen', 'mit den', 'Korwin-Mikke', 'Applaus']

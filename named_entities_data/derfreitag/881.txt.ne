@@ -1,1 +1,0 @@
-['Getty', 'Als', 'aufregen', 'verbreitet ,', 'zur', 'den', 'von', 'und', 'der', 'in meinem']

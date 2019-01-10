@@ -1,1 +1,0 @@
-['Wisnewskis Buch', '– vergessen', ',', '. Februar', ':', 'es dem', 'gelungen', 'Computersysteme', 'deutsche', 'an ,', 'ihrer', '«', 'die', 'Telefonkunden', 'dem', 'bekannt', ', dass', 'Unternehmen', 'Wir', 'auf', 'können ?', ',', 'etwa', 'angeben', 'Nr', 'Handy-Nummer', 'teidigung', 'noch', 'einiger', 'eine', ':', ',', 'jetzt', 'Januar', 'Ihnen']

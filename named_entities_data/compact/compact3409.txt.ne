@@ -1,1 +1,0 @@
-['Ukraine', 'Andreas Rieger', 'die', 'dies', 'an', 'Losung', 'Stiftungen', 'völkisch', 'nur', 'des', 'Selbstbestimmung', 'böse', '?', 'Kriegsgeschrei', 'Außenminister', 'Kriegstreiberei', ',', 'Man', 'operieren', 'Souveränität', 'Bank', 'funktioniert .']

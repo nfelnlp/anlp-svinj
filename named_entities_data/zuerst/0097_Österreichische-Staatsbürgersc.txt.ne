@@ -1,1 +1,0 @@
-['Bozen', '–', 'Länder-Ministerpräsidenten', 'schießt in', 'für', 'Doppel-Staatsbürgerschaft', 'Südtiroler', 'will dabei jetzt', 'dürfe', 'auch', 'nachdenken', 'ist', 'Diskussion', 'Diskussion über', 'als', ':', 'Leute']

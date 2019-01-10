@@ -1,1 +1,0 @@
-['drohen Fahrverbote .', 'der', 'angesichts', 'Hybrid-Limousine Prius', 'des', 'bei einem Fototermin', 'Million Elektroautos', 'gemacht', 'sie', 'fahren', 'allem', 'sowie', 'hat', 'La Jamais', '.', 'dann', 'krankten eben', 'somit', 'erhalten', 'das']

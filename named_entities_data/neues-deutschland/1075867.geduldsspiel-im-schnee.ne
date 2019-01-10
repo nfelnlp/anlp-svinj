@@ -1,1 +1,0 @@
-['. Die', 'Abgeschnittene Bergdörfer', 'die baldige', 'Morgen bei', 'Matterhorn', 'Hotels', 'Imesch', 'Nachmittag waren', 'Zermatt-Bergbahnen berichtete', 'Lawinendienst', 'Lawinendienst war', 'Lawinendienst war schon', 'geplant', '»', 'Straße', 'Ort', 'ist', 'Hubschrauber', 'noch', 'oder Lawinensprengungen', 'am', 'verzögerte', 'Saas-Fee']

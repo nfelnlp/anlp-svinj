@@ -1,1 +1,0 @@
-['Jahreshälfte', 'verdienen', 'Asylrecht', 'vier', 'verpflichtet', 'verschleiert', 'haben sich', 'Zweck zusammengeschlossen', 'Inzwischen', 'es 198 Unternehmen', 'Fast', 'wird', 'einmal', 'den', 'Zuwanderern', 'taten', 'volljährigen', ',', 'höchste', '15,5', 'Hochschule', 'oder', 'Art', 'für', 'kontrollierte', 'von', 'echten', 'Fachkräften', 'höher']

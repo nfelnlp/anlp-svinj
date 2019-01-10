@@ -1,1 +1,0 @@
-['miesen', 'Gruppe', 'aus', 'das', 'Oktober', 'die', 'Pracownicza', ',', ',', 'und', 'geplant', 'Damit', 'die', 'Berlin', 'beteiligten', 'geplant', 'beginnen', 'Das', 'geplant . Das', 'sucht', 'werden', 'gegenüber', 'nd «', 'John', 'ermutigende', '«']

@@ -1,1 +1,0 @@
-['Deutschland', 'afghanischer', 'Justiz', 'dümmer', 'Name', 'bei ihrer', 'der', 'nichts', 'Vorfall geht', 'entsetzt', 'den', 'sieht', 'wir', ',', 'wird', 'wird ,', 'wissen', '.', 'sich', 'Wochenblatt', ',', ', was', 'man', 'genommen', ',', ', insbesondere', 'Doch', 'Mann', 'nach', '. Da kann man', 'sagen', 'das', 'netten', 'hat']

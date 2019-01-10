@@ -1,1 +1,0 @@
-['Lange', 'Goldmann )', 'Um', 'dagegen', 'von', 'Alice Weidels', 'Korrektheit', 'Leser', 'geehrter Herr', '„politische Korrektheit', 'Korrektheit', 'folgendermaßen', 'die Nazi-Schlampe', 'politische Korrektheit die', 'sei', 'die', 'Wir', 'Fernsehen .', 'Frage', 'wann', 'jener', 'Vorgänger', 'den', ',']

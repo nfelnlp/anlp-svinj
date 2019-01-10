@@ -1,1 +1,0 @@
-['Gesellschaft', 'Wien', 'Bundesamt', 'BVT', 'sich', 'Anteil', 'und', 'möglicherweise', 'der', ',', 'BVT-Jahresberichts .', 'Die', 'zahlreichen', 'vor', ',', 'der', 'berichtete']

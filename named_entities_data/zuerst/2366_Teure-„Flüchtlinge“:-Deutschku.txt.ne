@@ -1,1 +1,0 @@
-['Wien', 'Bundeshauptstadt', 'in Oxford :', '14.000', 'Millionen', 'im', '60 Unterrichtsstunden', 'Prüfungsvorbereitung )']

@@ -1,1 +1,0 @@
-[':', 'schon', 'über gemeinsame', 'Teilen']

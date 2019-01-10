@@ -1,1 +1,0 @@
-['Belgrad', 'Aleksandar Vucic', 'EU', 'Rußland', 'China', 'Vucic', 'Bundeskanzlerin Merkel', 'Putin', 'Merkel und', 'Putin danken', '.', 'abstatten', 'des', 'Slawenkunde', 'zu Wort', '„Seine', '.', 'er', 'gemeinsame Militärübungen', 'lediglich', 'ein', 'rund', ',', 'auf 13']

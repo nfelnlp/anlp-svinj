@@ -1,1 +1,0 @@
-['. »', 'wie', 'als', 'Die neuen Songs', 'Wechselschritt', ',', ',', '.', 'im', ',', 'wie', 'wie das', 'von', 'Experience', 'Jahre', 'A']

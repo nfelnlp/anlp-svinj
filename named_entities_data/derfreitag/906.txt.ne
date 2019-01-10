@@ -1,1 +1,0 @@
-['Bild', 'oder', 'Rursee', '.', 'wie', 'prognostizierten', 'stattfand', 'den', 'frühzeitig', 'Tagen mit', 'eine', 'Termin', ',', 'der Kölnischen Rundschau mitteilte', 'formuliert', ', Fraktionsvorsitzender', '„ziemlich blamabel', 'es', 'man', 'der', '„Rettet', ',', 'Veröffentlichung', 'wie', 'sein', 'Sonst', 'angeblich', ',', 'hat ,', ',', 'auch', 'es']

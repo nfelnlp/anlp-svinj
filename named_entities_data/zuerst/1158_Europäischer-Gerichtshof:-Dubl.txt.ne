@@ -1,1 +1,0 @@
-['Kroatien', 'wie', 'hätten', 'einem', 'als', ',', 'Asylanträge', 'geht', 'wie', 'das', 'hinnehmbar', 'massen', 'der', 'Flüchtlings-Zielländer']

@@ -1,1 +1,0 @@
-['Bad Kreuznach', 'Rheinland-Pfalz wüten seit einiger', 'sich', 'sich ,', 'immer', 'einmal', 'Wölfe', 'die Wagen', 'gewöhnten', 'und', 'werden', 'die Männer', 'Leitende', '“ dulden', 'willens', 'Ruhestörer vorzugehen', 'Internetseite der', ':', 'in der', 'einzelner Personen und', 'vorerst gültig', 'im', 'lsg', ':', '@', 'an unsere', 'an']

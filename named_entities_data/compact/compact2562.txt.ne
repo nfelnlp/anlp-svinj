@@ -1,1 +1,0 @@
-['Lydia', 'vor der', 'Familie .', ',', ', Platz 6', 'kommenden', 'in', 'Ja', 'so dar ,', 'Verhältnis zur Entwicklung', ',', 'C : Ist', 'das', 'Umfeldes', 'Zeitung', 'DDR', 'anderem', 'der', 'Eltern', 'zu', 'minderjährigen', 'Könnte', '?', 'in', 'welche', 'Eheschließungen', 'Arbeit']

@@ -1,1 +1,0 @@
-['Berlin', 'Herder-Gymnasiums', 'nur', 'mit', 'Täter', 'beschrieben ,', 'lustigen', 'Die', 'die', 'die', 'erhob', 'Vorwürfe', 'Über', 'für', ',', 'kennen', '[ …']

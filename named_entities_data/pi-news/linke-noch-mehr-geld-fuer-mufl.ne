@@ -1,1 +1,0 @@
-['Berlin-Brandenburg', 'Staatssender', 'Junge', '(', 'Immer', 'eine', 'Das', 'mit', 'er sich mit', 'verwöhnten', 'anderes', 'abzusetzen', '„Flüchtling', 'ist', '“', 'neue', 'schickt', 'aufzuklären', '.', 'das', '.', ',', 'einen', '„Die', 'jegliche', 'bedrohliche', '„Es', 'Also']

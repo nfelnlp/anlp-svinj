@@ -1,1 +1,0 @@
-['Frankfurt', 'Erika Steinbach', 'Bundestagsmitglied', 'CDU', 'Union', 'dann', 'verlasse', 'veröffentlichte', 'vielen', 'und', '?', '?', '(', 'lassen', 'demgemäß', 'geltendem', 'müssen', 'widersprach', 'zwar', 'stigmatisieren', 'marginalisieren', 'geschadet hat', 'der', 'auch']

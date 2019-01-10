@@ -1,1 +1,0 @@
-['.', '. Wegen', '»', 'erklärt .', ',', 'Menschen', 'Hauptstadt', 'machte', 'machte das', 'benachbarten Bundesstaaten', 'eine', 'weltweit']

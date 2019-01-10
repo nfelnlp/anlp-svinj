@@ -1,1 +1,0 @@
-['Berlin', 'Angela Merkel', 'Beck ,', 'für', 'der', 'nicht', 'gewordene Medien', 'Berlin', 'tiefe', 'Nerven', '. Dezember', 'Überschrift', 'vor', 'Islamisierung Deutschlands', '.']

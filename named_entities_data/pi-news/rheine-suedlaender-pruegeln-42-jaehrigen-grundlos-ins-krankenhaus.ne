@@ -1,1 +1,0 @@
-['Rheine', 'Kreis Steinfurt', 'Rheine', 'mehrere', 'Möglicherweise', 'die', 'der', 'Männer', 'die', 'Alter', '20', 'Zeugen', '.', 'Uhr', 'dem', ',', 'Iraner', 'Mehrere', 'es', 'wurde', 'vom', 'gewesen', 'gewesen .', '.', 'Sohn', 'in', 'mit', 'sein . Mit', 'verübt', 'noch nicht', '( Anmerkung']

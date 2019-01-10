@@ -1,1 +1,0 @@
-['Sie', 'bekommen', 'sie', '(', 'Simacota', 'und andere', 'bis', 'des', ',', 'mehr als', 'ELN', 'Friedensabkommen', 'die', 'und verhandelt', 'führt das', 'Pestizide', 'rechten', 'erst', 'Manuel Santos', 'aktiven Guerillaorganisationen Lateinamerikas', 'unabhängigen', 'Kräfte', 'weist das', 'auf']

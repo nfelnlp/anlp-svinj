@@ -1,1 +1,0 @@
-['Gesellschaft 2 Berlin', 'auch', 'besondere', 'gaben', 'erwachsene', '“', 'Macher dieser', 'auf', '‚Ich mag']

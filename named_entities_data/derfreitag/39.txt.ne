@@ -1,1 +1,0 @@
-['die veränderte', 'die Piraten', 'Die', 'Artikel erschien', 'sprachlos', 'hat', 'die Spitzenkandidaten', ',', 'ihrem', 'Regierungsbeteiligung', 'grundsätzlicher', 'Software', 'wird', 'für', ',', '?', 'Auch', 'schützen', 'sagen', 'Bedienstete', 'Piraten', 'einem', 'im selben', 'noch Bundesschatzmeister']

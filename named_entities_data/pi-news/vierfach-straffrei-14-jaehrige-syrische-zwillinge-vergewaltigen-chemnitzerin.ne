@@ -1,1 +1,0 @@
-['–', 'werden', ',', 'mit .', 'haben', 'der', '„Buben', 'exakt', 'die beiden', 'am', 'zu überführen', 'Telefonanschlüsse', 'überwacht , ein', 'Wie', 'planen', 'zu', 'zuletzt', 'sogar', ',', 'Anmache', 'Polizei', 'wie', '–', 'zum', 'versuchte Vergewaltigung', 'Tatorte', 'um', 'ist', 'Kay', 'ist auch', 'Chemische Keule']

@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'Ungarn', 'hat', 'sollen bis', 'mit', 'Direktor', 'Fremdenwesen', 'gemeinsam', 'hat', 'weltweit', 'Von', 'dem', 'den', 'Asylwerber']

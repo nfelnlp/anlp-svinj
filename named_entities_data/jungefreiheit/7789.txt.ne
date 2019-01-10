@@ -1,1 +1,0 @@
-[',', 'Halbwahrheit', 'die', 'dem', 'Lande', 'die', 'gekreuzigt', 'eine', 'Andersgläubigen', '.', 'logisch', 'Christen', 'angeblich', 'leben', 'Anpassungsprozesses', 'wird', 'seinen Stammländern']

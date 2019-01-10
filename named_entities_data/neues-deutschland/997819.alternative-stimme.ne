@@ -1,1 +1,0 @@
-['säkulare', 'Afghanistan', 'wollen', '.', '.', ',', '. Die', 'in der sie', 'Deutschland', 'VertreterInnen', 'traditionelle', 'Berlin', 'von', 'als', 'einer', ',', 'und', '»', 'Zusammenarbeit', 'Bundesregierung', 'Kabul', '«', 'die', 'unter', 'fest', 'fest .', 'auch von', '2009', '«', '.']

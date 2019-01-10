@@ -1,1 +1,0 @@
-['Universität Maryland', 'Sonny Kumbelaka/', 'Getty', 'Laut Roland', 'und dem', 'vertagt die', 'alte', 'ähnlichen Apokalypse', 'die', 'naive', 'des Öls', 'konnte', 'wird', 'hat', 'dienen', 'Ohne', '.']

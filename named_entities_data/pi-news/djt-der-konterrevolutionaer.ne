@@ -1,1 +1,0 @@
-['Donald J. Trump zu', 'austobt', 'wohl', 'Woran', 'Dritter', 'Kommunismus', 'Alles', 'randalierenden', 'Gesindel', 'zum schäumenden', '„Abschottung “ oder intellektuelles', 'Zurückgewiesen', 'seine', 'einen', 'es', 'des', '„A']

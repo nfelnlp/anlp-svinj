@@ -1,1 +1,0 @@
-['Horden', 'Aufbauaktivitäten', ', waren teilweise', 'war', 'Kriminalisierungsversuche sollen wohl', 'die', 'etwa', 'TeilnehmerInnen', 'werden', 'artig den', 'war', 'von einem martialischen', 'die', 'seit', 'freundlichen', 'das', 'bleibt']

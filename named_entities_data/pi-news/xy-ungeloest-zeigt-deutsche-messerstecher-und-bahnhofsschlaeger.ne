@@ -1,1 +1,0 @@
-['der Fall', 'Nur', 'und verhinderte', '.', 'den', 'zweifelsohne verdient', 'Respekt', 'von', 'haben', ',', 'man', ', das sichergestellt', 'Mittäter hätten auf', '…', '.', '…', 'vermutet', 'eines', ',', 'des (', ')', 'dass', '“', 'Merkmal', 'PI', 'Sonnenstudio', 'Ein', 'zu schwarz', 'nur', 'der', 'Protesten', 'ZDF', '.', 'uns', ',', 'würden']

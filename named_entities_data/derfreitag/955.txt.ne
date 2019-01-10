@@ -1,1 +1,0 @@
-['Schavan', '.', ',', ',', 'und', 'auch', 'werden', '.', 'tot', 'und', '.', 'Protest', 'oder', '.', 'sind', 'ich', ',', 'und', 'wollen', 'da', 'runterhaben', 'Wahl des', 'desinformierte', 'die']

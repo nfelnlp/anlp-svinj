@@ -1,1 +1,0 @@
-['SPD-Perversion', 'Richter Des öfteren', '– die außerdem', 'pro', 'dem', 'selbst', 'Kritik', '1-Euro-Ausbeutung', '.', 'auf weitere', 'letzten', 'diese', 'Jetzt', 'Hartz-IV-Gesetze schön', 'weg', 'erwarten…', 'sie', 'dass', 'der Maßnahmen']

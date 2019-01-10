@@ -1,1 +1,0 @@
-['Berufsnachwuchs', '.', 'und', 'Milliarden', 'Erwartungen', '1980', 'der', '14', '1989 .', '1989 . Neben', 'wich dieser', 'und', 'Entwicklung', 'Vielzahl', '1980', 'Teil', '0,9', '80er', 'Ausland', 'Im', 'wird', 'sinkende', 'Jahr', 'Weg', 'ergaben', 'unseres', 'lag', 'Milliarden', '32', 'Struktur', 'vergangenen', 'die', 'durchschnittliche', 'uns', 'vorab . Trotz']

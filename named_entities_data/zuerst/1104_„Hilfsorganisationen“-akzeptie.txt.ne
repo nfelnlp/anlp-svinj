@@ -1,1 +1,0 @@
-['Rom', ',', 'stellte', 'daß', 'umzugehen .', 'ermutigt', 'Unter', 'Schiffe jener', 'die den']

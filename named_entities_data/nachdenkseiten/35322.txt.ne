@@ -1,1 +1,0 @@
-['Journalismus als', 'nun von', 'der Mobilfunkindustrie', 'profil', 'schädlich sind .', 'Forscher', 'die', 'in ihren', 'kenne', 'rein', 'Dort hat', ', die', 'wird interessanterweise', 'sofort', ',', 'nicht', 'Umgang', 'auch', 'Menschen ausgezeichnet', 'wenn', 'eine', 'erhielt sie', 'für', '.', '2015', 'Pro7/Sat1']

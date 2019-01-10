@@ -1,1 +1,0 @@
-['.', '. In', 'wieder', 'im vergangenen Jahr in', 'sich an', 'Arbeit']

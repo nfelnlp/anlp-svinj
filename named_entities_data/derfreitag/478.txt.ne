@@ -1,1 +1,0 @@
-['Artikel', 'völlig andere', 'ist', 'Notlösung', 'uns', 'von', 'aus', 'einer', 'zur', 'halte', 'Damals', 'und', 'des', 'Anwaltskollektivs .', 'gewann', 'Folge', 'im', 'inhaltliche Überschneidungen ? Ist', 'übereinstimmen', 'sich', 'bei', 'staatliche', 'und', 'sie das', 'Es', '.', '.', 'ja', 'angezogen haben', 'hat aber', 'in den', 'Der', '.', 'Ich', '.']

@@ -1,1 +1,0 @@
-['Berlin', 'Deutschland', 'Hessen', 'Bundeskanzlerin Angela', '(', ', daß', 'sich', 'Kinder', 'müssen', 'noch', 'eine', 'jeder']

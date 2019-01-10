@@ -1,1 +1,0 @@
-['. Ein', '. Bis zum', 'teilte', 'Wassermassen', 'die', 'Auch', 'beseitigt worden', 'Neben', 'Seebad', 'die', 'Hilfsprogramm', 'das', '» Ich', 'mich', 'Hilfsprogramm', 'leistungsfähig und', 'bei Eintritt einer', 'Ort', 'Willen', 'Sie', 'davon aus', 'dass', '.']

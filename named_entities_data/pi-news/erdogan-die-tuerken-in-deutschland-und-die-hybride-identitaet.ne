@@ -1,1 +1,0 @@
-['Deutschland', 'Europa', 'Türkei', 'Peter M. Messer', 'lebenden', 'von', 'Italy', 'Das', '„Diversity', 'hier', 'kommen', 'nicht', ',', 'Ursprungsland zurück', 'klar', 'die', 'zu', 'werden', '.', 'nur', 'einer', 'Identität', 'München dafür']

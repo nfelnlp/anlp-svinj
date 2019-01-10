@@ -1,1 +1,0 @@
-['noch amtierende Bundesumweltministerin', 'Anstoß :', 'die', 'auch', 'Fronten', 'Zwischen', 'kam', 'sich', 'und Gartenbauwissenschaften', 'Humboldt-Universität Berlin .', 'weiter erhebliche öffentliche Mittel', 'denn die', 'sei', 'nichts', 'Kirsten', 'Auch die', ',', 'auch beim', 'grundlegende Debatte', 'zu', '. »', 'So ist', 'hohe', 'ausgehandelt', 'Landwirtschaft']

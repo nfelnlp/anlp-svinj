@@ -1,1 +1,0 @@
-['Donald Trumps', '?', 'Gysi ?', '«', 'Die', 'entschärft', ',', 'geschlafen', 'genervt', '»', 'habe', 'Stelle ,', 'S .', '» jämmerlichen « Minderheiten ,', 'für', 'Sieg verantwortlich sind', 'immer CDU', 'ihr', 'sie', 'und', 'waren', 'Aber', 'Erscheinungen', 'ist', 'So', 'schlimm', 'und', 'sind', 'Trump ist', ',', 'egal', 'ich', 'ich konservativer', 'wandern zu', 'kann :']

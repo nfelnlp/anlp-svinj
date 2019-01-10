@@ -1,1 +1,0 @@
-['Damaskus', 'syrische', 'Assad', 'in', 'in', '.', 'wie', 'Syrer', 'den', 'Versuche', '”', 'der', ',', 'auf', 'des', 'zudem', '”']

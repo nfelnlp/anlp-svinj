@@ -1,1 +1,0 @@
-['Brüssel', 'Kerchove', 'hat seine Warnung', '„Islamische', 'der', 'mehr', 'gerate', 'daß', 'noch', 'bereiten', 'Europa', 'Kerchove', 'Europäer', 'dschihadistischen', 'haben', '1500', ',', 'im', 'wie', '„Wir', 'fest', '.', 'nicht mehr', 'sondern', 'Lebensumfeld', 'die sogenannte', 'Daten']

@@ -1,1 +1,0 @@
-['Gesellschaft', 'Hamburg', 'übernachten', ',', 'ein', '„Solidarität', 'mit', 'von', 'Polizei', 'Berlin', 'Randalierer', 'Pyrotechnik', 'weitere', 'und', 'neben']

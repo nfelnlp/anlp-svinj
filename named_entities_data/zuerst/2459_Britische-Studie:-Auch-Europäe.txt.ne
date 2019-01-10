@@ -1,1 +1,0 @@
-['London', 'verhängte Einreisesperre', 'Angaben 10.000', ',', ',', ',', ',', ',', ',', 'und', '.', 'wurde', 'Teilnehmern', 'und', 'waren', 'mehr', '60', 'Migration', 'Zustimmung']

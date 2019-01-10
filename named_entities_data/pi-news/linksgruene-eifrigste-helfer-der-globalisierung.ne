@@ -1,1 +1,0 @@
-['Massenmigration', 'Deutschland', 'Nadine Hoffmann', '“ )', ')', 'verlockende', 'dem', 'Es', 'im', 'ihr', 'Mensch', 'erzeugte', 'Sie', 'Gegenteil', 'ihnen']

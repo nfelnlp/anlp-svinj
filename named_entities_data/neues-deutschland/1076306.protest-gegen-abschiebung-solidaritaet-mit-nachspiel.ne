@@ -1,1 +1,0 @@
-['knöpft', 'Afghanen', 'Nürnberg', 'Johannes Hartl', 'Polizei', 'Protestierer', 'Nürnberger Polizei']

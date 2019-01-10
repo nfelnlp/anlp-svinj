@@ -1,1 +1,0 @@
-['Paris', 'Frankreich', '“ .', ',', 'Lille', 'Rouen', 'Erstmals', '.', 'und', 'können', ', der', 'Polizei', 'schießen', ',', ',', 'nicht', 'Kosten', '.']

@@ -1,1 +1,0 @@
-['zeigt', '.', 'am', 'mitverfolgen', '.', 'letzten', 'den', 'Seiten', 'Die Statue', 'die', 'Dargestellt', 'so lange', ': Merkel', 'Fokus', 'Bei', 'skandierten', 'das', '. Auf', 'auf', 'Auch', 'Straße', 'ca', '.', 'eigentlich', 'Wahlkampfkundgebung auf', 'gleichen Platz', '18:30', 'I.', 'ist ohnehin', 'wieder eine', '.', 'entweder', 'des', '.']

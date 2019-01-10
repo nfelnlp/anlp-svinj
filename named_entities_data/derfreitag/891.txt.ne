@@ -1,1 +1,0 @@
-['Martin Tingvall', 'und Chick', ', sind', 'durch die', 'Edvard', 'meets Thelonious', '. Der', 'oder das', 'hält er', 'die Weite', 'Licht', ', die ihm']

@@ -1,1 +1,0 @@
-['Wien', 'Sebastian', '„Staaten', 'wir', 'ob und', 'Wirtschaftsmigration', ',', '„Aber', 'in', 'wird', 'zu', 'im', '2.0', '13.06.2016']

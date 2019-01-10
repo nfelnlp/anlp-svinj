@@ -1,1 +1,0 @@
-['Stefan', ',', '–', ',', '.', 'Clark 1914', 'er', '.', 'an', ',', 'Brecht in', ',', 'über', 'am', 'Luther war', 'sitzt', 'Ist', 'Houellebecq in', 'also']

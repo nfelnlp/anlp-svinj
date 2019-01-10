@@ -1,1 +1,0 @@
-['der Arbeitswelt', 'freitags', 'hoffen ,', 'Beruf', 'Privatleben b']

@@ -1,1 +1,0 @@
-['des Agrarbündnisses', 'in', 'Vorstellung', 'dem', 'Landwirtschaft .', '. »', 'und', '.', '.', 'industrialisiert', 'EU-Parlament bei', 'Ökoverordnung', 'Branche', 'hat', 'den', 'ökologischen']

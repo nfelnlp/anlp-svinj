@@ -1,1 +1,0 @@
-['Washington', '. Die', 'nach der', 'Proteste', 'Washingtoner', '“', 'Es', 'Blick', ', daß', 'in', '“', 'daß', '“']

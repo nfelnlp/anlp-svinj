@@ -1,1 +1,0 @@
-['Hamburg', 'Lenders ,', 'Polizeigewerkschaft', 'ADAC', 'Verkehrskollaps', 'Schutz', ',', '.', ',', 'mit', 'Auswärtige', 'mitgeteilt ,', 'Regierungschefs', 'rund']

@@ -1,1 +1,0 @@
-['Kreuzes', 'Kreuzes ( DRK', 'gelten', 'Nahles ( SPD', 'und', 'Seiters', 'Sonderregelung soll', 'Doch', 'Tendenzbetrieb', ',', '90', 'im', 'von', '.', ',', 'Deutschen', 'Kreuz engagieren', 'ehrenamtlich', 'des Vereins', 'hängen', 'Arbeitnehmende', 'Die', 'die', 'freiwillige', 'ergeben', '.']

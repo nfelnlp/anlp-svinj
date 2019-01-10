@@ -1,1 +1,0 @@
-[',', 'Meeresspiegels', '20', 'zu', '!']

@@ -1,1 +1,0 @@
-['Post', 'Deutschland', 'Knapp', 'Deutschen Post', 'Neuen', 'Verfassungsschützern', 'Bundesnachrichtendienst', 'den', 'Foschepoth in', 'Postverkehr', 'besetztes', 'und', 'die', 'Regierungsgewalt', 'machen', ',', 'Richter', 'versteckt', 'war', 'Deutschland', ',', '.', 'man', 'insbesondere', 'Überwachung', 'und']

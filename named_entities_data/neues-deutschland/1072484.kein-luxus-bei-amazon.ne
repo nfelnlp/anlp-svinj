@@ -1,1 +1,0 @@
-['Calvin', 'oder Chloé', 'des', 'sich', ') entschied', 'von', 'verkaufen', 'Az', ', Coty Germany', 'Internetgeschäft', 'ein', 'nicht', 'verstößt', 'EU-Recht', 'Gesichtspunkte', 'Es gibt', 'mache der', '» in', '-', 'online -', 'weiter', 'zu', '.', 'Vertrieb']

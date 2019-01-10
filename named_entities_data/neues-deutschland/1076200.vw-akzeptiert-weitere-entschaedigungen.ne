@@ -1,1 +1,0 @@
-['.', '. Volkswagen akzeptiert im', 'Der', 'Zivilstrafe', 'von Audi', 'Bei rund', 'Dieselwagen', 'einen', 'über', 'der']

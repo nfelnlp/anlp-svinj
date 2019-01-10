@@ -1,1 +1,0 @@
-['im Gespräch', 'als eine', 'der', 'werden', 'die', 'unhaltbaren', 'Schülern', 'als', 'und', 'sind', 'Es', ',', 'gesamten', 'homosexuelle', 'vor', 'auch', 'zu', 'die', 'Parteien', 'zur', 'Thema :']

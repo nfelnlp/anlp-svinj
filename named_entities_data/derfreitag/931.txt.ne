@@ -1,1 +1,0 @@
-['Stella Sommer', 'Stephanie Hochmuth', 'verflossenen', 'Kritik am', 'im', 'gehört', 'Platte', 'Der', 'Blumfeld', 'Blumfeld beeinflusst']

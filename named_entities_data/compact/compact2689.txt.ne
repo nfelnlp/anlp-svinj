@@ -1,1 +1,0 @@
-['amerikanische', 'Grebe', 'University of California Berkeley', 'San', 'San Francisco Bay', 'Francisco Chronicle', 'COMPACT', 'Deutschland', 'USA', 'ist', 'weniger', 'die', 'der', 'Political', 'Präsident', ', gegen', 'an', 'wie sehr', 'Register', 'sich', 'als Fachmann', 'den USA gilt', ':', 'eine', 'in', 'ertragen', 'mit']

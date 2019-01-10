@@ -1,1 +1,0 @@
-['Ägypten', 'Gesa', 'Ägypten', 'Abdel Fatah al-Sisi', 'in', '.', '(', '( IS', 'der', '.', 'am', 'fragil']

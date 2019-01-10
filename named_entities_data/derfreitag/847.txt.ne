@@ -1,1 +1,0 @@
-['Hope', 'Kitwood/Getty', 'Nun', 'Trump-Regierung geworden ist', 'Fürs', 'Jeder', 'einen', 'Und', 'für', 'zwischen', 'mir', 'Reagan nicht', 'Männer', 'dass', 'Trump', 'sollte', 'schreibt für', ':']

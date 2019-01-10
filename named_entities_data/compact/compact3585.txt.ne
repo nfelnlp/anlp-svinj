@@ -1,1 +1,0 @@
-['Dr. Michael', 'Vogt von www.quer-denken.tv', 'Gespräch', ', sogar', 'die Armut', 'auch ihre', '(', 'nun wird', 'stellenweise', '€-Krise', 'besser', 'des', 'des']

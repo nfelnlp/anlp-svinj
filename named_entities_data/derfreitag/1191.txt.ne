@@ -1,1 +1,0 @@
-['Mark Terkessidis', 'Images Ich', 'die', 'Aufregung', 'zu', ', den', 'Rand', 'zuletzt', 'den Kindern', 'Zumal', '.', 'Frage “', 'Die', '“', 'derzeitigen', 'das', 'ist']

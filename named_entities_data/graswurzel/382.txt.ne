@@ -1,1 +1,0 @@
-['GWR', 'meinem', 'gegenüber', 'erste', 'ab', 'dem', '. So wurde', 'paar', 'sehr', 'und', 'auch', ',', 'dabei auch', 'Sie', 'den', 'MitbewohnerInnen']

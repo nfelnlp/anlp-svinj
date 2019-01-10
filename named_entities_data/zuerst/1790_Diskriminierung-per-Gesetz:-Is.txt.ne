@@ -1,1 +1,0 @@
-['Jerusalem', 'soll', 'Heimstätte', 'Volkes', 'als', 'Amtssprachen', 'Minister-Entscheidung denn', 'Diskriminierung', 'Gesetz', 'mü']

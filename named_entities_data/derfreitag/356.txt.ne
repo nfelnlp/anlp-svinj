@@ -1,1 +1,0 @@
-[',', 'nach', 'weiter', ',', 'unterstützte', 'offen']

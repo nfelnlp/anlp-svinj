@@ -1,1 +1,0 @@
-['ein', ':', 'dem', 'Tag', ',', '•', 'ihn', '•', 'seine', 'weg', 'passiert']

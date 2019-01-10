@@ -1,1 +1,0 @@
-['ungarische', 'Viktor Orbán', 'hereingelassen', 'Europäischen Parlament', 'Mag', 'Brüssel', 'Europa', 'ein', 'dies', 'für', ',', 'auch', 'wird', 'in', 'im', 'George', 'Soros', 'nur', 'werden', 'während', 'sitzen', 'der']

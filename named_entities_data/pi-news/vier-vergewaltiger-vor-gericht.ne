@@ -1,1 +1,0 @@
-['Asif M.', 'drang 2005', 'ein', 'trieb', 'tischte', 'Der', 'und', 'einer', ',', 'aus', 'rief', 'die', 'Ghana', '. Am 19', 'sich', 'einen Rapefugee , der', 'der', 'mit', 'vergangenen', '.', 'Uhr', 'Düsseldorfer Altstadt', 'dabei', 'N. war schon durch einen', 'aber', 'wahre Alter des', '.', 'vergewaltigt', '.', 'Kinder', 'ein', '.', 'die']

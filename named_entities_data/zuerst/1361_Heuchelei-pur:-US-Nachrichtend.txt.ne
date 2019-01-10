@@ -1,1 +1,0 @@
-['Washington', 'Washington', 'Intelligence Agency ( DNA', 'aufgerüstet', 'im', 'Krieg', 'über', 'draufsatteln ,']

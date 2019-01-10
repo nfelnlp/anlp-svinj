@@ -1,1 +1,0 @@
-['Peking', 'Peking', 'Seidenstraße', 'nimmt', 'Brigitte Zypries teil', '. Der', 'größtem', 'Europa', 'Afrika', 'soll', 'über Zentralasien', 'Westeuropa', '.', 'hinaus', 'Raum mit Afrika', 'der', 'Seidenstraße', 'die', '.', 'zum', 'europäischen', '2014', 'des']

@@ -1,1 +1,0 @@
-['CHEVROLET', 'Bivsi', 'und', 'ihrem', 'Gejammer', 'die', 'Himalaya-Gebirge', 'Touristen', 'was', 'wo', 'trotzdem', 'in', 'mit', 'die', 'Deutschland', 'Abitur', 'man', '.', 'natürlich', 'Bivsi', ',', 'Felix', ',', 'Sprecher', '? )', 'um der', 'das', 'schnell', 'bereit']

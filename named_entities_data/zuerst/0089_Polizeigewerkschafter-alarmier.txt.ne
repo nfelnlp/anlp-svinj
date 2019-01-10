@@ -1,1 +1,0 @@
-['Düsseldorf', 'Nordhein-Westfalens', 'die', 'die', 'Aachen', 'Düsseldorf', 'Köln', 'Essen', 'Dortmund', 'Münster', '.', '“', 'Innenausschuss des', '.', 'auch', '(']

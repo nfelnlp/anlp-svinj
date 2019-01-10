@@ -1,1 +1,0 @@
-['am', 'am Main . Die Wirtschaftsprüfgesellschaft', 'einen', 'zurückzahlen', 'Die noch', 'benachteiligt', 'veröffentlichte', 'Tochtergesellschaften', 'Quelle', 'Mit', '. So muss KPMG', 'verlangten', '.', 'erarbeiten', 'geblieben', 'Zug', 'weltgrößten', '10', 'nicht']

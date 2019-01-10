@@ -1,1 +1,0 @@
-['Moskau/Damaskus', 'Die', 'setzt in', 'Kampf', ')', 'Generalstab', 'jetzt mitteilte', 'innerhalb des', 'dabei', 'daß', 'Kampf gegen', 'Al-Nusra-Front', '.', '.', 'durch', 'unsere Luftwaffe', 'Terroristen', 'konnte', 'hinaus am', 'hinaus am 28', 'Kilometer', 'aus', 'Syrien', '.', '2015', 'im Kampf']

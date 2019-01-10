@@ -1,1 +1,0 @@
-['bei', 'Projekt', 'aus', 'Rechtshilfe-Arbeit', 'die', 'als', '.', 'dazu', ',', 'immer', 'nicht', 'Auf', 'Beispielen', '?', 'welcher', 'wir', 'im', 'ja', 'nur', 'und', ',', ',', 'eine', 'mit', 'wegen', 'Reizes']

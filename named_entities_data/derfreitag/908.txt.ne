@@ -1,1 +1,0 @@
-['Guido Strack', 'Inge Hannemann', 'Frank Schwarz', 'Inge Hannemann', 'öffentlich auf Missstände', ', sondern', 'EU-Beamter Unregelmäßigkeiten', 'sich', 'Whistleblower-Netzwerk', '.', 'Unternehmen', 'Ich', 'für seinen', 'niemand mehr', ', die']

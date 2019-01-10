@@ -1,1 +1,0 @@
-['Verkehrspolitik', 'in', 'Hinsicht', 'in', 'zum', 'ausgedacht', 'so', 'Spur für', 'nur', 'jetzt', '4', 'Fahrradverkehr', 'ist', '-weg', 'nur', 'Gedankenexperiment', 'möchte', 'entworfen', 'Schönhauser']

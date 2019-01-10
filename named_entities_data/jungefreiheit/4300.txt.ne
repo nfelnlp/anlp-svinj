@@ -1,1 +1,0 @@
-['Knigge', 'Äthiopien', 'sagte einmal', '``', 'mich', ', der sich', ',', 'spreche', ',', 'das', 'Äthiopien ermordet', ',', 'Tugenden', 'Deutschland', 'gemeinhin', 'hatten', 'wie', 'erst', 'EU-Verfassung', 'Europa', 'Europa', 'haben', 'politische', '``', 'Stolz', ',', ',', '-', 'Dessen', 'die Familie', 'Verfolgung', 'und Politikwissenschaften', 'in', 'als', 'er']

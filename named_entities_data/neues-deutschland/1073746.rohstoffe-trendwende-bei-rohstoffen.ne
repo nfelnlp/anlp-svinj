@@ -1,1 +1,0 @@
-['Kenia', 'Die', 'ist', 'in Hamburg', 'beschleunigt', 'vielbeachteten Rohstoffpreisindex', '.', 'Prozent', 'steigen', 'Die']

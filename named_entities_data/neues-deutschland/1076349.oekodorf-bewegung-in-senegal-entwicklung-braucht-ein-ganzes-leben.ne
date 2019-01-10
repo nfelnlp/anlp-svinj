@@ -1,1 +1,0 @@
-['Mbow', 'Odile', 'Die Mühen', 'der', 'Wegweiser', 'man', '300', 'das']

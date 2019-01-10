@@ -1,1 +1,0 @@
-['Budapest', 'Brüssel', 'ungarische', 'János Lázár', 'Brüssel', 'die', 'ihrer', 'sich', 'Vorbereitungen', 'der', 'in', '.', '„verbindliche', 'sondern', 'den', 'habe', 'habe']

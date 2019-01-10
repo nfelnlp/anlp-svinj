@@ -1,1 +1,0 @@
-['Damaskus', 'Albu', 'Albu Kamal', 'Al Bukamal', 'Irak', 'Euphrat', 'syrischen', 'USA', 'Albu Kamal', 'Irak', 'Auch', 'dürfte damit', 'dürfte damit wieder', 'Vergangenheit', 'oder', ',', '.', 'selbst', '.']

@@ -1,1 +1,0 @@
-['wirft dem', 'vor', 'und', 'in', 'bayerischen', 'der derzeit', 'den', 'Fahrenschon vor', 'die', 'den', 'der', '2011', 'Nachfolger', 'der sich', 'Falle', ':', 'zum Bundespräsidenten', 'früherer', 'zweier']

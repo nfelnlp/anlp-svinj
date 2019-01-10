@@ -1,1 +1,0 @@
-['Eines', 'Ende', 'den', 'des', 'Valley Indiens', '“', 'Ursache für das Großfeuer', 'könnte', 'Gewässer', 'Gewässerforschung des', 'seit über zwei Jahrzehnten', 'den', 'im', 'des', 'Urbanisierung', 'nötigen', 'ernsthafte', 'im', 'die', 'werden', 'sein. “', 'Zilla']

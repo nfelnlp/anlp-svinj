@@ -1,1 +1,0 @@
-['. Linke', 'mobilisieren', 'Damit', 'und', 'die EU-Außengrenzen', ',', ',']

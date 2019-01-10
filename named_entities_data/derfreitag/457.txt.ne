@@ -1,1 +1,0 @@
-['Images Vergesst', 'Talkshows', 'vergesst', ', vergesst', 'Sinn', 'die', 'Fakten .', 'Gesamtvermögens', 'Prozent', 'und', 'sind', 'einen', 'regen', 'Ältere', 'und', 'weniger', 'gefährdeten', 'Alleine', 'Nachdenken', 'die', 'anregen', '120', 'auf', 'dazu', ')', 'haben', 'Gewinn']

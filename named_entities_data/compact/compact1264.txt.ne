@@ -1,1 +1,0 @@
-['Weißen Hauses', 'unter Druck setzen', 'Präsidenten', 'wiesen die Beweise darauf hin', 'am', 'Postol', 'das Dokument studiert .', 'Postol', 'Zitat Anfang', ',', 'ist', '. Obwohl', 'wiederholt', 'Straße', 'Earth lokalisiert', 'weil', 'wird', '.', 'Die', 'Auswertung', 'englischer', '20Syrian % 20Nerve', '202017.pdf', ':', 'Sie']

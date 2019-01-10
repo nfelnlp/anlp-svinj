@@ -1,1 +1,0 @@
-['Safran', 'steckt', 'backe', 'Kinderlied', 'wir', 'sonst', 'Stammsitz', ', um']

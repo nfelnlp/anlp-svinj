@@ -1,1 +1,0 @@
-['Friedrichstadt-Palast', 'und', '.', 'Tschechien', 'berichtet', 'katholischen Kirche sie', ': Das', 'sich in', 'seine', 'bisher', 'oder', 'nicht', 'Osten', 'und', 'er', 'Nazis in', 'deutsch', 'Mitarbeiter', 'die immer', 'bekommen', ',', 'Geschichte', 'des Kanzler-Intendanten', 'diktatorisch', 'den', 'aufgefordert', 'offen', 'AfD', 'Telefon']

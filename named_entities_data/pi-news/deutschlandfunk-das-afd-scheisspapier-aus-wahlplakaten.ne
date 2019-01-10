@@ -1,1 +1,0 @@
-['SPENCER', 'GEZ-Medien', 'zumindest', ',', 'einem', 'von', 'der mit', 'und Broschüren', '.', 'schließt sich', 'schließt sich dann auch', 'Argumentationskreis', 'der', 'beigebracht', 'Da', 'von', 'und', 'Kultur', 'von', 'und', 'aus dem', 'AfD-Anhänger gemeint', 'Kontroversen']

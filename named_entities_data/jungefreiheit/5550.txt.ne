@@ -1,1 +1,0 @@
-['Karrierefamilien', 'beifällig', 'Neu', 'von der', 'eben', 'den', 'bestreiten', ', wenn', 'gehört mir', 'insofern als', 'Kriterien', 'sich', 'Kind', 'Kind der Frauenbewegung', 'mit Erwachsenenleben', 'dies', 'durch', '``', "''", 'Kopfschütteln']

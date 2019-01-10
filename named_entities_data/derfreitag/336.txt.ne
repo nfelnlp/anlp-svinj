@@ -1,1 +1,0 @@
-['Christophe Simon', 'AFP', 'Getty', 'Paragraf', 'UN-Generalsekretär', 'Janeiro stattfindende Treffen', '20', 'auf', 'Bankett', 'von', 'Treffens', 'aber', 'Erinnerung', ', kleinkarierte Sabotage internationaler', 'sich ohne', 'machte', 'wie', 'dies', 'nicht', '. Beim', 'G20-Treffen', 'sie', 'alle :', 'Rio', 'Krise']

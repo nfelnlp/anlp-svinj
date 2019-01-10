@@ -1,1 +1,0 @@
-['Washington', 'USA', 'Rußland', 'und', 'Trump ins', 'und', 'legt', 'die Wahl', 'im', 'Amerikas ”', 'fiel sein', 'knapp', '.', 'Muster', ',', 'zum', 'mit', 'Irak (', 'scharf', 'den', 'war', 'Mit', 'Trump gerade', 'so', 'den', 'Empfehlung', 'gewinnen', ',']

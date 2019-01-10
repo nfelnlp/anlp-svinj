@@ -1,1 +1,0 @@
-['Washington', 'Bannon', 'sinkt weiter', 'im', 'and', ', wurde', 'und', 'gelungen', 'Bannon in', 'Larry', 'für das', 'erreicht habe', 'Unternehmerin', 'des', 'und ihre']

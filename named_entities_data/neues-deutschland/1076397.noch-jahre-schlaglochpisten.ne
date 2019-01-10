@@ -1,1 +1,0 @@
-['es exakt 4251,3', 'die Regierung', 'zum', 'vergangenen Jahr immerhin', 'Magdeburg und', 'Städte-', 'Land', 'die', 'Millionen', 'die', 'zusätzlich', 'ihren', 'an', 'deshalb', 'Es', 'werden', ',', 'auf', ',']

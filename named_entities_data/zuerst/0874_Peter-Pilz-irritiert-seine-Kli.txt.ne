@@ -1,1 +1,0 @@
-['Gesellschaft', 'Pilz', 'Grünen', 'ab', 'Kapitelüberschriften', 'etwa', 'den', 'ehedem', 'Grünen-Fraktionschef', 'der österreichischen', 'ihnen', 'Menschen', 'denken', 'bisherigen', 'mit', '„Die', ': Macht']

@@ -1,1 +1,0 @@
-['Paris', 'französischen Front National', 'Marine', 'Pen', 'EU-Kritik', 'Landes', 'EU', 'aussteigen', 'sie', 'EU', 'würde', 'Portugal', 'Griechenland', 'Zypern', '“', 'wäre', ',', 'all', ',', 'zu', 'NATO', 'austreten ,', 'nicht', 'zeitgemäß', 'Warschauer', 'noch', 'noch den', 'für', 'in', ',', 'französischen', '2017']

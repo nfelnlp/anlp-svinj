@@ -1,1 +1,0 @@
-['Luca/', 'und', 'Welt', 'Laufe', 'die', 'Geschlecht', 'hin zur', 'sie']

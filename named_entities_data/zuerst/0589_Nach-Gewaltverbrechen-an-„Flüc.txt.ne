@@ -1,1 +1,0 @@
-['Gesellschaft', 'Münster', 'Münsterland', 'Ahaus', ',', 'den', 'spätere', '„Er', 'trotz dieses']

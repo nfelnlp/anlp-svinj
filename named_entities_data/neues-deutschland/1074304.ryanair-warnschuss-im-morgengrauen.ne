@@ -1,1 +1,0 @@
-['am', 'eine', 'ab . In', 'startete', 'Richtung', '.', 'wurde', 'dem', 'Ryanair-Management die planmäßigen Abflüge', 'auf', 'nach', '.', 'etwas in', 'leitenden Angestellten', 'Pilotenschein', 'in', 'erzeugen', 'habe sich', 'Cockpit', 'wurde', ', als', 'zwei', 'Unternehmen', 'die Weihnachtstage', 'zeigte', 'von', 'sich', 'einer']

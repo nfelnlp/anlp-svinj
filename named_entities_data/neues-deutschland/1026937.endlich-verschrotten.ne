@@ -1,1 +1,0 @@
-['Syrien', 'Anfangs', 'und in', 'internationalen', 'später', 'spielt die', 'spielt', 'von ver.di und', '(', 'denke ,', 'der', 'sind', 'die zivile Konfliktbearbeitung', 'und', 'im', 'ist']

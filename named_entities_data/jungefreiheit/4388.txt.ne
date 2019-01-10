@@ -1,1 +1,0 @@
-['abgeben', 'der Kaufpreis betrug', 'mit', 'Studie', 'Deutschlandablegers', 'sie mit Online-Anbietern', 'mehr', 'der', 'Insbesondere', 'immer', 'von Stellenanzeigen außerhalb', 'dieser', 'EU-Richtlinien', 'Richtlinie 2003/58/EG', 'Sie', 'dies', 'Handelsblatt', 'die', 'Werbesprüche', 'macht', 'Bull', 'herkömmliche `` Senken']

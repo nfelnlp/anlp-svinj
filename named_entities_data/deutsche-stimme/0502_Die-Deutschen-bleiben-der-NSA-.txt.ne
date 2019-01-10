@@ -1,1 +1,0 @@
-['NSA', 'Ronny Zasowk', 'NSA-Affäre', 'der NSA-Affäre', 'unternahm', 'US-Geheimdienst', 'in', 'zu', 'geändert', 'in welchem', 'in', 'BND', 'allem', 'die', 'war', 'Der', 'Bundesaußenminister', ',', 'die intensivierte', 'leisten', 'neue', 'vorgelegt', 'Überwachungsmöglichkeiten', 'und', 'ist', 'seit vielen', 'trat', 'Truppenvertrag', 'Türe', 'geheime', 'So', 'unsere']

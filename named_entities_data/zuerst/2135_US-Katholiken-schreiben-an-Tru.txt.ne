@@ -1,1 +1,0 @@
-['Washington', 'USA', 'Gesprächsstoff', 'im', 'den überraschenden', 'verwickelt war .', 'ihre', 'Kirche diskutierten', 'Konkret', 'sich', 'Zweck', 'Biden', '2011 herum', '; welche Rolle', 'Großspekulant', '„Internationale Finanztransaktionen', 'daran', 'frühere Vatikansprecher', 'wie kurz', 'der italienische', 'mitgeteilt hatte .']

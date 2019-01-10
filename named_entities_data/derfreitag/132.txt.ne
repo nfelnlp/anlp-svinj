@@ -1,1 +1,0 @@
-['dreiste', 'Vergangene Woche', 'die', 'Koalition', 'beschlossen zwei', 'Merkel', 'massenweise Spähaktivitäten', 'den', 'vor', 'den', '.', 'war nie', 'an', 'Leine zu', ':', 'legalisiert', 'das', 'bereits', 'der Bundesrepublik', 'zu', '“', '. Eine', 'bestimmte', 'Regierung', 'zu', '.', 'sie', 'bis']

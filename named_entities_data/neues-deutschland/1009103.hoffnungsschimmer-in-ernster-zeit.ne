@@ -1,1 +1,0 @@
-['Arps . Er', 'herausgegeben ,', 'und Ingo', 'verließen das', 'nach', ': »', 'besteht die Redaktion', 'Dienstag', 'anderen', '«', '«', 'Bernau', ', sie kämpfe', 'Linke']

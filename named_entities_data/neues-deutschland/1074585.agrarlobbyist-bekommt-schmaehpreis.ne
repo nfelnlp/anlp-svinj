@@ -1,1 +1,0 @@
-['. Deutschlands', 'peinlichster', '. Er', '( NABU', 'am', '.', 'sich aber nicht an', 'umstrittene', ') zu einer', 'Zulassung', 'das', 'und', 'einen', 'aus', 'den', '«']

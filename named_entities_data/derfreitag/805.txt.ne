@@ -1,1 +1,0 @@
-['„Nichts', 'acht', 'ARD )', 'bis', '.', 'in', 'Fernseh\xadzuschauer konnte', 'den', ',', 'des', 'Rundfunks', 'von', '.', 'hätte', 'Fernsehstudio', 'die', 'wünschenswert herausstellen', 'Richtig so', 'Kolumne']

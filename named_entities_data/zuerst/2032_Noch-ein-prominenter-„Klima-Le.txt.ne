@@ -1,1 +1,0 @@
-['Archangelsk', 'russische', 'Putin', ',', 'am', 'mit einem Beispiel', '“', 'Gelegenheiten', 'Besuch', 'Archangelsk viel', 'Pruitt', 'Donald', 'Industrie', 'für die']

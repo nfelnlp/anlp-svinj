@@ -1,1 +1,0 @@
-['Sajjad Hussain/AFP/Getty', 'Man', 'keine', 'coole', 'mit', 'unheimlich', '–', 'Werbung Geld', 'welches', 'Unternehmen als', 'Internet', 'Geschäftsmodelle', ',', 'zu', '.', 'was', 'Dollar', 'dass', 'modernen', 'oder', 'soll', 'die', 'sind ,', '–', '.', 'Räume', 'dem', 'Dauerfeuer', 'lohnt']

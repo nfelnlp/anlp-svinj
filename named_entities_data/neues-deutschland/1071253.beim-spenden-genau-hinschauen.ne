@@ -1,1 +1,0 @@
-['. In', 'von der', 'dann', '.', 'beigelegte', 'kosteten', 'Organisationen', ',', 'Kinder-', 'nach einer', 'und in Thüringen', 'Frage', 'Sammlungen']

@@ -1,1 +1,0 @@
-['.', '. Der', 'nach', 'Tata', 'Nach', 'weitreichende', '.', 'hatte den', 'hält', 'nach', 'durch', 'Zusammenlegung', 'wurde', 'Angaben', 'aufgenommen', 'die', 'derzeitige', '?']

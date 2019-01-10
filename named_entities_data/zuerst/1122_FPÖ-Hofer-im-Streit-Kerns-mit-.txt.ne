@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'Ungarn', 'FPÖ-Bundespräsidentenkandidat', 'eingeschaltet .', 'die', 'in', 'Ungarn', 'gegen', 'kürzen .', 'Nationalratspräsident', ',', 'Hofer', 'FPÖ-Chef', ',', 'in', 'eine', 'Änderung', '„verstärkte', 'und', 'Rolle', 'Benelux-Staaten', 'Kooperation', 'Gewicht', 'sich', ',', 'zu', '(']

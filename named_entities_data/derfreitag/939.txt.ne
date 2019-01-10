@@ -1,1 +1,0 @@
-['?', 'im Juni', 'Gemach', 'wurde', 'erdacht', 'Dort', 'Verlag', 'China “', 'lassen', 'werden nur', 'Chinesisch', 'während', 'hat', 'Trainings', 'ersten', 'Juli 2014', 'Jahren', 'ein', 'Zumindest', '“', 'Wirklichkeit', 'Wert', ',', 'auf', 'ist']

@@ -1,1 +1,0 @@
-['Auschwitz/Warschau', 'Die', 'hat sich', 'korrekte', 'Lehre', 'mit', 'und', 'Tschechische', 'ihrer', 'wiederholt', 'begründet', 'begründet ,', 'Rafal', '” für', 'nun', 'zu', ', um', 'Angst', 'machen', 'Familien', 'einen', 'Fauxpas ”', 'ausgesprochen', ', kommentierte', 'frühere', 'zurück', 'der', 'dem', 'reißen']

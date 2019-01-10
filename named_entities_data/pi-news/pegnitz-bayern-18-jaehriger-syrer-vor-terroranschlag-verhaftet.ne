@@ -1,1 +1,0 @@
-['“', '.', '„seiner', 'Wohnung', 'der', 'geplanten', 'kamen dem', 'München bestätigte jetzt', 'der', 'Der', 'ihn', 'nun', '?', 'floh', 'Polizei', 'sie', 'den', '.', 'es', ',', 'auf', 'sie', 'sich', '„jugendliche', 'betreut', 'zweimal', 'von', 'der', 'dabei', 'Höchststrafe', '18-Jährigen', 'Prozess', 'der', 'laut dem']

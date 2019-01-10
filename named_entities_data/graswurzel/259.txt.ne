@@ -1,1 +1,0 @@
-['Griechenland', 'Deutschland', 'Griechenland', 'Zográfou']

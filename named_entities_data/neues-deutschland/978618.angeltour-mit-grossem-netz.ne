@@ -1,1 +1,0 @@
-['tschechische Polizei', 'Linke', 'Michael Hartmann', 'Polizei', 'Linke', 'Polizei', 'Tschechien', 'Linke', 'intervenierten', 'Arbeitskämpfe', 'Prag', 'Prag', 'Polizei']

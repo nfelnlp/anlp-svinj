@@ -1,1 +1,0 @@
-['( 1949-1963', '1959-1969 ) unterzeichneten', 'Estain (', 'Europäischen Rates', 'des', 'Mitterrand', 'ergänzten', 'um einen', 'Verteidigungs- und', '40-jährige', 'gemeinsamen Sitzung', 'Bundeskanzler auch', '2007-2012', '.', 'Nachfolger François', 'eng mit']

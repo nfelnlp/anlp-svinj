@@ -1,1 +1,0 @@
-['nehmen', 'Zuge', 'der', '[', '[ ...', '. Nichts', 'konservative Positionen', 'Abbas sei', 'fortgesetzt auf die', 'sei', 'Opferrolle', 'Angriffen', ':', 'den', 'Gesellschaftsstruktur', 'die', ')', 'jemand', 'Ausnahme']

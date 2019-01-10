@@ -1,1 +1,0 @@
-['Emmanuel', 'die Weltgemeinschaft', 'Gewissen', 'die', 'der', 'einleiten', 'ein', 'Klima-Denkfabrik E3G', 'Prozent', ',', 'hin , dass', 'Eine Studie', 'Energieberatungsunternehmens', 'der Erneuerbaren', ',', 'Kohleverstromung', 'sollten', 'CO2', 'überhaupt noch', 'gefördert', 'Abfällen', 'eingesetzt ,', 'dann teils', 'müssen ,', 'womöglich', 'gerodet', 'als', 'ein']

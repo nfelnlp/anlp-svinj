@@ -1,1 +1,0 @@
-['“', '“', '–', 'Ahnung', 'ginge', '.', 'und', 'Macht', 'darum', '.', 'bestätigt', 'Ahmed', 'Familien', 'Ahmed', 'Knochen', 'Mord gesprochen.', 'Gericht', 'das', 'Benecken', 'Der', '“', 'sogar', 'gerät', 'gleich', 'es', 'wirklich', ',', ', keiner', '„Es', ', offenen ,', 'funktionierenden Kulturkreis', '„Und', 'geben', '‘', 'Anspruch', 'als']

@@ -1,1 +1,0 @@
-['Duisburg', ') Dabei', '.', 'mir', '.', 'feindselige', 'mir', 'ein', 'dass', 'berichtete', 'nach', ', dass', 'worden', 'die', '.', ', unter den', 'zu', ',', 'ist durch', 'sie', 'werden', '“ Ein', ',', ',', '„Der', 'U-Haft', 'worden', '. Den Vorfall', 'die', '. Juli', 'jetzigen Termin', 'Auto']

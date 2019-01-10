@@ -1,1 +1,0 @@
-['Suez/Catania', 'Die', 'nordafrikanischen', ': „Es', 'Tracking-Websites', 'befindet', 'gegen', 'Identitären', 'Meter lange']

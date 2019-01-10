@@ -1,1 +1,0 @@
-['Canberra', 'Zuwanderungsstopp', 'Wurzeln', 'alle Kriterien', 'geborener und', 'lebender', 'Gastkommentar', 'aber', 'muslimischer', 'ihren', 'von']

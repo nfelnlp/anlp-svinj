@@ -1,1 +1,0 @@
-['Deutschen', 'Linke', ')', 'ist unmissverständlich', 'Ist', 'Stubenhocker', 'als', '–', 'auch', 'unserer', ',', 'der', 'eigenes']

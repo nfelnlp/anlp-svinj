@@ -1,1 +1,0 @@
-['„Twenty-Eight', 'Medien', ',', 'Saida', 'entstand', 'Altertümliche', 'an Händler Der', 'bezeichnet eine ehemalige', 'in', 'Ruinen', '.', 'Bild', 'der einer', 'hinzufügt', 'Sortimente', 'porträtierten', 'Saida . Aber', ',']

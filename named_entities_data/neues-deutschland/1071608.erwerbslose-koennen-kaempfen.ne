@@ -1,1 +1,0 @@
-['seinem neuesten', 'Dorf', 'dem', 'Jobverlust', ',', 'von', 'Distanz', 'Organisationen', 'Er lehnt', 'für', 'rund']

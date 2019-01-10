@@ -1,1 +1,0 @@
-['Warschau', 'Stadtpläne', 'kommunistischen', 'zu', '(', '“', '“ )', 'Auch', 'Name', 'des', 'Ghettos wurde', 'kommunistisch belasteter', 'Hauptstadt', 'hat', 'vor', ',']

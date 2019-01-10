@@ -1,1 +1,0 @@
-['Bildungstrдger', 'Syrien', 'Irak', 'Iran', 'Eritrea', 'werden', 'lдяt', 'ausgestellt', 'die', 'die Anbieter', '. ДEs', ',', 'stattlichen', 'der JUNGEN', 'lakonisch', 'jeweiligen KursbeginnУ', 'unterbreitete', 'groяe', 'jetzt', ':', 'zustдndige', 'und', 'aus', 'dieses', 'war', 'in', 'Teilnehmerlisten']

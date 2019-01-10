@@ -1,1 +1,0 @@
-['Lange', 'Berliner', 'Charité', 'Brinkmann', 'Dieter', 'Anzeige', 'nach', ',', 'sondern', 'an', 'eine', 'in', 'seien', ',', 'durchführbar', 'Krankenhäusern', '\xadEntlastungskampagne', 'Kundgebungen', 'Tarif\xadvertrag', '«', 'mehr', 'um', 'in', '.', 'Unternehmerische Freiheit', 'Tarifvertrag', 'wurde', 'Bei', 'bundesweiten', 'Ziel ist', 'Außerdem', 'die', 'über', 'Protestzug']

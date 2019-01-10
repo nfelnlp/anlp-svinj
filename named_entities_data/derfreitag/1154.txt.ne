@@ -1,1 +1,0 @@
-['Aris Messinis/AFP/Getty', 'Vordergründig', 'es', 'muss', 'muss .', 'deutschen Steuerzahlern', 'heute', 'IWF', 'die Gesamtverschuldung', 'bis', 'Merkel', 'solchen Schuldenerlass', 'vor', ',', 'zwei Möglichkeiten :', 'Das', 'noch ein', 'Nur', 'unterwegs', 'für', '1.000', 'Euro', 'das']

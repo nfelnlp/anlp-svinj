@@ -1,1 +1,0 @@
-['NGG', 'Hans-Gerd Öfinger Köche und', 'Zu', 'aus', 'Main lockte und', 'Sechs', '.', 'Gastgewerbe in Hessen', '.']

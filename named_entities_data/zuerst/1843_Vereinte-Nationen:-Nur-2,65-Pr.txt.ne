@@ -1,1 +1,0 @@
-['Rom', 'erhielten', '.', '181.436', 'Italien', 'aller', 'jene Migranten', 'ist', '.', 'Lega Nord', 'italienische', 'nun', 'daß', 'illegale', ',', '.']

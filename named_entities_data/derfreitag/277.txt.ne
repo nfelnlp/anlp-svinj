@@ -1,1 +1,0 @@
-['CDU-Dilemma', 'im', 'Konservativen', 'der', ',', 'ist', 'l. )', 'Berliner', 'fordern eine', 'heißt', 'plus', '“', 'Wie', 'als', 'für', 'die 2009 genau', 'der achtziger', 'mittige', 'Josef', 'Felde zieht', 'Landtags-Fraktionschef Christean', 'selbst', 'unter konservativ', ',', 'schwieriger', 'Energiewende', 'der', 'Union']

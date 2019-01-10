@@ -1,1 +1,0 @@
-['München', 'München', 'und kommen', 'oder']

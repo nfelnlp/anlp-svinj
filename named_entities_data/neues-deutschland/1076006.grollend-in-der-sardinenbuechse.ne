@@ -1,1 +1,0 @@
-['Da', 'Jahresbeginn', 'wieder in', 'fährt man lieber', 'dauert', 'im Regionalexpress der', 'Busse und Bahnen im südlichen', 'gehenden', 'Wartungsarbeitern', 'eine', 'permanent', 'Sie sank von', 'im', 'einen', 'solcher', 'seien', '.', 'und', 'Report', '« fordern', 'Angebote']

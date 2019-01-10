@@ -1,1 +1,0 @@
-['hafte', 'Lutz', 'Luis de Guindos', 'Mario', 'einem Treffen', 'Geldhäuser mögen', 'und', 'handeln', 'Treuhänder', 'die', 'Beschlüsse', ',', 'Interventionen', 'nicht einmal ein', 'bevor Hilfsgelder', 'Bankbilanzen', 'Managergehälter', 'denn']

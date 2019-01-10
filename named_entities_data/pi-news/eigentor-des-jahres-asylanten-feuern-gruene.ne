@@ -1,1 +1,0 @@
-['bono', 'SPD', 'Grüne', 'LINKE', ',', '51,9', 'Wahlrecht', '65,3', '.', 'auf', 'Parteitag', 'der', ',', '. Wie', 'passieren', 'schreibt über', 'Asylwerber ,', 'Deutsch verstehen', 'Asylbewerber', 'zu', 'und', 'Margit', 'zwei gewählt', 'Augenzeugen soll', '. Wie', 'nicht Zuwanderung', 'Zumindest', 'von', 'unter Deutschen mit']

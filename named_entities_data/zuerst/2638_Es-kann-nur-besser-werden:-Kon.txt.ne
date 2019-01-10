@@ -1,1 +1,0 @@
-['Antonio Tajani', 'Tajani', 'er', 'Klimaschutz', 'Tajani', 'Kandidat', 'früher EU-Industriekommissar .', 'und', 'und', 'Szene', 'Spektrum', 'erwartet', 'eine Amtsführung', 'Gutsherrenart', 'Tag', 'wieder', 'des']

@@ -1,1 +1,0 @@
-['Features/Getty Images', 'Buchverlage', 'Europa', 'papiernen', ',', 'Vielleicht', 'dem']

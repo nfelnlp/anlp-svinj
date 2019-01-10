@@ -1,1 +1,0 @@
-['Robert Walsers', 'Walser', 'zeigt', 'ins', 'Vergeblichkeitsformel', 'zeigt', 'der Meere bezeichnet', 'excellence ,', 'selbst die', 'aus . Es', 'von', '.', 'nicht einmal für', 'mehr über Nachdrucker', 'über', 'Goulson in', 'Hummelforscher vor', 'gleichzeitig', '€ Heringe', '€ Heringe Holger', 'Leben', '€ Und sie', '. Eine kurze Geschichte']

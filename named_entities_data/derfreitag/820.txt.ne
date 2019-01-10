@@ -1,1 +1,0 @@
-['Gesicht formulieren', 'Die', 'drückt', 'ein', 'offiziell begründet', 'sich', 'die', 'Beachtung', 'finden', 'aufmerksam gemacht', 'Zeit keine Mehrheiten', 'Auslandseinsätze', 'in', ', daran', 'erinnern', 'zum Ausdruck bringen', 'sogenannter failed', '.', 'Republik', 'Folge', 'die', 'der', 'MS']

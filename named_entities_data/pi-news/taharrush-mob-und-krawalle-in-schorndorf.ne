@@ -1,1 +1,0 @@
-['Köln', ',', '“', 'wurde', 'junge', ',', 'in', 'Vergangenheit', '„Goldstücke', 'Lokalblatt', 'Einsatzbericht der', ',', 'die', 'kein', 'Einsatzfahrzeug', 'abmontiert', '„Uns', '“', 'vor', '.', 'Polizei', 'auf']

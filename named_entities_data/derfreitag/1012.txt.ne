@@ -1,1 +1,0 @@
-['Giovanni Isolino/AFP/Getty', 'Vor', 'hat', 'Keine', 'eine', 'die', 'der', 'wir', 'Endlich', 'anerkannt', 'ersten', ',', 'leiden vor allem', 'Wiederherstellung', 'zumindest', ',', 'neue', 'Lösung zu', ', das', 'daher', 'britischen']

@@ -1,1 +1,0 @@
-['Foto', 'geschafft', 'Auch „übermäßig', 'dem', 'Schreiben', 'weist', 'die', 'verbietet']

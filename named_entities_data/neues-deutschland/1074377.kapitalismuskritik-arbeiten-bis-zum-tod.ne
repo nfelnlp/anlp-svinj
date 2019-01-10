@@ -1,1 +1,0 @@
-['Finn Mayer-Kuckuk', 'Tokio', 'Lebwohl', 'dann stürzt', 'bis', 'galt', 'für', 'die', 'einem']

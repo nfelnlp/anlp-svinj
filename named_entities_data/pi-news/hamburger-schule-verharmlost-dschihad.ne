@@ -1,1 +1,0 @@
-['Hamburg', '„Heiliger Krieg', 'schönsten', 'das', 'Draufklicken', 'Hamburger', 'erinnern', 'oder', 'damals', 'gar', ':', 'Religionsunterricht', 'sich einfach', 'Druck']

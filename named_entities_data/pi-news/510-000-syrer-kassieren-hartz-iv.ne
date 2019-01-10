@@ -1,1 +1,0 @@
-['Hans S. Mundi', 'malochten', 'hieß', 'Springers', 'Volkszeitung war', 'immer', 'zog', '.', 'Medien', 'zeigt', 'hier', '.', 'die', 'allein', 'auf', '2015 und', 'ist', 'ist es', 'in', 'Hülle', 'Fülle', 'Großfamilien', 'den', 'Wirtschaft', 'Mond in', ', BILD']

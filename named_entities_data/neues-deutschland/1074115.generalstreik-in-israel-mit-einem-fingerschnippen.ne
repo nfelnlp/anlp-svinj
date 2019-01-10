@@ -1,1 +1,0 @@
-['Jerusalem', 'Oliver Eberhardt', 'Misrachi', 'Nissenkorn', 'Teva']

@@ -1,1 +1,0 @@
-['Harald Harzheim', 'Gott', 'baldige Ende', 'heute', 'sich', 'Protagonisten mit', 'junge', 'einmal', '«', 'Bedauern :', '2003 und', 'sich', 'dem', 'bis', 'purer', 'So', 'Teil']

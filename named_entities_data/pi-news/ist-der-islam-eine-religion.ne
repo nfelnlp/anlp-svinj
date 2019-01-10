@@ -1,1 +1,0 @@
-['und andere Handlungen', 'einem', 'seit', 'seit einigen', 'Ausruf ebenso', 'Religionsausübung', ',', 'die rein', 'eines', 'in', 'Islam', 'sogar von', 'jenen', 'ausgedehnte', 'feststellen', 'Organisationen', 'von', 'völlig unfassbar', ',', 'Begriffs']

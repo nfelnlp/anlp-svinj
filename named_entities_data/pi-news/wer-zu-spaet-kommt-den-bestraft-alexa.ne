@@ -1,1 +1,0 @@
-['Audi-Zentrum', 'ist', 'Wochenblatt', 'beschwert sich das', 'PI-NEWS-Autor', ',', 'eilig gehabt', '„wichtige Fragen', 'ist', 'eine', 'Auch', '–', 'nicht', 'Hetzblatt', 'erwähnt', 'der', 'Mittwoch']

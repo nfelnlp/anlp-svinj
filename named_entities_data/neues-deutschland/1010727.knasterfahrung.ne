@@ -1,1 +1,0 @@
-['Belarus', '.', 'Darunter', ', der', '.', 'hatte', 'Die', 'sehr', 'Rolle', 'der', '.', 'Rolle', 'Dabei', '.', 'So wurde', 'Tausender', '.', 'des', 'des Hochhausturms »', 'Johannes Spohr', 'Valerie Waldow', 'seit Jahren', 'die', 'hält die', 'hält die AGRu', 'zu', '.', 'Waldow .', '128 Seiten', 'Broschur ,', 'Euro .']

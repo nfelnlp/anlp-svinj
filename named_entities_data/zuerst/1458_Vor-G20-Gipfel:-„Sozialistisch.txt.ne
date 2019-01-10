@@ -1,1 +1,0 @@
-['Gesellschaft 1 Berlin', 'auch', 'Deutschlands –', 'Euro', ':', 'Demonstranten ,', 'passiert', 'Aufnahmen', 'Geschult', 'Polizeigewerkschaft', ', mit', 'polizeiliche Maßnahmen', 'Achim', '“ .']

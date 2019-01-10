@@ -1,1 +1,0 @@
-['Gesellschaft 6 Kiel', 'Kiel-Kronshagen', 'die', 'Feuerwehrmann', 'und', 'einen', 'Lebtag', '.', 'eingeliefert']

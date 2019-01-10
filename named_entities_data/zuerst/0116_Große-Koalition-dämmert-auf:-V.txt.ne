@@ -1,1 +1,0 @@
-['Berlin', 'Union', 'SPD', 'Angela Merkel', 'CDU', 'Horst Seehofer', 'CSU', 'Martin Schulz', 'SPD', 'bei', 'einreisen', 'von', 'einer', 'erreichen', 'Außerdem', 'zusätzlich']

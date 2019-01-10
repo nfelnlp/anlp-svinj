@@ -1,1 +1,0 @@
-['uneinheitlich', 'EU-DSGVO', 'Die', 'des', 'Verbraucherzentrale Bundesverband', '»', '« bestätigte', ',', 'das', 'besonders', 'vier', 'Ahnung von den', 'erhebliche Änderungen', 'gilt', 'denn besonders große internationale', 'Ebay', 'und wollten', 'der Verordnung', 'der Verordnung streichen', 'das', 'auf', '.', 'Einverständnis', 'und', '.']

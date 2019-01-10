@@ -1,1 +1,0 @@
-['Gesellschaft 2 Friedrichshafen', 'Friedrichshafen', 'Polizei', '„Was', 'Fritz Bezikofer auf', 'unter', 'unter Vollnarkose']

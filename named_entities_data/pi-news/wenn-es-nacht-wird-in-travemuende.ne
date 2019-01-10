@@ -1,1 +1,0 @@
-['CHEVROLET', 'Travemünde', 'Feriengästen', 'Tagesbesuchern', 'größtem', 'dafür', 'errichteten', 'weitem', '“ .', 'gibt es im', ',', ',', 'dort', 'gegen', 'Uhr', 'Anwohner', 'durch', 'sondern', ',', 'alte', 'dass', 'Polizei', 'sich', 'Freunde', 'ein', 'ein', '.', 'Anmarsch…']

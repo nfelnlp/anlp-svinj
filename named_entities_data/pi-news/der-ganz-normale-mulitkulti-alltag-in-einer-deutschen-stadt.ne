@@ -1,1 +1,0 @@
-['Freunde', 'an', 'Rotwein', 'untersten', 'alltägliche', 'im', 'afrikanischen „Neubürger “', 'Fast', 'über', 'dass', 'durchgeknallte Merkel', 'sondern', 'verzichtet', 'islamischen', 'der']

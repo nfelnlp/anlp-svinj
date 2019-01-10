@@ -1,1 +1,0 @@
-['Die', 'der', 'Messinger/', 'der organisierenden', '.', 'Beendigen Sie', 'lassen', 'der', 'linke Bündnisse', '? Für die ,', 'vereint', 'einen', 'die Macht über', 'vergangenen', ',', 'Weile', 'beide', 'und', 'ignorieren', 'des', 'mit dem', '.', '«', 'Gruppen', 'im', 'eine Binsenweisheit ,', 'längst']

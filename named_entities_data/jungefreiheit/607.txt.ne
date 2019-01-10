@@ -1,1 +1,0 @@
-['es im', 'schon', 'und', 'Unterschied', 'der', '.', 'der', 'Völkern', 'Vorstandsetagen', '? Dabei', '.', 'zu', 'Tage', 'zum']

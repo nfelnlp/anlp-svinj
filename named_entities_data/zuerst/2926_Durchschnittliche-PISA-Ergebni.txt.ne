@@ -1,1 +1,0 @@
-['Gesellschaft', 'Wien', 'Österreich', 'an', 'der', 'Ten', 'OECD-Staaten', 'aus']

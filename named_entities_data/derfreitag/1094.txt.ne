@@ -1,1 +1,0 @@
-['Images Was', 'er', 'das', 'nach', 'ähnlich', 'was', 'einem', 'Aromen', '.', ',', '.', 'seinem', 'Mindestens', 'ich viel', ', niemand', 'die chinesische', 'Und selbstverständlich', ':']

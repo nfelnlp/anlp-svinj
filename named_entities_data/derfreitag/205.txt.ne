@@ -1,1 +1,0 @@
-['SPD )', 'dem', 'Ralph Schwingel', 'abschließend', 'Leiter der', ',', 'auch', '( LFS )', 'die Produzentin', 'die Filmemacher', 'Romuald Karmakar', '. Dieser', 'Gibson', 'Jochen Brunow', 'der', 'den', 'seine', 'wollte', 'innerhalb', '.', 'Béla Tarr', 'der Findungskommission', 'scheiterte ,', 'am', 'dass Böhning', 'Kuratoriumssitzung', 'nicht', 'der', 'dass', 'Aktiv']

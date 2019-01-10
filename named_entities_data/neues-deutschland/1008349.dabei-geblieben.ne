@@ -1,1 +1,0 @@
-['hinterlassen', 'ihre', 'AktivistInnen', 'Hut', 'Jahre', 'ihrer', 'politischen', 'ihr', 'Die', 'die', 'die', 'aber', ',', 'hat', 'vom Älterwerden', '16']

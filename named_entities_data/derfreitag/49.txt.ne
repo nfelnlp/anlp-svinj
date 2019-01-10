@@ -1,1 +1,0 @@
-['Emmanuel Macron', 'Jacques Demarthon/AFP/Getty', 'Der', 'war', 'das', 'Bundesbank', '.', 'es', 'laut in', ', entweder', 'Dauer', 'die', 'Schon', 'Hitze der', 'alle', 'Krisenmanagement', 'endlich', 'richtigen', 'das', 'der', 'eine', 'logisch', 'hat', 'Fehlentscheidungen zu', 'sie im Vertrag', 'Ausgleich', 'Tabus']

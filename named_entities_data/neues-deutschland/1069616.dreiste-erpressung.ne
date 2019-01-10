@@ -1,1 +1,0 @@
-['Berlin ist allmählich', 'übernommen hat', 'versucht', 'vergessen werden ,', 'über den 1,8', 'unter Anrechnung', 'Vereinbarungen', 'Konzerns', 'der Politik', 'haben ,', 'offeriert .']

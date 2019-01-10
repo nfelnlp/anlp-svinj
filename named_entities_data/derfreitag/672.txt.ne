@@ -1,1 +1,0 @@
-['Schaar', '–', 'damalige', 'Der Entwurf war', ', dass', 'die', 'setzen , und der', 'Kunden', 'die', 'kein', 'des', 'manipulieren', 'Sinn', 'die', 'dass', 'und', 'Teilen']

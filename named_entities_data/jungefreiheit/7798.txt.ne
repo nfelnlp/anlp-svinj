@@ -1,1 +1,0 @@
-['Stephen William Hawking', 'Oxford', 'Cambridge', 'Hawking', 'Wagner', 'Jane', 'ДIch', 'Ц', 'Robert', 'Lucy', 'Timothy', 'Hawking', 'Cambridge', 'Isaac Newton', 'Paul Dirac', 'Hawkings', 'ДEine', 'ьbersetzt', 'ДIch', 'Hawking', 'Hawking', 'ДEs', '?', 'Erstaunliche', 'Der', 'hat die', 'dem', 'dieses', 'der', '1967 . Foto', 'Anfang und', 'Ende']

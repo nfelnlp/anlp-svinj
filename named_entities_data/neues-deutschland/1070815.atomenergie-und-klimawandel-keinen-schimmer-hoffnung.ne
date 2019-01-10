@@ -1,1 +1,0 @@
-['sicher .', 'der', '(', ')', 'liefern', ',', 'Atomkraftwerk', 'Russland', 'Südkorea', 'den', 'Staaten', 'genommen .', 'ein', 'AKW', 'Netz', '.', 'etwa', 'hatte', 'bisher', 'Auch', 'vom Deutschen', 'Wirtschaftsforschung (', ') in Berlin sieht', 'der', 'Alternative', 'die', 'Grad', 'die', 'erklärte', '.', 'inzwischen', 'Gigawatt', 'genommenen']

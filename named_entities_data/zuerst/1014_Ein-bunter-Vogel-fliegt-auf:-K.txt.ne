@@ -1,1 +1,0 @@
-['Wien/Tel', '. Ein', '.', 'festgenommen', 'Guinea', 'erhalten', 'haben', 'der', 'in', 'Ausland', 'für', 'war ,', 'und', 'In', 'schillernde Berater', 'Jahren', 'er', 'bei der', 'Silberstein']

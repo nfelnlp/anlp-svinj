@@ -1,1 +1,0 @@
-['Wegwerfgesellschaft', ':', 'Woche']

@@ -1,1 +1,0 @@
-['aufmerksam', '.', 'Verstoß', 'nicht', 'die', 'Punkt', 'Dialog', 'der', 'Staat', 'schönt', 'des', 'Sie', '.', ',', 'deswegen', 'Begründung', 'zahlen', '14', 'kann']

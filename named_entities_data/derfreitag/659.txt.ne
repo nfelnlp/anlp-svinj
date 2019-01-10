@@ -1,1 +1,0 @@
-['Bei', 'historische Ereignisse', 'Hauptstadt', 'Algorithmus programmiert', 'der die', 'der Ämter', 'Kolonisierung öffentlicher', ',']

@@ -1,1 +1,0 @@
-['Lena', 'Frederick M. Brown /', 'Images', 'Dunhams neuem', 'Dunham galt', 'Dunham stammt', 'York ,', '–', 'Artikel', 'Spiegel', 'und ,', 'ja auch', 'Twitter', 'mich darauf', 'Sie', 'nun', 'demonstriert', 'Entschlossenheit', 'ist', 'da', 'sehen', 'hernach', 'da nicht', 'Denen Merkels', ',']

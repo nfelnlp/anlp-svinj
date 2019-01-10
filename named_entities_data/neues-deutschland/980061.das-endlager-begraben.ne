@@ -1,1 +1,0 @@
-['will seinen', 'Atomkraftgegner', 'fahren', 'baut', '.', 'Genehmigung', 'Endlagers ohne', 'Frankreich', 'unter', 'gegen', 'deutschen', 'von', 'Selbst die', 'Ségolène', 'zweifeln', 'Endlagers', 'die', 'sind', 'Lösung ,', 'leben', 'und', 'Schritt', 'Atomenergie', 'Stromversorgung zu', '75', 'Regierung', '.']

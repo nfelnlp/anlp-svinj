@@ -1,1 +1,0 @@
-['Budapest', 'Ungarn', '-Krise', 'Jetzt', 'die', 'erweiterte Transitzone', 'Platz', 'aktuelle', ',', ':', 'Migrationswelle', 'aber', 'Disziplin', 'die illegal', 'Ziel', 'in', 'werde', 'auch', 'Ort']

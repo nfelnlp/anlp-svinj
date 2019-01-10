@@ -1,1 +1,0 @@
-['FOCUS', 'Markwort stand', '.', ':', 'letzten', 'zu Markwort', 'Der', 'Zu', 'Berichterstattung', 'R.', 'als Mario Rönsch', 'der Facebookseite', 'vorgeführt', 'Titel', 'wie', 'in', 'rechte', 'gerückt', 'links ?', 'Journalisten gerne', '.', 'zunehmende', 'Dass', ',', 'sich', 'erweist', 'dieses', 'als', 'Exzesse', 'Licht', 'uns', 'journalistische']

@@ -1,1 +1,0 @@
-['London', 'Londoner', 'Internationalen Instituts', 'Bereich', 'diesem', 'anderem', 'den', 'Alles', 'Rußland', 'bleibt', 'aktuellen', 'folgen']

@@ -1,1 +1,0 @@
-['Echo-Verleihung', 'selbstverständlich', 'Pop', '[', "''", 'auch ein Auftritt der', 'eine', 'werden', 'noch', 'wie', 'Udo', 'nur wieder', 'alte deutsche', 'Würdigung', 'Hören', 'in Woodstock', 'zur außenpolitischen', 'bei der', "ein ''", '-', '.', 'Arbeit', '- ein', 'aufmerksam', 'Integration', 'selbst in', 'und', 'die', 'dem']

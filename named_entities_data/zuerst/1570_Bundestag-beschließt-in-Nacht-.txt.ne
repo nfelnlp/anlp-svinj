@@ -1,1 +1,0 @@
-['Gesellschaft 4 Berlin', 'nicht', 'Etwa', '.', 'findet', 'erst', 'etwa', 'dies']

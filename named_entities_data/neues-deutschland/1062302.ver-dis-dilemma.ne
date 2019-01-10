@@ -1,1 +1,0 @@
-['die', 'kritisierte Tarifeinigung für', 'Damit', 'Bundesland , hatte', 'Juli einen Abschluss', '-', 'der', 'extremen', 'mobilisieren', 'als 3000 Streikende zur', '.', 'im', 'Folge', '? Eine bessere', ')', 'anderen']

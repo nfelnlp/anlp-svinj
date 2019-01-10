@@ -1,1 +1,0 @@
-['Manila', 'Rodrigo Duterte', 'Manila', 'Davao', 'habe', 'zu', 'habe', '.', 'Menschenrechtsorganisationen', 'Verbrecher und', '.', 'leid', 'als', '“']

@@ -1,1 +1,0 @@
-['Niedermueller/', 'Getty', 'Wie', 'selbst .', 'Heidelberg .', 'er', 'Von', 'Sparkasse', 'Universität Bielefeld', 'in der', 'Management', 'Versicherer', 'Mit', 'Schülerinnen', 'Vorteile', '. Die', 'sich', 'im Unterrichtsplan', '87', 'diesem', 'Schule', '.', 'auf den ersten', 'Beeinflussung statt', 'Darin', 'behandelt ,']

@@ -1,1 +1,0 @@
-[', Chefredakteur', 'kritisch betrachtenden', 'sich mit', 'nun voll\xadends', 'dreifach', 'ziehen', 'für', 'geschwächt', 'zeigt', '„Die Botschaft']

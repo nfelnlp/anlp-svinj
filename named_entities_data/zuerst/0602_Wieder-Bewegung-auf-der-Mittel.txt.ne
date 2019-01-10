@@ -1,1 +1,0 @@
-['Tunis/Rom', 'Nach', 'Der', 'mit ,', 'verdreifacht', 'verdoppelt', 'sogar', 'berichteten', 'Italien', 'auf', 'die', 'hat', 'mit', 'abgeschlossen', 'mehr', 'hatte', 'drei Wochen', ',', 'seien']

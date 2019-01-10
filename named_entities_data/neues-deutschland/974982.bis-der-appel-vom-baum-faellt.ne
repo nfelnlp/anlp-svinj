@@ -1,1 +1,0 @@
-['Appel', 'Post', 'Bonn', 'Hans-Gerd Öfinger , Bonn', 'elf', '.', 'die', 'der', '.', 'stürmischen', 'gut 5000', '. Seit Anfang', 'Beschäftigen auf', 'nicht gut']

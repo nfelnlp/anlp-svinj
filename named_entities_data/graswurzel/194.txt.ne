@@ -1,1 +1,0 @@
-['aller', 'dem', 'mit', 'anzugreifen', 'zerstören', 'den', 'Medien', '.', 'eingegangen', 'einzige', 'eigentlichen', 'seinerseits', 'Gesellschaft']

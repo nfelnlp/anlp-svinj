@@ -1,1 +1,0 @@
-['laut »', '« und', 'Times « am', 'El', 'und afrikanischen', '.', 'den', 'doch', 'Erfahrungen', 'südafrikanischen Kollegen von der', 'Verweis', '» alarmiert', 'und', 'Richard', ', nannte', 'vom Präsidenten', 'musste', 'die', 'die Demokraten aber', 'für', 'Debatte', 'eine', 'vergiftet', 'die Bemühungen', 'einen', 'Ende 2018', 'zu', 'Die USA']

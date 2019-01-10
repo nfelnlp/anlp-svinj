@@ -1,1 +1,0 @@
-['Schwerin', 'weiter', '.', 'Sky', 'arbeiten', 'gegen', 'protestierten', 'Dienstag', 'Gespräch mit', 'nd', 'der', 'für', 'Weihnachtsgeld', '.', 'dem', 'gefragt', 'und die', 'und', 'nicht', 'Weder', 'festbeißen ,', 'aufeinander', '.', 'Helmut', 'Ihnen', 'Blockadehaltung der', 'wie den', '. Ver.di', 'Firma', 'die', 'bedauert']

@@ -1,1 +1,0 @@
-['Homer', 'Pindar', 'Hamann ,', 'und auch', '.', 'Studienorte', 'Freiburg', ',', 'er', 'Husserl', 'Heidegger ,', 'Nicolai', ',', 'Nebel dem', 'als', 'und ideologischen', 'die', 'kamen .', 'für', 'seines', 'Einsamkeit', 'Lektüre Ernst', 'als', 'des', 'in', ',', 'von', 'zum', 'Einbruch', 'ganz', ',', 'Einheit und', 'Überlieferung zu sein', 'Überlieferung zu sein ,', 'daß']

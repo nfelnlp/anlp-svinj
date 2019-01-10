@@ -1,1 +1,0 @@
-['Gesellschaft', 'Deutschland', 'von', 'drei', 'eine', '21jährigen', 'einem', 'Ein', 'sein', 'die']

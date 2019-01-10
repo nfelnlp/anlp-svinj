@@ -1,1 +1,0 @@
-['61', '( DGB', 'stand', '2007', 'Hoffmann', 'den Report', 'Donnerstag', 'präsentierte .', ',', '«', 'Bereich Information', 'das', '100']

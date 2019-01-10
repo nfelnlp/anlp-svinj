@@ -1,1 +1,0 @@
-['Frauke Petry', 'Bernd Lucke', 'Volker Hartmann/Getty', 'Nun', 'warnen wollte', 'das', 'auf dem', 'Weckruf-Mitglieder', 'dessen', 'sich die AfD zur', 'Umfrage', 'offenbar', 'habe sich', 'ins Bett', 'er könne', ',', 'könnten', 'vor der', 'zu warnen', 'wohl', 'nicht', 'nicht ein', 'nicht ein aktuelles', 'Kinder']

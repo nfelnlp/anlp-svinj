@@ -1,1 +1,0 @@
-['und', 'der UN-Klimakonferenz', 'US-Ziel', 'Emissionen', 'Yorks', 'erreichen ,', 'Versprechens', 'Versprechen «', '(', '455', 'Wenn', 'Land wäre', 'so', 'sein', 'Zusammenschluss', 'verträten die', '. Sie fordern', 'und', 'US-Positionen haben', 'Klimakonferenz', 'Handeln vor 2020', 'bekommt', 'klare', '» Rufen', '›Steigen', 'andauern', 'bereit ,', 'vernünftiger', '«', 'einen']

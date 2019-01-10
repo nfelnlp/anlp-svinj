@@ -1,1 +1,0 @@
-['die jeweilige Wählerschaft', 'schickt', 'März', 'Aktivisten', 'der schwierigen Aufgabe', 'der drohenden Fortsetzung', 'rechten Siegesgefühls etwas', 'man sich auch', 'Koordinierungskreises in Hannover', 'ein', 'Train-the-trainer', 'werden', 'die', 'legen', 'doch', 'anderen']

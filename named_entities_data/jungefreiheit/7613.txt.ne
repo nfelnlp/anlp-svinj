@@ -1,1 +1,0 @@
-['bei', 'für', ',', 'Menschen', 'nur', 'subsumieren', 'Die', '? Kleine-Hartlage', 'historische', 'ließ', 'Und', 'der', 'Islam', ',', 'auf', 'klare', ',', 'im Christentum', 'Zurück', 'das', 'Modells der', 'der', 'einmal sinngemäß', 'ans']

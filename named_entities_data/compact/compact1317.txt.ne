@@ -1,1 +1,0 @@
-['Höcke', 'Björn Höcke', 'letzte', 'aber', ',', '!', 'darin', ',', ')', 'wie', 'unter', 'oppositioneller', 'zur', 'der', 'wird', 'das', 'außerparlamentarischer Opposition', 'Amerikaner', ',', 'anschieben', 'liegen', 'habe ja', 'versucht', 'der', '.']

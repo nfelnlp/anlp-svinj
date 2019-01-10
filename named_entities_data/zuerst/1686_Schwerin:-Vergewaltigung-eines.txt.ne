@@ -1,1 +1,0 @@
-['Gesellschaft', 'Schwerin', 'Haftbefehl', 'Mädchen', 'Kurze Zeit', 'festnehmen', 'ist', 'Besuch', '.', 'zeige dieser Fall', 'daß', 'in seinem', 'über']

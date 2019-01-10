@@ -1,1 +1,0 @@
-['Deutschland', 'Ergebnisse', 'hat', '.', 'wäre die AfD-Frau Dr.', 'Zweifel ,', 'Glaubensangehörige', 'mit', 'einiges', 'der']

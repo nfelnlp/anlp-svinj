@@ -1,1 +1,0 @@
-['große', 'mehreren', 'die 1400 Beschäftigten', 'Winterdienst', 'In', 'wurden', 'einer', ')', 'Die', '(', 'Bund', 'geraumer', 'sich', 'deutlichen', 'im Öffentlichen', 'Die', '1949 gegründet', 'CDU-Alleinregierung', 'für', 'Erst', 'zentraler', '«', 'einem', 'des', 'Hochschulen', 'Forderung', 'CDU', 'Schuldienst zurückzukehren', 'so']

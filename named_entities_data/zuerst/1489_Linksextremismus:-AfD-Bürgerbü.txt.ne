@@ -1,1 +1,0 @@
-['Gesellschaft', 'in', 'Holm', 'Pressemeldung : „Farbanschläge ,', 'Alltag', 'allerdings', 'immer', 'Aufstieg', 'immer']

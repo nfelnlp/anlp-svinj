@@ -1,1 +1,0 @@
-['Wien/Rom', 'Der', ', hat', 'die', 'förmlich', '„Wir', 'erreicht', 'will', 'auch', 'Spannungen', 'Äußerungen', 'Bundesheer', '2017', ',', ',', 'Hunderte', 'leer', '”', 'Grenzsicherung', 'scharf', 'aus', 'auf', '.', 'fallen', 'nicht', 'Der', 'mit', 'auch', 'Forderung']

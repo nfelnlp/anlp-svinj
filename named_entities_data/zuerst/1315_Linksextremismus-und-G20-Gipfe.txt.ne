@@ -1,1 +1,0 @@
-['Gesellschaft', 'Hamburg', '„Welcome-to-hell', 'die', 'ca .', 'Personen', '.', 'der Versammlung', 'Flaschen', 'Der Polizeisprecher', 'auf', 'mit', 'das gesamte']

@@ -1,1 +1,0 @@
-['Gesellschaft', 'Wien', 'Uni Wien', 'Aslan', 'Wiener Islam-Kindergärten', 'der', 'Studie', 'der islamischen', 'Wort –', 'setzt', 'hinnehmen', 'Kurz']

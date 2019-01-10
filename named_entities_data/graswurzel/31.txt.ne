@@ -1,1 +1,0 @@
-['an', 'darüber', 'die', 'manche', 'Genehmigungserfordernis', 'vor Gericht']

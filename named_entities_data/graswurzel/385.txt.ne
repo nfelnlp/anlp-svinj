@@ -1,1 +1,0 @@
-['folglich', 'gewaltfreie', 'weil', 'Der falsche', ',', 'Praxis']

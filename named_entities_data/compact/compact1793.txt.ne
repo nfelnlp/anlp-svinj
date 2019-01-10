@@ -1,1 +1,0 @@
-['München-Massaker', 'der psychiatrischen Behandlung', 'Die', 'neue', 'mit', '.', 'bestens Bescheid', 'Pistole neun Menschen', 'geklärt wie', 'dass', 'aus', 'Menschen ermordet', 'Widersprüche', 'des Tathergangs', 'gehört', 'aufzusetzen', 'Münchner', 'dem', 'Regisseurin Yael', 'Fragen über']

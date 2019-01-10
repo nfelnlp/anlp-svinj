@@ -1,1 +1,0 @@
-['in einem', 'Zeitung/Straubinger Tagblatt (', ') heftige', 'die', 'Und', 'geräumten Asylbewerberunterkunft', '„überzogen', 'Gesicht', 'und Hartmut', 'vor ,', 'Offen', 'dankbar', 'die', 'die', ',', 'beachtet', 'kann', 'vorhanden', 'Kulturkreis', 'für', 'nach', 'des', 'Deppen', 'Zustände', '?', 'erleichtern . Aha', 'erleichtern . Aha .']

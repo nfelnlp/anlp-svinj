@@ -1,1 +1,0 @@
-['Brüssel', 'EU', 'EU-Haushaltskommissar', '( CDU', 'aufmerksam', 'als', 'andere', 'Union', 'Er', 'anstehenden Wahlen', 'werden', 'in', 'gegen eine', 'der', '–', 'nächste Bundeskanzlerin', 'Bundesregierung .']

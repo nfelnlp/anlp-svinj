@@ -1,1 +1,0 @@
-['.', '. Deutschland', 'Österreich', 'die', 'und', 'stärken .', 'einig ,', '( CDU', 'am', 'Aus', 'Bei', 'Parlamentswahl', 'und', 'Regierungskoalition', 'Kickl', 'Äußerung Empörung', 'Kommentar']

@@ -1,1 +1,0 @@
-['Deutschen', 'Rainer Wendt', 'sich', '77.721,13', ')', 'gemessen', 'für Zentrale Polizeiliche', 'tatsächlich', 'arbeiten', ',', 'dem Bundesvorstand', 'Orscheschek', 'neuerliche Enthüllungen', '–', 'AXA seit']

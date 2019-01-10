@@ -1,1 +1,0 @@
-['jetzt', 'richtig', 'und', 'die', ',', 'einem', 'erhalten', '.', 'den 8', 'Siebenbürgen', ',', 'Deutschstämmige', 'wiedergesehen', 'wiedergesehen .', 'sind', ',', 'aber', 'Leuten', 'eine', 'Sklaventreiberei', 'ich', 'unseres', 'Doch', 'gehandelt', 'bis', 'Muß man', 'bei', 'Zahlmeister']

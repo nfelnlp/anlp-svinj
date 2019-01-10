@@ -1,1 +1,0 @@
-['zu', '.', 'nach', 'Das', 'der', 'Zigeuner', 'oder', 'können', 'Alles', ',', ':', 'und', 'Linken', 'der taz', 'Menschen', 'stellt', 'schlüpfen', 'Bekämpfung', 'können', '.', '»']

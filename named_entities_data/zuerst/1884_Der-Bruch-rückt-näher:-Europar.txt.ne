@@ -1,1 +1,0 @@
-['Straßburg', 'EU', 'Türkei', 'Europarats', 'Straßburg', 'Beobachter', 'der', 'Der', '133', 'AKP und aus', 'dem', 'Eine', 'den', 'die', 'der', 'ziehen', 'Konsequenzen', 'des', 'letzten', 'in', 'der', ',', 'Europarats in', 'überwacht', ',', 'den', '.', 'Türkei', 'am', 'den', 'Form', 'facto', 'Ankara', 'von', 'möglicherweise', 'Türkei', ')']

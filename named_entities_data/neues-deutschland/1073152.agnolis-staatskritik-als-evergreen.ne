@@ -1,1 +1,0 @@
-['» Die', 'zusammen', 'geschrieben hat', ',', 'Buches', 'Ebermann', 'Buch zunächst zeithistorisch', 'der', 'Herrschens', 'westlichen', 'Wahlrechts .', 'Jan', 'B3rlin ein', 'würde', 'Die', 'hat', 'Mitwirken', 'und', 'er', 'Seite', 'auch']

@@ -1,1 +1,0 @@
-['Abschussbericht', 'gemacht', 'Dassen Die Rakete', '. Das', 'Zweifel', ',', 'und', 'Ukraine', 'Sache', 'nach', '.', ',', 'und', 'für das', 'FAZ )', 'ein', 'gekommen', 'die', 'nicht', 'noch', 'noch „daran zweifeln', 'sei', 'doch', '.', 'sich', '.', 'es', 'hat', 'Ermittlungsbericht', '“', '“', 'von den internationalen', 'kaum', ',', 'MH17']

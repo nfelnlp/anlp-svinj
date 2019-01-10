@@ -1,1 +1,0 @@
-['Chervel hat', 'die Literaturkritik', 'und', '. Hier', 'Gespräch', 'die', 'hat']

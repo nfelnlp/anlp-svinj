@@ -1,1 +1,0 @@
-['Ausgerechnet', 'Sprung', 'große', ',', 'die', 'um', 'die', ':', 'macht', 'Amerikas', 'an', 'das', 'entwicklungspolitisches', 'wird', '.']

@@ -1,1 +1,0 @@
-['Länder', 'Soi lebt', 'Jahren', 'in', 'jeden', 'völlig sinnfrei ,', '600', 'Dollar', 'existenziell', 'des', 'aus', 'for Development', ', sagt , dass', ',', 'einzig die Monopolstellung', 'funktionierenden lokalen', ',', 'Association', 'aus', 'aus dem', 'Methode', '.', 'seinem', 'Mobilfunk-Konto', 'Schwester', '26 Kronen']

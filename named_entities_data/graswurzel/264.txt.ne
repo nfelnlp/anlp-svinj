@@ -1,1 +1,0 @@
-['Butlers', 'sich', 'nach', 'um', '.', ',', 'Diese', ', wenn', '. Am', ', in', 'diskutiert (', 'die', 'die']

@@ -1,1 +1,0 @@
-['zuletzt', 'mildes Urteil', ') in', 'Staaten', 'zu sieben', 'Niedersachse', 'seitdem', 'VW', '.', 'August 2015', 'er mit', ',', 'dann um', ',', 'der', 'David', 'dass', 'aus fehlgeleiteter', 'Informationen', ',', 'zu', 'mit', 'seine harte', '40', 'verurteilt', 'derzeit um', 'aber', 'dort', ',', 'der', 'Derzeit', 'noch Verfahren', 'in', 'US-Dollar']

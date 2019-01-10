@@ -1,1 +1,0 @@
-['mittlerweile', 'Mehrwegbecher', 'so', 'unter rheinland-pfälzischen Universitäten ergab', 'Ansätze ,', 'Ende der Vorlesungszeit im vergangenen', 'Hunderte', 'Büschen', 'dem', 'die Studenten', 'ökologischen', 'teilt', 'halb', 'Jahrhundert', '» Schenk', 'ginge', 'Mehrwegbecher', 'die', '.', 'ein', ',']

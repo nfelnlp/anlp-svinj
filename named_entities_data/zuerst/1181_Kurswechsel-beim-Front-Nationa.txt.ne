@@ -1,1 +1,0 @@
-['Paris', 'französischen Front National', '.', 'Le', 'Le Pen', 'raschen', 'der', 'aus', 'aber auch ihren', 'einen', 'zurückgewinnen', 'wird', 'Le', 'kämpft weiter', 'bürgerlich-konservative', 'bürgerlich-konservative Parteikreise', 'bürgerlich-konservative Parteikreise werfen', 'zu']

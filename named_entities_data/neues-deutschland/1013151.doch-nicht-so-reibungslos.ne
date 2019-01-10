@@ -1,1 +1,0 @@
-['oder', 'sich', 'den', '. Ihre', 'aktive', 'Trotz haben Beschäftigte', 'gezeigt', 'Oft', '«', 'Springer-Verlag', 'vergangenen', 'den', 'in']

@@ -1,1 +1,0 @@
-['Wien', 'SPÖ-Bundeskanzler', 'gegen', 'EU-Länder mobil', 'Jetzt', 'und', 'EU-Budget', 'kürzen', 'weigerten', 'die', 'Beim', 'beide', 'völlig', 'es', 'polnische', 'Warschau', 'Unterschrift verweigert', '„sehr', 'die', '.', 'den', 'oder', 'Angesichts', ',', 'da', 'Schritte', 'Brandstifter', '.', 'hier', '”']

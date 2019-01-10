@@ -1,1 +1,0 @@
-['Sven Simon', 'Sprachforscherin promoviert', 'Technology in Trondheim . Es', 'vor', 'zur', 'geben', 'was', 'Deutsche Sprache', 'im Forschungsprojekt', 'und hat', 'gebe', 'im', '29jährigen', 'Prozent', '–', 'im', '.', 'sich', 'Blick', 'das', 'Durchsetzung', 'etwa', 'durchsetzen', 'werde']

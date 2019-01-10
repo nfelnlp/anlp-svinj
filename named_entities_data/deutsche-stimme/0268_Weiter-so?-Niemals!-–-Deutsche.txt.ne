@@ -1,1 +1,0 @@
-['Lennart Aae', ')', 'zu was ?', 'bekannten', 'Plan', 'zwar', 'im', 'zu', 'Kapital', 'Nationalstaates', 'grundsätzlichen', 'grundsätzlichen politischen', 'grundsätzlichen politischen Auseinandersetzung', 'Deutschen', 'Bahnsteigkarte', 'genannten Grundgesetzartikel definierte']

@@ -1,1 +1,0 @@
-['Foto :', 'Images Konnte', 'das', 'vorhersehen', 'Fehler wie', 'geglaubten Erfolg', 'kennt', 'Das', '.', 'aufgesetzt ,', 'Nacht', 'werden', 'zum Trotz']

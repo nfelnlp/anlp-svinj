@@ -1,1 +1,0 @@
-['seit 1999 zusammen', 'und traten', 'singe .', 'und', 'Dankesrede', 'alles :', 'dem', 'Album', 'anfänglichen', 'einem', 'sich auf', ', in der', 'der feministischen', 'musikalischen', 'der']

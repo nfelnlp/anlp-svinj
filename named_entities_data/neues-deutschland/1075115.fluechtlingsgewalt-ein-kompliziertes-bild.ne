@@ -1,1 +1,0 @@
-['. Mangelnde', 'hervor .', 'Zuzug', 'Sören', 'vom Kriminologischen', 'sowie', 'sowie Dirk', 'von der', 'für Angewandte Wissenschaften wurde', 'zehn', 'seine', 'Kollegen', 'SPD )', ',']

@@ -1,1 +1,0 @@
-['der Nation…', '“', 'obliegt', 'jetzt', 'gibt', 'deutschen', ')', 'verstörende', 'habhaft', 'Ausländerkriminalität', 'Personifizierte', 'es', 'offen', 'Mehrheit', 'unterbezahlter', '. Die', 'erhöhen', '“', 'das', 'Treter', '„Polizei', 'einem Tipp', 'a', 'im', 'kommt', 'unterrichtete', 'in der', 'Es gibt', 'das', 'Gegenteil', 'selbst zu sabotieren .', 'viele']

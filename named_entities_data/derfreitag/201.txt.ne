@@ -1,1 +1,0 @@
-['Tobias Schwarz/AFP/Getty', 'Ist', 'bisherige', 'ausgelöst', 'Armee', 'nun über', 'Artikel', '.', 'schon', ',', 'Deutschland', 'Debatte', 'seinem', 'für EU-Ausländer', '„Ich', ',', ',', 'dem', 'zu', '.', 'wiederum', 'es', 'beschaffen', 'der', 'auch', 'Die', 'Teilen']

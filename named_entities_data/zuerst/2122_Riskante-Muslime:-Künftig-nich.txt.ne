@@ -1,1 +1,0 @@
-['Washington', 'nicht', 'bei', 'und', 'vor', 'vor Medienvertretern', 'vor Medienvertretern in', 'hin', 'versuchen', ',', 'Emiraten', 'Ägypten', 'Marokko', 'Neun Fluggesellschaften sei', 'Dienstagmorgen', 'Stunden Zeit gegeben', ',', 'Verbot', 'Doha', 'Golf ,', 'V-Flughafen', 'Flughafen', 'Kairo .', 'Donald', 'aus', 'Einreiseverbote', ',', 'Gerichten', '( mü']

@@ -1,1 +1,0 @@
-['Netflix', 'Segretain/Getty', 'Vor', 'kam es', 'zeigt', 'bemühten', 'den', 'überraschende Erscheinung', 'seit', 'hier', 'oft', 'Jahren', '( ähnlich', 'der', 'schreibt']

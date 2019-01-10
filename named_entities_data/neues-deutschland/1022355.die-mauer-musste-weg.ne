@@ -1,1 +1,0 @@
-['am', 'mobilen', '(', 'des déchets radioactifs', 'wurden', 'Andra die Rodungen für den', 'Agentur ,', 'veröffentlicht', 'Wasser gehalten', 'eine', 'Standorte']

@@ -1,1 +1,0 @@
-['Brüssel', 'EU-Kommissionspräsident', 'hat US-Vizepräsident Mike Pence', 'gewarnt ,', 'mit', 'Gespräch wieder , das', 'Pences', 'gesagt', 'andere', 'Krieg auf dem', 'aus', 'gelobt und', 'Vereinigten', 'Im', 'ohne die', '„wunderbare', '„überraschend ” .', 'zeige', ',', ',', 'all', '”', 'sei', 'den Staaten', 'der', 'die', 'der', 'Deutschland vorangetrieben']

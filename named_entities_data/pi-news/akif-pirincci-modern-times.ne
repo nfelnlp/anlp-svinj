@@ -1,1 +1,0 @@
-['ist', 'eine außergewöhnliche', 'er', 'ein', 'eine', 'Ja ,', 'du', 'mit', 'liegen', '“', 'Man', 'mich', 'für', 'vor', 'Es', 'erlebten', 'Gesellschaft', 'solches', 'umsetzte', 'und', 'Alan', ',', ', aber', 'von', 'weg', 'Spanier', 'sehe', 'ihre', 'und', 'nicht', 'mich', '.', 'Arbeitswillen', 'der', 'bequemen', 'von', '„modern']

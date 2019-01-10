@@ -1,1 +1,0 @@
-['und', 'das 1979', 'war', 'Höhepunkt', 'bedeutet', 'sie', '] .', 'bekennender', 'und', 'Jugendplattform „Bento', 'in ihrer', 'Ich', 'hatten', 'um', 'über', ', bebt', 'irgend', 'hip', 'überwältigt', '? Und', 'für', '!', 'wie', 'Einklang mit', 'zu bringen', 'bzw', ',', 'auf-die-Knie-und-geradewegs-ins-Gesicht-verständigen', 'in']

@@ -1,1 +1,0 @@
-['Hamburg', 'Dafür', 'auf', 'zum', '–', 'auf', 'kam']

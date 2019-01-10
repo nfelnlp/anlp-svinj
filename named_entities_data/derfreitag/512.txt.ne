@@ -1,1 +1,0 @@
-['Images Bei', 'Abschlusskundgebung', 'Ende', ', dass', 'Jemen', 'und', 'Tötungen', 'übersehen wird', 'Hayden', 'bestätigte', 'im vergangenen', 'nur', "'' deshalb", 'und', 'rein', 'einen nachrichtendienstlich-industriellen', ', der', 'vor', 'offizielle', 'ist', 'die es', 'uns', 'der', 'Aber', 'Das', 'vorgebracht', 'erschienen von', 'dieser']

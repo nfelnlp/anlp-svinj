@@ -1,1 +1,0 @@
-['in', 'Kreditkartenkonto', '.', 'Service', ')', 'würden', 'erkannt', 'Wenn', 'Service', '.', '» nd', 'aber', 'aber , dass der', 'schuldhaftem', 'schaffen', 'Umstieg', 'in', 'Demnach']

@@ -1,1 +1,0 @@
-['Gesellschaft 0', 'Gesellschaft 0 Frankfurt', 'Main', 'A. Ein Kneipenwirt', 'etwa', 'Polizei', 'einen „silvestertypischen', '“', 'keine', 'erst jetzt', ')', ') hatten', 'Die', '„Frankfurter', 'solche', '„herbeifantasiert']

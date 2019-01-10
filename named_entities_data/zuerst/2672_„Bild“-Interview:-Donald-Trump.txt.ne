@@ -1,1 +1,0 @@
-['Trump über', 'deutschen Wurzeln', 'scharf', 'den', 'in', ':', 'Ich bin', 'schöne', 'einen', 'all diese', 'die', 'je', 'sei', 'diese', 'das', 'Auch', '„Flüchtlings', 'Mitarbeiter', 'immer', 'und', 'die', 'kundzutun']

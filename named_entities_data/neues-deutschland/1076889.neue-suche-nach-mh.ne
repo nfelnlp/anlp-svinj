@@ -1,1 +1,0 @@
-['Rätsel der', '239', 'Bord auf', ',', 'Meer', 'Trümmerteile', 'jüngste', 'Aktion', 'niederländischen', 'Ozeans', 'Gruppe von Ingenieuren', 'mehr Meeresboden', 'äußerte', ', die']

@@ -1,1 +1,0 @@
-['CANTALOOP', 'und', 'in', 'das', 'seit Anbeginn', 'regiert', '“', '“ gebracht', 'Methoden', 'Bildungssektor', 'Dieses', 'eine', 'so', 'unsere', 'dennoch', 'vor', 'progressiver', ';', 'ohne']

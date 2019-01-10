@@ -1,1 +1,0 @@
-['SPD', 'Martin Schulz', 'CDU-Arbeitnehmerflügel', 'und SPD', 'die', 'eingeschränktem', 'rütteln', 'lange', 'sich', ',', 'richtige']

@@ -1,1 +1,0 @@
-['Washington', ': jetzt', 'eine', 'künftig', 'begründet', 'Trump bis', ', zu', ',']

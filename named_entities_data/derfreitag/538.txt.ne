@@ -1,1 +1,0 @@
-['AFP/ Getty', 'Die', 'hat', 'und', 'Politik ungefähr', 'Verbürgerlichung', ',', 'die für', 'die', 'der', 'im', 'Gemeinsamkeit', 'Zwar', 'grundlegende', 'allen']

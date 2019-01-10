@@ -1,1 +1,0 @@
-['ihrem', 'mit', '1997', '(', 'Die', 'Anfang der', '000', 'noch', 'den', '.', 'eine lange Tradition', 'auch', 'und', 'von', 'und', 'zu', 'die Leute', 'Rolle', 'IGBE-Führung auch', '.', 'halbes', 'Vorgängerorganisation', 'statt', 'Sozialpartnerschaft und', 'vor', 'drängten', 'dieser', ', heißt', '«', ', der', 'Abstimmung']

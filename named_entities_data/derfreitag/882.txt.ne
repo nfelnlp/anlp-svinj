@@ -1,1 +1,0 @@
-['und mit', 'der', 'immer', 'mir', 'Aber', 'US-Dollar', 'Geld', 'das', 'Hab', ',', 'um', ',']

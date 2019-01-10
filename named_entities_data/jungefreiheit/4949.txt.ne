@@ -1,1 +1,0 @@
-['französischen', 'eingeschleust', 'seine', 'Problemen', 'sollte', ',', 'solche', 'Der', 'von', ', in dem', 'in', 'bereits', 'usw', 'Von', 'verbundenen', 'ein', 'einheimischen', 'angeworben', ',', 'in dem', 'Selbstverstümmelung - Probleme der', 'als', 'ein', 'den', 'wurden', 'untersucht hat', 'ähnlicher Qualität']

@@ -1,1 +1,0 @@
-['Reflektierens', 'verankertes', 'sie', 'die', ',', 'aufgeklärt', 'ein ruhiges Leben', 'reichlich', 'und', 'und', '–', 'sie', 'eigenen', 'viel', 'mündigen', ',', ',']

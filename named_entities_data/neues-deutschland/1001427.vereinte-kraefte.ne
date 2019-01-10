@@ -1,1 +1,0 @@
-['Hoffmann', 'gewisser Stolz', 'hat', 'Berlin', 'der', '.', 'der', ') ,', 'beiden', 'die Bundesarbeitsgemeinschaft der', 'Statements', 'Schutz und', ',', ', die', 'in', 'werde', 'alles tun', '»', 'dass Rassismus und', 'christlichen', 'in']

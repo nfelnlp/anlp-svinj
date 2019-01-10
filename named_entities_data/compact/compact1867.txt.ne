@@ -1,1 +1,0 @@
-['Esmiralda Sturm', 'III', 'Ab 2017', 'Bundestages findet', 'mit', 'Mitglieder der', 'Mehrausgaben', 'Bereiche', 'Qualitätsstandards']

@@ -1,1 +1,0 @@
-['Gesellschaft', 'Mainz', 'ZDF-Talkshow', 'über das', 'den öffentlich-rechtlichen', 'Dabei', 'werde aber', 'es', 'Profiteurin der', 'Psychiater']

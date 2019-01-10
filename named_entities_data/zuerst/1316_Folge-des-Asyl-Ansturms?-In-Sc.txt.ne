@@ -1,1 +1,0 @@
-['Gesellschaft', 'Plön', 'schleswig-holsteinischen Landkreis Plön', 'die', 'gleich mehrere', 'für Gesundheit', 'Oftmals', 'in', 'Ende', 'Schüler', 'auch', 'Kind', 'auch', 'verpflichtet']

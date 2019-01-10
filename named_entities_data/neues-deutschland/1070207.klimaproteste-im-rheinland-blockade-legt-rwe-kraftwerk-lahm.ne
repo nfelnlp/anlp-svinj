@@ -1,1 +1,0 @@
-['Rheinischen', 'einzudringen .', 'die', 'UN-Klimakonferenz', 'Zucker', 'anderes', 'Aktion .', '»', 'COP23', 'Aktivisten', 'Kraftwerk', 'Millionen', 'alle', 'Aktivisten', '.', 'Beamten nicht', '.', 'Anweisung', 'Anweisung von', 'Anweisung von Polizisten']

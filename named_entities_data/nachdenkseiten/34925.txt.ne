@@ -1,1 +1,0 @@
-['gebiert Ungeheuer', 'Arbeitswut', 'entfesselten Kapitalismus', 'Von', '. Die', '‚Weiter-so', '. Die', ',', 'ihre', 'der', 'der', 'ein', 'AfD', 'in', 'wird', 'Menschen', ',', 'ihren', 'f. )', 'Terroristen', 'der', 'es', 'richtet', 'gut', 'gebunden', 'Geräte', 'ist', 'ihren', 'innere', 'Menschen', 'zu', '.']

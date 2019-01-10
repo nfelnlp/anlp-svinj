@@ -1,1 +1,0 @@
-['EZB-Präsident', 'gibt das', 'Erichsen', 'AFP', 'Getty', 'Die', '( EZB', 'verschießt', 'zeugt', '489', '800', 'hinnehmen', 'erhobenen', 'aus', ',', 'her', 'Staatsanleihen', 'Staatsanleihen als', 'sechs', 'und', ',', 'kommt']

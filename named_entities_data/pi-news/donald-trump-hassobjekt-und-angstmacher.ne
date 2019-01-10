@@ -1,1 +1,0 @@
-['Medien', 'Deutschland', 'BILD-Zeitung', '. Vieles', 'und', '17 .', 'empfohlen', 'konkurrenzlos er-', 'verbittertste', 'über', 'Co.', '“', 'hat keinen blassen', 'oft interpretierbar', '.', 'Gauckeleien', 'Kampf', 'das', '.', 'deutschen', 'heißt', 'in', 'halb', 'in', 'seinen', 'in einem', 'nachgeholfen', 'sich', 'scheren', '.', 'immer', 'Wer']

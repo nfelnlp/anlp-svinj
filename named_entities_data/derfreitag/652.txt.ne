@@ -1,1 +1,0 @@
-['Theresa May', 'Daniel Sorabji/AFP/Getty', 'Seit', 'Mays Antritt', 'Regierungschefin vergangenen', '.', 'also', 'überwältigenden', 'Platz', 'in', 'überaus', 'May', 'das', 'haben', 'gar', 'sie', 'die letzten Tory-', 'auf', 'Wahlsieg', 'Umfragen', 'in dieser', 'Premierministerin', 'gern', 'hat', 'einem überwältigenden', 'könnte', 'dass die', 'eine', 'Jüngeren', 'zu']

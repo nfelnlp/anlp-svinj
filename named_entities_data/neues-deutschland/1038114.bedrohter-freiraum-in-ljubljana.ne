@@ -1,1 +1,0 @@
-['slowenische', 'Peter Nowak', 'ROG', 'slowenischen', 'Ljubljana', 'geräumig', 'Hauptabnehmer', 'Marine']

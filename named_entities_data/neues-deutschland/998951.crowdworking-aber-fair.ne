@@ -1,1 +1,0 @@
-['den', '»', 'nichts unternehmen', 'zunehmend nicht nur klassische Soloselbstständige', 'gehe', 'ein', 'IG', 'im', 'Weg', 'uns schon', 'in der', 'Strukturen', 'im', 'Crowdworking', 'hier', 'und Soloselbstständige', 'und Soloselbstständige einschließe']

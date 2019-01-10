@@ -1,1 +1,0 @@
-['Noam Chomsky', 'Chomsky', 'Wörtlich', 'Ideologie', 'angeblich', 'fragwürdigen', 'von']

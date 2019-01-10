@@ -1,1 +1,0 @@
-['Cotta , der', 'bei Dresden', 'Eichen', 'als', 'gerade', '39 ) ,', 'und Bayern (', 'hinten', 'sowie', '.', 'sind meist Gemeinden', 'Urnenwälder', 'beheimatet', 'gut', ',', 'Jüngst', 'nun', 'als', 'er eröffnete solch', 'er eröffnete solch ein', '000', 'Friedhöfen', ',', 'Urnenfeld', 'dient', 'Region geplanten', '»', 'des empfindlichen', 'Zudem werden', 'gaben', 'Belastungen']

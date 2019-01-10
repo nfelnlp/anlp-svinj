@@ -1,1 +1,0 @@
-['Kate Middleton', 'britische', 'Kate', 'William .', 'sie Prinz', 'Königskind trifft', 'Selbst', 'Angekommensein', ',', 'schon seit', 'sie', 'Hause', 'Ein', 'es für', 'sich', 'wer']

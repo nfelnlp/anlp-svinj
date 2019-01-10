@@ -1,1 +1,0 @@
-[') ,', 'September', 'Islamisierung', 'eines', 'Recht', 'Islam', 'einer', 'Islam', '.', 'hunderten', '.', 'Ditib-Moscheen', 'anerkannte', 'Antisemitismus', ',', 'Zwangsheiraten', 'wo', 'für', 'dazu ?', 'der', 'die', 'ist', 'den', ',', 'etwas ,', 'Imame', 'einer', ',', 'Unterbindung', 'ein', 'kann', ')']

@@ -1,1 +1,0 @@
-['Angela', '– die zur', 'dem', 'der', 'die', 'Katastrophen', ',', 'in', 'üblich', 'dass', 'dass diese', 'Abschaffung', 'mit', 'berichtete', 'schreitet', 'ein', 'Ehefrau', 'Kinderehen', 'zumindest', 'was', 'haben', '„Neuzugänge', 'Familiennachzug', 'nicht', '!', 'die', 'Schutzsuchenden', 'Grenzen !', 'Sicher', 'Fehlkonstruktion', 'und', 'uns', 'zu', 'den', 'sich', 'des']

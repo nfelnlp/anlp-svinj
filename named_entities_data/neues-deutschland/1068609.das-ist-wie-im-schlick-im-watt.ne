@@ -1,1 +1,0 @@
-['am', 'zwischen', 'Spiekeroog', 'Grund', 'vom Inselmuseum', '»', 'das', '-', 'Wangerooge', 'in', 'Jahr', 'des', 'Organisation', '. Das', 'zählt', '.', 'letzten', 'weltweiten', 'eine', 'Schiffsunglücken', 'die', '«', 'bis', 'in', 'in der', ', nachdem', '77', 'starben', 'Glocke', 'kommt', 'auch für']

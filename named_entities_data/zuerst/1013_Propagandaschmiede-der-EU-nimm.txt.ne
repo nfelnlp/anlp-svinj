@@ -1,1 +1,0 @@
-['Brüssel/Riga', 'Im', ',', 'in', 'im', '„Aus- und', 'zu', ':', 'die', 'die', 'des', 'nutzt', 'Adressen der', 'wie']

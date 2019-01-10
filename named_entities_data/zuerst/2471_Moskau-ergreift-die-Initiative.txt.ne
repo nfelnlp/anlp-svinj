@@ -1,1 +1,0 @@
-['Moskau/Kabul', 'Veränderungen', 'im', 'Initiative', 'US-Regierung', 'die', 'Rußlands', 'Salahuddin Rabbani', 'hätten einen', 'sagte', '.', 'im', 'mit', ',', 'dem', '.', 'erwarten', 'alle', 'durch', 'eingebunden', 'Lawrow', '”', 'Krieg', 'den', ',', 'außerdem', '.', 'Terrororganisation', 'in', '.', '2001', 'Bush', 'von', 'von einem', '.', 'Vorjahr', 'Prozent']

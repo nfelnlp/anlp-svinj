@@ -1,1 +1,0 @@
-['das', 'als', 'Ausgabe', 'der lesbischen', 'dosiert', 'Versicherungen', 'kaufkräftigen', '“', 'alte', 'sie', 'Gefühle', '.', 'die', 'selbst', 'wollte', 'Lesben dürfen', 'ihre', ', wie']

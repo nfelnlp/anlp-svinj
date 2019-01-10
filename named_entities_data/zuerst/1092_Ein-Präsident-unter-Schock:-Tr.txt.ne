@@ -1,1 +1,0 @@
-['Washington', ', die', '„moderaten', 'weiter', 'die ein', 'Aufregung', 'der', 'als', ',', 'Bakr', '“ Der grausige Vorfall', 'Gelder', '“', 'wie', 'Gruppen', 'Die', 'Schattenkrieg', 'Präsident', 'das', 'komplett']

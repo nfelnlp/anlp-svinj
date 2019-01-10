@@ -1,1 +1,0 @@
-['Hans S. Mundi', 'Spears tut', 'Williams auch', 'Wood ,', '( 66', 'zum Pflaster', ', in der', 'Alarmsignal', 'nachweisen', 'spielen –', 'Sieben', 'non stop', 'auf', '“ als', 'Tochter', 'DDR', 'machte', 'als', 'der', 'trat', 'sogar', 'in', 'Fingernägel', 'bei', 'Verhaltensstörung', 'vor', 'eine', '?', 'Robin', 'einer', ', egozentrischer', 'Bewunderung']

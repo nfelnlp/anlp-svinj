@@ -1,1 +1,0 @@
-['Auf der', 'Order', 'deren', 'Kevin Cummins', 'Sie unterhalten', 'Ein Mal', 'Love will tear us', 'nicht mehr', 'die seinerzeit', 'stieß', 'ist .', ', wenn', 'jedoch irgendwie', '.', '. Es', 'bis', ',', 'denen ,', 'Transmission', 'Transmission und', 'Control', '. Wie viel', 'Buch der', 'Verlass', 'Berlin', '. Juli']

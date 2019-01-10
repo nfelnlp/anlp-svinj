@@ -1,1 +1,0 @@
-['Gesellschaft', 'Wien', 'FPÖ-Gemeinderat', 'jetzt', 'postete', 'Facebook-Profil einen', ',', 'Hakenkreuz', 'einem', 'Blochberger', '”', 'Spitze der', 'fehlt', '”', 'der', 'aber', 'aber fest', 'Vernehmen', 'um', 'mit']

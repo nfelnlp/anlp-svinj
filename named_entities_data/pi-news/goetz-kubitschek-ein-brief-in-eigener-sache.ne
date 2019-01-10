@@ -1,1 +1,0 @@
-[',', 'an', 'Seminare', 'Themenabende', 'Sieferle ist in', 'nun', 'nicht', 'und', 'Einzelfalle', 'in diesem', 'will', 'bestelle', 'Das', '50', 'regionale', 'zu', 'wenn sein', 'zwei', 'es']

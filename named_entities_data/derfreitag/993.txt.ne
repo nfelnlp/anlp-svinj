@@ -1,1 +1,0 @@
-[': Das', ': „ Backnstage , Gib deinem', 'diesen', 'ihnen der', '.', 'wenig', 'wenig wie', '“ –', 'juristischen Abteilung . Komm', 'Bankenwunderland', '.', 'fahren', 'von Fürth', 'in', ',', 'jede', 'Interesse', 'Gefallen', 'tun', 'tun und', 'tun und das']

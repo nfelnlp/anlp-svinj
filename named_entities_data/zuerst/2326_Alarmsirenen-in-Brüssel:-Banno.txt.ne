@@ -1,1 +1,0 @@
-['Washington', 'die', 'ums', 'Insbesondere', ',', 'anderer', 'dem deutschen', '.', 'der Nachrichtenagentur', 'CNN', 'dem', 'die', 'Konstruktionsfehler', 'der', 'der EU', 'Gewährsmann', 'verstärkt', 'den', 'kommen', 'der', 'Deutschland', 'den', 'den deutschen', 'will', 'deutsche', 'Haus', 'dem', '– im', 'auf']

@@ -1,1 +1,0 @@
-['Damaskus/Tel', '. Israel', 'einmal', 'abhalten', 'angegriffen', 'Konvoi der', 'die in Syrien', 'Assad-Regierung', 'Terrormiliz', 'Luftschlag', 'Angriff einer', 'Chemiewaffen', 'herstellte , die', 'syrischer', '(', 'Bei', 'syrische Soldaten', 'Die', 'den', 'israelische', 'daß', 'mü']

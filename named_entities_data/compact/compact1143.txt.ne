@@ -1,1 +1,0 @@
-['Jacker', 'türkischer', 'Das', 'kann', 'die fünffache Mutter', 'lebt', '.', 'das', '.', 'integriert', '»', 'das', 'verweigerte', 'unsere', 'Seit', 'Abgehörte', 'im', 'wie einen', 'und', 'Halbstarker', 'Clubs', 'Corrinas Söhnen', '»', 'viel', ':', 'Komm']

@@ -1,1 +1,0 @@
-['die', 'aus', 'gegen', 'drohen', 'die', 'Idee']

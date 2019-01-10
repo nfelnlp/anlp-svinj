@@ -1,1 +1,0 @@
-['Jörg Meyer', 'SaisonarbeiterInnen', 'ZeitungszustellerInnen']

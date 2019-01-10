@@ -1,1 +1,0 @@
-['Budapest', 'Viktor Orban', 'Ungarn als', '“', 'Milliardär', '“', 'Orban', 'Freitag', 'Rundfunk', 'und', 'weil', 'Rede', 'den', 'korrupten', 'zu', 'deren', 'unterstützte', 'des', ',', 'die', '‘', 'Streit', 'die']

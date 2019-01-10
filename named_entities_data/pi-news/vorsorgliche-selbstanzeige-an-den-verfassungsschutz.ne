@@ -1,1 +1,0 @@
-['Wolfgang Hübner*', 'Hessen ,', '49', '49 ,', '49 , 65187', 'und', ',', 'Sympathie', ',', 'an', 'geschweige', 'Gefahr', 'behandeln', 'einer', 'Identitäten', 'demokratischen', 'kommen', '„Europaweite', '.', 'auf', 'aber', 'nostalgische', 'Ihrer']

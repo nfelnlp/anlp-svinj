@@ -1,1 +1,0 @@
-['Gesellschaft 4 Trier', 'Karl Marx', 'Volksrepublik China', 'Trier', 'Karl Marx', 'Andreas Ludwig', 'CDU', '„Daß', 'denkt', 'im', '.', 'und', 'Chinas', 'äußerte sich', 'kulturpolitischer Sprecher', 'überraschend zeigt sich', 'Werner', 'erfreut', 'das Geschenk', ',', ', zu', 'des', 'als vielmehr', 'nicht zu', 'brauchen', '“', 'der', 'der', 'einem', '200', '3.0 (']

@@ -1,1 +1,0 @@
-['während der', 'kann', 'Moment geradezu', 'der', 'des', 'der Abstimmung', ',', 'die', ',', 'Forderungen auf', 'Regierung', 'zurückgehen', '.', 'Ökonomen', 'sie', 'radikalen', 'den', 'unterstützen', 'Parlament', 'dem', 'Premier', 'sich', 'diesem', 'die']

@@ -1,1 +1,0 @@
-['entsprechende Gutachten', 'sich', 'bedroht', ', die', 'lukratives', 'Banken und', 'Worten', 'Vor', 'NRW', 'SPD wäre eine', 'und']

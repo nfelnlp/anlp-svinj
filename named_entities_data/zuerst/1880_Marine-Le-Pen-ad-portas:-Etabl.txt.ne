@@ -1,1 +1,0 @@
-['Paris', 'Frankreich', 'Pen ab', 'Jetzt veröffentlichten sowohl', 'Haïm', ',', 'National', 'für', 'gab', 'Korsia eine', 'Sarkozy', 'nach Angaben', 'zur Wahl', 'Parteiinteressen', 'für möglich', 'Politikwissenschaftler', ')']

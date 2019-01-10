@@ -1,1 +1,0 @@
-['Sofia', 'werben', 'Proteste', 'Uniformierte laufen mit', ', bulgarischer', 'im', 'wieder', 'Sofia', ',', 'Legionen , zu', 'erschossen']

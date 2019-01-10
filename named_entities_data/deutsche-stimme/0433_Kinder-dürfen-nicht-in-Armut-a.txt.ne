@@ -1,1 +1,0 @@
-['Ronny Zasowk', 'Deutschland', 'Merkels Willkommenspolitik', 'Deutschland', 'Bertelsmann-Stiftung sind fast', 'angewiesen', 'einem', ',']

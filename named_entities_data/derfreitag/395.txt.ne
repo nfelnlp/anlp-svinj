@@ -1,1 +1,0 @@
-['Marty', 'Suhrkamp', '.', 'Er hat', '.', 'notorisch', 'kurz', 'zur', ',', 'im', 'eine ganze', 'Ich', ', der', ',', 'in', 'Ignoranz', 'mir', 'zur', 'einer']

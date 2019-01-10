@@ -1,1 +1,0 @@
-['.', 'Ludwig XIV . |', 'die', 'er', ':', 'hat', 'wenn Fremdherrschaft', 'Jahrhunderte', 'Von', ')', 'und', '.', 'integrativen', 'nach', 'daß', 'bis', 'uploader', 'Lizenziert', 'Creative Commons Attribution-Share Alike', 'allen seinen Gemeinschaften (', 'als', 'Klasse der', 'die', 'Typs von', 'die', 'Denn die']

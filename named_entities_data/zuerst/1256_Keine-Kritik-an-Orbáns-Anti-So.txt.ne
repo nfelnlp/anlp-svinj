@@ -1,1 +1,0 @@
-['Budapest', 'echauffieren , kommt', 'ausgerechnet aus', 'Auch', 'Soros', 'Organisationen', 'Land', 'wenig', 'gegen', 'NGOs', 'nach', 'er', 'Republik', 'Vorfeld', 'Kritik', 'Kritik an', 'Ministerpräsidenten', 'nur', 'der', 'sich', ',', 'des', 'gegen illegale', 'aus']

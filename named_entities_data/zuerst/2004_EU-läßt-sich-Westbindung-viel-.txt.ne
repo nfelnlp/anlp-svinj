@@ -1,1 +1,0 @@
-['Brüssel/Cisinau', ',', '.', 'der EU', 'bei', '2007 und', 'mit', 'Regierungen', 'hätten', 'in', 'für', ',', 'dazu', 'mit', 'eines', 'Regierung', 'rückte', '2016', 'Dodon', 'ist']

@@ -1,1 +1,0 @@
-['Datenschnittstellen im Auto', 'Einfallstor', ',', 'älteren', 'Sachversicherung bei', 'die', 'bei BMW', 'Jetzt', 'installierte', 'per', 'Böres', 'Doch', 'dem', 'Bremsmanöver', 'Schwachstelle', 'Motor', 'mittels', 'dem', '-schutz', 'soll', 'BMW', 'soll', 'und']

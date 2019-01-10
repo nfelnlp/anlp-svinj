@@ -1,1 +1,0 @@
-['Gesellschaft 3 Berlin', 'türkischen', 'Binali Yildirim', 'Oberhausen', 'Yildirim zugejubelt', 'Deutschland', 'türkischen', 'hatte', ',', 'Sie bezeichnet', 'Deutschland', '„eine', 'Unterwerfungsgeste', 'für die', 'so', 'für', '. Yildirim', 'lebenden', 'zu', '”', 'der', '” ,']

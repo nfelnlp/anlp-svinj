@@ -1,1 +1,0 @@
-['AG', '.', '“', 'eine Idee', '.', 'hatten .', '. Solche', ',', 'kein', 'gab', 'Freibier', 'Einige kamen', '. Busse', 'bereit', 'zum versprochenen', 'und gut', 'der', 'Herr', 'die', '. Man', 'dass', 'Dass Mogels', 'überwiegend', '1/1', 'besser', 'Vorstandes gespalten', 'Gesundheits- und', 'und da', 'als Eigentümer', 'dass', 'und', 'volle Jahre']

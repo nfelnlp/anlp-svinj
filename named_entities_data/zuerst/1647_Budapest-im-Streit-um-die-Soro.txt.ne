@@ -1,1 +1,0 @@
-['Budapest', 'Ungarn', 'am', 'das', 'Schließung zwingt .', 'EU-Recht', 'auch', 'das', 'ist', 'damit erst', 'CEU']

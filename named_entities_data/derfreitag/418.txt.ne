@@ -1,1 +1,0 @@
-['Tag', 'Für', 'No-go-Thema', '.', 'und']

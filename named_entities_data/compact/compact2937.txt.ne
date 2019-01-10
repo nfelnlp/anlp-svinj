@@ -1,1 +1,0 @@
-['Edeka', 'Thalia', 'COMPACT', 'Edeka', 'Das', 'derart', 'an', 'Sie den', 'was', 'und', ',', 'Gestern', 'Sortiment', 'nur', '„etablierten', '(', 'wie', '“', 'aber', 'ein', ',', 'sie', 'gestern das COMPACT-Magazin', 'Anstoß die', 'wie', 'nur Facetten', 'und Film', '.', 'anderen', 'der', 'der', 'Trend', 'werden', 'Maske', 'und', '. Könnte', 'aus', 'Menschen', 'sich']

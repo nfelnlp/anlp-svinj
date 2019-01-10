@@ -1,1 +1,0 @@
-['Foto :', 'statt –', '.', 'ist Mitte', 'arbeitet für', 'in der Finanzkrise mit', 'Thema', 'Portfolio', 'noch : ``', 'ist', 'bis', 'und nachhaltig', 'parat ?', 'Moment', 'wurde direkt', 'Aktien , setzen', '.', 'sieht', ', weiter Anleihen aufzukaufen . ``', 'fest', 'Genauso wie', '``', 'so', '.']

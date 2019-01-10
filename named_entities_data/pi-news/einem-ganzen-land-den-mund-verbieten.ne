@@ -1,1 +1,0 @@
-['Merkels', 'dazu', 'die', 'die an dieser', 'Anzeige', 'eine linke', 'affirmativer', 'wird', 'Förderung', 'zahlreichen', 'Erträglichen', 'viele', 'der', 'rein', 'der']

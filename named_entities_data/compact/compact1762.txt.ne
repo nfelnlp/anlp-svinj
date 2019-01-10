@@ -1,1 +1,0 @@
-['–', 'EU', 'gebucht .', 'sollten', 'Angehörigen', 'Ankündigung', 'vier Tigern öffentlich zerfleischen lassen', 'keine Einreiseerlaubnis', 'an', 'Sonderflügen über den', 'September kündigten', 'mehrere', 'Asylpassagiere', 'Behörden', '( CSU', '.', 'spreche von', 'bis zu', 'Bereits', 'Kernfamilie', 'Begründung', 'damit', 'jeweils', 'für', 'vermeintliche']

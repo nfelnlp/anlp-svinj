@@ -1,1 +1,0 @@
-['( DB', 'nach', 'dem', 'Xavier', 'drückt', 'können', 'des', 'Cargo ,', 'für Donnerstag geplanten', 'erklärt', '» im besten', 'Tätigkeit', 'inhaltliche', 'wieder', 'von', '.', 'eine Fortsetzung des', 'sich', 'in', 'dass']

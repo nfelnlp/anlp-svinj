@@ -1,1 +1,0 @@
-['Hörproben', 'Martin Tingvall']

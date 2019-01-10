@@ -1,1 +1,0 @@
-['Jatusripitak ,', 'zu', 'der', 'wie']

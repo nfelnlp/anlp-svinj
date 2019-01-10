@@ -1,1 +1,0 @@
-[':', ': Das', '( SPD', 'der', '. Derzeit laufe', 'auf', '16']

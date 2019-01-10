@@ -1,1 +1,0 @@
-['Papa Francesco', 'Neapel', 'Montefort/AFP/Getty Images', 'Habemus', ', Nanni', 'von', ', reißt', 'gegen', 'Prophezeiung', 'und', 'nicht', 'werde kurz', ',', 'auf', 'seinem Buch', 'um', 'Kalabrien', 'mit', 'Euro', 'der Expo', 'man', 'mal Pizza', 'Aufschrift', ',', 'Dank']

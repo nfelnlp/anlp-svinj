@@ -1,1 +1,0 @@
-['Tino Weinhold', 'Pegida Duisburg', 'und vermutlich', 'ins', 'bis', 'dies', ',', 'in', 'auch', 'heimtückischen', 'auszeichnet', 'nur', 'nie', 'Punkt :', 'vor', 'Januar hatten', 'durch', 'geworfen und', 'in', 'Unterstützung , so', 'die', 'ersten', 'angeblicher', 'Weg', 'nicht', 'und alle', 'sich', 'engagieren , ein', 'Patrioten']

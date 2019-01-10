@@ -1,1 +1,0 @@
-['Zimmermann . Sie', 'der', 'ablehnend', 'ein', 'es sich', 'Nach', 'einer', '.', 'positive', 'eine Qualitätsverbesserung', 'in', 'Krankenhäusern', '162', 'der', 'Überstunden würden', 'Personalbemessung', 'einen Tarifvertrag']

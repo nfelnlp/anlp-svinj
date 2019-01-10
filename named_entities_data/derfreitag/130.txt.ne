@@ -1,1 +1,0 @@
-['im', ', Bundestagsabgeordneter', 'am', 'trotz', 'einem', 'die', 'Auseinandersetzungen', ',', 'von', ',', 'Der', 'Satz ,', 'anzusehen', 'LINKEN', 'das', 'nun', 'im Niedriglohnsegment', 'explodierende', 'Schwachen .', 'und', 'der', 'der', 'Wahl', 'Im', 'steht die', '.', 'will man', 'Hessen', 'junger', 'Dach']

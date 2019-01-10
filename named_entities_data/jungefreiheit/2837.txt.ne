@@ -1,1 +1,0 @@
-['überführen', 'Verwandlung', 'ewig', 'ins', 'Das', 'werden ;', 'von', 'gibt', 'macht', 'weil', 'unsere Maschinen', ',', 'den', 'Tapferen', 'Herrschaftssicherung', ':', 'von', 'alle , ästhetischen', ':', 'diese', 'sein', 'Karat', 'Die', 'nicht', 'der', 'das', ',', '.', 'sagt', 'sich selber']

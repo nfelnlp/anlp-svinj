@@ -1,1 +1,0 @@
-['Avidan', 'Asaf Avidan', 'liebt', 'Seite', 'Hit avancierte']

@@ -1,1 +1,0 @@
-['.', '. Im', 'in', 'von der Lieth', 'Protest']

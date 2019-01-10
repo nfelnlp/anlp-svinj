@@ -1,1 +1,0 @@
-['Dauersichdiskriminiertfühlende', ', natürlich', 'es', 'könnten', 'statt', 'Ovarien', 'zu', 'Genderlehrbuch', 'üblichen', '.', 'noch', 'weiter', 'in', '.', 'vor den', 'zufrieden geben', 'die', 'ganz', '.', ',', 'gibt', 'die', 'des', 'Linksgrünen']

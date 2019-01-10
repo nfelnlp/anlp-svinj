@@ -1,1 +1,0 @@
-['NPD-Parteipräsidiums', 'und', 'enttäuschend', 'Konfliktlinien', 'NPD', 'sind', 'Bundestagswahl', ', der hat', 'Asylanteninvasion', 'gilt', 'ist', 'der', 'Gesundheitsversicherung', 'darüber', 'aktuelle', 'davon', 'haben', 'und', '„Deutsche', 'bereits', 'müssen', '.', 'machen', 'Blick', 'in', 'Ländern', 'Osten', 'hat', 'Ziel', 'allem', 'werden']

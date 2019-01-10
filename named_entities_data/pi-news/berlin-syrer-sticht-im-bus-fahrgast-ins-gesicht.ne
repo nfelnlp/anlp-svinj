@@ -1,1 +1,0 @@
-['im', 'Akbar “ -Rufen mit', ')', 'offensichtliche Lügenstory', 'immer einen', ':', 'den', ',', 'erfahren', 'sehr', 'ein Deutschkurs angeboten', 'habe', 'mit', 'mit', '„Islamischer “ Hintergrund', 'der Wahrheit', 'verhandelt', 'Betäubungsmittelgesetz', 'die linksideologisch verseuchte', 'Land wieder']

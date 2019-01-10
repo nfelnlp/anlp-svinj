@@ -1,1 +1,0 @@
-['. Die', 'nicht entschlossen', 'Elektroautos', 'schon Kinder', 'Mittwoch', '.', 'Konzerne', '.', 'sich', 'Daimler', 'es', 'an', 'in einer', 'auf']

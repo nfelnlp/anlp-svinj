@@ -1,1 +1,0 @@
-['und', 'Doch', 'sei –', 'für', 'ihm', 'Lebensentwürfen', 'sexuellen']

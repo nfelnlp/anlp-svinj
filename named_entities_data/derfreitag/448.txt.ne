@@ -1,1 +1,0 @@
-['2005', 'AFP/ Getty', 'Besucht', 'Istanbul mit', 'beträgt', 'Minuten', 'Wer', 'musste', 'nach', 'Verkehrs-GAU', 'der Türkei', ',', 'baut', 'da', 'die', 'Arbeitssiedlung', 'Arbeitssiedlung für', 'den Staat', 'Einwirkungen', 'des', 'anders', 'ist', 'so', ',', ',', 'Medien', 'sondern', 'nur', 'Grundstücke', ',', '.', 'die']

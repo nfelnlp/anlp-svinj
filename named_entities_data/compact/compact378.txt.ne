@@ -1,1 +1,0 @@
-['_von', 'Klaus', '.', 'Politikern', 'und', 'Zentralisierung']

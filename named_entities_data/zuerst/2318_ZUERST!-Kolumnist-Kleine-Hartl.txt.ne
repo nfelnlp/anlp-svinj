@@ -1,1 +1,0 @@
-['Gesellschaft', 'Manfred Kleine-Hartlage', 'bestenfalls', 'die Absicht', ', auf', 'mit', 'abgepreßt', 'erschöpft ,', 'der', '–', 'weniger']

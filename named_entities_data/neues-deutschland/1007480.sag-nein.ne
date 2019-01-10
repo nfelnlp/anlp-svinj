@@ -1,1 +1,0 @@
-['Friedensorganisationen', 'Bundeswehr', 'Ines Wallrodt', 'Bundeswehr', 'Bundeswehr', 'Facebook', 'ihrer', '168']

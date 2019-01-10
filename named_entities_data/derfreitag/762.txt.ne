@@ -1,1 +1,0 @@
-['Texas', 'Brendan Smialowski/AFP', 'Houston', 'hat', 'lag', 'über', 'ungewöhnlich', ',', 'intensivierte', 'und', 'Menschen', 'er', '1,20', 'dem', 'die', 'Harvey verantwortlich', 'festhalten']

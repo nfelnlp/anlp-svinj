@@ -1,1 +1,0 @@
-['einer', 'die Agenda', 'Papier', ',', 'Da', 'nicht', 'CO2-Preis', 'Stromsteuer', 'bei', 'die', 'als', 'und', 'Marktplatz', 'Treibhausgaszertifikate', 'nicht', 'prüfen', 'sich', 'CO2-Gehalt', '.', 'Autoren', 'vom', 'als Heizen', 'Tanken . Ihr zufolge', 'die', 'der', 'meint', 'erneuerbaren']

@@ -1,1 +1,0 @@
-['. Die', 'stellt', 'mit', 'Auseinandersetzungen um', 'fünf', 'wie', 'FDP', 'zwei', 'Anfang']

@@ -1,1 +1,0 @@
-['Friedel', 'Susanne A. Friedel :', 'zu', 'ein', 'Ich', 'da', ',', 'unterzeichnen', 'Rahmen', '. Seit']

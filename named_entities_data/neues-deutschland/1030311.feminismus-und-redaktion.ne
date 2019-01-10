@@ -1,1 +1,0 @@
-['( SPD', 'und', 'der Gewerkschaft', 'auf', ':', 'gehört auf', 'Aufwind', 'Ja !', '. Der']

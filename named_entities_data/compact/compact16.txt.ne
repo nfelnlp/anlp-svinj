@@ -1,1 +1,0 @@
-['angekratzte', 'und durch', 'in Anspielung', ': Er', 'Parallel', 'solle', 'bereits vorhandene', 'gepflanzt', 'das', 'der', 'sowie', 'jetzt ,', 'wie kulturell', 'propagieren .', 'sagt', 'Kasten', 'Bio-Pics', 'Schlüter', 'fand lediglich', 'partiell', ',', 'die', 'sondern', 'Außerdem', 'Bauwerk bis', 'Considérant :', ',', 'Realität 2018', 'so aus', 'Bestandteile des', 'horrende']

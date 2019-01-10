@@ -1,1 +1,0 @@
-['spielt', 'Schwarzbuch', 'COMPACT', 'Verlogenheit', 'Medien', '–', 'der Amadeu-Antonio-Stiftung', 'Hochmut', 'Hochmut kommt vor', 'interessiert schon', 'die', 'Reise hingeht .', 'an ,', ':', 'verliehen', 'Heiko', 'In', 'Spezial-Ausgabe Zensur', 'der', 'werden', 'Büros', 'als', 'Rechter', 'hinaus', 'Es', 'wie', 'wirklich', 'immer', ',', 'der']

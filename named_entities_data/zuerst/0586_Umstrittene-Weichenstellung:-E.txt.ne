@@ -1,1 +1,0 @@
-['Straßburg/Luxemburg', 'Eine', 'ihre', 'aufnehmen', 'die grenzüberschreitende Bekämpfung', 'soll', '„zunächst “', 'am', '– etwa', '.', 'EU-Kommissionspräsident', 'Straftaten', 'Die EU-Kommission werde nächstes', ', in', 'wird', 'sagte', '“', 'Brandstetter hob', 'Möglichkeiten', 'Strafverfolgung', 'auf', 'Stellen', 'Staaten', 'Das', 'hat', 'gegen', 'Bord', 'Irland', 'mü']

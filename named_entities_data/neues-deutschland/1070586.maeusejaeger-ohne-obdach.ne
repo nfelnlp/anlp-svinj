@@ -1,1 +1,0 @@
-['.', '. Im', 'es', 'vom Landesbund', 'LBV', '1700', 'der', 'ist .', 'Winter', 'weniger', '»', 'gezimmerte Brutkästen', 'mit']

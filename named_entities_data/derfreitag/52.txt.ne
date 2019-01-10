@@ -1,1 +1,0 @@
-['Kovarik/AFP/Getty Images', 'sprechen', 'einem', 'vereinbart', 'ein', 'gesetzt –', '.']

@@ -1,1 +1,0 @@
-['Vera Bianchi', 'Vera Bianchi Soziale', 'Spanischen', 'Lucía Sánchez Saornil', 'Mercedes', 'Mercedes Comaposada', 'Mercedes', 'Mercedes Comaposada', 'CNT-Mitglieder', 'Saornil kommt aus']

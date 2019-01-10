@@ -1,1 +1,0 @@
-['Warschau/Gnesen', 'Im', 'auch', 'mit', 'der Wochenzeitung', 'daß', 'meine', 'Kontrolle', '.', '.', 'kann', 'kann man', 'als dialogorientiert', ')']

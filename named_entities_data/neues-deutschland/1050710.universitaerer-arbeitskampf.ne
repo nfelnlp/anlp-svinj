@@ -1,1 +1,0 @@
-['die', 'Gewerkschaft', 'und', ')', 'von der', 'der', 'Die Veranstaltung war']

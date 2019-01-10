@@ -1,1 +1,0 @@
-['Welt', 'VIVA', 'Karriere', 'geplante', 'erste Etappe einer', 'DISS )', 'bei', 'Klumb', 'Im', 'SONY', ':', '.', 'stumpfer', ',', 'das', '68er', 'Härte falsch', 'Mentalität', '.', 'Erfolg', 'greifen denn', '.', 'halt', 'wurde', 'über', 'der', 'keine', ',', 'Ich', 'Interesse', ',', ': Wer']

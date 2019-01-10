@@ -1,1 +1,0 @@
-['Todesstrafe', 'Bangladesh', 'China', 'Indonesien', 'Indien', 'Japan', 'Nigeria', 'USA', 'USA', 'Deutschland', 'USA', 'USA', 'Amnesty International', 'USA', 'China', 'Iran', 'Vietnam', 'USA )', 'China', 'Amnesty', 'Amnesty International', 'China', 'China-Visite', ', auch', 'im', 'Gruppe', '.', '2003', 'und seiner', 'auch', 'der']

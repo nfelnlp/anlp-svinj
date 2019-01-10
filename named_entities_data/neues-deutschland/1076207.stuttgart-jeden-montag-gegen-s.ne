@@ -1,1 +1,0 @@
-['Stuttgart-21-Gegner', 'Autor und', 'Kabarettistin Christine', 'Wortkünstler Timo', 'hofft ,', 'dieser']

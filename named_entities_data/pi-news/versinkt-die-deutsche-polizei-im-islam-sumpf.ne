@@ -1,1 +1,0 @@
-['INXI', 'Anfänglich', '.', 'Öffentlichkeit', '! Machtmissbrauch der', 'Zuständen', 'die künftigen Führungskräfte', ',', 'Jahren von', 'willentlich', 'ungenügenden', ',', 'Berliner Problem', 'noch', ',', 'die', 'ist', 'erhebliche', 'verbietet', 'linksgrünen']

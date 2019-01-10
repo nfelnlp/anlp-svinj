@@ -1,1 +1,0 @@
-['September', 'zu', 'Punkte', 'Wahl keinen', '!', ',', 'hier für', 'den Wahl-O-Maten', 'hier', 'und', 'Ja', 'Deutschland', 'am', 'Verfassung', 'Partei', 'Parteien', 'mit denen Sie', 'Fragen', 'Wahl-O-Mat', 'wirkliche', 'an']

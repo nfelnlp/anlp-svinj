@@ -1,1 +1,0 @@
-['AFP/', 'Images', 'Nübling mit', ',', 'und', 'in', 'das', '.', '. Sue zu', 'sie ans', 'Karin Beier', 'sie in', 'und', 'weiter ,', 'der Berliner', 'so ,', 'Spieler']

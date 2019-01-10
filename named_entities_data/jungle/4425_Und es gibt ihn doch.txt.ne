@@ -1,1 +1,0 @@
-['georg-weerth-gesellschaft', 'Jonas', 'eine »', 'einer', 'zu', 'Islam und', 'ausmachen', 'Kämpfe zwischen unterschiedlichen', 'der', 'er', 'der Schriften', 'BMW', 'Seat', 'Cadillac', 'Deutschlands', '.', 'dass', 'ersetzten den', 'sagt', 'in', 'politische', '.', 'Überlieferung', 'Aber', 'Baukränen', 'werden', 'nach']

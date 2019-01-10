@@ -1,1 +1,0 @@
-['Putzkräfte', 'Von Lisa', 'Lieferdienste', 'via', 'Die', 'direkt', ':', 'Putzen']

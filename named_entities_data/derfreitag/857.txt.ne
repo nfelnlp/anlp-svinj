@@ -1,1 +1,0 @@
-['Images Die', 'Anordnung', 'willige', 'ihnen', 'und', 'in', 'den Tests', 'zum', 'die', 'immer', 'hin', 'selbst', '.', 'ist', 'den']

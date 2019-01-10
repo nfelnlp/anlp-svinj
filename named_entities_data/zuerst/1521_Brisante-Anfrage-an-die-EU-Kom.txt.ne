@@ -1,1 +1,0 @@
-['Gesellschaft 11 Brüssel/Berlin', 'Der', 'Udo', ', hat', '.', 'der', 'von der', 'Souveränitätsstatus´', 'und', 'Verträgen', 'zum Europäischen', '.', 'Wirtschaftsforum', 'St.', 'Souveränitätsdefizit', 'hatte . Der', 'Brüssel', 'Falle', 'von', 'Lesart', 'wurden']

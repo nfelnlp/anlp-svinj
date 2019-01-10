@@ -1,1 +1,0 @@
-['Tschechiens', 'Vaclav Klaus', 'EU-Bürokraten', 'so', 'in', 'nicht', 'ich', 'Existenz', 'im', 'Entpersonifizierung', 'der', 'vorangetrieben .', 'vorangetrieben . Dieser Vertrag', 'Die', 'sie', 'spreche', 'des', 'Wir', 'Problem', 'Sie', 'die', ',', 'herrschenden', 'Problem']

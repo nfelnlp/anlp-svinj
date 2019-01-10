@@ -1,1 +1,0 @@
-['SELBERDENKER', 'Schweden', ',', 'wurde', 'hinter', 'weltweite', 'übrigens', 'in', 'in', 'könnte', 'witzeln', 'sogar', 'was', ',', ',', 'Machine', 'alleine . In der politisch', '.', 'Es', ',', 'unseren', 'Globalisten', 'Fackel', 'wenigstens']

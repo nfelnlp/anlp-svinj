@@ -1,1 +1,0 @@
-['Berlin', 'zufolge hat', '( CDU', 'der', 'versprochen', 'einem', ', dem', ',', 'Mark', 'verpflichtet .', 'Asylkrise', 'an', 'konkreten Zahlen', 'ebenfalls', 'laut', 'jährlich', ',', 'für', 'Gesundheit', 'Platz']

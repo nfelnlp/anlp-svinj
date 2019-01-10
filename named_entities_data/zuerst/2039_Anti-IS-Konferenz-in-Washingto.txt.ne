@@ -1,1 +1,0 @@
-['Washington', 'dem', '22./23', 'man', 'Vorfeld des', 'von', 'die', 'ausgehe und', 'ausgehe und nicht', 'wie', 'die', 'einverstanden', 'Vor', 'die', 'Ziele', 'und', ',', 'ihre', 'IS-Hochburg', 'zu', 'IS', 'vielmehr', '–', 'Kolonialmächte', 'Region', 'ihrerseits', 'Kräfte', 'retten', 'Die', 'Grenze', 'in die', 'die', 'Punkt', 'machte', 'in', 'vor', 'Schutz']

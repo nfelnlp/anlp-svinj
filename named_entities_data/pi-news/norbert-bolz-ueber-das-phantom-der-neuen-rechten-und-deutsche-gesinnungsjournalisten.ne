@@ -1,1 +1,0 @@
-['Norbert Bolz', 'ZDF-Moderator', ', jetzt', 'die Politik', 'kritisieren', 'als', '.', '. Wie', 'der', ',', 'Partei', 'hat .', 'und', 'anderen', 'weil', 'von', 'dumm', 'die']

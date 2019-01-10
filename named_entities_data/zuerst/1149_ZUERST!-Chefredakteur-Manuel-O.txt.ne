@@ -1,1 +1,0 @@
-['diesmal mit', ',', 'im', 'Der Deutsche Bundestag', 'für', 'Grund', 'türkische', 'deutschen', 'Medien', 'als', ',', 'habe', 'nur', 'daß', 'eintreten', '.', 'genau', 'läßt', 'Türkei', ',', 'werden', 'aus', 'und', 'Verlegung', 'diese', 'Jordanien', 'Nähe', 'Dort', '“', 'als', 'genug', 'eine', 'Amerikaner', 'sich', 'sich offensichtlich', 'Kasernen']

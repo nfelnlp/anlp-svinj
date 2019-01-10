@@ -1,1 +1,0 @@
-['gleichen', ', Chef', '.', 'im rheinischen', 'oder', '»', '» Die', ') .', 'ja', 'dem »', 'die', 'des', 'CD-Hersteller Cinram', 'für die eigenen', 'Artikel', '?']

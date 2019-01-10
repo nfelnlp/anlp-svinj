@@ -1,1 +1,0 @@
-['.', '. Vier', 'ein', 'Landtag', 'der', 'und', 'bleibt', 'ihre', 'begrenzen', 'zunehmende', 'als', '.', 'gebe nun', 'Unterschriften']

@@ -1,1 +1,0 @@
-['Nikosia', 'Patrick Baz', 'AFP', 'familienorientiert', 'viele', 'als eine', 'der', 'Nation', 'Kombination', 'eingeplant', 'Prozent', 'bis', 'wenn', 'in', 'in Nikosia', 'es', 'der', ',', '.', '–', 'sterbt', 'besteuern', 'dass der', 'das', 'wäre', 'an ,', 'Selbstmörderisches', ',', 'sein', 'Amtsvorgänger .', 'Wahlversprechen', 'Rücken', 'jemand', 'des']

@@ -1,1 +1,0 @@
-['Las Vegas', 'Las Vegas', 'Consumer Electronics Show', 'Las Vegas', 'Kazuo', 'langanhaltende Krise', 'in', 'haben', 'Tasche', 'Sony', 'der', 'positive', 'Krise', 'einen', 'in', 'Im', 'derweil', 'Messegelände reinwaschen', 'versicherte', 'Datenverlusten', '90', 'Ende', 'verwundbare', 'Umlauf']

@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'Österreich', 'lieferte', 'Januar', 'aktuellen', ',', 'Einreise nach', '.', 'Niveau', 'Schweden', 'Der', 'österreichische', 'Sobotka', ')', 'der', ':', ')']

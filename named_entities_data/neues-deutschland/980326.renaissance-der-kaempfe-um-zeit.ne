@@ -1,1 +1,0 @@
-['Jörg Meyer', '1946', 'tarifgebundenen', 'laut', 'Deutschland', 'die']

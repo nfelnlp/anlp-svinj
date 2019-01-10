@@ -1,1 +1,0 @@
-['Wien', 'Geschleuster', 'veröffentlicht wurde .', 'führen', 'leben', 'Prozent', 'der', 'und']

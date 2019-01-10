@@ -1,1 +1,0 @@
-['für', 'FreItag', 'urteilte', '1.000', ')', 'sein', 'sollten', ',', 'entfernen', 'Cambridge .', 'der Universität', 'und sitzt', 'Richterspruch Übersetzung']

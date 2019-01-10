@@ -1,1 +1,0 @@
-['Frankreich', 'Gewerk\xadschaften', 'Pénicaud und', 'Castaner bei', ',', '/', 'Platiau Anzeige', 'Macron hat', '.', 'Sarkozy und', 'Hollande ,', 'wurden', 'Protzgehabe vorgeworfen', 'politische', 'versuchte', '» La', 'in', '(', 'erlassene', '.', 'durch', '.', 'das', 'Force', 'der', 'das', 'und', 'syndicale', 'zu', '(', 'Muriel Pénicaud wirbt', 'also']

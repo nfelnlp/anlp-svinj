@@ -1,1 +1,0 @@
-['Moskau', 'NATO', 'Konstantin Siwkow', 'Akademie', ':', 'Nachrichtenagentur', 'Segodnya', 'wies', 'Regionen', 'hin', 'Manövern', 'des', 'Einsatzraum', 'sich', 'daß', 'ausgerüstet', 'sind']

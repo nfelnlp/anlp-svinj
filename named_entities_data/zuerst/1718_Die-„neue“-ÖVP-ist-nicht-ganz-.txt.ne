@@ -1,1 +1,0 @@
-['Wien', 'österreichische ÖVP', 'angeführte', 'der', 'schon', 'von der', '.', 'sind', 'der', 'nun', 'über', 'von den Plänen', 'und', 'der', ', mit', 'einen', 'mü']

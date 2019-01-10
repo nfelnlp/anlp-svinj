@@ -1,1 +1,0 @@
-['Österreich', 'SPÖ', 'Manfred Maurer', 'Wien', 'SPÖ-Granden', 'Spitze pilgerten', 'roten', 'roten Spitzen', 'sich', 'den', 'gesät', 'ihrer', 'die', 'als Finanzlandesrat im Burgenland', 'aus']

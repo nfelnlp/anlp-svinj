@@ -1,1 +1,0 @@
-['die', '( CSU', 'beim', ',', 'Medienpulk', '.', 'die', 'zugerufen']

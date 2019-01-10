@@ -1,1 +1,0 @@
-['Hamburg', 'der sich', 'seiner', '.', 'massiv antisemitisch', 'ungarische', 'gegen', 'vor', 'indem', 'das', 'er', 'den', 'mittels', 'Forum']

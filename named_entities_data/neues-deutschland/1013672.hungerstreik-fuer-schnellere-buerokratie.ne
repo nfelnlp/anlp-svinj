@@ -1,1 +1,0 @@
-['. Nach', 'wieder', 'die', 'und zitiert', '»', ',']

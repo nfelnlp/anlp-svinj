@@ -1,1 +1,0 @@
-['.', 'F. oder gar', 'Lear : Goneril', 'Regan', 'Lears', 'die', 'Wales', 'sind', 'hundert', '(', 'sich', 'LeserInnen', 'sei ein', 'eine', ',', 'trippeln', 'und', 'so knapp', 'spitzt', ': da kommen Amerikanerinnen', 'von', 'ist']

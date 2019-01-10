@@ -1,1 +1,0 @@
-['JOSH EDELSON/AFP/Getty', 'Die', 'Regeln und', 'der Seite', 'und', 'schafft es', 'haben', 'und', 'mehr', 'angehört', 'um', 'auf', 'wie', 'Inhalte', 'Dokumenten', 'einem', 'gegenüber', ',', 'weltweite Gemeinschaft und', ',', 'in', 'von', ',', 'überhaupt', 'Regularien', 'wie']

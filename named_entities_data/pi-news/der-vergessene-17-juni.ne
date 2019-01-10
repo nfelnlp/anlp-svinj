@@ -1,1 +1,0 @@
-['Conny A. Meier |', '17', '1953', 'zweiten', 'an', 'gibt', 'sie', '.', 'nur', 'ist', 'gegen', 'wer', 'ersten', 'auf', 'Kanzlerin', '2013', 'aus', 'Grünen und', 'zu', ',', 'einnehmen', 'muss', 'näher', 'werden', '.', 'ich das', '„postfaktischen', 'und bestraft', '.', 'Bundesverfassungsgerichts', 'dem', 'feiern']

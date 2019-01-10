@@ -1,1 +1,0 @@
-['. Mit', '. 2016 nahmen', 'Foerster', 'SPD/CDU-Landesregierung warf', ',', 'wenig', 'dass', 'auf', 'liegt', 'in Hamburg gar', 'Westen sind eben', ',', 'übersteigt', 'Tarifbindung im Nordosten', 'anderen', 'und']

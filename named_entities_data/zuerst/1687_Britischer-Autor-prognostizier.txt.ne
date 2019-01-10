@@ -1,1 +1,0 @@
-['London', 'Großbritannien', 'Douglas Murray', '“ (', 'These', 'führen', 'sein', 'er', 'und', 'Raum', 'Murray', 'daß', 'und', ',', 'und', '–', 'Untergang', 'ist ,', 'Sarrazin', 'seinen', 'Zahlen :', '2010', '–', 'entspreche', 'von', 'Cameron', ', die']

@@ -1,1 +1,0 @@
-['leben', 'des', ':', 'kann , was soll man', 'Menschen sagen', 'am', 'oblag . Nachdem', 'Jahre später', 'Pionierzeit der', 'durchzogenes Erlebnisbuch', '.', '. Jahrhunderts zählende', 'Aufklärer', '1940', 'Jugenderinnerungen', 'Gleichnissen', 'neue', 'nimmt', 'Taucher', 'der', 'war Schreiben', 'über', 'eigenen', 'ausgestattet', '`` Kleinen Prinz']

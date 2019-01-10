@@ -1,1 +1,0 @@
-['Moskau', 'Kiew', 'Ukraine', 'Nikolaj Asarow', ':', 'gegenwärtige', 'auf', 'Dorogomilowski-Bezirksgericht', 'im', '2014 als', 'Veränderung', 'internationalen', '.']

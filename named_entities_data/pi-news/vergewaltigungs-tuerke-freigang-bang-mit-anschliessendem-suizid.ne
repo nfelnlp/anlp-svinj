@@ -1,1 +1,0 @@
-['musste', 'nach', 'Der', 'Justizministerium', 'sich zutiefst', 'Justizvollzugs', 'hing', 'bereits', 'dem', 'kranke', 'Kuchen', 'wie', 'nicht', 'Im', 'gibt', 'irgendwelche', 'Resozialisierungsprogramm', 'Justizministerium', 'Gefangenen', 'Gefangenen .', 'mit kognitiven', 'nach']

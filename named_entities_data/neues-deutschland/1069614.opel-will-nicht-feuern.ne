@@ -1,1 +1,0 @@
-['Der', 'ohne', 'am Donnerstag', 'schnelle', 'von Elektromodellen', 'Die Lohnkosten', 'sollen', 'auf die', 'Unternehmen', 'britischen', 'schnellen', 'die', 'die', 'PSA-Plattformen ersetzt', 'neuen', 'sollen', ',', 'erreicht', 'Corsa', 'Jahre', 'jedes', 'eine eigene', 'untersagt', 'nun', 'Opel', 'in', 'dpa/nd']

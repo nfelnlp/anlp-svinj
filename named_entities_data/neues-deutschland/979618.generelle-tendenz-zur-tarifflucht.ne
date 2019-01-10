@@ -1,1 +1,0 @@
-['Marcus Meier', 'ver.di', 'Amazon', 'ver.di', 'zum', 'Sie wollen ,', 'als']

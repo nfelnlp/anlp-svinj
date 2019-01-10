@@ -1,1 +1,0 @@
-['Luxemburg', 'EU', 'Europäische Gerichtshof', 'an', 'Widerstands', 'Der', 'entfernt', 'ob', 'damit', 'der', 'Reise-']

@@ -1,1 +1,0 @@
-['schäumt', 'anzuzünden', 'Schatz', 'mehr', 'bis', 'Wasser', 'Kubikmeter', 'in', 'gefrorenen', 'die', 'Taiwan', 'Im', 'Meer', '165.000', 'wieder', 'und', 'auf', 'Weise verschwunden', 'Schwarm', ', in', '`` Ozean', "'' rät", 'Gefahr von', 'So', '.', 'Geowissenschaftler', 'Sir', 'ihre', 'Bedeutung erkannt wurde']

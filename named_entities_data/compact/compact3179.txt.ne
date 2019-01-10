@@ -1,1 +1,0 @@
-['Grey', 'Grey', '. Die', 'dicker ,', 'heruntergeschriebener', 'den', 'Feinschmecker', 'Episoden des', 'dort', '.', ',', 'um ihre', 'Lektüre', 'ein „wertloses', '…', 'Klischees', ':', 'ganze', 'retten', '?', 'du', ',', '.', 'in den', '– mit', 'und auch', 'gehorchen', 'gehorchen starken']

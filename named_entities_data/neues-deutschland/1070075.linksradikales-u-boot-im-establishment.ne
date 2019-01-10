@@ -1,1 +1,0 @@
-['Frank Brunner', 'Rast', 'Peter Nowak', 'Oliver Rast', 'Juso', 'Brunner die', 'erschienenen', 'nun nicht', 'radikalisiert', 'wurde schließlich in']

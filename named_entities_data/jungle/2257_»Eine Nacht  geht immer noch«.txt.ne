@@ -1,1 +1,0 @@
-['.', 'steht', 'der', 'eine', '.', 'Problem', 'und', 'aufs nächste', 'Berlin', 'Man', 'Deutschland', 'Ländern', 'vielleicht', 'eine', 'was']

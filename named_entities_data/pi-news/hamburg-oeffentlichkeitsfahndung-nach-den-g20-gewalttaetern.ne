@@ -1,1 +1,0 @@
-['L.S.GABRIEL', 'Polizei', 'Mann', 'wurden', 'in', 'Zahl', 'Beamten', 'unter', 'eingeschlagen', ', dass sein Mandant', 'hat er', 'zum', ',', 'von', 'von 54 Polizeibeamt_innen', 'eröffnet', 'sind keine Kinder']

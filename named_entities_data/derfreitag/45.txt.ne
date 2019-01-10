@@ -1,1 +1,0 @@
-['noch verbrannte', 'Clubs Foto', '.', 'dominierende', 'Bass-Garage-Tradition .', 'mehr', '&', 'der', '.', 'verkündete', 'rückwärtsgewandten', '80er-Synthie-Revival-Sounds', 'sollte', 'dudelt', 'dato', 'erträglichen', 'zu', ', der', 'da', 'gesetzt', 'bestbezahlten', 'können', 'natürlich', ',', 'einen Pop-Appeal']

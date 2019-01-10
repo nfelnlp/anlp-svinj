@@ -1,1 +1,0 @@
-['– hier', 'in', 'und', 'jüngeren Geschichte', 'Maß an', 'den', 'es', 'Gesetzlosigkeit entsteht', 'Kriegsmarine hat', 'Diesen', 'die', 'Handlungen', 'Jahren', 'alle in', 'katastrophaler', 'sich', 'fort', 'dem', 'über', 'gibt', 'bei', 'Krieges', 'nur', ',', 'derartiges', 'derartiges auf', 'derartiges auf uns', 'mit', 'im']

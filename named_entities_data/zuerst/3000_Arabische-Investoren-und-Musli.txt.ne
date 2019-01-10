@@ -1,1 +1,0 @@
-['Sarajevo', 'jugoslawischen', 'Bosnien-Herzegowina übernehmen Muslime', 'das', '. Zumindest einem', 'Serben ,', 'des', 'anstelle', 'aus', 'zu importieren .', '.', 'da', 'auch', 'Medijski', 'Kroaten', 'in', 'den', 'und', 'Kuwait', 'kauften', 'und Häuser und', 'neue', '.', 'Sarajevo', 'ausschießlich', 'aus']

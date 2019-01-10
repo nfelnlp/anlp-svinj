@@ -1,1 +1,0 @@
-['Rom', 'Grillo “', 'für', 'Zeitungen', 'Klasse.', 'verbreiteten', 'der', 'als', 'systematischer', 'durch', 'seiner', 'falsche', '.', '„Il Giornale', ',', 'erinnerten an', 'Verdikten', 'der', 'der Wahl Donald', 'Demagogen und']

@@ -1,1 +1,0 @@
-['an seine', 'Nobly 66', 'Hauses', ',', 'Vater', 'waren', 'er', 'Lieber', '.', 'erlebt', 'damals', 'dem', 'und', 'das', 'Bobpilot .', 'im', 'die', 'ein', 'bekommen', 'im', 'Frühjahr', 'Zwinger', 'wird der', 'Sohn trägt', 'künftigen', 'mit', 'die Buchführung', 'freundlichen', '-']

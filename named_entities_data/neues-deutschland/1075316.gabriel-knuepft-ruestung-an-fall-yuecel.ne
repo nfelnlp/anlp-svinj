@@ -1,1 +1,0 @@
-['. Außenminister', '( SPD', 'trifft', 'in seiner', 'Wie', 'am', ',', 'wie vor', 'Zusammenhang', 'Die', 'Kampf gegen', 'es auch', 'könne', 'in']

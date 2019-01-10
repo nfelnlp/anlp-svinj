@@ -1,1 +1,0 @@
-['USA', 'Deutschland', 'Geschäftemacher', 'Donald Trump', 'Russland', 'Trump', '.', ') Die', 'in', 'eingegriffen', 'sich', 'die', 'seinen', 'nur', 'bejubelt', 'der', ',', 'ohne', 'vor', '„jüngsten', '„jüngsten “', '„jüngsten “ Vergangenheit', '„jüngsten “ Vergangenheit , die', 'auch', 'Gründen', 'auch', 'Brexit', ',', 'französische', 'politischen', ',', 'abermals', 'zu']

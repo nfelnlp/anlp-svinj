@@ -1,1 +1,0 @@
-['Sarrazin im', 'hatte', 'dann', '.', ',', 'und', 'sind', 'entweder', 'der', 'beteiligt', 'haben', 'Einfluss', 'kulturelle', 'Aber selbst', 'nach der', 'etablierten', 'für', '.', 'Denkers sorgte für', 'letzten', '.', '„Die', 'neuen', 'ist über']

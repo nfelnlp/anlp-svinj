@@ -1,1 +1,0 @@
-['Mitternacht', 'Andam X. , einer', 'PI', 'mit', 'ernst . Anstatt', 'zu', 'sollte eigentlich schon', 'darüber', 'der Polizei', 'Nacht ,', '.']

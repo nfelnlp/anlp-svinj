@@ -1,1 +1,0 @@
-['“', 'deutsche', '.', 'Deutschland', 'Begründung', 'einen', 'ist', ',', 'kann', 'einfach', 'sondern', 'jedoch', 'NSDAP .', 'Cohn-Bendit', 'schlichtweg', 'unter dem', 'der', 'Recht', 'sie deshalb', 'des Oktobers']

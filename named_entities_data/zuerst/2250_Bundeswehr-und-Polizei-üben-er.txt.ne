@@ -1,1 +1,0 @@
-['Bundeswehr', 'Polizei', 'Bundeswehr', 'David Sonboly', 'Verteidigungsministerin Ursula', 'Leyen', 'CDU', ', Bayern ,', ',', ',', 'und Schleswig-Holstein .', 'überraschend', 'alle Übungsszenarien mit', 'Terrorszenarien', '„Vorsorge für eine', ',', 'entscheiden', 'unter', 'keine Hilfspolizei.']

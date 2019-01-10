@@ -1,1 +1,0 @@
-['Bundesfinanzminister', 'Schδuble', '.', 'kόmmerten', 'gutgeht .', 'BfA', '.', 'das', 'was ein Mensch', 'nach', 'Nahles', 'man', 'Bundesrepublik', 'sie trauriger (', ')', 'einmal', 'dieses', 'eines', 'nicht', ', sondern zum', 'Studie belegt ,', 'fόr Familien mit', 'unterschiedlich hohe', 'demokratischer und sozialer', 'Als', 'ersten', 'in']

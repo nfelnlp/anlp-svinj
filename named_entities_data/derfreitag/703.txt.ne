@@ -1,1 +1,0 @@
-['bleibt', ', die anders als', 'von']

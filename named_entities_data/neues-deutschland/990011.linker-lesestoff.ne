@@ -1,1 +1,0 @@
-['Wochenende', 'der', 'wurde', 'angereist', 'Grenze', 'mehr', 'so', 'bei']

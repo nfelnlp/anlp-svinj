@@ -1,1 +1,0 @@
-['Büyükavci', 'Peter Nowak', 'lächelt', 'Büyükavci', '.', 'beschuldigt', 'unterstützt zu haben', 'unterstützt zu haben .', 'ich']

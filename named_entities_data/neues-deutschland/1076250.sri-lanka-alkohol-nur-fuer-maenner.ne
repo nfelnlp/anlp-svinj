@@ -1,1 +1,0 @@
-['Sri Lanka', 'Colombo', 'Sri Lanka', 'Sirisena', 'Sri Lanka', 'Sirisena', 'Bars', 'Sri Lanka', 'Sri Lanka', 'Land', 'Sirisena']

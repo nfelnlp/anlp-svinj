@@ -1,1 +1,0 @@
-['Istanbul', 'Jerusalem', 'Hauptstadt', ',', 'in', 'Ostjerusalem', 'Hauptstadt', 'Islamische', 'Und', 'Sondergipfel', 'Auftakt', 'Staates', 'Kritik', 'in', 'Präsident', 'Verlauf des', 'die USA', 'brauchen', 'internationale', 'forderte', 'für die', 'zu', 'Anders', 'der Region', '. Trump', 'an', 'eine', 'in', 'USA']

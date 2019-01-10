@@ -1,1 +1,0 @@
-['Schulen', 'Universitäten sind', ', was', 'Interviews', 'Maurers besondere', 'für diese', 'kann und', 'jedoch nicht verhüllen', 'frühen', 'frühen sechziger', 'Ironie', 'sozialen Abbau', ',', 'Arbeiterkinder', 'dieser', 'tut', 'seines', 'des', 'als', 'finanziellkaum über', 'Problem', 'Klasse', 'der Arbeiterschicht', 'Mit', 'einfangen', 'wird', 'die Befürworter']

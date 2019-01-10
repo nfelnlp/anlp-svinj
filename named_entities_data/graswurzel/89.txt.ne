@@ -1,1 +1,0 @@
-['Der Herausgeber', 'Idee der', 'verträumten Dichter', 'Es fehle', 'analytische', 'In dieser', 'Helge', 'der Lüge', 'Rechts zu', 'werden', 'revolutionäre', 'nicht', 'schreibt in', 'Birgit', 'Juden', 'im ausgehenden', 'ihre', 'in Großbritannien', 'Staat', 'arbeitet die', 'der Begriffe', 'gilt', 'Bakunins Staatskritik', 'wird']

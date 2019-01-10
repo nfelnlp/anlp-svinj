@@ -1,1 +1,0 @@
-['wurden', 'der', ':', '“ darstellt', 'des', 'Terror', 'höchst', 'konsequente', 'erichtete', 'Mensch “', ', seine Anweisungen', ', seine Anweisungen aus', 'und', ',', 'Anwalt begleitete', 'zwangsläufig zu der', 'gibt', 'schon des', 'meiner', 'ein', 'Formulierung „harmloses', 'so', 'alleinige', '„links', 'eingestellten', 'denen', 'Youtube', 'Kontakt', 'Journalist']

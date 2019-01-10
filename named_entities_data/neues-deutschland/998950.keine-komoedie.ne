@@ -1,1 +1,0 @@
-['Meyer', 'Jörg Meyer', 'Wolkenkuckucksheim', 'IT-Dienstleister', 'Eckensteher']

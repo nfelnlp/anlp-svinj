@@ -1,1 +1,0 @@
-['Madrid/Barcelona', 'Turbulente', '–', 'Spanien', 'er', 'wegen', 'Asyl', 'will', 'diese Möglichkeit', 'politisch', ',', 'flämischen', 'VTM News', 'wolle kein', 'beantragen', 'Die', 'zeuge „von', 'in', 'Spanische', 'Worten', 'man', 'angeklagte', 'Mundo', '23.', '22,6', 'halten']

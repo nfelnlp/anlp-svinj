@@ -1,1 +1,0 @@
-['Haag', 'Europol', 'Rob', 'der „Neuen', 'war', 'Anstieg', 'Terrormiliz', 'Staat', '(', 'die', 'Manchester', '.', 'London', 'die', 'Anruf', 'zudem', 'wurden teils schwer', '.']

@@ -1,1 +1,0 @@
-['friedlich', '.', 'aber', 'zu', 'Öffentlichkeit', 'den', '\x96', 'die', 'Es kommt', 'ähneln jenen', 'ähneln jenen von', ',', 'ihre', 'abbrechen']

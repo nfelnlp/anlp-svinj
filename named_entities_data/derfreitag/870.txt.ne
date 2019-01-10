@@ -1,1 +1,0 @@
-['Cumhuriyet', 'Was', 'der', 'schlimm', 'Zeit auf die', 'die Voraussetzung des', 'nicht', 'EU', 'kann', 'könnten', 'Weil', 'genauso', 'Die Türkei war', 'Modell', 'islamischen', 'werden', 'werden', 'Asyl beantragen', 'werden', 'werden', 'sich', 'Vorstellung', 'Sie', 'aus', 'Das', 'könnte', 'gegen']

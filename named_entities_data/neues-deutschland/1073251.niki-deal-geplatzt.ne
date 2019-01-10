@@ -1,1 +1,0 @@
-['am', 'am Main . Der Lufthansa-Konzern', 'sein', 'für', 'Als Grund gab', 'am', 'Oktober', 'Kaufpreis von', 'Millionen', 'verwendet werden', '.', 'Dienstag mitgeteilt', 'Dienstag mitgeteilt ,', 'zuverlässige', 'Interesse an', 'auch', 'IAG']

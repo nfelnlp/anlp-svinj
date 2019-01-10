@@ -1,1 +1,0 @@
-['ein', 'geben', 'kaum', 'gibt', 'von', 'der', 'bevor', 'Leiterin', 'Ob Kinder', 'Momentaufnahme', 'inn', 'für Kinder-', 'und Psychotherapie', 'Professor', 'Psychosomatik und', 'Kinder-', 'an', 'Geschlechtsrollen ausgerichtete', 'komplett', 'hätten', '»', 'die', 'zwei Müttern', 'zwei']

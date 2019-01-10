@@ -1,1 +1,0 @@
-['Basketball-EM', 'besiegt Bild', 'so', 'wie', 'wie', 'sie', 'hinter', '.', 'Halle und', 'immer aufs Schneeschippen', 'betreiben', 'Sportarten gleichzeitig', 'linker Arm', '.', 'so', 'war ,', 'so', 'gar', 'in', 'Das', 'dann', 'für', 'über sportives']

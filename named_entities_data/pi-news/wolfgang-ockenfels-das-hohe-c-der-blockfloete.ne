@@ -1,1 +1,0 @@
-['und', 'und', '– nach einem fundamentum', 'wie', 'absolute Heilssicherheit', 'Es', 'einer komplexen', ', sondern der', 'auf', 'auf ,', 'ein', 'Demokratie', 'durch', 'ist', 'zu', 'verdient , weil', 'muß', 'Weihnachtsfeiern', 'den', 'was', ',', 'Teilen', 'man bei', 'hören', 'Editorial', 'Magazins „Die', 'Prof.']

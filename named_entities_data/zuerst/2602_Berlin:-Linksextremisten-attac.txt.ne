@@ -1,1 +1,0 @@
-['Gesellschaft 5', 'Gesellschaft 5 Berlin', 'Linksextremisten', '„Wir', 'Kreuzberg', 'Steinen']

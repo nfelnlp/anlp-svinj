@@ -1,1 +1,0 @@
-['Houellebecq', 'einen', 'Verlierer', 'Faschismus', 'Rede', 'und Sexualisierung der', 'sie', 'schönen Menschen', "Fehler '' schon", 'der', 'makellose', 'ihrer Sprößlinge konfrontiert', 'Spirale', 'Spontaneität', 'gebe', 'zufriedensten', 'und zufrieden', 'mit', 'Ergebnisse', 'Miteinander']

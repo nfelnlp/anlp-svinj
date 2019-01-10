@@ -1,1 +1,0 @@
-['.', '. In', 'Prüfer im vergangenen', '(', ', 2016', 'Jahr', 'Kontrolleure etwa']

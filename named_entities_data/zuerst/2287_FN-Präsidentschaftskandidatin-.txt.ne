@@ -1,1 +1,0 @@
-['Brüssel', 'Front National', 'Marine', 'Marine Le', 'Marine Le Pen', 'Frankreich', 'FN-Chefin', '.', 'Gewaltbildern gilt', 'leitete', 'zu den', 'zu den Ereignissen', 'Dienstag', '. Man', 'ihn', 'es', 'es sich', 'für das', 'für das französische', 'Wahl']

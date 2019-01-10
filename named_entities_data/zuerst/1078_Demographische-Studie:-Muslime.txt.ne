@@ -1,1 +1,0 @@
-['Gesellschaft', 'Wien', 'österreichischen', 'Wien', 'Wien', 'Vienna Institute of Demography', 'Österreichischen Akademie der Wissenschaften', '“', 'Goujon ein', 'Integrationsfonds', 'deutlich', 'Glauben , sank', 'Demography benennt Migration als', 'Anteil', 'In', 'im', '2046', 'mü']

@@ -1,1 +1,0 @@
-['Wien', 'gibt', 'Denkfabrik', 'belegt', 'geringqualifiziert', 'Studie', 'Anstellung', 'Kommentar darauf', 'Integration', 'Wirtschaftsturbo']

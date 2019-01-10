@@ -1,1 +1,0 @@
-['Catania', 'unter', 'darauf', '.', '.', 'mehreren', 'eine', 'mit libyschen', 'direkte', 'Tageszeitung', 'Stampa', 'Sonntagsausgabe', 'Libyen', '„Sea', '“', 'Mediterranee', 'Mediterranee “', '“', 'Erkenntnissen', '“']

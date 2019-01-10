@@ -1,1 +1,0 @@
-['albanischen', 'Die', 'einer', 'Bergpass zum', 'kuriosen', 'des', 'in', 'da', 'Tërthorja', 'verschlossenen', 'heißen', ',', 'ist', 'ist sehr', 'ganz', 'nicht', 'Kaffee', '.', 'bis', 'jeden Tag', 'dem', 'Tirana', '«', 'Florian', ',', 'Shkodra', 'Schweinen', 'im', 'Bergpass', 'einen']

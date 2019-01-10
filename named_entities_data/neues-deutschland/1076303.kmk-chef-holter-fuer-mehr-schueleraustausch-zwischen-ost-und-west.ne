@@ -1,1 +1,0 @@
-['. Der', 'KMK', ',', ', plädiert', 'Wir', 'auch', '«', 'sagte', 'LINKE', 'Zeitungen', 'Das könne', 'der', '«', 'Heinz-Peter', 'zeigte sich skeptisch .', 'Marco Tullner', 'solchen', 'zielführend .', ',']

@@ -1,1 +1,0 @@
-[', die', 'das', '.', 'jedoch', 'und', 'und', 'und schon', 'Amazonas', ',', '.', 'Nordafrika', 'G20', 'neuen', 'Beteiligung', 'wieder', 'angesichts', 'Eindruck', 'in Südamerika', 'Krisenerscheinungen', 'solchen', 'arabischen', 'Arbeitslosen', 'zu', '. Schließlich', 'des', 'für', 'Ende ,', 'wie', 'Wie', 'in', 'kennen', 'auch', 'Menschen', 'nehmen']

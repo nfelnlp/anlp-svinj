@@ -1,1 +1,0 @@
-['Frauke', 'jetzt sogar', 'historischen Giftschrank', 'AfD-Parteispitze', 'der', 'am Sonntag', 'Frau', 'zündelt', ')', 'Petry wirbt', '“', 'sieht ein „braunes', '“ hätte', '.', '.', 'Konzepte', 'in', 'machten –', 'für', 'Patriot', ',', 'genau', 'kulturelle', 'getarnt', 'will', 'fordert', 'neu', 'sollen .', 'wäre', 'nur', 'Auch']

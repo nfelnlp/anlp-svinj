@@ -1,1 +1,0 @@
-['Rojava', 'Würden', 'ich', 'sage', '.', ',', 'auf', 'Afrin ist', 'Rest', 'das', 'in', 'auch', 'bei Kobane', 'müsste', 'andere', 'einschreiten', 'die', 'in Nordsyrien', 'in Nordsyrien eine', 'von']

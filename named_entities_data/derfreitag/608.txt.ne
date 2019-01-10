@@ -1,1 +1,0 @@
-['Diane Kruger', 'Kevin Winter/Getty', 'Die', 'in der', 'wollten', 'einem öffentlichen', 'Tarana', 'begründet hat', 'die Rechte', ',', 'Arbeitsbedingungen für', 'gefragt wird', 'immer', 'vor Augen', 'klingen', '. Man', 'bekam', 'Die', ',', 'auftaucht ,', 'es', 'auch']

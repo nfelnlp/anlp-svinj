@@ -1,1 +1,0 @@
-['όberfiel', 'der', '\x84Nazi', 'ins', 'Was', 'einem', 'Leaks\x93', 'bezeichne ,', '.', 'verlinkte er', 'seiner Stellungnahme', 'Verhaltensweise', 'in', 'mit', 'Meinungen einzuschόchtern , auch wenn', 'das', 'fόr', 'Welt', '.', 'Internet', 'und', 'Irgendwo', '. Dazu sendet man', 'manipulierend', 'Meinungen .']

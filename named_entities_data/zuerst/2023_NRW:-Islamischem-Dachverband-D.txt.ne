@@ -1,1 +1,0 @@
-['Düsseldorf', 'Bundesrepublik Deutschland', 'extremistischen Imamen', 'nordrhein-westfälischen Eppingen', 'ein', '20', 'Türkisch-Islamischen', 'Religion', 'V. , bekannt unter', '. Mit just', 'Jugendliche vor einer', 'Islamverband', 'Seelsorger arbeiten ,', 'Schelm']

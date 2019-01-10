@@ -1,1 +1,0 @@
-['( 1872', 'CNT-Aktivisten', 'Andres', '1925 - 2009', '1860', '1860 - 1931', 'in', 'und', 'Besprechung eines', 'gute', 'IWW', 'einen `` definitiven', 'Zusammenschlüsse', "'' und", 'macht im', 'zu Degen', ', dass', 'zusammengehören', 'positive', ',', 'und']

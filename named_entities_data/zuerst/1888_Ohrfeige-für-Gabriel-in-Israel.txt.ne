@@ -1,1 +1,0 @@
-['Tel Aviv', 'Sigmar Gabriel', 'Israel', 'israelische', 'Netanjahu', 'Gabriel', 'festhielt', 'mit', 'Am', 'entweder', 'betrachten', 'versuchte', 'im', 'in', '.', 'solches', '”', 'Dennoch', 'hieß']

@@ -1,1 +1,0 @@
-['als', 'hat', '2011 das', 'die', 'Ihre', 'Debatte', 'ist', 'bisher', 'hat', '.', 'gegründet und', 'Aufgrund der']

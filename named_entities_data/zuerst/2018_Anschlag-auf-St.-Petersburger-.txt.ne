@@ -1,1 +1,0 @@
-['St. Petersburg', 'St. Petersburg .', 'Petersburg', 'der inzwischen 14', 'von', 'das', 'sei', 'Der', 'berichtet', 'ereignete', 'Angaben von Sicherheitskräften', 'Anti-Terror-Behörden']

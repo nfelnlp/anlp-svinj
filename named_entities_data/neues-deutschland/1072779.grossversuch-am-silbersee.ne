@@ -1,1 +1,0 @@
-['.', '. 25', 'Süden Sachsen-Anhalts »', 'anspruchsvollsten ökologischen Projekte', 'sagt', 'der MDSE', 'des im Volksmund', 'knapp 200', 'Fläche', 'UBA', 'entstanden', 'Umweltbundesamt in', 'waren silbern glänzende', '»', 'besonders', 'wurden mit', 'Organische', 'WHO-Grenzwerten .', 'stillgelegt', 'Tausende', 'wurden', 'die']

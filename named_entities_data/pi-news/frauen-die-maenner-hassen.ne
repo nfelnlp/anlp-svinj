@@ -1,1 +1,0 @@
-['Bundesrepublik', 'Victor Hugo', 'Schopenhauer', 'Kafka', 'plattprügeln', '(', 'uns hingegen', '’', '. Das', 'dass', 'Buchstaben', ',', ',', '.', 'Wer', 'selber', 'der', 'Liebe . Er']

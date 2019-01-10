@@ -1,1 +1,0 @@
-['zusammen', 'älteres', 'schlecht', 'sei', 'zu', 'der', 'den', 'wohl', 'die', '.', 'fällt', 'und', 'als', 'willigen', '.']

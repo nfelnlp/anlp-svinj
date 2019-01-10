@@ -1,1 +1,0 @@
-['Syrien', 'Israel', 'Iran', 'René Heilig', 'Syrien', 'Russland', 'USA', 'Türkei', 'Großbritannien', 'Iran', 'Syrien', 'Baschar al Assad', 'Israel', 'Israel', 'Garantie']

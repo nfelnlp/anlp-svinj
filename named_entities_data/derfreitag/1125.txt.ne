@@ -1,1 +1,0 @@
-['Handkurbeln', 'Sie', ',', ': Ja', 'Man', ',', ',', ',', 'gibt', 'haben', 'das', '.', 'durch', 'Strecke', 'Straße', ',', 'entwickelt er']

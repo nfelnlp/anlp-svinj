@@ -1,1 +1,0 @@
-['Leutheusser-Schnarrenberger', 'GPS sowie', 'schon', '.', 'Sie', 'es', 'wie', '.', '. So']

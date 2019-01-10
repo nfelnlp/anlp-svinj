@@ -1,1 +1,0 @@
-['GEMA', 'Berlin', 'Geisler-Fotopress', 'Mikro und', ',', 'der', 'Aber', 'man', 'ziemlich', '.', ':', 'nur', 'kosten', 'immer', 'Leistung', 'Marktschreier-Gestus', 'hat sich', 'Palme', 'in', 'Fraktionen', 'Berliner', 'so', 'Partytourismus', 'eben', 'wir', 'Untergang', 'und', 'Partymetropolen-Image', 'Von', 'für', 'der', 'krankt :', 'Ausschüttungen', 'Die', 'Ignoranz', 'wegen']

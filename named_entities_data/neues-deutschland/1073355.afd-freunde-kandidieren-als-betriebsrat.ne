@@ -1,1 +1,0 @@
-['.', 'Gesinnungswächter', 'Zentrumsliste', 'unter', 'in Rüsselsheim', 'sich', 'warm', 'Unterstützt', 'zentrale']

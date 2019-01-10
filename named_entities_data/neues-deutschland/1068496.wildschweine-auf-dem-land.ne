@@ -1,1 +1,0 @@
-['Frühjahr 2016 noch', '(', 'zur Bejagung der', 'etwa 80', 'den', 'nicht', 'für', 'ungefährlich']

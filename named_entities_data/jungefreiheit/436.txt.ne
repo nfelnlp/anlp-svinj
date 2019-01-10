@@ -1,1 +1,0 @@
-[',', '.', 'Es', 'verpflichtet', 'Die', 'Mittel', 'Geradezu', 'linksextremen', 'gehetzt und', 'Rechts', 'von', 'wichtig', 'Bevölkerung', '. Die', 'den', 'versagt', 'Kategorien', 'dieser', 'moralische']

@@ -1,1 +1,0 @@
-['am', 'wo', 'Beginn', 'Vorverkauf', 'Die', 'gab', 'und Propaganda', 'seinem Editorial', '22-jähriger', 'Beleidigungen', 'dass Menschen', 'kamen ! –', 'los .', '– das', 'dominiert tagelang die', 'kein', ')', 'viele', 'rechtsradikalen', 'wurde', 'gelöst', 'im gewohnten', 'ihre', 'Asylpolitik', 'der', 'Skipetaren', 'dem', '.']

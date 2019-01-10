@@ -1,1 +1,0 @@
-['Warschau/Küstrin', 'Auch', 'es', '.', 'polnische', 'warnte', 'einer erhöhten', 'Minister', 'Minister .', 'der', 'eine', ')', 'wirklich', 'polnischem', 'Screenshot', 'Interview gesagt', 'Die deutsche Grenzstadt', 'Risiko']

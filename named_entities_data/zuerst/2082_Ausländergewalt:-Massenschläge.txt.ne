@@ -1,1 +1,0 @@
-['Gesellschaft', 'In', 'In Köln', 'das', 'zwei', 'es', 'zweimal', 'zu', ']', 'wegen', 'zu', '40 bis', '6', 'http', ']', ']']

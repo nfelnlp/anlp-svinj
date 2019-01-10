@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'vermintes', 'Jetzt', 'Meinungswächter', 'Er', 'Begriff', 'Bundesamts', 'nicht', 'an', 'der Austria', ', diese', 'Menschen', 'etwa', 'Auch', 'Vizebürgermeisterin Maria']

@@ -1,1 +1,0 @@
-['Images Überschüsse', 'Begehrlichkeiten', 'schon im', 'kann sich', '.', 'man', 'schon in']

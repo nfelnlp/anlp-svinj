@@ -1,1 +1,0 @@
-['Ankara', '„Flüchtlinge', 'Waffe', 'war', 'jetzt', ': „Wenn', 'gilt ,', 'keine', 'der', ',', 'Gezi-Protesten', 'Korruptionsermittlungen', 'alle', 'Gegenzug', 'Unterstützung bei', '„Flüchtlinge “', 'syrischen', 'die', '„Flüchtlings']

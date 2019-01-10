@@ -1,1 +1,0 @@
-['“ ,', 'und', ',', 'Fehrs .', 'im', 'in', 'Predigt', 'man', '( Schritt', ')', 'möblierte', 'Afghanistan', 'sie', 'mal', '. Eines', 'sollen', 'auch', 'wir', 'Schritt 4']

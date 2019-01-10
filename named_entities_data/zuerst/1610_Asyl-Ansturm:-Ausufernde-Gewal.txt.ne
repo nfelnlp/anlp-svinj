@@ -1,1 +1,0 @@
-['Kreis', ') angezündet', 'der', 'in', 'bei', 'seinen', 'die', 'Eisenstangen', 'und', 'aber']

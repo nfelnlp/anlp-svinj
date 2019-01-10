@@ -1,1 +1,0 @@
-['Stockholm', 'SVT', 'Polizei', '(', 'offiziell', 'einem', '„Schweden ist', 'Terrortat', 'sagten', 'Einzeltat ist']

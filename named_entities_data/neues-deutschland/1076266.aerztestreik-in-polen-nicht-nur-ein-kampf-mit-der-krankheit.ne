@@ -1,1 +1,0 @@
-['Wojciech Osinski', 'Warschau', 'Polen', 'Ressortchef Konstanty Radziwill', 'Dauerbeschuss', 'es']

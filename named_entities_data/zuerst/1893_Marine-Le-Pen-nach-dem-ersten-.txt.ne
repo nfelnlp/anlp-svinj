@@ -1,1 +1,0 @@
-['Nach', ', Marine', 'Pen', 'Pen ,', 'Pen , von', 'Hochburg', 'Front National ,', 'Parteichefin am', 'in', 'das', ',', 'und', 'Schutz', '.', 'schaffte', 'Jean-Marie']

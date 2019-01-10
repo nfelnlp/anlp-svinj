@@ -1,1 +1,0 @@
-['Teil', 'der', 'Meeresbodennähe', 'sei', 'zum', 'dem', 'als', 'einem', 'Außenhandels per', 'der Gemeinsamen']

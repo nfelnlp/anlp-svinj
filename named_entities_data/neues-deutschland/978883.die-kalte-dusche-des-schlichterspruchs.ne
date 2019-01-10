@@ -1,1 +1,0 @@
-['Vereinigung', 'Da', 'und', 'Hauptamtliche', 'voll zu', 'lässt', 'bleibt', '.', 'Ihr', 'solidarische', 'mit', 'Ergebnis', 'so', 'Streik sei', '« .', 'hohe', '.', 'war', 'tolle', 'und', 'Schlichterspruchs.', 'seien der Ansicht']

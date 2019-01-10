@@ -1,1 +1,0 @@
-['Gesellschaft', 'Pretoria', 'Südafrika', 'unglaublicher Gewaltexzesse', 'Schwarze', 'ANC-Regierungspartei', 'Praktisch', 'Menschen', 'und', 'von', 'abgestimmte Maßnahmen', 'mitorganisierte ,', 'in', 'seien', 'andere', 'gegen', 'zunehmende', 'demonstriert']

@@ -1,1 +1,0 @@
-['Karlsruhe', 'Dienstagvormittag', 'Karlsruhe', 'NPD-Verbotsantrag', 'Auffassung', 'Ziele', '. „Damit scheitert', 'der', 'des', 'nicht', 'die', 'Deutschlands (', 'die Beseitigung', 'bestehenden', 'die', 'Verfassungswidrigkeit', '.']

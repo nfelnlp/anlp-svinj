@@ -1,1 +1,0 @@
-['Pegida', 'unerträglicher', 'unerträglicher Spießrutenlauf', 'die', 'raus', 'Als', 'los', 'den', 'alle', '„Volksverräter', '“', 'vorne', 'vorstellen', 'von', 'paar', 'Veranstaltungsteilnehmer', 'dass', 'Es', 'an', 'Wir', 'Polizisten', 'ganzen', 'von', 'einen', 'mal', 'jüngeren', 'Mit', 'klären']

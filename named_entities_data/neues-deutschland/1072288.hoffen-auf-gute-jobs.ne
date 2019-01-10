@@ -1,1 +1,0 @@
-['in eine', ', am', 'MyPegasus', 'die', 'selbst', 'Solarworld', 'gewechselt', 'vielen', 'keine', 'Die', '.', 'Werner (', 'der Arbeitsministerin', 'hat', 'zeigt', ',', 'guter', 'die', '. Mancher']

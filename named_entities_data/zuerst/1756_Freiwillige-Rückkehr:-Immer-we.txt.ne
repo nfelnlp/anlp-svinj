@@ -1,1 +1,0 @@
-['Berlin', 'aus', 'ihr', 'ihr', 'Serbien', 'Irak', 'Kosovo', 'Mazedonien', 'Afghanistan', 'Die', 'Afghanen', 'Jahr', '( IOM )', ',']

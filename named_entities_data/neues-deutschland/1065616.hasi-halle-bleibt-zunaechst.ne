@@ -1,1 +1,0 @@
-['Sachsen-Anhalt', 'Ankauf des Hauses', 'paar', '. Sie vermutet', 'ablehnende', 'gegen', ',', 'sich', 'dem', 'solidarisiert', 'es', 'gibt', 'für Schulungen']

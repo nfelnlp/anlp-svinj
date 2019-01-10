@@ -1,1 +1,0 @@
-['.', '. Kurz', 'die', 'Berlin', 'Verweis', 'Suisse sowie des', 'für', 'die', 'aus', 'Indien', ',', 'es', 'Prozents', 'deutschen', 'das', 'Weltwirtschaftsforum', 'Konzernen']

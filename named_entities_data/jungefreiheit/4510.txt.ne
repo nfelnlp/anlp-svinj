@@ -1,1 +1,0 @@
-['Deutschland', 'Paul Spiegel', 'Meisner', '``', 'noch', 'mitsamt der', 'hat', 'nach', 'bringen', 'Krisis', 'wird', 'Kinder', 'dann', 'die', 'Menschen', 'später', '.', 'als', 'sahen', 'der', 'eine', 'Händen', 'wo', 'Welt vom 16. bis', 'Worte', 'Mächtige', 'sind', 'in einer', 'Mathematik', 'der neugeborenen', 'Luftfahrtgesellschaft', 'Oktober 1978', ',', 'ich', 'Positive']

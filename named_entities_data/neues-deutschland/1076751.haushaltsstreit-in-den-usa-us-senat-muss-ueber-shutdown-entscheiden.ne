@@ -1,1 +1,0 @@
-['Paul Ryan', 'Washington', 'USA', 'Republikaner', 'Obamacare', 'Donald J. Trump Eine', 'gekommen', 'wurde', 'zuletzt', 'Präsident Donald Trump hatte', 'zuletzt mehrfach', '.', 'werden diese', 'geändert', 'Im', 'geben', ',', '. Auch', 'Millionen', 'Robert', 'Shutdowns', '. Social-', 'die Post', 'dass', '» Obamacare', 'wurden']

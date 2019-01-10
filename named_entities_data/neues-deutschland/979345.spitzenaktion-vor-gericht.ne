@@ -1,1 +1,0 @@
-['Todesopfer', 'die', 'In', 'und einer', 'Antifa', 'ihres', 'Geschichte', 'Langer', 'Euro', 'Langers', 'Provokation «', '-', 'den', '»', 'einen', '»', 'Verfahren ist Paragraf', 'klassischer Gummiparagraf', '140', ',', 'Quellen', 'weit', 'die', 'aufgeheizten', '« eingestuft .', 'und']

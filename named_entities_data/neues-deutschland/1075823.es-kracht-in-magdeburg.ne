@@ -1,1 +1,0 @@
-['Claudia Dalbert Magdeburg', 'beschreiben , wie', '. In mehreren', 'Dienstag , sie', 'Ministerin ,', 'nicht', 'mehr', 'Bauernverband', ',', 'festgehalten', 'Punkte', 'Rainer', 'an die', ',', 'die Verbände müssten', 'um', 'Artenschutz', 'Gespräch', 'Anfang', 'wandten', 'zahlreiche', 'in', 'falsche']

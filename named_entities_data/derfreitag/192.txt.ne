@@ -1,1 +1,0 @@
-['...', 'M', 'Souveränitätseffekt', 'die', 'Joachim', 'besuchte , sagte', ':', 'besser', 'geboren', 'keiner', 'Ticket', 'auch', 'alle', 'als', 'gibt', 'demokratischen', 'ins', 'deshalb', 'der', 'früher', 'Unterdrückung']

@@ -1,1 +1,0 @@
-['Wealth “ vermeldet', 'ausgewandert sind', ',', 'binnen Kurzem', ',', 'Kanada', 'Über', 'Ansicht', 'mit zunehmenden Spannungen', 'Niederlanden', ',', 'und', 'erwarten', 'Fachleute', ')']

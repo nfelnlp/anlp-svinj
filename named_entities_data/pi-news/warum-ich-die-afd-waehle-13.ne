@@ -1,1 +1,0 @@
-['. Als', 'anschloss', ',', 'heute', 'Unverständnis', 'massiven', ',', 'die', 'um über', 'vermummte', 'den', '.', 'mit', 'und', 'kapieren', 'dass', 'Land', 'und', 'denn', 'Einigkeit .']

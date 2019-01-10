@@ -1,1 +1,0 @@
-['Gesellschaft', 'Bozen', 'Südtirol', 'Bozen', 'in', 'einquartiert', 'erreicht', 'zitierten', 'Caramaschi mit', 'Sicherheitsmitarbeiter', 'Straße', 'höhere', 'pochte unterdessen', 'Wien', 'einem', 'seinem', 'in Italien', 'nicht']

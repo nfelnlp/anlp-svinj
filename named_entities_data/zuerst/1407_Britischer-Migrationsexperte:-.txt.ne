@@ -1,1 +1,0 @@
-['London', 'dichtzumachen', 'Außenminister', 'Kurz (', ')', 'Paul Collier in', 'für', '.', 'legale', 'Europa', 'geben', '.', 'Staaten', 'bereits', 'sowohl', 'Orte', ',', 'Investitionen']

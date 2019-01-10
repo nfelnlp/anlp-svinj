@@ -1,1 +1,0 @@
-['L.S.GABRIEL', '– nichts', 'Nun', 'einen syrischen Gast', 'da', 'einer', 'durch', 'schon', 'der', 'in', 'Präventivhaft', 'Einige', 'erzählt', 'Wunsch', 'war', 'geregelt', 'seiner Wege', 'gesendet habe .', 'eine', 'ist', 'wolle', 'nach', 'Kenntnis', '“', 'Bundespolizei', 'noch', 'es', '.', 'ist nicht bekannt', 'ausgeschrieben', 'ja', 'Wort', ', schweren LKW']

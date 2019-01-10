@@ -1,1 +1,0 @@
-['Maribor/Marburg', 'der Drau . Die', 'zu', 'gemeldet .', 'darauf', 'die', 'ernste', 'verhindert', 'Bürger', 'sich', 'Sommer']

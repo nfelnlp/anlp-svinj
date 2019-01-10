@@ -1,1 +1,0 @@
-['Kreuzberg', 'Getty', 'sind das', 'Zeiten', 'wo', 'Tage', 'Straße abgesperrt .', 'und', '–', 'fliehen', 'Krieg', 'Gewalt', 'für', 'teilnahmslosen', '.', 'sich', 'ist']

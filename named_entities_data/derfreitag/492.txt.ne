@@ -1,1 +1,0 @@
-['/ AFP', 'Getty', 'Steht', ', Songtext', "Cäsar '' Gläser", 'Gegenstand und', 'und', 'Kühne knüpft', 'Modell des', 'Wohlstand der Nationen', '.', 'Stelle', 'den Mund gelegt', 'Schneid', 'des', '.', 'hier', 'kritischer', 'wieder genug']

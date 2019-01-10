@@ -1,1 +1,0 @@
-['SELBERDENKER', 'Zwecke', 'man', ',', 'ARD-Panorama', 'ARD-Panorama (', 'zu', ',', 'als', 'aktuelles', 'breitschultriger', 'grünen', 'mit', 'Ganz', 'sehen', 'undefinierbares', 'will', 'penetrantere', '!']

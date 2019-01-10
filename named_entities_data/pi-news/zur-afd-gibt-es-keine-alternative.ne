@@ -1,1 +1,0 @@
-['Deutschland', 'Merkel', 'Deutschland', 'Merkel', 'Merkel', 'FDP', 'Argumentationshilfe', 'und', 'kann', 'würde', 'nützen', 'wählen', 'Merkel auf', 'Lindner zur', 'nachdem', 'macht ,', 'Mühe', 'haben', 'müssen', 'Merkel', '“', 'bei', 'ist', 'Erfahrung', ',', 'noch', 'wollen', 'Abschließend', 'besonderem', 'mal', 'weh tun', 'sie am meisten', 'machen', 'sehr', 'der']

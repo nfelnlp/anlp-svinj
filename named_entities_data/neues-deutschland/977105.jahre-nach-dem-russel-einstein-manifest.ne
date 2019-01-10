@@ -1,1 +1,0 @@
-['. Anlässlich', 'Massenvernichtungswaffen', 'kritische', 'der', 'formuliert haben', 'Dieses beginnt', 'und der', 'Gottstein über', 'wird eine']

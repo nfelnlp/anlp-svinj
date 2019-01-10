@@ -1,1 +1,0 @@
-['Ein', 'so', 'nördlich', 'das', 'und dem', 'Stuttgart', 'ließ', 'Beginn', 'Zeit', 'pro', 'innere', ',', '“ auch', 'unbedingt', 'Spitzenreiter', 'und', 'ebenfalls', 'von', 'fasse „das', 'die', 'mit', 'Millionen', 'davon', '„Mit', 'eine', '“', 'geholfen', 'schwarzen', ', so', 'Das', 'erkennbar', ',', 'bei']

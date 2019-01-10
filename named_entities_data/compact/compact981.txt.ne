@@ -1,1 +1,0 @@
-['Duisburger Polizei', '.', 'stur , wollen', 'dieser', 'sich', 'trotz', 'Durchgreifen', 'Video ist mittlerweile', 'nicht', 'nach', 'Autofahrer', 'des', 'der', '!', 'den', 'sehen', '250', 'merken', 'Gesetz nicht', 'das', 'dem Zugabteil', 'is what', 'Nein', 'ist', 'es nämlich', 'kann', 'so', 'gegen', 'hier', 'den', 'für', 'Mann', 'gab', 'Gesellschaft', 'Londoner']

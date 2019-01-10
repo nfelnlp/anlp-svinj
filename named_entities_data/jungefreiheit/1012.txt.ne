@@ -1,1 +1,0 @@
-['Gefahrenminimierung aussieht', ',', 'und', 'Zusammenwirken', 'muß', ':', '50.000', 'muß', 'Ortskenntnis', 'wie', 'massiven', 'Den Kampfwert', 'Überzeugung', 'ein fanatischer', 'Kämpfer', 'Nationale', 'und', 'Fronten .', 'von', 'die', 'für', 'Vögtle', 'Vögtle', 'den', 'Gegner', 'und', 'Partisanenkrieg', 'ohnmächtig', 'Vögtle', 'zwar ohnmächtig ,', 'Kosovo']

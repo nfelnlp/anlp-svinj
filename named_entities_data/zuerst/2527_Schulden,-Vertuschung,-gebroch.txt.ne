@@ -1,1 +1,0 @@
-['Washington', 'Internationale Währungsfonds', 'IWF', 'EU-Regeln', 'einem', 'veröffentlichten', '.', 'bereits', '.', '.', 'ist', '.', 'gibt']

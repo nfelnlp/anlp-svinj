@@ -1,1 +1,0 @@
-['Lena Seiferlin', '„Bento “ ,', 'Deutsche', '.', 'dem', 'Noch eine', ':', 'oder', 'durchgegenderte', 'lassen', 'das', 'insbesondere', 'zum', 'absehbare', 'der', ':', 'Deine Ansprechpartner', 'innerhalb', 'bei', 'schwafelst', 'verzichten', 'hast', 'die', 'Afrika', 'so', 'leicht']

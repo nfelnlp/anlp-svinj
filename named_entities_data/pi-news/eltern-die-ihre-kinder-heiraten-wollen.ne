@@ -1,1 +1,0 @@
-['soziale', 'dass', 'durch', 'der mit', 'Heirat', 'Allen und', 'in diesen', 'anderen', 'ist', 'erlaubt', '.', 'Fälle', '“']

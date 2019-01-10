@@ -1,1 +1,0 @@
-['so', '.', 'mit', 'diesem Jahr', 'Mythos', 'man', 'auf', '.', 'statt', 'Apparatschik aus', 'Orange', 'Mann', 'Grenzen', 'seine', 'als', 'Nichts', 'der wie', 'er gewählt', '.', 'stehen', 'angesichts', 'Aussichten']

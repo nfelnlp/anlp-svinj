@@ -1,1 +1,0 @@
-['Angela', 'in ihrer', 'Bedenken', 'die', 'suchte', 'der', 'der Digitalisierung', 'zusammen', 'Frage', 'vor allem', ',', 'Oder', 'sofort', '.', 'Buddhisten', 'den', ',', 'Shakespeare', 'Petrarca oder', 'Denn', 'diese', 'sind', '’', 'der', 'beziehen', 'Köln', 'nach', 'nach', 'Berlin', 'Rede', 'Rechtfertigung', 'das', '‚unsere', 'Bayreuth-Besuche', 'dort']

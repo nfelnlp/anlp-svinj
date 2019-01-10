@@ -1,1 +1,0 @@
-['Deutsch', 'Familienministerin Manuela Schwesig', 'SPD', 'Untertitel', 'gruppenbezogener Menschenfeindlichkeit', 'vielfältiges', 'SPD', 'wir', 'linke', 'BMFSFJ', '.', 'gleich', '.', 'Geld', ':', 'Programme', 'können', 'Die', 'sie', 'das', '. Schließlich', 'anpassen', 'anpassen ,', 'Volk']

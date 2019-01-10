@@ -1,1 +1,0 @@
-['Gesellschaft 3 Berlin', 'Schwesig (', ')', 'Werbung', 'Initiative', 'Stevie', ', ist', 'kontrollieren', 'von', '“', 'Geschäftsführerin', 'wo Frauen']

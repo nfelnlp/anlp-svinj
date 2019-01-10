@@ -1,1 +1,0 @@
-['Deutschland', 'Union Coop', 'Kollektivbetrieben', 'Deutschland', 'Marseille', 'Unilever Konzern', 'Deutschland', 'Union Coop', 'Hansi Oostinga', 'Union Coop', 'auf', 'stattfand', 'coop will', 'und', 'angeboten', 'hofft', 'auch', ',', 'eine', 'Hat']

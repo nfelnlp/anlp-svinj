@@ -1,1 +1,0 @@
-['Rom', '.', 'Küstenwache', 'EU-Grenzschutzbehörde', 'von', 'ist', 'ihrer', 'Schleppern', 'einen', 'Machthabers', 'mü )']

@@ -1,1 +1,0 @@
-['Nun', 'deren', 'Bemerkenswert', 'es', 'Übergriff', 'eine', 'für', '»', ',', 'es', 'ist', '. Deutschlands', 'Betrieb', 'Das', '›Mieten rauf ,', 'werde', 'Offene', 'am', '.', 'Jahren wieder', 'Prozent']

@@ -1,1 +1,0 @@
-['Stache/AFP/Getty', 'In', 'Teilen der', 'bereits', 'eine', 'gut']

@@ -1,1 +1,0 @@
-['machen krank', ', dessen', 'in', 'Attacken', 'der', 'in', 'dem', '»', '« .', 'rechten', 'rechten Vorfälle', 'Doch', 'habe er', 'Nach', 'seine', '. Die', 'einem']

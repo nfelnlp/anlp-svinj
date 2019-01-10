@@ -1,1 +1,0 @@
-['nach', 'Arbeitszeitverkürzungen', '. Die', 'Gute', 'Die', 'dass', 'der', 'die mittlerweile', 'der', 'und', 'Bemessungsgrenze', 'prekäre', 'vor', 'NGG )', 'mit', 'und']

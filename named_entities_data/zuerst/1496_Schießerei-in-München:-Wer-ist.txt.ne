@@ -1,1 +1,0 @@
-['Gesellschaft 6 München', 'Münchener', 'den', 'Er', 'sich', 'aufgehalten', 'Zeugen', 'war', 'Offizielle Verlautbarungen', 'und']

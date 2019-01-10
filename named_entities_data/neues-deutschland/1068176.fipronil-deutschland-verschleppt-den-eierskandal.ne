@@ -1,1 +1,0 @@
-['.', '. Deutschland', 'die', 'die', 'eine', 'und Zahlen', 'stark', 'keine', 'ihre', 'an', 'der Kommission', 'Fipronil-Skandal']

@@ -1,1 +1,0 @@
-['doch', 'seit', 'erläuterte der', 'SPD )', 'Arbeitsweise', '»', 'werden', 'diese', 'koste', 'koste', 'wiederholen', 'der Bremer', 'und Sozialplanung', 'bei', 'mittlerweile', 'für', 'viel']

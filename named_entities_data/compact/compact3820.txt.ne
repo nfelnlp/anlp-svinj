@@ -1,1 +1,0 @@
-['Ibsen', 'Andreas Rieger', 'Fassung', 'inszeniert .', 'das', 'seinem', ',', 'nicht nur einen', ', radikale', 'der', 'tut', 'weiter', 'Verhältnisse', 'des', 'Parlamentarier', 'Ideologien', 'Praktiker der', 'der', 'verdrängen verschanzte', 'unnütze', 'von']

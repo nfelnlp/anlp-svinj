@@ -1,1 +1,0 @@
-['sowie', 'bereits', '( CDU )', 'im', 'Berlin-Südkreuz', 'Im', 'Deutsche', 'zu', 'Fernverkehr', 'des']

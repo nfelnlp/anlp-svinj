@@ -1,1 +1,0 @@
-['Barcelona', 'Spanien', 'Madrider', 'Spanien', 'Barcelona', 'Sáenz de', '.', 'kritisierte sie', 'wenige', 'eine', 'politische', 'bindendes']

@@ -1,1 +1,0 @@
-['Berlin', 'Berlin', 'wegen', 'worden', 'worden .', 'im', 'Ermittlungsgrenze', 'mit dem', '„Es ist', 'erhebliches', ',', 'ist', 'Sie', '. Aber']

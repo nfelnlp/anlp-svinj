@@ -1,1 +1,0 @@
-['. Der', 'den', 'eine', 'Branchenzahlen', 'die', 'Kopf im', '»', 'Massentierhaltung']

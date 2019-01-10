@@ -1,1 +1,0 @@
-['Deutschland', 'Anja Krüger', 'EU', 'Manuela Schwesig', 'SPD', 'Deutschland', 'Schwesig', 'gegen', 'als', 'nutzen', 'bekommen', 'sind', 'Wissenschaft (', ')', '.', 'und Vertreter von', '.', 'dass', '. Die Vereinigung', 'gar']

@@ -1,1 +1,0 @@
-['Daimler-Chef', 'und Bundeskanzlerin', 'Foto :', 'AFP/ Getty', 'Deutschland', 'das Land', 'Kanzleramt', 'Co.', 'dort', 'ein', 'heißt im', 'Kanzleramt , Eckart', 'Wobei', 'Klaeden', 'der', 'hat', "''", 'europäischen', 'ja', 'EU dürfe', '„kaputtregulieren', 'Kohl –', 'Merkel', 'sich eben .', 'war', '100.000', 'und', 'wurden', 'der', 'Summen', '.', 'Linksfraktion', 'lässt']

@@ -1,1 +1,0 @@
-['.', '. In', '(', '«', ',', 'und', 'setzen in', 'preisgekrönten Film', 'und']

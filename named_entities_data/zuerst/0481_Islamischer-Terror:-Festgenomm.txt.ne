@@ -1,1 +1,0 @@
-['Schwerin', 'Schwerin', 'Landesinnenminister Lorenz Caffier', 'CDU', 'Deutschland', '.', 'haben', 'de', 'von einem „schweren', '“', 'der', '2017', ',', 'Anzahl']

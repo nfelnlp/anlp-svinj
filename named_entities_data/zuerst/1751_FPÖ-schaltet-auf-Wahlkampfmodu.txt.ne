@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'Freiheitlichen', 'ÖVP', 'SPÖ', 'FPÖ-Generalsekretär', 'Die', 'anschließend', 'werden', 'können', 'den', 'bei seinem', 'Schengener', ',', 'mit', '„Demensprechend', 'setzen']

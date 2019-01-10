@@ -1,1 +1,0 @@
-['COMPACT', 'das II', 'eine', '.', 'So wie das Gesetz jetzt', 'Beratungsinstitutionen', 'gebildet ,', 'der Pflegebedürftigen', 'diese Rücklagen', ',']

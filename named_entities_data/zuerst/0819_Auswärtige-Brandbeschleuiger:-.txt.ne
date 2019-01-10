@@ -1,1 +1,0 @@
-['hartnäckig', '.', 'derzeitigen', 'ähnlichen', 'wie', 'vorderhand', 'die', 'Indonesien', 'Vor', 'aber', 'es', 'und', 'der', 'verbinden', 'Diese', 'Peking den', 'und', 'Meeresstraße', 'Malakka', 'bringt', 'Kyaukphyu', 'die', 'der', 'der Anteile', 'der', 'Reichs']

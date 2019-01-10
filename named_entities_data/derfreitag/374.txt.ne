@@ -1,1 +1,0 @@
-['Bowie', 'Berlin', 'Beatles', 'Jimi Hendrix', 'Marc Bolan', 'David Bowie', 'Hammersmith Odeon', 'London', 'ever', 'es', 'seiner Kunstfigur', 'mit', 'immer', 'haben', 'der größte', '.', 'die', 'jedoch', 'nicht nur', 'die', 'dass mit dem', 'Tagesvisum', ',', 'aus']

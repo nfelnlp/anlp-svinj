@@ -1,1 +1,0 @@
-['Facebook', 'auf', '„Wir', 'einem Test', 'aus einer', '.', 'für', 'das', 'ganz', 'wird', 'Poynter-Code', 'heißt', 'Zusammenarbeit', 'Zusammenarbeit bekannter', '. Correctiv', 'liegt', 'Konflikt', 'Selbst kleine', 'einer Auflage', 'Kappes ,', 'in', ',', '. Nachrichten', 'den', 'Institution', 'lose', 'und', '.']

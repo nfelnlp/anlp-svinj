@@ -1,1 +1,0 @@
-['Moskau', 'Russland', 'Wladimir Putin', 'ukrainischen', 'Kiew', 'ukrainische', 'Zugzwang', 'ukrainischen', 'Assad-Armee', 'Syrien', 'diskreditiert', 'kaum', 'am 7', 'ukrainische', 'fertigen', 'die', 'eine', 'in', 'nehmen', 'unausweichlich']

@@ -1,1 +1,0 @@
-['AFP/ Getty', 'In', 'Grundsatzentscheidung hat', ', dass die', ', dass die sogenannte “', 'der ACLU – American Civil', 'die Förderung der', 'Ihre Arbeit', 'stark', 'in den USA', 'einer', 'der', 'HIV', 'zum', 'beantragt', 'bekommen', 'hier', 'Der', 'der', 'sich', '.']

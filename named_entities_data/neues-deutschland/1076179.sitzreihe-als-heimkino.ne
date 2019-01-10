@@ -1,1 +1,0 @@
-['Der', 'Wer', 'Tasse oder Schüssel', 'Halle in Essen', 'Besitzer', 'bei einer', 'bestätigt .', 'noch etwas mehr', ', die', 'an', 'buntes', 'gibt ja', 'oder', 'Sachen', 'Schokolade', 'Schweizer', 'sitzengeblieben', 'in Lindt-Shops', 'Souvenirs', '.', 'ein']

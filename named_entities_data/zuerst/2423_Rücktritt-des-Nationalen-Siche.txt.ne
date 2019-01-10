@@ -1,1 +1,0 @@
-['Washington/Moskau', 'Der', 'der', '.', 'Flynn ,', 'im Land', 'Signal', 'Ausschusses in', 'laut', 'Ria', 'um', 'um einen', '.', '“', ',', 'Sicherheitsberater wegen', 'etwas', ', „der', 'Rußland', '.', ', zitierte', 'eingereicht ,', 'er Vizepräsident', 'Pence', 'USA geliefert', 'Gesetz', 'mü']

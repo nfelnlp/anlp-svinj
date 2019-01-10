@@ -1,1 +1,0 @@
-['Barcelona', 'Spanien', 'Katalonien', 'Spanien', 'Katalonien', 'Barcelona', '„Ciudadanos', 'Ines Arrimadas', 'im', 'Initiative ,', 'Nationalisten', 'inexistente', 'erheben', ',', 'Großbritannien', 'künftig', ')']

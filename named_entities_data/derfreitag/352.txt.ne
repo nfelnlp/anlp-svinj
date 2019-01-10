@@ -1,1 +1,0 @@
-['Stubnitz', 'eingelaufen', 'Party', 'Um', 'hier ihr', 'ein', 'Verteidigung', 'gekommen war', 'soll', 'Spiele als künstlerische', 'Musik', 'Soundkünstler ,', 'bereiten', 'einen', 'einem', 'wurden es leid', 'immer', '.', 'wusste', '„Ökonomisch eine', 'nicht klar ,', 'bis', ',', 'um', 'Konzerts', 'steuert']

@@ -1,1 +1,0 @@
-['Von', 'Ruf', 'Trier ihren Mitgliedern']

@@ -1,1 +1,0 @@
-['sein', 'Partei', 'möglich', 'Soros mag', 'Friedman usw', 'Dieses', 'der', ',', 'Es', 'sehr', 'Dienlich', 'deutsch-israelische', 'behagen', 'Menge', 'nicht', 'in Deutschland', 'eine', 'sowie', 'Juden', 'sich', 'Was']

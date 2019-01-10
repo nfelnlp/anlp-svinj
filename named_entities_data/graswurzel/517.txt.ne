@@ -1,1 +1,0 @@
-['Ulrich Klemm', 'BDA', 'fordert ,', 'wäre', 'Proklamationen', 'Herstellung', 'worum es', 'gegenüber', 'aus der', 'offenlegt', 'Maßnahmen !', 'Meine Prognose', 'und', 'eine basisdemokratische', 'individueller', 'sei', 'den', '5']

@@ -1,1 +1,0 @@
-['Deutschen Rentenversicherung', 'Hannover', 'SPD', 'Union', 'CDU/CSU', 'allgemein', 'Dabei', 'der', 'Arbeit', 'dass', 'längere', 'Integration', 'Geflüchteter']

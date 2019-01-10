@@ -1,1 +1,0 @@
-['Kiel', 'Schleswig-Holstein von der', ')', 'im', 'gemäß', 'Spenden', 'Unterrichtsministerium', 'im', '2017 dann', 'auch', 'Jahr', 'Deutschland', 'SSW', 'die Befreiung', 'Fünf-Prozent-Hürde', 'Dänemark fließen .', '.', 'spielte']

@@ -1,1 +1,0 @@
-['Gesellschaft 9', 'Gesellschaft 9 Chemnitz', 'und', 'Polizisten', '„', 'drei', 'zu', 'Nach', 'Verdachts']

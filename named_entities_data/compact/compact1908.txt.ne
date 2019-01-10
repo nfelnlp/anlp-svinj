@@ -1,1 +1,0 @@
-['August 2016', '«', '« Aquana', 'der', '.', 'neu', 'auf', 'Hinterhalt', 'diplomatischen', 'verboten', 'Bezug', 'Befürchtet', ',', 'damit', '.', 'wenn', 'den neuen Auflauf', 'Klientel beschwert… Letztlich']

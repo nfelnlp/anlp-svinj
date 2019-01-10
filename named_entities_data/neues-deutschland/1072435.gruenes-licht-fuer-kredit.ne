@@ -1,1 +1,0 @@
-['. Die', 'den', 'Einigung', 'Finanzminister', 'EU-Kommission hatten', 'bereits', 'Die', 'Euro', 'Kapital', 'Jeroen', '. Damit', 'eines ehemaligen', 'Wahl auch', 'Anerkennung', 'Reformanstrengungen', ',', 'der', 'aus', 'Agenturen/nd', '4']

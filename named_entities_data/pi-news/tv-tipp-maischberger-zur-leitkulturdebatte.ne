@@ -1,1 +1,0 @@
-['Thema', 'Islam-', 'dieses Thema zu', 'Töchter', 'einem Gastbeitrag', 'schon', 'soll etwa die', 'muss', 'in', '“', '– und', ', ist', 'Beispiel AfD-Funktionäre', 'ihrer', 'Leitkultur', 'Sawsan Chebli ,', 'die', 'Schariageneigte', '“', 'es sich bei', '“', 'Auch er', 'offenbar im']

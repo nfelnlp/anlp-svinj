@@ -1,1 +1,0 @@
-['Wien', ')', 'bezeichnete', 'derzeit', 'Europa', 'Seit', 'es', ',', '.', '„Flüchtlinge', 'Jahresbeginn', 'erreichten', 'den', '.', ',', 'zu', 'sieht', 'Maßnahme', 'mehr', 'dürfe', 'verbunden', 'nach', 'Kurz', '(']

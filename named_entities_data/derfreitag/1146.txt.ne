@@ -1,1 +1,0 @@
-['Dresdner', 'Ulrich', 'Neustadt', 'Neustadt ,', 'genannt', ',', 'BRN (', 'die', 'berühmten', 'Tisch', 'Tisch', 'Utopie', 'wurde', 'Banken', 'einer', '.', 'für', 'einigen', 'längst', 'Backstein', ',', 'Szene', 'vergangenen 15', 'findet', 'noch', 'die']

@@ -1,1 +1,0 @@
-['Wien', '. In', 'wörtlich', 'ihn', ', seine', 'ansiedeln bzw', 'ansiedeln bzw .', 'der', 'auf', 'daß', 'jährlich', '„agentenähnliche', 'NGOs', 'Soros´', '751 Abgeordneten finden', 'auf', 'Szijjártó', 'linksliberalen', 'gestellt ,']

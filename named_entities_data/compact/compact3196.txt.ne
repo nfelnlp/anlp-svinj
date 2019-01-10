@@ -1,1 +1,0 @@
-['Ates Anlässlich', ',', 'Elsässer einen', 'Soziologin', 'Ates (', ':', 'beleidigt…Seyran', 'Fall', ',', 'dem', 'in COMPACT', 'lesen', '!']

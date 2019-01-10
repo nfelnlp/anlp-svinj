@@ -1,1 +1,0 @@
-['Form', 'inakzeptabel', 'der', 'anderswo', 'Menschen', 'als', 'Stabilisierung', 'jeweiligen', 'beim', 'der', 'Tuns ausblendet', 'eine', 'Motivation die', 'ein', 'Betroffenen', 'Bibel', 'Islam', 'die', 'besteht', 'dynamische', 'diese nai\xadve', 'Selbst die', 'Christenverfolgung']

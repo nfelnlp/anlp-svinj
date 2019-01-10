@@ -1,1 +1,0 @@
-['Gütersloh', 'Facebook-Zensur-Dienstleisters', '€', ')', 'in', 'an', 'die', 'Wohnung', 'strafunmündigen', 'Geflüchteten', '„akzentfreiem', 'werden', '„mehr', 'stolz', 'der', ',', 'für', 'Gütersloh', 'NRWs', 'Nachwuchskräften', 'die', 'die', 'mit']

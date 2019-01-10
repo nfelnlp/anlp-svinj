@@ -1,1 +1,0 @@
-['Thiel/Imago', '. Es', 'sollen noch', 'aufgestiegen .', 'er', ', die', 'Philipp Rösler', 'lautlos durch', 'obwohl', 'Krankenhausmisere', 'die', ',', 'explizit lobte .', 'von', 'bestimmte', 'vergütet', '. Gröhe', 'auch', 'Juni', 'eine japanische', 'Pflegekräfte']

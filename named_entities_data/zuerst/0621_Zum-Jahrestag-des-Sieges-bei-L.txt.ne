@@ -1,1 +1,0 @@
-['Warschau', 'Westliche', '“', 'Uhren', 'Landesgrenzen', 'Deutsch :', 'beteiligt', 'auf', 'und', 'der ungewöhnlichen', 'diverse Medien', 'Weigerung', 'zum', 'der', 'in', 'Bergen', '.', 'diesem', 'mü']

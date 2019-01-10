@@ -1,1 +1,0 @@
-['Gesellschaft 0 Köln/Erftstadt', 'Mitte', '( Name geändert', 'behinderte', 'nicht erkannt', 'gesehen zu haben', '. ( tw']

@@ -1,1 +1,0 @@
-['Washington', 'US-Präsident', 'läßt sich', 'Zwar', 'der', 'dieser Tage', 'Priorität', 'daran', 'Behörden darin', 'mißbräuchlich', 'Mexikaner']

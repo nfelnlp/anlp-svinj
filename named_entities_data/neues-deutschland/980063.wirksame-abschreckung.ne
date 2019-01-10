@@ -1,1 +1,0 @@
-['.', '»', '.', 'blieb es', 'wie die', 'gegen', 'organisierte', 'Proteste', 'Innerhalb', 'dadurch', 'wichtiger', 'dieser', 'Einflussnahme des']

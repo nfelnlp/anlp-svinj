@@ -1,1 +1,0 @@
-[':', 'Die', 'hohe', 'von', 'Land anscheinend', 'Probleme verantwortlich', 'eben', 'Dienstleistung', 'zu', 'vielerorts', 'Dummheit']

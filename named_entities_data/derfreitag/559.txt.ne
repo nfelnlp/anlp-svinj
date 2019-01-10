@@ -1,1 +1,0 @@
-['Europa', 'EU-Recht', 'der', ':', 'Sie', 'glaube ,', 'die Enthüllungen', ', was', 'die seit', 'die', 'Außerdem', 'Vorsitzende', 'by Tobias M. Eckrich', 'EU-Kommission , sie sei', '.', 'hatte', 'gefordert', 'Den', 'ist', 'darüber', 'Urteil', 'Wenn', 'ihre', 'mit', ',', 'Wirkung', 'Ich', 'die', 'macht', '.', 'denke', 'dass', 'Daten in die', 'zu', 'relativ', 'an', 'Es', 'Insofern']

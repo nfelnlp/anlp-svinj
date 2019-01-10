@@ -1,1 +1,0 @@
-['versuchte', 'und war', 'Gast', 'diesmal', 'zu', ':', '.', 'auch', 'im Prinzip', 'anstrebt', 'der', 'Süddeutschen Zeitung', 'für', 'für eine Anerkennung', 'Anfang', 'machen', 'Es', 'lautesten kommt', 'zu', 'essenziell ,', 'einer Stimme', 'nicht auseinanderdividieren']

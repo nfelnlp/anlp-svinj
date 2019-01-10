@@ -1,1 +1,0 @@
-[',', 'Tages', 'nicht', 'noch', 'Philanthropie', 'zu', 'also', 'des', 'kann', 'wenn', 'Menschen', 'postmodernen', 'zu', 'zu', 'sucht', 'Jahrhundert', 'dieser', 'Meinung', 'Initiative', 'Grundlage deutlich', '`` zu', 'Kaiser', 'eine', 'Staat', 'auch', 'wieder', 'Bibel', 'beantwortet']

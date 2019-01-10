@@ -1,1 +1,0 @@
-['des', 'die', '. Wie', 'fokussieren ,']

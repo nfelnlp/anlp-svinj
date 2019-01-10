@@ -1,1 +1,0 @@
-['ARTE', 'französische', 'im', 'wurde', 'Images Atommüll', 'Europas', 'Ich', 'zu kippen', 'nur', 'lange', 'lange Rohre', 'der Doku', 'an', 'erhöhte', ', auch', 'Doku', 'diese', 'mit', 'der', 'nur', 'sondern', 'andere', 'gesehen', 'nicht mehr', 'alle Kosten aufkommen', ':', 'Altmaier', 'auch leben', 'Unterm Strich', 'gutes ,']

@@ -1,1 +1,0 @@
-['nicht', 'oder', 'es', 'natürlich', 'international', 'international herzeigbare', 'Börse', 'Industrie', 'wirtschaftlichen', 'Standort', 'andere', 'verdeckt', 'Sie', ', wer', 'gibt', 'ein', 'Straße', '.', 'wird', 'wird ,', 'wird , Vorschläge', 'wird , Vorschläge zu', 'ist', 'ist vorbei', 'ist vorbei .', 'aufeinander', 'Zukunft', 'es', 'nicht wissen']

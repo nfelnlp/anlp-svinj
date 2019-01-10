@@ -1,1 +1,0 @@
-['Philippe Desmazes/', 'Getty', 'Das', 'lehnt', 'Nur', 'einer Autofahrerin', 'schon', 'auf', '.', 'Australien', 'Blechkiste', ',', '.']

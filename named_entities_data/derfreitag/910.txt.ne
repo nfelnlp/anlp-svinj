@@ -1,1 +1,0 @@
-['Foto', 'Sean Gallup/', 'Die Alternative', 'Deutschland', '.', 'mit einem', 'Eingeständnis nach , er', 'in', 'die', 'Das mag', 'er', 'gegen', '„Lieber Herr', 'LETTRE', 'jedes', 'Unterstützerin', 'Sarrazins', 'wie', 'Buchlänge tat )', ',', 'in', 'der', 'gleich', 'oder', '“', 'Rassismus', 'Funktionärseliten , die der', 'gegenüber', 'früheren', 'zu widersprüchlich', 'um ehrlich']

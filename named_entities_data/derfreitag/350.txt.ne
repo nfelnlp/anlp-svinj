@@ -1,1 +1,0 @@
-['Gilles-Eric Séralini eine Studie', ') . Nun', 'Universität', 'darauf ,', 'Gentechnologie-Industrie', 'wegen übler', 'gewann den', 'Toxicology', 'Ratten', 'zwei Jahre lang', 'führt', 'veröffentlicht', 'die', 'Dieser', 'transgenen', 'ihren', ',']

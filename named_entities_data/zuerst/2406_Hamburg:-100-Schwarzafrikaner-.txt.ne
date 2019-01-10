@@ -1,1 +1,0 @@
-['Gesellschaft', 'Hamburg', 'Hamburg', 'St. Georg', 'St. Georg am', 'riefen', 'gegenüber der Polizei', 'aggressiv', '33jährige', 'aktuell', 'Polizeipräsident', 'den Linken-Bürgerschaftsabgeordneten Martin', 'Polizisten von']

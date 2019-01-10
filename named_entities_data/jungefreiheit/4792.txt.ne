@@ -1,1 +1,0 @@
-['Regional', 'Bundesrepublik Deutschland', 'Berlin', 'Sachsen', 'Sachsen', 'Berlin', 'Baden-Württemberg', 'Hessen sowie ganz', 'Norden', 'leicht über dem', 'das', 'nieder', 'Prozent sind Mitglieder einer', 'Prozent', 'Ausgabe', 'Stunde', 'JF-Leser allemal auf', 'die', 'sie', 'Angebot', ')', 'führte']

@@ -1,1 +1,0 @@
-['Guttenberg Bild :', 'Karmann/dpa', 'eine Figur', 'wenn', 'International', 'abhängiger', 'den', 'aller', 'Betrugsrisiken', 'in Bausch', 'einer', 'den', 'Petitessen', 'jedem neuen']

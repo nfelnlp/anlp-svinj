@@ -1,1 +1,0 @@
-['. Die', 'weiter', 'es', 'mit', 'dagegen', 'dem', 'EU-Kommission', 'Kommission', 'Europäischen', 'Fall', 'man vor', 'Monsanto einknicken']

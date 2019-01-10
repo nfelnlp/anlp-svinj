@@ -1,1 +1,0 @@
-['in den', 'Theoretikerinnen', 'Strategien', 'als', 'sowie durch', 'Mädchen', 'immer', ',', 'im Stadtbild', 'Traditionen', 'Redakteurin der', 'hat', 'Patriotismus', 'seit einigen', 'die', 'und', 'zierenden', ', dass']

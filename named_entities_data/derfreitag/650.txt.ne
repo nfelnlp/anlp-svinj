@@ -1,1 +1,0 @@
-['Grimm/Getty Images', 'liest', '( DGfE', 'den Ernst-Christian-Trapp-Preis ab', 'deutsche Pädagoge', 'deutsche Pädagoge und', 'Jahr', 'sich viele', 'seines', 'an', 'Hentig', 'Sache', '.', 'Vorstand sah', 'zwischen', 'Taten', '.', 'dass', 'Revers', 'alle', 'Becker', 'Hartmut von', 'zu . Hentigs', 'Buch', 'Gewalt', ',', ',']

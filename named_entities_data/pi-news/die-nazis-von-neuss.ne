@@ -1,1 +1,0 @@
-['Reiner Breuer', 'Neuss', 'Breuer', 'Neuss', 'Neuss', 'Hitlerjugend', ', Herr', ',', 'sich', 'dann tritt', ',', 'Huschauer', 'in', ',', 'heute', '“', 'bei', 'den', 'im', 'jene', '„Man', 'Präsidenten', 'mögen', 'lässt und', '‚Nazi', 'anwesend', 'anwesend sind', 'Fraktionschefin der', '38', 'den', 'macht', 'riskiert', '.', ',', 'seiner', '@ stadt.neuss.de']

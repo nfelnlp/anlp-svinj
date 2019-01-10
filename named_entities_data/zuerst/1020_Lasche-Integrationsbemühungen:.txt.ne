@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'der', 'Die', 'afrikanischen', 'nach', '„bestmöglich', 'festgestellt', 'Asylwerbern vorgesehen', 'wohl', 'einen', 'oder']

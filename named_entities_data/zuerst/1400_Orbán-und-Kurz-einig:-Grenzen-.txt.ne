@@ -1,1 +1,0 @@
-['Brüssel', 'ungarische', 'Viktor Orbán', ',', 'beim', 'Vortag', 'Beim', 'es', 'darüber', 'Regierungschefs', ',', 'die', 'in', 'an', 'südlichen', 'mit', 'und', 'eine', ',', ',', 'aufgenommen', '(']

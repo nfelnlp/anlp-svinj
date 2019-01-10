@@ -1,1 +1,0 @@
-['-', 'an', 'Sozialisten', ')', 'bevor', 'Sekretär Ernst', 'erschien sein', 'Teilen', 'eine', 'die', 'Stoff vereinheitlicht', 'Ernst Niekisch', 'Ernst Jünger', 'hat er', '`` Leitbildern', ',', 'auf', '``', 'bestimmte', 'typologisch in', '.', 'Text', 'nach', 'komplexe', ',', 'Deutschland -', '. Ein', 'Völlig überarbeitete', 'erweiterte', '49,90', 'Armin', '`` Weltalternative']

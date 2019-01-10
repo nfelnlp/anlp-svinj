@@ -1,1 +1,0 @@
-['wieder', 'seinen Zuschauern', 'was', '.', 'dass', 'diskriminierend', '“', 'ein', 'zu', 'haben', 'der', 'nur', '„vereinzelt', 'mit Migrationshintergrund', 'Stimme', 'das', '?', 'Schwaben', 'die', 'ersten', 'Beispiele', ',', 'Professorin', 'Dede', 'so etwas', 'treibt jetzt die', 'von', 'greint der', 'der', 'und']

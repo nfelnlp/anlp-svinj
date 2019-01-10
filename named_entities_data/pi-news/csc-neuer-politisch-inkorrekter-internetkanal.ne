@@ -1,1 +1,0 @@
-['Stephan Ring', 'Ludwig von Mises-Institut', 'Selbst', '„Tatort “ laufen', 'muss es', 'des', 'ist', ',', 'von CSC.AG', 'Kanal', 'Menschenverstand', 'verfolgen und hoffen']

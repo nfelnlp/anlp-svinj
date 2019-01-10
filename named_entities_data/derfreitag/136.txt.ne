@@ -1,1 +1,0 @@
-['Von', 'Lesben', 'dass', 'oder', 'schwulen', 'die von', 'man', 'ein', '. Sie', 'hat', ',', 'hier', 'der sexuellen', 'um', ', Schwarzen oder', 'unzulässig', 'noch', 'sie', 'noch', 'spätestens', 'den', 'sollte', 'mögliche', 'Schwulen', 'Altmaier schwul', '«']

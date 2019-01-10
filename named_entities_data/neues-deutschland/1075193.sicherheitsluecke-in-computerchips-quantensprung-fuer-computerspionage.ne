@@ -1,1 +1,0 @@
-['Sicherheitsdiensten', 'und', 'blindes', 'Verfassungsschutz', 'das', '(', 'seit', 'über', '.', 'Stelle', 'umfasst', 'Eigentlich', 'Schwachstellen', 'für', '.', 'auch', 'den', 'und']

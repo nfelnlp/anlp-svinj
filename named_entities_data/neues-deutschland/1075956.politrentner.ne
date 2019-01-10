@@ -1,1 +1,0 @@
-['Mahathir Mohamad', 'malaysischen', 'Eingemischt', 'Mohamad', 'Anwar Ibrahim', 'wurde', 'bei der', 'Ismail , der', 'beobachtet', ',', 'fünf', 'der', 'sein']

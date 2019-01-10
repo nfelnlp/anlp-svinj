@@ -1,1 +1,0 @@
-['allen', 'aus', 'Machenschaften', 'von', 'im', 'hier']

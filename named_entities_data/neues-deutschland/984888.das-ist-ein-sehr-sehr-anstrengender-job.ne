@@ -1,1 +1,0 @@
-['ver.di-Bundeskongress', 'die', 'überhaupt', 'Klasse ?']

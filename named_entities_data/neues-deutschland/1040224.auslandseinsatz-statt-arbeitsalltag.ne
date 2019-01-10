@@ -1,1 +1,0 @@
-['Sie hatten', 'sich', '.', 'SES', 'in', 'entsendet', 'Mitinhaberin einer', ':', 'Berufstätige', 'in Schwellen-']

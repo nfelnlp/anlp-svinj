@@ -1,1 +1,0 @@
-['Washington/Mexiko-City', 'Donald', 'Mauer', 'die illegale', '.', ', die sich', 'Ecovelocity', 'mexikanischen Bauunternehmens Cemex', 'auf', ', als', 'beteiligen', 'Videgaray', 'wirtschaftliche Chance']

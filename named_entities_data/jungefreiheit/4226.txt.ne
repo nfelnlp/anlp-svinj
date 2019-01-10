@@ -1,1 +1,0 @@
-['Goethes', 'religionsgeschichtlich', 'Religion', 'Vernutzung', 'hat gezeigt', ', indem', ',', 'ihm zeigt', 'postheroische Mentalität', 'nach', 'sich', 'und neuzeitlichem', 'moderne', 'läge im']

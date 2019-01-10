@@ -1,1 +1,0 @@
-['Sotschi', 'Türkei', 'Iran', 'Syrien-Konflikt', 'den syrischen', 'Assad', 'Sotschi', '.', 'am', ', der', 'teilte', 'Putin', 'für', '„Ergebnisse', 'hieß es', '„finalen', 'Sotschi', 'und', 'Rohani', 'über', 'Syrien-Konflikt', 'am', 'Bürgerkriegsland sprechen', ', er', ', er sei', 'sehen', 'der', '.', 'dem']

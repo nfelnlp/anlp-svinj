@@ -1,1 +1,0 @@
-['lebenden', 'Der', ')', 'vorsehen', 'der', 'hierzulande', 'stammt von', 'Bevölkerung „Abendland', 'Millionen', '2005', '2015', 'Bezogen', '%', '3,9', 'offiziellen', ',', 'der', 'dass', 'Anteil']

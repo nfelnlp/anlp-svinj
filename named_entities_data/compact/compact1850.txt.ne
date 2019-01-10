@@ -1,1 +1,0 @@
-['Putin', 'NATO-Journalisten', 'westlicher', '.', 'Medien', 'keine', '–', 'Wladimir', 'des St.', 'größten', 'einer', 'Polen', 'Art', 'Anwesenden', 'der', 'mündige und', 'vergehen', ',', ')', 'vor', '…', ',', 'auf', 'man', 'einen']

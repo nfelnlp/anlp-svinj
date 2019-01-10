@@ -1,1 +1,0 @@
-['Perspektive', '» Spinning Toy «', '’', 'das', 'Technik', 'und', 'möchte', 'und', 'junger', 'und', 'relativ spontan', 'von', 'hysterisch', 'mit', 'als', 'der Gegenpol', ', im Sinne einer', 'der Fidget', 'gilt', 'Tochter zu spielen .', '.']

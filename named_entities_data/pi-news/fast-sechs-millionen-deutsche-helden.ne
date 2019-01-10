@@ -1,1 +1,0 @@
-['Merkel', 'Seehofer', '“', 'gescheitert', 'sich', 'seine', 'nur', 'die', 'nicht', 'Rebellion', 'den', 'besteht', 'hat ,', 'Mittwoch in', 'FAZ', '-Wahnsinn und', 'brechen', 'um', 'Verhältnisse', 'Meinungsfreiheit .', 'leidenschaftliche']

@@ -1,1 +1,0 @@
-['Manila', 'und', 'Soros ist', 'und', 'unbeliebt', 'ist', 'Boulevard-Nachrichtenportal', '„humanitären', 'nachdem', 'auf', 'für', 'Zusammenbruch', 'Währungsspekulationen', 'verschärft']

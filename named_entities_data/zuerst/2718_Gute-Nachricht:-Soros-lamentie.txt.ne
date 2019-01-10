@@ -1,1 +1,0 @@
-['York/Berlin', 'Der', '„Philanthrop', 'jammert und prophezeit der', '. In', 'Gastbeitrag für', 'Entwicklung', 'sei', ',', 'sei', ',', 'Rechtsextreme', 'zum', '(', '„Angesichts', 'pikanterweise', 'den']

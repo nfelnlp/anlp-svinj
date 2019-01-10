@@ -1,1 +1,0 @@
-['Berlin', 'Linkspartei', 'Saudi-Arabien', 'Saudi-Arabien islamistische Strömungen', 'sind', 'die', 'Islam , etwa', 'Antwort', 'Saudi-Arabiens', 'auch', 'geopolitische', '.', 'AKP-Regierung', 'des', 'Davutoglu', 'dieser Neuausrichtung', 'Der Türkei', '.', 'zum', 'in der', 'skandalös', 'daß sich', 'Soldaten']

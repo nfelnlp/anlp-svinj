@@ -1,1 +1,0 @@
-['Nietzsche', ',', "Schmerz gewoben ''", '.', 'der', 'nach', 'Schmerzlosigkeit', 'fühlbar', 'rückwärts', '``', 'wesentlich', 'Schmerzes', 'Leidenschaft', 'spüren', 'da', 'stärkste', 'später', 'gibt', 'indem', 'werden kann', 'der', 'wie', '( 1988', 'in', 'Jünger in']

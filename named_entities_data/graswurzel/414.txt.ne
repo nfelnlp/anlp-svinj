@@ -1,1 +1,0 @@
-['Lebenslaute', 'der', 'vom Friedensbüro', 'Er', 'wurden', 'Danach', ',', 'Großengstingen', 'Münsingen', 'Frankfurt/M', ',', 'die', 'Gorleben', 'Abschiebungen', '2005', '2001', 'sowie', 'Themen', ')', 'also', 'umgeschrieben', 'Bei', 'symbolischen', '. Ein', ', in', '.', 'Gerd']

@@ -1,1 +1,0 @@
-['USA', 'USA', 'stehen', 'man', ',', ',', 'Behandlung', 'des', 'Marihuana', 'Gelegenheit', 'sich', 'sich', 'Verfassungswidrigkeit', 'jahrzehntelangen']

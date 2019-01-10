@@ -1,1 +1,0 @@
-[', nicht', 'fordert zusammen mit', 'fordert zusammen mit Alice', 'vom University', 'London', 'in einer im', 'Pestizid-Wirkstoffe', 'Untersuchung', 'dass', 'Jahre', 'vor']

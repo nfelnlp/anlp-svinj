@@ -1,1 +1,0 @@
-['Paris', 'Wauquiez zum', '.', 'stellen', 'Nationalversammlung ,', 'Fillon und', 'hat', ',', 'Jahren', 'Einwanderungspolitik', 'sprach', ', die EU', 'Staaten']

@@ -1,1 +1,0 @@
-['Albanien', 'Albanien', 'EU', 'Christiane Bischoff', 'Andreas Michalke', 'Balkan', 'Albanien', 'Deutschland', 'Vereinten Nationen', 'kontrolliert', 'In', 'das', 'jedoch', 'das', 'verdienen', 'zum', 'Während', 'einziger']

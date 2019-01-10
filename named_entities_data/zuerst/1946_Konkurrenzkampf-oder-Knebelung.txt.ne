@@ -1,1 +1,0 @@
-['Wien', 'Herausgeber', 'Andreas', 'sieht', 'erheblichen Schadenersatzforderungen', ',', 'Zeit', 'lassen', 'macht', ', weshalb', 'erklärte darüber', 'Rechts.', 'sei']

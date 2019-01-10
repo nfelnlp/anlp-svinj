@@ -1,1 +1,0 @@
-['Akif Pirinçci', 'Pegida', 'Dresden', 'Dresden', 'Deutschland', 'wurden', 'um', ',', 'ist', ', denn', 'gar']

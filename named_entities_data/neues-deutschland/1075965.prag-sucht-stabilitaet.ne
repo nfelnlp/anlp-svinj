@@ -1,1 +1,0 @@
-['in der', 'die', 'übergeben sind', 'Storchennest', 'vorliegenden', '»', 'EU-Fördermitteln', 'zu', 'hinter', 'Babis ausgesprochen ,', 'allerdings', 'in', 'in', 'deutlich', 'oder der Liedertexter', 'Lande', 'jedoch davon', 'das Rennen', 'Stichwahl']

@@ -1,1 +1,0 @@
-['Buche . Vor', 'Zahlen aus .', 'nicht', ':', 'ist eine', ',', '.', 'Nokia-Werk', 'seine', 'mußte', 'Autokonzern', 'werden .', 'genug', 'Euro', 'Temperaturen', 'sich', 'In', 'Zeitgeist-Politiker', 'größere', 'während', 'einst fetten', 'Dort', 'von', 'Jahr', 'die', 'Millionen', 'eines', 'im', '2008', 'abführen', 'erklärt', 'über']

@@ -1,1 +1,0 @@
-['Amsterdam', 'Geerd Wilders', 'Wilders', 'angestachelt', 'Wilders', 'Wilders', '.', 'geforderte', 'zu', '”', '-Rufen', 'werden', 'gegen das', 'PVV', '.']

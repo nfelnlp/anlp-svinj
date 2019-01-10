@@ -1,1 +1,0 @@
-['vor .', 'nach', 'Jana « vor', 'Die', 'das', '»', 'vom ver.di-Fachbereich', 'und', '»', 'schafft', ',', '2013', 'weist', ',', '»', 'bestehenden', 'Kliniken .', 'Sommer für']

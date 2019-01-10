@@ -1,1 +1,0 @@
-['Robert Redford', 'Hautwechsler', 'J.R.R . Tolkien', 'Puckelmännern', 'Ostlingen', ', der', 'erzählt', 'Tischgenossen', 'ein', ',']

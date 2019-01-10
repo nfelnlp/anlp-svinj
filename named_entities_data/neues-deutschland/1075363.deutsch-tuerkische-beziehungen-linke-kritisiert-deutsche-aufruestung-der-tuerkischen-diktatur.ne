@@ -1,1 +1,0 @@
-['.', '. Nach', '( SPD', 'mit', 'in Goslar', 'die', 'Bundesregierung', '»', 'richtig', 'der', '. Hintergrund der', 'Kampfpanzer', 'und', 'modernisieren', 'jüngsten', 'dies', 'Geiseln in', 'einer', 'muss', 'der', 'und des', 'dpa/nd']

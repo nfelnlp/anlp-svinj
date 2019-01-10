@@ -1,1 +1,0 @@
-['Damaskus/Moskiau', 'immer', '.', 'weil', 'aus', '“', 'hätten', 'informiert', 'genannte', ':', 'amerikanischen Bedrohung']

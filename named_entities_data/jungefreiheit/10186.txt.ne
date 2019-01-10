@@ -1,1 +1,0 @@
-['Man', '\x84danach\x93', 'Geschichte', 'eine', 'entlangstόrmen ,', 'mit langem', 'Nickelbrille ΰ', 'in die', ', der', 'Bόrgerrechtler', 'over-come\x93 singen', '\x84die', ',', ',', 'man', 'was', 'konnte', 'Kulturbruch', 'der', 'Frauen', 'Vergleich mit', 'Man', 'auf']

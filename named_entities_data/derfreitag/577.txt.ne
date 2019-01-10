@@ -1,1 +1,0 @@
-['hessischen Heppenheim', 'Alex Grimm/Getty', 'Es', 'vor', 'den', '. Der', 'Es gelang', 'System Gerold', 'hieß der', 'den Missbrauch', 'keine', 'erkennbar', 'Film', 'für', 'den Auserwählten', 'Er']

@@ -1,1 +1,0 @@
-['das', 'von', 'mehr alle', 'nach', 'würde', 'das', 'die', 'kaum', 'auswirke', 'Lediglich', 'an', 'Unternehmen', 'vergeben .', 'Grünen', 'denen', 'werden', ',', 'aller']

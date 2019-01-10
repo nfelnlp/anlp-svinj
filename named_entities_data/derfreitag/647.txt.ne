@@ -1,1 +1,0 @@
-['angeht', 'Absprache', 'um', 'und', 'und', 'Rechtsschwenk', 'von', 'geleugnet', 'mehr', 'wie', 'bewaffneten Polizei', 'Mit', ',', 'nie', '.', 'Die', 'geht', 'ihrer', 'hat']

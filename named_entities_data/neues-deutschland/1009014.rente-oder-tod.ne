@@ -1,1 +1,0 @@
-['Bolivien', 'La Paz', 'Sebastian Hachmeyer', 'La Paz', 'Cochabamba', 'La Paz', 'Potosí', 'Miguel Mamani Coro', 'Rosalía Vargas', 'Vargas', 'Bolivien', 'Regierungssitz', 'auf .']

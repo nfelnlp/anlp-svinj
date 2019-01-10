@@ -1,1 +1,0 @@
-['Mughel (', '.', 'Praktikant', 'in', 'Grundschule', 'Merkel-Gästen', 'können', 'Universitätsabschluss', 'fällt', ', Deutsch', 'bemerkbar machen', 'zeigen –', 'Zukunft', 'tun', 'aufzuholen']

@@ -1,1 +1,0 @@
-['Madrid', 'Spanien', 'Katalonien', 'Spanien', 'spanische', 'Luis de Guindos', 'Katalonien', 'Madrid', 'Spanien', 'Katalonien', 'Katalonien']

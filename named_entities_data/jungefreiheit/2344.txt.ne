@@ -1,1 +1,0 @@
-['und Absonderliche', 'letztmögliche Steigerungsform', 'Buches', 'vor', '(', 'geschlagen', "''", 'ohne zeitliches', 'hat', ',', 'der', 'Buches', 'von', '``', 'war das', 'ihres']

@@ -1,1 +1,0 @@
-['Tom Cruise', 'für', 'von Stauffenberg , die zentrale', '.', 'nebenbei', 'für', 'Gott', 'Adolf', 'Adolf Hitler', 'Befehlshaber der', 'und', 'kann', 'leisten', 'Bundeswehr', ',', 'und das', 'beschützen', ',', ',', 'also', 'nicht', ',', 'etwas ganz anderes', 'lediglich', 'Anlass', 'dass es merkwürdig', 'schreiben würde ,', 'ganz']

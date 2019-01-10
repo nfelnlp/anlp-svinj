@@ -1,1 +1,0 @@
-['Gesellschaft', 'Mainz', 'Schock', 'rheinland-pfälzischen', 'der Nacht', 'Pressemitteilung : „In', 'Familie', 'am', 'Wohnhauses', 'Kriminalpolizei', 'auf', 'aufgenommen', 'der', '„Ich', 'sich', '‘', ', dann', 'auf sein', ')']

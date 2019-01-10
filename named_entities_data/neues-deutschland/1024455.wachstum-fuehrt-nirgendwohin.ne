@@ -1,1 +1,0 @@
-['tun', 'und', 'dem', 'geht', 'Norden', 'dem', 'Norden', 'eine']

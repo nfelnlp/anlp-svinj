@@ -1,1 +1,0 @@
-['Matt Cardy/', 'Getty', 'Ich', ', um', 'aus', 'Bauarbeiter', 'So', 'gestoßen', 'schaute', 'sein', 'werbefrei machen']

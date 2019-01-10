@@ -1,1 +1,0 @@
-['Duisburger', 'In', '»', 'sie', 'protestierten', 'der', 'wurde', 'wie', 'nicht nur der']

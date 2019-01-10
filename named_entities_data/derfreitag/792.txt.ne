@@ -1,1 +1,0 @@
-['es', ',', 'Kaffee', 'wie', '? Der', 'Meine Fahrten', 'dreieinhalb', 'von', ',', 'alle', 'Stunden', 'Bahnhof', 'der', 'mir', 'Der', '.']

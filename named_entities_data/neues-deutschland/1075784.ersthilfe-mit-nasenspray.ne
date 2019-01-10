@@ -1,1 +1,0 @@
-['Inzwischen ist', 'den', 'dem einwohnerreichsten Bundesland', 'Neben', 'sich dessen', '000', '.', 'Zeit', ', München', 'Im', 'des', 'Programms', 'sie', 'von dem Projekt', 'eine wesentliche', ',', 'Sein']

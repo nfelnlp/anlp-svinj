@@ -1,1 +1,0 @@
-['Shereen El Feki', 'Nordafrika', 'brasilianische', 'brasilianische NGO', 'UN', 'and North Africa', 'Malaysia', 'Gary Barker', 'Promundo', 'NGO', 'Osten', 'Nordafrika', 'Red. ) .', 'Syrien', 'die', 'die', 'Umstand', '.', ',', 'offenbar', 'konnten', 'ein', 'phantastisch', 'zeigt']

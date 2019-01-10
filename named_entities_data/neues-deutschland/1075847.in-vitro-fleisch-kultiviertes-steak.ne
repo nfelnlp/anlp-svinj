@@ -1,1 +1,0 @@
-['Burger', 'Mark Post', 'Universität Maastricht', 'China', 'Indien', 'UN-Landwirtschaftsorganisation', ',', 'bereits 1931', 'mögliche Alternativen', 'sich', '. Die', 'damals noch', 'Mosa', 'mit', 'Produktionskosten würden', 'Euro', 'Euro liegen', ',', 'sich', '. Als']

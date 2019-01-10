@@ -1,1 +1,0 @@
-['Unter', 'die', 'Unterdrückungsverhältnisse', ', denen', 'wolle', 'Grundrechte']

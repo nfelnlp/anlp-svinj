@@ -1,1 +1,0 @@
-['Warschau', 'EU', 'polnische', 'Deutschland', 'polnischen', 'untersuche', 'polnischen', 'PiS', 'Jaroslaw Kaczynski', '.', 'entziehe', 'fügte', 'Sejm', 'Möglichkeiten', 'hören', ',', 'verstorbenen Bruder', 'waren', 'allein für', 'worden', 'der', ',', 'stellen', 'Polen auf', '.']

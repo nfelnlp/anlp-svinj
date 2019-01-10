@@ -1,1 +1,0 @@
-['Gesellschaft 9 Köln', 'Dies mußte nun', 'die bei', 'den', 'Während der', 'Sony in', ', erklärte', '„Bei', 'Nachtdreh', 'aber', 'den', ':']

@@ -1,1 +1,0 @@
-['Willy Wimmer', '.', 'den', 'anerkanntes', 'auf', 'Charta von', 'das', 'und', 'Gründung', 'Deutschen', 'und', ',', 'gewaltigsten', 'den', 'und', 'Claus Kleber', 'Elmau darauf gespannt', 'das', 'gerade noch', 'mag', 'dass', 'Obama nach dem', 'Ob', 'Alpen', 'Persönlichkeiten', 'Haltung', 'Menschen', '.', 'in', 'politischen Bildfläche', 'durch immer']

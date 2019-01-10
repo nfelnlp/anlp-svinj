@@ -1,1 +1,0 @@
-['GOEFFREY', 'bayerischen', 'Furth im', '.', '(', 'Grünen', 'SPD', 'die', 'haben', 'dort', 'Kant', 'Kleist', ',', ',', 'Schumann ,', 'Schumann , Schubert', 'Bach', 'Haydn', ',', 'Sie', 'nimmt', 'bestenfalls', 'natürlich', 'sein', 'sein', ',', 'nicht', 'dass', ',', 'Beute']

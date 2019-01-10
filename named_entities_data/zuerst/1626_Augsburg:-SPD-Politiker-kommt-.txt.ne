@@ -1,1 +1,0 @@
-['Gesellschaft', 'Augsburg', 'Linus', ', droht', 'vorgeworfen', 'die', 'daraufhin', 'Prozeßtermin']

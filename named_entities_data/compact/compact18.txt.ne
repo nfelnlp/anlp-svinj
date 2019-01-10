@@ -1,1 +1,0 @@
-['Deutschen Industrie', 'BDI', 'Merkel', 'Deutschen Industrie', 'BDI', 'Milliarden', 'unsere', 'auf', 'Jahr lang', 'lassen', '.', 'Rennen', 'ließ', 'verlauten', '.', 'Ob', 'nach', 'stellt', '’', 'besonders', 'den', 'kein', 'neben', 'wissenschaftlichen Auszeichnung', 'Der US Nationale Medal of Science', '„Kohlendioxid ist im Wesentlichen ein', 'die']

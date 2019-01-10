@@ -1,1 +1,0 @@
-['Berlin', 'Bundeskriminalamt', 'BKA', 'erlaubter Aufenthalt “', 'für', 'Internetblogs', 'lautete', 'entsprechender']

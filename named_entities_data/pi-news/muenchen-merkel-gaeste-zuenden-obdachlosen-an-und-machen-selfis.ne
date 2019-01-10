@@ -1,1 +1,0 @@
-['wie', ':', 'cm groß', 'ein', 'im', 'einem', ', dem', 'die', 'nur']

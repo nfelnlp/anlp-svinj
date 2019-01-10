@@ -1,1 +1,0 @@
-['München', 'Hussein K. ,', 'L. , der', 'Amt', 'ändern', 'die']

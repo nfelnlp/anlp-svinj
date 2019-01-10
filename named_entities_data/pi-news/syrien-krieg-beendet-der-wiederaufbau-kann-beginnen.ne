@@ -1,1 +1,0 @@
-['Aleppo', 'St.', '“', '“ , einer', 'die', 'Homs', 'Damaskus', 'Trümmern', 'der', ',', 'Riad', 'wird', 'verwundert', 'Augen', 'und', 'in', '. Es', '. Es kam', '. Es kam ,', 'auf', 'bricht', 'Staatsmedien', 'sich', 'unvermindert', ',', 'ohne', '.', 'der', 'Dann', 'Genauer', 'kulturfremden']

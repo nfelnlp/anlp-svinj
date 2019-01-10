@@ -1,1 +1,0 @@
-['Wien', 'Österreich', '-Debatte', '( SPÖ', 'hatte', 'zahlreichen', 'sagte', 'selbst', '„Sterben']

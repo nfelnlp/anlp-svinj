@@ -1,1 +1,0 @@
-['Merkel-Diktatur', 'Dassen Eine Angst', 'Es', 'hat', '–', 'die', ',', 'ein', 'der', 'leichten', ',', 'der', 'einigermaßen', 'leuchtet nicht', 'dürfen', 'Link', 'ließ', 'sollte', 'auch', 'Zu', 'Sie', 'mit einem', 'der', 'Tag', 'sich', 'den']

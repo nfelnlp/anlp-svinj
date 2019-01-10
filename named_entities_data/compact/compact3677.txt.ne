@@ -1,1 +1,0 @@
-['FW-Chef', 'Bei der', 'AfD', 'PdV', 'Landtag', ',', 'auch', 'haben', 'Warum', '3', 'Bei', 'zur', 'Wahlantritt verzichtet', 'Bayern wichtige', 'des', 'Startbahn', 'bessere', 'mobilisiert', 'die', 'Glaubwürdigkeit und', 'Euro', 'AfD', 'zwischen', 'Politik', 'Bundestagswahl', 'ist']

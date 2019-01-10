@@ -1,1 +1,0 @@
-['Detroit', 'hat', 'Auto', 'dänischen Exil', '.', 'er', 'Detroiter Werken', ',', 'T-Modell von', 'würde', 'ein Vorbild', 'noch niemand ,', 'er', '. Gemeint', 'vor', 'zum', '“', 'Schwere', 'permanenter Selbstverschwendung', 'stehen', ',', 'gelte', 'das', 'Zeitalter']

@@ -1,1 +1,0 @@
-['Ankara/Wien/Berlin', 'Die', 'Regierung', 'nach', 'erfolgreichen', 'nur', 'Kurz', 'Kurz (', 'untersagen', 'einem', 'am', 'einer solchen', 'würden', '.', 'nicht in', 'im', 'Deutschland', 'ohne', 'des', 'Wahl']

@@ -1,1 +1,0 @@
-['.', '. Nach', 'zwischen', 'am', 'beeinträchtigt', 'Bahnhof', '.', 'war', 'am', 'bei', 'niemand', 'Stunden', 'dem', 'dem Verkehr', 'der']

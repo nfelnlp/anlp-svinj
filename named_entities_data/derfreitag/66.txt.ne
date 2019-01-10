@@ -1,1 +1,0 @@
-[':', 'Trutschel/Photothek/Getty', 'für', 'Hintergrund', ') .', ',', 'denen', 'denen man', 'sagen es', 'sollten ( Westend', 'Autor', 'den', ') vorgeworfen', 'schlampig', 'Muslimbrüdern', 'damit', 'Meisterin der Behauptung', 'einem Beitrag', 'unbelegten', '. So erklärte', 'er', 'PI-News', 'vergisst zu', 'nie', 'der', 'zu', '“', 'freier']

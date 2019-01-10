@@ -1,1 +1,0 @@
-['Thomas Kunkel', 'NGO Sea-Eye zur', '39', 'Als', 'sprach für', 'NGO Sea-Eye', 'Warum haben', ',', 'Überfahrt', ', die Rettungsleitstelle für', '.', 'großen Bohrinselversorgern', 'ein', 'ein', 'der', 'schon', 'Richtung', 'sich', '.', ',', 'Tagelöhner', 'haben', 'auch', 'Bangladesh', 'der', ',', ', sondern', 'sind ,', 'noch', 'NGOs', 'das', '»', 'alle']

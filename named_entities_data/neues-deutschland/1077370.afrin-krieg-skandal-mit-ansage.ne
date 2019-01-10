@@ -1,1 +1,0 @@
-['türkischen', 'mitgeteilt ,', 'Krieg', 'sich', 'Zusagen', 'eben']

@@ -1,1 +1,0 @@
-['Madeleine Renaud gratulierte Albert Camus', 'Getty', 'Zum', 'wird vor', 'die Menschenrechte', 'die', 'aus', 'bereit', 'damals', '„mittelmeerisches', 'ob', 'nicht als', ',', 'der', 'Erzählungen offenbaren', 'Gesellschaft', 'Seite', 'kolonialen Hochmut zuschrieben', 'Individualität', '–']

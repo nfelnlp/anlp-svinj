@@ -1,1 +1,0 @@
-['roots', 'Wir', 'Genosse', 'roots', 'ein', 'online', 'damaligen', 'Schwerpunkt', 'Sania', 'eine', 'neunt', 'in', 'von', ',', "''", 'Schlachten beenden', 'aus dem Verlag', '.', 'und', 'Teil']

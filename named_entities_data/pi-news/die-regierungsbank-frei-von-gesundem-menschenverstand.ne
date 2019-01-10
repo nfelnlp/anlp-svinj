@@ -1,1 +1,0 @@
-['Thomas de Maizière', '. Justizminister Maas und', 'Chef', 'Chef des', 'haben', 'das zweite', 'Verteidigungsministerin .', 'über', '. Das war also', 'mittlerer', 'einer', 'der', 'wird', 'allen', 'die', 'Flüchtlinge', 'Deutschland', 'dem', 'mehr', 'Aufgaben', ',', 'die', 'massiv', 'geringen', 'der', 'offenbar', 'der AfD ein neues']

@@ -1,1 +1,0 @@
-['Otterndorf', 'die', '.', 'wies darauf', 'massive', '.', ',', 'sondern', '. Das', 'für', 'und', 'kommen .', 'eine', 'Februar', 'gegangen .']

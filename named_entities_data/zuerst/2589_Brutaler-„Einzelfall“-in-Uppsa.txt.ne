@@ -1,1 +1,0 @@
-['Gesellschaft', 'Uppsala', 'wurde', 'wenig', 'Uppsala', 'viele', 'sich', 'Beweismaterial zur']

@@ -1,1 +1,0 @@
-['Warschau/Madrid', 'Auch', 'registriert', 'der', 'deshalb', '.', 'Regierungsvertretern', 'zitiert', 'Vorjahr', 'als', 'während', 'auf', 'zentralen', 'vor', '.', 'setzt', 'in', 'nötigen', ',', 'Entscheidend', 'Frontex-Chef']

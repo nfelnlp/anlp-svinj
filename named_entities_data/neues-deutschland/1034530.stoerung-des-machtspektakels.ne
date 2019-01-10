@@ -1,1 +1,0 @@
-['Hamburg', 'Weihnachten naht', 'sich', 'von der', 'statt', 'einigen', ') kündigte den', 'kurz', 'Andere', 'genau']

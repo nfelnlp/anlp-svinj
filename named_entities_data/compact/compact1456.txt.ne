@@ -1,1 +1,0 @@
-['USA', 'und', 'Gott', 'pflichtbewusste', 'durchnahmen ,', 'uns', 'uns unsere', 'zu', 'Schuljahr', 'sage', 'ein', ',', ',', 'chemischen', ',', 'Rückfällen', ': „Wieviele', 'Teilnehmer', 'ihrer', 'nach den', 'und', 'geben', ',', 'Ihr', 'der', 'des', 'hat', 'nicht', 'einem Abo', 'abschließen']

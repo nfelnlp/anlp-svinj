@@ -1,1 +1,0 @@
-["''", 'Struktur schon', 'geistige', 'Das muß', 'die', 'plötzlich', 'von', 'auf', 'Raum', 'für', 'er', 'volltrunken', 'beinahe', '.', 'Tagesgeschäft', 'die Fülle', 'sein ,', 'abgenutzt', 'behauptet', 'Interesse der Programmatik und', 'bleibt', '.', 'in', 'Details']

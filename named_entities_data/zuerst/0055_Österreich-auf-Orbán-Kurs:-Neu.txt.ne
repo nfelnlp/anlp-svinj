@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'ÖVP-/FPÖ-Regierung', 'auf', 'eigenen', 'Polizei', 'Sperren', 'die']

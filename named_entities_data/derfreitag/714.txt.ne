@@ -1,1 +1,0 @@
-['bittet', 'Junge', 'sich', 'auf', 'besseren', 'Tage', 'Weise', 'werden .', 'von', 'haben', 'sind', 'Geschichte', 'erzählt', 'ist', 'über die', 'gezeigt wurde .', 'in', 'Premiere', '2012 ;', 'Éric', ',', 'Maigne ;', 'FSK 12', ', 2', 'Juni 2013']

@@ -1,1 +1,0 @@
-['Heike Fischer', 'Binninger', ':', '?', '.', ',', ', geb', 'Bundestag', '.', '25 .', 'sagen', ':', 'auch', 'gesagt', ':', ',', 'der', 'es', 'aber', 'danach', 'mit', 'ich', 'die', 'mir', 'Begriffen', 'Mundlos', 'abgeglichen']

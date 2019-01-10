@@ -1,1 +1,0 @@
-['nicht gerechnet', 'gut', 'der', 'doppelten', 'Empfehlungen', 'organisiert', 'vor erreichen des Schwellenwertes von', 'es in', 'wie', '000', '»', 'Regionalgesellschaften']

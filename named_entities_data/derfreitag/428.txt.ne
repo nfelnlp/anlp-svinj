@@ -1,1 +1,0 @@
-['Sean Gallup/Getty', 'Hauptsache', 'Die', 'arbeiten', 'Ladentheke', 'in Kleidungsstücken', '.', 'Filiale', '“ ,', 'dem', 'Kleidertausch', 'Mehrere', 'Hop', 'Trading Initiative', 'soll', 'Kontrollen', 'bis', 'H', 'nur', 'sich an', 'hängen', ',', '.', '„Organic', 'und', 'Zudem', ',', '&', '.', 'ebenso', 'Es', 'alle', 'Modeketten', 'Verein', ',', 'oder', 'Transparenz', 'wieder']

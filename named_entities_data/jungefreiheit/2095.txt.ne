@@ -1,1 +1,0 @@
-['Beziehungen', 'Dolly', 'wurde', 'daß', 'Worten', 'den', 'zu vertrösten', 'Kinder', 'vorwagen', 'tatsächlich ist', '.', 'Problem', 'Jahrhunderts']

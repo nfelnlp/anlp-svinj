@@ -1,1 +1,0 @@
-['willkürlich', 'wir', 'nennt das', 'beginnt', '“', 'es eine', 'es eine Korrelation zwischen', 'bisweilen', 'sie', ',']

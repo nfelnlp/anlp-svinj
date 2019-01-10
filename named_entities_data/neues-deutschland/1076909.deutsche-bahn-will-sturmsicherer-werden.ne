@@ -1,1 +1,0 @@
-['. Angesichts', 'will', 'besser', 'Mit']

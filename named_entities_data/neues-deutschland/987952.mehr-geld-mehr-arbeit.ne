@@ -1,1 +1,0 @@
-['Meyer', 'Jörg Meyer', 'Deutschland', 'Arbeitsverdichtung', 'Ken Loach', 'Downtown Los Angeles', 'Deutschland', 'IG Bauen-Agrar-Umwelt', 'geht']

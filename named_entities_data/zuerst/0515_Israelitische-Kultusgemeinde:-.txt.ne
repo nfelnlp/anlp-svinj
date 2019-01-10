@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'Israelitischen Kultusgemeinde', 'Oskar Deutsch', 'ÖVP', 'SPÖ', 'FPÖ', 'appelliert', 'der Bellen', 'Partei', '“', 'Deutsch', 'SPÖ', 'einer', ',', 'FPÖ', 'machten', 'Sündenböcken', ',', 'Verschwörungstheorien', 'können den', 'Israel', 'an der Klagemauer ihr', 'wissen', '(']

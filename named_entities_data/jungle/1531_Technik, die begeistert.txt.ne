@@ -1,1 +1,0 @@
-['Bausatz', 'Als Apple', 'Jahren', 'selbstgebauten', 'Tüfteln', 'sind', 'Vorbild der', 'Sprachbefehl', 'allem', 'Kinoprogramm ausgeben', 'maker-Szene vermittelt', 'in seinem', 'nicht', 'verhandelt', '.']

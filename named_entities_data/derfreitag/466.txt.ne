@@ -1,1 +1,0 @@
-['Almeria', 'Spanien', 'Juinen/', 'Getty', 'Vor sechs', 'und', 'nicht', 'in', 'dem', 'wolle politische', 'internationale', 'Bankenlobby', 'jedoch', 'heute', 'Zulassung', 'Auch', 'verboten', 'und', 'verfehlt', '.', 'die gesamte', 'ruinieren .', ', dass', 'muss', 'dort', 'systemrelevante', 'Verschuldungsquote', 'der', 'prüfen', 'sich', 'Schätzungen', 'Hand']

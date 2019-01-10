@@ -1,1 +1,0 @@
-['Wie', 'der Jahresbilanz', 'angesichts', 'Bundesrepublik', '.', 'Dieselfahrzeuge .', 'verhängte Fahrverbote', 'einfach', 'DUH', 'werde', 'wurde', 'nicht', 'wird', 'Missachtung', '.', 'Bundesregierung', ', »', 'Straßen']

@@ -1,1 +1,0 @@
-['Arabische', 'Getty', 'Arabische', ',', 'nur', 'Euro', 'derzeit', 'Tunesien und dem', 'Indien', 'Pakistan', 'während', 'hoch', 'Privatökonomie', 'die', '40', 'auf', 'schärferer', 'einen mäßig', 'Frauen']

@@ -1,1 +1,0 @@
-['von der', ')', 'sind', 'Ein Bild', 'werden ,', 'die Offiziersausbildung der', 'Dafür', 'Einsatz', 'indirekt', 'Temperaturobergrenze', 'die Toleranzen', 'Soldaten', 'leichtfertiger', 'der', 'ein', 'Islam', 'in', 'müssten']

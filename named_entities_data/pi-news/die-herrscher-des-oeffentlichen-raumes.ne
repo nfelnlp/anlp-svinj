@@ -1,1 +1,0 @@
-['CANTALOOP', 'publico .', ',', 'fast', 'vollkommen', '–', 'enorme', 'trotz', 'Diskurs', 'zahlreichen', 'seit', 'innerhalb', 'der', 'von', 'von sich', 'dar', 'und', 'Deutschland']

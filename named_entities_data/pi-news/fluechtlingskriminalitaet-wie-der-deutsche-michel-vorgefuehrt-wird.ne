@@ -1,1 +1,0 @@
-['punkto Kriminalitätsentwicklung', 'gestellt', 'Niedersachsen ,', 'uns', 'Leiter der', 'in', 'sich im', 'zur', 'nach', 'Anteil', 'es', 'den', 'und', ',', 'seinen', 'dürfte', 'beide Untersuchungen', 'nur', 'sind', 'die', ',', 'viel', ',', 'wechselt nun', 'lange', 'wir', 'einem']

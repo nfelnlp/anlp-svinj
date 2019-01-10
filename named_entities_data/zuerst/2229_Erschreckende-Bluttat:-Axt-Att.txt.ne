@@ -1,1 +1,0 @@
-['Düsseldorf', '„Der', ',', 'Alles', 'Züge fielen aus', 'Bahnhof', 'aus', 'wieder', 'zu', 'Polizeisprecher']

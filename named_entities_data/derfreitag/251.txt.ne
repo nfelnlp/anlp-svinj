@@ -1,1 +1,0 @@
-['Marissa Mayer', 'Jemal', 'soll', 'Geschäftsführerin von', 'es', 'die', 'schwächelndem', 'ihre', 'näher an', 'Penthouse-Suite', 'Four', 'Sie', 'dem', 'Dass', 'ihren', 'zeigt', 'und', 'die', 'arbeitender', 'wo', '12', 'angefacht', 'Saughter schrieb', 'Karriere', 'genug', 'den Text und', 'nach', 'seien', 'Frage', 'freilich', 'auch', 'Frauen', '.', 'Frauen', 'holt']

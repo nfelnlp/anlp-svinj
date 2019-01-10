@@ -1,1 +1,0 @@
-['Brüssel', 'EU-Parlamentspräsident', 'hat die', ',', 'Im', 'Europa', 'Terrorgefahr .', 'sagte', 'Krieg', 'die', 'zu', 'Hunger', 'Bürgerkrieg', 'afrikanischen', 'übrigen gelte', ',', '“', 'zu', 'geht am', '(']

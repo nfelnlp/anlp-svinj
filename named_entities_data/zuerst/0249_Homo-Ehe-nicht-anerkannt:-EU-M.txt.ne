@@ -1,1 +1,0 @@
-['Straßburg', 'Europäischen', 'für Menschenrechte ( EGMR', 'in', 'bestraft', 'die', 'Paaren', 'Bereits', ',', ', gesetzliche', 'symbolische', 'eine', 'bislang', 'Litauens', 'Ehe']

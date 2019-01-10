@@ -1,1 +1,0 @@
-['gab . Als', 'Äußerung zitiert wurde', 'Wochenende ,', 'Warum', 'stellt', 'eine Verfassung', 'tausendfach', 'Jeden', 'öffentlichen', 'Gedächtnis', 'Spaziergänge', 'empfohlen', 'Dunkelheit .', 'eine', ',', '„Globalisierungsfalle', 'entfesselte', 'Währungen', 'Den', 'diese', 'Dass', '.', 'ist ,', 'Nebeneinander', 'sollte', 'deshalb']

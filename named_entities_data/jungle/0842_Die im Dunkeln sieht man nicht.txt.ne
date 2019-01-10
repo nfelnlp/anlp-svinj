@@ -1,1 +1,0 @@
-['Immer wieder', 'einem Münchner Einkaufszentrum', ',', 'Dating-Seiten', '.', 'das', 'benutzen', 'lesen', 'in', 'Ländern', 'kann', 'erreichen', 'Rest', 'aller', 'aus islamischen Ländern dort Kontakte', '.', 'an', 'konnten']

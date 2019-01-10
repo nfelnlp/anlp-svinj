@@ -1,1 +1,0 @@
-['die', ',', 'knappen', 'immer', 'Die', 'CSU ) nach', 'Abstimmung', 'das', 'in', 'diesem', 'das rund', 'die', 'der']

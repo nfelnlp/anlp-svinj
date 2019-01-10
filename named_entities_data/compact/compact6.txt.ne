@@ -1,1 +1,0 @@
-['Mittel', 'Richard', 'durch diese', 'Pfändungsvorstoß', 'aus', 'Wie', 'wenn', 'das', 'hätte', 'Haus', 'Behauptung', 'hatten', 'Fragen zu', 'gestellt', 'Wenn schon', 'Mittelbrandenburgische Sparkasse', '“', 'mit', 'von Gutjahr', 'der', 'erhalten dieses', 'wenn', '(']

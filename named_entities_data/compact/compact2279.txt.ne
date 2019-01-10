@@ -1,1 +1,0 @@
-['AfD', 'Deutschland', 'Ruhestörung', 'Gauland ist', 'Landtag', 'Allgemeinen Sonntagszeitung gegeben', 'als', 'am', '. Damit war die', ', in', 'und', 'In der deutschen', 'zu den', 'den', 'haben', ',', '.', 'wurden', 'stand', '.', 'rackerten', 'Wichtiger', 'Titel', 'Gelegenheit', 'das', '„Fremden', 'der']

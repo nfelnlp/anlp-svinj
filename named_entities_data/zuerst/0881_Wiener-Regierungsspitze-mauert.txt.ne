@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'ab', 'in', 'wird', 'mit der Feststellung zitiert', 'Orbán', 'Grenzzaun', 'Volk', 'schützen ,', ',', 'und', 'Bürger sowie']

@@ -1,1 +1,0 @@
-['Geldhahn', 'Sand', 'Hans Scharpf', 'David', 'Goliath', 'Justiz', 'Scharpf', 'Scharpf', 'Darlehensverträgen', 'Quijote unter', 'im', 'sich', 'reguliert', 'Bank', '. Der', 'allerdings', 'immer so', 'Kunden zur', ')', 'ist', 'Art', 'Die', 'Juristen', 'betreibt', 'einschlägiger', '« monetäre']

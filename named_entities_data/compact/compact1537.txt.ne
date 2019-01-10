@@ -1,1 +1,0 @@
-['Pretzell', 'In den', 'Jetzt will er', 'Pretzell ,', '.', 'im', 'Präsidentschaftskandidatin', 'Le Pen', 'von der', 'PVV', 'PVV .', 'PVV . Eigentlich', 'gute Idee', 'halten', 'bei Veranstaltungen', 'als die der', ', dass die', 'ist ein parteiunabhängiges', 'Sachverhalt', 'nichts', 'die', 'sich als', 'Volkes', 'COMPACT', 'Vormachtstellung', '“', 'vereint', 'des', ', wie', 'dem']

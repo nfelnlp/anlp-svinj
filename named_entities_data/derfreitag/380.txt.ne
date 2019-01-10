@@ -1,1 +1,0 @@
-['Kohl', 'Otto', 'mit', 'seine', 'Funès spielte die', 'ehemaligen rheinland-pfälzischen', 'an . Also', 'ist', 'schon', ',', 'Garten', 'Stück', 'Alien das Raumschiff', 'mit', 'also', ', in', ',', 'rauskommt', 'In', 'meist']

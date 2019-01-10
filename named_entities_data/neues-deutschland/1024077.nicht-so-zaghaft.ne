@@ -1,1 +1,0 @@
-['und Massenentlassungen', 'bitterer', 'Beschäftigte', 'Tobacco ( BAT', 'Die', 'Schweizer', '.', 'ist', 'Tabakgeschäft', 'auf', '. »', 'Gier', 'ernst', 'der', 'und', '.', 'Mahnwachen']

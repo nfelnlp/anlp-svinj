@@ -1,1 +1,0 @@
-['CDU', 'MACDOUGALL/AFP/Getty', 'Mecklenburg-Vorpommern', 'gewählt und obwohl', 'gewählt und obwohl auch der', 'es nur', 'Platz', '.', ', das', 'nach', 'Sie', 'ein', ',', 'Einen heftigen Rückschlag', 'SPD', 'verloren', '5,2', 'Jahren', 'bleibt die', 'das', 'Nein', 'Grund ,', 'ihnen']

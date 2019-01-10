@@ -1,1 +1,0 @@
-['Barcelona', 'Europa', 'in', ',', 'Bar-Hen , hat', 'kehren', 'sagte', 'Interview für die', 'sage meiner', ':', ': ‚Glaubt', 'der', '”', '.', 'eine', '‚Wir', 'nicht', 'in']

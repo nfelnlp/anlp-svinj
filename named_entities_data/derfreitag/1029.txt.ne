@@ -1,1 +1,0 @@
-['über die', 'Wochen wird', 'die', 'die', 'im', '.', 'Jahr', 'mehr', 'die', 'Verschlüsselung', ',', 'seine', 'Schloss', 'Kästchen', 'reden', 'zwei', 'veröffentlichen', 'zu lesen', 'einer', 'Deren', '.', 'nicht', 'Das', '?', '?', 'Wenn Minister Friedrich schon zum', 'neunziger']

@@ -1,1 +1,0 @@
-['Brüssel', 'EU', 'USA', 'Donald Trump', 'Brüssel', 'solche', ',', 'Bulgarien', 'Kroatien', 'Zypern', '–', 'das', '.', 'weshalb sich', 'In', 'zu sorgen', 'als', 'US-Bürger', 'im']

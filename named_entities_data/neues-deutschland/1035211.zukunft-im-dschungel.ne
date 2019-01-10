@@ -1,1 +1,0 @@
-['Berge', 'Tagesausflug', 'Zusammenhang', 'für', 'importiert', 'um die', 'mit', 'mit Lebensmitteln', 'So', 'bestätigt', 'Vermutung ,', 'Natur bedeuten', ', um', 'Bis', 'wäre']

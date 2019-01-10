@@ -1,1 +1,0 @@
-['Mitch McConnell', 'Yellowstone Park', 'Portrait', 'Washington schließen sollten', '2013', 'Washington', 'bis', 'Wahlversprechen ,', 'mögliches', 'Obama initiierte', ', die', 'Gegenstand', 'selbst', '«', 'Schuhe', 'einem', 'schon']

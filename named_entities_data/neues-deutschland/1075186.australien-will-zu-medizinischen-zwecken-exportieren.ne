@@ -1,1 +1,0 @@
-['.', '. Australien', 'in', 'der Nachrichtenagentur', '.', 'für', 'South', 'legalisierten daraufhin Cannabis', 'Index', 'um', '. In Deutschland']

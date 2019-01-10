@@ -1,1 +1,0 @@
-['Aufgabe', 'Kinder', ',', ',', 'um', 'Rόckzug', 'Schulen', ',', ',', 'der', 'umzulenken', 'im', 'der', 'Neutralitδtspflicht', ',', '.', 'Anderen', 'sie', 'zu', 'ist', ',', ',', ':', 'Selbsthaί', 'Lehrer', '. Dennoch', 'es', 'bei einer', 'hatte', 'Lehrern ,', 'der', 'sich \x84SOS', 'seit dem Ende', 'mφglichen', 'dienen', 'Ziel']

@@ -1,1 +1,0 @@
-['aufgebaut', 'Chile', 'Zoo', 'die bereits Charles', 'rassistischen Attacke', 'Kreaturen', 'der', 'nach', 'gut', ',', 'stündige', 'beim Verlassen', 'Haufen', 'gibt', 'dass dieser', 'auf eine', 'aufgeht', 'Infante', 'Hernandez ,', 'Yolin .', 'Cristián Car', 'Rafael', ', Katy', 'keine Pause']

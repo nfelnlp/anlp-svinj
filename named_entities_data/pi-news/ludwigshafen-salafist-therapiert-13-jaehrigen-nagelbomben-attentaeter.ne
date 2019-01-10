@@ -1,1 +1,0 @@
-['J.D', 'Anis-Amri-Mini-me', 'wurde', 'Psychologe', 'der', 'zur', 'für', 'so', '. Der', 'werden . Zeitnah', 'Es', 'und', 'im', 'folgendermaßen', 'weil eine', 'Berichterstattung', 'des', 'angesichts', '“', '“ seien', 'in Ludwigshafen', 'ans']

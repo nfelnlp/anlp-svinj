@@ -1,1 +1,0 @@
-['unweit von', 'Sachsen-Anhalt', 'galt schon immer', 'nicht', ',', 'hier', '«', 'Laden', '-', '- denn', 'gründeten eine', 'um', ',', 'Lied von', 'singen', '» Doch', 'Meckern verschwende oder', 'Bestellen', '. Die ersten sieben', ': »', ',', 'unsere', 'Sigrid Kunz gehört zu', 'spüren .', 'Kugeleis.']

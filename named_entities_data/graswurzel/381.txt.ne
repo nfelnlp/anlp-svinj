@@ -1,1 +1,0 @@
-['RWE', 'seit', ',', '.', 'wir', 'Medienpräsenz', '.', ',', 'setzen', 'her', 'würden', 'Frage', 'Absicht', 'sein', 'kann', 'gute', 'lokalen', 'vom']

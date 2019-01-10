@@ -1,1 +1,0 @@
-['Potsdam', 'Berlin', 'School', 'Eine Berliner', 'nicht', 'Duden ,', '1977 .']

@@ -1,1 +1,0 @@
-['Italien', 'Latium', 'Rom', 'abspielt', 'Folgen', 'Partei', ') durch das', 'legen', 'trauriges', ')', ') angehörten ,', 'um', ')', '``', 'der', 'aufrieb', 'Teil', 'PD', 'fusioniert .', 'nicht viel', 'zusammenarbeiten', 'Um', 'Mann in', 'an', 'mag', 'sondern', 'gehen ,', 'sondern', 'Art', 'Politstil ,', 'auch', 'lange', 'bekämpft verlängert', 'Besetzung']

@@ -1,1 +1,0 @@
-['Bern', 'Schweiz', '.', 'über', 'verdreifacht', 'die', 'Deutschland', '.', 'festzustellende', 'an', 'noch', 'bemerken', 'bis', 'Jahr', '.', 'die', 'bestätigen', 'Zielland', ',', 'David', 'diesem Fall', 'gemeinsame']

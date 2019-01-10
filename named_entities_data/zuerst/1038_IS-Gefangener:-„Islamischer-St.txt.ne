@@ -1,1 +1,0 @@
-['London/Damaskus', 'Seit', ')', 'aufgebaut', 'wurden', 'Anzeigen', 'und', 'Sie berichtete', 'für Attentäter', 'die', '.', 'die', 'rekrutiert', 'IS-Kämpfer', 'allen', 'anbieten .', 'anbieten . Im', 'langen', 'würden', 'Informationen', 'einem', 'Er behauptet', 'Er behauptet außerdem', 'daß', 'und', 'von', 'sein', 'mü']

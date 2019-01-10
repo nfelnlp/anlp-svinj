@@ -1,1 +1,0 @@
-['Straßburg', 'Diese', 'mit', 'Beweise', 'sich', 'Grüne und', 'die', 'Korwin-Mikke und', 'deutsche NPD-Abgeordnete', ', der', 'durch', '“ kritisierte', 'russischen', 'Eis', 'seit', 'für', 'verlor']

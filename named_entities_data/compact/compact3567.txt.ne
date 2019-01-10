@@ -1,1 +1,0 @@
-['und', 'Willkommen', 'Leben', 'Nachstehend', 'nicht', 'mit', 'Raus', 'Auslässe', 'im Wahlkampf mit', 'dieser', 'dort , wo', 'Feld', 'und', 'könnte wie', 'aber', 'doch', '6-fach', 'Lasten', 'nach', 'nicht wundervoll', 'Kontinente', 'ist']

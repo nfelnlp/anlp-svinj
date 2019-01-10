@@ -1,1 +1,0 @@
-['AKP', 'MHP', 'AKP', 'MHP', 'Erbakan', 'Islamisten', 'Turgut Özal', 'Süleyman Demirel', 'in', 'Deutschland', '.', 'sind', 'Militärputsche', 'das', 'Grundsatz', 'Ziel', 'will', 'Inhalte', 'diskutiert', 'Fernsehen', '.', '.', 'die', 'Gefängnis', 'und', 'ersten', '.', 'und', 'Kollegen ,', 'die zu', 'Wenn es', 'heuchlerisch', 'braucht', 'der', 'später', ',', 'nicht']

@@ -1,1 +1,0 @@
-['Freihandelsverhandlungen', 'vor sich', 'vom 10.', 'werden .', 'für', 'Grund', 'zu', 'Rhetorik beide', 'neuen', 'auf', 'Entgegenkommen', 'Wesentlichen', ',', 'und', 'Produkte', 'in', 'eine', 'EU-Staaten', 'der', 'Abkommen', 'sei', 'der', 'Europäischen', ':', 'dann heißt', 'andere']

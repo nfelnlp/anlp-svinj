@@ -1,1 +1,0 @@
-['Sebastian Weiermann', 'Clemens Tönnies', 'Schalke', 'Tönnies', 'Breel Embolo', 'Embolo ablichten', 'Clemens Tönnies', 'Tönnies', 'Böklunder', 'Tönnies']

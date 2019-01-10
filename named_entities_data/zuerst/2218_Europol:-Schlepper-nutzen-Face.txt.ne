@@ -1,1 +1,0 @@
-['EU-Polizeiagentur', 'Darüber', 'darüber', 'Migranten', 'weil', 'in', 'ankommen', 'des', 'mehr', '“']

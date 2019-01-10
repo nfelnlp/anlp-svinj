@@ -1,1 +1,0 @@
-['.', '. Nach', 'die', 'Partei der']

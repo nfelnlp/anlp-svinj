@@ -1,1 +1,0 @@
-['Martin', '–', 'Post .', 'und', 'September', 'den', 'den Fragen', '.', 'einen Auszug', 'am Himmel', 'sich', 'Aktivisten', 'spektakuläre Aktionen', 'mit zehn', 'im', 'anderes', 'nichts', ':', 'einmal', 'einen', 'wird nur', 'sogar', 'mehr', 'aushebeln', 'zur', 'in', 'generell', 'war', 'Eliteprojekt', 'jetzt', 'Fahrt', 'Wege', 'Wende', 'nötig sein', 'Vorbild']

@@ -1,1 +1,0 @@
-['Ronald Pofalla', 'Dinge', 'den', 'Herrn', 'sehr', 'am', 'perfekte', 'Tumblr', 'beliebt', 'sich', 'Jugendlichen schon', 'neue politische', 'Wahlkampf noch', 'Monat', 'und', 'Werbeagentur', 'bei', 'diesem', 'mit', 'viele', 'Aussage', 'war']

@@ -1,1 +1,0 @@
-['nun nachkommen ,', 'und', 'des', 'Forschungsprojekts »', 'Kernenergie und', 'untersucht', 'Tagung', 'Akteuren von', 'die Gerichtsverfahren', '»', 'der', 'haben', 'Arbeit', 'Diese']

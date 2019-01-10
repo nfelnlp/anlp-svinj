@@ -1,1 +1,0 @@
-['SPD', '52 auf', 'großer', 'sind', 'Volk', 'im', ', aber', 'angeführt', 'Clement', 'Mark .', '. Hinzu', 'Sonderregelungen', '.', 'gelten', 'die', 'Milliarden', 'nicht', 'auf dieses', 'auf', 'Strom-', 'pro', ',', 'noch', 'die', 'der', 'größerer', 'ihre', 'Politiker']

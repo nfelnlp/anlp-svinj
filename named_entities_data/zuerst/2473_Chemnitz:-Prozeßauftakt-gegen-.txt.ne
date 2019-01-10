@@ -1,1 +1,0 @@
-['Gesellschaft 6', 'Gesellschaft 6 Chemnitz', 'Chemnitz', 'Laura G. (', 'Stadtpark', '(', 'sie', 'entschuldigte sich vor', 'bei']

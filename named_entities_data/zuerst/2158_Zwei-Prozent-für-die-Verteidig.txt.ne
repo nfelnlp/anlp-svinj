@@ -1,1 +1,0 @@
-['bekräftigte Forderung', 'alle', 'In', 'wird unterdessen', 'über', 'Slowakei', 'Andere Länder', 'Andere Länder sind', '.', 'werde', 'geforderte Zwei-Prozent-Marke', 'erfüllen', 'nämlich', 'will', 'umstrittene', 'der', 'für', 'ergänzen', '‚Für', 'stellt sich', 'Bündnis', ',', 'der', 'Partnern', 'zu', 'Länder', 'Länder den']

@@ -1,1 +1,0 @@
-['Bagdad', 'irakische', 'Haidar Al-Abadi', 'Landsleute', 'Rückkehr', 'in unserem', 'machen', ',', '( IS', 'wird', 'sind', 'die', 'zu', 'mü']

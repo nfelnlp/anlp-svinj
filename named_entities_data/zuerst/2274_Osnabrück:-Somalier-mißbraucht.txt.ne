@@ -1,1 +1,0 @@
-['Gesellschaft', 'Osnabrück', 'Staatsanwaltschaft', 'Staatsanwaltschaft Osnabrück', 'Ihm', 'durch', '. Von', 'vorfand', 'vorfand .', 'Opfer', 'der', '„es wurde', 'sie', 'darauf', 'seit', 'konnte keinerlei']

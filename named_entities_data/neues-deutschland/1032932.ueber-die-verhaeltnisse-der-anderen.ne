@@ -1,1 +1,0 @@
-['Stephan Lessenich', 'Tobias Lambert Kaffeekapseln', 'Schweizer Nestlé-Tochter', '.', 'anderen']

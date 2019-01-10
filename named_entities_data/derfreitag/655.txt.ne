@@ -1,1 +1,0 @@
-['Apple', 'GEORGES GOBET/', 'Getty', 'Es', 'Facebook', 'ihren', 'Technologie', 'in', 'bieten', 'eine', 'bitte', 'dem', 'dem', 'ausreichende klinische Daten .', 'Frauen']

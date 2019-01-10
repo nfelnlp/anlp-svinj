@@ -1,1 +1,0 @@
-['Rom', 'Gaddafi', 'Libyen', '(', 'Die', 'sich', 'in', 'Friedensvertrag', 'den', 'Südgrenze', '„La', '“ wissen', 'die', 'die', '„Die', 'Südeuropas', 'Die', 'Teilen', 'mü']

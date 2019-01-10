@@ -1,1 +1,0 @@
-['Lebenssinn', 'Harburg', 'Fleestedt', 'Landkreis Harburg', 'NDR', 'Originalverpackung', 'Fleestedt', 'Landkreis Harburg', 'Krüger . [', 'Dreimal', 'anderen Helfenden', 'absagen müssen', 'Enttäuschung', ', dass viele Helferinnen', 'noch', ',', 'bieten', ',', 'Helfer']

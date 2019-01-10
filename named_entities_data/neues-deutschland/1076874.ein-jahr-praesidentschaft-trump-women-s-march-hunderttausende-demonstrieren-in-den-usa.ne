@@ -1,1 +1,0 @@
-['Los Angeles', '.', 'Am', 'sind hunderttausende', 'den', 'Samstag nach', 'Polizei die', 'Marsch der', 'Äußerung', 'landesweit mehr', 'die', 'mit', ',']

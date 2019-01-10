@@ -1,1 +1,0 @@
-['schnellstens', 'damit', 'könnte', 'Teile', ', die', 'um', ',', 'Geschichten', 'die', 'mal', 'als', 'ist', 'ist', ',', 'es', 'Asyl', 'befindet']

@@ -1,1 +1,0 @@
-[', Stärkung', '«', 'Guen , Premierminister Manuel Valls', 'für Parlamentsbeziehungen', 'Solidaires', 'gerne', 'des', 'erklärtermaßen , dass', 'Reifenfabrikanten', 'für', 'zwei', 'zahlreiche', 'Allein', 'Mittagszeit', 'Streikaufrufs fielen', 'Lille', 'für', 'Solidaritätskomitees', '.', 'StaatsanwältInnen']

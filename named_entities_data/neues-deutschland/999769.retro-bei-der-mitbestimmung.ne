@@ -1,1 +1,0 @@
-['zu', '.', 'Betriebsrat wurde', 'des Betriebsrates', 'Man', 'Betriebsrat', 'Anweisung', 'die', 'bei']

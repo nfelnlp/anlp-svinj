@@ -1,1 +1,0 @@
-['–', 'Ich', ', einem', ', der', 'sei', ', Sportjournalist', 'Bull Leipzig', 'oder SAP Hoffenheim', 'Leverkusen ,', 'ich das', 'Tradition seit', 'der', 'Verein', 'Antwort ist', 'sie', 'wie', 'Frankfurter Fußballer', 'heute', 'es Schalkes Schatzmeister', 'und', 'zu', 'einer', 'als', 'Ein unfairer', 'Privatvergnügen Teilen']

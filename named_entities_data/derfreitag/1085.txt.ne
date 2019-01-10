@@ -1,1 +1,0 @@
-['gerade', 'seinem neuen', ',', 'indem sie', 'die', 'ohne', 'was man', 'Realität', 'sich in', '.', 'letzte Bewusstseins-Anker', 'Drop']

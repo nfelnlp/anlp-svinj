@@ -1,1 +1,0 @@
-['SPD-Spitzenkandidaten', 'am Abend', 'Entschlossenheit', 'nun', 'Grünen', 'drängten', '.', 'gegen', ',', 'im', 'fürchten', 'CSU', 'Ergebnis', 'einem', 'Herrmann', 'ernstgemeinten', 'also', 'sicher mit', 'will', 'in', '.', 'gerechnet', 'zu', '.', 'höheren', ',', 'Die', 'kommt', 'Zeitpunkt ,', 'Geschichte', 'wollen', 'In', 'ist', 'erscheint', 'wenn', 'den', 'einer']

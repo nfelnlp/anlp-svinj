@@ -1,1 +1,0 @@
-['Böke', 'zu ; prügelt', 'sind', 'sich', 'unter', 'diversen', 'Das', 'Augsburg']

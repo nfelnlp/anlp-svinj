@@ -1,1 +1,0 @@
-['Frankfurter', 'zu', '.', 'die', 'hatte', 'nicht', 'Wissler prangerte einen', 'für', '»', 'Decker', 'Arbeitsbedingungen am', ') verteidigte', 'Ausschreibungsverfahren', 'der Landesregierungen', 'Sozialressorts', 'länderübergreifende', 'hgö']

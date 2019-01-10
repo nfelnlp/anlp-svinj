@@ -1,1 +1,0 @@
-['Was ist', 'gut', 'sehr stolz', '–', '– selbst', '– selbst eingefleischte', 'es', 'sein', 'jede', 'Namen', 'opulente', 'Dachbalkon', 'Persönlichkeiten ,', 'sind', 'höflich', 'es', 'Geburtstag', 'Persönlichkeiten', 'Persönlichkeiten ,']

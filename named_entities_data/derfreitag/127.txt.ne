@@ -1,1 +1,0 @@
-['It', 'von Angel', 'Angel Haze', 'Eminems', 'zur', '. Die', ',', 'sie', 'wer', 'für', 'auszublenden', 'So geht', 'Haze', 'Haze „Dirty']

@@ -1,1 +1,0 @@
-['und ``', 'des politisch korrekten', 'wegen', 'Gewissenhafte', ', die Tag und', 'Phantasien', 'während', 'auszutreiben', '`` Traue', 'Harry Potters', 'um', 'die', 'die', 'der', '`` strategischen', 'haben kürzlich ergeben', 'können', 'Von dem', 'um', 'einer Infantilisierung', 'Im Gegenteil \x96 Big', 'wir mit', 'für', 'Jahr', 'Sorte gibt']

@@ -1,1 +1,0 @@
-['Deutschland', 'suchen', 'Unternehmen', 'das', 'haben', 'noch kein', 'Internets', '4,2', 'in', 'politische', 'zusammen', '„Flüchtlinge', 'aufhalten (', 'man', 'am', 'zwanzig', 'Teilnehmer', '“', '“ )', '“ ) ,', 'Suchenden', 'lernen', 'Wer sich', 'man nach', 'deutlich ,', 'deutlich , die', 'Rahmen', 'sie']

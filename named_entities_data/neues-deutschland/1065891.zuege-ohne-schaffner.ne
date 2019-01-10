@@ -1,1 +1,0 @@
-['kein Zufall', 'Generalsekretär der', 'die Verhandlungen', 'an', 'Übereinkunft', 'Betreibergesellschaften', 'genau', 'die Wasser- und', ', um', ',', '400', 'die']

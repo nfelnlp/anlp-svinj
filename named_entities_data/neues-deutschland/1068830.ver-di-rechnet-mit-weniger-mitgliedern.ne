@@ -1,1 +1,0 @@
-['.', '. Der', 'im', 'der »', 'diesem', 'trotz', 'haben']

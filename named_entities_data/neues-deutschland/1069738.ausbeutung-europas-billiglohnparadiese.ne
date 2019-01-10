@@ -1,1 +1,0 @@
-[',', 'Serbien', '.', 'beschäftigt', 'und', ',', 'Vero', '.', 'den', 'erklärt', 'Kiew ,', 'versuchen', 'Lage durch', ',', 'den', 'Rana', 'die', 'zwischen', 'niedrigen Löhne', 'hingegen', 'wenn', ', eine', 'rufen', 'die']

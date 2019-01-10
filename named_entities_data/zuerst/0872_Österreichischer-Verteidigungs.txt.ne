@@ -1,1 +1,0 @@
-['Österreich', 'Italien', 'Ungarn', 'zu', 'hat', 'aber', 'zu', 'und', ')', 'mit', 'Kritik', '12-Meilen-Zone', 'man', 'Tote zur', 'österreichischen', 'Schengen-Abkommens', 'für', 'meines']

@@ -1,1 +1,0 @@
-['Wagenknecht', 'SED-Nachfolgepartei', 'nicht', 'von', 'in den', 'hervor', 'Wahlprogramms', 'Linkspartei . Es', 'vielmehr', 'Offensive', 'Rundum-Sorglos-Paket', '(', '„scheuen', 'Steuersätzen', 'dessen fresshungriger', 'Lockangebote', 'Gesellschaftsordnung ernsthaft', '. Nichts', 'muss', 'Linke', 'Lockangebote', 'des', 'der', 'veröffentlichen', 'hart']

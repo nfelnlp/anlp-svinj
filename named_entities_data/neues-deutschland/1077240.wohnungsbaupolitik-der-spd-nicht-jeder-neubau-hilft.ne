@@ -1,1 +1,0 @@
-['( LINKE', 'gerne', 'die', 'wieder']

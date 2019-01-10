@@ -1,1 +1,0 @@
-['EZB', 'durch', 'sie', 'ist', ',', 'die', 'also', 'diskreditiert', 'um', 'Anklagen', 'ist', 'von Bauarbeitern', 'über', ',', 'findet', 'Tausend', '-', 'um ihrem', 'um ihrem Protest', 'verschoss', 'dieser', 'auch', 'bedrängender', 'und', 'Auto', 'das', 'Protestbewegungen gegen', 'diese Aktiven', 'gegenwärtigen', 'nicht', 'machtvoll']

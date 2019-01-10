@@ -1,1 +1,0 @@
-['Gesellschaft', 'wies', 'sein', 'Und', 'Januar', 'er', 'Z.', 'Hannover', 'Verurteilung', 'werden', 'des', 'Ergebnis', 'Z.']

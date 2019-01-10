@@ -1,1 +1,0 @@
-['Luca Di Maio', 'Gianroberto Casaleggio', 'Beppe Grillo', 'Grillo', 'Casaleggios', 'Davide', 'Grillo', 'Luca Di Maio', 'M5S', '» Grillo', 'Maio in', 'und', 'hatte', 'ins', 'sich', 'immer', 'Maio ,', 'Grillo auf', 'Stiglitz und', 'Fo auf', 'neuen Webseite', '»', 'auf', 'sich', 'um', 'Vorbestraften', ', die Wähler', 'ob', 'Bewegung']

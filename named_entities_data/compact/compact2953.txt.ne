@@ -1,1 +1,0 @@
-['Endlich hat', 's', ', Compact', 'Ken', 'FM ‘', 'Er', 'des', '.', 'ebenso', 'was', '?', '„rassistisch “', 'es hat', '’ jenseits', 'Selbstkritik', 'der', 'dazu', '“ Amüsant', 'das', 'Unverschämtheit muss', 'umgekehrt :', 'die', 'das', 'soviel']

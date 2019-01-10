@@ -1,1 +1,0 @@
-['Ines Wallrodt', 'US', 'Ramstein', 'Berlin']

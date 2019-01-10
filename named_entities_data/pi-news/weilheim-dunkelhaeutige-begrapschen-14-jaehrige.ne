@@ -1,1 +1,0 @@
-['Weilheim/Teck', 'Zeugen', 'Eine', 'dass', ',', 'Männer', 'von', 'vertuscht', 'nie', '.', 'Die', 'spätere', 'in', 'kamen', 'unsittlich', 'beschreiben', 'ca', 'mit', 'Nauklerstraße', 'gegen', 'Jahre', 'Polizeirevier', ',', 'sie', 'fasste', 'befand', 'Gehweg', 'der', 'Hauseingängen führt', 'Statur', 'spricht', 'spricht . Alzenau', 'und', 'sie', 'die', 'liegt', ':']

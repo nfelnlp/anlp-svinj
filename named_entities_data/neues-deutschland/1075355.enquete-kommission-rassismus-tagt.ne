@@ -1,1 +1,0 @@
-['.', '. Die', 'zu', 'würden', 'sollen', 'und', 'ist es', 'Diskriminierung']

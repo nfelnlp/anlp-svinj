@@ -1,1 +1,0 @@
-['Steffen Ganders', 'Wenn', 'letztlich', '39 ,', 'von', 'Er ist', ':', 'auszurüsten', 'digitale', '.', 'wir', 'ein', 'unterbreitet', 'dass', 'vielleicht', 'in den', 'eingebracht haben', 'ermöglichen', 'ob', 'und', 'Frage', ': „Ist']

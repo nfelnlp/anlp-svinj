@@ -1,1 +1,0 @@
-['Barcelona', 'und', 'Soros bereits', 'erscheinenden', ')', 'Informationszentrum', '.', 'von', 'laut „La Vanguardia “ in', 'es', 'Journalisten', 'populistischer', 'die', '.', 'Kataloniens', 'auch', '. CIDOB', 'laut', '“', 'Open', '50.000 Euro', 'Die', 'Jahren', 'betätigte ,']

@@ -1,1 +1,0 @@
-[',', 'mit', 'Der', 'ein', 'Bürgermeisterin', 'erbost', 'vogelwild', ', wo', 'Rede davon', 'die', '.', 'zu', 'das', ',', 'war', 'Kinder', 'vom', ',', 'hätten', 'ist', 'nichts']

@@ -1,1 +1,0 @@
-['Ingo Schulz', 'Ingo Schulz', 'man dann', 'Gibt', ', dass', ', die sehr', 'öffentlich den Mund', ',', 'Mauer', 'in', 'Andersens', 'wozu dann', 'der', 'Gesamtvermögens', 'etwa', 'es eher', 'selbst wieder ernst', 'kommen', 'Jahren', ':', ',', 'wäre Ihr Bild', 'zu', 'oder']

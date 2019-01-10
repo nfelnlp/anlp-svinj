@@ -1,1 +1,0 @@
-['Obergrenze', 'Es', 'mit', 'Sprache', 'Boot', '`` Schiff', 'erklären', 'auch', 'Debatten um', 'Die', '``', 'Grenze', 'wird', 'auch', 'äußeren']

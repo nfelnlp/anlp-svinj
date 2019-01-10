@@ -1,1 +1,0 @@
-['Deutschland .', 'an', 'den', 'Lösungsvorschläge', 'Was', 'Süß', 'die Technologie', 'sich', 'man', 'kommt', 'wer\xadden', 'wer\xadden muss', 'wenn', 'Auflagen und', 'wie', 'herkömmlichen', ',', 'etwa 200', '2011 in']

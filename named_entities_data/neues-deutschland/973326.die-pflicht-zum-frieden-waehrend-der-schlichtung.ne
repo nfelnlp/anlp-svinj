@@ -1,1 +1,0 @@
-['Saarbrücken', 'Sonja', 'auf', '.', 'Ein', 'einmal wieder in', 'Saal']

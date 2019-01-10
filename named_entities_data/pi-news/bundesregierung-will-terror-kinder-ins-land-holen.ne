@@ -1,1 +1,0 @@
-['Angela Merkel', 'ZDF-Sendung', 'Jahre', 'Regierungschefin', 'genug', 'wieder', 'Ein', 'durchgehen', 'ihren', '„Nadja', 'in einer', 'wieder', 'das', 'ihre', 'aus', ',', 'Jahren', 'mit', 'Nadjas Ruf nicht', 'in', 'Kleinkinder', 'berichten', 'WDR', 'aufgehoben', 'fällt', 'Gefühlsduselei', 'diesen Kreisen', 'Generation']

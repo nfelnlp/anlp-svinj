@@ -1,1 +1,0 @@
-['Jörg Koch/Getty', 'Um', 'von', 'Babyoffensive', 'Herumgekumple der', 'Chef', 'Kinder wählen', 'manchen', 'verblichene', 'Spannung']

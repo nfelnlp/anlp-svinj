@@ -1,1 +1,0 @@
-['Republik Zypern', 'Eurozone', 'Patrick Baz', 'Euro-Finanzminister', 'um', 'Resthoffnungen', 'Gläubiger', 'wenn', 'die', 'dort', 'winzig kleinen Boot', 'es', 'ist', 'bis Mitte 2012', '.', 'sind', ',', 'Konsequenzen', 'Zeitpunkt lag', 'nach', 'Jahr', 'für', 'sie natürlich']

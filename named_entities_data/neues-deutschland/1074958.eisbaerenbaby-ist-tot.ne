@@ -1,1 +1,0 @@
-['Berlin', 'Tierpark', 'Eisbärenbaby', 'Leibniz-Institut für', 'lagen', '. Bei Eisbären', 'Jungtiersterblichkeit', 'ihr', ',', 'Beim']

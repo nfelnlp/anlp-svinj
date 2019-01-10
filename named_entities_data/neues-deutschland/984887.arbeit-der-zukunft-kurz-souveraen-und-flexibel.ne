@@ -1,1 +1,0 @@
-['Weniger', 'wenn', ':', 'gesetzlicher', 'eine', 'Ausbildung', 'Niedersachsen', 'Mitbegründer']

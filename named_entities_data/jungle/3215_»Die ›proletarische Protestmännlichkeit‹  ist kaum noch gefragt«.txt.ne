@@ -1,1 +1,0 @@
-['S.F', ',', ',', 'etwa', 'Höcke vertritt', 'Rühle beziehungsweise', 'Adler einbringen', 'kaum', 'weder', 'Eribon spricht', 'oder', 'Höcke', 'spricht', 'benutzt', 'Theweleit zurückgreifen', 'ist', 'leitet', 'ist', 'erobert', 'hat', 'gut', ',', 'als', 'im', 'ein', 'heraus', 'weil', 'Arbeiterschicht keine', 'funktionieren', ',', 'Männerbewegung', ',', 'für']

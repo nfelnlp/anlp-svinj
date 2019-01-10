@@ -1,1 +1,0 @@
-['Berlin', 'schlägt', 'jetzt', 'Müller (', ')', 'Flüchtlinge.', 'in diesem', 'die', 'Fällen', 'Mehrfachregistrierung', '“', 'Auch', 'die', 'und', '„Die', 'und']

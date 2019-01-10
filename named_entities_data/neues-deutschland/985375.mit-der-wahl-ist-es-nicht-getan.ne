@@ -1,1 +1,0 @@
-['in die', 'eingetreten und', 'David', 'und', 'herben Niederlage', 'Angestellte', 'alle', 'der', 'gesagt', 'Blair.', 'Blair. «', 'soll ein', 'und', 'Brown', 'zählt er', 'den am', '.', 'Wünschen', 'innerhalb', 'ist', 'und', 'und', 'nun', 'auf eine größere', 'war', 'sozialen Bewegungen', 'verebbte', 'Durch']

@@ -1,1 +1,0 @@
-['Main die Konferenz', 'ist Mitglied', 'in Frankfurt', 'mit', '. nd', 'Im', 'Gewerkschaften', ',', '. Können', '. Können sich', 'Bundesvorstände', 'die', 'und', 'Kämpfen', 'spielen', 'Zum']

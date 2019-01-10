@@ -1,1 +1,0 @@
-['Drei Handschriften', 'Heroendichtung', '„Mannen', 'folgt', 'und', 'vor', 'in', 'Wolken', 'sahen', 'Gottes', 'Frohlocken', '|', 'eilen', '|', '|', 'das', 'in', '–']

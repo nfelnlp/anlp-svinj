@@ -1,1 +1,0 @@
-['Trump', 'Wolfgang Eggert', 'FPÖ', 'Lafontaine', 'Sahra', 'auf alles', 'eher', 'Goldene', 'Für', 'ohne TÜV-geprüfte', 'Beispiel erklären', 'Wer seine', 'geplante', 'Kunstwerk', 'es', ',', 'Überrascher', '.', 'Gaddafi', 'neuralgischen Punkt', 'sehen wir', 'was im', 'und daneben läuft :', 'Erkundungswillen', 'Überraschung', 'Magie gehen', 'wenigsten', 'wir']

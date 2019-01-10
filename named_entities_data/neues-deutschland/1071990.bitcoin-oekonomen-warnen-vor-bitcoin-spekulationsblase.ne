@@ -1,1 +1,0 @@
-['gesetzt', 'Würde', 'Zentral- und', 'kommen', 'weitaus', 'der', 'sind', 'die', 'temporär - starren', 'erfolgen', '10', 'Alle Bitcoins zusammen waren']

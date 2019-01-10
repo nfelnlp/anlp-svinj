@@ -1,1 +1,0 @@
-['Ein', '2', 'Leute', '** Ich', 'bin', 'auch', 'und', 'drohten', 'wurde', 'Feuer', 'die', 'Begriff', 'Charakter', '.', 'Die', 'Pak- Geschütze', 'obwohl', 'Gestern', ')', ', welche', ',', 'halte', 'für', 'mit', '“', 'Parallelen', 'zu']

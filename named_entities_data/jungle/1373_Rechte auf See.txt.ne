@@ -1,1 +1,0 @@
-['Eva Grigori', 'Jerome Trebing', 'im', 'der', 'führender Planer', 'Sezession über', 'zu', 'maßgeblich', 'geworben und', 'die', 'Der', 'der', 'Gruppen', 'an', 'der', 'statt', 'der', 'für', 'internationale', 'Umfeld von Kubitscheks »', 'für', 'von', 'zur', 'zur »', '«', '»', 'noch', 'Informationsstände', 'den', 'den vergangenen', 'Vorhaben', 'verwirklicht']

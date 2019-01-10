@@ -1,1 +1,0 @@
-['Ryan Gosling', 'Klaus Raab', 'rein theoretisch', 'Freitag', 'Pappe', '.', 'wird', 'gehen stapelweise weg', 'Rolle', 'gegenwärtige', 'lassen .', '.', ',', 'und', 'durch', 'Zeitphänomen .', 'hat', ',', '. Sie berührt', 'seine', 'treibende Kraft', '.', ',', 'an']

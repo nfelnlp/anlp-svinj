@@ -1,1 +1,0 @@
-['den', 'wollte', '.', ',', 'planmäßig', ',', 'Zweifel', 'mittlerweile', 'nach dem letzten Vorfall', 'entlockt', 'vielen', 'vielen nur', 'Das', 'ein', 'geworben .', 'doch', 'sind', 'Fahrpläne', 'schlichtweg', 'zu', 'könnte', '«', 'auswirken']

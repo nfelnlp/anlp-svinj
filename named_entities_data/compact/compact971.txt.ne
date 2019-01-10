@@ -1,1 +1,0 @@
-['Homosexuellen-Ehe', 'Mitte Mai', 'Literatur-Nobelpreisträger Günter', 'heißt es', 'Frage', 'Menschen', '– hier', 'sie', 'Berührungen', 'wird .', 'noch', 'haben', 'ausdrücklich', 'Der', 'schlechte', 'Pan- , Inter-', 'Asexualität kämen', 'haben', ',', 'das', ')', 'die Hefte in', 'Sie hier']

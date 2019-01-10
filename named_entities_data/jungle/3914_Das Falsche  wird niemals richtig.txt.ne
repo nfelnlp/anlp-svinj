@@ -1,1 +1,0 @@
-['Ivo Bozic', 'Stefan Laurin', 'Donald Trumps', 'theodora becker', 'arne kellermann', 'Ivo Bozic', 'Stefan Laurin', 'Marx', 'Laurin', 'die', 'dialektisch', 'ficht', 'nicht an', 'eine', 'dass', 'bedauerliche', 'Hinter', 'Trump-Wähler ist', ',', 'Werten', ',', 'rechts', 'die', 'der', 'während', 'Kuala Lumpur billig', 'nicht anders', 'dem', 'Provinz']

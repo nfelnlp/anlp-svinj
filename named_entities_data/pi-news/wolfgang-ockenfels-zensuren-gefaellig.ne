@@ -1,1 +1,0 @@
-['brave', 'und', 'die', ',', 'seine', 'nervösen', 'Seiner', 'Weimarer', 'der nationalsozialistischen', '. Doch', 'es', 'im', 'die', 'Papst', 'von', 'Sistierung staatlicher', 'sich', 'Bischöfe', '.', 'sich', 'Rechtsstaat', 'dem', 'diesem regierungsamtlichen', ',', 'Aber', 'von', 'Weise']

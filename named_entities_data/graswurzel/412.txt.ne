@@ -1,1 +1,0 @@
-['einen', "''", 'ungenügend bearbeitet', 'beenden !', 'Das Vorwort', 'einige der', 'Vorläufer anhand', 'Texten von', 'Tolstoi ,', 'Schwantje', 'Clara', 'überwinden', 'gekrönte', 'ist Begründer', 'eine', 'einem weiteren Sinne', 'Forderung', 'ihre Gültigkeit', 'keiner Weise', 'eine hervorragende Ergänzung']

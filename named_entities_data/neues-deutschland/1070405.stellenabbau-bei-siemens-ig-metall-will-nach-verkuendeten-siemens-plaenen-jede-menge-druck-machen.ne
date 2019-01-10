@@ -1,1 +1,0 @@
-['. Der', 'Stellenstreichungen', 'Berlin ,', 'Berlin , Klaus', ', warf', 'kündigte', 'jede', 'Donnerstag', 'Standorte', 'Freitagvormittag', 'Der', 'Florian', 'SPD', ',', 'im Bayerischen', 'von', 'am Standort', '120', 'habe', 'der', 'AFP/nd']

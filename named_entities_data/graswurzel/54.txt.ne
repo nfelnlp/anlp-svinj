@@ -1,1 +1,0 @@
-['Giyas', 'Sophie Scholl', 'Aserbaidschan', 'Aserbaidschan', 'Aliyev', 'Baku', 'Giyas', 'sprayten', 'Polizei', 'mit', 'Polizist*innen', 'handschriftlich', 'die', 'entwürdigend', 'Präsident ,', '2013', '.', 'anderem', 'realisiert', 'anderem', 'Festnahme', 'und Sve']

@@ -1,1 +1,0 @@
-['Gesellschaft', 'Duisburg', 'Stammtisch', 'Alternative', 'Milieu .', 'Polizei', 'Tatortnähe', 'Betke', 'in', 'meine', 'Tatort']

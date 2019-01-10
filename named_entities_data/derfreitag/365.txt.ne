@@ -1,1 +1,0 @@
-['………………………', 'Esmeralda', 'aber ich', 'Weg', 'NIE einen', 'Weinsztein war', 'Sprecht']

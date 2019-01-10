@@ -1,1 +1,0 @@
-['Daniel Libeskind', 'New York', '.', 'bei', 'in', 'quer durch', '.', 'Jahrhunderts', '.', 'man', 'ausgestellt', 'Dabei', 'hoch', 'Die', 'So', 'ohne', 'Gewalt', 'einfach', 'heute', ',', 'Ziele', 'Das', 'hier', 'sein', 'ein', 'zu', 'durch', 'lδίt .', 'zeichnet', 'Flδche', 'die', 'vom', 'nach']

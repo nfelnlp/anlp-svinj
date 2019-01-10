@@ -1,1 +1,0 @@
-['Holtey (', 'lebt', ',', 'bei', 'wie', 'durchführt', 'darauf', '.', ',', 'EU', 'dortigen', 'Die', 'gewesen', 'Die', 'wurde verurteilt', 'vier', 'will', 'in', 'einer', 'Zweckentfemdung', 'sein', 'knapp', 'Herr', 'Zwangsbelegung', 'für abgelehnte', 'verhängt', ',', 'einsetzen', 'es', '“', 'die', 'links ,', 'Für', 'BRD-Regime']

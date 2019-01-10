@@ -1,1 +1,0 @@
-['Syrien', 'Deutschland', 'ab', 'in', 'und', 'der', 'und', 'alle', 'haben', 'Anm', 'zu', 'die ermittelnden', 'Deshalb']

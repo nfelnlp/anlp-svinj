@@ -1,1 +1,0 @@
-['Yair Lapid', 'Tel Aviv', 'Getty', 'Dieses', '22', 'gut', 'Doch kam', 'sich', 'Haus )', 'und', ',', 'Dennoch', 'ihn', 'der', 'mit', ',', ', wäre', 'der Likud', 'Knesset', 'Yair', 'erlangt', 'er', 'jene', '“', 'Zionistischen', ':', 'ohne', 'der', 'zu etablieren', 'zögerlich', 'eher', '.', 'sie', 'haben', 'konnte', 'wirklich', 'Ruhe']

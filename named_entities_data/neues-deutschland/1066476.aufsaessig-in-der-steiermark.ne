@@ -1,1 +1,0 @@
-['Widerständler von damals', 'beginnt seinen', ',', 'und Rosa Parks', 'Die US-amerikanische', 'Vorträgen', 'Über die Pflicht', 'Parks macht jedoch', ', dass', 'betonte ,', 'Methoden »', 'Methoden » rocken', ',', 'aber auch', 'sind', ',', '»', 'Als', ',', '«', 'bis', 'Artikel', 'teilen']

@@ -1,1 +1,0 @@
-['.', '. Zum 13 .', 'Dessauer Polizeizelle', '»', 'ein weiterer', 'Jalloh', '» Mitteldeutsche Zeitung', 'über', 'Artikel', 'doch']

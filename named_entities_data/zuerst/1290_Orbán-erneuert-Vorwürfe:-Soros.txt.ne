@@ -1,1 +1,0 @@
-['Budapest', 'ungarische', 'Viktor Orbán', 'EU-Kommission', 'einen', 'jedes Jahr', 'Den', 'die', 'es', 'der', 'soll', 'derzeit vonseiten der', 'daß', 'EU-Regierungschef', 'sei', 'die', 'Orbán', 'Soros', 'mit der', 'Rundfunk']

@@ -1,1 +1,0 @@
-['Reif', 'Susanne Fischer', 'ist mit', 'Atomstrom', 'ich', ',', 'Erst-', 'sind', 'nach der Geburt ,', '.', 'leitet .', 'Mutter', 'erschienen', '14,99', '.']

@@ -1,1 +1,0 @@
-['steht', 'steht so', ', Joe', ', auf', 'mehrfach', 'entwickeln', 'Vor allem in', 'besonders', 'München', ',', '-', 'Letzterer', 'neun', '.', 'weiteres', '40', 'drei', 'ebenfalls', 'selbst', 'schlechte Preise', 'in', 'die', 'das']

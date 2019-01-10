@@ -1,1 +1,0 @@
-['Gesellschaft 0 Berlin', 'Chebli', 'SPD', 'bezeichnete', 'Vereins im April', 'mit', ')', 'für die', 'weibliches', ')']

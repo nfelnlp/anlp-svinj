@@ -1,1 +1,0 @@
-['Ronny Hartmann/', 'Getty', 'Am vergangenen', 'ganz', 'rase', 'zugewandt', 'von', '–', 'denen', '.', 'der Elbinsel']

@@ -1,1 +1,0 @@
-['London', 'EU', 'britische', 'Michael Gove', 'Großbritannien', 'als', 'seit', 'Barnier', 'auf', 'britischen', 'der', 'für', 'der', 'kann', '200-Seemeilen-Zone', 'der', 'selbst', 'kontrolliert damit']

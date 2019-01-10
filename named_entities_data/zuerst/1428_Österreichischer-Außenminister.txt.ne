@@ -1,1 +1,0 @@
-['nach', '–', 'aus', 'und', 'so', 'wie', 'per', 'wird', 'denen']

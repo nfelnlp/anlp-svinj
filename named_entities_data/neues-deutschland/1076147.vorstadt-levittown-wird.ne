@@ -1,1 +1,0 @@
-['New', ', an', 'das', 'Alles', 'die das Vorstädtchen', 'günstig zu', '16', 'des', 'Wir', 'Seine Firma', '.', 'gewechselt', 'Historical Society', 'Vorstädtchen', 'heute', ', die', 'Kind mit', '»', 'in', 'Burnett', 'ein Haus', 'Afroamerikaner', 'Immer noch sind', 'Sänger', 'Joel', 'aufwuchs und', 'Levittowns', 'Yorks', '. In den', 'positioniert']

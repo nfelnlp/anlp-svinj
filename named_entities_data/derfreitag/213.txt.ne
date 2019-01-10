@@ -1,1 +1,0 @@
-['.', 'leichte', 'Liebe', 'zu', 'Tagtäglich', 'das ihm', 'verstehen sich', 'besser', 'verdient', 'ihrem', 'Stenographie-Zeichen']

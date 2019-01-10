@@ -1,1 +1,0 @@
-['Herthas', 'Private-Equity-Firma', 'Hertha', 'finanzschwachen Arme', 'Investor ,', 'nicht', ', doch', 'in', '? Herthas', 'treffen', 'Rationalitäten', 'sind', '? Für', 'zu', 'hohen', 'hätten', 'bezeichnend', ',', 'dass', 'groß', 'der New', 'überlebte ,', '. Auch', 'Ob', 'bloggt']

@@ -1,1 +1,0 @@
-['CDU-Abgeordnete', 'steht in', ', den', 'dem', '000 Euro sollen', '.', 'gebürtiger', 'mit', 'der', 'in', 'er', 'einmal', 'er schon einmal', 'Im', 'sich', 'Fälschung', 'gab ,', '.']

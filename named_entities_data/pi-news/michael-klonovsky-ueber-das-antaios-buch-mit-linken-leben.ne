@@ -1,1 +1,0 @@
-['…', 'von', 'Sommerfeld und', 'Lichtmesz zu', 'und', 'kapiert', ',', ',', 'verbreitete', ',', 'bis', 'getragene , eine', ',', 'den', 'alles', 'weg', 'das', 'konstatieren', 'Leser', 'den', '= die', 'Welt beschrieb', ':', 'das Bett', ',', 'wieder', 'nie', '“', 'dem', 'mir versichert', 'er', 'Er hat', ',', 'nicht den', 'Caroline', ': „Mit']

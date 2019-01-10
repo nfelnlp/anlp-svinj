@@ -1,1 +1,0 @@
-['Luxemburg', 'Martin Schulz', 'Antonio Tajani', 'Schulz', 'Gerichtshof', 'Luxemburg', 'russischer', 'Schulz', 'EU-Parlament', 'und', '( NPD', 'anberaumte', 'aber', 'bei der', 'Sotnichenko .', 'und ein', 'Birjukow', 'Kreml-nahen Partei', 'hatten', 'eingereicht', 'sich', 'Klage', 'durch das', 'Klageverfahren auch', '.', '. Von', 'nicht', '“']

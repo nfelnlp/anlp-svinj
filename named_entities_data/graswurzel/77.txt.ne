@@ -1,1 +1,0 @@
-['Andrés Ruggeri', 'Athen', 'Thessaloníki', 'Beispiel', 'und', 'ländlichen', 'Griechenland', ',', 'begannen', 'sich', 'zu', 'legale', 'in', 'Der', 'Reichen', ',', 'den', 'Insolvenzverfahren', 'Aussetzen', 'Komitee', 'FAU', 'Wiederwahl', 'Ministerpräsident', 'gewalttätigen', ',', 'griechische Parlament', 'erneuten', 'Anhebung', 'von', '%', 'erhöhen', ',', 'bei', "''", 'die']

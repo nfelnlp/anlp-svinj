@@ -1,1 +1,0 @@
-['Damit', 'komplett', 'führte .', 'Anwaltsgilde', 'und durchaus', 'angemessen behaupten', 'laut', 'und', 'einmal ganz', 'schweigen .', ',', ',', 'selbstverständlich', 'gespaltenes', 'dem', 'allem', 'wählen', 'ihre', 'Überbau', 'dieser', 'So', 'man', 'als', 'mit Anfeindungen', 'nicht', 'Abermillionen', 'Neubürgern']

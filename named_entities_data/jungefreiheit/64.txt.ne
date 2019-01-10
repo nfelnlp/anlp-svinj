@@ -1,1 +1,0 @@
-['Internet', 'derzeit', 'waren', 'schlecht informiert', 'zehn', 'gibt', 'im', 'jemand', 'Erklärungen', ',', 'natürlich ,', ',', 'Jahre', ', daß', 'wie', 'Von', 'Prozent', 'linksstehend', 'als', 'wie über linksextreme', 'Tatsache aber', 'daß es', 'mehr links-', 'Esser', 'Universität', 'reagieren', 'sichten', 'sind', 'die', ',', 'das', 'Meinung', 'einmal', ', woran', '`` Ich']

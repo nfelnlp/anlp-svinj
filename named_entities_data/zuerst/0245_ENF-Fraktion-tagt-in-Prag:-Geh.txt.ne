@@ -1,1 +1,0 @@
-['Prag', 'Rechtspopulisten', 'Europa', 'Prag', 'Europäischen Union', 'EU-Parlamentsfraktion', 'Nationen', 'und die', 'Pen', 'Pen teil', 'Pen teil ,', 'Le', 'Regierungsbeteiligung der', 'eine', 'gute', 'mit', '”', 'kritisierte', 'Marine', 'Einig waren', 'Einig waren sich', 'Tschechen', 'Massenzuwanderung fest', 'jedoch', 'vor der', 'nunmehrige', 'gehen', ',', 'sich']

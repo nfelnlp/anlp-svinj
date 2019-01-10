@@ -1,1 +1,0 @@
-['Begleiter .', 'gewachsenen', 'einen', 'diese', 'Wild', 'unnütz', 'nicht', 'Jagd', 'Fichtelgebirge', 'die', ',']

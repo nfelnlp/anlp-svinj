@@ -1,1 +1,0 @@
-['Deniz Naki', '.', 'in', 'ist am Sonntagabend', 'Nacht', ', sprach', 'einem »', 'Amed Spor', ', schrieb', 'auf Twitter', 'Naki den', 'der', 'Sympatisanten', 'Netzwerk', '?', 'Kurznachrichtendienst', '» Deutschland', 'Erdogan', 'wegen angeblicher » Terrorpropaganda', 'Tagen', 'zurück .', 'hatte']

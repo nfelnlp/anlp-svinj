@@ -1,1 +1,0 @@
-['_von Janusz Korwin-Mikke', 'ich', 'Strick', 'aber', 'werde', '.', 'Buße', 'aus', 'von', 'Eltern', 'eine', 'Ärzten', '.', 'auf', 'oder', 'sozialistischen', 'war', 'den Präsidentschaftswahlen', 'wirtschaftsliberale', 'oder']

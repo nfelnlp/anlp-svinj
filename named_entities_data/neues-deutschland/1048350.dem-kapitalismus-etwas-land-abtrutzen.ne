@@ -1,1 +1,0 @@
-['Susann Witt-Stahl', 'abstürzt.', 'Videobotschaft ,', 'Produktionsweise', 'sei radikale', 'kurdischen', 'Sie bildete']

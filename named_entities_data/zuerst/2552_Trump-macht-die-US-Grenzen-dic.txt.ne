@@ -1,1 +1,0 @@
-['Washington', 'US-Präsident', 'eine Anordnung', 'Die', 'jetzt', 'es unter anderem um', 'aller „Flüchtlinge', 'für', '“', 'für', 'Die', 'wiederholte', 'muslimischen', 'Maßnahmen', 'Maßnahme']

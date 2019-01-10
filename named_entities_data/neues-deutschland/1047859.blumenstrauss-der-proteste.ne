@@ -1,1 +1,0 @@
-['.', 'den', 'denen der Gipfel', 'denen der Gipfel am', 'erobern unsere', 'Logistikarbeitsgruppe', 'zu', 'beraten', '«', 'der Konferenz', '»', ',', 'von Überlegungen ,', 'Stadt', '» G20', '!', 'geplant', 'Pauli sowie', 'Schanzen-', 'Probelauf für den', 'Messehallen']

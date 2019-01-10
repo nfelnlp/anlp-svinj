@@ -1,1 +1,0 @@
-['Reformschreibung', 'Schüleraufsätzen', 'sondern', '.', 'Stadtbibliotheken', 'Mann den', 'ist']

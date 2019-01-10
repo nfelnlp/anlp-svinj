@@ -1,1 +1,0 @@
-['Washington', 'US-Außenminister', 'hat im', 'Feind', 'im Center for', 'International', 'forderte Tillerson – der', 'Reuters zufolge', 'wichtigsten', 'Chinas', 'Zweck', 'der', 'Aber', 'an', 'dadurch', 'und', 'ihrer', 'und', 'chinesische', 'in', 'Tillersons', 'unterstrich', 'Festigung', 'Weltordnung']

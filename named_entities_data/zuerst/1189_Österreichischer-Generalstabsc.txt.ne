@@ -1,1 +1,0 @@
-['Wien', 'Othmar Commenda', 'Commenda', 'haben', 'Frost', 'Mittelmeerroute', 'sei']

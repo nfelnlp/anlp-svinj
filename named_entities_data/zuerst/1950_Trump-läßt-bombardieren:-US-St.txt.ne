@@ -1,1 +1,0 @@
-['Washington/Kabul', 'Es', '–', 'hat', 'und läßt die', 'im', 'Schlag', 'Afghanistan', 'die', 'GBU-43/B', '2003 entwickelte thermobarische Bombe', 'Sprengkörper', 'östlichen Provinz', 'gegen', 'das', 'vor']

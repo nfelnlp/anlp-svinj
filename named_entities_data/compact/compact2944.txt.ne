@@ -1,1 +1,0 @@
-['einem', 'hat eine', 'entwickelt', 'Dauer', ',', 'Bewegung', '„Freiheit', 'beschädigt', 'Sprache', 'ein', ',', 'nicht', 'fairen', 'wenn', 'des Staates', 'noch', 'und']

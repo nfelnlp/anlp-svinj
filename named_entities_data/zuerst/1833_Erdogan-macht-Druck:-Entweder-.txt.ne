@@ -1,1 +1,0 @@
-['Ankara', 'Ankara', 'kehrt', 'endgültig', 'in', 'die er', 'sei', 'Lakai', 'solange', 'mit', 'und', 'Juli', 'Jahrhundert', 'auf', '(']

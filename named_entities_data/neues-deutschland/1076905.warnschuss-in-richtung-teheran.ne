@@ -1,1 +1,0 @@
-['Deutschland', 'René Heilig', 'SPD-Politiker', '- einst', '- von sich ,', 'geschickt', 'Wegen', 'nun', 'Geschäftsräume', 'Maßnahme', 'Amt bes']

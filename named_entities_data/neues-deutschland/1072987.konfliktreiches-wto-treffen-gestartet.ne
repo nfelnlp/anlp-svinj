@@ -1,1 +1,0 @@
-['Aires', 'Aires . Mit', 'WTO', 'in', 'Buenos', 'in ihre', '.', 'gebe', 'Sonntag', 'des Treffens', 'Umfeld', 'Fortführung', 'US-Regierung', 'Brigitte', 'SPD', '. Angesichts des', 'Protektionismus', 'auf', 'Transparenz', 'Regierungen', '.', 'wurde', 'Protest', 'Regierung wurde', 'zugelassen .', '10']

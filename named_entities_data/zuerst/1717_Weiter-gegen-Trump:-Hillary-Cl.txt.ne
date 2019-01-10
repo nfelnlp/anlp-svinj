@@ -1,1 +1,0 @@
-['Washington', 'Macron', 'ÖVP-Spitzenkandidaten', 'hat', 'Hillary', 'eigene Bewegung aus', 'politischen', 'konkret', 'Botschaft', 'Zeit', 'in', 'George', 'kämpfen oder Demokraten', 'Left ,', 'was', ',']

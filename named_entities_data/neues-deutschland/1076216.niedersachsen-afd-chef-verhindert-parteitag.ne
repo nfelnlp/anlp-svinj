@@ -1,1 +1,0 @@
-['Niedersachsens AfD-Landeschef', 'für das vergangene Wochenende', '-', 'an', 'mehrere', 'einen', '.', 'riefen ,', 'Hampel für dasselbe', 'im', 'Diese', 'wieder', ', um', 'um', 'Angaben', 'die', 'vor', 'unnötige', 'Es', 'König', 'beraten', 'die Landesspitze', 'Im', '»', 'Absage', 'in der Nacht', '»', 'am', 'habe', 'dann', 'wurden', 'der', '.', 'gewählt']

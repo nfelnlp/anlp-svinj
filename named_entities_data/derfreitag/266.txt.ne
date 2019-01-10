@@ -1,1 +1,0 @@
-['Schmitz', 'Tschaikowskys Ballettklassiker . Demnächst', 'Was ’', 'selbst', 'er', ', er', 'über', 'kann man', 'mit', '.', 'Nussknacker', 'eine Zukunft', 'gezeigt ,', 'wer', 'für', 'sieben', 'des Familienlebens']

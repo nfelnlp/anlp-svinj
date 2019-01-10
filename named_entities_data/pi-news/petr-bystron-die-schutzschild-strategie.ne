@@ -1,1 +1,0 @@
-['die Identitäre', 'Damit', 'IB in', 'Mir', 'die', '.', '.', 'Dienste', 'sind', ',', '.', '. Darüber hinaus', 'IB', 'sich', 'Wegen', ',', 'Klein-Klein', 'ein wenig', 'als', 'nicht besonders viele', 'ihre', 'des', 'die', 'wenige', 'fliegt', 'haben']

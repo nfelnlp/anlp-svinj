@@ -1,1 +1,0 @@
-['Europa', 'Blockupy', 'Brigitte Forßbohm', 'in Frankfurt', 'Main die Show', 'März', 'maßgeblich', 'autonomen', 'getragen', ',', 'Krisenpolitik']

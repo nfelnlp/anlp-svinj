@@ -1,1 +1,0 @@
-['Schleswig-Holstein haben die', 'auf', 'nicht stattfinden konnte', 'Republikanern', 'Pro', ',', 'und', 'erging (', 'ergeht', 'Etikett', '„Weiter so', 'Emanuelle', 'gewinnen', 'musste', 'dürfte', 'den Bürgern']

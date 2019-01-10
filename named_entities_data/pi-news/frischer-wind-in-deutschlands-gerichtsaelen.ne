@@ -1,1 +1,0 @@
-['Stefan Kolb', 'Hajzer M.', 'stammen', 'Die', 'Abend des', 'der', 'mit', 'es', 'Programm', 'Male', ', am', 'im', 'hatte', 'teilnahm', '. Nachdem', '.', '.', 'übrig', 'Richter', 'diesem', 'ist', 'vorsätzlicher Körperverletzung in', 'erhielt', '.', 'der', 'Richter', 'und eine', 'die Regel', 'nur']

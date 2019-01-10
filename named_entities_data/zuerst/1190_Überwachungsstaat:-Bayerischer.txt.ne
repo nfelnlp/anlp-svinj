@@ -1,1 +1,0 @@
-['Gesellschaft 1 München', 'einmal', 'im Rahmen', 'nicht', 'welches', 'Begriffs', 'für', 'Gefahrenabwehr']

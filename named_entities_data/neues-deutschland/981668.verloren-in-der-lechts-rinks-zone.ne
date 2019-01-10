@@ -1,1 +1,0 @@
-['Velten', 'Ernst Jandl', '.', 'Tendenzen', 'vor .', 'Untersuchung', 'Untersuchung sich', 'Untersuchung sich auf', 'sich Storz']

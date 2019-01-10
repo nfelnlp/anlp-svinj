@@ -1,1 +1,0 @@
-['Europa', 'Mengenrabatt', 'Islam', 'Vergewaltigungskultur', 'Europa', 'Zauberhand', 'Europa', 'Volltrottel', 'es', 'sie', 'hinein', 'bekommen', 'befindet', 'agieren', 'Union zu', ',', ',', 'und', 'Republik', 'Republik – sind', ',', 'bekommen', 'für', 'weil', 'Amendment„', 'mit', 'Rest', 'mir', 'wird', 'haben', ', die', 'die', ',', '?', 'verprügelt', ',', 'bald']

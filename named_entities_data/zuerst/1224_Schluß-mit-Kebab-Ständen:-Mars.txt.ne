@@ -1,1 +1,0 @@
-['Marseille', 'Frankreich', 'Marseille', 'Gaudin die Maßnahme mit', 'statt', 'aber', 'hinter', 'dem', 'Rim-Sarah', 'nicht nur', 'mobil', 'werden', '(', ')']

@@ -1,1 +1,0 @@
-['beispielsweise', 'die', 'Aktion', '„Qualitätspresse', 'nannte', 'saß tief', 'Sonnabend', '„die offene', 'weltoffene', 'ist', 'Zersetzung', '„Tradition der', 'verteidigen', 'lösen ,', 'Die', 'positive Zielbestimmung', 'erkannten', '«', 'die', 'hier']

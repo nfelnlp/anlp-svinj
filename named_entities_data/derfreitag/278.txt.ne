@@ -1,1 +1,0 @@
-['Verena Becker', 'Niedermueller', 'Getty', 'Verena Becker', 'Siegfried Buback', 'Bundesanwalt Walter Hemberger', 'Becker', 'Michael Buback', 'Verena Becker', 'Bizarre', 'Michael Buback', '–', 'Hemberger', 'rechtfertigende', 'Beckers', 'Fraktion zusammenhält', 'hielt .', '.', ',', 'begnadigt worden', 'in gewisser', 'erwiesenermaßen', 'in', 'gerade seinen', 'haben', 'bei', 'den']

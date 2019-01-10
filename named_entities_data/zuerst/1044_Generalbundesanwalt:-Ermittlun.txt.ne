@@ -1,1 +1,0 @@
-['Berlin', 'Peter Frank', '.', 'als', 'juristischen', 'personalintensiv', 'A.', 'als Terroristen ein', ',', ')', 'die', 'Tatbegehung', 'tw )']

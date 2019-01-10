@@ -1,1 +1,0 @@
-['Bianca Klose', 'Berlin', 'Projektleiterin Bianca Klose', 'Bianca Klose', 'Projektleiterin', 'NPD', 'Holger Apfel', 'NPD', 'Berlin', '»', 'Berlin', 'NPD', 'Uwe Meenen', 'Partei', 'Michael Regener', 'NPD', 'das', 'wurden', 'Terrorzelle', '. Obwohl', 'der', 'Rostock-Lichtenhagen wurden aus', 'einer', 'geworfen', '?']

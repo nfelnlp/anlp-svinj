@@ -1,1 +1,0 @@
-['zehn', 'es', 'kiffenden', 'die', 'zu', 'viel', 'zur', 'zu']

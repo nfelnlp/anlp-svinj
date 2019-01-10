@@ -1,1 +1,0 @@
-['Wien', 'FPÖ', 'Außenminister', 'wurde ,', 'überraschend –', 'ging', 'Kernanliegen', 'Jahren', 'der', '“', 'offenbar', 'erklären', 'ablehnte', 'der', 'und', ',', 'Koalition', 'dumm', 'der', 'sich', 'sich aufmerksam', 'inhaltlich', 'der', 'durch seine', '(']

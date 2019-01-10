@@ -1,1 +1,0 @@
-['Washington', 'US-Präsident', 'hat sich', 'zeigte', '„Es ist', 'Videos', 'Bedrohung “', 'Daraufhin', 'Premierministerin', 'um']

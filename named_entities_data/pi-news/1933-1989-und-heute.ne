@@ -1,1 +1,0 @@
-['“', 'von', 'verramscht', 'nur', 'ich', 'Diesmal', 'Diese', 'sich', 'Kalkutta', 'ihren', '.', ',']

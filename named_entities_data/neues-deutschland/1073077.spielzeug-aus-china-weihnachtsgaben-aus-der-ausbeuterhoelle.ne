@@ -1,1 +1,0 @@
-['Finn Mayer-Kuckuk', 'Peking', 'Arbeiter', 'der', 'Guangdong . Die', 'an Mattel', 'Labor', 'D ...']

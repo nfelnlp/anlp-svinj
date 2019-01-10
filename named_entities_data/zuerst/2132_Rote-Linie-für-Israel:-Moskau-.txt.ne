@@ -1,1 +1,0 @@
-['Moskau/Jerusalem', 'Brisante', 'wie', 'mitteilen', 'die russische', 'Rußland', 'Koren', 'einer', 'mit dem', 'und Israel', 'Luftangriffe', 'syrischem', 'lassen', 'die', 'dabei', 'Kampfjets', ',', 'Einsatz', 'zu', 'haben', 'sich', 'das', 'Spiel vorbei', 'der', 'der Einsatz', 'Rußland', 'Reaktion', 'mit', ',', 'die', 'Quere']

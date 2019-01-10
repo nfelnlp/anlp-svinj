@@ -1,1 +1,0 @@
-['den Wahlsieg', 'als Rebellion', '. Was', 'Anzeige Nach', 'bei den', 'vielbeachteten Aufsatz', 'eine', 'Text gipfelt', 'Intellektuellen-Idiot', '\xadDenken', '.', 'das für']

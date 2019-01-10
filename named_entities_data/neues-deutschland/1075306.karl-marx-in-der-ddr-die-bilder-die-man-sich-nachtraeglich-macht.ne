@@ -1,1 +1,0 @@
-['Marx', 'DDR', 'Karl Marx', 'Tom Strohschneider I.', 'zurückzuschauen', 'Marx in', 'und', ',', 'Realität']

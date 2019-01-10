@@ -1,1 +1,0 @@
-['. Unter', '26.', ',', '.', 'und', 'europäischen', ',', 'von', 'einer der']

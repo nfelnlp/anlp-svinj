@@ -1,1 +1,0 @@
-['harten', 'Autobauer', 'Millionen', 'Chattanooga', 'wird', 'bis', 'des', ',', 'eine neue', '» New', 'der albtraumhaften Großen Depression', 'von', 'von Abgeordneten']

@@ -1,1 +1,0 @@
-['den', 'dass', 'die', 'Missverständnisse', 'einem wohl „schutzbedürftigen', 'konnte von', 'noch', 'Eritreer', 'gegenüber und entblößte', 'sichtbar', 'erigierten', 'Mutter', 'zog er', 'zeigte', 'nach', 'Von-Kahr-Straße', 'Polizei , was', 'nicht', 'sich wenig später', 'weiter', 'Grabarbeiten', 'Geschlechtsteil']

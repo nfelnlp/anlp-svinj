@@ -1,1 +1,0 @@
-['. Die', 'Frank', ', der', '. » Wir dürfen', 'der', '.', 'Mitarbeiter müssen', 'viel', 'zum', '.', 'Bund', ',', 'analog', 'automatisiert']

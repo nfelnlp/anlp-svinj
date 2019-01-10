@@ -1,1 +1,0 @@
-['des', 'Jugendliche', ',', 'iPad', 'und', 'grün-linken', 'medial-psychiatrischer', 'der', 'tun', 'Akt die Giftstengel', 'würde', 'Haus', 'ist', 'ist nicht', 'eine glatte', 'ist', 'in', 'mit anschließendem Analverkehr', 'dem']

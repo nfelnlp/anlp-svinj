@@ -1,1 +1,0 @@
-['Washington', 'Wähler', 'sehen sich', 'sogar', 'nun', 'Obama', 'Bau', 'auf', 'Mit']

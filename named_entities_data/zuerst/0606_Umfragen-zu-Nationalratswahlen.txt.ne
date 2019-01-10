@@ -1,1 +1,0 @@
-['Wien', 'ÖVP', 'SPÖ', 'FPÖ', 'ÖVP', 'Freiheitlichen', 'auf', 'rund ein', ')', 'Tageszeitung', 'Österreicher', 'Regierungsabkommens', '.', '. Seitdem', 'allen', 'angesehen', '(']

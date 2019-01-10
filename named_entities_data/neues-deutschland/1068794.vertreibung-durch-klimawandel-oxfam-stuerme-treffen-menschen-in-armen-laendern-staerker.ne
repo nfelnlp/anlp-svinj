@@ -1,1 +1,0 @@
-['.', '. Menschen', 'fünfmal', '.', '. »', 'deswegen', 'wegen', '55.000', 'Regierung']

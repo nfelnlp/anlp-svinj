@@ -1,1 +1,0 @@
-['Washington', 'weiter', 'abhängig', 'würde', 'prompt', 'verstärkte', 'außerdem', 'El', 'und Honduras', 'Trumps', 'worden', 'hatte dieser', 'per', 'hingegen', 'in den']

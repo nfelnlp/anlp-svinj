@@ -1,1 +1,0 @@
-['Moritz Riesewieck', 'Facebook', 'Moritz Riesewieck', 'Philippinen', 'löschen', 'Anzeige Täglich', 'die', 'allerdings', 'den', 'dort', 'unterbezahlt', 'und schildert', '«', 'Farben ,', 'und', 'dass', 'unsere', 'sondern', ',', 'verlangt', 'strafbare', 'Facebook', 'Regierungen', 'aber', 'Sie', 'recherchiert', 'Unternehmens', 'diesem', 'die', 'die', 'zu wahren']

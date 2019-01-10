@@ -1,1 +1,0 @@
-[', aber', 'Rande', 'Chiapas . »', '.', 'klar :', 'Kaffee-', 'nehmen', 'sich', 'Wow', 'Themen habe ich', '. Doch', 'Sämereien', 'verdrängen', 'Hydra alles', 'werden', 'unabhängige', 'zu', 'und breit']

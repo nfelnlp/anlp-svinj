@@ -1,1 +1,0 @@
-['Unterstützen', 'Die Medienmaschine', 'von der', '.', 'höre', 'Muslim bin', 'die', 'auch', 'will den', 'Wenn', 'elektrisierend', '! Sie', 'Frage : Haben Sie', 'gehört', ',', 'Im', '‚Abendzeitung ‘', 'hieß es', 'es sei', 'Video', 'über', ',', 'klar', 'hier']

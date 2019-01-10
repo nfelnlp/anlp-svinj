@@ -1,1 +1,0 @@
-['Rom', 'Schwarzafrika', 'Italien', 'Rom', 'Treviso', 'Behörden', '. Dort wurden', 'wurden', 'Deutschland', 'örtliche', 'Luca Zaia', 'Lega Nord', ',', ', zeigte', 'bereits', 'nur', 'Präsidenten', ', und', 'Liguriens', 'mü']

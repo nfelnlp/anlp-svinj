@@ -1,1 +1,0 @@
-['Gesellschaft 4 Berlin', 'Berlin', 'Bundeswehr', ',', 'Einsatz-Veteranen', ', ihr', 'die', '2.0']

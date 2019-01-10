@@ -1,1 +1,0 @@
-['Gesellschaft 5 Berlin', 'Katrin Göring-Eckardt', 'hat', 'warnte', 'Verschleierungsverbot', 'Moscheebauten', 'Muslime', 'Deutschland', 'können', 'der', 'Asylkrise', 'kriegen', 'sie', 'in', '.', 'tw']

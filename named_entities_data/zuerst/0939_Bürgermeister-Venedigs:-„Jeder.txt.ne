@@ -1,1 +1,0 @@
-['Gesellschaft', 'Venedig', 'schützen', '( 55', 'kann sich', 'Berlin', ',', 'auch', 'haben', 'zu', 'Schlagzeilen', 'zu', 'Bücher']

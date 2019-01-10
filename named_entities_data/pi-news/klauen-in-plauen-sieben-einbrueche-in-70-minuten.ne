@@ -1,1 +1,0 @@
-['vor', 'für', '25 ) und', ',', 'eine', 'Asylbewerber', 'kommunizierten Statistiken', 'eine', 'unter der', 'zwar', 'dort Flüchtigen', '.', '“', 'Auf „Hohem Niveau', '–', 'es', 'Ramadan', 'Lage', 'ihrer', 'zugenommen', ',', '.', 'es', 'von', 'stressgeplagten', ',', 'fordern', 'wirkungsvollen']

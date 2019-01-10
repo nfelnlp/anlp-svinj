@@ -1,1 +1,0 @@
-['Nach', 'altem', 'ist', 'polnischen', 'lächelt', '. Die', 'Flughafen', 'die', 'von', 'manchmal', 'gelebt', 'beleidigend', 'auf', 'Airports', 'Jahr', 'Privatsphäre im', 'sich', 'immerhin.', 'vergleichsweise', 'zu', 'erklärt', 'gut', 'darauf', '. Hinzu', 'Ohne', 'Absprung nicht', 'Wohnung']

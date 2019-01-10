@@ -1,1 +1,0 @@
-['Mutti', 'Amazon', 'Angela Merkel', 'A.', 'A. Kaya Überwältigend ist', 'und', 'Die', 'habe sie', 'das', 'das nicht', 'das nicht eigentlich', 'um', 'geplanten Mahlzeiten', 'wie', 'Als', ',', 'der', 'vermute', 'nach 15', 'Wasser']

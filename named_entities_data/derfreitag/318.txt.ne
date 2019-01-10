@@ -1,1 +1,0 @@
-['der', 'Ricardo', 'nur', 'seiner Frau', 'sich mit', 'sich', 'ein', 'und vielfältig', 'stiehlt', 'Szenarien die', '.', 'einem']

@@ -1,1 +1,0 @@
-['. Im', 'Jahr', 'eigenen', ',', '.', 'überdies', 'führe ,', 'Österreich', 'Raketengeschäft', 'Matra', 'erst', 'Airbus', 'ob', 'Alpenrepublik', 'arglistige', 'geht', 'einen', 'zu', 'etwa', 'kurz nach', 'Bestellung war', 'politisches', 'Die', ')', 'veröffentlichen', 'AFP/nd']

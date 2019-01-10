@@ -1,1 +1,0 @@
-['Getty', 'geht bereits', 'Syriza', 'Man', 'Euro', 'Audi A4', 'schon als', 'verkaufen', 'durch', 'mehr', 'Rahmen', 'öffentlichen', 'Ausnahme', 'besitzt', 'Bundestagsabgeordneten eine', 'Klasse']

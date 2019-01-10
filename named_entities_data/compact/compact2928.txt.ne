@@ -1,1 +1,0 @@
-['Polizei', '–', 'Deutschland', 'der Kommissar', 'auf', 'Potentielle Täter', 'Jahres', 'längst bittere Realität', 'Erfinder', 'zuerst', 'dort', ', darunter', 'New Yorker Polizei', 'Welle der Zukunft', 'Welle der Zukunft “ und', 'versucht', 'werden', 'Man', 'Personen zum Beispiel', 'mehr', ',', 'bevor sie', 'Ist', 'Meyer', 'Wie lassen sich', '?', '”']

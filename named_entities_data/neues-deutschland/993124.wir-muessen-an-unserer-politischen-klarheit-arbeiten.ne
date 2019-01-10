@@ -1,1 +1,0 @@
-['Peter Strutynski', 'Michael Schulze', 'Glaßer', 'Peter Strutynski', 'Peter', 'Peters', 'antifaschistischen', '...']

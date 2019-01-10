@@ -1,1 +1,0 @@
-['K. , der gute', 'aus', 'davon', 'ruft', 'haben', 'gegen staatliche', 'Aktivisten', 'den Augen gelassen', 'Antifas Freundschaft', 'Hauptstadt', 'Er', 'und', 'private', '. Er habe', 'bereits', 'wessen', 'jedoch', '. Stimmt der', 'denen', 'Strukturen', 'unter dem', '»', '.', 'Details', 'Die wollen']

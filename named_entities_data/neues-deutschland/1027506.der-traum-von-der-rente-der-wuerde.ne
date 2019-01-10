@@ -1,1 +1,0 @@
-['Marcelo Vásquez', 'Feliza Ramos', 'Bolivien', 'Thomas Guthmann', 'La Paz', 'Vásquez', 'La Paz', 'Marcelo Vásquez', 'Feliza Ramos', 'La Paz']

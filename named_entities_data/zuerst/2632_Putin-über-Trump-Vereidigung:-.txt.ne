@@ -1,1 +1,0 @@
-['Moskau', 'In', 'In Moskau', 'aufmerksam .', 'warnte jetzt', 'es', 'von', 'damalige', 'massiver', 'Unterstützung aus', 'Kiew', 'und', 'zum', 'in', 'daß', 'Maidan', 'ins', 'Die', 'Fast', 'Keiner', 'Vorwürfen', 'Fälschungen dieser', 'gewählten']

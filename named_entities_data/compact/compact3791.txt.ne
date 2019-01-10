@@ -1,1 +1,0 @@
-['Christopher Davidson', 'Davidson', 'Dubai', 'Vereinten Arabischen Emirate', 'Katars', 'Oman', 'steuerfreie', 'Dubais', 'Hamdan', 'Bahrain', 'Ägypten', 'Muslimbruderschaft', 'Al Jazeeras', 'Katar', 'polemisieren', 'Lage', 'im', 'Nahoststrategie', 'Diktaturen', 'verliert', 'eigentlich Bündnispartner des', 'vor ,', 'nicht']

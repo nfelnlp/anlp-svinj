@@ -1,1 +1,0 @@
-['Washington', '(', 'Army and State Department', 'und', 'Ghosts', 'Außenministerium', 'weitere', 'an', 'einsamen', 'König', 'erklärte', 'der IS-Hacker', '„Angst', 'in', 'nicht', 'Sicherheitsstufe']

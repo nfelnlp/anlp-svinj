@@ -1,1 +1,0 @@
-['-', '- »', ', D', 'führt uns', ', wo', 'werden', '80469 München', '80469 München .', 'Zum', '@', '.', 'Hat', 'dieser']

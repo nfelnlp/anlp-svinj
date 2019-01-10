@@ -1,1 +1,0 @@
-['Moskau/Teheran/Damaskus', 'Rußland', 'die', 'und', 'haben', 'die', '.', 'der', 'unterschrieben', 'entsprechendes', '.', '.', 'Moskauer Delegationsleiter', 'und', 'wollen', 'vier', 'über', '.', 'Führung', 'mehr attackieren', ',', 'dies', 'der', 'Abkommens', 'mit der', 'erneut', '“ für', 'bedeutet', 'seinen', 'herbe', 'sah', 'sollten', 'Hilfstruppen']

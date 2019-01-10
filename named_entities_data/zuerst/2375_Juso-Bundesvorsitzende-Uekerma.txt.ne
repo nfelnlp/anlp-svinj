@@ -1,1 +1,0 @@
-['Bundes-SPD', 'Ausländer', 'Jusos', 'in', 'Johanna', ', in', 'globales', 'abzuschieben', 'in', 'Meinung', 'zur', 'bei', 'dafür', 'Teil']

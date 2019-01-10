@@ -1,1 +1,0 @@
-['Nuit', 'Lo Presti/AFP/Getty Images', 'hat', 'große Streikkultur .', 'Weihnachten', 'als „Lumpengesindel', 'so', 'in', 'anderes', 'gehabt', 'Präsidentschaftswahlen', 'sich', 'und', 'gezogen', 'Die', 'voran', 'in den', '.', '.', 'hat', 'und']

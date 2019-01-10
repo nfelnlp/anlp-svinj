@@ -1,1 +1,0 @@
-['.', '. Das', 'Oberbayern', 'herausfinden', 'bei', 'Altötting im', 'Stoff', 'Untersuchungen']

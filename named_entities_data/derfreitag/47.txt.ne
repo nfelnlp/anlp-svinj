@@ -1,1 +1,0 @@
-['Getty', 'Bei', 'der Wahlkampf für', 'Listenplatz', 'für', '31.März', 'den', 'Gast', ', Unterstützer', 'und', 'Thinktank', 'Jahren', 'in Chemnitz', 'Abgesehen', 'üblichen', 'Blättern evangelikaler Gruppierungen', 'einer', '(', 'Bälde', 'auf', 'Landesliste :', 'beiden', '20 %', 'der', 'wie Umvolkung und', 'den']

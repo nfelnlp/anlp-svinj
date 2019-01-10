@@ -1,1 +1,0 @@
-['Der Bundesvorsitzende beklagt', 'Boulevardblatt', 'anderem', 'und Tag', 'neuen', 'aufgebaut', 'gesamte', 'der', 'GDL-Vorstand', 'sei . Ein', 'ist']

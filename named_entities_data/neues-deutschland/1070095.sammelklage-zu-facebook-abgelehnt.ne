@@ -1,1 +1,0 @@
-['. Nach', '( EuGH', 'gegen Facebook', '.', 'kann', 'Schlussanträgen am', 'des', 'Facebook', 'Verstöße gegen', 'europäische', 'eingereicht', 'den', 'österreichische', 'Fall', 'anderen', 'zunächst rein', 'Vorträge', 'Aktivitäten', 'dass', 'angemeldet', 'Bobek', 'immer', 'geltend', ',']

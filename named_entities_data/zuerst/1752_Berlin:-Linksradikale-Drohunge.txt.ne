@@ -1,1 +1,0 @@
-['Gesellschaft 2 Berlin', 'von', 'bin völlig', 'sich Antifaschisten wie Faschisten.', '„Kiez', 'Bundestagswahl', 'seien bedroht', '„Ein', 'Begründung', 'Veranstaltungsreihe', ', kommentierte']

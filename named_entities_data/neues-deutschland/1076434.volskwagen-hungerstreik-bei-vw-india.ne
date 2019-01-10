@@ -1,1 +1,0 @@
-['VW-Produktion', 'gut', 'von', 'den', 'ein Rekordergebnis', 'Bundesstaat', 'sind', 'Band', 'der', 'der', 'das Werk', 'Produktion', 'die', 'Werk']

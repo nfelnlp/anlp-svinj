@@ -1,1 +1,0 @@
-['.', 'hier', 'hier im Vordergrund ,', 'der', 'der', 'was er', 'sei', ',', 'in', 'Millionen', 'Arbeitsameisen', 'der', 'in', 'uns', 'waren Mitglieder', 'christlichen', 'Rechte', 'auch', 'waren', 'ehrlicher', 'noch konservativ . Hitler war', ',', 'spielten', ',', ',', 'kurzfristigen', 'nicht für', 'Zum', 'die', 'AfD', 'um', 'Kultur', 'und nicht', 'bleiben']

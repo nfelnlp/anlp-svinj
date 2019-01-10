@@ -1,1 +1,0 @@
-['sich', 'Die', 'geben', 'Russen', 'blieben', 'zu', 'NATO', '.', 'die', 'nachdem', 'seit', 'einzigen', 'durch', 'hält', 'bis', '.', 'Folgen', 'durch', '.', 'eigentlich', 'dass die', 'in', '.', 'auch', ',', 'seit', 'Deutschland', 'USA', ';', 'glaube', 'Volk', 'Diamanten', 'Kohle', 'oder', 'überholen', 'Vielleicht', 'es', 'es uns so ergehen', 'gehen', 'Sie', 'immer', 'unter']

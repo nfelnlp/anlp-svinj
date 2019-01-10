@@ -1,1 +1,0 @@
-['Die', 'die', 'Er ist', 'Mitbegründer', 'größten Risikokapitalfonds in', 'israelischen', 'trockener Unternehmer', ':', 'boomen', 'der', 'Reihe', 'Erfolg', '. Von der', 'fruchtbar', 'erfanden', 'Bereich', '.', ',', '.', 'die', 'mit denen', 'their', 'give', 'ein', 'Schriftzug', 'No', 'Arbeitsbedingungen', ',']

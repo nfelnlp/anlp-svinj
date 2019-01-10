@@ -1,1 +1,0 @@
-['einem', '.', 'der', 'ein', 'Dem', 'gebaut', 'möglich', 'der', 'zum', 'gerichtliche', 'Personen', '.', 'im Umfeld', 'blockierten']

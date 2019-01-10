@@ -1,1 +1,0 @@
-['Viorica Dancila', 'Liviu Dragnea', 'Sozialisten', 'PSD', 'Brüssel', 'EU-Kommission . Das', 'glücklosem Vorgänger', 'von', 'bereits', 'Nun', 'für', 'Premieramt', 'Europaabgeordnete', 'Dragnea', 'Kreis', '.', 'übernehmen', 'Dragnea', 'Vorgängern', 'absegnet', 'innerhalb eines']

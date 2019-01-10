@@ -1,1 +1,0 @@
-['fand nicht', 'gute', 'die Musikindustrie', 'den', 'Branchen', 'das Prinzip', 'Abend', 'verlogenen', '„ein', ',', 'Tatsache , dass', 'Lied', 'bei', 'feat', 'und', ', so', 'möchten bitte', 'sorgen ,', 'ROYALE- Folge', ', wäre', 'Was', '?', 'Song', 'Track', 'wie möglich', 'von Youtubern', 'führt', 'so', 'Bedeutung von']

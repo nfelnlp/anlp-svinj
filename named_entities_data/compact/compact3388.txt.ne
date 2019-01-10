@@ -1,1 +1,0 @@
-['Irak', 'Irak', 'Iraks', 'Maliki', 'Bagdad', 'Saudi-Arabien und Iran', 'bereit', 'schon', 'Ölfirmen', 'Der', 'selbst immer', 'wenig mit den', 'Geld', 'zunehmend', 'alte', 'Nationalstaates', 'der Soziologie', 'diese Prinzipien', 'Buch als', 'radikalste', ',', 'dem', 'und', 'schon', 'des', '«', 'Nomos', ',']

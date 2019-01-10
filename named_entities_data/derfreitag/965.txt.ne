@@ -1,1 +1,0 @@
-['Bruce Willis', 'Gabriel Bouys', 'AFP', 'Getty', 'Bruce Willis', 'zu', 'an', ',', 'sein', 'Playlist', 'doch', 'finde ich', 'für', 'Frage']

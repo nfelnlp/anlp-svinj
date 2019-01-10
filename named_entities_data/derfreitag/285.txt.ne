@@ -1,1 +1,0 @@
-['Hansi', 'Stahlhelmen', 'Ukraine', 'Deutschland', 'Schweinsteiger', 'Schweinsteiger', 'Heinz Rudolf Kunze', 'Kühe', 'nicht', 'nun', ',', 'meisten', 'und Philipp', 'beim Abendessen', ',', 'höchstens', 'Y', '.', 'schöner machen', 'den Kopf', 'Hansi', 'morgen', 'Völler', 'gibt keine', 'Europameister zu', 'sich deshalb']

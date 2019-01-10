@@ -1,1 +1,0 @@
-['Gesellschaft', 'Forchheim', '„Ein', 'Schüler ab', 'Täter', 'die', 'die Geschehnisse']

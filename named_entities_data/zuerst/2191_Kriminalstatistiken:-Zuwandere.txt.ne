@@ -1,1 +1,0 @@
-['Gesellschaft 4 München/Stuttgart', 'Im', 'laut', 'laut Polizeilicher', '.', 'Prozent', 'CSU )', 'das', 'ist', 'die Polizei im', 'denen', 'dies darauf', 'hätten.']

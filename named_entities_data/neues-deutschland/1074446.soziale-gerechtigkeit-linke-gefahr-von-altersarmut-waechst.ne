@@ -1,1 +1,0 @@
-['. Die', 'zufolge', 'Jahr waren', 'als', 'den', 'Niederlanden', 'Risiko', 'wie', 'Zimmermann', 'hat', 'künftigen', 'Altersarmut', '»', 'müssten', 'werden']

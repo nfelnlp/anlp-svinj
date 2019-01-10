@@ -1,1 +1,0 @@
-['im Gespräch', 'Hamed Abdel-Samad', 'einer der international', '2013', "''", '.', 'radikalen Gamaa', 'Mursi', ',', 'Abdel-Samad für', 'prognostiziert', 'untergehen und', ':', 'Karten sind', 'Maxim Gorki', 'Berlin']

@@ -1,1 +1,0 @@
-['Koblenz', 'Koblenz', 'mitteilte', 'geht mit Ende Juni', 'weitere', 'ist']

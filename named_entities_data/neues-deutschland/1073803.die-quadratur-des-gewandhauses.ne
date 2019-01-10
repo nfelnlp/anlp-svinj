@@ -1,1 +1,0 @@
-['die', 'für', '. Nun könnte', '. Nun könnte 2018/19', 'sollte', 'der', '- für', 'gekündigt', 'Gründe', 'Eindruck ,', '«', 'Stellungnahme', 'das', '.', 'Schließlich', 'einmal']

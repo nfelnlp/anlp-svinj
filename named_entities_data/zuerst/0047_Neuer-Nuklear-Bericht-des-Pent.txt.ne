@@ -1,1 +1,0 @@
-['Washington', ',', 'Rußland', 'aber', 'Nordkorea', 'atomare', '.', 'abzuhalten', 'man', 'bekommen', 'verstärkt', 'In']

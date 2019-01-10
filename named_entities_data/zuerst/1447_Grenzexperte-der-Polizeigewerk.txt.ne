@@ -1,1 +1,0 @@
-['Düsseldorf', 'der Polizei', 'GdP', 'Arnd Krummen', 'wegen', 'Niederlanden', 'und', '.', 'Deutschlands und seit', 'zwei', '11.972']

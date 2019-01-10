@@ -1,1 +1,0 @@
-['bevormundet', 'heuer', 'Betonklötzen', 'Polizei', 'nämlich Sorgen', 'Spruch', 'dazu', 'Merkelsteinen', 'Anschlägen', 'Weihnachtsmärkte', 'abzudecken', 'auf', 'Weihnachtsmarkt', 'Martin', 'vom Breitscheidplatz', 'Advent', ':', 'erste', 'sich', 'am', 'des', '.', 'Seite', 'Metalldetektoren', 'mit Tannenzweigen', 'Flair', 'der', 'das', 'angebrachter Angst zu']

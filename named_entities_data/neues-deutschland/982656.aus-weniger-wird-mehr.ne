@@ -1,1 +1,0 @@
-['Manuela Schwesig', 'Regina Stötzel', ') ,', 'erst', 'NGG )']

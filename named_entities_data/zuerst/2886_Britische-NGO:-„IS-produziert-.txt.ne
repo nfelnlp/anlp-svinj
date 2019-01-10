@@ -1,1 +1,0 @@
-['(', 'Strukturen', 'Research', '(', 'rund um', 'Laut', 'Bevan', 'CAR ,', 'die', 'in', 'Zuliefererkette', 'heißt', 'in', 'Standards']

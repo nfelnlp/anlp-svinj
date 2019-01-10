@@ -1,1 +1,0 @@
-['Dobrindt', 'Lens/Imago', 'Reden verbannt', 'spricht', ',', 'es', 'müssen', 'hier', 'ohnehin', '. Diese', 'So', 'in', '.', 'in', 'Belastung', 'den', 'wenig Verkehr', 'es']

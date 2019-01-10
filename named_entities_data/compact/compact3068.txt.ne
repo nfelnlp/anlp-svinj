@@ -1,1 +1,0 @@
-['Harzheim', 'der', 'das', 'der', 'von', 'geplanten', '–', 'oder', 'wo', 'geschlachtet', 'in', '. Laut', ',', 'niemals', ':', 'edlen', 'noch', 'aus', 'Von weißer', 'Ist', 'Die', 'Autor gibt', 'in']

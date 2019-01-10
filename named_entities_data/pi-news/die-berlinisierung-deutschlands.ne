@@ -1,1 +1,0 @@
-['CANTALOOP', 'Hunderttausendfach', 'so', 'der ansonsten', 'bestimmt', 'in', 'Grausen', 'von den goldenen', 'seinem', '„Teams', 'steht', 'elitären Negativ', 'Umkehrschluss', 'Wunder', 'weiteres', '.', '–', 'Lagers auszusetzen', 'noch', 'preisgegeben', 'wagen']

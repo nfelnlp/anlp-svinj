@@ -1,1 +1,0 @@
-['Prag', 'Tschechischen Republik', 'auf', 'und', '.', 'dafür', 'an', 'in', '“', 'als', 'Grund', 'im', '“ (', ',', 'anzuerkennen .', 'kam', 'auf', 'Okkupation', 'erklärte', 'der', 'der bei', 'eine', ', „um', 'kulturellen', 'die', 'ist', 'ungeklärte', 'Rußland .', 'zum', 'Krim', 'wiederholt', 'die', 'Donbass-Problem', 'der', ',', 'die Ukraine', '.']

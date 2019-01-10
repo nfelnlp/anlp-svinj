@@ -1,1 +1,0 @@
-['Das', 'lang', 'Arbeiten', 'der']

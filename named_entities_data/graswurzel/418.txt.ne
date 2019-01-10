@@ -1,1 +1,0 @@
-['Diana Francis', 'hauptsächlich', '.', 'an', '106', '( die', ',', 'Gewalt durch', 'bereit ,', 'betonen', '.']

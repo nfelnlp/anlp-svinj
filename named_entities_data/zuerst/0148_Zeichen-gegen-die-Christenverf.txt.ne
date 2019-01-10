@@ -1,1 +1,0 @@
-['Istanbul/Kairo', 'Inmitten', 'Istanbul', 'dem', 'nach', 'wiedereröffnet', 'Der', 'türkischen', 'Erdogan', 'bei', 'Eröffnungsfeier für', 'sei', 'ein', 'Gebetshäuser', 'terrorisiert', 'von', 'feiern .', '. Januar', 'noch', 'Namen Christi Geburt', 'dort', 'nahe der Markus-Kathedrale in', 'im', 'neuen Kathedrale angeordnet', '(']

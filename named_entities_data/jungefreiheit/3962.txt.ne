@@ -1,1 +1,0 @@
-['Achtzigern .', 'zehn', 'Bücher', 'ist', 'zehn', 'eine', 'Puffreisscheiben', 'das', 'kann', 'lange', 'viel', ',', 'führen', 'ertappt', ',', 'das', 'Halbtagsstelle', 'bereiten', '39', 'die', 'Sozialkunde', 'Türkenkinder', 'und', 'doch', 'Es ist', 'Geist', 'wünscht', 'Heute wie', ',']

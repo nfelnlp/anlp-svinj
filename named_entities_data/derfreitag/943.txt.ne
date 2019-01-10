@@ -1,1 +1,0 @@
-['Michel Temer', 'Rousseff', 'Der', 'um', 'Dilma', 'stufen den', 'bis', 'Diktaturen', '2003', 'Präsidentschaft', 'innehat , verfolgte', 'erweitern', 'Hauptgründe', 'Die', 'es', 'Staatskrediten', 'unterstützen', 'Mehrheit', 'über', 'Unterstützung des', 'nicht', 'Präsident wird .', 'lassen , nachdem', 'Frustration', 'den', 'das']

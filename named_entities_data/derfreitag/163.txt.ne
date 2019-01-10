@@ -1,1 +1,0 @@
-[': Chris', 'waren vermeintliche', 'der', 'jetzt', 'losgelöst', 'Demokratie', 'mehr', 'war', 'des', 'Aushebelung', 'für', 'dem ausnahmslos', 'die', 'innerhalb', '.', 'künftige', ',', 'es', 'Lager', 'sei', 'der', 'Autokraten']

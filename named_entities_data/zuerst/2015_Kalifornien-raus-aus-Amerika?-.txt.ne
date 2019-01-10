@@ -1,1 +1,0 @@
-['San', 'San Francisco', 'Kalifornien', 'Sezession', 'Trump', 'Kalifornien', 'Reuters/Ipsos', 'Beobachter', 'geworden', 'einem Leitartikel als', '„Los Angeles', '„Los Angeles Times', '” geschrieben , das', ',', 'Der', 'Zustimmung erkennen', '„Ich glaube', 'und gut', '”', ',', 'derzeit noch nicht', 'Letztlich']

@@ -1,1 +1,0 @@
-['Otto', 'wird', 'und', 'der aber', 'besten', 'ist', 'stellen']

@@ -1,1 +1,0 @@
-['Erfolge', 'einen', 'Mutter', '.', 'Richard (', 'ist', 'und spult', 'Durcheinander', 'Ber\xadger ,', 'gut zu', ', berichtet', 'Flüchtlingen', 'wurde', 'gibt', 'durchdrungenen', '“', 'zum', 'auch', '.', 'wird', 'Sophie', 'kei\xadnen Plan', ':', 'illegalen', 'des', 'des Films', 'Parallelgesellschaften', 'wissen', 'mehr', 'aussuchen “', '„Wir', ')', 'Tatsache', 'Monaten nichts']

@@ -1,1 +1,0 @@
-['Kaltenkirchen', 'Hamburg', 'Mehrere', 'ermittelt nach', 'Tatort', '.', 'die junge Frau', 'Täter', 'In', '“', 'gut', 'der', ',', 'worden', '.', 'eindeutig', ',', 'Beteiligten', 'Uhr', 'in', 'und', 'große', ',', 'sie', 'jungen', 'der', ',', 'von', 'Verdächtigen', 'Jahre', 'der']

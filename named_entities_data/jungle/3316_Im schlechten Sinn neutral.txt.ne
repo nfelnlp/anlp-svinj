@@ -1,1 +1,0 @@
-['Becker Anzeige', 'mit Marie', 'in der', 'in', 'der', 'der Störenfriedas', 'den', 'bei', 'fanden', '.', 'die er', 'in Anführungs\xadzeichen schreibt )', 'Deutschen', 'Themen', 'den', 'bei', 'Motivation']

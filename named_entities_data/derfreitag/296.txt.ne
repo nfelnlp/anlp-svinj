@@ -1,1 +1,0 @@
-['Abbas Momani', 'Getty', 'Die', 'ihrem', 'erneut die', 'Restlegitimation', 'Augenblick', 'die', 'seiner', 'auch', 'Hamas', 'Jahren', '. Im', 'lässt', ',', 'damit erreichen', 'stellt', 'will', 'mehreren gescheiterten', 'aufgegeben und', 'kategorische', 'wieder mehr', 'ihnen', ':']

@@ -1,1 +1,0 @@
-['gilt', '.', 'Böhme-Zeitung', 'in gewisser', 'ist', 'ist', '29', 'bei', 'virtuellen Bierdeckel', 'Euro zusammengekommen', 'kooperieren', 'Nast', 'Ministerium', 'Kultur', 'leicht', 'einen solchen Service']

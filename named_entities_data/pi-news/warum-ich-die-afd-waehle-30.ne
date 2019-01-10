@@ -1,1 +1,0 @@
-['JÖRG K. |', '( Thüringen )', 'gehörte', 'passiert', '‘', 'ein', 'Vorgefühl von', 'hohen', 'Meinung bleiben', 'erkannte', ',', ',', 'wer', 'Tugenden', 'sein , aber']

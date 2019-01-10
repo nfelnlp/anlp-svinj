@@ -1,1 +1,0 @@
-['Seite', 'ist', 'Schuld', 'der', 'verwechseln . Das Es', 'wird sie', ',', 'und', 'lernt , die', 'Depression', 'Angstgefühle', 'Problem', 'notwendiger und wünscheswerter', 'und', 'Trieben', 'hermeneutisch']

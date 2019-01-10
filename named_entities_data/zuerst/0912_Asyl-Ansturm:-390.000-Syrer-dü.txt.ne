@@ -1,1 +1,0 @@
-['Berlin', 'Bundesrepublik', 'Bundesrepublik Deutschland', ':']

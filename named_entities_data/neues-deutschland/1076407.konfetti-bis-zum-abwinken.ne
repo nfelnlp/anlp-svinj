@@ -1,1 +1,0 @@
-['. Was', 'Ärgernis', 'die', 'erstmals', 'verboten', '.', 'allem für', 'erstmalig kein Konfetti', 'werden', 'keine', ',', '.', 'manchen', 'wird extrem', 'sowieso', 'Kehrmaschine und säubere', 'gewesen', 'und', 'Michael', 'vom']

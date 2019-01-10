@@ -1,1 +1,0 @@
-['München', 'seinen', ',', 'Kassel', 'die', 'den', 'König sollen', ', was', 'NSU-Watch «', 'die', 'Schorlau', 'Die schützende', 'Laabs werden', 'Aspekte des', 'Veranstaltung', 'Februar']

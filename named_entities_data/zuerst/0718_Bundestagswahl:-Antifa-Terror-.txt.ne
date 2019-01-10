@@ -1,1 +1,0 @@
-['Gesellschaft', 'Deutschland', 'Leipzig', 'Köln', 'Hamburg', 'Berlin', 'Frankfurt am Main', 'Düsseldorf', 'München', 'Alexanderplatz', 'Meuthen', 'sein und', 'der', 'zu', ',', 'ist', 'Moment']

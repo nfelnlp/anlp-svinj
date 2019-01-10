@@ -1,1 +1,0 @@
-['Salzburg', 'räumte', 'und', 'Balkanländer', 'Deutschland', 'Bundeskanzlerin', 'September 2015', 'würden', '„Balkanroute', 'werden', 'Rumänien ,', ',', ',', 'Tschechische', 'und', 'sowie', 'Bosnien-Herzegowina', 'Bosnien-Herzegowina ,', ',', ',', ', Kosovo und', 'unterzeichnet', '(', ')']

@@ -1,1 +1,0 @@
-['Ankara', 'türkische', 'Recep Erdogan', 'Berlin', 'Deniz Yücel', 'Ankara', 'Ankara ausliefert', 'TGRT', 'Erdogan', 'einer', 'Erdogan', ':', 'Zu', ',', ', sagte Erdogan', 'auf', ',', 'aufzuheben', 'terroristischen', 'Ihm', 'hinaus']

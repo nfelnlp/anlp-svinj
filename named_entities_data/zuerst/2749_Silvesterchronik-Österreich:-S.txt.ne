@@ -1,1 +1,0 @@
-['Innsbruck/Salzburg/Graz', 'Unsere', 'der', 'bisher', '18', 'sich', '17jährige', 'seine', 'Die']

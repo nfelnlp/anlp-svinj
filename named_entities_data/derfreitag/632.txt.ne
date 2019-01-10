@@ -1,1 +1,0 @@
-['Melancholiker', 'Das', 'Whiskey', ', wie', 'glaube', 'auch', 'redlich mühte', 'an', 'das', 'und', 'mehr zum Zuhörer –', 'lachten', 'Eröffnungsrede als', 'damals historische', 'noch', 'auch mal', 'wie', 'ihren Fähigkeiten in', 'die Führung', 'beehrt']

@@ -1,1 +1,0 @@
-['Ramstein .', 'NATO', 'Rußland', 'NATO-Stützpunkts', 'Nachrichtenagentur', 'mit ,', 'selten', '.', 'zurückzuführen', 'vermehrt unter', 'gilt', 'dagegen', 'des', 'Jahr', 'Angst', 'fliegen']

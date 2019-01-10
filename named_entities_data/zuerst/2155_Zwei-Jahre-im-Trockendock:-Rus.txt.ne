@@ -1,1 +1,0 @@
-['“ ,', 'über', 'gebaute', 'war', 'mitgeführt werden']

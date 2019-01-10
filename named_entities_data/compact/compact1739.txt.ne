@@ -1,1 +1,0 @@
-['Donald Trump', 'Vereinigten Staaten', 'Vision', 'groß', 'in', 'erste Rede', '.', 'sehr', 'die', 'ich', 'mehr', '– die', 'hier irgendwo', 'Fred', '.', '.', 'Baron', 'ich danke', 'ich', '.']

@@ -1,1 +1,0 @@
-['Bundesanwaltschaft', 'Beate Zschäpe', 'OLG', 'OLG München', 'eines', '„Mut', '.', 'Die beiden', 'die Widersprüche', 'Anfang', '“ nannte', 'sagte', 'gewesen –', 'der', 'ebenfalls nicht', 'Starkes', 'zweite', 'Führungsposition', 'so', '–', 'Prozess', 'tauchte ein', 'Eine', 'Um', 'Merke', 'den']

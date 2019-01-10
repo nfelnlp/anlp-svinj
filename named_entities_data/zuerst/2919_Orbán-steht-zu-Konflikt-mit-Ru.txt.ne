@@ -1,1 +1,0 @@
-['Budapest', 'Rumänien', 'Ungarn', 'Rumänien', 'Budapest', 'Bukarest', 'Orbán', 'rumänischen', 'Péter Szijjártó', 'ungarische', 'Orbán wurde', 'sagte', ':', 'zu', 'der', 'diesem', 'Nationalversammlung', ',', ', deren']

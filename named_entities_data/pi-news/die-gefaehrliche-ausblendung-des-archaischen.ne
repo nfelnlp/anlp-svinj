@@ -1,1 +1,0 @@
-['Deutschland', 'Silvester', 'Deutschland', '–', 'so', 'Beutementalität', 'heraus in', 'Jahrzehnten', ',', 'oder', 'Türkeistämmige sind', 'Beutementalität', 'wir', 'zumeist', 'Regel', 'Täter', 'und', 'bald', 'bedeutet ,', 'nicht']

@@ -1,1 +1,0 @@
-['Daniel Behruzi', 'Ver.di', 'Daniel Behruzi', 'Jenaer', 'Klaus Dörre', 'Großindustrie', 'ver.di', '...']

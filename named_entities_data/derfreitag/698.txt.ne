@@ -1,1 +1,0 @@
-['Berlin', 'Christopher', 'Christopher Street', 'Christopher Street Day', 'und', '.', ',', 'lesen', 'ein', 'zum', 'die weltweit', '30', 'verfügten', 'eine', 'siebziger Jahre', 'sind heute', 'Männern', 'Hinterzimmern', 'haucht dem', 'Image der Neuköllner', 'Gäste', 'wäre', 'und']

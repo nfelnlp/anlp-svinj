@@ -1,1 +1,0 @@
-['Elisée Reclus', 'seinerseits', ',', 'und', 'auch', ', ``', 'Postanarchistinnen', 'Postanarchisten', 'bedingt', 'bin ich', 'Grund', ', das', ',', 'paradoxen', 'wurde', 'Natur', 'ginge', ',', "'' (", '``', 'of', 'Ludwig Wittgensteins ,', 'Naturwissenschaften', 'nur', 'warum ,', 'Mensch', '. Joseph']

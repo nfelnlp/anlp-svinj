@@ -1,1 +1,0 @@
-['Budapest/Talinn', 'Orbán', 'sich', 'ungarischen', '„nichts', 'EU-Gipfels', '.', 'richtig', 'daß sie', 'zur', 'offiziell', 'Die', 'zerstochen .', 'seine', 'Maßregelungen', 'keine', 'in', 'nicht']

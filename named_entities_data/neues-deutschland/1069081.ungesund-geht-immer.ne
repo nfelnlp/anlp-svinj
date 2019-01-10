@@ -1,1 +1,0 @@
-['alle', 'alle vier', 'Die', 'von der', 'Schule', 'größte', 'Ernährung (', 'positive', '3,8', 'müssten', 'und']

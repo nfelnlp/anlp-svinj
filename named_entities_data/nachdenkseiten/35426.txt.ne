@@ -1,1 +1,0 @@
-['Bessere Bildung', '–', 'Konzeptes in der', 'Beitrag ist', 'Bildungslandschaften', 'von', 'ein', 'nach', '.', 'und', 'Praxis', 'alle relevanten Faktoren', '.', 'hehren', '.', ',', 'Sozialraum', 'die', 'sagen', 'der']

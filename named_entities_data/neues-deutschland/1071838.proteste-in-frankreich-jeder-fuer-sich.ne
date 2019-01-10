@@ -1,1 +1,0 @@
-['sind sich', 'Gesetz', ', der', 'einige', '80', 'so', 'Gewerkschaft', ') stand etwas', 'das', 'Basis', 'Tag', 'Martinez', 'Betriebe tragen', 'gezogen', 'Diesem']

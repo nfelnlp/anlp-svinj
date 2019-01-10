@@ -1,1 +1,0 @@
-['es', '“ ,', '.', 'und dass er', 'Positionen werden nicht', 'und', '. Rassismus', 'schreiben', 'nicht mit', 'vertikalen', 'Youtube zehn', 'der', ',', 'vertreibt', 'lesen', 'und', 'Allerdings plädiert', 'Anna-Mareike']

@@ -1,1 +1,0 @@
-['Handlungsmöglichkeiten', 'tägliche', 'Armutsbetroffene', 'Eindämmung', 'wie', 'uns', 'verweigern', 'Aber', '?', ',', 'längst', 'und', 'erstrebt', ',', 'nicht', 'an', 'zuzustimmen', 'daran', 'und', 'Vergangenheit', 'als', 'und', ',']

@@ -1,1 +1,0 @@
-['Berna', 'Kurnaz', 'Bremen', 'Till Schmidt', 'Deutschland', 'Beratungsfälle', 'Kitab', 'Deutschland', '–', 'die', 'Attraktivität', 'begründete Haltungen', 'Islamismusprävention', 'Fälle', 'Bremen erstreckt ,', 'alle', 'reagiert', 'Bremen', 'zu', 'ist', 'Interview']

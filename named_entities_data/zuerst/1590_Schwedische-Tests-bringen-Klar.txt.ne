@@ -1,1 +1,0 @@
-['Stockholm', 'Schweden', 'mit', 'Einwanderungsbehörde', 'Behörde für forensische', 'minderjährige', 'nach', '„Flüchtlings', 'den']

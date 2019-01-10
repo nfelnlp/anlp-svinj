@@ -1,1 +1,0 @@
-['eine Konzernvereinbarung', 'Einblick', '« ,', 'In', ', die', 'Tätigkeitsbericht', '.', 'Brüssel', 'entsteht', 'leisten']

@@ -1,1 +1,0 @@
-['. Ein', 'mehr', 'US-Verkehrssicherheitsbehörde NTSB', '.', 'Brücke', 'eine', 'Besatzungsmitglieder', 'demnach', '.', ',', 'Thompson']

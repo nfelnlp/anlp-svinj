@@ -1,1 +1,0 @@
-['150', 'IL', 'die', '.', 'Initiative', 'Treffens in Poznan', 'Kämpfe', 'Isabella', 'Precarious Dis-connections', 'zu', 'in', '.', 'Treffens', 'den', 'Solidarität', 'Die', 'auf eine', 'entlang', 'transnationalen', 'Am', 'ihre']

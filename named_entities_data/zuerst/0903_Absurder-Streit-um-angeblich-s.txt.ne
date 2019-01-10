@@ -1,1 +1,0 @@
-['Gesellschaft 4', 'Gesellschaft 4 Berlin', 'für Empörung . Das in', 'Alleen und', 'erhielt .', 'patriarchale', 'der', 'die', '“']

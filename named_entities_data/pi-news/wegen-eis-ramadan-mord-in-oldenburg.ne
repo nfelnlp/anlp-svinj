@@ -1,1 +1,0 @@
-['Hameln', 'Oldenburg erstach', 'Oldenburg', 'Und', 'der', 'Donnerstag', 'Anfrage der', ',', 'eine', ',', 'der', 'abends', '“', ',', 'Ende', 'der Innenstadt', '15 ) kommt', 'Ungarn', 'sein ,', 'kann', 'es', 'Sie', 'die', ',', '“ über', 'Ermittlungen', '„Wir als', 'der', 'des', 'sich', 'OB', '“', ',', 'Tatmotiv', 'der', 'gegangen ,', 'wohl', 'durchgerutscht']

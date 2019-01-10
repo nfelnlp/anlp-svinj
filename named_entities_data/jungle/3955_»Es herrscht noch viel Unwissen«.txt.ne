@@ -1,1 +1,0 @@
-['Adél Holdampf-Wendel', 'Bitkom', 'im', 'Arbeitsrecht', 'Arbeit', '4.0', 'die', 'diesem', 'dieser Studie', 'den', ', dass', 'der', 'streben', 'intelligenten']

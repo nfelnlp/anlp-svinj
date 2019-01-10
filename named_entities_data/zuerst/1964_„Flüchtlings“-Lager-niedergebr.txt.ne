@@ -1,1 +1,0 @@
-['das', 'Illegalen-Lager', 'verteilten', 'wieder', 'wo ein „Flüchtlings', 'nach', 'geliefert', 'Mindestens', '150', 'Der', 'sei in', 'aus dem „Dschungel']

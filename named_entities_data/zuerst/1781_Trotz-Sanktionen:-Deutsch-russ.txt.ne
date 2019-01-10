@@ -1,1 +1,0 @@
-['Moskau/Berlin', 'Der', 'ersten', 'dem', 'um', 'gab', 'Treffen mit', 'in Sotschi', 'AHK', 'der AHK', 'erwarten', '.', 'In', 'der']

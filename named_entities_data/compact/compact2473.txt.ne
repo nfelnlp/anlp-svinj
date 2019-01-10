@@ -1,1 +1,0 @@
-['–', 'Deutschland', 'Tino Perlick', 'dem', 'für Höhere', 'geht', 'müsse', 'Einwanderungsstopp', 'die', 'erwarteten', 'überlässt', 'jährlichen', 'über lange', '50 Jahre in', 'dass', 'Kündigungsschutzes dient', 'Ideologie dar', 'Militarist', ',', 'Thomas P.M. Barnett informiert', 'der', ':', '.', 'Diese Menschen leisten auch', 'nicht. “']

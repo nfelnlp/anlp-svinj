@@ -1,1 +1,0 @@
-['Preßburg', 'Slowakei', 'Tschechischen', 'Tschechischen Republik', 'Robert Fico', 'Andrej Babis', 'Preßburg', 'geübt', 'zwingen', '”', 'Ungarn', 'sei', 'Unsinn', 'und', 'Brüsseler „Flüchtlings “', 'liegt', 'als', 'die', 'die strategische', 'sich', ',', 'fegen', 'es weg', 'starke', '. „Im', '”', '” ,']

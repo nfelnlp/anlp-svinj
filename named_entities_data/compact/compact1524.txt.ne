@@ -1,1 +1,0 @@
-['viel', 'Sinnbild', 'Manipulation', 'unkontrollierten', 'Wenn', ',', 'und', ',', 'keine', '. Aber', 'daß', 'Komplex inzwischen', 'Komplex inzwischen –', 'den Spiegel vorhalten', 'retten', '.']

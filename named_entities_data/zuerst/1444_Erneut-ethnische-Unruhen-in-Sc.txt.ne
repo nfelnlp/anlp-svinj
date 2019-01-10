@@ -1,1 +1,0 @@
-['Darauf', 'es', 'daß', 'die', 'Vorstädten', 'um']

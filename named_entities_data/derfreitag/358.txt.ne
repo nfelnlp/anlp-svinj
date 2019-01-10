@@ -1,1 +1,0 @@
-['Kullmann', 'nur noch', 'bespamt', 'und', 'Werbewut', 'brummte', 'hier etwa', 'eine', ',', 'Stasi-Land', 'ein', 'ein neues', 'es', 'zugehen', 'ich', 'ich', ':', 'in', 'denken Algorithmen', 'Und vor', 'Schwachmaten soll']

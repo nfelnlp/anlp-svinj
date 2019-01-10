@@ -1,1 +1,0 @@
-['Amerika', 'Naskrecki', 'Naskrecki Anzeige', 'bis in', 'auf', '.', '20 Jahre', ',', 'bezüglich', 'die', '.', 'werden', 'den']

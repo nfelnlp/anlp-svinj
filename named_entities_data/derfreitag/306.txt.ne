@@ -1,1 +1,0 @@
-['Jonathan Crarys', 'Philippe Lopez', 'AFP', 'Getty', 'neuen Buch', 'Themenwahl', 'in seinem', 'zeigt .', 'riesigen', '’ Don', 'Diese', 'er mit Verweisen zu', '„sich', 'Verwertbares', 'deshalb', 'Crary ,', '2014', '14,90', ':']

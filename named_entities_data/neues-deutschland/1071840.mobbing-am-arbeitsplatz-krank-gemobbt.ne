@@ -1,1 +1,0 @@
-['Osnabrück', 'Sigrid Lehmann-Wacker', 'zwei', 'unheilbar an', '.', 'ihre', 'Schmerzensgeld', ',']

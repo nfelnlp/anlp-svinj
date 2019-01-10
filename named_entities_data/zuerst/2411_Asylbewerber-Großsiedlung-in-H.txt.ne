@@ -1,1 +1,0 @@
-['Hamburg', 'Hamburg', 'Euro', 'Stapelfeldt (', ')', ') .', 'weiter aus', 'dann', 'Asylbewerberheime']

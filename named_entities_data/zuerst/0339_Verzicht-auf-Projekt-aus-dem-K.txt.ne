@@ -1,1 +1,0 @@
-['Moskau', 'Rußland', 'und', 'Potential', ', die Industrie', '“', 'wegen']

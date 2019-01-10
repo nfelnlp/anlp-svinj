@@ -1,1 +1,0 @@
-['Berlin/Hamburg', 'Bei', ',', 'Gerede', 'CDU', 'von Baden-Württemberg', 'der', 'den „Stuttgarter Nachrichten', 'hat', 'Unionsfraktion', 'Extremisten-Datei für', 'für', 'vielen anderen', 'linksextremistische', 'sagte', 'daß', 'nach Hamburg', '.', 'zusammenarbeiten']

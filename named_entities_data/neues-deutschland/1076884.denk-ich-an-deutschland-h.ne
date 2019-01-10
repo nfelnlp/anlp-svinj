@@ -1,1 +1,0 @@
-['Lyrik noch', 'der', 'hat', '»', 'schönes', 'ist', 'Land', 'beigetragen', 'mit', 'in', 'und', '.', 'er', 'Aussage', 'Das', 'die', 'ungewohnten', 'Teile', 'gehabt', '» eine', ',', '-', 'einflussreiche', 'die', 'DDR', 'das', 'was', 'oder', 'anderen Gesellschaften', 'Sichtweite', '»', 'vieles', 'geben', 'Da']

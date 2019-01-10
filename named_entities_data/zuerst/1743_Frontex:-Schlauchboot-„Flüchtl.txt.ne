@@ -1,1 +1,0 @@
-['Warschau/Rom', 'Skandalöse', 'hat', 'die', 'einem', 'und bestätigte', 'zwischen', 'hatte', 'sie', 'Jahres']

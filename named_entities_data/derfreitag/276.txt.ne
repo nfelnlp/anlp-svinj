@@ -1,1 +1,0 @@
-['Shopping', ',', '.', 'das', 'unter anderem', 'dass']

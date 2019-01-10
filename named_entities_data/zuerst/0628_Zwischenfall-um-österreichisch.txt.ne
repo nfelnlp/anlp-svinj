@@ -1,1 +1,0 @@
-['Gesellschaft', 'Österreich', 'Augenzeugen', 'Sie', 'die', 'ist', 'der', 'einmal']

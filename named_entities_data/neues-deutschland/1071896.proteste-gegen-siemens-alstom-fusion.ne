@@ -1,1 +1,0 @@
-['. In', 'Hunderte', 'gegen den', '.', 'vor', 'mehreren', 'sowie in den', 'Tarbes', ',', ', La', 'und', '.', 'und Alstom', 'Ende September', 'Ende September eine', '»', 'der', 'Siemens', 'Der', 'und', 'auf', 'in']

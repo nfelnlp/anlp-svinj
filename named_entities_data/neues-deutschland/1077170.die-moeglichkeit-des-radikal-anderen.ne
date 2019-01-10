@@ -1,1 +1,0 @@
-['Simon Schaupp', 'Bayerischen', 'Peter Nowak', 'Bayerischen Räterepublik', 'Ernst Toller', 'Erich Mühsam', 'Hilde Kramer', 'Ernst Toller', 'USPD', 'Hilde Kramer', 'KPD', 'Erich Mühsam']

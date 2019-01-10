@@ -1,1 +1,0 @@
-['.', '. Das', 'die', 'und Mehmet', 'verletzt und', 'am', 'Altan', '-Journalist', 'der bereits', 'beim Verfassungsgericht']

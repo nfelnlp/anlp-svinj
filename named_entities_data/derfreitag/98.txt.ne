@@ -1,1 +1,0 @@
-['in', 'und', '. all diesen Gummibärchen']

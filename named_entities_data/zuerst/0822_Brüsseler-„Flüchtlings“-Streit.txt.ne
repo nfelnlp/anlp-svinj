@@ -1,1 +1,0 @@
-['Brüssel', 'Europäischen Gerichtshofes', 'Ungarn', 'im', 'aufnehmen', 'zumindest', 'sich', ',', 'Grenzschutz', 'EU', 'müsse Ungarn', 'sein', 'im', 'aufzunehmen', 'die', 'Balkanroute', 'das', '„keinen', 'Flüchtlingspolitik']

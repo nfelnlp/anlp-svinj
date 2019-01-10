@@ -1,1 +1,0 @@
-['Charité', 'Berlin', 'Shari', 'Afrika', '“', ',', 'Card', 'Card “ (', 'und Andie', ')', '.', 'zu 700', 'gegeben', '700', 'des', 'von einem', 'zunehmend', 'Deutschland', 'zu', ',', 'sie', 'und', 'Schröder', 'dass laut', 'ein', ',', 'Martin', 'der', 'entschied 2013', 'wohl auch', 'werden', 'entsprechendes', 'präventiv', 'Und']

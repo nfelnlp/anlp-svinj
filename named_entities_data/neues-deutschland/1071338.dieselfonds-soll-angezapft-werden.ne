@@ -1,1 +1,0 @@
-['.', '. In', ', der', '. Bei', '( CDU', 'an', 'Lohse sagte zudem', 'vielen Städten', 'darüber', 'ersten']

@@ -1,1 +1,0 @@
-['Ankara', 'Türkei', 'Europa', '„Yeni Söz', 'jetzt', 'diesem', 'in', 'sich', 'hatte', ':', ': „Deutschland', 'Amtssitz', 'Für die', 'Aufmacher', 'AKP-Blattes', 'haben', 'anhaltende', 'Türkei', 'in', 'der']

@@ -1,1 +1,0 @@
-['SPD-Chef', 'ein', '25 Teilen', ':', 'In', 'Europa gibt', ',', 'Begrenzung', 'Stundenkilometer gefordert', 'eins auf die', 'ohnehin', 'gefundenes', 'davon', 'orientierte', ',', 'ohne', 'Wäre', 'an die', 'beschlossen', 'damit']

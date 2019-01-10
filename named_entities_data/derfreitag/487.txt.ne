@@ -1,1 +1,0 @@
-['CSU-Landesgruppenchefin', 'Foto', 'Die', 'will', 'Anfang Juni', 'sondern', 'aberkannt', 'mit', 'oder', ',', 'die', 'So', 'werden', 'Stephan', 'der Maßnahmen', 'Kritiker', 'Gesetz jetzt', 'lagen', 'gesetzgeberische']

@@ -1,1 +1,0 @@
-['Xavier Naidoo', 'Publizisten', 'der berühmteste', 'stärksten', '…', 'Ich', 'weil', 'ihm', 'Rechts', 'neurechts', '[', 'Verfassungsfrage', '[ nicht', 'was', 'aber', 'schnell', ']', '.', 'echte', '(', 'ansonsten', '.', '.', 'denke', 'schon', ',', 'angelegt', 'dass', 'Deutschland', 'Nee', 'können']

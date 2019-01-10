@@ -1,1 +1,0 @@
-['.', '. Mehrere', 'und die Hypovereinsbank', 'für', 'wie', ', über', 'zuständig', 'Vorgaben', 'Die anderen betroffenen', 'Kasinospielen', 'wie']

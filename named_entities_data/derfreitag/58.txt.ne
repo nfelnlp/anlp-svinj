@@ -1,1 +1,0 @@
-['Charlotte Wiedemann', 'Mehrheit', 'muslimischen', 'ihre', '.', 'ein', 'uns', 'wir', 'Gesellschaften sind', 'als', 'arabischen', '.', ',', 'Politik wäre', 'ohne', 'Wer', 'Gesellschaften', 'wie', 'Situation :', 'ist', 'Seiten', 'nicht-muslimische', 'besitzt', 'in', 'unterschiedliche', 'Einheitlichkeit', 'Geschlechterrollen']

@@ -1,1 +1,0 @@
-['Barcelona', 'Spanien', 'Barcelona', 'auch', 'Die', 'von', 'Demonstranten', 'treibende', 'Sprechchören', 'den', 'Cristina', 'und ehemalige', 'Hauptstadt', 'der', 'Albert', 'ehemalige sozialistische', 'außerdem Persönlichkeiten', 'spanische Literaturnobelpreisträger', 'Amat . (']

@@ -1,1 +1,0 @@
-['zeigte', 'vom Aktionsbündnis', 'zunächst', 'nd', 'Bundespolizei', 'getestet', 'Gefahren', 'Dies', '«']

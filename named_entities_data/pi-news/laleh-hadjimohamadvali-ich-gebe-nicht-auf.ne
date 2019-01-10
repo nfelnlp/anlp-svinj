@@ -1,1 +1,0 @@
-['anderem', 'die', 'Staatsanwaltschaft', 'ein', 'ein Ermittlungsverfahren', 'Deutschlands', 'sehr gefreut und geehrt hat', 'Gib', 'zur', 'Mädchen . Ich sah', 'die', 'haben', 'wir', 'siehst', 'so', 'von', 'weil', 'Deutschland', 'stark', 'als', 'über', 'gutes']

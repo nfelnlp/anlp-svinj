@@ -1,1 +1,0 @@
-['Gesellschaft 5 Dortmund', 'Polizei', 'Lange in', '“']

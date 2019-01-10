@@ -1,1 +1,0 @@
-['Delegationsleiter Cho', 'nordkoreanische', 'südkoreanischen', 'Kim Jong-un und', 'Moon', 'tatsächlich das', 'hochrangigen', ',', 'Offerte', ',', 'Seiten auch', '- in', 'des Nordens', 'gedroht und', '. Die', 'die', 'Haus', 'Olympischen', 'nordkoreanische', '.']

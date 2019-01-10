@@ -1,1 +1,0 @@
-['Gesellschaft', 'Wien', 'Peter Pilz', 'österreichischer', 'Wiener', 'seine', 'zieht', 'Überschrift', 'nach', '(', 'zur', '„komplett', 'einem', 'Versäumnisse', 'Parteifreunden']

@@ -1,1 +1,0 @@
-['und', 'erschienen', 'in', 'gibt', 'ganz alltäglichen']

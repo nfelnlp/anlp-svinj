@@ -1,1 +1,0 @@
-['Alexej Nawalny', 'dessen Gefolgsleute', '»', '300', 'Domoschirow', 'Domoschirow , Mitglied', 'Progress', 'Tjumen', ',', ': »', 'Statut', '»', 'des Fonds räumten', '«', 'Da', 'die Begründung', 'Wladimir', '» Fonds', 'der', 'werden', 'sei', 'Es', 'Muslime', 'Januarhälfte begonnenen', 'Vertreter', 'sich mit', 'als', 'in innerrussische', 'kommentierte', 'worden sei']

@@ -1,1 +1,0 @@
-['Gesellschaft 3', 'Gesellschaft 3 Hannover/Bad', '. Zum', 'Deutschland', 'AfD', 'verhindern', 'Hetze', 'das', 'die', 'die AfD tagen', 'und', 'Aktivist*innen', 'kannst', 'austauschen', '“', '( tw']

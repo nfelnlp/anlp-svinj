@@ -1,1 +1,0 @@
-['Friederike Meier', 'Susanne Götze', 'Merkenich', 'Köln', 'Rheinland', '23 . UN-Weltklimakonferenz', 'Ende', 'im']

@@ -1,1 +1,0 @@
-['es', ',', '?', 'Zentralcomputers', 'oder', '?', 'Weltbank', 'diskutieren']

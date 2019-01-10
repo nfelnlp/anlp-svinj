@@ -1,1 +1,0 @@
-['Werner Faymann', 'AFP/', 'Images Wien -', 'Kurz', ',', 'der', ',', 'Unverständnis', ',', 'den', '( @', 'Blogbeitrag', 'eher', 'sodass', 'wirklich sinnvoller', 'Zwar', 'ein Presseteam', 'Bekanntheitsgrad ,', 'Das', 'mit der', 'von', 'kaum', 'Rolle', 'kaum ein', 'Umgang der', 'zwei']

@@ -1,1 +1,0 @@
-['erhielt als', 'Der', 'im', 'Reusch', 'Rennen zu', 'Wenn', 'Unions-Abgeordneten', 'und', '( beide', ') sowie', 'SPD-Parlamentarier Uli', 'und Burkhard', 'das', 'Stephan', 'FDP )', 'André Hahn', 'von Notz', 'Grüne', 'die erforderliche', '.']

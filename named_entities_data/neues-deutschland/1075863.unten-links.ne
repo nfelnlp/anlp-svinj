@@ -1,1 +1,0 @@
-['Allgäu-', 'es', 'wenig', 'bei', 'Glück ,']

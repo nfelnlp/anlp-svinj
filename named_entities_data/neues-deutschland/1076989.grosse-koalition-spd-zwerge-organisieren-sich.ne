@@ -1,1 +1,0 @@
-['Sonntagabend', '.', 'einer', 'gekommen', 'seine', 'Prozent', 'trudeln', 'eine', 'Landesverband doch als', 'ihnen', 'Treffen', 'schwer', 'in', 'unterschiedliche Meinungen', 'bei', 'erzählt', 'Basis missfällt', '»', 'den', 'Meinung sich', 'Gegenteil', 'Gegenteil ändern', 'von', 'worden ,', 'lieb']

@@ -1,1 +1,0 @@
-['. Mit', 'den', ', Landesgeschäftsführer', 'Vereinigte', 'DFG-VK', 'Baden-Württemberg', 'Koordinator', 'Pacemaker-Radmarathons', 'Pacemaker-Radmarathons . Die', ',', ', Kaiserslautern', 'Neustadt', 'führen', 'Die', 'eintägige', 'in', 'vom', 'die sich mit', 'mit', 'Veranstaltungen', 'immer', '2000']

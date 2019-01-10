@@ -1,1 +1,0 @@
-['Linkspsychopathen', 'Direktor der', 'und Alexander', 'Hauptgeschäftsführer des', 'zu den', 'der', 'die', 'Verlage', ', die', 'aufzumischen', 'des', 'darf .', 'von rechts zu', ', weil', 'nicht', 'Stadtverordnete und', 'seine']

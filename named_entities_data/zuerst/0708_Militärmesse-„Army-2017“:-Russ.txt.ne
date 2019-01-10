@@ -1,1 +1,0 @@
-['Zala Aero Group', 'Ischewsk', 'mehrere neue', 'werden', 'Terroranschlägen einen', 'konzipiert', 'eine', '( tw/sp']

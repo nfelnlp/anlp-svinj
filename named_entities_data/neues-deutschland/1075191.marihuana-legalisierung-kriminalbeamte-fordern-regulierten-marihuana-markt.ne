@@ -1,1 +1,0 @@
-['. Der', '.', 'in einem', 'Morgenpost', '.', 'Drogenfälle', 'sich', 'an', ',', 'lizenzierten Läden an', 'nicht']

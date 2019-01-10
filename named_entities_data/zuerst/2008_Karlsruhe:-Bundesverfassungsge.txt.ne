@@ -1,1 +1,0 @@
-['Gesellschaft 1 Karlsruhe', '“', 'Köln im', 'Beck hervor', 'sinngemäß', 'rügte ,', 'Landgericht']

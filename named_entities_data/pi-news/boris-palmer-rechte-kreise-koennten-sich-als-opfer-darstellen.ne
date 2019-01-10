@@ -1,1 +1,0 @@
-['Boris', 'Grüne )', 'mit diversen', 'unlängst', 'folgendem Statement', 'in', 'Manipulation', 'den', 'Bildern', 'Weltbild', 'übrigens', 'dieser', 'BOYKOTT', 'gestiegen', 'wird ?', ':', '“', 'herangezogen und ausgewertet', ')']

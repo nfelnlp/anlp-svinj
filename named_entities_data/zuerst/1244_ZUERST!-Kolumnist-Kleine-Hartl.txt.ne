@@ -1,1 +1,0 @@
-['Gesellschaft', 'beschäftigt sich', 'Menschen', '„Mit Trauer und', 'fröhliches', ',', 'einmal', 'Nizza', 'so', 'und', 'fort', 'eine', '.', 'der', 'uns', 'Terrorismus', 'zugegeben', 'Denkfiguren', 'Terroristen', 'politischen', 'der']

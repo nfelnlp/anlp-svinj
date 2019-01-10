@@ -1,1 +1,0 @@
-['Beschäftigte', 'oder', 'von', 'eigenen']

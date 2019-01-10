@@ -1,1 +1,0 @@
-['Die', ',', 'weiter', 'gelesen', 'anderen', 'dafür ,', 'Das', ',', 'sich', 'nur', 'lassen', 'die', 'ist', 'uns', ',', 'in', 'als', 'zu', 'Apparates', 'immer', 'Anders kommen', ',']

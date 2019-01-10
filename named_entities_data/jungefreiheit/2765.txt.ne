@@ -1,1 +1,0 @@
-['bezieht', 'Schopenhauer', 'schönen', 'Elementarteilchen', '(', 'Mittelpunkt', 'ihn Frust und', 'von', 'junges', 'unglücklich', 'denn', 'zu den', 'die', ',', '\x96', 'Schluß', 'letzten', 'Lebenseinstellung', 'zuweisen', 'karikiert', ',', 'Es', 'mit', 'Geheimtip unter', 'Das', 'und', 'An', 'denken', 'von', ',', 'schon', 'Derartige', 'den', 'Frauenfeind', '.', 'vergangenen']

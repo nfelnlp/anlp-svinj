@@ -1,1 +1,0 @@
-['Über „fühlen', '“', 'verfügbar .', ',', ',', '.', 'gelassen.', 'das', 'Daten', 'Zuviel', 'Der', '– über', 'diese', ',', 'interessanter', 'diese', '“', '„abgehängt “', 'Stelle', 'gegen', 'Jeder', 'der', 'ganz', ',', 'die dann']

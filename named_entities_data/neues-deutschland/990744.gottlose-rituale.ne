@@ -1,1 +1,0 @@
-['Berlin', 'Jérôme Lombard', 'Berlin-Schöneberg füllt sich', '.', 'der']

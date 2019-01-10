@@ -1,1 +1,0 @@
-['Türkei', 'Hoffnung', 'Angst', 'Verzweiflung', 'der', 'nicht daran', ',', 'ich', ',', 'die', 'nach', 'Menschen', 'die', 'der', 'nein', 'Zeit', 'auf']

@@ -1,1 +1,0 @@
-['Gesellschaft', 'Wien', 'Sebastian Kurz', 'ÖVP', 'Talks', ',', 'und', 'kommenden', 'Wissenschaften ( ÖAW )', ',', 'und', 'durchgeführt']

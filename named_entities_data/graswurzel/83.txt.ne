@@ -1,1 +1,0 @@
-['bewohnbar', 'Euro', 'Wie', 'das', 'sogenannte', 'bekommen', 'Fördermittel der', 'Kredite', 'aus', 'in', 'und', 'Die', 'Idee', 'wird', 'und', 'noch']

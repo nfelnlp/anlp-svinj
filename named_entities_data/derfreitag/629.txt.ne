@@ -1,1 +1,0 @@
-['Images BRCA', 'und', 'Wenn', 'aus', 'auch', 'Erbt', 'des', 'Brustdrüsen', '. Peinlich', 'z.B', 'zu', 'wesentlich', ', erscheint', '. Bei allen', 'derzeit']

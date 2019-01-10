@@ -1,1 +1,0 @@
-['Gesellschaft 0 Berlin', 'Sigmar Gabriel', 'SPD', 'Union', 'Interview', 'laut', ',']

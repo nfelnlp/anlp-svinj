@@ -1,1 +1,0 @@
-['Straßburg', 'Straßburg', 'Ungarn', 'EU-Parlaments', '„rechtsstaatlicher', 'Dies', 'bis', 'ungarischen', 'Viktor', 'den', 'Monaten immer', 'gemacht', '(', 'Linken', 'auch', 'Europäischen', 'zu', '. Insgesamt', '393', 'dagegen', 'April', '. Dabei', 'sie', 'vielmehr', '(']

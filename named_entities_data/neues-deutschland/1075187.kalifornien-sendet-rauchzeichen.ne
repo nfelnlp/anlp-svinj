@@ -1,1 +1,0 @@
-['hatte sich', 'Marihuana', 'von Urbn', 'Aber damit', 'Milliarden', 'Wochen seine', 'andere', 'verboten', 'wurde', 'wurde', 'So', 'Oregon', 'Washington', 'legal', 'In', 'soll', 'soll dies', '.', 'gegen', 'Amtsantritt gegen', 'Initiative gegen', 'In', 'hervorragenden Anbaubedingungen', '.', '100', 'Behörde Bureau', ',', '. Insgesamt hätten', 'bei']

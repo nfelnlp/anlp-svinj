@@ -1,1 +1,0 @@
-['Literarischen Colloquium', 'neuen Marcel', 'belangloser , ein schlechter', 'Martin', '. Freitag', 'fürsorgliche', 'ist sein', '“ nannte', 'leistet .', 'Zampano', 'nicht', 'Aber', 'darüber ,', 'gefunden ,', 'bräuchte', 'Verriss', '.', 'Nachdem Elke', 'disparat und', 'viel']

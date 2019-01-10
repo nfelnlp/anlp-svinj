@@ -1,1 +1,0 @@
-['Washington', 'Klartext . Vor', 'einem', 'Welt', 'Twitter', '„Heute', 'Schweiz', '–', 'Gemeinden', 'Botschafter', 'Ankara', 'Karlow', 'ermordet worden', 'Botschafters']

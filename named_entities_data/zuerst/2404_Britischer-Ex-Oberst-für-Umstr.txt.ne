@@ -1,1 +1,0 @@
-['London', 'Richard Kemp', 'britischen Afghanistan-Kontingents', '.', 'darüber', 'der das', 'den Worten', ':', 'von', 'Terrorismus', 'in', '„Freunde Israels', 'Israel']

@@ -1,1 +1,0 @@
-['Magdeburg', 'Duisburg', 'Berlin', 'EU-Erweiterungen', 'Sachsen-Anhalts', 'wiederholten', 'hat', '“ Idyll', 'OB', 'von', 'und', 'Feuerwehr', 'es', 'Das', 'Die', 'Gebäude', ',', 'mit', 'August', ', um', 'damals', 'kriminellen', 'Selbst', 'unmittelbarer', 'und', '.', 'nicht']

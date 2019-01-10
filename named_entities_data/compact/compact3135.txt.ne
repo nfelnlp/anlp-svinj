@@ -1,1 +1,0 @@
-['Harald', '.', 'so', 'sind ,', '.', '15', '15 )', 'Gläubigen', 'Heiland', 'der', 'aus', 'und', 'heute', 'digitaler Grundlage', 'Es', 'wie', 'furchtlos und', 'kommt', 'kommt “', 'Priapus-Kult', '.', 'der Erschlaffung', 'verzweifelt-missglückten Versuch', 'Irritation und die', ': „Das', 'Geist']

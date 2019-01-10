@@ -1,1 +1,0 @@
-['Wien', 'Muslim-Studie', 'hat die Politik erreicht', 'forderte', 'religiöse', 'aus', 'Ländern', 'nach', 'haben', 'flickr/Österreichisches', '–']

@@ -1,1 +1,0 @@
-['Moskau', 'USA', 'Syrien-Konflikt', ')', 'legte am', 'Bildern erkennbaren', 'ganz', 'ganz zu', 'kämpfen', 'Moskau', 'unter', 'normalerweise', 'wir', 'keine', '.']

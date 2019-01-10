@@ -1,1 +1,0 @@
-['Brüssel', 'zum', 'und', 'Beratung', 'Beschlussfassung', 'ver.di-Aktivisten', 'vor', 'Arbeitgeber habe', 'Entwurf', ',', 'EU-Entsenderichtlinie', 'und', 'für', 'Sicherheit', 'Straßenverkehr', 'dass die', '33', 'hätten', '«']

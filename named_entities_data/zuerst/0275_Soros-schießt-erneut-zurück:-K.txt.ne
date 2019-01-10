@@ -1,1 +1,0 @@
-['Wien', 'und', 'Soros sieht', '„Standard', 'dort', 'wobei er', 'Umfragaktion', 'die', '“', 'nach', 'seinem', ',']

@@ -1,1 +1,0 @@
-['Berlin', 'Deutschland', 'Betreibergesellschaft', 'bis', '640']

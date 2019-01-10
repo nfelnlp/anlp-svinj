@@ -1,1 +1,0 @@
-['. Bei', 'in', '3', 'Öffnung', 'erst', 'mit']

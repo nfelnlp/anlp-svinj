@@ -1,1 +1,0 @@
-['Staatsanwaltschaft Istanbul', 'Istanbul United', 'Beşiktaş', '. Die', 'Waldhauer beleuchten', 'Istanbul United', ',', ', die', 'großen', 'der', 'spielten', 'sagt', 'im', 'Massenprotests', 'am', 'von', 'Man', 'Aufnahmen aus dem', 'Macher', 'wo', ',', 'über', 'Demo-Routiniers .', 'wollen', 'auf', '.', 'beigetragen ,', 'eingestiegen']

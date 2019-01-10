@@ -1,1 +1,0 @@
-['organisierten Beschäftigten', 'weiter zu .', '.', 'der', 'in', 'Schließung', '. Erschienen waren', 'Vertreter', 'Zeitung »', 'Solidaritätsflugblätter', 'Geknechtet', 'Unbeeindruckt', 'Main ,', '«', 'dass der Konzern', 'Fortführungskonzept als', 'dass', 'des', '.', 'der', 'das', 'Lkw-Konvoi']

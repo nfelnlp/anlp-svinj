@@ -1,1 +1,0 @@
-['Bariatti soll', 'dei Paschi di', '( MPS', 'an', 'Mailand ist', 'Mailand ist Kandidatin', 'wenigen Tagen', 'und', 'Pier', 'so seinen Favoriten', 'seit', 'auf', ',', 'aktiv', 'Beratertätigkeit', '. Hat Ihnen']

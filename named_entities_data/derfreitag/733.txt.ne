@@ -1,1 +1,0 @@
-['AFP/ Getty', 'Ich', 'kein', 'man', 'gehört', 'bis', ',', 'von', 'Minute an', 'in', 'Hardrock', 'wird', 'sprach einige langjährige', 'ans']

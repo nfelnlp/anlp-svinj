@@ -1,1 +1,0 @@
-['und', 'einen', 'hier', 'begegnen', 'und', 'Jahr !']

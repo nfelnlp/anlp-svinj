@@ -1,1 +1,0 @@
-['Preistreiben', 'AOK', 'GKV', 'dem', 'Medikamente', 'einfach', 'die', 'angestrebten', 'dienen offenbar', 'neu', '. Last', 'der']

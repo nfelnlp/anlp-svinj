@@ -1,1 +1,0 @@
-['Zürich', ',', 'mit deutlicher', 'einem', 'EU', 'Zustimmung', ',', 'Votum', 'Gegenteil', 'prominenten', '„Ich', 'eigenständigen', 'nicht', 'nationale', ',', ',', '.', 'sei', 'EU', 'den', 'Die', 'zu', 'Und', 'europäische', ',', 'Schweiz', 'daß', 'ohne', ':', 'Schweiz', 'für', 'Verträge', 'den', ', ist', 'unbändiger']

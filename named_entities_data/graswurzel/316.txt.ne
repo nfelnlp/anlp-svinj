@@ -1,1 +1,0 @@
-['Bohnet', 'Harvard', 'Bohnet', 'bei', ',', 'Buch']

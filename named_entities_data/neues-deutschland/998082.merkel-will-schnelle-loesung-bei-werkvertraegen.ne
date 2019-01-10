@@ -1,1 +1,0 @@
-['Merkel', 'DGB-Bundesvorstand', 'Reformen', 'Bundeskanzlerin Angela', 'war zu', '. Dessen', 'Vorsitzende', ', Reiner', ', zusammen', '( CDU', 'vor', 'Nahles ( SPD', 'geplantes', 'Merkel', 'deutlich']

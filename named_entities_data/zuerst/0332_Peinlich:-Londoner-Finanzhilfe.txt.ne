@@ -1,1 +1,0 @@
-['London', 'Peinlicher', 'Polizei', 'eingestellt', '.', 'die', 'International ( ASI', 'sei in', 'und', '.', '.', 'Laut', 'auch', 'der terroristischen', 'Botschaft', 'darauf', 'gemacht', 'wurde']

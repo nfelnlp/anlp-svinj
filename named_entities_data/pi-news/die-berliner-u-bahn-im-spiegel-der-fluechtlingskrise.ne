@@ -1,1 +1,0 @@
-['Deutschland', 'am Alex', 'schnuppern', 'durch', 'keine', 'Aussage', 'Osten', 'Dazu', 'unterirdischen', ',', 'sich', 'Zuges', 'wie', 'mit', 'nachmittäglichen', 'mit', 'ist', 'in Marzahn und', 'Wert', '.', 'zur']

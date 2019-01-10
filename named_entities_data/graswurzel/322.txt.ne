@@ -1,1 +1,0 @@
-['Clemens Schittko', 'Berlin-Friedrichshain', 'eingekeilt zwischen einem', 'offiziellen', 'Veröffentlichungen in', 'Wortspielereien', 'konstruierte']

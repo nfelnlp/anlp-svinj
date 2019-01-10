@@ -1,1 +1,0 @@
-['Lizenzvertrag', 'Produktion', 'Don', 'avancierte', 'für', 'und Bayer', 'Argentinien ihre eigenen', 'Argentinien ihre eigenen Sojasaatgut-Marken', 'Aber', 'Argentinien', 'nicht', 'Verbindung zu', 'ein Hersteller', 'Glyphosat', 'gehen', 'die Industrie', 'exportiert', 'Was', 'die', ',', 'der EU', 'Einsatz', '2,4', '.', 'Herbizid', 'aber', 'Glyphosat hat', 'einem']

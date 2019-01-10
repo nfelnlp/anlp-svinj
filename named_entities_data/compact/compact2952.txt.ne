@@ -1,1 +1,0 @@
-['Ai', 'von Appen', 'war', 'Hyping', ': Während', 'Westen', 'Begleitmusik', 'Ai Weiwei', ',', 'Szene-Gelände Pfefferberg', 'angebotene', 'verteidigen', '.', 'denken', 'Vor', ',', 'macht', 'früheren', 'die', '. Der', 'dem', 'sondern erklärt', 'kommt', 'sein “', 'Interviews', ': Springers', '“', ',', '„Tagesspiegels', 'können']

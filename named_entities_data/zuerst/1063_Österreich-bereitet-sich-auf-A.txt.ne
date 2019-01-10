@@ -1,1 +1,0 @@
-['Gesellschaft', 'Deutsche', 'österreichische', 'den', 'dazu', 'dieser Feststellung', '(', ',', 'einem', 'Medien', 'die', 'sogar', '700.000', 'allem', ',']

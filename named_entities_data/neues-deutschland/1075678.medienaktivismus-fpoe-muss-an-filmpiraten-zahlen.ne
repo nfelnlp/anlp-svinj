@@ -1,1 +1,0 @@
-['FPÖ', 'FPÖ Erfurt', 'österreichische Partei FPÖ', 'MDR Thüringen', 'FPÖ', 'Erfurter', 'Smendek dem', 'zuvor', 'S.', 'Wien , dem', 'Zuge', 'SPD', 'verlieh dem', 'später', 'in', 'zunächst', 'trotzdem', 'die', 'ziehe', 'sagte', 'Videojournalisten', ',', '.']

@@ -1,1 +1,0 @@
-['Warschau', 'Brüssel', 'PiS', 'Steuernachforderungen ,', 'ist', 'kaufte', 'im', 'nicht', 'ja', 'Besitz', 'Prozent']

@@ -1,1 +1,0 @@
-['Preßburg', 'Slowakei', 'EU-Mitgliedschaft', 'geradezu', 'nämlich', 'wenig', 'Doch', 'rechte', 'Slowakei', 'sieht', 'jetzt', 'Abgeordneter', 'Preßburger Nationalparlament', '„Volksverhetzung', ':', ',', 'Verurteilung', 'drei', 'Haft .', 'mü']

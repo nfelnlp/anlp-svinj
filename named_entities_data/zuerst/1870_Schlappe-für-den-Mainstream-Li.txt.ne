@@ -1,1 +1,0 @@
-['Amiens', 'Macron', 'Amiens', 'US-Firma', 'soll', 'im', 'Geburtsstadt', 'Noch', 'Le', 'ebenfalls', 'ebenfalls überraschend', 'ebenfalls überraschend die', 'wurde', 'Jubel', 'den', 'daß', '„Seite', '(', 'im', 'in Amiens', 'Im', 'gehört', 'Macron', 'nur auf 19 Prozent']

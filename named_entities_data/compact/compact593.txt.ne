@@ -1,1 +1,0 @@
-['bislang', 'machen', 'politischer', 'in', 'der', 'auf', 'der auch', ',', 'Recht', 'In', 'machen', 'Landeswahlleiters', 'Stellungnahme des Bundeswahlleiters', 'deutschlandweit', ',', ',', 'im', 'Wahlvorstände', 'Nach dieser', 'Wahlvorsteher', 'mit', '(', 'zu', 'vollständig', 'Kammerwahlen übertragbar sind', 'zu', ', dass die', 'zurückzunehmen', 'eine nicht']

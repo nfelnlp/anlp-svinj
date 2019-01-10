@@ -1,1 +1,0 @@
-[': &', 'Jahren', 'schreibt', 'Kolumnen', 'geleistet…', 'wie', 'oder', 'noch', 'wurde', 'die', ',', '“', '.', 'schlecht', 'belügen', 'ahnte', 'auch', 'Altersangaben', 'uns', 'dürfen', ',', '?', '!', 'wird', 'einmal', 'und', 'Arbeit', 'Notsituation aufgenommen', 'ist in', '.', ':', 'und', 'die', 'deutliches Zeichen', 'auf']

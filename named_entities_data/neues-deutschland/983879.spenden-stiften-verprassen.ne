@@ -1,1 +1,0 @@
-['die', 'passiert', '.', ',', 'das', 'Gruppe', 'Anspruch darauf', ',', 'weil', 'Entscheidungsprozesse', 'und']

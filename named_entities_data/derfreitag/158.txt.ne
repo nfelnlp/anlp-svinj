@@ -1,1 +1,0 @@
-['Zunächst', 'dieser', '‘', 'und', 'werden', '-projekte', 'oder', 'des', '.', ',', 'so', 'wenn', 'direkt', '‘', 'im Juni', 'oder her', 'Die', 'übertriebene']

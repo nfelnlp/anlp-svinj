@@ -1,1 +1,0 @@
-['PETER', 'andersdenkende', 'Vergleich', 'Levern anlässlich des', 'am', 'die', 'katastrophale', 'auf eine', 'wie der', 'in', 'Jerusalem', '„Warum', 'und', 'Tun', 'Altparteien', 'und', 'kann es', 'immer', '.', 'auch', 'der', 'du', 'ergreifen .', 'das', 'vom', 'und', 'diesen', 'der', '. Am', '. Am liebsten', 'offenbar']

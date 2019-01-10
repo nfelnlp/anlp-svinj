@@ -1,1 +1,0 @@
-['Auch', '( AI', 'Augen', ',', 'AI-Deutschland .', 'habe', 'Blick', 'Ende', 'Kriege', 'auf', 'Unterstützung', 'China', 'und', 'Top-Five', 'Länder', 'den', 'der', 'gemessen meisten politisch', 'das', 'Sharia-Recht', 'werden . Genaue', 'aus', 'Für', 'für', 'Anspruch', 'mit', 'im letzten Jahr', 'sich', 'Panther Aktivist', 'Auch']

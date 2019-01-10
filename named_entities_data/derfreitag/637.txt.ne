@@ -1,1 +1,0 @@
-['iranische', 'Hassan Rohani', 'UN-Vollversammlung Foto', 'Images Im', 'ließ sich', '.', 'eine militärische', 'Vereinten', 'sein Land', ': Es', 'von', 'wäre', '.', 'ist', 'einem', 'Unbegrenzt', 'bisher', 'Rahmen', 'Donald', ',', 'disziplinieren .', ',', 'nicht', 'der', 'sympathisiert', 'einer', 'im', 'Das', 'ändern']

@@ -1,1 +1,0 @@
-['Jean Ziegler', 'Jean Ziegler', 'Zahlen', 'sicher', ', und', 'ist', 'die', 'entstanden', '.', 'das', 'lebendigste', 'D.h.', 'Auf', 'Sie', ',', ',', 'verhungernden', ',', 'für', 'wir diese', 'die']

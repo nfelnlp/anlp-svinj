@@ -1,1 +1,0 @@
-['an', ',', 'Koblenz', '.', 'Ausstand', 'den', 'medial', 'Pressemitteilung', 'Die neue', 'habe', '»', 'Ersatzbeschäftigte', 'unproduktive', 'manchmal', 'bestätigt', 'eingestellten Ersatzbeschäftigten', ',', 'Bad', 'bestellen und', 'die', 'Darauf', 'es', 'sie', 'äußern', 'weitergehen .', 'Tarifvertrag', 'flexiblen', 'Wir', 'verschiedenen Ländern', 'setzen', 'setzen können']

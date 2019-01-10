@@ -1,1 +1,0 @@
-['Gesellschaft 10', 'Gesellschaft 10 Cottbus']

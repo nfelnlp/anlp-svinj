@@ -1,1 +1,0 @@
-['Goslar', 'am', 'erwiderte', 'damit', 'seinerzeit als', 'in Antalya', 'Wahlkreis', 'als', 'Umgang mit der', 'Gabriel', '«', 'Es habe', 'selbstredend', 'Er wolle', 'kann', 'Die stellvertretende Vorsitzende', 'Geiseln', 'Panzerfabrik', 'in', 'wolle', 'dafür', 'der', '150-jährige', 'sich nicht', 'er', 'angeblicher Putschisten', 'wieder']

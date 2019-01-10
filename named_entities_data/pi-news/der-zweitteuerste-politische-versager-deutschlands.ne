@@ -1,1 +1,0 @@
-['Klaus Wowereit', '“', '.', 'einige', 'späteren', 'gemacht ,', 'garantiert', 'Was', 'größten', 'von', 'von dem noch', 'langen ,', 'dem', 'Wowereits', 'offenbar', 'Privatisierung zu', '“', 'hatte', 'den', 'das', 'von', 'wir', 'später', 'erlebt', ': frech', 'irgendetwas', 'Natürlich haben', ',', 'nachlesen', 'dank', 'der Kanzlerin', 'Mann', 'der Rufzerstörung eines', ',']

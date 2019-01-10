@@ -1,1 +1,0 @@
-['Rest der', 'schreibt', 'Wiedmann-Schmidt haben', '( des', ')', 'Verletzten meldete', 'Angehörigen', 'Dassen', 'Unsere Toten', 'fern', '“', '.', 'Vorname ist', 'zeitnah', 'Kosten der', 'nicht', 'SPD', 'wie er', '.', ': ‚Der', 'am Telefon', ',', 'verlangt', 's drauf ankommt', 'nur', 'depressiver', 'Opfer', ',', 'damit', 'geballtes', '.']

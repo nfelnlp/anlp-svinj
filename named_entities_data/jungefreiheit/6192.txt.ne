@@ -1,1 +1,0 @@
-['in Washington lehrende Historiker', 'eine', 'gewählte', ',', 'fremde', 'das', 'den', 'schildert', 'dem', 'Zusammenbruch', 'bei', 'Veranlagung', 'amerikanischer', 'vielbeschwatzten', 'mehr', 'abhanden', 'auch', 'Hand', 'muß', 'Generation', 'halber Kenntnis', 'Instytut Pamięci', 'oberste', 'genetischer']

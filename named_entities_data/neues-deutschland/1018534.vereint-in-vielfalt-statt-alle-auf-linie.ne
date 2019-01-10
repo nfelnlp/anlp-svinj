@@ -1,1 +1,0 @@
-['Seit 2009', 'wie', 'greift die', 'greift die 2009', 'Gewerkschafter', '« auf . So', 'Praxis', 'sind', 'Sie']

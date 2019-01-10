@@ -1,1 +1,0 @@
-['Willy Wimmer', 'COMPACT', 'Europa', 'USA', 'Englnad', 'Frankreich', 'Syrien', 'Europa', 'Deutschland', 'Bangladesh', 'Afrika', 'Sowjetunion', 'Berlin', 'sprachlos', 'COMPACT', 'Berlin', 'Brüssel', 'Washington', 'es', 'einmal', 'örtlichen']

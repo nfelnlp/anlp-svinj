@@ -1,1 +1,0 @@
-['Moskau', 'Rußland', 'Jelena Misulina', '.', 'ist', 'auf', 'dem', 'nun', 'wegen', 'russische', 'Krim an']

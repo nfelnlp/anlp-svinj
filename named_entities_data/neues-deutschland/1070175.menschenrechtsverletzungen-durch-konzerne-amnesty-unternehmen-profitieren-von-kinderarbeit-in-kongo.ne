@@ -1,1 +1,0 @@
-['.', '. Führende', 'Samsung', 'Sony', 'aber', 'Daimler', 'Volkswagen profitieren nach', 'weiterhin von', 'Kongo . Das', 'dem', 'schon', 'den', 'in', 'demnach', 'erhebliche', 'Den', 'dies sehr', 'in', 'vertraglich', 'in', 'die Hälfte des']

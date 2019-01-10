@@ -1,1 +1,0 @@
-['Columbus', 'Jürgen Busche', 'Jürgen', "! ''", '!', 'STERN', 'angeischts', 'und', 'verlegt', 'da launig', 'Gebrüll', 'reiner', 'Rahn', 'Toooorrrrrrrrrrr !', "Fussballweltmeister '' Herbert", 'der', 'aber', 'wissen .', 'längst', 'oder ?', 'in', ',', 'nicht von', 'immer', 'er', 'von', 'vereinnahmend', 'Wahlkampfveranstalltungen']

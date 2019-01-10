@@ -1,1 +1,0 @@
-['Brüssel/Moskau', 'Zwar', 'Kräften', 'dem', 'Tages-Ausfuhrrekord', 'dafür', 'EU', 'von', 'äußerst', 'Gasprodukte', 'machen', 'amerikanische', 'das', 'Gazprom-Gas', 'künftigen', 'künftigen Konkurrenzkampf']

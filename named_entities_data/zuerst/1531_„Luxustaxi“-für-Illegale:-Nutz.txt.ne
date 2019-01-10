@@ -1,1 +1,0 @@
-['Palermo', 'Jetzt', 'hob', 'eine', 'Weiterreise', 'Deutschland', 'oder', '.', 'Steuermänner', 'die', 'zehn', 'Voi', 'äußerte nach der', 'Deshalb']

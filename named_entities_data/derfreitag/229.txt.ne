@@ -1,1 +1,0 @@
-['Labour-Chef', '/ Getty', 'News Auf einer', ',', 'zum ersten', 'worden', 'nur', 'Das', 'übermittelt', 'nun', 'kommt', 'zusammenbekommen', 'meisten', 'Brown für', 'erringen konnten', 'Es', ', kam', 'sollte', 'die', 'entscheidende', '.', 'danach gefragt', 'keine', 'dass', 'besteht', 'bringt', '.', ',', ', wirklich', ',']

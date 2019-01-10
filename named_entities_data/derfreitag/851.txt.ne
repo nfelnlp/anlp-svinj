@@ -1,1 +1,0 @@
-['Immer', 'tauchen', 'der', 'Auch', 'des', 'dem', 'Analyse', ',']

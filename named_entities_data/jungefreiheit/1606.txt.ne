@@ -1,1 +1,0 @@
-['Ende', '.', 'einem neuen', 'der Romanerstling', 'plus', 'und', 'Leser', 'namhaftesten', 'Tagträumerisch', 'heiratet ein', 'Romans', '.', 'entstehenden', 'es des', 'zur klemmen', '. Wer', 'die', 'Gerhard Hacker', 'der', 'von Gogol herrührt .', 'um', 'solcher Klischees', 'ist ganz', ', läßt', 'in']

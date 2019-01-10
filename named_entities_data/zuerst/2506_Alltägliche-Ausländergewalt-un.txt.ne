@@ -1,1 +1,0 @@
-['Gesellschaft', 'Deutschland seien', 'hat', '.', 'In', 'sich', 'den']

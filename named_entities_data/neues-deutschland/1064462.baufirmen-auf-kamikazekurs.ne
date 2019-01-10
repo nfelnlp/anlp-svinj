@@ -1,1 +1,0 @@
-['Sie', 'IG', 'fordert', '80', 'für', 'nach', '.', 'Arbeitgeber jetzt', 'Wenn', 'die', 'auskömmliche', 'die', 'setzen', ',', 'vor', 'zweiten', 'nicht', 'Verstöße gegen', '«', 'ein', 'als', 'ihre eigenen', 'Branchenmindestlohn']

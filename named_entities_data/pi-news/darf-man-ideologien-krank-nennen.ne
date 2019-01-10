@@ -1,1 +1,0 @@
-['Jürgen Fritz', 'Magazin', 'heftigen Protesten', 'Darüber lässt', 'von', 'Überzeugungen', 'angegriffen', 'darf man', 'moralisch', 'verbieten wollen', 'der', 'einen speziellen', 'in Deutschland', 'er', 'skizzierte', 'Der', 'der', 'Boden', 'ist', 'Blogger', 'krankhafte', 'schon', 'der', 'weh', 'Jürgen', 'einen', 'unerfreulichen Erkrankung', 'persönlich (', 'jetzt']

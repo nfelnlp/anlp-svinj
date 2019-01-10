@@ -1,1 +1,0 @@
-['die', ', flehte', 'Delegierten', 'schon', 'durch', 'sich', 'reagiert', 'in einem', '``', 'Partei in', ',', 'Analytiker hat', 'für', 'Demokratie', 'DGB-Gewerkschaften', 'wurde', 'dieses', 'der', 'ist', 'sollen', 'Berichterstattung', '``', 'die']

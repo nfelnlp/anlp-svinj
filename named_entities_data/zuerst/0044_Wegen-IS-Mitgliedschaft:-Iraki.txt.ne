@@ -1,1 +1,0 @@
-['Bagdad', '(', 'mit', 'gefangengenommen', 'gegen eine', 'den', 'haben', 'beiden', 'das', 'sei']

@@ -1,1 +1,0 @@
-['London', 'WikiLeaks', 'CIA-Datenbeständen', 'neue', ',', 'ausdrücklich', 'allen', 'auch', 'Vault-7-Datenpool', 'die', 'ist', 'bezeichneten', 'die', 'und', '.', 'Unbeteiligter', 'Das', 'geschobenen Hackerangriffe', 'deren', 'dem', 'daß', 'Russen', '.', 'Enthüllungen', 'Lupe']

@@ -1,1 +1,0 @@
-['MS', 'Republik', 'Tetzlaffs ,', 'abhanden', 'das', 'diesem', 'Frieden', ',', 'Fremdbestimmung', 'in']

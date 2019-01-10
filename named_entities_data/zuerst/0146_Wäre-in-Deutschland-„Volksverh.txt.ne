@@ -1,1 +1,0 @@
-['Budapest', 'Bundesrepublik', 'ungarische', 'Orbán', '„Invasoren', 'betrachten', 'Ungarn', 'müsse', 'vier', 'würden', 'das', 'und', 'Vorwurf', 'aber', 'Der', 'ist']

@@ -1,1 +1,0 @@
-['Daten', 'Südasien', 'und', 'in', ',', 'Grundbildung', 'deklariert']

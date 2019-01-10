@@ -1,1 +1,0 @@
-['Brüssel', 'EU-Gipfels', 'Beinahe', 'Widerstand', 'der', 'der', 'Sicht', 'versuchte die', 'abzuwälzen', 'wegen', 'kein', 'habe', 'habe ,', 'Staatspräsidenten', 'Pressekonferenz', 'beiden Staaten', 'den', 'weigerten', 'nicht', 'nicht abrücken werde']

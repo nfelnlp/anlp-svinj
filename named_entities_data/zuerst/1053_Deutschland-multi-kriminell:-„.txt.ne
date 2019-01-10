@@ -1,1 +1,0 @@
-['Gesellschaft', 'Deutschland', '.', 'wurde', 'übergeben', 'das', 'erst', 'sitzen', 'mit', 'Woche', 'Moschee', 'Euro', '.']

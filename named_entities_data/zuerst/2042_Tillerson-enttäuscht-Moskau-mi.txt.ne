@@ -1,1 +1,0 @@
-['Brüssel/Waschington/Moskau', 'Signale', 'Entspannung', 'kritisiert .', '„Rußlands', 'Aufstellung', 'einem', 'Amtskollegen', 'des', 'Im', 'sich', 'Verbesserung der', 'gegen', 'Terrormiliz', 'angekündigt', 'ist', 'Sitzung', 'NATO-Rußland-Rates auf', 'aufzuhören', 'die', 'zu', ',', 'mit', 'häufigere', 'Probleme', 'gelte .']

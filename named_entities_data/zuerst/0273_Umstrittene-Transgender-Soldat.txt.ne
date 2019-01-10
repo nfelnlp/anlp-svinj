@@ -1,1 +1,0 @@
-['Washington', 'Transgender-Menschen', 'macht auch dieser', 'der', 'Entscheidung', 'Verabschiedung von', 'Washington stoppte seine', 'einstweiliger', 'die', 'weitere']

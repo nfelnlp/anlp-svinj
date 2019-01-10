@@ -1,1 +1,0 @@
-['machen', 'Zahlen', 'Zeichen für', '. Unbequemer', 'uns', 'Sicht', 'mit', 'Merkel', 'soll', 'Erfolg', 'war', 'Hände', 'und', 'Sicher', ', als ob', 'fragen', 'politischen', 'Medien', ',', '.']

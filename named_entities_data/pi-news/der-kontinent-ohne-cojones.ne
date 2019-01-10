@@ -1,1 +1,0 @@
-['Europa', 'nobel', 'EU', 'degeneriert', 'haben', 'anderen Repräsentanten', ',', 'muss', '.', 'weitgehend', 'Die', 'illegal', 'Bevölkerung', 'in', 'bis', 'an', 'trat', 'zu']

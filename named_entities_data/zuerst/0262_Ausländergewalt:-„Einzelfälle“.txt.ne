@@ -1,1 +1,0 @@
-['Gesellschaft', 'Deutschland', '20', 'in', 'er', 'Mutter', 'deutsche', 'Afrika', 'ersichtlichen', 'Dort', 'konnten']

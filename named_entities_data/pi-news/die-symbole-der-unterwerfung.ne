@@ -1,1 +1,0 @@
-[', die', 'wie in einer', 'dort noch leben (', '“', 'Korrelation', 'geradezu', 'Lande', 'quasi', 'Signalwirkung', ', sollte', 'dominanten', 'beibringen', 'und', ',', 'kulturellen Gefälle “', 'sich']

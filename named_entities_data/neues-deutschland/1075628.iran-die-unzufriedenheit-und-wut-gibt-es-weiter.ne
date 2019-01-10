@@ -1,1 +1,0 @@
-['Iran-Experte', 'zu den', 'Gegen die', 'Die', 'vielleicht', 'relativ gut', 'hat ...']

@@ -1,1 +1,0 @@
-['und', 'einem', 'jeder', 'denn', 'Millionen', 'die', 'nachhaltigen Entwicklungsziele (']

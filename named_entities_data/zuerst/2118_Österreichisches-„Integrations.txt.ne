@@ -1,1 +1,0 @@
-['Gesellschaft', 'Wien', 'Österreich', 'des Österreichischen', 'zur', 'dafür unter', 'Moscheen', 'nach', 'Prozent', '.', '.']

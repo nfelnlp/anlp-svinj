@@ -1,1 +1,0 @@
-['Anita Fuchs', 'Berlin-Mitte', 'von den', '„Die', 'sollen', 'Museum', 'für Bühnen und', '“', 'sagt', 'den', '“', 'oder', '. „Keine', '“', 'Francesca malt', 'gerne', 'gut', 'beim', 'gelernt', 'etwas', 'Neunjährige', 'Religion', '„Islam', '12', 'viele .', 'sagt', 'die', 'des', '.', 'alle', 'den', 'Bruder', 'sie', 'Zeitplan', 'seien', 'Die', 'im', 'sich', 'Religion']

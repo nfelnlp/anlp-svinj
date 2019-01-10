@@ -1,1 +1,0 @@
-['Tobias Schwarz/AFP/Getty', 'In', 'geschichtlichen Welt', 'ist nicht die', 'verbunden der', 'Wählern', 'ist', '100', 'zum', 'eher', 'zu', 'am', ',', 'dessen', 'und', '– , dann', 'wieder von einer', 'und']

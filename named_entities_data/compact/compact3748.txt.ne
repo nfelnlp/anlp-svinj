@@ -1,1 +1,0 @@
-['Deutschland', 'Merkel', 'Will', 'Deutschland', 'einer Studie über', '»', '» ,', 'Teil', 'Deutschland', 'Süddeutschen Zeitung', 'Ex-Chefredakteur des', '« anti-nationalistische', 'aus', ',', 'alter', 'Rückkehr zur', 'hat', 'hält', 'durch', 'vermeiden', 'geratene', 'die', '.', 'der', 'überhaupt', 'bleiben', 'dann', 'für']

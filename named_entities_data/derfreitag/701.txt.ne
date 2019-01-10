@@ -1,1 +1,0 @@
-['Ratcliffe/AFP/Getty Images Es', 'ein', ',', 'in', 'die', 'doch', 'doch die Freundschaft', 'die Digitalisierung diese', 'abschneiden', 'Apps', 'fristen', 'werden', 'funktionieren', 'dieser Algorithmus-gesteuerte', 'beziehungsweise', 'dem wir', ',', 'der', 'folgt']

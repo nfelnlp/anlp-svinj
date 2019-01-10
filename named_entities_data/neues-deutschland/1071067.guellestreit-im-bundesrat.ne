@@ -1,1 +1,0 @@
-['Grüne )', 'dazu', 'zu streichen', 'sollen', ') hat bereits', ',', 'einem', 'Flickenteppich', 'in Niedersachsen', 'CDU', 'abgelöst .', 'Unternehmen', 'werde zu']

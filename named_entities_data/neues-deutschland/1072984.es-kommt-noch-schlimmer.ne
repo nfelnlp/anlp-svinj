@@ -1,1 +1,0 @@
-['und Ken', 'sehen einen', 'for Science in Stanford', 'Kalifornien', 'die', 'über', 'darauf', 'wie genau', ', dass', 'Sicht', 'die', 'Atmospheric Research', 'Colorado sehen die Studie als', 'interessant', 'die']

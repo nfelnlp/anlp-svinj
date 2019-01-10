@@ -1,1 +1,0 @@
-['Berlin', 'aufrechtzuerhalten', 'Steinmeier', 'eine rasche', '„Wenn', 'Steinmeier', 'wünschen', 'Außenminister', 'im', 'der Friedensvereinbarungen', 'als', 'Krim', 'ein', 'Bruch', 'unsere', 'werden', ':', 'BY']

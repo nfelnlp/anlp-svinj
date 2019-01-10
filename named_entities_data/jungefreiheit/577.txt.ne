@@ -1,1 +1,0 @@
-['Hause', 'in', 'bevor', 'geworden', 'schnell', 'wußten', 'etwas macht ,', 'Ausländer', 'Ausländerbeauftragtem', 'mit', ',', 'auf', 'viel', 'Mehrheit']

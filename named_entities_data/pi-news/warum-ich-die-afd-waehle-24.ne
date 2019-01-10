@@ -1,1 +1,0 @@
-['ARMIN', 'Merkel', 'SPD', 'unter', 'von Atomkraftwerken', 'die', 'der', 'diesem', '.', 'werde', 'aus', 'denunziert', 'Person']

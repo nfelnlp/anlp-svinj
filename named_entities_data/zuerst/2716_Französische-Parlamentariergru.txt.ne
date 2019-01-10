@@ -1,1 +1,0 @@
-['Aleppo', 'beginnen nach', 'die', 'und', ',', 'teilte', 'Woche mit', 'ähnliche', '.', 'zufolge', 'haben', 'Menschen', 'versorgt . Verletzte', 'Mediendarstellungen', '. „15', 'sind zerstört', 'Zivilisten', 'gekommen']

@@ -1,1 +1,0 @@
-['vor ein paar', '.', 'Tillschneider', 'gezeigt', ', liegt', ',', 'den', 'denken', 'an', 'unweigerlich', 'den', '.', 'wenn', 'der', '–', 'erfüllt', 'um', 'wenn', ',', ', die', 'liegt', 'Deutschland', '.', 'der', 'Setzen', 'fest', 'Land', 'seinem', 'Entlastung']

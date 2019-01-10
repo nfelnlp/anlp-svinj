@@ -1,1 +1,0 @@
-['üppigen', '.', 'erst', 'den', 'würden', 'nicht mehr oder', 'schließlich', 'in', 'die', 'die unausweichliche', 'das', 'Die unausweichliche Folge', 'Wenn', 'steil', 'Vermögen', 'nach', 'in', 'Gold', 'und', 'der']

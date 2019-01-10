@@ -1,1 +1,0 @@
-['Moskau', 'Anders', 'Lawrow', 'Trump und', 'Front-National-Chefin', 'ausdrücklich gegen den Vorwurf', '„Populismus “ verteidigt', 'Globalisierungsgegner.', 'System', '.', 'Populisten bezeichnen', 'wies', 'in', 'Deutschland', 'frei', 'die', 'gebe', 'Regierung', 'Moskau', 'Beziehungen gehofft', 'widersprüchlichen', 'neuen']

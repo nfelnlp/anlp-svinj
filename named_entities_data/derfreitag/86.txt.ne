@@ -1,1 +1,0 @@
-['Schweiz', 'Deutschland', 'Sean Gallup/Getty', 'Staaten', 'ihren', 'jüngsten', 'einer', 'mit mehr als', 'aus', 'Schweiz', 'machen', 'gegen', ',', 'aus seinem', 'zurückhaltender', 'verfolgt werden müssen', 'Diskussion', 'Form', 'Nagelprobe', 'Regierung', 'Makulatur', 'Papier', 'Tonne']

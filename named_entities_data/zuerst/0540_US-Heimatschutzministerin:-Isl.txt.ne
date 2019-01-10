@@ -1,1 +1,0 @@
-['London', 'Duke hat jetzt', 'die Ministerin', ',', 'vor', 'daß', '.', 'britischen', 'für', 'Bedrohung', 'ein', 'Luft']

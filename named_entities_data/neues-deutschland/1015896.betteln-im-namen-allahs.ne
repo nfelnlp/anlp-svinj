@@ -1,1 +1,0 @@
-['Senegal', 'Odile Jolys', 'Dakar', 'Senegal', 'Dakar', 'Senegals', 'Ärmlich', 'Dakar', 'Senegal']

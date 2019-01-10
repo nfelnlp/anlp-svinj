@@ -1,1 +1,0 @@
-['Philipp Gloeckler', 'Barcelona', 'Rom', 'Berlin-Mitte .', 'sitzt auf', 'seit', 'eine', 'werden', ',', 'für', 'der', 'schon sehr', 'alt', '„wesentlich', ',', 'dass', 'er', 'sich', ',', 'in', 'Brötchen', 'trennt', 'Stadt', 'ich', 'von']

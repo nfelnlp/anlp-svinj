@@ -1,1 +1,0 @@
-['Innsbruck', 'auch', '( ÖVP', 'für', 'Italien', 'durchzuwinken', 'um', 'aus', '.', ',', 'führe man', 'mit', 'Polizei', '.', 'Außenminister', 'Er', 'zwar ,', 'man', ':', 'wird', ')']

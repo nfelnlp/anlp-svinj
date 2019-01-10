@@ -1,1 +1,0 @@
-['Frankreich', 'AFP/', 'Images', 'tun', 'Er weiß', 'ist', '“', 'Mautregelung', '.', ',', 'oben auf', 'in Deutschland', 'vom', 'worden', 'Michael', 'der Autoindustrie', 'ist .']

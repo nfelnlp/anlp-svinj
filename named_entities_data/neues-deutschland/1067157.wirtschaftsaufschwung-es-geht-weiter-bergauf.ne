@@ -1,1 +1,0 @@
-['nicht abschätzen', 'seine', 'der', 'bedeutet', 'in', 'Unternehmen', 'ist', 'massive', 'in', 'Loch']

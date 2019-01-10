@@ -1,1 +1,0 @@
-['Getty', 'Im', 'stellte', ', ob', 'Eine', 'Schirach .', 'hatte', 'mich ,', '‚Wir ‘', 'Zeiten und', ', Lehrer', 'Zu Recht', 'und soziale', 'Ich hatte', 'Eindruck', 'Unterhaltungssendung', 'Conan', ')', 'schief geht', 'Contenance', ', sondern', 'und', 'abschauen']

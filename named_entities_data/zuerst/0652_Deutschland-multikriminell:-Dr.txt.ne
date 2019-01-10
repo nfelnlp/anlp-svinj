@@ -1,1 +1,0 @@
-['titelte', 'ein', 'zwischen einer Gruppe', 'am helllichten', 'der', 'Dachau', 'wollte', 'ein', 'ein', 'ist', 'Iraker', 'Lokalzeitung', 'Glocke “', 'Letzt', 'Imbiß', 'einem', 'einem', 'ZUERST']

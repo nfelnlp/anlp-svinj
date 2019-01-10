@@ -1,1 +1,0 @@
-['Chris Jordan', 'CC', 'hatte man', 'schafft es', 'von der', 'Kyoto die Ergebnisse', 'Die', 'formulierte ,', 'filtrierenden', 'Haum in', 'erschienenen Sammelband', ',', 'es als', 'unkontrolliert ,', 'Fischerei', 'als', 'nicht', 'ab', 'indem sie', 'an', 'entwickeln', 'nicht', 'er']

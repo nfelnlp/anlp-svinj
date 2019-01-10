@@ -1,1 +1,0 @@
-['Tel Aviv', 'Israel', 'Tel Aviv', 'Israel', 'Afrika', 'israelischen', 'Regierungschef', ',', 'halten', 'derzeit', ')']

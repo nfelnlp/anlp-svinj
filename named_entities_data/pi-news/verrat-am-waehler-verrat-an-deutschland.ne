@@ -1,1 +1,0 @@
-['Union', 'Adenauer', 'Dregger', 'J. Strauß war ein', 'Helmut', 'brachte uns', 'für', 'wieder', 'einer', 'Gertrud', 'Islamisierung .', 'Seehofer', 'der', 'Er ist', '“', 'anderen .', 'zu tun', 'zu', 'Doch', 'stellen', '?', 'die', 'Worte', 'in', 'dieser gewählten Blockpolitiker', 'geht unter', 'des', 'Geschichte']

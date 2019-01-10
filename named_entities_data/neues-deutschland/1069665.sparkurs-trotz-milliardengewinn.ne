@@ -1,1 +1,0 @@
-['. Wenn', 'Kaeser', 'anzuhängen .', '»', 'Einschnitte', '.', 'ziert', 'könnten', 'sich', 'die', 'gefallen', 'doch']

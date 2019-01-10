@@ -1,1 +1,0 @@
-['Michel', '.', 'wenig geändert', 'Parteibuch', 'Die aber', 'offene']

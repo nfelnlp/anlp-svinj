@@ -1,1 +1,0 @@
-['Islamabad', 'Pakistan', 'auf die', 'und', 'dazu', 'Das', 'daß', 'daß damit', 'bereits', 'von 14', 'verbieten', 'wie mein']

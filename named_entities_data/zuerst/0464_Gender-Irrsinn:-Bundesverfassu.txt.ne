@@ -1,1 +1,0 @@
-['Gesellschaft 9', 'Gesellschaft 9 Karlsruhe', '„Über', 'mit', 'wäre', 'Land', 'anders', 'sp']

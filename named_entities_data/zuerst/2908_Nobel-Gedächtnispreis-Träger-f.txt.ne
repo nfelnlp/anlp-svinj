@@ -1,1 +1,0 @@
-['Stockholm', ', geht', 'mehr', 'sein', 'erhielten den', 'EU-Nachrichtenportal', '“', 'mit', 'Zentralisierung', 'sie', 'Mitgliedsstaaten', 'nicht', 'nicht homogen', '“', '„Der', 'ein', 'sei', 'Einführung', 'schade', 'nicht']

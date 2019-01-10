@@ -1,1 +1,0 @@
-['Hans S. Mundi', ',', 'und', 'Frische-Tresen', 'Steigerung', 'Plenarsaal', 'Steuererleichterungen', 'lassen ,', 'Mark !', ') .', 'den', 'Freund', 'Freundin', 'eine', 'Arbeit', 'am', 'zu']

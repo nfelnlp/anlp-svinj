@@ -1,1 +1,0 @@
-['Tante', ',', 'ich', 'von', 'einem', 'der', '88', 'mir', 'Radio', ',', 'Küchenhersteller', 'ich', ',', 'Arbeitsaufträge', 'den Quellen', 'der']

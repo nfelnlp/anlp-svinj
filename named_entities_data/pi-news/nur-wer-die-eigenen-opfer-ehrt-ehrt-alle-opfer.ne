@@ -1,1 +1,0 @@
-['Frankfurt am Main', 'denken', 'tragisch', 'Hochmut', 'Alter', 'Land', 'Mahnen', 'das', 'erinnern', 'der', 'an', 'gesagt hat , den', 'den Themen', 'im']

@@ -1,1 +1,0 @@
-['2 Washington/Berlin', 'Bundesdeutsche', 'eine', 'wollen', 'ausbremsen', '.', ')', 'Entwurf', 'Washington', '„Opposition', 'zu', 'Dokument', 'per', 'den', 'extraterritorialen Sanktionen', 'Vorgang', 'gehe', 'Gegenmaßnahmen ergreifen ,', 'es', 'es in']

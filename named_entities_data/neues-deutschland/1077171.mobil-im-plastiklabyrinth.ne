@@ -1,1 +1,0 @@
-['der', 'Rumänien', 'den', '.', 'der Provinz', ', regelmäßig', ',', 'Lieferketten und', 'und', 'internationalen', 'auf', 'Unterstützung', 'dem', '. Viele', 'einem']

@@ -1,1 +1,0 @@
-['so wie', 'vom', 'Regierung darf', 'vorerst', 'auf Anweisung', '49-seitigen Urteilsbegründung von', 'der »', 'Rechtsstreitigkeiten', 'Programms', 'und', 'ohne', 'Menschen', 'jünger', 'leben', 'einen Job', 'Waren', '» Dream', 'Demokraten', 'einzusetzen', '200.000']

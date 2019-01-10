@@ -1,1 +1,0 @@
-['Kairo', 'Mahmoud Khaled/AFP/Getty', 'Die', 'bejubeln', 'liegt', 'unter', 'bleibt ,', 'zunächst', ', dass', 'die', 'empfinden', 'aber', 'begreifen', 'falschen', 'morgen', 'eine', 'allein', 'Anti-Mubarak-Revolte', 'Umgestaltung', 'der']

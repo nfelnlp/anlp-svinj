@@ -1,1 +1,0 @@
-['Flensburg', 'Schleswig-Holstein , wurde', 'Die', '„Lügenpresse –', '27', '27 . Mai 2017', 'stattfinden .', ',', ', die sich in', 'und', 'und Vielfalt “', 'die Universität', 'in Deutschland', 'Im', 'ein', 'damit', '“ eine', '“ durchführt', 'Flensburg gibt in diesem', '„Rechts “ nachzudenken', 'durch', '„guter', ',', ',']

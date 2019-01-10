@@ -1,1 +1,0 @@
-['Osnabrück', 'Grünen-Europapolitiker', 'schließt sich', ':', 'eigen', 'internationale Koalition', 'Nationen', ',', ', solle', 'Verwaltungsreform', 'UN', 'da', 'wichtiger', '“', 'zustande ,', '.', 'und', 'uns das']

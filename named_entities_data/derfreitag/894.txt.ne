@@ -1,1 +1,0 @@
-['Bundesgesundheitsminister Gröhe', 'CDU', 'Bilan/AFP/Getty', 'Es', 'gerade', '.', 'ins', 'die', 'nicht', 'mittlerweile schon', 'Kabinett', 'mit', 'Forschung', 'Entwurf', 'Krankheit', 'behördlich', 'Gruppe', 'die Interessen']

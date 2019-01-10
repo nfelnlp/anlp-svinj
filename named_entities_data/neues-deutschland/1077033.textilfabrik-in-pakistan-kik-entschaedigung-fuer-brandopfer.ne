@@ -1,1 +1,0 @@
-['mussten die', 'der', 'im pakistanischen', 'auf ihre', 'Fabrik', '.', ',', 'vom Pakistan', 'of Labour , Education', 'Opfervertreter', 'vom INKOTA-Netzwerk', 'viel zu', 'der']

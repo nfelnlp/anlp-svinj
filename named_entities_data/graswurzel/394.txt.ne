@@ -1,1 +1,0 @@
-['wieder', '; Red', 'es', 'aus', 'der', 'Italien', ';', ']', 'der', 'La', "''", 'hatte', 'nach', '!', 'Solange', 'Seelsorger', ', dass', 'hatte', 'zu', 'Es', 'veröffentlicht', 'einziger Fall', 'hat einmal gesagt', 'erst', '. ]', 'eines']

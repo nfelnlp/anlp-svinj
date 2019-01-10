@@ -1,1 +1,0 @@
-['Washington', 'zieht das', 'Zwischenbilanz', 'seinen', 'Sender', '“ gibt', 'Weise', 'politischer', 'beim', 'sind', 'hundert', 'Amtszeit', 'die', 'ersetzen', 'zu', 'sind', 'der', 'Strich ermittelten die']

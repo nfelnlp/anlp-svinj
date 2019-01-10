@@ -1,1 +1,0 @@
-['Euro', '75', 'ist', 'ein', ',', 'sagt ,', 'alt', 'Meine Verwandten', 'Hochzeit', 'ich', ',', 'Mädchen', 'missbrauchte', 'der', 'er', '.', 'jetzt', 'jetzt her', 'Tochter', 'Ich', 'denke ,', 'ist', 'Wahl', 'unter der', 'verheiratet', 'dies', 'dies in', 'gelten', 'Polizei', '.', 'zeigt uns', 'lassen .', 'von Hyderabad', 'es', 'auch', 'haben', 'im', 'mit Kind', ', dass']

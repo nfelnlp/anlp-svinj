@@ -1,1 +1,0 @@
-['ist', 'geschweige', 'bei', 'und', 'womöglich', 'Über', 'Stimme', ',', 'die', 'unter 0,6', 'ihr', 'zehn', '“', 'der', '.', 'der', 'werden', 'Doch', 'dem', 'sie', 'der']

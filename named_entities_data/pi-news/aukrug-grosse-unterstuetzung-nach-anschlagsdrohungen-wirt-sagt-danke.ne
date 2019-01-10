@@ -1,1 +1,0 @@
-['Aukrug', 'würde', '( kl', 'der', 'dank der', 'demokratiefeindlich', '.', '. Erst gestern', 'der SPD', 'unter', ')', 'Es', 'zu bedauern', 'demokratischen', ', noch', 'die', ',', 'friedlichen', 'bei allen', 'möchten', 'Alle Personen', 'denen', 'zu', 'professionell und', 'möchten', '.', 'Schluss', 'PI-Leser']

@@ -1,1 +1,0 @@
-['Göttingen', 'das', 'Holtz', 'Sprecher der', 'Durchschnittlich', 'in', 'Transparenz', 'SPD', 'widerständigen']

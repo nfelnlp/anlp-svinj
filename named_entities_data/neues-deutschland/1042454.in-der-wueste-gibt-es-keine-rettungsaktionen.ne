@@ -1,1 +1,0 @@
-['Niger', 'Europa', 'Elvira Treffinger', 'westafrikanische Niger', 'Libyen', 'Algerien', 'Europa', 'Organisation für Migration', 'Hauptstadt', 'dem', ')', 'wollten', 'Im', 'IOM', 'sehr', 'Ziel', 'es ,']

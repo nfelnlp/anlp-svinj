@@ -1,1 +1,0 @@
-['Das', 'Bonn', ',', 'Tanker', 'Regierungen', ',', 'hat']

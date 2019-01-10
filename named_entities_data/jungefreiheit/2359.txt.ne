@@ -1,1 +1,0 @@
-['werden', 'ab', 'interkontinentalen', '``', "''", 'Richtung', 'und', 'Eine demokratische Mitwirkung', 'im eigenen', 'usw. )']

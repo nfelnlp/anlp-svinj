@@ -1,1 +1,0 @@
-['Vorstandsmitglieder', 'am', 'Dann', 'Ulrich', 'verloren auf', 'der', 'der', 'in', '1979', 'er seit 2003', 'hatte', 'Ein Ende', 'seiner', 'Tarifler «', 'die']

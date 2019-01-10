@@ -1,1 +1,0 @@
-['Networld', 'RF /', 'Und', 'Markt', 'mehr', 'derzeit', 'mit', 'allerdings', '. So', 'Waagen ,', ',', 'Tennisschläger', 'gerufen', 'die', 'Papier-und-Bleistift-Methode', ',', 'oder', 'steht', 'Klara', 'Ärztekammern', 'müsste', 'Schätzungen', 'Selbst', 'angebotenen Apps mangelt es', 'Völlig undurchsichtig', 'landen', 'Gesundheitssystem', ':', 'zu mehr', 'Qualität']

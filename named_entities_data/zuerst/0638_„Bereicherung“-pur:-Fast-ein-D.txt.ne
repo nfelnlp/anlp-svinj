@@ -1,1 +1,0 @@
-['Wien', 'Österreich', '-Fortbildungsmaßnahmen', 'sind', '.']

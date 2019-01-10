@@ -1,1 +1,0 @@
-['Gesellschaft', 'Hamburg', 'Linksextremisten', '.', 'dort stattfindenden', 'Kapitalismus', 'vom', 'der', 'Gruppen', 'Partei', 'übernehmen .', 'bereits auf', 'bereits auf die', 'erwartenden', 'der', '.', 'sie', 'eine unerträgliche', 'für viele', 'NEIN', ',']

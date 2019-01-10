@@ -1,1 +1,0 @@
-['.', '. Nach', '.', ',', 'Resch', 'Die Hinweise']

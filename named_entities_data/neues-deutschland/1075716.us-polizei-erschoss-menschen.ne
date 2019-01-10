@@ -1,1 +1,0 @@
-['. In', 'im', '« am', 'sechs', '« 35 unbewaffnete', '.']

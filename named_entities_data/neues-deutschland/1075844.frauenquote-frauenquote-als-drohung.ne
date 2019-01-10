@@ -1,1 +1,0 @@
-['Katarina Barley hat das', 'wissen', 'den', 'gesetzliche']

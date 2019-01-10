@@ -1,1 +1,0 @@
-['Allianz', 'Zentralamerika', 'USA', 'Martin Reischke', 'Donald Trump', 'USA', 'Mexiko', 'Republikaner', 'Trump medienwirksam', 'Obama', 'PAP', 'Zentralamerika', 'USA', 'Alianza para', 'USA', 'Honduras', 'Guatemala', 'El Salvador', 'Zentralamerika']

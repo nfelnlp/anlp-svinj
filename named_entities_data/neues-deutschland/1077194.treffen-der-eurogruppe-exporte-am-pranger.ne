@@ -1,1 +1,0 @@
-['der', 'sich', 'Wirtschaft', '(', 'der Finanzminister', '.', '.', 'Prozent betragen', 'Prozent', 'forschen an', 'Universität von', 'sind längst', 'sind längst kein', 'Überschuss', 'auch', 'ohnehin', 'größte', 'China', 'Der', 'im', 'drei (', ')', 'ansonsten', 'und', 'sind', ',', 'mehr', 'als', 'das', '» vor', 'Druck auf', 'Finanzministerrunde', 'positiv', '.']

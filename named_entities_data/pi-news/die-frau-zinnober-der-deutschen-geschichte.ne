@@ -1,1 +1,0 @@
-['E.T.A Hoffmann', 'schnell', 'in', 'wohl', 'Schmidt ) E.T.A', 'Hoffmanns', 'genannt', 'wird', 'Knöpfen .', 'kurz die', ',', 'antut', 'herumwatschelt', 'herumwatschelt ,', 'Zeichen', 'ist', ',']

@@ -1,1 +1,0 @@
-['Washington', 'einen grundlegenden', 'wichtigsten', ', der', 'Politikwechsels', 'entlassen .', 'das', 'Mittwoch', 'vermuten', 'McMaster maßgeblichen Einfluß', 'worden ,', 'McMaster', 'keinerlei', 'zu', '.', 'Bannon', 'des', 'Strippenzieher', 'aber auch für', 'halten', 'halten nun']

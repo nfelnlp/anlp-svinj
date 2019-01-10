@@ -1,1 +1,0 @@
-['langsam', ',', 'zu', 'Die', 'der', 'sich', 'der', 'Ivoire', 'Kenia', 'Botswana', 'Namibia', 'Swasiland', 'EU-Kommission', ',', 'Jahre', ',', 'Das', 'weiter', 'Staaten']

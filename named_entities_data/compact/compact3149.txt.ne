@@ -1,1 +1,0 @@
-['es', 'es ,', '.', 'Wort', 'ihn nicht', 'verbessern', ') . Nur', 'Pilotenkrankheit in Anmarsch', 'lohnt', 'aufdringlichste Identifikations-Forderungen', '.', 'ist', 'regelmäßig', 'Es', 'verbietet', 'auf Hochtouren', 'Wie', 'Von', 'die', '.']

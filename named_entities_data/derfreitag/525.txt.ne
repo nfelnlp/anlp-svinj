@@ -1,1 +1,0 @@
-['Laura Baade', 'ARD', 'Schweiz', 'nicht Reto', 'In', '( Udo', 'der', '( Miroslav', 'nach Lena', 'Redakteurin Silvia', 'ist', "''", 'und', 'am', 'Franz', 'Ascher', 'aber noch', 'von Jagdzeit', 'Das Kind stirbt', 'getrieben ;', ',', 'Figur', 'nicht', 'lieber', 'muss doch', 'der', 'Reminiszenz an', ')', 'statt', 'Split-Screen-', 'gebrauchen :', ',', 'und', '``', ',', 'da']

@@ -1,1 +1,0 @@
-['Wien', 'Doskozil', 'SPÖ', 'EU-Beauftragten', 'seinen Vorschlag', 'ausgleichend', 'um Tausende', 'in', 'erworben', 'Länder', ',', 'Asylbewerber', 'EU-Ebene', 'zu', 'Systemwechsel', 'und']

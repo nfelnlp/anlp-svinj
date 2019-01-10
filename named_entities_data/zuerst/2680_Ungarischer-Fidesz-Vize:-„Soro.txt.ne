@@ -1,1 +1,0 @@
-['Budapest', 'Soros unterstützten', 'Regierungspartei', 'vorsehen', ':', 'Umfeld', '. In', '. Dies', 'die', 'die Transparenz', 'Kolumnist']

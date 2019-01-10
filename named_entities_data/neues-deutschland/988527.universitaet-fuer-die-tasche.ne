@@ -1,1 +1,0 @@
-['Flüchtlingen', 'Hochschule', 'der', 'zu sehen .', 'das nicht .', 'den', 'Bisher', ': Dort haben', '30', 'Ganze viel', 'um allen', '1000', 'Lab', 'Die Start-up-Schmiede', 'wird vom Softwaregiganten', 'weiße', 'ein', 'Studium', 'beim', ':', '300', 'Kiron', 'weil sie', 'fliehen weiter', 'klappt .', 'sollen die']

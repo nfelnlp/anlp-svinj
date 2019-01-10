@@ -1,1 +1,0 @@
-['iranischen', 'Teheran', 'Hassan Ruhani', 'Nachrichtenagentur', '.', 'war', 'Zugang', 'wurde .', 'den', 'des', '»', 'Gemessen', 'China blockiert', 'ohne', 'weltweit', 'und', 'entwickelt wurde', 'vk.com', 'gründeten .', 'sein', 'zwar', 'Jahr', ',', 'auf', 'sollen', 'nicht', 'rechtsfreie', 'TKÜ-Gesetz auf der', 'einer']

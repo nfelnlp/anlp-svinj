@@ -1,1 +1,0 @@
-['Bergen', 'Naraha', 'Minamisoma', 'Präfektur', 'Präfektur Fukushima', 'Fukushima', 'ein', 'es', 'einem Ort', 'ein', 'Für', 'der']

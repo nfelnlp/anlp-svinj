@@ -1,1 +1,0 @@
-['Warschau', 'Polen', 'NATO', 'Rußland', 'Warschau', 'Moskau', 'sowjetische', 'Podborsko', 'Gedenken', 'nach', '.', 'Szarek ,', 'Regierung', 'sowjetischer', 'Jahren', 'daß', 'Zweiten Weltkrieg']

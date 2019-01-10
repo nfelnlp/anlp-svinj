@@ -1,1 +1,0 @@
-['Yoichi Yamada', '»', 'Jimmin Shimbun', 'Yoichi Yamada', 'durchgepeitschten', 'Anti-Terror-Verschwörungsgesetzes', 'durchsuchten', '(', ',', ', Kozo Okamoto', '.', 'im', 'als', '.', '1972', '. 26', 'ausfindig', 'als', 'die', 'berichten']

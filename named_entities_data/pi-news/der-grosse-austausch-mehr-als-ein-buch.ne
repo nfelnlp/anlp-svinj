@@ -1,1 +1,0 @@
-['Martin Lichtmesz', 'Buchmesse', 'Antaios', 'Camus ein', 'ist', 'relativ', 'Houellebecs Roman', 'mehr', 'Camus ist', ',', 'ein', 'treffen', 'sind', '.', 'einmal', 'Antiremplaceurs', 'und', 'Befürwortern', 'bezeichnet', 'Stadtvierteln', 'der', 'dadurch', 'ging', 'Zufluss', 'vermutlich', 'Demut', ')', 'die', 'Ihre', 'Übersetzung']

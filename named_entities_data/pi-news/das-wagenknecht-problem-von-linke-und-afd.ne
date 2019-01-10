@@ -1,1 +1,0 @@
-['Sahra Wagenknecht', 'SPD-Vorsitzenden', 'Oskar', ', zur', 'den', 'hätten', 'Frankfurt )', 'alle', 'die', 'aber', 'unter', 'Linkspartei-Führer', 'haushoch', 'durchschaubar', 'haben', 'sind', 'Wähler', 'sind als', 'nicht', 'geben', '.', 'aus', 'geradezu', 'Wichtiger für', '.', 'bestreitenden', 'diese', 'fehlender neoliberaler', 'Petry', 'Das', 'Damit', 'nur', 'gut']

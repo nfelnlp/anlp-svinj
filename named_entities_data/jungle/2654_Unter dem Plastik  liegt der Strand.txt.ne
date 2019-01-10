@@ -1,1 +1,0 @@
-['Ghana', 'Plastikmüll', 'Ghana', 'Felix Riedel', 'Prampram', 'Ghana', 'Accra', 'Accra', 'Das', '(', 'seine', 'tapfer', 'Polyethylen', 'Dioxine', 'Gummi', '.', 'Studie', 'Weeks und', 'Fink aus', 'Jahr 2012', 'Tonnen', 'Sondermüll', 'den', '.', 'zu', ',', 'Jahren', 'Plastiktüten', '«', 'Zeichen', 'wenigen', 'Dorf', 'sauberer', 'Dort', 'einfach', '.', ',', '.', 'ohne', 'mit', ',']

@@ -1,1 +1,0 @@
-['Siegmund Freud', 'Freud', 'Jahrhundert', 'gestellt', 'Psychologe', 'der zweiten', 'der ersten', 'aber', 'Blick', 'ist', 'den unbewältigten', 'in', 'Mitte', 'daß', 'Jung', 'dafür', 'uns', 'Religionen', 'die']

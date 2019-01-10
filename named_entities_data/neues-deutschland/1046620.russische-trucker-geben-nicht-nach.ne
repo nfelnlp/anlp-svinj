@@ -1,1 +1,0 @@
-['Russland', 'Bashutin', 'Kerstin Ewald', 'St. Petersburg in', '.', 'nahmen', 'russische', ',', ', Vorsitzender der', 'auf']

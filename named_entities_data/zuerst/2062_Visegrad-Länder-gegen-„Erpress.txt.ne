@@ -1,1 +1,0 @@
-['Warschau', 'Ungarn', 'Slowakei', 'die', 'verwahren', 'verwahren sich erneut', 'ließ', 'Dienstag', 'es', 'zu', '.', 'Visegrad-Gruppe', 'niemals akzeptieren', 'EU', 'ziehen', 'den', 'an', 'Ungarn', 'zu', '”', 'sollte', 'Damit', 'Österreicher', 'ruhig', 'Regierung', '(']

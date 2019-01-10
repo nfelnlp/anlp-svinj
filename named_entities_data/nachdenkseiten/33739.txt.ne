@@ -1,1 +1,0 @@
-['In allen', '[ *', '. Die', '.', 'Vermögensverwaltung', 'ergebenen', 'Deutschland', 'Nach', 'von 2015 ging', 'von 2015 ging der', ') in', ',', 'betrachtet', ')', 'Schere der Einkommensverteilung', 'Kluft', 'Jahre', 'viel', '4,7', 'gegen', 'der', '.', 'die', 'nichts', 'mit', 'höher', 'Spitzenreiter', 'in', 'fünf', '2012', 'nachhaltige', 'ganzer', 'Wie', 'Bodensee']

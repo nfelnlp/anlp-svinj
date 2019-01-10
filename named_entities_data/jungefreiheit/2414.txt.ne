@@ -1,1 +1,0 @@
-['deckungsgleiche Bilder gezeichnet', 'wird', 'Antifa', 'untersagt .', 'und Einschüchterungsaktionen', 'Jahren', 'in', 'rechtsradikalen', 'Beispiel ist', 'als Garanten', 'werden', 'Ruhe', 'Klumb', 'einen lebendigen geistigen', 'ich ,', 'in', '``', 'Der Schiffbruch', 'mich']

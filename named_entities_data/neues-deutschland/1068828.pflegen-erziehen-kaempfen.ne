@@ -1,1 +1,0 @@
-[', die', 'dennoch ist', '»', ',', 'des', 'auf', 'Dienstleistungen ,', '2017 ,', 'Seiten ,', 'Euro']

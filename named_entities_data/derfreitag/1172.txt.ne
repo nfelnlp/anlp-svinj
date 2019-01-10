@@ -1,1 +1,0 @@
-['In', 'Tagen', 'es wahrlich', 'in dem', 'anvisierte Termin', 'fallen .', 'mitmischte', 'Menschen unter', '. Pünktlich um', 'Jahr der', 'der', ',', 'in Rennes', '.', 'letztes Mal']

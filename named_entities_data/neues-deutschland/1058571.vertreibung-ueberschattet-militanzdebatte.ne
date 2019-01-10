@@ -1,1 +1,0 @@
-['standen', 'aus', 'Neben', 'die', '-', ') musste', 'geben', 'die »', '94', 'Erfolg', '.', 'Anwohner', 'einer Veranstaltung', 'Anwohner', 'den Saal mit', 'und', 'Linken', 'im', 'wenn', 'solidarisch']

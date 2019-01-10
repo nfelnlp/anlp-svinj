@@ -1,1 +1,0 @@
-['Unabhängige', '(', 'Die', 'wegen', '. In', 'Es', 'Razzien', '1975', 'Schließung', '.', 'entstanden', 'Parole', 'David', ',', 'westdeutschen Jugendzentrumsbewegung', '. Obwohl es', 'Selbstdarstellungen', 'nimmt', 'Jugendpflege', '.', ',', ',', 'für', 'gezogen', ', 672']

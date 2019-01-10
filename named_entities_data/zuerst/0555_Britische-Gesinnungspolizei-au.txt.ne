@@ -1,1 +1,0 @@
-['London', 'Großbritannien', 'Europa', '„Times “', 'allein im', 'gegenüber', '13 Polizeieinheiten', 'der', 'der Ermittlungen', ', kritisiert', ', daß ‚grob']

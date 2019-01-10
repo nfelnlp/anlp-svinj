@@ -1,1 +1,0 @@
-['Lactalis', 'Laval', 'Ralf Klingsieck', 'Paris', 'Paris Lactalis', 'Laval', 'Bretagne', 'Frankreich', 'Spanien', 'Griechenland', 'Frankreich', 'Europa', 'Bruno Le Maire Lactal-Chef', 'am Freitagnachmittag', 'wurden', 'alle', 'gewesen sein', 'im', 'zurückzurufen', 'Kontrollen', 'die', 'auf', 'drei', '47 )', 'der', 'ist']

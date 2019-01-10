@@ -1,1 +1,0 @@
-['Ungarn', '„Central European University “ (', 'Soros finanziert', 'geholt', 'und', '.', 'Geheimnis', '“ richtet , die sich', 'unterhalten', '.', 'hatte', 'künden', 'Wiener', 'Unterstützung für', 'unhaltbar', '„Kurier', 'ich die', 'universitären', 'bin']

@@ -1,1 +1,0 @@
-['die', 'es', 'wie', 'Gabe', 'allgegenwärtigen', 'Superdiskriminierte', 'mehr', 'mehr für so', 'Darstellungsspektrums', 'verschleierte', 'Zahra lamentieren', 'gar']

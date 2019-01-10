@@ -1,1 +1,0 @@
-['nicht', 'unter', 'aber', 'das', 'und', 'immerhin 400', 'nicht', 'uns', 'Wasser']

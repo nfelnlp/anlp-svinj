@@ -1,1 +1,0 @@
-['Horst Seehofer', 'CSU', 'Sean Gallup/', 'Images', 'Kohl ,', 'Merkels politischer', 'Seehofer :', 'werde', 'aus', 'und', 'Seehofer', '.', 'Vorlage', 'Erhöhung', ',', 'Spitzensteuersatz', 'Union', 'auch', 'sich', 'Staat', 'die', 'an', 'mit', ',', 'Deutschen', 'bayrische', 'aber', ',', 'alpine', 'keiner']

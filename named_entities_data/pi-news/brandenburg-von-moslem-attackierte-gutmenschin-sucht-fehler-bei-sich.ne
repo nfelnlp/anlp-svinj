@@ -1,1 +1,0 @@
-['Mohammad Hussain Rashwani', 'syrischer', '( Foto', 'mit einem', 'in', 'den', 'sagt', 'eine mögliche', 'könnte', ', dass', 'in ihn investiert', 'den', 'nicht', 'mittlerweile', 'gebracht', 'wegen', 'So', 'kann nur pathologisch begründet']

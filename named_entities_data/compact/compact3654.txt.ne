@@ -1,1 +1,0 @@
-['Thilo Sarrazin', 'Jürgen Elsässer', 'führte', 'Sarrazin in', 'gibt', 'Kindergeld', 'sein', 'dem', 'höher', 'gibt', 'recht', '(', 'eigentlich den', 'erfolgsbasierten', '400.000']

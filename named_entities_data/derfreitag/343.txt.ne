@@ -1,1 +1,0 @@
-['Rentenversicherung', 'die', 'Vertragsunterlagen', ', Vorstandsvorsitzender', 'AG , sagte', 'aufgrund der', 'beigetragen', 'und']

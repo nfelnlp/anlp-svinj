@@ -1,1 +1,0 @@
-['Budapest', 'ungarischen', 'Orbán', 'Bakondi', 'Europäischen Gerichtshof', 'Ungarn', 'wörtlich', 'an', 'daß', 'das', 'für', 'hatte', 'hatte zwei', ',', ',', 'sicheres', 'Komitee', 'vertreten', 'eine', ',', 'neuer']

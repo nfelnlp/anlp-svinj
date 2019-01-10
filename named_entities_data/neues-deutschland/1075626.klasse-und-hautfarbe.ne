@@ -1,1 +1,0 @@
-['.', 'die', ',', 'blieb', 'Geschichten', '.', '.', 'die', 'die von den', 'enttäuscht', '?', 'sein', 'um', 'an', 'nicht', 'erneuerte', 'explizit', 'migrantisch', 'weiß', 'Argument']

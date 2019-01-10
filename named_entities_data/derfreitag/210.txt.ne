@@ -1,1 +1,0 @@
-['ist', 'wird', 'Frauen', 'Generation', 'zahlt']

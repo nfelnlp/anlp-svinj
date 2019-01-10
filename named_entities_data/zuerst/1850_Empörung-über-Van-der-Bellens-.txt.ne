@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'Alexander Van der', 'Van', 'Van', '.', 'der', 'Bellen war', 'Sein Absturz', 'bringt', 'zum Rücktritt des Bundespräsidenten', ')']

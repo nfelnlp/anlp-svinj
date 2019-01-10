@@ -1,1 +1,0 @@
-['Bremen', ',', 'als', ',', 'für die', 'Als erstes', 'noch', 'Aufenthaltsgesetz', '.', 'offenbar', ', doch', 'eine', 'sich', 'zu erleichtern', 'nach', 'Doch', 'für', 'Afghanen', 'Menschen', 'leben', 'rechtfertigen', 'Rechtsbeugung', 'keine', 'nachvollziehbar', 'das fördere', '„Mißbrauch']

@@ -1,1 +1,0 @@
-['prekär', 'Anton', 'Frankfurt', 'World', 'sowieso', 'allem', 'wenigen', 'Arbeitsverhältnisse', 'sogenannten', ',', 'Branchen', 'Kommunikation und Medien', 'den unzähligen', ', die', 'die', 'ehemaliger Aktivistinnen']

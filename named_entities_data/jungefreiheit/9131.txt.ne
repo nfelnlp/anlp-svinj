@@ -1,1 +1,0 @@
-['rechnen', 'gemacht', 'in', 'bewirkt haben\x93', 'der', 'Fraglichkeit', 'sein', '.', 'hat', '\x84in', ',', 'daί', '. Dieses', 'Mensch', 'sehr oft', 'allem', 'dem', 'fόhlten', 'wohler', ',', 'Eigentum', 'Eigentum', 'ist', 'als', 'sei\x93', 'von', 'dem', 'sondern', 'technischen Zivilisation\x93', 'Rόstow', 'Gesundheit', 'des', '\x84eine', 'eben', 'um', 'Problems', 'schwierige']

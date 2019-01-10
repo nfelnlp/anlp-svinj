@@ -1,1 +1,0 @@
-['wirksameren', 'indizierten', 'Prozent', '35', 'vom', 'mehrerer', 'weniger', '1996', 'Reform', 'habe', '. Das', 'Verbot', 'wird weiter']

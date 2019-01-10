@@ -1,1 +1,0 @@
-['Warschau', 'NATO-Land', 'sich', 'Jetzt', 'Marschflugkörper', 'auf', 'die', 'desselben', 'Kilometern', 'werden', 'ungter', '.', 'einer', 'Zahl', '„Festlandsdegen', 'Kriegsausbruch']

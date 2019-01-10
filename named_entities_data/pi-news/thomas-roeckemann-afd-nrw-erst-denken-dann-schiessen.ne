@@ -1,1 +1,0 @@
-['Kalkar', '. Auf dem', 'die künftige', 'werden .', 'sprachen', 'in', 'trifft', 'als', ':', 'Parteifreunde', 'persönlich', 'der', 'bezeichnen', 'diese', 'ändern', 'sehen Sie', 'der', ',', '.', 'von allen']

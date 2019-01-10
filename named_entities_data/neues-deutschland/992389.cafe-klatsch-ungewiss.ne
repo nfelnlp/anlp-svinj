@@ -1,1 +1,0 @@
-['Café', 'ältesten', 'Anfang', 'den', 'den Vorbereitungen', 'entstand', 'mieten', 'Jahren', ',', 'heftigen', 'beteiligten', 'beteiligten sich', 'Anti-Atom-Bewegung', 'dem', 'Konsens', 'Unterstützung', 'Die', 'Nerv']

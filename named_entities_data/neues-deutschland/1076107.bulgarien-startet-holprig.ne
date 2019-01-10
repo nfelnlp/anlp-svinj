@@ -1,1 +1,0 @@
-['die', 'wie', 'auf die', '.', 'der', 'Premier', 'protokollarischen', 'protokollarischen Befugnisse', 'der', 'in', 'und', 'wurde', 'fünf', 'beteuerte Parlamentspräsidentin', 'der EU-Präsidentschaft', 'Dinge', 'seit', ',', 'Smog', 'Ramew', 'Parlament gepeitschten', 'Einheit', 'Regierung']

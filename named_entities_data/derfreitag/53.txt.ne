@@ -1,1 +1,0 @@
-['Images „Das', 'aber', 'Vermögen', 'wenn', 'auch', 'lange', 'globale', '.', 'muss', 'lieben']

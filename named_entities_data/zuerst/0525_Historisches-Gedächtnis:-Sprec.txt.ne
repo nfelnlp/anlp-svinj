@@ -1,1 +1,0 @@
-['russischen', 'Igor Konaschenkow', '20', ':', ',', 'Antlitz', ', daß', 'Millionen', 'für', 'Wiederaufbau', 'wir', 'Mal', 'nicht', 'wir', 'nicht.', 'Der', 'IS', '‘', '“', 'auch', 'noch 45.000', 'die', 'russischen', 'zerstörten Rakka']

@@ -1,1 +1,0 @@
-['Berlin', 'Berlin-Heiligensee , in', 'Euro', 'Euro', 'CDU )', 'die', ',', 'verteidigt die', ', meint', 'es hätte', '„Fehleinschätzung', 'Suche', 'und', 'der', 'gegründete', 'kauft', 'Euro', 'jetzt']

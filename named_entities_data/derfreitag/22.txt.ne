@@ -1,1 +1,0 @@
-['Ein', '.', 'den', 'nach', 'Großdemonstration', 'wobei', '-', 'täglich', 'die Duldung', 'das', '–', 'sechs', 'Als', 'nimmt', 'in', 'Sicherheitssituation', 'sind', 'Lage', '.', 'auf', 'frage', '„Wenn', 'gegen', 'im Lager', 'abends', 'einer']

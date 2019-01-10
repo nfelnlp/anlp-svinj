@@ -1,1 +1,0 @@
-['Peking', 'setzt', 'Kurzstrecken', '„fliegende', '–', 'man', 'Rekordgeschwindigkeiten von', ',', 'schon', 'die', 'Städte', 'den', 'und']

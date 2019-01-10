@@ -1,1 +1,0 @@
-['Washington', 'zu', 'neuen', 'von', 'und', 'sind', 'US-Vertreter', 'dieser Gelegenheit', 'Washington', 'ernsthafte Unterstützung', 'Potentials der', 'nach', 'erst', 'nicht', 'nicht nach', 'zu Rußland aus']

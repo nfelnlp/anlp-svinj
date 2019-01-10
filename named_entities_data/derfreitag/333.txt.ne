@@ -1,1 +1,0 @@
-['Häschen', '“ -Geste recken', ',']

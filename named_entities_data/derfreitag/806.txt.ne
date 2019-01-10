@@ -1,1 +1,0 @@
-['Jean Gebser', 'Ken Wilber', 'vermeiden', 'wie-', 'Dienstleistungen als', 'Kosten ) .', 'kümmern', 'das', 'wird']

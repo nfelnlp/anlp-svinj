@@ -1,1 +1,0 @@
-['Jan Philipp', 'Heyel', 'Slam', 'Deutschland', 'Bielefeld', 'Expressivität', 'konzentrieren', 'Kondom-Komik', ': Bielefeld', 'erste', 'an', 'suchen 213', 'verstehe', '.', 'ist', 'statt was', 'soll', '100.000 Hasentaler', 'der Minister', 'getragen', 'Schönheit', 'nur unabhängig', 'bezeichnet .', 'Peter Licht', 'seinem Album', 'Mann ,']

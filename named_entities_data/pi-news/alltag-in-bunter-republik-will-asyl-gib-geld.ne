@@ -1,1 +1,0 @@
-['dabei', 'den', 'Namen', 'Asyl beantragt und', 'Taschengeld abkassiert .', 'in', 'Rathaus', 'Minuten', 'ihm', 'mir', 'auch', 'Asylgrund', 'persönlich', 'zu', '.', 'Fassbomben störten', 'sei', 'Ich aber', ':', 'fünf', 'damit', 'vor', 'Oder']

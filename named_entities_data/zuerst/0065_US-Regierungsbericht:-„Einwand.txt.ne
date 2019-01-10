@@ -1,1 +1,0 @@
-['Washington', 'US-Regierung', 'In', 'Personen', '. Zudem', 'Grenzen', 'bei diesen', 'äußerte', 'kritisierte', 'die', ',', 'Reformen', 'von']

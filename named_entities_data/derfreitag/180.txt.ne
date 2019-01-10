@@ -1,1 +1,0 @@
-['Christopher Furlong/AFP/Getty', '„Wir', 'immer', 'CNN', 'viel', '24 .', 'zwei', 'Insel Utøya Anschläge', ',', '.', 'François', 'Das', 'in der', 'die', 'wehrhaft', 'als', 'den', 'möglich .', 'zu', 'zu', 'mit', 'Misstrauen', 'Denkens', 'Liebe gefährdet.', 'für die', ':']

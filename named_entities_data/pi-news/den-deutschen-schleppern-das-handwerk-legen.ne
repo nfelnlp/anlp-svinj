@@ -1,1 +1,0 @@
-['im', 'und', '.', '?', 'Tag', 'in', 'ist', 'denen', 'nächsten', 'Schlepper', '„Flüchtlinge', 'die', 'Geschichte']

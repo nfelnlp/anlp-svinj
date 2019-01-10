@@ -1,1 +1,0 @@
-['einem', 'Wer am', ', die', 'den', 'SPD ) hatte', 'offenen', '.', 'an', 'die', 'Teilnehmerzahl', '.', 'weiteres', ',', 'engagierten', 'klingende', ',', 'nämlich', 'Gegnern', 'ihre', 'und', 'gar', ',', 'EU-Parlament', 'auch eigenmächtig', 'Erzengel', 'globalisierten', 'Normen', 'immer', 'begründet', 'Fast', 'Diese', ',', ',', 'Gabriel', 'möge', 'Sie die Arbeit']

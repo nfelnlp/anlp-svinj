@@ -1,1 +1,0 @@
-['Rumänien', 'Berlin', 'und', 'Auch', 'Situation dort', 'kann nicht', 'Wohnung', ',', 'Sie', 'Einige', 'Fußmarsch von der', 'gelegen', 'Absurdität ,', 'den', 'den 2011', 'den 2011 aus', 'Evakuierten widerfahren sein', 'von', 'Roma-Minderheit', 'die', 'Romni', ',', 'keine', 'und', 'Arbeit', 'bei', 'Stelle', 'und', ',', ',', 'und', 'Bühne', '„Auch', ')', 'Alina', 'gebracht']

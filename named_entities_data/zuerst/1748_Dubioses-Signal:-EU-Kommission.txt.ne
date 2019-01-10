@@ -1,1 +1,0 @@
-['Brüssel', 'EU-Kommission', 'mit', '. Januar', 'ersten Anti-Korruptionsreports', 'im Rahmen', '(']

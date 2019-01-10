@@ -1,1 +1,0 @@
-['Helmut Roewer', 'Bundesrepublik', 'australische', 'Christopher Clark', 'Europa', 'erschienen', 'in', ',', ',', ',', 'zu', 'solche', 'den', 'das', 'Ereignisse', 'vertreiben', 'zweiten', ':', 'vor', 'aus', 'man', 'Deswegen', 'werden', 'Territorium', ',', 'Leser', 'komplex gewesen', '.', 'Als', 'im', 'Alfred', 'Ersten Weltkriegs .']

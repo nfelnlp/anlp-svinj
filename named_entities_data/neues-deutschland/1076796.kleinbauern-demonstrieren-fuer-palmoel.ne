@@ -1,1 +1,0 @@
-['gereist .', 'protestieren', 'steckt', 'nach', 'Öl', 'der', 'Produktion', 'den', 'zustimmen muss', ',', 'in', 'Joko', 'EU-Parlaments von', 'Malaysia', 'und', 'geschont', 'Sojafelder', 'gehüllt', 'Wegen', ',', 'Kosten', 'Palmen', 'kommentierte', 'Ibrahim', 'kann keine', 'das Armutsproblem nicht gelöst', ': »', 'ist']

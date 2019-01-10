@@ -1,1 +1,0 @@
-['Opfer', 'psychische', '. Homophobie', 'die', "Libertären ''", 'Ein', '2013', 'der', 'Anarchosyndikalis-tInnen', 'und', 'Rechte', "''", 'mit', 'derart', 'Einige', '.', 'offenen', 'Mann', '``', 'Er', 'Linken', 'Zusammenarbeit', 'versuchte', 'stand', 'nannten', '. Das']

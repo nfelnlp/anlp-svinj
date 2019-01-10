@@ -1,1 +1,0 @@
-['Hartmut Grebe', 'EU-Projekte', 'Grebe', 'ein', 'sagte', '„Herr', 'Ich', 'meinem', 'aus rief ich', 'Hauptverwaltung', 'man', 'allen', 'konnte', 'geforderten', 'Fall', 'wenn', 'vorlag', 'fragte', 'war', 'und', 'doch', 'fragte', 'dass', 'verschiedenen', 'den', 'Ich', ',', 'englische', 'Ausspruch', 'Konzerns', 'Ergebnis', 'sonnen', 'Konrad-Adenauer-Stiftung']

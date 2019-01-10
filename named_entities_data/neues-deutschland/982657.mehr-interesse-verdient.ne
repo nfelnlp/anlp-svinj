@@ -1,1 +1,0 @@
-['Deutschen', 'der Ende', 'in', 'am 29', 'nationale', 'Buch', 'Generalstreik !', 'mit', 'anarchosyndikalistische', 'Syfo']

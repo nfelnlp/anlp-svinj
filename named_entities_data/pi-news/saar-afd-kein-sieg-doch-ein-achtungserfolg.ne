@@ -1,1 +1,0 @@
-['Saarland', 'Schulz', 'ganz', 'von', 'trotz', 'Traumpaares', 'hinnehmen', 'Die', '!', '.', '(', ') Das', 'gewiss', 'um', 'Prozent', 'richtete', 'deutliche', 'der', '.', 'dem', 'im', 'viele', 'drei', '.', 'dieser', 'künftige', 'Hinblick', 'nun', 'bislang', 'mit', 'noch', 'den']

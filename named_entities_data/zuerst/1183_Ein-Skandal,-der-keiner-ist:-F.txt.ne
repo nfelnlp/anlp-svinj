@@ -1,1 +1,0 @@
-['Wien', 'FPÖ-Nationalrats-', 'der nach', 'sorgt', 'Situation', 'zu', '“', 'jene', '”', 'kommen .', 'früheren', ':', 'immerhin']

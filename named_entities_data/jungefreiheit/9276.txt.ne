@@ -1,1 +1,0 @@
-['sind', 'faktisch', 'Lφsungen', 'und', 'Januar', 'es', ',', 'spδter', 'Gipfel', ',', '.', 'am', 'anderen', 'Man', 'ihnen', 'Himmelsgaben', 'Schmiede und', 'Δltere (', ', wenn man', 'von Laue', 'dem es', 'dreidimensional periodisch', 'Daί', 'gefragt', 'der', 'denen indes', 'einziges', 'anderen', 'Keine', 'den Trilliarden', 'kφnnte', 'also in']

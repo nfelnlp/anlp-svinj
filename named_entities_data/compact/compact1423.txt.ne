@@ -1,1 +1,0 @@
-['Schweden', 'bösen', '1940er', 'Thema', 'schweigen.', 'nicht', 'wann derartige', 'mancher Journalist', 'letzten Jahr', 'Studentin Maria', '(', 'zu berichten –', '.', 'die', 'abschließen', '„Schweden', 'beteiligt', 'des', 'Verbrechen', '“ .', 'Maulkorb', 'und', ',', 'Aussprechen', 'kolportierten', 'Frage', '?', 'für', 'können', 'Täter', 'folgende', 'die']

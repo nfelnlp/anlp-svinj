@@ -1,1 +1,0 @@
-['Deutschland', 'gesucht', 'Einwohner', 'Millionen', 'Asylbewerberstatistiken', 'überwältigende', '.', 'man', 'Falls']

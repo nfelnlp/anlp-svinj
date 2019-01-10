@@ -1,1 +1,0 @@
-['Kiss', 'Bang', 'Reuters', 'Ivan Alvarado', 'großspurig', '8', 'Geburtenregister', ', selbst', 'neu', 'sich', 'Weg', 'eine', 'Kategorie', '. Der', 'Geschlechterstudien an', 'HU', 'die zu dem Thema', 'HU ,', '.', 'sagt', 'nur']

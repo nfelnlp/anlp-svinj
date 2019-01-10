@@ -1,1 +1,0 @@
-['Berlin', 'Israel', '.', 'jammert :', 'und allerlei', 'Grenzen', 'haben', 'wird', 'den', 'jetzt', 'Doch', ',', 'die', '“', 'bis', 'vielleicht sogar', 'im', 'ausgerechnet beim', 'Holocaust', 'bekanntlich', ',', 'dem', 'der', 'Linksfaschismus', 'Oktobers 2016']

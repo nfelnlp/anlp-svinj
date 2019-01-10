@@ -1,1 +1,0 @@
-['lauten', 'SPD', '%', 'AfD', 'FDP', '%', 'Grüne', 'weit ,', 'ihr die', 'zu', 'jeder', 'viele', 'den', 'Umfrageergebnissen', 'frisiert', 'erinnern', 'veröffentlichenden', 'nach', 'nahezu', 'kämpfen', 'das']

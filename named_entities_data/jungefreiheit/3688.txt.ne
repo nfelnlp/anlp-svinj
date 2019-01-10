@@ -1,1 +1,0 @@
-['das', 'des', 'Kurve blinkt', 'Auge', 'lachen', 'Sie', '!', 'Zusammen', 'Deutschkanadier', 'des', 'National', 'Gletscher', 'im Raum', 'Hier', "stark ''", ',', 'Geschirre', 'nichts', 'Formen', 'Hüften im', 'Streß', 'einem Mann', 'einen', 'Ochsen', 'keine', 'keine Wahl', 'der', '.', ', drei', 'der']

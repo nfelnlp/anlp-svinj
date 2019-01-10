@@ -1,1 +1,0 @@
-['Deutschland', 'EZB-Studie', 'Gerade', 'und', '.', 'sind', 'summieren', ',', 'Belgien', '–', '.', 'schafft', '.', 'Industriekapitäne', 'dazu', 'selbstbewußte', 'Ein', 'mit', 'Bildquelle']

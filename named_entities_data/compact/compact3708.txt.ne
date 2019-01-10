@@ -1,1 +1,0 @@
-['sagen', 'werden', 'das', 'allem', 'andersherum', 'gewohnt', 'der', 'um', 'unbeabsichtigt', 'und', 'von', 'des , im', 'er-', 'Diese', 'der', 'in Ägypten', 'trägt', 'staatlichen', 'es', 'dabei', ',']

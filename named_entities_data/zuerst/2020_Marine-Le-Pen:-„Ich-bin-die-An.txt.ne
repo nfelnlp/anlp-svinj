@@ -1,1 +1,0 @@
-['Paris', 'FN-Kandidatin', 'Pen einmal', '. Zwar', 'die', 'Dinge deutlich', 'ab', ',', ':', 'Migranten', 'isoliert sei', 'Politik', 'gemacht', 'daß', 'Globalisierung', 'zu', ',']

@@ -1,1 +1,0 @@
-['/ Getty', 'Letzte', 'alt', 'bekannten', '.', 'weit', 'zu', ',', 'Hilfsdienste', '.', 'amtierende Berliner', 'ließ', 'gerne', 'Nasszelle', ', das bleibt', 'genau', 'Wertverfall', 'ermittelte', 'auch', 'die', 'aus', 'am 12.02.2014', '€', 'ist', 'angesammelten', 'Orientierung', '!', 'Das']

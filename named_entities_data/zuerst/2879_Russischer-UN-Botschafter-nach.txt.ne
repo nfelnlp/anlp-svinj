@@ -1,1 +1,0 @@
-['Moskau', 'Rußland', 'Aleppos', 'Ost-Aleppo angeblich begangenen', 'in Genf', ',', 'mit .', 'angeblich begangenen Verbrechen', 'Diplomat', 'ums', 'die', '200', 'berichtet hatten .']

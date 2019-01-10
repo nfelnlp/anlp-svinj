@@ -1,1 +1,0 @@
-['Paris', 'Front National', 'Marine', 'Marine Le', 'Marine Le Pen', ';', ',', 'hat jetzt den Quarantänegürtel', 'geht', 'geht der', 'geht der FN', 'anderen', '.', 'seiner', '4,7', '56jährige', 'Vaterländer', 'ihre', 'nach', 'dem', 'veritablen', 'Polit-Landschaft', 'unterzeichneten', 'Le Pen', 'ihrem', 'machen']

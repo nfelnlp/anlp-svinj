@@ -1,1 +1,0 @@
-['.', '. Sachsen-Anhalts', 'stehen', 'Koalition', 'Koalition mit', 'Bei', 'außerordentlichen', 'Mehrheit', 'der', 'Landtag', 'der', 'Jahren', '.', 'Das', 'ist', ',', 'der Koalition bröckele', '.', 'ein', '.', 'Ausschlaggebend', '(', 'Umweltministerin Claudia', 'zu', 'hatte', 'verwehrt', 'Dalbert', 'beschädigt', 'die Erfolge .', 'Radverkehr über', '. »', 'und']

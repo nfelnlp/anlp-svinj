@@ -1,1 +1,0 @@
-['Langley/Washington', 'Der', 'Zeichen der', 'Washington', 'seinen', 'mit', 'kritisiert', 'sie', '.', 'laufender', 'Haus', 'die', 'Feierlichkeiten', ': „Es', 'am', ',', 'Islam-Terrorismus']

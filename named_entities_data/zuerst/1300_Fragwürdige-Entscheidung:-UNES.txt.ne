@@ -1,1 +1,0 @@
-['Krakau/Tel', '. Der', 'eine gute', 'Altstadt', 'Weltkulturerbe', 'im', 'Derzeit', 'Israel', 'promp', 'scharfer', 'Benjamin', 'bezeichnete das', 'Die', 'UNESCO', 'das', 'die', 'vor ,', 'Geschichte', 'ist', '”', 'also', 'erklärte', 'ist', 'In', 'das', 'auch', 'Christentum', 'als', 'mü']

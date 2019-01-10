@@ -1,1 +1,0 @@
-['SPD', 'Falle', '«', 'Sozialdemokraten', 'Steuererhöhungen', 'gut', 'hingegen', 'sich', 'seiner Basis', 'den', 'CSU', 'in', 'weiterhin', 'SPD', 'auf']

@@ -1,1 +1,0 @@
-['SELBERDENKER', 'von', 'Lichtmez und', 'Sommerfeld wird', 'kundig und unaufgeregt zerlegt', ':', 'Selbstauflösung', 'im', '.', 'Die Bundesregierung', 'Haltung', 'Status', 'Hauptstadt', 'Islam', 'haben', 'beanspruchen', 'in', 'wieder', 'wieder', 'das', ',', 'aus', 'um politische Spielchen ,', 'den', 'beginnt', 'ganze', 'Es', 'die', 'Mechanismen']

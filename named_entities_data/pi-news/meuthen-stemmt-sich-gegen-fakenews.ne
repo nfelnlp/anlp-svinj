@@ -1,1 +1,0 @@
-['in', 'habe sich', 'den', 'Gauland eine', 'Rolle im', 'vorher', 'fest', 'gezielte', 'nun bereits', 'dass', '– wie für', 'Lassen', 'nicht irritieren', '.', 'scherte', 'und', 'an']

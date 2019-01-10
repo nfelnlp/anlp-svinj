@@ -1,1 +1,0 @@
-['New', 'New York City', 'und', 'Soros ,', 'als', 'habe', 'zu', 'und', 'Generälen', 'fürchtet', 'behauptet', ',', 'herbeigeführt', ',', 'in', 'Fillon', 'hätten', 'beiden', 'die Dominanz', 'ein', 'Beitrag zur', 'Soros', 'hinter', 'den', '„Türkei-Deal', 'von']

@@ -1,1 +1,0 @@
-['Meissner/AP', 'die', 'Ist', 'finde es', 'überfordert', ',', 'zusätzlichen', 'Silvesternacht', 'an', ', ist', 'Hamburg . Er', 'dort', 'immer', 'immer', ',', ',', 'die', 'uns', 'ziemlich', 'versetzt .', 'um', 'Albers', 'bereits Verständnis', 'schließlich hatte', 'Fall gibt']

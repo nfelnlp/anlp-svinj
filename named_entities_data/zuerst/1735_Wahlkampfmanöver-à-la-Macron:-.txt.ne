@@ -1,1 +1,0 @@
-['Wien', 'Österreichische Volkspartei', 'ÖVP', 'CDU', 'Kurz', 'Partei gestellt', '.', 'soll', 'wandelt', 'für', 'wird', 'hat', 'österreichische', '–', '–']

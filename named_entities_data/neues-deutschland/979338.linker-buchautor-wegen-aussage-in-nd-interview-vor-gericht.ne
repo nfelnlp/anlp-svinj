@@ -1,1 +1,0 @@
-['Es war', 'und', 'in', 'Prozess', ', Alt-Autonomer', 'die', 'die', 'veröffentlicht']

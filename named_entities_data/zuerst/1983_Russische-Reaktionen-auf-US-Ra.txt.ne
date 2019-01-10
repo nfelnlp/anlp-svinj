@@ -1,1 +1,0 @@
-['Moskau', 'über', '.', 'sofort', 'nahm ausdrücklich', 'auf', 'logisch', 'handelt', 'Maßnahme', 'hochmodern', 'Marschflugkörpern und', 'die', 'Bashar al-Assad', 'Zeit', 'Lage versetzt', ',']

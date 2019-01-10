@@ -1,1 +1,0 @@
-['Wien', 'Österreich', 'ÖVP-Staatssekretärin', ', für', ',', 'am Stadtrand', 'Wien', 'der', 'der', 'abgewinnen .', 'Massenunterkünften', 'neue', 'von', 'Dennoch', 'können', ',', 'Rahmen', 'in', '(', 'Flickr/Metropolico.org/CC-BY-SA-2.0']

@@ -1,1 +1,0 @@
-['Daca', 'Daca Washington', 'den', 'zur Abschaffung', 'Alsup in San', 'entschied laut', 'beenden', 'Die', 'der', 'für Proteste', 'Dekret', 'sprechen']

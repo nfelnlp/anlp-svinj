@@ -1,1 +1,0 @@
-['Zum', 'ohne', 'wir', 'waren', 'höchsten', 'Estnische Volkskongreß', 'ausländischen', 'der Vorkriegszeit', '1918\x96', 'jene ,', 'nicht im', 'in', 'immer noch', 'Aufgabe', 'die', 'Nato', 'es', 'noch', 'lebendig', 'ist', 'sondern', 'Weise', 'Interessen', 'Parlament', 'stellt', 'Mangel', 'sie', 'Wehrpflicht ist', 'die', 'protestantische', 'der', 'konservative Weise angewandt']

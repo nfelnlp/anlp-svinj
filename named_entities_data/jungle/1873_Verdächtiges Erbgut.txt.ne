@@ -1,1 +1,0 @@
-['auch', ') forderte', 'Woche', 'images', 'die »', 'Die Zeit', 'ab .', 'Justiz den Täter', 'wegen', 'Wolf der', '.', '. Mit Unterstützung', 'grünen Koalitionspartners', 'Wolf', 'eigenen', 'auch noch', '.', 'Wahlprogramm allesamt', 'das', 'Ideologische Unterstützung', 'sie', 'wie » CSI', 'oder', 'Art ihrer', 'zu befürchten', ',', 'VISAGE )']

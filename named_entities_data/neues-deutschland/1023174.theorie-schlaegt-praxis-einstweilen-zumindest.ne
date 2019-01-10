@@ -1,1 +1,0 @@
-['Leipzig', 'Stadtpolitik', 'Peter Nowak', 'Leipziger', 'Lindenau', 'sollte', 'die', 'gegenüber', 'nd', 'und', '.', 'stand']

@@ -1,1 +1,0 @@
-['Images Müssen', 'den', 'Bundestag', '.', '. Was', 'Beschäftigten', 'oder', 'aus', 'durchlaufen', 'und', 'diese', '.', 'einen', 'Zustand', 'auf', 'und', 'hinkt', 'seit', 'hinterher', 'Das', 'den', 'Verhandlungsführer', 'breite']

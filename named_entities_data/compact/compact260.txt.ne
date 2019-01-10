@@ -1,1 +1,0 @@
-['_von Werner Fuchs', 'Leipzig', 'Red', 'Springerstiefeln', ',', ',', ',', ',', '(', '!', ',', ',', ',', ',', ',', ',', 'und', 'zu', 'zu', ',', 'besten', ',', 'gegen', 'Abständen', 'mit', 'Arbeitgeber', '.', 'in', 'so', ',', 'deutschen', 'Städten', 'erwerben', 'am']

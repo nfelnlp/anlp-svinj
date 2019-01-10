@@ -1,1 +1,0 @@
-['Belgrad', 'serbische', 'Ivica Dacic', 'Kosovo', 'serbische Provinz', 'serbische', 'Staatspräsident', 'Vucic hatte', 'neun', 'Andererseits', 'und', 'wurde', 'massiven', 'kompakte', 'serbischen', 'diesem', 'Den', 'serbischen', 'der', ')']

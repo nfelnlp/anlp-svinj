@@ -1,1 +1,0 @@
-['ökonomischen', 'vor', 'wundern .', 'Diese', 'Konflikt', ',', 'Lebensfreude und', ', Nörgelei', 'Müller-Armack', 'von', 'Erhard 1952', 'steht', 'als \x84flow\x93-Erlebnis', 'des', 'bei', 'sondern', 'dem', 'des', 'durch', 'Nation die', ',', 'nie von', 'dem eigenen', 'abzulehnen', 'im neuzeitlichen', 'und', 'wird', 'ist zu', 'in', 'in der', 'den großen', 'ja immer', 'alles getan']

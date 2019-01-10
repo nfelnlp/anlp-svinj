@@ -1,1 +1,0 @@
-['.', '. Der', 'das Unternehmen', 'räumte Binladin ein', 'Umfang', 'Monaten', 'gegründete', 'ist']

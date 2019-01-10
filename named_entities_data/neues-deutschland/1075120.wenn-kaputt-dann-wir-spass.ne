@@ -1,1 +1,0 @@
-['. »', 'sein', 'ruhigen', 'klaren', 'der', 'Gewalttaten', 'Roten', 'der', 'Straftaten', 'Presse', 'in', 'und offenbar', '.', 'Großen', 'werden', 'nächsten']

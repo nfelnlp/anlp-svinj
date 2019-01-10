@@ -1,1 +1,0 @@
-['Kenare', 'alle', 'dem Geschichtsunterricht', 'Chomeini', ', welche', 'Bild', 'kehrten ,', 'Diskussion', 'hat', 'Hassan Rohani', 'anderen späteren', 'des Regimes', 'Massoud', '.', 'Massendemonstration der', 'ließ', 'bis', 'dann', 'von', 'und', 'andere', 'INTV', 'von', 'Galgen oder', 'Doch', 'sogar 33.000', 'Zeit', 'mehr', 'die Massenhinrichtungen', '–', '35']

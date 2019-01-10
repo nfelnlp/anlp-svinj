@@ -1,1 +1,0 @@
-['. Bei', 'Leipzig', 'Mitarbeiter', 'der', 'einen', 'Dienstleistungsgewerkschaft', 'gegenüber', 'gegenüber » nd', 'klagen', 'Geld', 'von', 'vom Amazon-Solidaritäts-Bündnis , das', 'außerhalb', ',', 'bestreitet', '» nd', 'zunehmenden Entlassung', 'neue']

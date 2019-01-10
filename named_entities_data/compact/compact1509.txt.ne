@@ -1,1 +1,0 @@
-['Weltgesundheitsorganisation', 'WHO', 'USA', 'Europa', 'EU', '11', 'Volkskrankheiten', ',', 'scheinen', ',', 'trinken', 'Todesfällen', 'der', '%', 'Frauen', 'Sucht wieder auszulösen']

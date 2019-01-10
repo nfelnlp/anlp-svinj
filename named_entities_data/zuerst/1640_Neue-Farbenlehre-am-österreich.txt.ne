@@ -1,1 +1,0 @@
-['Wien', 'eine', 'mehr', '.', 'Gewerkschaft', ', der', 'dem', 'nur', '.', 'sagte', 'Dogma ,', 'das', '.', ',', 'am', 'links', 'empfinden', 'so', 'an', 'die', 'Situation', 'sagte jetzt', 'sein.', 'eine', 'Sozialdemokratie mit']

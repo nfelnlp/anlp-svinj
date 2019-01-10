@@ -1,1 +1,0 @@
-['Brüssel', 'USA', 'Rußland', 'EU', 'EU-Ratspräsident', 'Fortschritte', 'Europäischen', 'zuletzt', 'um', 'der', ',', 'westlichen', 'von', 'eurasischen', 'Sanktionen', 'Sanktionen nach', 'Separatisten', 'Maschine', 'zurück']

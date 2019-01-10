@@ -1,1 +1,0 @@
-['Gesellschaft 1 Berlin', 'Heiko Maas', 'SPD', 'und', 'eigenen', 'vor', 'weitreichenden', 'an', 'bedauert sie Forderungen', 'Verantwortlichkeit']

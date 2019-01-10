@@ -1,1 +1,0 @@
-['deutlich', 'Bedarf', 'der', 'Ähnlich', 'Ähnlich sieht', 'aus', 'auch', 'hatten', 'Zustände', 'in', 'hat', 'kein', 'linker Krimineller .', ', schmierten', 'der', 'Familie', 'Migrationshintergrund', 'wohl', 'zurückschrecken', 'mit kleinen', 'zu', 'diese']

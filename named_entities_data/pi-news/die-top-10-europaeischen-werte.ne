@@ -1,1 +1,0 @@
-['Leo', 'Berlin', 'den wichtigsten', 'evolutionären', 'vor allem', ',', 'schnell die', 'für diesen', 'zahllosen', 'Potentaten', 'ihre', 'sich', 'höherer', 'kann sich nicht', '.', 'wichtige', 'Herr Nachbar. “', 'europäischen Wert', 'ist der', 'Neukölln', 'am', '8', 'wenn', 'Verhaltensgestörte', 'modernste']

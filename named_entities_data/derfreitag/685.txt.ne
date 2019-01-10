@@ -1,1 +1,0 @@
-['Spezialität .', 'Oma', 'Nun', 'Punk war immer', 'Go', '“', 'dass', 'dessen', 'Dieser Artikel', 'Beat', 'Mense', 'Zäune', 'wissen', ',', ':', 'Osaka', 'sie', 'Tage']

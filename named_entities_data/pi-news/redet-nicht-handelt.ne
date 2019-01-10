@@ -1,1 +1,0 @@
-['DR.', 'DR. MARCUS FRANZ |', 'stellt', 'und', 'deutsche', 'gigantischen Fluchtbewegung', 'in', 'Migranten', 'sorgen', 'sei', 'er', '?', 'wie', 'jetzt', 'die', 'jetzt', 'Sobald', 'entzogen', 'Jahr', 'seinen', 'Merkel']

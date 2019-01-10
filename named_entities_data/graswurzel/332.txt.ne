@@ -1,1 +1,0 @@
-['Lich', ',', ', die als', 'erste', 'vorgestellt ,', 'ist', 'Freiheitliche Theoretiker*innen', 'wie die genannten Gournay', 'La', 'Forderungen nach', 'die', 'des', 'sind', 'nach', '``', 'allem', '.', 'von', 'wurden', 'um die', 'vergessenen Akteurinnen', 'wie Etta Palm-Aelders', 'zeichnet Sparre deren', 'ihren Einfluss', 'der', 'Sparre', 'mehr', 'Weltgeschichte', 'für']

@@ -1,1 +1,0 @@
-['Zypern', 'EU-Gesetzgebung', 'sehen', 'ihren', 'das', 'Angebote', 'nach', 'so', 'dies', 'Krügerrand', 'Europa', 'Gold', 'einer']

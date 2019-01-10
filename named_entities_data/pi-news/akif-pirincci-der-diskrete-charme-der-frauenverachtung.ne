@@ -1,1 +1,0 @@
-['bei', 'wissen', 'ihrer', 'ihr', 'es', 'es drucken wollte , kann', 'sich', ',', 'Fotos', 'Logik', 'Fotografin', 'verhüllten', 'mit ihren', 'überdurchschnittlicher', ',', 'es', ',', ',', 'Oder', 'ekelhafte', 'solcherweise', 'solcherweise agieren', 'dich', 'Mit']

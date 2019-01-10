@@ -1,1 +1,0 @@
-['Peking', '.', 'der', 'getestet . Das', 'daß', 'Verlautbarung', 'Spitzel-App zu', 'zufolge', 'bessere']

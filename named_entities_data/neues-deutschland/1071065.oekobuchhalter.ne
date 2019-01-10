@@ -1,1 +1,0 @@
-['ins', '. »', ',', ', wo Sukhdev', 'in Delhi', 'Sicherheitsbeamten', 'und', 'Deutschen', '. 2008', 'zu', 'und', 'nachhaltigen', 'von bis', 'eine']

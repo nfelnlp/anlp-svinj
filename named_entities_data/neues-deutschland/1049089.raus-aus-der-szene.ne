@@ -1,1 +1,0 @@
-['Würgegriff', 'Fotoausstellung', 'Organisiert', 'und', 'beispielsweise', 'über', 'berichten', 'in denen trotz']

@@ -1,1 +1,0 @@
-['Budapest', 'Präsident', 'jetzt', ',', '„Die', 'Erklärung Bezug', 'ihrer', ',', 'bauen']

@@ -1,1 +1,0 @@
-['Hollande-Plakate', ':', 'Getty', 'Linkspartei , Kommunisten', 'Gewerkschaften', 'zu', 'Enttäuschten ,', 'durch', '– Les', 'sie', 'gewandt', 'gegen diesen', 'vor', 'der', 'rhetorisch', 'des', 'für „ein soziales Nein', '. Mélenchon', '. Mélenchon geht', '28', 'Präsident', 'eine', 'den']

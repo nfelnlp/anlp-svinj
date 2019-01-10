@@ -1,1 +1,0 @@
-['Dienstleistungsgewerkschaft', 'die', '(', 'gegeneinander', '. Hintergrund', 'angestrebten', 'Marburger', 'Verfassungsbeschwerde', 'Juli', 'in', 'so', 'sei', 'ver.di den', '.', 'die', 'Freitag', 'eine', 'auch', 'gemacht', 'Einführung', 'die', 'in']

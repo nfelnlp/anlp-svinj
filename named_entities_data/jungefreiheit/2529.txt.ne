@@ -1,1 +1,0 @@
-['flexibler', 'sein', 'öffentlichen', 'Doch', 'es', 'gibt', 'wegfallen', 'die', 'wie', 'Ihr', ',', 'Millionen', 'interpretiere', 'viel stärker', 'ein', 'und', 'das', 'privaten Rentenversicherer', 'der', 'geben \x96', '.', '.', 'quasi-eheliches', 'geschaffen', ':']

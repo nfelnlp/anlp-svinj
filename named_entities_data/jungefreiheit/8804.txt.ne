@@ -1,1 +1,0 @@
-['Deutschland', 'Rechtsanspruchs', 'Charlotte Cary von Jagow', 'Tatsдchlich', 'wдre', 'Anne-Marie', ', in', ',', '( Frankfurter', 'Sonntagszeitung ) .', 'behauptete', 'Legt', 'ist dabei', 'Milliarden', 'verursacht', 'auf', 'aber', 'aber sie', 'Betreuungsmodell', 'dieses', 'umfдnglicher', 'Frau', 'unter', 'Euro', 'bei einer eher niedrigen', 'hervor']

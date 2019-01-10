@@ -1,1 +1,0 @@
-['Hannes Arch', 'Bernhard', 'austrieb', 'Escape from', 'beschrieben', 'Dollar schwere', 'die', 'Bull', 'vergleichbare', 'das', 'das wahre', 'war', 'in', ',', 'ob', 'nicht schwer', 'diese', 'aus Identifikationsfiguren', 'Extremsportler', 'Baumgartner', 'er seine', 'die', 'ja', ', als', 'haben', 'verlieren']

@@ -1,1 +1,0 @@
-['Merkel', 'Westerwelle', 'Eisele', 'AFP', 'Getty', 'abzuhören', 'andere', 'müssen', '.', 'Belgacom', 'der britische', 'mithören', 'in', 'gehackt', 'Premierminister', 'fanden', 'Schnüffelprogramme', 'an', 'weitere Kabinettsmitglieder', ',', ',', 'absolute', 'Wilhelm Decker', 'Verschlüsselungstechnik ausgehebelt']

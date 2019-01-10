@@ -1,1 +1,0 @@
-['das', ',', 'in', '.', 'ist', 'der', 'auch', 'machen', 'vor', 'Instituts für', 'Ökonomie', 'Genossenschaften', ',', 'zur Förderung', 'La Pampa', 'Argentiniens liegt .', 'nicht nur über', 'eigenes', 'zur', '000 aktive', 'in der', 'Präsidentschaftskandidaten', '. Oktober', '››Aber', 'wir uns']

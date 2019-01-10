@@ -1,1 +1,0 @@
-['Bundeswehr', 'Pfullendorf', 'Bundeswehr', 'Alliance', 'dpa', 'Maurizio Gambarini', 'Pfullendorf', 'Sprengverletzungen', 'Hans-Peter', ', der', 'nicht', 'habe', 'Rekrutierungsstatistiken .', '\xadseien', 'infantile Seminare', 'Praktiken', ',', 'Frage', 'Unberührbaren', 'Armee', 'wirkt', 'Sie', 'dass ein', 'schafft', 'zum', 'reichen', 'mit', 'ein']

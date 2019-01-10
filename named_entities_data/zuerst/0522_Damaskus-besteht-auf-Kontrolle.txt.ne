@@ -1,1 +1,0 @@
-['verletzt.', 'Kontrolle', 'Kontrolle über', '„Wir', 'und', 'Damaskus', 'Stadt', 'die', 'zu', 'sei']

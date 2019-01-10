@@ -1,1 +1,0 @@
-['Südafrikanerin', 'vor', 'sie', 'zwei', 'Geschlecht', 'nichts', 'weiblich', 'fundamental', 'und', 'nicht', 'des', '“ Er', 'dabei auf', ',', '„männlich', 'oder', 'und', ',', 'es', 'Frage']

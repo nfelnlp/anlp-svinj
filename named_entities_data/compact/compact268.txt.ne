@@ -1,1 +1,0 @@
-['von', 'über', 'Wahrheit', 'Reihen “', ',', 'und', 'und', 'ausziehen', 'und', 'Ersatz :', '.', 'zwischen Türken und', 'zu', 'von', ',', 'aber', 'einen', 'aktuellen', 'steht', 'allem', 'hier', '. 12']

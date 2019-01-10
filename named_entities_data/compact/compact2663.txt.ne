@@ -1,1 +1,0 @@
-['–', 'Feist Es', 'der', 'und', 'hier', ',', 'Abgeordnetenrechte', 'Abschaffung', 'Die', 'haben den', 'parlamentarischen', 'Anstatt', 'zu', 'zu fallen', 'Despotien war', 'überbringen', '3', 'Aber', ',', 'hat ,']

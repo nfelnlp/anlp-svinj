@@ -1,1 +1,0 @@
-['heißt', '30 Jahre', 'Angst vor Moslems hat…', 'geschrieben :', '“', 'Roman sollte', 'in', 'St. Pauli-Stadion wurden', 'Es war', 'nicht auf die', 'viele', 'und', 'bei einem', 'im', 'Schließlich', 'dort', 'oder', 'nicht', 'Mal in', 'dann', 'dürfen', 'in', 'Sie', 'Sie lachen', ',', 'in', 'ist', '.', 'sind', 'nur', 'alles', 'knabbernde', 'das']

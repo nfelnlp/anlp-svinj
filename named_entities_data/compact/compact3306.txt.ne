@@ -1,1 +1,0 @@
-['_von Katrin Fischer', 'Max-Planck-Instituts für evolutionäre Anthropologie', 'von 160.000', 'Einführung', 'damit', 'fest', 'daß G8-Abiturienten', 'Studium', 'Die nach G8 Absolventen', 'jung , so', 'jung , so daß', 'gepaukt', 'Endeffekt', 'früher .', 'Kreativität', 'Kreativität fördert', 'Ohne', 'entwickelt', 'seinem', 'vom', '.', 'Gesundheit', '.', '.']

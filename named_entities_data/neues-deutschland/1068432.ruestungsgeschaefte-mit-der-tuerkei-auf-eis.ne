@@ -1,1 +1,0 @@
-['. Gute', 'der', 'oder', 'von', 'politische', 'für Exportgenehmigungen', 'es', 'das Großprojekt', 'Kampfpanzern', 'Euro', 'Rheinmetall stelle', 'Frieden', 'in']

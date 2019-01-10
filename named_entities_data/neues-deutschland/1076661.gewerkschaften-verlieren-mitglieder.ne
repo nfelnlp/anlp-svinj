@@ -1,1 +1,0 @@
-['. Die', 'DGB', 'ist', 'knapp', ', ver.di', 'IG', 'hatten', '2017', 'dem', '243 Mitgliedern', 'Zulegen', 'GdP', 'und kommt', 'auf', 'zu', 'schrieb']

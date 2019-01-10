@@ -1,1 +1,0 @@
-['der', '“', 'müssen', 'scheuen', 'mehr', 'Polizei', 'deutschen', 'Bevölkerung', 'mitten', 'weiter', 'und', 'gemeinsamen', 'hieß es', 'Eine', 'Frauen', '6.30', 'von', 'sie', 'einem', 'so', '„Mann', 'dunklen', 'Schuhen', 'Verfahren', '15']

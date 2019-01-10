@@ -1,1 +1,0 @@
-['. Keine', 'Bayern ) ist', '.', 'Thüringen', 'Kursachsen', 'Preußen', 'Sie', 'Vertreter', 'Ständevertretung', 'Wenn ein', 'er', 'Friedhof', 'ersten Mal', 'wie', 'war', 'wird niemals', 'war', 'hygienischen', 'Friedhöfe', 'handelte', 'Pflicht', 'Hat Ihnen', 'Dann']

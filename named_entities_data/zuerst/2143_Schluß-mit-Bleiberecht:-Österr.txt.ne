@@ -1,1 +1,0 @@
-['Graz', 'Deutschland', 'Afghanistan', 'hat', 'keinen', 'realen', 'als', 'Betracht', 'Daher', 'ihm', 'derzeit', 'zweitstärkste', ',', 'dem', 'noch', 'Arbeitslosenhilfe.']

@@ -1,1 +1,0 @@
-['Cantaloop', 'Goebbels', 'Friedrich', 'Großen', 'einer', 'wird', 'Schulunterricht größtenteils auf', 'kann', 'dezidiert', 'namentlich', 'wie sie', 'sondern ihren', 'sondern ihren polit-korrekten', 'dazu', 'ganz', ',', 'werden', 'sein', 'Noch', 'ihrer']

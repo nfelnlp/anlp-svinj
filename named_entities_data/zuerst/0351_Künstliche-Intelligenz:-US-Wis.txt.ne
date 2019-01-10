@@ -1,1 +1,0 @@
-['Stanford/Kalifornien', 'Nicht', 'an der Stanford', 'Studie vor', 'Straßen', 'werden', 'Weiße', 'Abstammung', 'überwiegen', ',', 'lag bei', 'digitale']

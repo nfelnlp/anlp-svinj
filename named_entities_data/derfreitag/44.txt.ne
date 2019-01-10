@@ -1,1 +1,0 @@
-['Young Lions', 'Andreas Süß', 'Grippesaison', 'Müsli', 'Man', ', wird erst jetzt', 'nicht mit', 'zum', 'und', 'Parallelparlaments', 'Plakate', 'spricht über', 'Erfahrungen', '. Nur', 'erklärt sie', '.', '„Bessere', ',', 'abhängig davon', 'wäre ja', 'die', 'zuletzt', 'ein', 'sozialem', '. „Wir', 'sondern', '. Sie', 'mal', 'stellt', 'Schnick an', 'Darüber', 'sie persönlich']

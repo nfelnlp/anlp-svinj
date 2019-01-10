@@ -1,1 +1,0 @@
-['Dresden ( Sachsen', 'Prozessbeginn', 'Dresden', 'Freital', 'Dresden', 'Timo S. und', 'F. sollen nach', 'Einzelfall', 'seinem Plädoyer', 'Vereinigung', '.', 'seien', '»', '.', '. Nach der', 'April', 'an', 'nichts']

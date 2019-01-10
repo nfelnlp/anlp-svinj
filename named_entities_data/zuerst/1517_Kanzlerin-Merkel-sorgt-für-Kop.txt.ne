@@ -1,1 +1,0 @@
-['Gesellschaft', 'Argentinien-Reise', 'Merkel ( CDU', 'für', '.', 'tödlichen', 'mit', 'sorgt', ',']

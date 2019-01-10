@@ -1,1 +1,0 @@
-['könnte mit', 'und', '.', 'vor', 'auch', 'in', 'Wer', ',', '.', 'die', 'Rosołowska', 'der', 'für die', 'Bewegungen', 'Polen', 'Polen zuständig', 'solidarischen', 'und', 'Am', 'wird das', 'der', 'polnischer']

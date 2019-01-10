@@ -1,1 +1,0 @@
-['Images Nie', 'der', '. So', 'Egal', 'Egal wie', '-', ',', 'erster Linie', ',', '-']

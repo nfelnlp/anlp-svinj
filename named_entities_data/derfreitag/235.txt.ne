@@ -1,1 +1,0 @@
-['Louis Galllois', 'Jean-Sebastien', 'Images Manchmal', 'es', 'der', 'Louis', 'einem', 'das sich', 'Refrain', 'allen neoliberal', '„Reformliedern “', ': Man', 'eine', '30', 'positiven', 'schnell .', 'der Publikation des Gallois-Papiers', 'Sturm', 'Hollande', 'Hollande', 'der', 'die linke', 'das', 'aus', '.', 'überstimmen']

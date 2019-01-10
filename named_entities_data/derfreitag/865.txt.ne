@@ -1,1 +1,0 @@
-['Edinburgh -', 'Müller', 'gestört', 'ist']

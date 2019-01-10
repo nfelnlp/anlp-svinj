@@ -1,1 +1,0 @@
-['DGB-Chef', 'In einem', 'auch', 'Eigentümer', 'Tölle', 'sich dabei']

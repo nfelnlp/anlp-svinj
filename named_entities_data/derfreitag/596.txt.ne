@@ -1,1 +1,0 @@
-['Suhrkamp-Verlages', 'hat beantragt', 'aufheben', 'Dezember', 'spricht', 'er daran', ',', 'ist', 'Geistige', 'auch', 'sondern', 'Nutzen', 'Verschleiß an']

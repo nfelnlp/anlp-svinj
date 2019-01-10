@@ -1,1 +1,0 @@
-['Donnerstag könnte mit', 'hat', 'mithin', 'dieser', 'Groß-', '-', 'dieser', '-', 'die', 'Tarifbindung', 'selbst', ',', ',']

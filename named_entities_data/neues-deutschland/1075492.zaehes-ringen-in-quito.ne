@@ -1,1 +1,0 @@
-['einigen', ', darunter', '.', 'Twitter verkündete er', 'sei', 'Gespräche vor', 'erfahrene Politiker', 'hatte . Offiziell', ',', 'FARC-Verhandlungen', '.', 'an den', 'acht']

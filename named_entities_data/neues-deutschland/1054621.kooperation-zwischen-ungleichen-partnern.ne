@@ -1,1 +1,0 @@
-['das', 'laut', 'am', 'Afrika', 'unterschiedlicher', 'zu', 'Cuacua', 'zwischen den', 'zu', 'der Städtepartnerschaft Lichtenberg-Maputo', 'Wie', 'es', '. Die Menschen', 'deswegen', 'es', 'es mehr', 'es mehr Ressourcen', 'und', 'entwickelt', 'Diktatur', ',', 'das', 'aus', 'passiert', 'der', ',', 'Maputo waren', 'Stadtbezirk', 'steigern', '.']

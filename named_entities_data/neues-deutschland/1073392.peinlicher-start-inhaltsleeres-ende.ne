@@ -1,1 +1,0 @@
-['bei der', 'Die', 'Welthandelsorganisation', 'argentinischen', 'Aires ging am', 'Lösung', 'SPD ) und', 'der', 'bei', 'die Konsensfindung', 'für', 'Wunder', 'angepasst', 'im', 'Brot für', 'verpasste Gelegenheit «', 'Vereinbarungen über', 'die', 'Themen', 'deutlich hinter', 'der', 'zu', 'Zeit', 'auch', 'NGOs', 'die', 'auf']

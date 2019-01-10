@@ -1,1 +1,0 @@
-[') Obwohl wir', 'dass', 'Freudenfest', 'allen', 'Völker', 'Tannenbaum', 'entdeckt', 'Germanen ja', 'gegen', 'Volkskultur', 'Herrschaft', 'in']

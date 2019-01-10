@@ -1,1 +1,0 @@
-['Niger', 'westafrikanischen Niger', 'Frankreich', 'Niger', 'aktive', 'Unternehmen', 'und', 'wurde', 'erst']

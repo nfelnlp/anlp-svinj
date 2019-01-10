@@ -1,1 +1,0 @@
-['Sam Yeh', 'AFP-Getty', 'planen dürfte ,', 'angekündigter', 'der', 'sonst', ',', 'Teheraner', 'man', 'nichts', '.', 'Vorgänger von Kim', 'wusste ,', 'auch', 'ohne konkretes', 'blieb', 'Bewährung als Ordnungsmacht', '?', 'bemühen']

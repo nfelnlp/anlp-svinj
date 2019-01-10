@@ -1,1 +1,0 @@
-['nicht', 'natürlichem', 'zu', 'zu erzeugen ,', 'Die', 'Andrews', 'Trend gebe', 'per Samenspenden aus', 'eine', 'durchsetzen , hieße', 'Schließlich', 'gibt die', 'für', 'eugenischen', 'Einsatz', '1991', 'in', 'Interessengruppen', 'zum Herr', 'und', 'und breche']

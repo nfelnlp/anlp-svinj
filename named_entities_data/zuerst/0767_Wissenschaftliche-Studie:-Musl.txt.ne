@@ -1,1 +1,0 @@
-['Gesellschaft', 'Wien', 'George Washington Universität', 'Muslimbruderschaft', 'Österreich', 'Der Vereinigung', 'Vidino', 'des', '. Für seinen', 'hat', 'mit der', 'Bundesamt für', 'BVT', ')', 'in', 'verbreitet', 'Schlüsselpositionen', 'sie', 'verschiedener Verbindungen', 'Muslimbruderschaft', 'Aufnahme', 'mit', 'da', 'zu', 'in', 'womit endgültig Schluß sein', 'mü']

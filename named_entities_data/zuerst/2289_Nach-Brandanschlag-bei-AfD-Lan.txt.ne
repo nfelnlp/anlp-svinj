@@ -1,1 +1,0 @@
-['Paul', 'Junge ?', ':', '.', 'Junge vor', 'Schweitzer', 'und', 'unter', 'Teilnehmer', 'Antifa', ',', 'sich', ') inszenierte', '‚Mainz', 'der', 'und', 'ein', 'bezeichnendes', 'zum SPD-Establishment', '–', 'der', 'selbst .', ',', 'Beck', 'durch , Fernseh-Fürstin', 'große', 'stieß im', 'wissen sehr', '46', ',', 'Landtags', 'bildungs- und']

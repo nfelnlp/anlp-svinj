@@ -1,1 +1,0 @@
-['Johannes Schulten', 'Werkverträge «', 'Allen', 'Marktwirtschaft', 'Bundesarbeitsministerin Andrea Nahles', 'SPD', 'Leiharbeit', 'Werkverträgen', 'Lange', 'Allen', 'Gesamtmetall', 'Werner Stolz', 'Werkverträge']

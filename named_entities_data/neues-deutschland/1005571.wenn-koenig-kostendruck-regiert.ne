@@ -1,1 +1,0 @@
-[', Sicherheits-', 'das', 'ein', 'Leitung des', 'auf Teufel', 'der', 'Der Dienstleister', 'den', 'Art Putzwedel', 'unterhält', 'anderen Städten', 'ein', 'man', 'von', 'paar', 'und', 'Gewerkschaft', 'Stunden eine', '.', '.', ',', 'outgesourct worden']

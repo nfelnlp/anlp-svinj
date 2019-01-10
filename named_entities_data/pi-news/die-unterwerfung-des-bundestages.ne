@@ -1,1 +1,0 @@
-['Michel Houellebecq', 'auf', 'geschildert', 'betrachtet', 'einem von', ',', 'und', 'den', 'mit', 'freiheitlich-demokratischen', 'die', 'in Deutschland', 'der', 'die', 'Religionsfrieden', ',', 'ihre', 'sonst', 'für', 'können', 'der', 'politischer', 'ausgetragen', 'als', 'Der', 'für Frankfurt']

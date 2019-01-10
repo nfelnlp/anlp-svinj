@@ -1,1 +1,0 @@
-['Kiew', 'Ernüchternde', 'der', 'Poroschenko', 'jetzt', 'errichtete', 'den', 'Sitzung', 'Blockade', 'Territorium', ',', 'Verteidigung', 'nicht', 'vollständigen', '„die', 'zu', '.']

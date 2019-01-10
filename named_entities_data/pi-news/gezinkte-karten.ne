@@ -1,1 +1,0 @@
-['Höcke in', 'ist', 'und', 'Rede', 'Unterstellungen', 'äußerte', 'Schuld', 'Gegen', 'winkt', 'ihr', 'mit', 'gezinkten Karten', 'Erinnerung an', 'und', 'jetzt', ',', 'Volk . Liebe', 'viel mehr als', 'um 180 Grad', 'auf', 'NS-Zeit', 'kratzt', 'in', 'rational']

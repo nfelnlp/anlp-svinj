@@ -1,1 +1,0 @@
-['CHEVROLET', 'Afghanistan', 'Deutschland', 'Asylantrag', 'gerade einmal 106', 'Diese', '31', 'setzte selbst', 'wirklich', '.', ')', ',', 'ebenfalls', 'Grenze', 'Nangarhar', 'Der Rest', 'aber', ',', '.', 'Asylforderer', 'Angriffen', ',', 'gehören.', ',', '“', '51.000', 'gerade', 'natürlich', 'in', 'gingen', 'Aufenthaltsverfestigung', 'auf', 'wie', '.', 'Vollzug', 'in']

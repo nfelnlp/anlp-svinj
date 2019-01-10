@@ -1,1 +1,0 @@
-['Brüssel/Washington', 'Nach', 'Japan', 'die', 'deutsche', 'rechnen', 'der', 'begleitet', 'Vorgehen', 'von', 'Reihe von Freihandelsverträgen', 'Washingtons', 'gar', 'Peking', 'zusammen', 'der', 'Aires', 'die USA', 'darin überein', 'in', 'verstärkt', '”', 'Man', 'gemeinsam', '.']

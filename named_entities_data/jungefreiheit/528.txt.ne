@@ -1,1 +1,0 @@
-['Bosnien-Herzegowina , 206.000', 'kaum', 'Einbürgerungswünsche', 'Türken', 'eine', 'ihresgleichen', 'aber', 'verweist ?', 'wie', 'die Integration', ',', 'Paß', 'versprechen', '.', 'ist', ',', 'durch', 'Rücken', 'machen', 'Unterrichtssprache', 'sorgen', 'fortfährt ,', 'sein darf', 'auf']

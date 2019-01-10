@@ -1,1 +1,0 @@
-['L.S.GABRIEL', 'Frank Walter Steinmeier', 'Steinmeier', ',', 'demokratisch', ':', '“', 'der', 'den', 'zu', 'all', 'die', 'Nationalisten', 'der', 'erklärt']

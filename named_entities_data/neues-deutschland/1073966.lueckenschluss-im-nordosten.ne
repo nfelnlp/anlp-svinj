@@ -1,1 +1,0 @@
-['Kreis', 'Seenplatte ) kommt', 'von der', 'der', 'Auf', 'sollen', 'Verfügung', '.', 'zwei', 'hier', 'ein', 'getroffen', '.', 'werde', 'zum', 'Bau', '155', 'Groß Warnow .', 'mit', 'Bau eines', 'bei Colbitz begonnen', 'Teilstück', 'hatte']

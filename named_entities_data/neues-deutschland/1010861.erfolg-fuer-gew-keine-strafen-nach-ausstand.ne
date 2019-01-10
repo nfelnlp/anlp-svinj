@@ -1,1 +1,0 @@
-['ein', 'der', ') beteiligt', '.', 'Damit', 'Grundsatz', 'den', 'Papier .', 'Ankündigung', 'dieser', 'das Kultusministerium', ', so', 'Streikenden', 'rund', 'von', '.', 'Wer', 'die', 'der Landtagsopposition', 'Sieg', 'gegen', 'wurde , waren', 'Schulen und', 'nach heftigen', 'Oberstufe']

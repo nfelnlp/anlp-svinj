@@ -1,1 +1,0 @@
-['auf die', 'Kolumne', 'Verhalten', 'Sie', 'der', 'Der', ')', 'für die', 'offenbar die', 'übertragenen', 'suchen', '.', 'weiß', 'ist', 'im', 'Mensch', 'Traveller “', 'Scharia', 'Bevölkerung', 'im', 'indem', 'Kaddor', 'Inhalten', 'ähnlich']

@@ -1,1 +1,0 @@
-['Berg', 'kreist', ',', 'hinten', 'vorne', 'unverdrossen', 'gar', 'Automatisierungsgrad', 'durch', 'Tresor zu', 'An', 'Sie', 'prominente', 'daß', 'volkswirtschaftlichen', 'daß Spareinlagen', 'sich trefflich', 'Henry', 'Bevölkerung', ',', 'Ohren']

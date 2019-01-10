@@ -1,1 +1,0 @@
-['Kabul', 'Afghanistan-Strategie', ',', 'allenthalben', 'Trump Unterstützung', 'Blackwater', 'zur', 'aus', 'afghanische', 'russischen Nachrichtenportal', 'erheblichem Widerstand', 'Zivilsten-Erschießungen', 'Haß', 'Der', 'Grausamkeit', 'Der', 'nur', 'Geheimgefängnissen', 'der', 'Ablehnung', 'regieren', 'an', 'nun', '“', 'Nähe']

@@ -1,1 +1,0 @@
-['Jean Pütz', 'Joschka Fischer', ',', 'Ditfurth das', 'guthieß und', 'Beck… , na', 'den', 'ist', 'Auszüge', 'recht', 'brauchen', '.', '.', 'uns', 'in', 'Clans', 'wir', 'gegenüber', 'ausgerechnet die', '.', 'die', 'nicht', 'Fernsehstars .', 'heute', '2015 auf', 'eine Art', 'den existierenden', 'Motto', 'relativer', 'Hoffnung.', 'Hörig', 'bei den', 'der großen', 'die', 'Sein']

@@ -1,1 +1,0 @@
-['Berlin', 'hat', 'und', 'lahmgelegt', 'Radioakvität', ', der', 'und', 'sein', 'sein .', 'sein . Bei', 'eine Sprecherin am', 'analysiere', 'Angriff', 'Sicherheitsforschung', 'es', 'osteuropäischen Ländern', '. Nun', 'sorgte', 'Windows', '(']

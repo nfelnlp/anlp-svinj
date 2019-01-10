@@ -1,1 +1,0 @@
-['Unsere imperiale', 'Professor an', 'und Markus', 'Professor an', 'und Recht Berlin', 'für', 'für die', 'in', ',', 'dem', 'Das', 'von massiven', 'die A', ', linke', 'überbrücken', '1600 Stunden', 'aus', 'der', 'Autos', 'Diskussion .', 'musste', 'genannte', 'führen würde', 'Aber']

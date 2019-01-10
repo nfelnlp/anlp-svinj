@@ -1,1 +1,0 @@
-['Washington', 'Weißen', 'Steve Bannon', 'Conservative', 'Action', ')', 'gesprochen .', 'Trump', 'gegen', 'vormalige', 'unverhohlene', 'nicht', 'die', 'die konservative', 'Landes', '–', 'Amtsperioden', 'Weißen', 'Treffens ist .', 'Mike']

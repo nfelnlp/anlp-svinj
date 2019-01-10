@@ -1,1 +1,0 @@
-['Wien', 'der geplante', '„Das', 'der rot-schwarzen', '.', 'Kurz']

@@ -1,1 +1,0 @@
-[',', ', die', 'meinen', 'an Venter', 'reduzieren', 'ich', 'Deutschland', 'war', 'Ich', 'wider', 'Deutschland', 'allem', 'durchaus', 'durchaus den', 'Die', ',', 'sagten', 'in', 'auch', 'Das', 'der großen Drei \x96', ',', 'die Rolle', 'ist', 'wird', 'eng']

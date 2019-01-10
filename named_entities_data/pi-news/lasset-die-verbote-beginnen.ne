@@ -1,1 +1,0 @@
-['Selbstredend', 'Zerstörung', 'Volkspartei', 'als auch', 'OB', 'nicht', 'zeigt', 'oft', 'müssen', 'alte', '–', '.']

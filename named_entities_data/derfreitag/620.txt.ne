@@ -1,1 +1,0 @@
-['| Ausgabe', 'böser', '. Wir', 'ist ?', '?', 'diesen Dingen', 'im', 'Wen', 'beschäftigte sich', 'veröffentlichtes Buch', 'mehrfach ausgezeichnet', 'die', 'Böses', 'Langman', 'mache klar', 'Störungen aufwiesen', 'Kant sind', 'benennt', 'was', 'all', 'Klugheit', 'auseinandersetzen ,', 'übrigens auch', ':', 'nur', 'nicht auch', 'sei irgendein', 'Die', 'braucht']

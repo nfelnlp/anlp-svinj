@@ -1,1 +1,0 @@
-['Angela Merkel', 'Grenzöffnung', 'kürzlich in', 'in', 'Optimisten', 'einer intakten', 'Jubel', 'ist', 'wird', 'Das', 'große', 'auch', 'auf', 'eine', 'einmal', 'Linksfaschismus', 'und Fraktionsvorsitzende der', ') legte']

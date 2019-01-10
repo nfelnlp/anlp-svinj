@@ -1,1 +1,0 @@
-['Gesellschaft 12 Wien', 'ein', '.', 'Johann', 'Diesem wurde', 'nach', 'der', 'das', 'Freundin', 'Inzwischen', 'sich', 'politisch korrekt', 'komplimentiert', 'auch', 'mit einer anderen Meinung', 'die']

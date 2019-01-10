@@ -1,1 +1,0 @@
-['Helf\x92', 'Deutschland', 'wie', 'häufiges', '.', '. Zu höchster Perfektion ,', 'soll man', 'in', 'Püschel-Knies', '``', 'finden', 'ideale Ergänzung', 'ideale Ergänzung zu', 'privaten Inserenten', 'Glück', 'Dame', 'das', '! S.', 'Gräfin', 'heute', 'Papageno', ',']

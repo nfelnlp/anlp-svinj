@@ -1,1 +1,0 @@
-['wurde', '»', '(', 'pirschte', 'im', 'FKD', 'bei', 'worden', '-', 'verbündete', 'überregionales', 'die »', 'Nicht', '»', 'Gericht']

@@ -1,1 +1,0 @@
-['DAISY', 'Landkreises Hildesheim', 'hat', 'er wirklich', 'habe zunächst', 'Die', 'mehreren Monaten', 'mit höchster', 'alt', 'wohl', 'bekannt', 'Recht', 'Tests in', 'örtliche', 'der']

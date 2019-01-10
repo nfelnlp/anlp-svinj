@@ -1,1 +1,0 @@
-['. Juli', 'so', 'gut', 'Besucher', 'Oertel', 'COMPACT-Herausgeber Kai', 'und Peter', 'Spangenberg', 'im Sächsischen', '. Peter', 'erhebt sich', 'seiner', 'Art nimmt', 'Chance', '.', 'Und', '.', 'Missstände', 'einen', 'einem Land', 'zu', 'Ware', 'Abwassergebühren', 'Eine', 'ziehen', 'für', 'zweifelnden', 'sich', 'aller anwesenden', 'einige', 'mehr', '.', 'von', 'junge']

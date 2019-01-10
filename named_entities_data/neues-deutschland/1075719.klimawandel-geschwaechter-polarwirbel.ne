@@ -1,1 +1,0 @@
-['New York', 'USA', 'erst kürzlich', '-', '»', '«', 'vom Potsdam-Institut', 'Klimafolgenforschung', 'bis', 'warm', 'ein', 'Die', 'stationär ,', 'mit', 'Wie', 'Jahresbeginn', 'im', 'geworden.', 'nördlichen', 'etwa', '«', 'allgemeinen', 'die', 'sehr', 'Das', 'plausibel ,', 'Klimawandel beeinflusse', 'fundamental und', 'Tiefdruckgebiet']

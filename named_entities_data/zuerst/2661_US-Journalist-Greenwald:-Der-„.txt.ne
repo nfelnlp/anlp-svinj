@@ -1,1 +1,0 @@
-['New', 'New York', 'macht auf', 'kritisierte', '“', 'im', 'Diese', 'die Demokratische', 'Hillary', 'nicht und', 'dem', 'im Weißen', 'Trump', 'mit']

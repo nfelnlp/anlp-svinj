@@ -1,1 +1,0 @@
-['Herder', 'Langenscheidt', 'Encyclopedia', 'Ebey', 'Brockhaus', 'Herder', 'Meyers', 'bis', '30', '„In', 'Gehör. “', '“', 'Zum', '„Hallo Herrn', 'sie', 'Menschen und', 'Da', '1', ')', 'gewidmet', 'von', 'neuen', 'schon', ', die', 'und', '!', 'Wahrheit', 'das einst', 'den vergangenen Jahren rund']

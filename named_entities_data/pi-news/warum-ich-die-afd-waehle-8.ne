@@ -1,1 +1,0 @@
-['Viele', 'von', 'die', 'Wie', 'verraten', 'Nettosteuerzahler', 'ich', 'ich', 'verteilen', '.', 'einer', 'und', 'eine', 'gibt', 'Amt']

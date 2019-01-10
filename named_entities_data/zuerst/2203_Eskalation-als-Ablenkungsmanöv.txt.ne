@@ -1,1 +1,0 @@
-['Haag', 'Türkei', 'Niederlanden', 'Rutte', 'Türkei', 'Geert Wilders', 'für', 'die', 'zu verhindern', 'Möglichkeit', 'offenen', 'die']

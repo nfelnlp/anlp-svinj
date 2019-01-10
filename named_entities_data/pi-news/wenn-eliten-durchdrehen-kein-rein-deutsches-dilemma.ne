@@ -1,1 +1,0 @@
-['DR.', 'RADDATZ | Kurz vor', '.', 'sondern', '(', 'seit', 'der', 'den', 'wurden', 'Grün', '.', 'kommt', 'Erstere', ', im', 'dem', 'als', 'Toleranz', 'Grabe', 'Geringsten', 'die', 'das', 'Gott', 'in', '2005 , ISBN 3-7766-2212-1', 'und', 'Westens', '. Herbig', ',', '3-7766-2448-5', 'des', '.', ',', '978-3-00-026269-2']

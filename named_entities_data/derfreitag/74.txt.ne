@@ -1,1 +1,0 @@
-['die', '.', 'die', 'bei', 'Wahlen', 'der', 'den', 'die', 'ihr', 'ernstes', 'die', 'sind', 'Wohnungsbauprojekte', 'Staatsraison', 'wo', '.']

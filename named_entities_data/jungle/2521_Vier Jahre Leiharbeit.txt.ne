@@ -1,1 +1,0 @@
-['Deutschland', 'Peter Steffen', 'wurde', 'Dauerzustand', '«', 'Linkspartei Weitgehend', 'von', 'Einsatzdauer', 'Branchenzuschlagstufe', 'Voraussetzung sei in jedem Fall', 'zwischen', 'zwischen Unternehmen', 'Bundestagsfraktion der', 'das', 'Arbeitgeber', 'wächst', 'Arbeit', 'mit', ', die', 'Monaten', 'also', '« durch', '.', 'flexiblen']

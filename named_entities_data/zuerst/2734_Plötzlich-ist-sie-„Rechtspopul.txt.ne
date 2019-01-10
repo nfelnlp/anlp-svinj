@@ -1,1 +1,0 @@
-['Berlin', 'Wagenknecht', '.', ',', 'die', 'verständlich', 'argumentieren', 'da', 'ist', '”', 'dem', 'eine', 'ist da', '( mü/sp']

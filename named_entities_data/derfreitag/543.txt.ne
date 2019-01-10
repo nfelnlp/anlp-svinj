@@ -1,1 +1,0 @@
-['Foto :', 'AFP/ Getty', '„You', 'na', 'zwar schon damals', 'ewigen', 'Jahre', 'ist', 'der', 'John', 'Tony Blair', 'Wechsel', 'Popkulturell waren', 'den', 'anmutenden', 'die', 'mit', 'kam', 'war', 'und', '!', 'an einem', 'Jahre', 'so', 'Folge zu', '– wegen', 'Dingen ,', 'aber', 'der', 'allem', 'damaligen', 'den umfangreichen']

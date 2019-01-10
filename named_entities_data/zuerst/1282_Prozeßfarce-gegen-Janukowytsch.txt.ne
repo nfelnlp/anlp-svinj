@@ -1,1 +1,0 @@
-['Kiew', 'Bezirksgericht', 'Janukowytsch wegen', 'im', 'und', 'dem', 'in Straßburg', '.', 'vormalige', 'Polens', 'Die', 'der', 'die', 'Garanten', 'eine', 'jetzt', 'dem Kiewer', 'Kiewer', ',', 'Janukowytschs', 'eigentlich', 'Recht auf']

@@ -1,1 +1,0 @@
-['mein', 'bzw', 'Katzenfotos', 'staatliche Stellen', 'Mails', 'sie', ',', 'AGB', 'diese Art', 'von', 'ein', 'verpflichtet']

@@ -1,1 +1,0 @@
-['London', 'vorangetrieben', 'ist', 'Bahn .', 'Investment brachte', '.', 'bringen', ',', ',', ',', ',', ',', 'und', 'an', 'und China', ',', 'Feng', 'Briten', 'Medien mit']

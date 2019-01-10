@@ -1,1 +1,0 @@
-['Teheran', '(', 'und', 'jetzt', 'ins', 'der', 'androht', 'Beim', 'Drohungen', 'Eine', 'gegeben', 'Forschungszentrums', 'jetzt', 'alle', 'nehme die', 'schaffen', '“', 'im', '.', 'mü']

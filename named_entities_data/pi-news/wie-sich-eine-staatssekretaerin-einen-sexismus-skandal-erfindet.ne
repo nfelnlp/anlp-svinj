@@ -1,1 +1,0 @@
-['Amtes ,', 'eine Frau', 'Facebook-Seite', '.', '.', 'noch', 'Terror', 'sie nicht direkt', '“', 'ihr', ',', '.', 'genommen', 'Männern', 'blöd', ',', 'wahrgenommen', '“', 'Oheimb', 'einen', 'vom', 'mit', 'Chebli', 'der', 'Gast', '.', 'Na', '48', 'er', 'lebt auf', 'dort', 'Sonne']

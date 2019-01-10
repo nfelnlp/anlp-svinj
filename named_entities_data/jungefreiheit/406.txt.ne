@@ -1,1 +1,0 @@
-['.', ". ''", 'zumindest nicht im offiziellen', 'ein', 'transportiert', 'ohne', 'ist augenfällig', 'ganz', 'und zeitigen ihre', '\x96', 'doppelbödiger', 'beliebig verlängerbar', '85', 'statistisch auch für', 'welche', 'Optionen', 'Daß', 'diskutabel \x96', 'hergeleiteten', 'von', 'klassisch-bürgerliche', 'Lehrstück dienen', 'Stimmungsumschwunges', 'Medien .']

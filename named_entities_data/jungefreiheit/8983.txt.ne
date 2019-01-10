@@ -1,1 +1,0 @@
-['Carl', 'Dichotomie', 'Soweit', 'Oswald Spengler', 'Angelegenheiten', 'in', 'Teilhabe oder', 'der', 'so', 'als', 'dulden', 'ihren', 'scheint', 'Lobbyverbδnde', 'ist', ',', 'ein', 'auswδhlt .', 'vor', 'August', 'vor allem', 'verφffentlichter', '.', 'und', 'In', 'Konzept', 'Europa seit', 'die', ',', 'moderner', 'Bildung', 'gesamten', 'Art']

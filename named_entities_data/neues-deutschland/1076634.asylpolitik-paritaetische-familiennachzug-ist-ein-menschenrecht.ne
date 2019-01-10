@@ -1,1 +1,0 @@
-['. Mit', 'keiner', ', Hauptgeschäftsführer', 'einer', 'Viele', 'Stopp', 'ihrerseits', 'CSU', 'der', 'damit', 'könnte', 'in', 'CSU', 'SPD', 'sich', 'dürfen', 'FDP', 'Grüne', 'um', 'in', 'demnächst', 'Angesichts', ', bei', 'und', 'bevor', 'SPD-Delegierten', 'für', 'sein', 'dass', 'der']

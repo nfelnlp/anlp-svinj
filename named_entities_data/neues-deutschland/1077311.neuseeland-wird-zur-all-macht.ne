@@ -1,1 +1,0 @@
-['.', 'Start Ende', 'anderes', 'schicken', 'NASA', 'Dies', 'für', 'einen Durchmesser', 'Meter', 'Die', 'um', '.', 'noch', 'einem', 'gegründet hat', 'gelungen']

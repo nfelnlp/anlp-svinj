@@ -1,1 +1,0 @@
-['Washington', 'vor den', 'im Frühjahr', 'damals', ',', ',', 'Entmachtung Saddam', 'Jetzt', 'Präsidenten Assad', ',', 'einer', 'in', 'wo', 'Häftlinge', '2016', 'der', 'der in', 'Greuel', 'Stützpunkt', 'syrischen', 'beschießen', 'als', 'keinerlei', '.']

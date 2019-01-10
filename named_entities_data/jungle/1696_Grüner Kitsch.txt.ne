@@ -1,1 +1,0 @@
-['Garden-Guerillero', '/ Alamy', 'Innerstädtischer', 'zu', 'die an', 'übersteigerten', 'Städte', 'Akten', 'nur', 'als auf', 'Forest', 'Million', 'Straßen', 'kommen', 'Luft', 'Heute', 'etwa', 'Vermummten', 'ein', 'der', 'wichen', 'auf', 'Luft', 'Schutthalden', 'rückgebauter', 'versucht', 'Pflanzen']

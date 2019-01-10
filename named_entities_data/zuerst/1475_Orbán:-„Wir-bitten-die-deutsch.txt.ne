@@ -1,1 +1,0 @@
-['Budapest', 'ungarische', 'Orbán', 'bundesdeutscher', 'verbeten', 'Bundeskanzlerin Merkel', 'SPD-Chef', 'die Eröffnung', 'wie', '–', '– wegen der', '„Ich', 'Zeitpunkt', '.', 'dieser Gelegenheit', 'Montag', 'wir', 'teilnehmen', ',', 'beiseitezuschieben', '”', 'ernsthaften', 'und', 'der', 'gewesen', 'Bezug', 'Migranten', 'des']

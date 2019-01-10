@@ -1,1 +1,0 @@
-['warum', ',', 'spezielle', 'bauen', 'es', 'tun', ',', 'denen', 'du', 'wie', 'LKWs', 'Ficklinge', 'kleiner', 'die', ',', 'Regung', '“', ',', 'Doofscheiße vor', 'ihnen gesagt ,', 'Gesicht', 'wieder', 'Gegensatz', 'einmal', 'Verwirrte', ',', 'von']

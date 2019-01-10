@@ -1,1 +1,0 @@
-['Magdalena Heuwieser', 'österreichischen', 'Heuwieser', 'Christiane Kliemann', 'Heuwieser', 'Sweeney von', 'Unions for Energy Democracy (', '.', 'arbeiten', 'würden', 'der', 'Leben für', 'sich', 'der']

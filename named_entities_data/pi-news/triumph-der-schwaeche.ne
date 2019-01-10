@@ -1,1 +1,0 @@
-['Schweden', 'zugeht', 'Deutschland', 'Kretschmann', 'Grünen', 'SPD', 'Deutschland', 'Schulz ?', 'wie', 'nicht einmal', '.', 'mittels', 'nur', 'dargestellt .', 'konservativen', '.', 'dieser Schicksals-Wahl 2017', 'ersichtlichen', 'noch', 'und', 'destruktives']

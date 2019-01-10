@@ -1,1 +1,0 @@
-['sich', 'in', 'dieselbe', ') ist', 'und', 'Entwicklungslebenslauf', 'abgetrieben', 'Töchter', 'Geschlecht', 'Nährboden', 'gleich', 'mit', 'um', 'sein', 'wahrgenommen']

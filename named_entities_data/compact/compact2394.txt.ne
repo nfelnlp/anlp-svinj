@@ -1,1 +1,0 @@
-['COMPACT', 'konnte', 'mir .', 'Kernthema', 'besonderen', 'weiß-blauen', 'deren', 'auszuschließen', 'www.nocompact.de )', 'der', 'Für', 'behalten .', '.', '(', 'nur', 'Fußbreit', 'mußten )', 'ist', 'den', 'nicht', 'Gegnerschaft', 'sich', 'offen', 'fremdverschuldeten', 'Fingern', 'unser']

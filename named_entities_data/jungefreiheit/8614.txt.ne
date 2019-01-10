@@ -1,1 +1,0 @@
-['an beziehungsweise', 'von', ',', 'die όberall', 'und', 'deshalb', 'einer', 'Globalisierung', '\x84exotischen\x93', 'zeigt', 'nur', ',', '\x96', 'nun', 'das', 'ab', '.', 'sie', ',', 'in', 'die uns', 'Revolution', 'Der', 'weiter']

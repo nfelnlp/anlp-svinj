@@ -1,1 +1,0 @@
-['Elisabeth Tuider', 'Elisabeth Tuider', 'seit', 'der', 'in', 'Familia ,', 'begleitet', 'sollten', 'Trans-', 'Bisexualität sowie Gender-Fragen', 'monolithische', 'der', 'organisieren', 'Unabhängig', 'Bildungsforschung', ',', 'die', 'befähigt', 'Umgang', 'mithin']

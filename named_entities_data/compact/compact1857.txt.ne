@@ -1,1 +1,0 @@
-['.', 'Was antwortet man', 'ihre', 'dass', 'immer', 'Oftmals', '.', 'neuen Buches', 'Deutschland.', '.', 'interessant', 'Muslime', 'Menschengruppen', 'Kaddor', 'nicht', 'einzelne Rassisten', 'diejenige es', 'sie', '.', 'hinter', 'Fragen', 'Stattdessen', '(', 'die', 'Drittel', '“', 'wie', 'auf', 'Frau', 'erneut', 'in unserem', 'vertreten', 'bekämpft', '–']

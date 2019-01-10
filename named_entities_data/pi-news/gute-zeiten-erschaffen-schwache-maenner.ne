@@ -1,1 +1,0 @@
-['CANTALOOP', 'willkürlich', ',', 'Dennoch', '„Vertrauensvorschuss', 'flankiert', 'metrosexuellen', 'Verständnis für', 'aber', 'Mitbürgern', 'kritisch', 'Titulierungen', 'den', 'Und', 'guter', 'Sinnsuchende gefunden', ',', 'oder', 'war', 'im Besitz', 'und Instinkte', 'Roh ,', 'Körperstrafen', 'Familie', '“', 'sehr', 'dystopische', ',', ',', 'lächeln']

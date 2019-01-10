@@ -1,1 +1,0 @@
-['Mobilität « .', 'Vorstellung', 'am Mittwoch in', 'Viertel', 'reduziert', 'um', 'Kommission', 'möglichst', '2021 wird', 'für', 'Elektroautos', 'setzte', 'jetzt veröffentlichte', 'für', ',', 'Kommission die']

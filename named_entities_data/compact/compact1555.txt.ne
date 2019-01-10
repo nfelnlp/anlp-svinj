@@ -1,1 +1,0 @@
-[',', 'gelöscht', '(', 'voller', 'ich', 'der', 'geistig', 'und Ethik', 'seine', 'seine philosophische', 'seine philosophische Abschlussarbeit', 'als']

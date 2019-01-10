@@ -1,1 +1,0 @@
-['EZB-Präsident', 'füllt den', '/ AFP', 'Getty', 'Es', 'ist im', 'Irland', 'Portugal', 'der', 'steuerte', 'Bankkonten', '( EZB', ',', 'an', 'April', 'der', 'Zinspolitik', 'Dabei', ',', 'leihen', 'Geldhahn', 'dabei nur', 'verkündeten', 'tendierenden Leitzins', 'zu', '–', 'EU-Kommission', 'Für', ',']

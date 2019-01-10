@@ -1,1 +1,0 @@
-['Bern', 'Schweiz', 'Schweizerische Volkspartei', 'SVP', 'EU', 'Schweiz', 'Schweiz', 'Schweiz', 'SVP-Angeordnete', 'begründete die', 'Basel', 'den', 'sich', 'nach', 'eine', 'für', 'plant', 'mit', 'Mitglieder']

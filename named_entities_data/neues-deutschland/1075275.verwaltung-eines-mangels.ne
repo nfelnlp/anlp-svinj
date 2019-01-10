@@ -1,1 +1,0 @@
-['Nummerus', 'Skizze', 'mehr', 'Auch', ',', 'zeit.de', '»', 'kürzt', 'Studienplätzen', 'Bewerber']

@@ -1,1 +1,0 @@
-['. Mit', 'das', 'in', 'wurden nach Polizeiangaben', '80', 'die', 'mehr', 'Unwettereinsätze', 'am Donnerstagmorgen Schäden', 'Vor', 'Bereich', 'Der', 'mit', '40', 'und', 'der Münchner', 'Gerüst einstürzen', 'Bahn', 'Fernverkehr auf', 'waren', ',', 'beheben']

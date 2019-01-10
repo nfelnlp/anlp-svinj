@@ -1,1 +1,0 @@
-['.', '. Einst', 'Nachdem', 'wollen', 'München vorangetrieben .', 'der', 'TU', '»', 'Anbau', 'bei München zur', 'gebracht', 'Die', 'eigenen Angaben', 'um', 'Israel', 'der', ',', 'Zypern', 'Das', 'nach', 'einer', 'Jahren', 'vorstellen', 'Bunker']

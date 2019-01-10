@@ -1,1 +1,0 @@
-['Gesellschaft 8 Berlin', 'Jens', 'den urbanen', '„Wir', 'in', 'Bereitschaft', 'ab.', 'dafür', ': „Im', 'Jahrhundert wurde', 'Verwendung', 'sp']

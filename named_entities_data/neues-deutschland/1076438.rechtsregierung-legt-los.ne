@@ -1,1 +1,0 @@
-['ÖVP', 'FPÖ', 'Sozialpolitisch', 'IV-Modell', 'als', 'das']

@@ -1,1 +1,0 @@
-['Gesellschaft', 'Nötigungen', 'Gießen', 'gerieten', 'Asylbewerber', 'Der', 'Personen', 'Dieser']

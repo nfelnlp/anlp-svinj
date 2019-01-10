@@ -1,1 +1,0 @@
-['Hagen Jung', 'Brögbern', 'Niedersachsen', 'Emsland', 'den Bau eines', 'zur', ',']

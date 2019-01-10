@@ -1,1 +1,0 @@
-['Washington', 'Unerachtet', 'worden sein', ', die', 'bezeichnete', '“', '“ .', 'eine gute', 'oder', 'als sie', 'jetzt', 'Tag', 'es gebe', '„Übergangszeit', '.', ')']

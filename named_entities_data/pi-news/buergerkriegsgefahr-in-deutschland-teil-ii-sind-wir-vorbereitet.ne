@@ -1,1 +1,0 @@
-['Deutschland', 'Tschechien', 'Ungarn', 'Ungarn bewaffnen', 'Tschechien', 'zusätzliche', ', Ende', ',', 'Bürgerkrieg', '.', 'Stelle', 'als', '.', 'der', 'Defizit', 'schon', 'beim', 'Kulturfest', 'des', 'nach', '.', 'Bekämpfung von', 'eingesetzt', 'Soldaten', 'Bundeswehr', 'Soldaten', 'eine', 'Jahres', 'auch']

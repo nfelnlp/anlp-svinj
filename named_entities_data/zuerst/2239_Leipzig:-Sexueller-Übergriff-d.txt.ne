@@ -1,1 +1,0 @@
-['Gesellschaft 5', 'Gesellschaft 5 Leipzig', 'Island', 'Leipzig', 'Linke', 'machte', 'randalierte', 'Internetseiten', '.', ')']

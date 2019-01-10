@@ -1,1 +1,0 @@
-['beim versuchten', 'Foto :', 'Getty Images', 'unwahrscheinlich', 'Eines', ',', 'Rightous Mind', 'stärker', 'in', '.', 'der weißen', 'den vergangenen 30', 'den', 'geprägt', 'In', 'und', 'und', 'der', 'des Instituts darin , dass', 'Der', 'Recht hätten', 'bestünde', 'richtige', ',']

@@ -1,1 +1,0 @@
-['und', 'süße', 'Jappy', 'Lokalisten', 'einer', ':', 'und', '^^', 'stellt', 'liebe', 'ich', 'fi', 'sexuelle', 'normal', 'Kinder', 'machen', 'der zweite', 'für', 'wird', 'im', 'der', ',', 'mei', 'minderjährigen Sexperten', '.', 'City', 'zitierten Pinnwandeinträgen', 'eine betont normale', 'Pille in der', 'wie', 'bloß die', 'John', 'weitergeführt wird', 'sei eine']

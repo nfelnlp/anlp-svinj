@@ -1,1 +1,0 @@
-['Zieh', 'Zieh', 'Frauensache', 'Oskar', 'Claudia Kohde-Kilsch', 'Was', 'hat', 'ich', ', die', 'Es', 'schwärmerisch', 'Oskar', 'Hemdsärmelig , mit', 'bei', ',', 'altväterlicher', 'die', "'' .", 'der griechischen', 'gehört', 'Leben', 'Der', "Sau ''", 'auf']

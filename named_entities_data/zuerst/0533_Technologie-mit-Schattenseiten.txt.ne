@@ -1,1 +1,0 @@
-['Kobalt unter ökologischen', 'in', 'Arbeitsschutzbedingungen', 'Lithium-', 'Zinn']

@@ -1,1 +1,0 @@
-['Düsseldorf', 'Nordrhein-Westfalen zu aggressiven', '( SPD', 'behauptet', 'und', 'AfD', 'der', 'Polizeipräsidium', 'die', '.', 'Innenminister', 'vor allem', ',', 'Golland', 'das', 'Weg', 'Familienclans', 'Innenausschuß des Düsseldorfer', 'ausländischen', 'nicht', '–', 'obendrein', 'noch', 'doch']

@@ -1,1 +1,0 @@
-['Religionen gesetzlich', 'islamischer', ',', 'nette', ',', 'Kontaktgruppe', 'Von den', 'Stellungnahme .', '„politisch korrektes', 'auf', '„in', 'einer']

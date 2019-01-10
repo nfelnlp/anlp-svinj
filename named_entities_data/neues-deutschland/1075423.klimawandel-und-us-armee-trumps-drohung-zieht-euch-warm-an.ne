@@ -1,1 +1,0 @@
-['US-Präsident', 'Bisweilen sind', 'als', 'Office ,', '. Seine Motive', 'Häfen', 'um', 'Barometer', '.', 'Zugleich', '.', '...']

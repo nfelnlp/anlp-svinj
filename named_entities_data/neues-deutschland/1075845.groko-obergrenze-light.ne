@@ -1,1 +1,0 @@
-['und', 'bleiben', 'Sie', 'entgegensetzen', 'dem', 'Union', 'Und', 'und', 'sondern']

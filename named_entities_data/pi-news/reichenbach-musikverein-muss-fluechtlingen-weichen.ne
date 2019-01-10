@@ -1,1 +1,0 @@
-['MEDIA-WATCH', 'zwischen', 'Alb', 'hat', 'besteht seit 36', 'Freie', 'FW )', 'die', '(', '24 Jahren', '8200 Einwohner zählenden Gemeinde', 'für die', 'stellt Gemeinderäte', 'Es', 'nachhaltige Wirkung .', 'Reichenbach seine Vereine', 'Reichenbach seine Vereine in', 'AGRV', 'man', '?', 'laufen', 'Parteifreund und', 'Vereine von', 'so', 'Hilfe', 'wohl']

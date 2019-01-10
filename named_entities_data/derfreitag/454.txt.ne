@@ -1,1 +1,0 @@
-['zwei', 'die', 'selbst', 'mal', 'noch', 'Solidarität beim', 'für', 'Verwandte', 'machen']

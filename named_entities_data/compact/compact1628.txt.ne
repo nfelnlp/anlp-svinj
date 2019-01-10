@@ -1,1 +1,0 @@
-['Täter', 'in', 'kam', 'den', '.', 'ist', ',', 'zunächst', 'wurde…', 'halte', 'daher möglicherweise', 'sogar', 'Bislang', 'Spur…', 'Zusammenfassung des', 'unangenehmste', 'derzeit', 'Polizei', 'Telewisija', 'dabei', ', dass', 'verurteilt', 'ist', 'der', '.', 'die', 'werde .', 'die', 'habe', 'keinen', 'auch', ',', '? Wehe', ',', 'Landes', 'darauf', 'Ergreifung des', '.']

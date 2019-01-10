@@ -1,1 +1,0 @@
-['da', 'Menschen', 'Rußland', 'Sie', 'Kirchen', '.', '.', 'Kirche', 'nationale', 'in', 'wirren', 'auch', 'Priester', 'zu', 'versucht', 'wir', 'Wiege', 'den', 'und', 'wollen', 'Gottes', 'Wir', 'werden', 'lokal', 'ist', 'Spiel', 'Kirche', 'vielen Klöstern und', ',', 'in', '.', 'auf', 'Aber', ',', '.', 'falschen', 'müssen', 'und', 'dort', 'Grund', 'Serbien', 'Ich']

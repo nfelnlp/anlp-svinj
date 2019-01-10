@@ -1,1 +1,0 @@
-['Streikbrecher', 'strömen aus', 'Kopf', 'Schimpfwort', 'Beschäftigten der', 'sechs', 'Milliarden', 'Picket', 'Lebenshaltungskosten', 'ist Mike*', 'Verizon', 'gibt', 'sein', 'erziehend', 'mit', '.', 'bekommen', 'Firma', ',', 'Unfälle', 'er', 'Flyer und', 'hier tauchen', 'damit', 'USA']

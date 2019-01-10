@@ -1,1 +1,0 @@
-['Moskau/Hmeimim', 'Syrien', 'der', 'vom', 'im Veteranenverband des russischen Anti-Terror-Kommandos', 'Nachrichtenportal', 'amerikanischer', 'sagte', 'mit', 'die', 'seien', 'gut', 'gut vier', 'hieß', 'heißt', 'Bei']

@@ -1,1 +1,0 @@
-[',', 'am 18', 'Es ist', 'Aufgabe', 'Bundeszentrale', 'dies', '``', 'Mangel', 'Feingefühl', 'Der Zeitpunkt', 'der Fachhochschule', 'eine', 'Floskeln', 'die', 'tendenziell', 'der', 'die', '.', 'und', 'betrachteten', ',', 'der', 'Ausbeutungsverhältnis', 'Klassenbewusstsein', 'fällt kein', 'ein', ':']

@@ -1,1 +1,0 @@
-['Guardian', 'einer', 'eine', 'hat', 'einfach nur deshalb', 'gegen', ',', ', es', 'aber']

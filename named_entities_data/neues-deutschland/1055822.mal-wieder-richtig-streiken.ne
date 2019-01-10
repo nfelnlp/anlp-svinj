@@ -1,1 +1,0 @@
-['bereitet', 'der', 'kommen', 'wir eine Feuerwehrübung', 'es']

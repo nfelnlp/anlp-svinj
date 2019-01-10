@@ -1,1 +1,0 @@
-['und', 'bewaffnet', 'Z. Kowalsky „In einem', 'drei', 'kranken', 'Textes', 'sich', 'sich am', 'Asylbewerber', 'besagten', 'nicht', 'sowie', 'einer', 'einer Streife', 'festgehalten', 'Tatsache', 'musste', 'Verfügung', 'eines', 'Deutschland', 'hier abschließen']

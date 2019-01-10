@@ -1,1 +1,0 @@
-['wird', ',', 'bekämpft', 'derzeit', ',', 'PayPal', 'die', 'nur eine', 'betreibt', 'auch', 'auch immer', 'erhielt ein', 'gegen die', 'dabei', ', die von George', 'zu klassifizieren', 'neues', 'für']

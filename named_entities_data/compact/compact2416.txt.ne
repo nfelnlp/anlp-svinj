@@ -1,1 +1,0 @@
-['“', 'Storch , Frontfrau', 'beim letzten', 'keine', ',', 'titelte gestern in', 'weiteren', 'in der FAZ', 'dringend', 'den', 'nach', 'zu', 'Ali', 'auszuwählen', 'Ankömmlinge ,', ',', 'in', 'Stammesfehden', 'Strukturen', '‘']

@@ -1,1 +1,0 @@
-['Malle', 'City', 'Moe', 'um', 'und', '50', '50 die', 'es', 'Sommer', 'sein', 'Bier mit', 'hat', 'Waschbeton-Platten', 'mithilfe von', 'Kännchen-Trinkerinnen', 'Jahrhunderts', 'und', 'Sandkiste']

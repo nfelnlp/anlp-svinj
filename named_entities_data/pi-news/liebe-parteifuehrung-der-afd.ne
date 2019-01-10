@@ -1,1 +1,0 @@
-['Deutschland', 'Herrn Erdogan', 'Herrn Schulz', 'Afrika', '. Man gewinnt', 'Schmarotzer', 'mehr', 'auf', 'hetzt', 'bei', 'Aufstand', 'bei', 'auch', 'am', 'weil', 'der', 'noch', 'sein', 'AfD', 'AfD als absoluten', 'ohne', 'ohne jede Fairness', 'sind', 'wenn', 'eure', 'sind', 'Partei', 'Ergebnis']

@@ -1,1 +1,0 @@
-['Bozen/Innsbruck', 'Nachdem', '( ÖVP', '.', 'unterstützt', 'Nachrichtenagentur', 'Der Wunsch', '„Verständnis', 'Doppelstaatsbürgerschaft', 'die emotionale', 'Landeschef', ':', 'Südtirol', '.', 'Tage', 'Verbundenheit der', 'für die', '.', 'doppelte Staatsbürgerschaft', 'Weingartner', 'doppelten Staatsbürgerschaft', 'einer', 'von', ',', 'Italien']

@@ -1,1 +1,0 @@
-['//media.tumblr.com/88de33404b7796357a0b0f5448bfad39/tumblr_inline_nl5b6pqSPC1rjxew4.jpg', 'Luck', '“', 'Fertig', 'Meme-Blog', 'oder arbeiten', '.', 'Agenda', 'Denn', ',', 'Menschenrechten , mit', '–', 'das zwei', 'Denn am 8 .', 'Regierungskoalition', ',', 'der', 'Netanjahus Kopf', 'bekannte Meme-Figur', 'von', '“ .']

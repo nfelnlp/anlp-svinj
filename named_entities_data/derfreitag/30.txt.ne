@@ -1,1 +1,0 @@
-['Worum', ',', 'Abel verborgen', 'Unterschiedes', 'dem', 'Seele', "'' Matzrayim", 'Körper', 'nichts', 'Wunder', 'gehört', 'Jesus', 'seinen', 'Mutter']

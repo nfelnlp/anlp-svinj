@@ -1,1 +1,0 @@
-['. Angesichts', 'die', 'und', 'Die', 'sicher', 'Kabul', 'werden', 'auch', 'einer aus Nordrhein-Westfalen', 'Liste , hieß', 'Bundesländern', 'sind', 'angegriffen', 'Dabei', 'mindestens']

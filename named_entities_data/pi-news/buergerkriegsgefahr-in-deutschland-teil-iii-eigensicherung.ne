@@ -1,1 +1,0 @@
-['Deutschland', 'Nationale', 'Deutschland', 'Amerika', 'Müller', '–', 'sollte', 'hier', 'beachten', 'herum', 'drohte', ',', 'dass', 'der', ',', 'vorbereitet', 'wäre', 'die']

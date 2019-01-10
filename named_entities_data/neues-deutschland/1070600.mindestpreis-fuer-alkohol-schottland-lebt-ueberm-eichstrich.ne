@@ -1,1 +1,0 @@
-['Oschmann', 'gereiften', 'Humphrey Bogart', 'Burns :', ',', 'der Scottish', 'abwies . Letztere', 'der', 'SN ...']

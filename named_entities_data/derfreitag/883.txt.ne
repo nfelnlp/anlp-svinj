@@ -1,1 +1,0 @@
-['Auf dem', 'und', 'Vergleich', 'Dorf', 'der', 'sehen', 'rechtfertigen', '.']

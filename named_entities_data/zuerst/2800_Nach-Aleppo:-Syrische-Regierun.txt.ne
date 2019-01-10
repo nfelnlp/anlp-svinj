@@ -1,1 +1,0 @@
-['Damaskus/Moskau', 'In', 'sich', 'dem', 'werden', 'die', 'im Nordwesten', 'verstärkt', 'Dschisr', 'geflogen', '. Anwohner', 'russische und syrische', 'angegriffen', 'Assal rund', 'Hreitan', 'Andan', 'Atareb', 'der', 'darüber', '.', 'der', 'den', 'hat wiederholt', ',']

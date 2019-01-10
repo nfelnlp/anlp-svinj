@@ -1,1 +1,0 @@
-['Getty', 'Was', 'Also']

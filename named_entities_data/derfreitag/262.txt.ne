@@ -1,1 +1,0 @@
-['Andersen/AFP/Getty', 'Ich', 'Susanne', 'Finn', 'ich', 'Malik', 'Oder', '(', ')', ', in', 'Kita-', 'einziges', 'die', ':', 'mein', 'Erfolgsgedächtnis', 'Problem', ',', 'man das so', 'fängt', 'wie', 'jetzt', 'Sie', 'leere', 'Immer wieder', 'für', 'Schnurrbart', 'Frisur fläzt', 'Özlem', 'mal', 'weil', '.', 'fest', 'ich weiß', 'auch']

@@ -1,1 +1,0 @@
-['Berlin', 'nach', 'gekommen', 'für Migration', 'und', 'gelandet', 'müßten', 'ihre', '„Flüchtlinge “', 'rück-', 'nach denen', 'im', 'Asylverfahren', 'es', 'zurückzuschicken', 'noch', 'Griechenland', 'ähnlich', 'deutschen', 'nur', 'Nach']

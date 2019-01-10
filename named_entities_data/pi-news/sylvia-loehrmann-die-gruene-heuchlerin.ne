@@ -1,1 +1,0 @@
-['Sylvia Löhrmann', 'mit', 'der', 'Auftritt', 'CDU-Politiker', 'zwei', 'sehen sind .', ', stehen', 'des', 'fahren', 'umsteigen ins', 'mit', 'Das hört', '!', 'die', 'nicht', 'deutsche', 'es', 'VW', 'GTE', 'sie', 'Angeblich', 'es', '„Dienstwagenvorschrift', 'geben', 'hätte', 'zu hören', ',']

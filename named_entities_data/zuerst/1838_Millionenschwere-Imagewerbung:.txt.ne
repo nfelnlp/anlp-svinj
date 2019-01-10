@@ -1,1 +1,0 @@
-['New', 'New York', ',', 'und', 'Soros in', 'ins', 'Regierung', 'Tatsächlich', 'inzwischen', 'zahlreiche', ', die die', 'eines', 'Kopenhagen', 'Das', 'führt', 'wesentliche', 'der', 'auf', '„Einfluß', 'verschiedenen', 'der', 'Gemeinschaft']

@@ -1,1 +1,0 @@
-['Marc Jongen', 'Karlsruhe', ',', 'der einzige', 'ungeachtet', 'an', 'der', 'auf', ',', 'wollten', ')', 'Menschen', 'ohnehin', 'unbefristete', 'mit ,', 'mal ,', ',', 'helfen', 'Als', 'fragwόrdiger', 'So ist', 'unter dem']

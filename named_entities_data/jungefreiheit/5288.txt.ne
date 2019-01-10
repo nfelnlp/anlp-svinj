@@ -1,1 +1,0 @@
-['Caspar', 'Schrenck-Notzings', 'dem', 'die', ', daß', 'zu diesem', 'Auseinandersetzungen', '-Politik', 'Zeit', ',', 'vereinfacht', ':', 'durch', 'Mächten', 'des feuilletonistischen', 'Kooperation', 'Angelegenheit', ')', 'entwickelten', 'zunehmendes', ', 350']

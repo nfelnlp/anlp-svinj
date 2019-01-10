@@ -1,1 +1,0 @@
-['Gesellschaft', '„ausländisch', 'am', 'Jahre', 'Täter', 'jungen', 'ähnliches', 'Reisenden', 'der', 'werden', ', ein', 'mit', 'tw )']

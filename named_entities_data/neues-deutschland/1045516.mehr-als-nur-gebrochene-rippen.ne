@@ -1,1 +1,0 @@
-['Juliane Dickel', 'Frank Woltemate', 'Grünen', 'Emmerthal', 'war', 'stelle', ', der']

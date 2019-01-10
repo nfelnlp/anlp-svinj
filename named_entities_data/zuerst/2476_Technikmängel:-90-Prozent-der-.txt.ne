@@ -1,1 +1,0 @@
-['Gesellschaft 7 Berlin', 'Beratungsfirma', 'Beratungsfirma McKinsey', 'damit', 'Problem', 'Cordt', 'neue BAMF-Chefin', 'Gerd', 'einem Interview von', 'in', 'durch']

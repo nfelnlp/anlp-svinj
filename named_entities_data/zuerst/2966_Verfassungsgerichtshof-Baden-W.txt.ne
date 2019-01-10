@@ -1,1 +1,0 @@
-['Stuttgart', 'Alternative', 'Deutschland', 'Baden-Württemberg hat das', '. „Der Landtag soll', 'und', 'an', 'Nominierung', 'vorbei', 'je', 'AfD', 'Reiter', 'auf', 'frühere', 'und jetzige', 'die', 'den', 'aus dem', 'sp']

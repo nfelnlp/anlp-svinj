@@ -1,1 +1,0 @@
-['Angela Merkel', 'Justiz', 'Gerard Braunthal', 'Universität von Massachusetts', 'die', 'Dabei', 'die', ',', ',', 'wesentlichen', 'die', 'Ostpolitik', ')', ',', 'Urteil', ',', 'im', 'Bühne', 'Gegner', 'über', 'daß rechtsstaatliche', 'garantierten', '.', 'daß', 'Mai oder lange', ', daß ihm', 'einer', 'in die', '. Der', 'für', 'rechtswidrig', 'jene']

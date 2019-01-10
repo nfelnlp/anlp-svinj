@@ -1,1 +1,0 @@
-['Einflüsterer', 'LobbyControl', 'Ulrich Müller', 'Berlin', 'Hanschke', 'LobbyControl', ',', 'EU', 'dem', 'der', 'europäischen', 'Einfluss', 'oder', 'und kleinteiliger', 'die', 'Verantwortung', '.', 'dazu', 'Beteiligungsmöglichkeiten', 'Einflussnahme aus dem', 'schwindet', 'oder', 'Finanzielle']

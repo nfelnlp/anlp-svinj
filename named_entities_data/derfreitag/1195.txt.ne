@@ -1,1 +1,0 @@
-['dubiosen', 'auch', 'hat', 'mal', 'sind', 'Quindeau -', 'Tochter', 'Begleiterin mit', 'Vaschem-Gedenkstätte', 'aus', 'Zaunpfahl winken ,', '. @']

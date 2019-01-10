@@ -1,1 +1,0 @@
-['Verstoß gegen', 'einer zeitgemäßen', 'stellt', 'in seinem', 'jener lapidar', 'CSU', 'Bereich', 'politischen', 'Gesellschaft darstelle', 'von', 'an', 'deren', 'die', 'sei', 'immer', 'private', '.', 'Zukunft', 'fundamentale']

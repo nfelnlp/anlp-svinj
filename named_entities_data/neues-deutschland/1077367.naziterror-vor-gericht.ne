@@ -1,1 +1,0 @@
-['Berlin', 'Freital', 'Kristin Pietrzyk', 'Freital', 'Linkspartei', 'Bundesanwaltschaft']

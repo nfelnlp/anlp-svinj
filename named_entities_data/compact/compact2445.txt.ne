@@ -1,1 +1,0 @@
-['COMPACT', 'Arne Fischer', 'Deutschland', 'Türken', 'Deutschland', 'Türkei', 'Deutschland', 'Ostens', 'Jonas Rogowski', 'CC', ']', 'Es', 'Bindeglied', 'integralen', 'noch', 'sind', 'Gesellschaft', 'wichtig', 'leben', 'Ausländern', ',', 'wehren', 'ist', ',', 'gering', 'Sympathien', 'der', 'seinen', 'Döner']

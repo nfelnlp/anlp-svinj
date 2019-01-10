@@ -1,1 +1,0 @@
-[') vorgesehene', 'persönlicher', 'für', 'Arbeitslosenquote', 'durch', 'Versicherte sei', '1998', 'Allein', 'Ersatzkassen-Verwaltungskosten', 'sind', 'medizinischen', 'heute', 'Ansatzes', 'Das Ergebnis des', 'einer', '. Ausgerechnet', 'eine ausgeprägte', 'Folgejahr', '.', ',']

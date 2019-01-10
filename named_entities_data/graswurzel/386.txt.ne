@@ -1,1 +1,0 @@
-['Kurt Eisner', 'Gustav Landauer', 'Bayern', 'Landauer', 'Reichswehr', 'Gustav Landauer', 'Freien Arbeiter-Union aber auch', 'Geldsammlung', 'einen', 'die', 'dabei', 'stellte', 'auch', '. Mal', 'Nazizeit', 'Waldfriedhof errichtet']

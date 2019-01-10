@@ -1,1 +1,0 @@
-['London', 'MI5', 'Großbritannien', 'Andrew', 'in London', 'Anschläge', 'innerhalb', 'Tage', 'Ermittlungen', 'die', 'Auch', 'Bedrohung', 'Geschlecht', 'des', 'der', '(']

@@ -1,1 +1,0 @@
-['lese', 'Trennkost habe ich', ',', 'nix', 'was', 'zusammen', 'dass', 'da ich', 'Medien', 'Auto', 'mehr', 'erwischt', 'zu', '.', 'Lebens', 'fragte mich', 'entdecken', '. Kann', '.', 'die', 'morgens', 'hatte', 'Teilen']

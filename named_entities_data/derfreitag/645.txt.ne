@@ -1,1 +1,0 @@
-['Laurent Fievet/', 'Akademie der Wissenschaften in', 'hat', 'Robert Shiller', 'Lars Peter', 'für genau diese', 'anschließenden', 'Wissenschaften begründete ihre Entscheidung', 'sind Finanzmärkte weitgehend', 'an', 'hingegen beschreibt', 'ist der Statistiker', 'Professor für', 'Er hält', 'ausgewogene', 'mit', 'nicht', 'nicht erwähnt wird', 'die ökonomische', '. Mit dem']

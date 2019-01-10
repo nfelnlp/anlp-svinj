@@ -1,1 +1,0 @@
-['Nidda', 'Gießen', 'Deutschland', 'Nidda', ':', ', Fleischereien', 'Fehldispositionen', 'TAFEL', 'zugeordnet', 'bis', 'exklusiven', 'nicht', '.', 'Die', 'dürfte', 'beleidigt und', 'Äpfel', 'habe', 'letztlich auf', 'Hier', 'der', 'einstellen']

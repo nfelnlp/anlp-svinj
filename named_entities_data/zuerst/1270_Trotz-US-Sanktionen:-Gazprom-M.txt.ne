@@ -1,1 +1,0 @@
-['Gesellschaft', 'Monica/Beverly', '. Der', 'auf', 'ausgerechnet den amerikanischen', 'hat', 'Storyworld', 'in', 'in Beverly', 'sollen Unterhaltungssendungen', '38 Fernsehsender', 'Radiostationen', '. Als', 'TV-Produktionen', 'wurde', 'als', 'In', 'die', 'Ausland verkaufen', 'kommt', '. Vor', 'amerikanischen']

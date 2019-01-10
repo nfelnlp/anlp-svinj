@@ -1,1 +1,0 @@
-['Moskau', 'Rußland', 'NATO-Kreise', 'Andrej', ', verantwortlich', '“ zitiert', '„Einiges', 'und', 'des', 'Worten : „Es war', 'auf das', '.', 'ebenso', 'und', 'Anschlag', 'Mail “ zitiert ihn mit', 'Anschlag', '.']

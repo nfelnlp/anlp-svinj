@@ -1,1 +1,0 @@
-['Im', 'beschaulichen', 'sich zur Zeit', 'direkt', 'sind über', 'Asylbetrüger', 'dort', 'mehr', 'machtlos', 'heiße', '.', 'berichtet in', 'massives', ',', 'nicht zurückführen', 'zurückgeführt.', '.', '.', 'die bekommt', 'klassischen Zuständigkeiten.', 'hinterfragen .', 'hinterfragen . Bleibt']

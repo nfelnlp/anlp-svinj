@@ -1,1 +1,0 @@
-['Wien', 'österreichischen', 'Wien', 'Drozda', 'angeblich „historisch', '„Platz', ',', '„Presse', 'aber', ': „Da', 'das Bundesdenkmalamt', 'Republik ”', 'der Zeithistoriker Oliver', 'für', 'Heldenplatz heißt', 'der Öffentlichkeit', '9.400']

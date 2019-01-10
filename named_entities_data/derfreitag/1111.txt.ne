@@ -1,1 +1,0 @@
-['AFP', 'Getty', 'Indischen Volkspartei', 'Indischen Volkspartei BJP', 'erkaufte', 'dort', 'auf', '.', 'ist', 'dass', 'alle', 'Anhänger ,', 'diese', 'in', 'drohte', 'hat', 'dem']

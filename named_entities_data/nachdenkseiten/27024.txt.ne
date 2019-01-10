@@ -1,1 +1,0 @@
-['„Euro versus Drachme', 'Im', 'innerhalt', 'neue', '(', 'insbesondere was', 'in Klammern', '( von', 'über', 'durch', 'und', 'eröffnet', 'auf', 'kann', 'Mittwoch', 'Im', 'erfolglose', 'er', 'haben', 'betreffend', 'Juli', 'gekürzte Text', 'Regierung', 'die', 'ökonomischen', 'neuen', ',', 'multilaterale', 'Aussagen']

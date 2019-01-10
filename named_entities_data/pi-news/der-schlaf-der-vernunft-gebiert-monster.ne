@@ -1,1 +1,0 @@
-['CANTALOOP', 'interpretiert', 'List', 'angefeindet', 'offen', 'und Einfältigkeit', 'denn', 'Erfolg', 'Zeigefinger', 'Joko', '“', 'profitieren deutlich', '„geistiger', 'das', 'ist', 'durch richtige', 'und dritten Flasche Cognac', 'daraufhin', 'eigene', 'wie', 'Geister und', ',', ',']

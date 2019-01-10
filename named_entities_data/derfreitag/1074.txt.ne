@@ -1,1 +1,0 @@
-[', 1978', 'hat', 'gestorben .', 'meinem Leben', 'Mal mehr', '“', 'zu tun', 'Kariere', 'am', ',', 'Anfang', 'Vielfalt und']

@@ -1,1 +1,0 @@
-['Stefano', ', der', 'Internationale', 'für', 'heutige', 'Intelligenz', 'in', ', war', 'Keimwurzel', 'Viola', 'gesagt :', 'Gelegenheiten', 'wie', 'Spiel', 'Schlüssel', 'aus', 'zu']

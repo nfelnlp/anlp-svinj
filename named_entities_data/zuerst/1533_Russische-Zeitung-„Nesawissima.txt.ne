@@ -1,1 +1,0 @@
-['Damaskus/Moskau', 'Im', 'es', 'des', 'Angriffe', 'regierungstreue', 'SDS', 'die', 'von', 'dem', 'habe', 'Positionen auf', '.', 'verbündete', ',', 'beobachten', 'jüngste', 'erörtern', ',', 'pessimistisches', 'der', 'praktischen', 'Regierungskräfte', 'Rücksicht', 'sie', 'zu']

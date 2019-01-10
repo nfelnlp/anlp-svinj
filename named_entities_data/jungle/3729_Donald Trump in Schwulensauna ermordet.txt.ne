@@ -1,1 +1,0 @@
-['Donald Trump', 'Schwulensauna', 'Truth', 'ihrer Regierungserklärung', 'Mini-Erzählungen', 'der auf eine', 'eine', 'zu', 'Erzeugung', 'ja auf', 'ja', 'hier wird deutlich , dass das', 'ist ,', 'Gänze', ',', ',', 'Basis', '.', 'der', '«', 'allgemeinen', 'ja']

@@ -1,1 +1,0 @@
-['Vielleicht liegt', 'falsche', 'in', 'im', 'riet', 'nicht', 'das', 'mit der Interpersonalen Distanz', 'gleich', 'geschlechtliche', 'Berührungen', 'Leitkultur', 'Fahrstil', 'anderen', 'Großteil', 'Teil', 'gelassen', ',', 'envolved', ')', ',', 'als']

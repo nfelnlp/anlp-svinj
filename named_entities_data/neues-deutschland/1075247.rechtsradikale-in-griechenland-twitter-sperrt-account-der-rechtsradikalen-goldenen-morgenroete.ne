@@ -1,1 +1,0 @@
-['.', '. Der', 'mit', 'mit seiner', '(', '( Goldene', '.', 'es', 'ist mit', 'griechischen', 'nach', 'nach der', 'gegen', 'im', 'nach', 'vorübergehend', 'nachdem', 'hatte', 'Auch ein »', 'messerstechende Migrantenmobs', 'Kraft', 'kann', 'gegen', 'vorgegangen', '» Britain', 'gegen']

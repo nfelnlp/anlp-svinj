@@ -1,1 +1,0 @@
-['.', '. Hochwasser', 'nach', 'Pegel', 'St.', '120 Menschen mussten', 'Hochwassers', 'am', 'Maxau', 'nordrhein-westfälischen', 'trieben', 'Behörden am Freitag ihre']

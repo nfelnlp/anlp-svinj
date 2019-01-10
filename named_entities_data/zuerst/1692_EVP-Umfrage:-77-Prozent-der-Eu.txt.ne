@@ -1,1 +1,0 @@
-['Gesellschaft 1', 'Gesellschaft 1 Brüssel', 'EU-Ländern', 'EU', 'Demnach', 'Klarstellung', 'beitreten', 'geht', ') ,', 'Dachverband', ',', 'gegebenen', 'wurden', 'Italien', 'den', ',', ',', 'Schweden', 'Spanien', 'Gefragt', 'unter', 'danach', 'wird', 'der', 'die', 'EVP-Fraktion', 'das', 'der', 'mit', 'Worten', '„Die Europäer', 'so´']

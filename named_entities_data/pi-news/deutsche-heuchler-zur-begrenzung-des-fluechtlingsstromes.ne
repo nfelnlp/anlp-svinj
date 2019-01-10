@@ -1,1 +1,0 @@
-['Deutschland', 'Grünen', 'Lynchjustiz', ', 19.9.2015 im', 'nicht', 'im neuen', 'aus', 'Eine menschenfeindliche', 'Handeln', 'Eine direkte', 'Grenze', 'im September', 'im September aus', '–', '„Griechenland', '„Griechenland muss', 'werden', 'wir', '.', 'Palmer', 'helfen “', 'auch ich', 'Die', 'der Menschen', 'Sehnsuchtsort', 'mal', 'der', 'sich', 'als', 'wie']

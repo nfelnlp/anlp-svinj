@@ -1,1 +1,0 @@
-['türkischem', '( SPD', 'veröffentlicht', 'Migration', 'Grüne', ',', '.', 'interpretiert', 'damit', 'der', 'der', ',', 'wie', 'der', 'verbindliche', 'bräuchte', 'etabliert', "''", '. Das', 'regierungsamtlichen', 'nach', ',', 'von', 'Millionen', 'sind', 'hier', 'der']

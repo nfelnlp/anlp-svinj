@@ -1,1 +1,0 @@
-['Getty', 'Am', 'Freitag', 'Berlin', 'wurden', 'Motto', 'es satt', 'der', 'auf', 'pro Woche .', 'Anerkennung', 'Prozent', 'von', 'Wenn', 'entstehen', 'ist', 'um', 'für', '.', 'Entwicklung']

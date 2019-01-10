@@ -1,1 +1,0 @@
-['Gütersloh', 'EU-Propaganda', 'einen', 'als 10.000 Bürgern', 'Prozent', 'und', 'absoluter', 'die', 'der', 'Geus', 'lehnten', 'Art der politischen', 'mehr', '64', 'der Studie', 'über', '.', 'EU-Integration', 'der', 'Linken', 'nur', 'Integration . Auch', 'mü']

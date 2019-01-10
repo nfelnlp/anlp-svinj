@@ -1,1 +1,0 @@
-['anschlussfähig', 'Neurath', 'Barfußlaufen', 'Rheinland', 'in', 'Lausitz mit', '500 Menschen', 'schon', '»', '«', 'Stück', 'An', 'Deutschland', 'Osten', 'produzierten', 'exportiert', 'ins', 'Stromhandelsbilanz', 'Kosten', ',', 'Welt', 'Zum', 'sich', 'zu einem', 'Weltmeister', '»', 'Gelände', 'vom', 'einer', 'die vom', '29', '. Am']

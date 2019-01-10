@@ -1,1 +1,0 @@
-['Philipp Albrecht', 'der', '“', 'zu', 'der Daten', '.', 'Europäischen', 'Philipp', 'in', 'Die aktuelle', 'Freitag erhalten Sie', 'Schaffung eines möglichst', 'und', 'buchstäblich', 'produziert', 'fühle', 'indem', 'andere', 'in Ausschüssen', '. Im', 'die', ',', 'Europäischem', 'Verarbeitung', 'Die Institutionen', 'gar nicht', 'vielen Sitzungen']

@@ -1,1 +1,0 @@
-['LUPO', 'Freiburg', 'Kandel', 'Flüchtlingsrat', ',', 'wissenschaftlich', 'in Deutschland', '.', 'sich', 'Flüchtlingsrat', 'damit', 'Beginn an', 'und', 'Taschengeld , freier Kost und', 'der', 'zwischen 26 und 33', 'Mord', 'die sich nach', 'von', 'Erwachsenen', '.', 'Stressfaktoren', 'für', 'Hildesheimer', 'in']

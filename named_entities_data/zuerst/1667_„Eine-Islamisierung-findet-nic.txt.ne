@@ -1,1 +1,0 @@
-['Gesellschaft 8 Berlin', 'einstellen', 'polizeilichen', 'des']

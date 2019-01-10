@@ -1,1 +1,0 @@
-['Moskau', 'russische', 'Lawrow', 'USA', 'Trump-Regierung auf', '„Die', 'Äußerungen', '2017', 'Die', 'hätten', 'beim', 'für', 'Verhandlungen', '.', 'Woche ein Ultimatum', 'die', 'verhängen', 'Änderung', ',', 'Vereinbarung', 'zufolge', 'Weiße']

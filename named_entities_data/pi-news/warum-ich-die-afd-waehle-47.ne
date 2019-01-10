@@ -1,1 +1,0 @@
-['U.F', 'habe', 'du', '.', 'Parteien', '.', 'sagt :', 'mehr', 'Parlament', 'anderen', 'sind', 'übersieht', 'mir']
